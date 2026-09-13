@@ -10,9 +10,15 @@
 
 ### Caves of Qud
 
-**Platforms:** Windows, macOS, Linux &nbsp;|&nbsp; **Developer:** Freehold Games &nbsp;|&nbsp; **Publisher:** Kitfox Games &nbsp;|&nbsp; **Released:** December 5, 2024
+<img src="../images/steam-333640.jpg" alt="Caves of Qud cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/Caves_of_Qud)
+**Platforms:** Windows, macOS, Linux &nbsp;|&nbsp; **Developer:** Freehold Games &nbsp;|&nbsp; **Publisher:** Kitfox Games &nbsp;|&nbsp; **Genre:** Adventure, Indie, RPG, Strategy &nbsp;|&nbsp; **Released:** December 5, 2024
+
+> Inhabit a deeply-simulated science fantasy world and chisel through layers of thousand-year-old civilizations. Build a character from over a hundred mutations and cybernetics. The award-winning sandbox roguelike &amp; RPG full of robots, deep lore, and sentient plants.
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Caves_of_Qud) · [Steam](https://store.steampowered.com/app/333640)
 
 ---
 
@@ -38,9 +44,15 @@
 
 ### Videoverse
 
-**Platforms:** Linux, macOS, Windows &nbsp;|&nbsp; **Developer:** Kinmoku &nbsp;|&nbsp; **Publisher:** Kinmoku &nbsp;|&nbsp; **Released:** August 7, 2023
+<img src="../images/steam-2079180.jpg" alt="Videoverse cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/Videoverse)
+**Platforms:** Linux, macOS, Windows &nbsp;|&nbsp; **Developer:** Kinmoku &nbsp;|&nbsp; **Publisher:** Kinmoku &nbsp;|&nbsp; **Genre:** Adventure, Casual, Indie, Simulation &nbsp;|&nbsp; **Released:** August 7, 2023
+
+> Relive the days of the early internet and dive into this fictional video game era, where the 'Kinmoku Shark’ gaming system and its online social network 'Videoverse' were still popular…
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Videoverse) · [Steam](https://store.steampowered.com/app/2079180)
 
 ---
 
@@ -50,15 +62,29 @@
 
 ### Crusader Kings III
 
-**Platforms:** Windows, Linux &nbsp;|&nbsp; **Developer:** Paradox Development Studio &nbsp;|&nbsp; **Publisher:** Paradox Interactive &nbsp;|&nbsp; **Released:** September 1, 2020
+<img src="../images/steam-1158310.jpg" alt="Crusader Kings III cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/Crusader_Kings_III)
+**Platforms:** Windows, Linux &nbsp;|&nbsp; **Developer:** Paradox Development Studio &nbsp;|&nbsp; **Publisher:** Paradox Interactive &nbsp;|&nbsp; **Genre:** RPG, Simulation, Strategy &nbsp;|&nbsp; **Released:** September 1, 2020
+
+> Love, fight, scheme, and claim greatness. Determine your noble house’s legacy in the sprawling grand strategy of Crusader Kings III. Death is only the beginning as you guide your dynasty’s bloodline in the rich and larger-than-life simulation of the Middle Ages.
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Crusader_Kings_III) · [Steam](https://store.steampowered.com/app/1158310)
 
 ---
 
 ### Half-Life: Alyx
 
-**Platforms:** Windows, Linux &nbsp;|&nbsp; **Developer:** Valve &nbsp;|&nbsp; **Publisher:** Valve &nbsp;|&nbsp; **Released:** March 23, 2020
+<img src="../images/steam-546560.jpg" alt="Half-Life: Alyx cover" width="200">
+
+**Platforms:** Windows, Linux &nbsp;|&nbsp; **Developer:** Valve &nbsp;|&nbsp; **Publisher:** Valve &nbsp;|&nbsp; **Genre:** Action, Adventure &nbsp;|&nbsp; **Released:** March 23, 2020
+
+> Half-Life: Alyx is Valve’s VR return to the Half-Life series. It’s the story of an impossible fight against a vicious alien race known as the Combine, set between the events of Half-Life and Half-Life 2. Playing as Alyx Vance, you are humanity’s only chance for survival.
+>
+> _Synopsis source: Steam_
+
+[Steam](https://store.steampowered.com/app/546560)
 
 ---
 
@@ -68,9 +94,15 @@
 
 ### Achron
 
-**Platforms:** Windows, macOS, Linux &nbsp;|&nbsp; **Released:** August 29
+<img src="../images/steam-109700.jpg" alt="Achron cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/Achron)
+**Platforms:** Windows, macOS, Linux &nbsp;|&nbsp; **Genre:** Indie, Strategy &nbsp;|&nbsp; **Released:** August 29
+
+> As one of the survivors and humankind's first “Achronal” being, you must piece together what happened and unravel the mysteries surrounding the alien invasion.
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Achron) · [Steam](https://store.steampowered.com/app/109700)
 
 ---
 
@@ -88,13 +120,29 @@
 
 ### Amnesia: The Dark Descent
 
-**Platforms:** Windows, macOS, Linux &nbsp;|&nbsp; **Released:** September 8
+<img src="../images/steam-57300.jpg" alt="Amnesia: The Dark Descent cover" width="200">
+
+**Platforms:** Windows, macOS, Linux &nbsp;|&nbsp; **Genre:** Action, Adventure, Indie &nbsp;|&nbsp; **Released:** September 8
+
+> Amnesia: The Dark Descent, a first person survival horror. A game about immersion, discovery and living through a nightmare. An experience that will chill you to the core.
+>
+> _Synopsis source: Steam_
+
+[Steam](https://store.steampowered.com/app/57300)
 
 ---
 
 ### Eschalon: Book II
 
-**Platforms:** Windows, macOS, Linux &nbsp;|&nbsp; **Released:** May 12
+<img src="../images/steam-25620.jpg" alt="Eschalon: Book II cover" width="200">
+
+**Platforms:** Windows, macOS, Linux &nbsp;|&nbsp; **Genre:** Indie, RPG &nbsp;|&nbsp; **Released:** May 12
+
+> Return to the world of Eschalon in the sequel to 2007's award-winning RPG. The blight of war now threatens all of Eschalon and the only hope for peace lies in the secret of your past. Don't miss this second chapter in the epic Eschalon trilogy given &quot;5 Stars&quot; by RPGWatch and called &quot;immensely appealing&quot; by The...
+>
+> _Synopsis source: Steam_
+
+[Steam](https://store.steampowered.com/app/25620)
 
 ---
 
@@ -120,9 +168,15 @@
 
 ### Machinarium
 
-**Platforms:** Windows, macOS, Linux &nbsp;|&nbsp; **Released:** October 16
+<img src="../images/steam-40700.jpg" alt="Machinarium cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/Machinarium)
+**Platforms:** Windows, macOS, Linux &nbsp;|&nbsp; **Genre:** Adventure, Indie &nbsp;|&nbsp; **Released:** October 16
+
+> Machinarium is the award-winning independent adventure game developed by the makers of Samorost series, Botanicula and CHUCHEL. Help Josef the robot save his girlfriend Berta kidnapped by the Black Cap Brotherhood gang!
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Machinarium) · [Steam](https://store.steampowered.com/app/40700)
 
 ---
 
@@ -144,7 +198,15 @@
 
 ### The Polynomial: Space of the Music
 
-**Platforms:** Windows, macOS, Linux &nbsp;|&nbsp; **Released:** May 28
+<img src="../images/steam-67000.jpg" alt="The Polynomial: Space of the Music cover" width="200">
+
+**Platforms:** Windows, macOS, Linux &nbsp;|&nbsp; **Genre:** Action, Casual, Indie &nbsp;|&nbsp; **Released:** May 28
+
+> Experience the music in a new way. Feel it pulse around you. The Polynomial is a 3D space shooter with unique, fractal based scenery that animates to the music.
+>
+> _Synopsis source: Steam_
+
+[Steam](https://store.steampowered.com/app/67000)
 
 ---
 
@@ -174,7 +236,15 @@
 
 ### Penumbra: Black Plague
 
-**Platforms:** Linux, Windows &nbsp;|&nbsp; **Released:** February 12
+<img src="../images/steam-22120.jpg" alt="Penumbra: Black Plague cover" width="200">
+
+**Platforms:** Linux, Windows &nbsp;|&nbsp; **Genre:** Action, Adventure, Indie &nbsp;|&nbsp; **Released:** February 12
+
+> Surrounded by enemies and assaulted by terror from all sides, Philip must collect clues and solve vexing puzzles while combating the gnawing psychological terrors that assail his mind and threaten to strip him of his sanity.
+>
+> _Synopsis source: Steam_
+
+[Steam](https://store.steampowered.com/app/22120)
 
 ---
 
@@ -218,7 +288,15 @@
 
 ### Penumbra: Overture
 
-**Platforms:** Windows, Linux &nbsp;|&nbsp; **Released:** March 30
+<img src="../images/steam-22180.jpg" alt="Penumbra: Overture cover" width="200">
+
+**Platforms:** Windows, Linux &nbsp;|&nbsp; **Genre:** Action, Adventure, Indie &nbsp;|&nbsp; **Released:** March 30
+
+> Penumbra: Overture is a first person survival horror game, emphasizing on survival and problem solving instead of mindless violence and gore.
+>
+> _Synopsis source: Steam_
+
+[Steam](https://store.steampowered.com/app/22180)
 
 ---
 
@@ -302,17 +380,29 @@
 
 ### Heroes of Might and Magic III
 
-**Platforms:** Windows, macOS, Linux &nbsp;|&nbsp; **Released:** March 3
+<img src="../images/steam-4921760.jpg" alt="Heroes of Might and Magic III cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/Heroes_of_Might_and_Magic_III)
+**Platforms:** Windows, macOS, Linux &nbsp;|&nbsp; **Genre:** Strategy &nbsp;|&nbsp; **Released:** March 3
+
+> This is the original version of the game from 1999. The pack includes the original Heroes of Might and Magic III and its two expansions: Armageddon's Blade and The Shadow of Death.
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Heroes_of_Might_and_Magic_III) · [Steam](https://store.steampowered.com/app/4921760)
 
 ---
 
 ### Quake III Arena
 
-**Platforms:** Windows, Linux, Dreamcast &nbsp;|&nbsp; **Released:** December 2
+<img src="../images/steam-2200.jpg" alt="Quake III Arena cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/Quake_III_Arena)
+**Platforms:** Windows, Linux, Dreamcast &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** December 2
+
+> The greatest warriors of all time and space have been summoned to battle for the amusement of an ancient alien race. Wield a variety of guns and power-ups as you fight for glory against ruthless combatants in this fast-paced single-player and multiplayer FPS.
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Quake_III_Arena) · [Steam](https://store.steampowered.com/app/2200)
 
 ---
 

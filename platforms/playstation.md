@@ -822,9 +822,15 @@
 
 ### Re-Volt
 
-**Platforms:** Windows, Dreamcast, Nintendo 64, PlayStation &nbsp;|&nbsp; **Released:** August 18
+<img src="../images/steam-287310.jpg" alt="Re-Volt cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/Re-Volt)
+**Platforms:** Windows, Dreamcast, Nintendo 64, PlayStation &nbsp;|&nbsp; **Genre:** Racing &nbsp;|&nbsp; **Released:** August 18
+
+> Re-Volt lets you guide one of 28 remote control cars through insane race tracks set in unusual environments. Curbs become huge walls, toys are obstacles, and everything is fair game to drive on, through, or over.
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Re-Volt) · [Steam](https://store.steampowered.com/app/287310)
 
 ---
 
@@ -1102,6 +1108,8 @@
 
 ### Croc: Legend of the Gobbos
 
+<img src="../images/steam-3043940.jpg" alt="Croc: Legend of the Gobbos cover" width="200">
+
 **Platforms:** Windows, MS-DOS, PlayStation, Sega Saturn &nbsp;|&nbsp; **Genre:** Action, Adventure &nbsp;|&nbsp; **Released:** September 29
 
 > Join Croc in a charming 3D platforming adventure to rescue the kidnapped Gobbos from the evil sorcerer Baron Dante and his impish Dantini minions! Run, jump, climb, swim, and tail-spin through vibrant worlds in this lovingly remastered and updated version of the beloved 1997 classic.
@@ -1160,13 +1168,9 @@
 
 ### Grand Theft Auto
 
-**Platforms:** Windows, MS-DOS, PlayStation &nbsp;|&nbsp; **Genre:** Action, Adventure, Racing &nbsp;|&nbsp; **Released:** November 27
+**Platforms:** Windows, MS-DOS, PlayStation &nbsp;|&nbsp; **Released:** November 27
 
-> Experience entertainment blockbusters Grand Theft Auto V and Grand Theft Auto Online — now upgraded for a new generation with stunning visuals, faster loading, 3D audio, and more, plus exclusive content for GTA Online players.
->
-> _Synopsis source: Steam_
-
-[Wikipedia](https://en.wikipedia.org/wiki/Grand_Theft_Auto_(video_game)) · [Steam](https://store.steampowered.com/app/3240220)
+[Wikipedia](https://en.wikipedia.org/wiki/Grand_Theft_Auto_(video_game))
 
 ---
 
@@ -1180,13 +1184,9 @@
 
 ### Independence Day
 
-**Platforms:** Windows, MS-DOS, PlayStation, Sega Saturn &nbsp;|&nbsp; **Genre:** Casual &nbsp;|&nbsp; **Released:** February 28
+**Platforms:** Windows, MS-DOS, PlayStation, Sega Saturn &nbsp;|&nbsp; **Released:** February 28
 
-> Dive into the enchanting world of &quot;Secret Cats - Independence Day&quot; a hidden object game where your mission is to uncover every cat hidden within stunning hand-painted artwork. Let your keen eye and curiosity guide you through this captivating journey.
->
-> _Synopsis source: Steam_
-
-[Wikipedia](https://en.wikipedia.org/wiki/Independence_Day_(video_game)) · [Steam](https://store.steampowered.com/app/4821350)
+[Wikipedia](https://en.wikipedia.org/wiki/Independence_Day_(video_game))
 
 ---
 
@@ -1246,6 +1246,8 @@
 
 ### Oddworld: Abe's Oddysee
 
+<img src="../images/steam-15700.jpg" alt="Oddworld: Abe's Oddysee cover" width="200">
+
 **Platforms:** PlayStation, Windows, MS-DOS &nbsp;|&nbsp; **Publisher:** GT Interactive &nbsp;|&nbsp; **Genre:** Adventure &nbsp;|&nbsp; **Released:** September 18, 1997
 
 > Selected by the fickle finger of fate, Abe™, floor-waxer first class for RuptureFarms, was catapulted into a life of adventure when he overheard plans by his boss, Molluck the Glukkon™, to turn Abe and his fellow Mudokons into Tasty Treats as part of a last-ditch effort to rescue Molluck's failing meat-packing empire.
@@ -1274,6 +1276,8 @@
 
 ### Quake II
 
+<img src="../images/steam-2320.jpg" alt="Quake II cover" width="200">
+
 **Platforms:** Windows, MS-DOS, PlayStation &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** December 6
 
 > You are humanity’s last hope to stop the Strogg, a hostile alien race waging war against Earth. Play this military sci-fi FPS, now upgraded for modern platforms with improved visuals, new campaign content, online multiplayer/co-op, and more.
@@ -1285,6 +1289,8 @@
 ---
 
 ### Riven
+
+<img src="../images/steam-1712350.jpg" alt="Riven cover" width="200">
 
 **Platforms:** Windows, MS-DOS, Sega Saturn, PlayStation &nbsp;|&nbsp; **Genre:** Adventure, Casual, Indie &nbsp;|&nbsp; **Released:** October 29
 
@@ -1322,13 +1328,9 @@
 
 ### Tomb Raider II
 
-**Platforms:** Windows, MS-DOS, PlayStation &nbsp;|&nbsp; **Genre:** Action, Adventure &nbsp;|&nbsp; **Released:** November 18
+**Platforms:** Windows, MS-DOS, PlayStation &nbsp;|&nbsp; **Released:** November 18
 
-> The second instalment in the Tomb Raider series invites you to join Lara as she travels around the globe to retrieve a precious artefact before it falls into the wrong hands. The legendary artefact, the Dagger of Xian, is said to give its possessor the power of a fire breathing dragon.
->
-> _Synopsis source: Steam_
-
-[Wikipedia](https://en.wikipedia.org/wiki/Tomb_Raider_II) · [Steam](https://store.steampowered.com/app/225300)
+[Wikipedia](https://en.wikipedia.org/wiki/Tomb_Raider_II)
 
 ---
 

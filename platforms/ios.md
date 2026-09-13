@@ -10,9 +10,15 @@
 
 ### Balatro
 
-**Platforms:** Android, iOS, macOS, Nintendo Switch, PlayStation 4, PlayStation 5, Windows, Xbox One, Xbox Series X/S &nbsp;|&nbsp; **Developer:** LocalThunk &nbsp;|&nbsp; **Publisher:** Playstack &nbsp;|&nbsp; **Released:** February 20, 2024
+<img src="../images/steam-2379780.jpg" alt="Balatro cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/Balatro)
+**Platforms:** Android, iOS, macOS, Nintendo Switch, PlayStation 4, PlayStation 5, Windows, Xbox One, Xbox Series X/S &nbsp;|&nbsp; **Developer:** LocalThunk &nbsp;|&nbsp; **Publisher:** Playstack &nbsp;|&nbsp; **Genre:** Casual, Indie, Strategy &nbsp;|&nbsp; **Released:** February 20, 2024
+
+> The poker roguelike. Balatro is a hypnotically satisfying deckbuilder where you play illegal poker hands, discover game-changing jokers, and trigger adrenaline-pumping, outrageous combos.
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Balatro) · [Steam](https://store.steampowered.com/app/2379780)
 
 ---
 
@@ -30,9 +36,15 @@
 
 ### Resident Evil 4
 
-**Platforms:** iOS, iPadOS, macOS, PlayStation 4, PlayStation 5, Windows, Xbox Series X/S &nbsp;|&nbsp; **Developer:** Capcom &nbsp;|&nbsp; **Publisher:** Capcom &nbsp;|&nbsp; **Released:** March 24, 2023
+<img src="../images/steam-2050650.jpg" alt="Resident Evil 4 cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/Resident_Evil_4_(2023_video_game))
+**Platforms:** iOS, iPadOS, macOS, PlayStation 4, PlayStation 5, Windows, Xbox Series X/S &nbsp;|&nbsp; **Developer:** Capcom &nbsp;|&nbsp; **Publisher:** Capcom &nbsp;|&nbsp; **Genre:** Action, Adventure &nbsp;|&nbsp; **Released:** March 24, 2023
+
+> Survival is just the beginning. Six years have passed since the biological disaster in Raccoon City. Leon S. Kennedy, one of the survivors, tracks the president's kidnapped daughter to a secluded European village, where there is something terribly wrong with the locals.
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Resident_Evil_4_(2023_video_game)) · [Steam](https://store.steampowered.com/app/2050650)
 
 ---
 
@@ -58,7 +70,15 @@
 
 ### Anomaly: Warzone Earth
 
-**Platforms:** Windows, iOS &nbsp;|&nbsp; **Released:** April 8
+<img src="../images/steam-91200.jpg" alt="Anomaly: Warzone Earth cover" width="200">
+
+**Platforms:** Windows, iOS &nbsp;|&nbsp; **Genre:** Action, Indie, Strategy &nbsp;|&nbsp; **Released:** April 8
+
+> Lead an armored squad through the perils of this reversed tower defense action-strategy game!
+>
+> _Synopsis source: Steam_
+
+[Steam](https://store.steampowered.com/app/91200)
 
 ---
 
@@ -308,7 +328,15 @@
 
 ### Lego Harry Potter: Years 5–7
 
-**Platforms:** Windows, Xbox 360, PlayStation 3, PlayStation Portable, Wii, Nintendo DS, Nintendo 3DS, iOS &nbsp;|&nbsp; **Released:** November 11
+<img src="../images/steam-204120.jpg" alt="Lego Harry Potter: Years 5–7 cover" width="200">
+
+**Platforms:** Windows, Xbox 360, PlayStation 3, PlayStation Portable, Wii, Nintendo DS, Nintendo 3DS, iOS &nbsp;|&nbsp; **Genre:** Adventure &nbsp;|&nbsp; **Released:** November 11
+
+> LEGO Harry Potter: Years 5-7 takes players through Harry Potter's heroic adventures in the Muggle and wizarding worlds.
+>
+> _Synopsis source: Steam_
+
+[Steam](https://store.steampowered.com/app/204120)
 
 ---
 
@@ -418,7 +446,15 @@
 
 ### Shift 2: Unleashed
 
-**Platforms:** Windows, PlayStation 3, Xbox 360, iOS &nbsp;|&nbsp; **Released:** March 29
+<img src="../images/steam-47920.jpg" alt="Shift 2: Unleashed cover" width="200">
+
+**Platforms:** Windows, PlayStation 3, Xbox 360, iOS &nbsp;|&nbsp; **Genre:** Racing &nbsp;|&nbsp; **Released:** March 29
+
+> Bring the true driver’s experience to life with all the intensity and exhilaration of being behind the wheel!
+>
+> _Synopsis source: Steam_
+
+[Steam](https://store.steampowered.com/app/47920)
 
 ---
 
@@ -580,9 +616,15 @@
 
 ### Bit.Trip Beat
 
-**Platforms:** iOS, Windows, macOS &nbsp;|&nbsp; **Released:** September 30
+<img src="../images/steam-63700.jpg" alt="Bit.Trip Beat cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/Bit.Trip_Beat)
+**Platforms:** iOS, Windows, macOS &nbsp;|&nbsp; **Genre:** Action, Casual, Indie &nbsp;|&nbsp; **Released:** September 30
+
+> From gameplay to visuals to music and imagination, BIT.TRIP BEAT is inspired by classic games in every way. Get sucked into a whole new world of sight and sound as you juggle beats and ride the vibe in this modern look at the beginning of it all. BIT.
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Bit.Trip_Beat) · [Steam](https://store.steampowered.com/app/63700)
 
 ---
 
@@ -700,9 +742,15 @@
 
 ### Lara Croft and the Guardian of Light
 
-**Platforms:** Xbox 360, PlayStation Network, Windows, iOS &nbsp;|&nbsp; **Released:** August 18
+<img src="../images/steam-35130.jpg" alt="Lara Croft and the Guardian of Light cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/Lara_Croft_and_the_Guardian_of_Light)
+**Platforms:** Xbox 360, PlayStation Network, Windows, iOS &nbsp;|&nbsp; **Genre:** Action, Adventure &nbsp;|&nbsp; **Released:** August 18
+
+> Take control of Lara and her new partner Totec, a Mayan tribesman, and uncover the ancient artifact known as the &quot;Mirror of Smoke&quot; in this all new action adventure game.
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Lara_Croft_and_the_Guardian_of_Light) · [Steam](https://store.steampowered.com/app/35130)
 
 ---
 
@@ -1124,9 +1172,15 @@
 
 ### Plants vs. Zombies
 
-**Platforms:** Windows, macOS, iOS, Xbox 360, PlayStation Network, Nintendo DS, Bada, Android, Windows Phone, PlayStation Vita, BlackBerry OS &nbsp;|&nbsp; **Publisher:** PopCap Games &nbsp;|&nbsp; **Released:** May 5, 2009
+<img src="../images/steam-3590.jpg" alt="Plants vs. Zombies cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/Plants_vs._Zombies)
+**Platforms:** Windows, macOS, iOS, Xbox 360, PlayStation Network, Nintendo DS, Bada, Android, Windows Phone, PlayStation Vita, BlackBerry OS &nbsp;|&nbsp; **Publisher:** PopCap Games &nbsp;|&nbsp; **Genre:** Strategy &nbsp;|&nbsp; **Released:** May 5, 2009
+
+> Zombies are invading your home, and the only defense is your arsenal of plants! Armed with an alien nursery-worth of zombie-zapping plants like peashooters and cherry bombs, you'll need to think fast and plant faster to stop dozens of types of zombies dead in their tracks.
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Plants_vs._Zombies) · [Steam](https://store.steampowered.com/app/3590)
 
 ---
 

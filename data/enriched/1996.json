@@ -101,18 +101,7 @@
     ],
     "developer_publisher": "MicroProse",
     "genre": "4X",
-    "steam": {
-      "appid": 3910,
-      "name": "Sid Meier's Civilization® III Complete",
-      "short_description": "Sid Meier's Civilization III: Complete, the latest offering in the Sid Meier's Civilization III franchise, provides gaming fans with Sid Meier's Civilization III, the highly-addictive journey of discovery.",
-      "image_path": "images/steam-3910.jpg",
-      "genres": [
-        "Strategy"
-      ],
-      "release_date": "Oct 25, 2006",
-      "site_url": "https://store.steampowered.com/app/3910",
-      "year_match": false
-    }
+    "steam": null
   },
   {
     "year": 1996,
@@ -713,20 +702,7 @@
     "platforms": [
       "Windows"
     ],
-    "steam": {
-      "appid": 571060,
-      "name": "Zork Nemesis: The Forbidden Lands",
-      "short_description": "Travel through five mind-bending worlds to discover the ancient secret of Alchemy that will free the trapped souls from evil’s grip…Do you dare enter the Forbidden Lands?",
-      "image_path": "images/steam-571060.jpg",
-      "genres": [
-        "Nudity",
-        "Violent",
-        "Adventure"
-      ],
-      "release_date": "Apr 18, 2017",
-      "site_url": "https://store.steampowered.com/app/571060",
-      "year_match": false
-    }
+    "steam": null
   },
   {
     "year": 1996,
@@ -1284,7 +1260,7 @@
       ],
       "release_date": "Apr 26, 2022",
       "site_url": "https://store.steampowered.com/app/1812390",
-      "year_match": false
+      "year_match": true
     }
   },
   {
@@ -1316,7 +1292,7 @@
       ],
       "release_date": "Aug 28, 2018",
       "site_url": "https://store.steampowered.com/app/893390",
-      "year_match": false
+      "year_match": true
     }
   },
   {
@@ -1573,18 +1549,7 @@
     "platforms": [
       "Windows"
     ],
-    "steam": {
-      "appid": 3320100,
-      "name": "Drowned God: Conspiracy of the Ages.",
-      "short_description": "The original 90's Myst style Adventure Game featuring pre rendered graphics, intricate puzzle solving and step through exploration, exactly as it was first released in 1996 but with the post launch patches added. 'Extras' include the original pitch document, pre production art and loads more.",
-      "image_path": "images/steam-3320100.jpg",
-      "genres": [
-        "Adventure"
-      ],
-      "release_date": "Feb 14, 2025",
-      "site_url": "https://store.steampowered.com/app/3320100",
-      "year_match": false
-    }
+    "steam": null
   },
   {
     "year": 1996,

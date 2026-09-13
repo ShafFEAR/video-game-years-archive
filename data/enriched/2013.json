@@ -1,0 +1,442 @@
+[
+  {
+    "year": 2013,
+    "section": "Critically acclaimed titles",
+    "title": "Grand Theft Auto V",
+    "wiki_title": "Grand Theft Auto V",
+    "wiki_url": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_V",
+    "redlink": false,
+    "publisher": "Rockstar Games",
+    "release_date": "September 17, 2013",
+    "mc score": "97/100",
+    "gr score": "97.01%",
+    "platform_breakdown": {
+      "platform": "X360"
+    },
+    "platforms": [
+      "PlayStation 3",
+      "Xbox 360"
+    ]
+  },
+  {
+    "year": 2013,
+    "section": "Critically acclaimed titles",
+    "title": "BioShock Infinite",
+    "wiki_title": "BioShock Infinite",
+    "wiki_url": "https://en.wikipedia.org/wiki/BioShock_Infinite",
+    "redlink": false,
+    "publisher": "2K Games",
+    "release_date": "March 26, 2013",
+    "mc score": "94/100",
+    "gr score": "95.94%",
+    "platform_breakdown": {
+      "platform": "X360"
+    },
+    "platforms": [
+      "PlayStation 3",
+      "Windows",
+      "Xbox 360"
+    ],
+    "steam": {
+      "appid": 8870,
+      "name": "BioShock Infinite",
+      "short_description": "Indebted to the wrong people, with his life on the line, veteran of the U.S. Cavalry and now hired gun, Booker DeWitt has only one opportunity to wipe his slate clean. He must rescue Elizabeth, a mysterious girl imprisoned since childhood and locked up in the flying city of Columbia.",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/8870/header.jpg?t=1728673518",
+      "genres": [
+        "Action"
+      ],
+      "release_date": "Mar 25, 2013",
+      "site_url": "https://store.steampowered.com/app/8870",
+      "year_match": true
+    }
+  },
+  {
+    "year": 2013,
+    "section": "Critically acclaimed titles",
+    "title": "The Last of Us",
+    "wiki_title": "The Last of Us (video game)",
+    "wiki_url": "https://en.wikipedia.org/wiki/The_Last_of_Us_(video_game)",
+    "redlink": false,
+    "publisher": "Sony Computer Entertainment",
+    "release_date": "June 14, 2013",
+    "mc score": "95/100",
+    "gr score": "95.09%",
+    "platform_breakdown": {
+      "platform": "PS3"
+    },
+    "platforms": [
+      "PlayStation 3"
+    ]
+  },
+  {
+    "year": 2013,
+    "section": "Critically acclaimed titles",
+    "title": "Flower",
+    "wiki_title": "Flower (video game)",
+    "wiki_url": "https://en.wikipedia.org/wiki/Flower_(video_game)",
+    "redlink": false,
+    "publisher": "Sony Computer Entertainment",
+    "release_date": "November 15, 2013",
+    "mc score": "91/100",
+    "gr score": "93.57%",
+    "platform_breakdown": {
+      "platform": "PS4"
+    },
+    "platforms": [
+      "PlayStation 4"
+    ]
+  },
+  {
+    "year": 2013,
+    "section": "Critically acclaimed titles",
+    "title": "Fez",
+    "wiki_title": "Fez (video game)",
+    "wiki_url": "https://en.wikipedia.org/wiki/Fez_(video_game)",
+    "redlink": false,
+    "publisher": "Trapdoor",
+    "release_date": "May 1, 2013",
+    "mc score": "91/100",
+    "gr score": "93.5%",
+    "platform_breakdown": {
+      "platform": "WIN"
+    },
+    "platforms": [
+      "Windows"
+    ],
+    "steam": {
+      "appid": 224760,
+      "name": "FEZ",
+      "short_description": "Gomez is a 2D creature living in a 2D world. Or is he? When the existence of a mysterious 3rd dimension is revealed to him, Gomez is sent out on a journey that will take him to the very end of time and space. Use your ability to navigate 3D structures from 4 distinct classic 2D perspectives.",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/224760/header.jpg?t=1572375251",
+      "genres": [
+        "Indie"
+      ],
+      "release_date": "May 1, 2013",
+      "site_url": "https://store.steampowered.com/app/224760",
+      "year_match": true
+    }
+  },
+  {
+    "year": 2013,
+    "section": "Critically acclaimed titles",
+    "title": "Metal Gear Solid: The Legacy Collection",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "publisher": "Konami",
+    "release_date": "July 9, 2013",
+    "mc score": "93/100",
+    "gr score": "93.33% [ 12 ]",
+    "platform_breakdown": {
+      "platform": "PS3"
+    },
+    "platforms": [
+      "PlayStation 3"
+    ]
+  },
+  {
+    "year": 2013,
+    "section": "Critically acclaimed titles",
+    "title": "Super Mario 3D World",
+    "wiki_title": "Super Mario 3D World",
+    "wiki_url": "https://en.wikipedia.org/wiki/Super_Mario_3D_World",
+    "redlink": false,
+    "publisher": "Nintendo",
+    "release_date": "November 21, 2013",
+    "mc score": "93/100",
+    "gr score": "92.56%",
+    "platform_breakdown": {
+      "platform": "WiiU"
+    },
+    "platforms": [
+      "Wii U"
+    ]
+  },
+  {
+    "year": 2013,
+    "section": "Critically acclaimed titles",
+    "title": "Brothers: A Tale of Two Sons",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "publisher": "505 Games",
+    "release_date": "September 3, 2013",
+    "mc score": "90/100",
+    "gr score": "93.12%",
+    "platform_breakdown": {
+      "platform": "WIN"
+    },
+    "platforms": [
+      "Windows"
+    ],
+    "steam": {
+      "appid": 225080,
+      "name": "Brothers - A Tale of Two Sons",
+      "short_description": "Guide two brothers on an epic fairy tale journey from visionary Swedish film director, Josef Fares and top-tier developer Starbreeze Studios. Control both brothers at once as you experience co-op play in single player mode, like never before.",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/225080/dbfc904916a519d4c0cbea79f898cf33fc231ee1/header.jpg?t=1776415514",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Indie"
+      ],
+      "release_date": "Sep 3, 2013",
+      "site_url": "https://store.steampowered.com/app/225080",
+      "year_match": true
+    }
+  },
+  {
+    "year": 2013,
+    "section": "Critically acclaimed titles",
+    "title": "Rayman Legends",
+    "wiki_title": "Rayman Legends",
+    "wiki_url": "https://en.wikipedia.org/wiki/Rayman_Legends",
+    "redlink": false,
+    "publisher": "Ubisoft",
+    "release_date": "August 29, 2013",
+    "mc score": "92/100",
+    "gr score": "93%",
+    "platform_breakdown": {
+      "platform": "X360"
+    },
+    "platforms": [
+      "Wii U",
+      "PlayStation 3",
+      "Windows",
+      "Xbox 360"
+    ],
+    "steam": {
+      "appid": 242550,
+      "name": "Rayman® Legends",
+      "short_description": "Michel Ancel, the celebrated creator of Rayman®, Beyond Good &amp; Evil®, and the Raving Rabbids®, returns to unleash his innovative creativity on this new entry into the Rayman® franchise.When Rayman, Globox, and the Teensies discover a mysterious tent filled with captivating paintings, they are suddenly transported to a series of...",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/242550/header.jpg?t=1782234498",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "release_date": "Sep 3, 2013",
+      "site_url": "https://store.steampowered.com/app/242550",
+      "year_match": true
+    }
+  },
+  {
+    "year": 2013,
+    "section": "Critically acclaimed titles",
+    "title": "Deus Ex: Human Revolution – Director's Cut",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "publisher": "Square Enix",
+    "release_date": "October 22, 2013",
+    "mc score": "91/100",
+    "gr score": "92.5% [ 13 ]",
+    "platform_breakdown": {
+      "platform": "WIN"
+    },
+    "platforms": [
+      "Windows"
+    ],
+    "steam": null
+  },
+  {
+    "year": 2013,
+    "section": "Critically acclaimed titles",
+    "title": "The Legend of Zelda: The Wind Waker HD",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "publisher": "Nintendo",
+    "release_date": "September 20, 2013",
+    "mc score": "90/100",
+    "gr score": "91.08%",
+    "platform_breakdown": {
+      "platform": "WiiU"
+    },
+    "platforms": [
+      "Wii U"
+    ]
+  },
+  {
+    "year": 2013,
+    "section": "Critically acclaimed titles",
+    "title": "The Legend of Zelda: A Link Between Worlds",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "publisher": "Nintendo",
+    "release_date": "November 22, 2013",
+    "mc score": "91/100",
+    "gr score": "90.55%",
+    "platform_breakdown": {
+      "platform": "3DS"
+    },
+    "platforms": [
+      "Nintendo 3DS"
+    ]
+  },
+  {
+    "year": 2013,
+    "section": "Critically acclaimed titles",
+    "title": "Spelunky",
+    "wiki_title": "Spelunky",
+    "wiki_url": "https://en.wikipedia.org/wiki/Spelunky",
+    "redlink": false,
+    "publisher": "Mossmouth",
+    "release_date": "August 8, 2013",
+    "mc score": "90/100",
+    "gr score": "91%",
+    "platform_breakdown": {
+      "platform": "WIN"
+    },
+    "platforms": [
+      "Windows"
+    ],
+    "steam": {
+      "appid": 239350,
+      "name": "Spelunky",
+      "short_description": "Spelunky is a unique platformer with randomized levels that offer a challenging new experience each time you play. Journey deep underground and explore fantastic places filled with all manner of monsters, traps, and treasure.",
+      "image_path": "images/steam-239350.jpg",
+      "genres": [
+        "Indie"
+      ],
+      "release_date": "Aug 8, 2013",
+      "site_url": "https://store.steampowered.com/app/239350",
+      "year_match": true
+    }
+  },
+  {
+    "year": 2013,
+    "section": "Critically acclaimed titles",
+    "title": "Mass Effect 3: Citadel",
+    "wiki_title": "Mass Effect 3 downloadable content",
+    "wiki_url": "https://en.wikipedia.org/wiki/Mass_Effect_3_downloadable_content",
+    "redlink": false,
+    "publisher": "Electronic Arts",
+    "release_date": "March 5, 2013",
+    "mc score": "90/100",
+    "gr score": "90.67% [ 14 ]",
+    "platform_breakdown": {
+      "platform": "PS3"
+    },
+    "platforms": [
+      "PlayStation 3"
+    ]
+  },
+  {
+    "year": 2013,
+    "section": "Critically acclaimed titles",
+    "title": "The Stanley Parable",
+    "wiki_title": "The Stanley Parable",
+    "wiki_url": "https://en.wikipedia.org/wiki/The_Stanley_Parable",
+    "redlink": false,
+    "publisher": "Galactic Cafe",
+    "release_date": "October 13, 2013",
+    "mc score": "88/100",
+    "gr score": "90.25%",
+    "platform_breakdown": {
+      "platform": "WIN"
+    },
+    "platforms": [
+      "Windows"
+    ],
+    "steam": {
+      "appid": 221910,
+      "name": "The Stanley Parable",
+      "short_description": "The Stanley Parable is a first person exploration game. You will play as Stanley, and you will not play as Stanley. You will follow a story, you will not follow a story. You will have a choice, you will have no choice. The game will end, the game will never end.",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221910/header.jpg?t=1781207122",
+      "genres": [
+        "Adventure",
+        "Indie"
+      ],
+      "release_date": "Oct 17, 2013",
+      "site_url": "https://store.steampowered.com/app/221910",
+      "year_match": true
+    }
+  },
+  {
+    "year": 2013,
+    "section": "Critically acclaimed titles",
+    "title": "Dota 2",
+    "wiki_title": "Dota 2",
+    "wiki_url": "https://en.wikipedia.org/wiki/Dota_2",
+    "redlink": false,
+    "publisher": "Valve",
+    "release_date": "July 9, 2013",
+    "mc score": "90/100",
+    "gr score": "89.27%",
+    "platform_breakdown": {
+      "platform": "WIN"
+    },
+    "platforms": [
+      "Windows"
+    ],
+    "steam": {
+      "appid": 570,
+      "name": "Dota 2",
+      "short_description": "Every day, millions of players worldwide enter battle as one of over a hundred Dota heroes. And no matter if it's their 10th hour of play or 1,000th, there's always something new to discover. With regular updates that ensure a constant evolution of gameplay, features, and heroes, Dota 2 has taken on a life of its own.",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570/header.jpg?t=1769535998",
+      "genres": [
+        "Action",
+        "Strategy",
+        "Free To Play"
+      ],
+      "release_date": "Jul 9, 2013",
+      "site_url": "https://store.steampowered.com/app/570",
+      "year_match": true
+    }
+  },
+  {
+    "year": 2013,
+    "section": "Critically acclaimed titles",
+    "title": "Crusader Kings II: The Old Gods",
+    "wiki_title": "Crusader Kings II",
+    "wiki_url": "https://en.wikipedia.org/wiki/Crusader_Kings_II",
+    "redlink": false,
+    "publisher": "Paradox Interactive",
+    "release_date": "May 28, 2013",
+    "mc score": "88/100",
+    "gr score": "90% [ 16 ]",
+    "platform_breakdown": {
+      "platform": "WIN"
+    },
+    "platforms": [
+      "Windows"
+    ],
+    "steam": null
+  },
+  {
+    "year": 2013,
+    "section": "Critically acclaimed titles",
+    "title": "XCOM: Enemy Within",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "publisher": "2K Games",
+    "release_date": "November 12, 2013",
+    "mc score": "88/100",
+    "gr score": "90% [ 17 ]",
+    "platform_breakdown": {
+      "platform": "PS3"
+    },
+    "platforms": [
+      "PlayStation 3"
+    ]
+  },
+  {
+    "year": 2013,
+    "section": "Critically acclaimed titles",
+    "title": "Rage of the Gladiator",
+    "wiki_title": "Rage of the Gladiator",
+    "wiki_url": "https://en.wikipedia.org/wiki/Rage_of_the_Gladiator",
+    "redlink": false,
+    "publisher": "Gamelion Studios",
+    "release_date": "September 19, 2013",
+    "mc score": "88/100",
+    "gr score": "90% [ 18 ]",
+    "platform_breakdown": {
+      "platform": "3DS"
+    },
+    "platforms": [
+      "Nintendo 3DS"
+    ]
+  }
+]

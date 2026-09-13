@@ -10,9 +10,15 @@
 
 ### Street Fighter 6
 
-**Platforms:** Arcade, PlayStation 4, PlayStation 5, Windows, Xbox Series X/S &nbsp;|&nbsp; **Developer:** Capcom &nbsp;|&nbsp; **Publisher:** Capcom &nbsp;|&nbsp; **Released:** June 2, 2023
+<img src="../images/steam-1364780.jpg" alt="Street Fighter 6 cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/Street_Fighter_6)
+**Platforms:** Arcade, PlayStation 4, PlayStation 5, Windows, Xbox Series X/S &nbsp;|&nbsp; **Developer:** Capcom &nbsp;|&nbsp; **Publisher:** Capcom &nbsp;|&nbsp; **Genre:** Action, Adventure &nbsp;|&nbsp; **Released:** June 2, 2023
+
+> Here comes Capcom’s newest challenger! Street Fighter™ 6 launches worldwide on June 2nd, 2023 and represents the next evolution of the Street Fighter™ series! Street Fighter 6 spans three distinct game modes, including World Tour, Fighting Ground and Battle Hub.
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Street_Fighter_6) · [Steam](https://store.steampowered.com/app/1364780)
 
 ---
 

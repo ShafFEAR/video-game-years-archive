@@ -1,0 +1,193 @@
+[
+  {
+    "year": 2025,
+    "section": "Critically acclaimed games",
+    "title": "Hades II",
+    "wiki_title": "Hades II",
+    "wiki_url": "https://en.wikipedia.org/wiki/Hades_II",
+    "redlink": false,
+    "developer": "Supergiant Games",
+    "publisher": "Supergiant Games",
+    "release_date": "September 25, 2025",
+    "average score": "95",
+    "platform_breakdown": {
+      "platform(s)": "WIN , NS , NS2"
+    },
+    "platforms": [
+      "Windows",
+      "Nintendo Switch",
+      "Nintendo Switch 2"
+    ],
+    "steam": {
+      "appid": 1145350,
+      "name": "Hades II",
+      "short_description": "Battle beyond the Underworld using dark sorcery to take on the Titan of Time in this bewitching sequel to the award-winning rogue-like dungeon crawler.",
+      "image_path": "images/steam-1145350.jpg",
+      "genres": [
+        "Action",
+        "Indie",
+        "RPG"
+      ],
+      "release_date": "Sep 25, 2025",
+      "site_url": "https://store.steampowered.com/app/1145350",
+      "year_match": true
+    }
+  },
+  {
+    "year": 2025,
+    "section": "Critically acclaimed games",
+    "title": "Clair Obscur: Expedition 33",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "developer": "Sandfall Interactive",
+    "publisher": "Kepler Interactive",
+    "release_date": "April 24, 2025",
+    "average score": "92",
+    "platform_breakdown": {
+      "platform(s)": "WIN , PS5 , XSX/S"
+    },
+    "platforms": [
+      "Windows",
+      "PlayStation 5",
+      "Xbox Series X/S"
+    ],
+    "steam": {
+      "appid": 1903340,
+      "name": "Clair Obscur: Expedition 33",
+      "short_description": "Lead the members of Expedition 33 on their quest to destroy the Paintress so that she can never paint death again. Explore a world of wonders inspired by Belle Époque France and battle unique enemies in this turn-based RPG with real-time mechanics.",
+      "image_path": "images/steam-1903340.jpg",
+      "genres": [
+        "Action",
+        "RPG"
+      ],
+      "release_date": "Apr 24, 2025",
+      "site_url": "https://store.steampowered.com/app/1903340",
+      "year_match": true
+    }
+  },
+  {
+    "year": 2025,
+    "section": "Critically acclaimed games",
+    "title": "Blue Prince",
+    "wiki_title": "Blue Prince",
+    "wiki_url": "https://en.wikipedia.org/wiki/Blue_Prince",
+    "redlink": false,
+    "developer": "Dogubomb",
+    "publisher": "Raw Fury",
+    "release_date": "April 10, 2025",
+    "average score": "92",
+    "platform_breakdown": {
+      "platform(s)": "WIN , PS5 , XSX/S"
+    },
+    "platforms": [
+      "Windows",
+      "PlayStation 5",
+      "Xbox Series X/S"
+    ],
+    "steam": {
+      "appid": 1569580,
+      "name": "Blue Prince",
+      "short_description": "Welcome to Mt. Holly, where every dawn unveils a new mystery. Navigate through shifting corridors and ever-changing chambers in this genre-defying strategy puzzle adventure. But will your unpredictable path lead you to the rumored Room 46?",
+      "image_path": "images/steam-1569580.jpg",
+      "genres": [
+        "Adventure",
+        "Indie",
+        "Strategy"
+      ],
+      "release_date": "Apr 10, 2025",
+      "site_url": "https://store.steampowered.com/app/1569580",
+      "year_match": true
+    }
+  },
+  {
+    "year": 2025,
+    "section": "Critically acclaimed games",
+    "title": "Split Fiction",
+    "wiki_title": "Split Fiction",
+    "wiki_url": "https://en.wikipedia.org/wiki/Split_Fiction",
+    "redlink": false,
+    "developer": "Hazelight Studios",
+    "publisher": "Electronic Arts",
+    "release_date": "March 6, 2025",
+    "average score": "91",
+    "platform_breakdown": {
+      "platform(s)": "WIN , PS5 , XSX/S , NS2"
+    },
+    "platforms": [
+      "Windows",
+      "PlayStation 5",
+      "Xbox Series X/S",
+      "Nintendo Switch 2"
+    ],
+    "steam": {
+      "appid": 2001120,
+      "name": "Split Fiction",
+      "short_description": "Embrace mind-blowing moments as you’re pulled deep into the many worlds of Split Fiction, a boundary-pushing co-op adventure.",
+      "image_path": "images/steam-2001120.jpg",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "release_date": "Mar 6, 2025",
+      "site_url": "https://store.steampowered.com/app/2001120",
+      "year_match": true
+    }
+  },
+  {
+    "year": 2025,
+    "section": "Critically acclaimed games",
+    "title": "Donkey Kong Bananza",
+    "wiki_title": "Donkey Kong Bananza",
+    "wiki_url": "https://en.wikipedia.org/wiki/Donkey_Kong_Bananza",
+    "redlink": false,
+    "developer": "Nintendo EPD",
+    "publisher": "Nintendo",
+    "release_date": "July 17, 2025",
+    "average score": "91",
+    "platform_breakdown": {
+      "platform(s)": "NS2"
+    },
+    "platforms": [
+      "Nintendo Switch 2"
+    ]
+  },
+  {
+    "year": 2025,
+    "section": "Critically acclaimed games",
+    "title": "Hollow Knight: Silksong",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "developer": "Team Cherry",
+    "publisher": "Team Cherry",
+    "release_date": "September 4, 2025",
+    "average score": "90",
+    "platform_breakdown": {
+      "platform(s)": "WIN , PS4 , PS5 , XBO , XSX/S , NS , NS2"
+    },
+    "platforms": [
+      "Windows",
+      "PlayStation 4",
+      "PlayStation 5",
+      "Xbox One",
+      "Xbox Series X/S",
+      "Nintendo Switch",
+      "Nintendo Switch 2"
+    ],
+    "steam": {
+      "appid": 1030300,
+      "name": "Hollow Knight: Silksong",
+      "short_description": "Discover a vast, haunted kingdom in Hollow Knight: Silksong! Explore, fight and survive as you ascend to the peak of a land ruled by silk and song.",
+      "image_path": "images/steam-1030300.jpg",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Indie"
+      ],
+      "release_date": "Sep 4, 2025",
+      "site_url": "https://store.steampowered.com/app/1030300",
+      "year_match": true
+    }
+  }
+]

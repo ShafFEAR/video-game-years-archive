@@ -1,0 +1,296 @@
+[
+  {
+    "year": 2020,
+    "section": "Critically acclaimed games",
+    "title": "Persona 5 Royal",
+    "wiki_title": "Persona 5 Royal",
+    "wiki_url": "https://en.wikipedia.org/wiki/Persona_5_Royal",
+    "redlink": false,
+    "developer": "Atlus",
+    "publisher": "Atlus / Sega",
+    "release_date": "March 31, 2020",
+    "average score": "95",
+    "platform_breakdown": {
+      "platform(s)": "PS4"
+    },
+    "platforms": [
+      "PlayStation 4"
+    ]
+  },
+  {
+    "year": 2020,
+    "section": "Critically acclaimed games",
+    "title": "Dragon Quest XI S: Echoes of an Elusive Age - Definitive Edition",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "developer": "Square Enix",
+    "publisher": "Square Enix",
+    "release_date": "December 4, 2020",
+    "average score": "93",
+    "platform_breakdown": {
+      "platform(s)": "PS4 , XBO"
+    },
+    "platforms": [
+      "PlayStation 4",
+      "Xbox One"
+    ]
+  },
+  {
+    "year": 2020,
+    "section": "Critically acclaimed games",
+    "title": "Hades",
+    "wiki_title": "Hades (video game)",
+    "wiki_url": "https://en.wikipedia.org/wiki/Hades_(video_game)",
+    "redlink": false,
+    "developer": "Supergiant Games",
+    "publisher": "Supergiant Games",
+    "release_date": "September 17, 2020",
+    "average score": "93",
+    "platform_breakdown": {
+      "platform(s)": "WIN , NS"
+    },
+    "platforms": [
+      "Windows",
+      "Nintendo Switch"
+    ],
+    "steam": {
+      "appid": 1145360,
+      "name": "Hades",
+      "short_description": "Defy the god of the dead as you hack and slash out of the Underworld in this rogue-like dungeon crawler from the creators of Bastion, Transistor, and Pyre.",
+      "image_path": "images/steam-1145360.jpg",
+      "genres": [
+        "Action",
+        "Indie",
+        "RPG"
+      ],
+      "release_date": "Sep 17, 2020",
+      "site_url": "https://store.steampowered.com/app/1145360",
+      "year_match": true
+    }
+  },
+  {
+    "year": 2020,
+    "section": "Critically acclaimed games",
+    "title": "Half-Life: Alyx",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "developer": "Valve",
+    "publisher": "Valve",
+    "release_date": "March 23, 2020",
+    "average score": "93",
+    "platform_breakdown": {
+      "platform(s)": "WIN , LIN"
+    },
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "steam": {
+      "appid": 546560,
+      "name": "Half-Life: Alyx",
+      "short_description": "Half-Life: Alyx is Valve’s VR return to the Half-Life series. It’s the story of an impossible fight against a vicious alien race known as the Combine, set between the events of Half-Life and Half-Life 2. Playing as Alyx Vance, you are humanity’s only chance for survival.",
+      "image_path": "images/steam-546560.jpg",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "release_date": "Mar 23, 2020",
+      "site_url": "https://store.steampowered.com/app/546560",
+      "year_match": true
+    }
+  },
+  {
+    "year": 2020,
+    "section": "Critically acclaimed games",
+    "title": "Ori and the Will of the Wisps",
+    "wiki_title": "Ori and the Will of the Wisps",
+    "wiki_url": "https://en.wikipedia.org/wiki/Ori_and_the_Will_of_the_Wisps",
+    "redlink": false,
+    "developer": "Moon Studios",
+    "publisher": "Iam8bit",
+    "release_date": "September 17, 2020",
+    "average score": "93",
+    "platform_breakdown": {
+      "platform(s)": "XBO"
+    },
+    "platforms": [
+      "Nintendo Switch",
+      "Xbox One"
+    ]
+  },
+  {
+    "year": 2020,
+    "section": "Critically acclaimed games",
+    "title": "The Last of Us Part II",
+    "wiki_title": "The Last of Us Part II",
+    "wiki_url": "https://en.wikipedia.org/wiki/The_Last_of_Us_Part_II",
+    "redlink": false,
+    "developer": "Naughty Dog",
+    "publisher": "Sony Interactive Entertainment",
+    "release_date": "June 19, 2020",
+    "average score": "93",
+    "platform_breakdown": {
+      "platform(s)": "PS4"
+    },
+    "platforms": [
+      "PlayStation 4"
+    ]
+  },
+  {
+    "year": 2020,
+    "section": "Critically acclaimed games",
+    "title": "Demon's Souls",
+    "wiki_title": "Demon's Souls (2020 video game)",
+    "wiki_url": "https://en.wikipedia.org/wiki/Demon%27s_Souls_(2020_video_game)",
+    "redlink": false,
+    "developer": "Bluepoint Games / Japan Studio",
+    "publisher": "Sony Interactive Entertainment",
+    "release_date": "November 12, 2020",
+    "average score": "92",
+    "platform_breakdown": {
+      "platform(s)": "PS5"
+    },
+    "platforms": [
+      "PlayStation 5"
+    ]
+  },
+  {
+    "year": 2020,
+    "section": "Critically acclaimed games",
+    "title": "Crusader Kings III",
+    "wiki_title": "Crusader Kings III",
+    "wiki_url": "https://en.wikipedia.org/wiki/Crusader_Kings_III",
+    "redlink": false,
+    "developer": "Paradox Development Studio",
+    "publisher": "Paradox Interactive",
+    "release_date": "September 1, 2020",
+    "average score": "91",
+    "platform_breakdown": {
+      "platform(s)": "WIN , LIN"
+    },
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "steam": {
+      "appid": 1158310,
+      "name": "Crusader Kings III",
+      "short_description": "Love, fight, scheme, and claim greatness. Determine your noble house’s legacy in the sprawling grand strategy of Crusader Kings III. Death is only the beginning as you guide your dynasty’s bloodline in the rich and larger-than-life simulation of the Middle Ages.",
+      "image_path": "images/steam-1158310.jpg",
+      "genres": [
+        "RPG",
+        "Simulation",
+        "Strategy"
+      ],
+      "release_date": "Sep 1, 2020",
+      "site_url": "https://store.steampowered.com/app/1158310",
+      "year_match": true
+    }
+  },
+  {
+    "year": 2020,
+    "section": "Critically acclaimed games",
+    "title": "F1 2020",
+    "wiki_title": "F1 2020 (video game)",
+    "wiki_url": "https://en.wikipedia.org/wiki/F1_2020_(video_game)",
+    "redlink": false,
+    "developer": "Codemasters Birmingham",
+    "publisher": "Codemasters",
+    "release_date": "July 10, 2020",
+    "average score": "91",
+    "platform_breakdown": {
+      "platform(s)": "XBO"
+    },
+    "platforms": [
+      "Xbox One"
+    ]
+  },
+  {
+    "year": 2020,
+    "section": "Critically acclaimed games",
+    "title": "Microsoft Flight Simulator",
+    "wiki_title": "Microsoft Flight Simulator (2020 video game)",
+    "wiki_url": "https://en.wikipedia.org/wiki/Microsoft_Flight_Simulator_(2020_video_game)",
+    "redlink": false,
+    "developer": "Asobo Studio",
+    "publisher": "Xbox Game Studios",
+    "release_date": "August 18, 2020",
+    "average score": "91",
+    "platform_breakdown": {
+      "platform(s)": "WIN"
+    },
+    "platforms": [
+      "Windows"
+    ],
+    "steam": null
+  },
+  {
+    "year": 2020,
+    "section": "Critically acclaimed games",
+    "title": "Spelunky 2",
+    "wiki_title": "Spelunky 2",
+    "wiki_url": "https://en.wikipedia.org/wiki/Spelunky_2",
+    "redlink": false,
+    "developer": "Mossmouth, BlitWorks",
+    "publisher": "Mossmouth",
+    "release_date": "September 29, 2020",
+    "average score": "91",
+    "platform_breakdown": {
+      "platform(s)": "WIN"
+    },
+    "platforms": [
+      "Windows"
+    ],
+    "steam": {
+      "appid": 418530,
+      "name": "Spelunky 2",
+      "short_description": "Spelunky 2 builds upon the unique, randomized challenges that made the original a roguelike classic, offering a huge adventure designed to satisfy players old and new. Meet the next generation of explorers as they find themselves on the Moon, searching for treasure and missing family.",
+      "image_path": "images/steam-418530.jpg",
+      "genres": [
+        "Action",
+        "Indie"
+      ],
+      "release_date": "Sep 29, 2020",
+      "site_url": "https://store.steampowered.com/app/418530",
+      "year_match": true
+    }
+  },
+  {
+    "year": 2020,
+    "section": "Critically acclaimed games",
+    "title": "Animal Crossing: New Horizons",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "developer": "Nintendo EPD",
+    "publisher": "Nintendo",
+    "release_date": "March 20, 2020",
+    "average score": "90",
+    "platform_breakdown": {
+      "platform(s)": "NS"
+    },
+    "platforms": [
+      "Nintendo Switch"
+    ]
+  },
+  {
+    "year": 2020,
+    "section": "Critically acclaimed games",
+    "title": "Yakuza 0",
+    "wiki_title": "Yakuza 0",
+    "wiki_url": "https://en.wikipedia.org/wiki/Yakuza_0",
+    "redlink": false,
+    "developer": "Ryu Ga Gotoku Studio",
+    "publisher": "Sega",
+    "release_date": "February 26, 2020",
+    "average score": "90",
+    "platform_breakdown": {
+      "platform(s)": "XBO"
+    },
+    "platforms": [
+      "Xbox One"
+    ]
+  }
+]

@@ -376,9 +376,15 @@
 
 ### Re-Volt
 
-**Platforms:** Windows, Dreamcast, Nintendo 64, PlayStation &nbsp;|&nbsp; **Released:** August 18
+<img src="../images/steam-287310.jpg" alt="Re-Volt cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/Re-Volt)
+**Platforms:** Windows, Dreamcast, Nintendo 64, PlayStation &nbsp;|&nbsp; **Genre:** Racing &nbsp;|&nbsp; **Released:** August 18
+
+> Re-Volt lets you guide one of 28 remote control cars through insane race tracks set in unusual environments. Curbs become huge walls, toys are obstacles, and everything is fair game to drive on, through, or over.
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Re-Volt) · [Steam](https://store.steampowered.com/app/287310)
 
 ---
 

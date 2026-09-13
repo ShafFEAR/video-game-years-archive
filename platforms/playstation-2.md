@@ -508,9 +508,15 @@
 
 ### Alone in the Dark
 
-**Platforms:** PlayStation 2, Wii, Windows, Xbox 360 &nbsp;|&nbsp; **Released:** June 20
+<img src="../images/steam-1310410.jpg" alt="Alone in the Dark cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/Alone_in_the_Dark_(2008_video_game))
+**Platforms:** PlayStation 2, Wii, Windows, Xbox 360 &nbsp;|&nbsp; **Genre:** Action, Adventure &nbsp;|&nbsp; **Released:** June 20
+
+> Return to Derceto Manor in this reimagination of Alone in the Dark, a love letter to the 90’s cult classic horror game.
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Alone_in_the_Dark_(2008_video_game)) · [Steam](https://store.steampowered.com/app/1310410)
 
 ---
 
@@ -544,9 +550,15 @@
 
 ### Bolt
 
-**Platforms:** Nintendo DS, PlayStation 2, PlayStation 3, Wii, Windows, Xbox 360 &nbsp;|&nbsp; **Released:** November 18
+<img src="../images/steam-3856030.jpg" alt="Bolt cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/Bolt_(video_game))
+**Platforms:** Nintendo DS, PlayStation 2, PlayStation 3, Wii, Windows, Xbox 360 &nbsp;|&nbsp; **Genre:** Strategy &nbsp;|&nbsp; **Released:** November 18
+
+> Step into the boots of a battlefield commander in Bolt Action, a turn-based WWII strategy inspired by Warlord Games’ tabletop classic.
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Bolt_(video_game)) · [Steam](https://store.steampowered.com/app/3856030)
 
 ---
 
@@ -558,7 +570,15 @@
 
 ### Call of Duty: World at War
 
-**Platforms:** Nintendo DS, PlayStation 3, Wii, Windows, Xbox 360, PlayStation 2 &nbsp;|&nbsp; **Released:** November 11
+<img src="../images/steam-10090.jpg" alt="Call of Duty: World at War cover" width="200">
+
+**Platforms:** Nintendo DS, PlayStation 3, Wii, Windows, Xbox 360, PlayStation 2 &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** November 11
+
+> Call of Duty is back, redefining war like you've never experienced before. Building on the Call of Duty 4®: Modern Warfare engine, Call of Duty: World at War immerses players into the most gritty and chaotic WWII combat ever experienced.
+>
+> _Synopsis source: Steam_
+
+[Steam](https://store.steampowered.com/app/10090)
 
 ---
 
@@ -736,13 +756,29 @@
 
 ### Lego Batman: The Videogame
 
-**Platforms:** Nintendo DS, PlayStation 2, PlayStation 3, PlayStation Portable, Wii, Windows, Xbox 360 &nbsp;|&nbsp; **Released:** September 23
+<img src="../images/steam-21000.jpg" alt="Lego Batman: The Videogame cover" width="200">
+
+**Platforms:** Nintendo DS, PlayStation 2, PlayStation 3, PlayStation Portable, Wii, Windows, Xbox 360 &nbsp;|&nbsp; **Genre:** Action, Adventure &nbsp;|&nbsp; **Released:** September 23
+
+> When all the villains in Arkham Asylum team up and break loose, only the dynamic duo is bold enough to take them on to save Gotham City. The fun of LEGO, the drama of Batman and the uniqueness of the combination makes for a comical and exciting adventure in LEGO Batman: The Videogame.
+>
+> _Synopsis source: Steam_
+
+[Steam](https://store.steampowered.com/app/21000)
 
 ---
 
 ### Lego Indiana Jones: The Original Adventures
 
-**Platforms:** Nintendo DS, PlayStation 2, PlayStation 3, PlayStation Portable, Wii, Windows, Xbox, Xbox 360 &nbsp;|&nbsp; **Released:** June 3
+<img src="../images/steam-32330.jpg" alt="Lego Indiana Jones: The Original Adventures cover" width="200">
+
+**Platforms:** Nintendo DS, PlayStation 2, PlayStation 3, PlayStation Portable, Wii, Windows, Xbox, Xbox 360 &nbsp;|&nbsp; **Genre:** Action, Adventure &nbsp;|&nbsp; **Released:** June 3
+
+> Build, Battle and Brawl your way out of trouble! Play through all three classic Indiana Jones™ movies and relive your favorite Indy adventures in the tongue-in-cheek worlds of LEGO®. Explore and Discover - Battle enemies, solve puzzles, and seek out the world's greatest treasures.
+>
+> _Synopsis source: Steam_
+
+[Steam](https://store.steampowered.com/app/32330)
 
 ---
 
@@ -982,7 +1018,15 @@
 
 ### Tomb Raider: Underworld
 
-**Platforms:** Nintendo DS, PlayStation 2, PlayStation 3, Wii, Windows, Xbox 360 &nbsp;|&nbsp; **Released:** November 18
+<img src="../images/steam-8140.jpg" alt="Tomb Raider: Underworld cover" width="200">
+
+**Platforms:** Nintendo DS, PlayStation 2, PlayStation 3, Wii, Windows, Xbox 360 &nbsp;|&nbsp; **Genre:** Action, Adventure &nbsp;|&nbsp; **Released:** November 18
+
+> Tomb Raider: Underworld represents a new advancement in exploration-based gameplay. As fearless adventurer Lara Croft explore exotic locations around the world, each designed with an incredible attention to detail resulting in breathtaking high-definition visual fidelity that creates a truly believable world and delivers a new level of...
+>
+> _Synopsis source: Steam_
+
+[Steam](https://store.steampowered.com/app/8140)
 
 ---
 
@@ -1580,9 +1624,15 @@
 
 ### Surf's Up
 
-**Platforms:** Game Boy Advance, Nintendo DS, PlayStation 2, PlayStation 3, PlayStation Portable, Wii, Xbox 360, GameCube, Windows &nbsp;|&nbsp; **Released:** May 30
+<img src="../images/steam-3454830.jpg" alt="Surf's Up cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/Surf%27s_Up_(video_game))
+**Platforms:** Game Boy Advance, Nintendo DS, PlayStation 2, PlayStation 3, PlayStation Portable, Wii, Xbox 360, GameCube, Windows &nbsp;|&nbsp; **Genre:** Action, Casual, Indie, Racing, Sports, Free To Play &nbsp;|&nbsp; **Released:** May 30
+
+> SurfsUp is a free-to-play, standalone recreation of Counter-Strike Surf where precision movement and air-surfing are the keys to setting a new personal best or even breaking a world record. Surf, bhop, and climb across 125+ maps, all for free, with unique leaderboards for every way to play.
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Surf%27s_Up_(video_game)) · [Steam](https://store.steampowered.com/app/3454830)
 
 ---
 
@@ -1660,7 +1710,15 @@
 
 ### Thrillville: Off The Rails
 
-**Platforms:** Windows, PlayStation 2, Xbox 360, PlayStation 3, Wii, Nintendo DS &nbsp;|&nbsp; **Released:** October 9
+<img src="../images/steam-6080.jpg" alt="Thrillville: Off The Rails cover" width="200">
+
+**Platforms:** Windows, PlayStation 2, Xbox 360, PlayStation 3, Wii, Nintendo DS &nbsp;|&nbsp; **Genre:** Action, Adventure, Racing, Simulation, Strategy &nbsp;|&nbsp; **Released:** October 9
+
+> Thrillville™: Off the Rails lives up to its name with 20 death-defying rides! Players can build incredible coasters to leap from one track to another, launch through the air like cannonballs, blast through a burning rings of fire and more!
+>
+> _Synopsis source: Steam_
+
+[Steam](https://store.steampowered.com/app/6080)
 
 ---
 
@@ -1674,7 +1732,15 @@
 
 ### Tomb Raider: Anniversary
 
-**Platforms:** PlayStation 2, Windows, PlayStation Portable, Xbox 360, Wii, Mobile phone &nbsp;|&nbsp; **Released:** June 5
+<img src="../images/steam-8000.jpg" alt="Tomb Raider: Anniversary cover" width="200">
+
+**Platforms:** PlayStation 2, Windows, PlayStation Portable, Xbox 360, Wii, Mobile phone &nbsp;|&nbsp; **Genre:** Action, Adventure &nbsp;|&nbsp; **Released:** June 5
+
+> Tomb Raider: Anniversary retraces Lara Croft's original genre-defining adventure  globe-trotting 3rd person action-adventure in pursuit of the legendary Scion artifact. Using an enhanced 'Tomb Raider: Legend' game engine, the graphics, technology and physics bring Lara's adventure and pursuit of a mystical artifact known only as the...
+>
+> _Synopsis source: Steam_
+
+[Steam](https://store.steampowered.com/app/8000)
 
 ---
 
@@ -2100,7 +2166,15 @@
 
 ### Hitman: Blood Money
 
-**Platforms:** Windows, PlayStation 2, Xbox, Xbox 360 &nbsp;|&nbsp; **Released:** May 30
+<img src="../images/steam-6860.jpg" alt="Hitman: Blood Money cover" width="200">
+
+**Platforms:** Windows, PlayStation 2, Xbox, Xbox 360 &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** May 30
+
+> Money Talks. Silence Pays. Prepare to Make a Killing. When assassins from Agent 47's contract agency, The ICA, are eliminated in a series of hits, it seems a larger, more powerful agency has entered the fray. Sensing he may be a target, 47 travels to America, and prepares to make a killing.
+>
+> _Synopsis source: Steam_
+
+[Steam](https://store.steampowered.com/app/6860)
 
 ---
 
@@ -2136,9 +2210,15 @@
 
 ### Just Cause
 
-**Platforms:** Windows, PlayStation 2, Xbox, Xbox 360 &nbsp;|&nbsp; **Released:** September 22
+<img src="../images/steam-6880.jpg" alt="Just Cause cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/Just_Cause_(video_game))
+**Platforms:** Windows, PlayStation 2, Xbox, Xbox 360 &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** September 22
+
+> Your world...Your rules!
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Just_Cause_(video_game)) · [Steam](https://store.steampowered.com/app/6880)
 
 ---
 
@@ -2190,7 +2270,15 @@
 
 ### Marc Eckō's Getting Up: Contents Under Pressure
 
-**Platforms:** Windows, PlayStation 2, Xbox &nbsp;|&nbsp; **Released:** February 14
+<img src="../images/steam-260190.jpg" alt="Marc Eckō's Getting Up: Contents Under Pressure cover" width="200">
+
+**Platforms:** Windows, PlayStation 2, Xbox &nbsp;|&nbsp; **Genre:** Action, Adventure &nbsp;|&nbsp; **Released:** February 14
+
+> Play as Trane, a &quot;toy&quot; graffiti artist with the street smarts, athletic prowess and vision to become an &quot;All City King&quot; - the most reputable of all graffiti artists. Along your quest, uncover the mayor's deep, dark secret and use your fighting talents and high-wire graffiti to expose the city's leader as a corrupt...
+>
+> _Synopsis source: Steam_
+
+[Steam](https://store.steampowered.com/app/260190)
 
 ---
 
@@ -2652,13 +2740,29 @@
 
 ### Tom Clancy's Splinter Cell: Double Agent
 
-**Platforms:** Xbox, Xbox 360, PlayStation 2, GameCube, Windows, Wii &nbsp;|&nbsp; **Publisher:** Ubisoft &nbsp;|&nbsp; **Released:** October 24, 2006
+<img src="../images/steam-13580.jpg" alt="Tom Clancy's Splinter Cell: Double Agent cover" width="200">
+
+**Platforms:** Xbox, Xbox 360, PlayStation 2, GameCube, Windows, Wii &nbsp;|&nbsp; **Publisher:** Ubisoft &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** October 24, 2006
+
+> In the sequel to the 2005 Game of the Year, Splinter Cell: Double Agent, play as legendary covert operative Sam Fisher, infiltrate a ruthless terrorist organization, and destroy it from within.
+>
+> _Synopsis source: Steam_
+
+[Steam](https://store.steampowered.com/app/13580)
 
 ---
 
 ### Tomb Raider: Legend
 
-**Platforms:** Windows, PlayStation 2, Xbox, Xbox 360, PlayStation Portable, GameCube, Game Boy Advance, Nintendo DS &nbsp;|&nbsp; **Released:** April 11
+<img src="../images/steam-7000.jpg" alt="Tomb Raider: Legend cover" width="200">
+
+**Platforms:** Windows, PlayStation 2, Xbox, Xbox 360, PlayStation Portable, GameCube, Game Boy Advance, Nintendo DS &nbsp;|&nbsp; **Genre:** Action, Adventure &nbsp;|&nbsp; **Released:** April 11
+
+> Follow Lara Croft down a path of discovery as she travels the globe to remote, exotic locales in search of one of history's greatest artifacts, that unleashes unwelcome figures from Lara's mysterious past.
+>
+> _Synopsis source: Steam_
+
+[Steam](https://store.steampowered.com/app/7000)
 
 ---
 
@@ -2782,9 +2886,15 @@
 
 ### 7 Sins
 
-**Platforms:** Windows, PlayStation 2 &nbsp;|&nbsp; **Released:** May 27
+<img src="../images/steam-5064890.jpg" alt="7 Sins cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/7_Sins_(video_game))
+**Platforms:** Windows, PlayStation 2 &nbsp;|&nbsp; **Genre:** Action, Indie, Early Access &nbsp;|&nbsp; **Released:** May 27
+
+> 7 Sins is a 1-4 player co-op psychological horror game. Search for their items and destroy them in a ritual to stop the creatures. However, whoever touches an item falls victim to the curse of that sin and becomes trapped in mental hallucinations. Resist the curse, solve the mystery, and survive!
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/7_Sins_(video_game)) · [Steam](https://store.steampowered.com/app/5064890)
 
 ---
 
@@ -2796,9 +2906,15 @@
 
 ### Area 51
 
-**Platforms:** Windows, PlayStation 2, Xbox &nbsp;|&nbsp; **Released:** June 8
+<img src="../images/steam-4423180.jpg" alt="Area 51 cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/Area_51_(2005_video_game))
+**Platforms:** Windows, PlayStation 2, Xbox &nbsp;|&nbsp; **Genre:** Action, Adventure, Casual, Indie, Simulation &nbsp;|&nbsp; **Released:** June 8
+
+> Storm AREA 51 with your friends. Explore the most classified facility on earth. Discover what they've been hiding. Take selfies with aliens and smuggle evidence out before the military arrives.
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Area_51_(2005_video_game)) · [Steam](https://store.steampowered.com/app/4423180)
 
 ---
 
@@ -2836,13 +2952,29 @@
 
 ### Brothers in Arms: Earned in Blood
 
-**Platforms:** Windows, PlayStation 2, Xbox &nbsp;|&nbsp; **Released:** October 26
+<img src="../images/steam-19800.jpg" alt="Brothers in Arms: Earned in Blood cover" width="200">
+
+**Platforms:** Windows, PlayStation 2, Xbox &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** October 26
+
+> With its unprecedented combination of authenticity, compelling story and squad-based action, the Brothers in Arms franchise has established itself as a benchmark for military action games, receiving the highest average review scores of any console WWII game to date (www.gamerankings.com).
+>
+> _Synopsis source: Steam_
+
+[Steam](https://store.steampowered.com/app/19800)
 
 ---
 
 ### Brothers in Arms: Road to Hill 30
 
-**Platforms:** Xbox, Windows, PlayStation 2 &nbsp;|&nbsp; **Released:** March 1
+<img src="../images/steam-15190.jpg" alt="Brothers in Arms: Road to Hill 30 cover" width="200">
+
+**Platforms:** Xbox, Windows, PlayStation 2 &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** March 1
+
+> Based on a true story. Set during the famous airdrop before the invasion at Normandy, where Sgt. Matt Baker and his squad of 101st Airborne Paratroopers were scattered over the French countryside.
+>
+> _Synopsis source: Steam_
+
+[Steam](https://store.steampowered.com/app/15190)
 
 ---
 
@@ -3206,15 +3338,29 @@
 
 ### Judge Dredd: Dredd vs. Death
 
-**Platforms:** PlayStation 2, Xbox, GameCube, Windows &nbsp;|&nbsp; **Released:** February 24
+<img src="../images/steam-3710.jpg" alt="Judge Dredd: Dredd vs. Death cover" width="200">
+
+**Platforms:** PlayStation 2, Xbox, GameCube, Windows &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** February 24
+
+> Welcome to Mega-City One, a city of over 400 million people - every one of them a potential criminal. It is the third decade of the 22nd Century, unemployment is widespread, boredom is universal and only the Judges can prevent total anarchy. Empowered to dispense instant justice, they are Judge, Jury and Executioner all in one.
+>
+> _Synopsis source: Steam_
+
+[Steam](https://store.steampowered.com/app/3710)
 
 ---
 
 ### Juiced
 
-**Platforms:** Windows, PlayStation 2, Xbox &nbsp;|&nbsp; **Released:** June 13
+<img src="../images/steam-1287310.jpg" alt="Juiced cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/Juiced_(video_game))
+**Platforms:** Windows, PlayStation 2, Xbox &nbsp;|&nbsp; **Genre:** Action, Adventure, Indie &nbsp;|&nbsp; **Released:** June 13
+
+> Embark on an epic journey through exotic worlds to uncover the mystery of the magic crystals! An exciting retro platform adventure in the nostalgic style of the 90's DOS platformers
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Juiced_(video_game)) · [Steam](https://store.steampowered.com/app/1287310)
 
 ---
 
@@ -3374,7 +3520,15 @@
 
 ### Need for Speed: Most Wanted
 
-**Platforms:** Windows, PlayStation 2, Xbox, GameCube, Game Boy Advance, Nintendo DS, PlayStation Portable, Xbox 360 &nbsp;|&nbsp; **Released:** November 16
+<img src="../images/steam-1262560.jpg" alt="Need for Speed: Most Wanted cover" width="200">
+
+**Platforms:** Windows, PlayStation 2, Xbox, GameCube, Game Boy Advance, Nintendo DS, PlayStation Portable, Xbox 360 &nbsp;|&nbsp; **Genre:** Action, Adventure, Racing &nbsp;|&nbsp; **Released:** November 16
+
+> The open-world action in Need for Speed Most Wanted gives you the freedom to drive your way. Hit jumps and shortcuts, switch cars, lie low or head for terrain that plays to your vehicle’s unique strengths. Fight your way past cops and rivals using skill, high-end car tech and tons of nitrous.
+>
+> _Synopsis source: Steam_
+
+[Steam](https://store.steampowered.com/app/1262560)
 
 ---
 
@@ -3386,9 +3540,15 @@
 
 ### ObsCure
 
-**Platforms:** Windows, PlayStation 2, Xbox &nbsp;|&nbsp; **Released:** April 26
+<img src="../images/steam-254460.jpg" alt="ObsCure cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/ObsCure)
+**Platforms:** Windows, PlayStation 2, Xbox &nbsp;|&nbsp; **Genre:** Action, Adventure &nbsp;|&nbsp; **Released:** April 26
+
+> For some time now, Leafmore High School has been the setting for unexplained disappearances. In this survival horror game, you take control of a group of 5 American students. With your friends, you try to unravel the mysterious happenings at this unremarkable-looking school. The night will be long and survival not will not be easy...
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/ObsCure) · [Steam](https://store.steampowered.com/app/254460)
 
 ---
 
@@ -3426,7 +3586,15 @@
 
 ### Prince of Persia: The Two Thrones
 
-**Platforms:** Windows, PlayStation 2, Xbox, GameCube &nbsp;|&nbsp; **Released:** November 30
+<img src="../images/steam-13530.jpg" alt="Prince of Persia: The Two Thrones cover" width="200">
+
+**Platforms:** Windows, PlayStation 2, Xbox, GameCube &nbsp;|&nbsp; **Genre:** Action, Adventure &nbsp;|&nbsp; **Released:** November 30
+
+> The Prince of Persia, a seasoned warrior, returns from the Island of Time to Babylon with his love, Kaileena. Instead of the peace that he longs for, he finds his homeland ravaged by war and the kingdom turned against him.
+>
+> _Synopsis source: Steam_
+
+[Steam](https://store.steampowered.com/app/13530)
 
 ---
 
@@ -3440,9 +3608,15 @@
 
 ### Psychonauts
 
-**Platforms:** Xbox, Windows, PlayStation 2 &nbsp;|&nbsp; **Publisher:** Majesco &nbsp;|&nbsp; **Released:** April 19, 2005
+<img src="../images/steam-3830.jpg" alt="Psychonauts cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/Psychonauts)
+**Platforms:** Xbox, Windows, PlayStation 2 &nbsp;|&nbsp; **Publisher:** Majesco &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** April 19, 2005
+
+> A Psychic Odyssey Through the Minds of Misfits, Monsters, and Madmen. This classic action/adventure platformer from acclaimed developers Double Fine Productions follows the story of a young psychic named Razputin.
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Psychonauts) · [Steam](https://store.steampowered.com/app/3830)
 
 ---
 
@@ -3682,7 +3856,15 @@
 
 ### Tom Clancy's Splinter Cell: Chaos Theory
 
-**Platforms:** Xbox, Windows, PlayStation 2, GameCube &nbsp;|&nbsp; **Publisher:** Ubisoft &nbsp;|&nbsp; **Released:** March 28, 2005
+<img src="../images/steam-13570.jpg" alt="Tom Clancy's Splinter Cell: Chaos Theory cover" width="200">
+
+**Platforms:** Xbox, Windows, PlayStation 2, GameCube &nbsp;|&nbsp; **Publisher:** Ubisoft &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** March 28, 2005
+
+> Experience one of the most critically acclaimed stealth-action games of all time. Uncover a conspiracy that hits close to home and stop World War III.
+>
+> _Synopsis source: Steam_
+
+[Steam](https://store.steampowered.com/app/13570)
 
 ---
 
@@ -3814,9 +3996,15 @@
 
 ### Alias
 
-**Platforms:** Windows, PlayStation 2, Xbox &nbsp;|&nbsp; **Released:** April 5
+<img src="../images/steam-3092710.jpg" alt="Alias cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/Alias_(video_game))
+**Platforms:** Windows, PlayStation 2, Xbox &nbsp;|&nbsp; **Genre:** Adventure, Casual, Indie, RPG &nbsp;|&nbsp; **Released:** April 5
+
+> Alia’s Chronicles is a puzzle-narrative game where you play as Neniu, a semi-elf on his quest for identity. Every action you take impacts the story! Craft tools, use your powers to solve puzzles, and prove yourself to the inhabitants of this enchanting world.
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Alias_(video_game)) · [Steam](https://store.steampowered.com/app/3092710)
 
 ---
 
@@ -4150,7 +4338,15 @@
 
 ### Hitman: Contracts
 
-**Platforms:** Windows, PlayStation 2, Xbox &nbsp;|&nbsp; **Released:** April 20
+<img src="../images/steam-247430.jpg" alt="Hitman: Contracts cover" width="200">
+
+**Platforms:** Windows, PlayStation 2, Xbox &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** April 20
+
+> Enter the world of a HITMAN - a world of crime, sin and greed. Delve into the mind of Agent 47 and encounter his greatest adversaries, completing the work that made him so brutally efficient and shaped him as an assassin. Eliminate your targets by any means necessary. There are no rules... only the contract, signed in blood.
+>
+> _Synopsis source: Steam_
+
+[Steam](https://store.steampowered.com/app/247430)
 
 ---
 
@@ -4368,7 +4564,15 @@
 
 ### Prince of Persia: Warrior Within
 
-**Platforms:** Windows, GameCube, PlayStation 2, Xbox &nbsp;|&nbsp; **Released:** December 2
+<img src="../images/steam-13500.jpg" alt="Prince of Persia: Warrior Within cover" width="200">
+
+**Platforms:** Windows, GameCube, PlayStation 2, Xbox &nbsp;|&nbsp; **Genre:** Action, Adventure &nbsp;|&nbsp; **Released:** December 2
+
+> Enter the dark underworld of Prince of Persia Warrior Within, the sword-slashing sequel to the critically acclaimed Prince of Persia: The Sands of Time™. Hunted by Dahaka, an immortal incarnation of Fate seeking divine retribution, the Prince embarks upon a path of both carnage and mystery to defy his preordained death.
+>
+> _Synopsis source: Steam_
+
+[Steam](https://store.steampowered.com/app/13500)
 
 ---
 
@@ -4552,7 +4756,15 @@
 
 ### Star Wars: Battlefront
 
-**Platforms:** Windows, PlayStation 2, Xbox &nbsp;|&nbsp; **Released:** September 21
+<img src="../images/steam-1237980.jpg" alt="Star Wars: Battlefront cover" width="200">
+
+**Platforms:** Windows, PlayStation 2, Xbox &nbsp;|&nbsp; **Genre:** Action, Adventure, Strategy &nbsp;|&nbsp; **Released:** September 21
+
+> The STAR WARS™ Battlefront™ Ultimate Edition includes the STAR WARS™ Battlefront™ Deluxe Edition as well as the STAR WARS™ Battlefront™ Season Pass.
+>
+> _Synopsis source: Steam_
+
+[Steam](https://store.steampowered.com/app/1237980)
 
 ---
 
@@ -4624,9 +4836,15 @@
 
 ### The Suffering
 
-**Platforms:** Windows, PlayStation 2, Xbox &nbsp;|&nbsp; **Released:** March 8
+<img src="../images/steam-1726550.jpg" alt="The Suffering cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/The_Suffering_(video_game))
+**Platforms:** Windows, PlayStation 2, Xbox &nbsp;|&nbsp; **Genre:** Action, Adventure, Indie &nbsp;|&nbsp; **Released:** March 8
+
+> This game is a psychological horror in which the main character wakes up in an unfamiliar house and must pass all the levels by solving puzzles.
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/The_Suffering_(video_game)) · [Steam](https://store.steampowered.com/app/1726550)
 
 ---
 
@@ -4648,7 +4866,15 @@
 
 ### Tom Clancy's Splinter Cell: Pandora Tomorrow
 
-**Platforms:** Xbox, Windows, GameCube, PlayStation 2 &nbsp;|&nbsp; **Publisher:** Ubisoft &nbsp;|&nbsp; **Released:** March 23, 2004
+<img src="../images/steam-3929740.jpg" alt="Tom Clancy's Splinter Cell: Pandora Tomorrow cover" width="200">
+
+**Platforms:** Xbox, Windows, GameCube, PlayStation 2 &nbsp;|&nbsp; **Publisher:** Ubisoft &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** March 23, 2004
+
+> Infiltrate secure locations across the globe in this stealth-action thriller. Uncover a global conspiracy and stop a deadly bio-terror attack in the second game of the award-winning Splinter Cell series.
+>
+> _Synopsis source: Steam_
+
+[Steam](https://store.steampowered.com/app/3929740)
 
 ---
 
@@ -4992,9 +5218,15 @@
 
 ### Freedom Fighters
 
-**Platforms:** Windows, PlayStation 2, Xbox, GameCube &nbsp;|&nbsp; **Released:** October 1
+<img src="../images/steam-1347780.jpg" alt="Freedom Fighters cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/Freedom_Fighters_(video_game))
+**Platforms:** Windows, PlayStation 2, Xbox, GameCube &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** October 1
+
+> Freedom Fighters is an intense third-person action game set in an alternate history New York during the invasion of a foreign superpower. Take on the role of Chris Stone, a hard-working plumber, and rise through the ranks of the resistance to prove yourself as a charismatic leader.
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Freedom_Fighters_(video_game)) · [Steam](https://store.steampowered.com/app/1347780)
 
 ---
 
@@ -5054,7 +5286,15 @@
 
 ### Judge Dredd: Dredd vs. Death
 
-**Platforms:** Windows, GameCube, PlayStation 2, Xbox &nbsp;|&nbsp; **Released:** October 17
+<img src="../images/steam-3710.jpg" alt="Judge Dredd: Dredd vs. Death cover" width="200">
+
+**Platforms:** Windows, GameCube, PlayStation 2, Xbox &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** October 17
+
+> Welcome to Mega-City One, a city of over 400 million people - every one of them a potential criminal. It is the third decade of the 22nd Century, unemployment is widespread, boredom is universal and only the Judges can prevent total anarchy. Empowered to dispense instant justice, they are Judge, Jury and Executioner all in one.
+>
+> _Synopsis source: Steam_
+
+[Steam](https://store.steampowered.com/app/3710)
 
 ---
 
@@ -5112,7 +5352,15 @@
 
 ### Max Payne 2: The Fall of Max Payne
 
-**Platforms:** Windows, Xbox, PlayStation 2 &nbsp;|&nbsp; **Publisher:** Rockstar Games &nbsp;|&nbsp; **Released:** October 14, 2003
+<img src="../images/steam-12150.jpg" alt="Max Payne 2: The Fall of Max Payne cover" width="200">
+
+**Platforms:** Windows, Xbox, PlayStation 2 &nbsp;|&nbsp; **Publisher:** Rockstar Games &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** October 14, 2003
+
+> Max Payne 2: The Fall of Max Payne is a violent, film-noir love story. Dark, tragic and intense, the in-depth story is a thrill-ride of shocking twists and revelations. Love hurts.
+>
+> _Synopsis source: Steam_
+
+[Steam](https://store.steampowered.com/app/12150)
 
 ---
 
@@ -5236,7 +5484,15 @@
 
 ### Prince of Persia: The Sands of Time
 
-**Platforms:** Xbox, GameCube, PlayStation 2, Windows &nbsp;|&nbsp; **Publisher:** Ubisoft &nbsp;|&nbsp; **Released:** November 18, 2003
+<img src="../images/steam-13600.jpg" alt="Prince of Persia: The Sands of Time cover" width="200">
+
+**Platforms:** Xbox, GameCube, PlayStation 2, Windows &nbsp;|&nbsp; **Publisher:** Ubisoft &nbsp;|&nbsp; **Genre:** Action, Adventure &nbsp;|&nbsp; **Released:** November 18, 2003
+
+> Amidst the scorched sands of ancient Persia, there is a legend spun in an ancient tongue. It speaks of a time borne by blood and ruled by deceit. Drawn to the dark powers of a magic dagger, a young Prince is led to unleash a deadly evil upon a beautiful kingdom.
+>
+> _Synopsis source: Steam_
+
+[Steam](https://store.steampowered.com/app/13600)
 
 ---
 
@@ -5394,9 +5650,15 @@
 
 ### The Great Escape
 
-**Platforms:** Windows, PlayStation 2, Xbox &nbsp;|&nbsp; **Released:** July 23
+<img src="../images/steam-814570.jpg" alt="The Great Escape cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/The_Great_Escape_(2003_video_game))
+**Platforms:** Windows, PlayStation 2, Xbox &nbsp;|&nbsp; **Genre:** Action, Adventure, Simulation, Strategy &nbsp;|&nbsp; **Released:** July 23
+
+> Captured, but not defeated, you are being held in the notorious Heldentod camp. This small, converted castle in the middle of nowhere will be your home for the rest of the war—unless you can escape to rejoin the Allied Armies.
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/The_Great_Escape_(2003_video_game)) · [Steam](https://store.steampowered.com/app/814570)
 
 ---
 
@@ -5446,9 +5708,15 @@
 
 ### Tom Clancy's Splinter Cell
 
-**Platforms:** Windows, PlayStation 2, GameCube &nbsp;|&nbsp; **Publisher:** Ubisoft &nbsp;|&nbsp; **Released:** February 19, 2003
+<img src="../images/steam-13560.jpg" alt="Tom Clancy's Splinter Cell cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/Tom_Clancy%27s_Splinter_Cell_(video_game))
+**Platforms:** Windows, PlayStation 2, GameCube &nbsp;|&nbsp; **Publisher:** Ubisoft &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** February 19, 2003
+
+> Enter the world of cinematic stealth action with Splinter Cell, the game that propelled the genre to cult status. You are Sam Fisher, an elite covert agent in the NSA's top-secret division: Third Echelon.
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Tom_Clancy%27s_Splinter_Cell_(video_game)) · [Steam](https://store.steampowered.com/app/13560)
 
 ---
 
@@ -6026,7 +6294,15 @@
 
 ### Hitman 2: Silent Assassin
 
-**Platforms:** Windows, PlayStation 2, Xbox &nbsp;|&nbsp; **Released:** October 1
+<img src="../images/steam-6850.jpg" alt="Hitman 2: Silent Assassin cover" width="200">
+
+**Platforms:** Windows, PlayStation 2, Xbox &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** October 1
+
+> Enter the realm of a retired assassin, forced back into action by treason. You may be a hired killer but you still have a sense of loyalty and justice. Visit the dark recesses of a world corrupted by crime, greed, degradation and dishonor. And a past that catches up with you.
+>
+> _Synopsis source: Steam_
+
+[Steam](https://store.steampowered.com/app/6850)
 
 ---
 
@@ -7002,7 +7278,15 @@
 
 ### Zapper: One Wicked Cricket
 
-**Platforms:** Windows, PlayStation 2, Xbox, GameCube, Game Boy Advance &nbsp;|&nbsp; **Released:** November 5
+<img src="../images/steam-2766060.jpg" alt="Zapper: One Wicked Cricket cover" width="200">
+
+**Platforms:** Windows, PlayStation 2, Xbox, GameCube, Game Boy Advance &nbsp;|&nbsp; **Genre:** Action, Adventure &nbsp;|&nbsp; **Released:** November 5
+
+> In this action-adventure game, Zapper (a cricket) hops his way through six worlds in a quest to find his brother, held captive by the evil magpie queen. Dangerous traps and even more dangerous enemies await! It will take skill and timing to conquer all the worlds and survive the final showdown.
+>
+> _Synopsis source: Steam_
+
+[Steam](https://store.steampowered.com/app/2766060)
 
 ---
 
@@ -7256,7 +7540,15 @@
 
 ### Myst III: Exile
 
-**Platforms:** Windows, PlayStation 2 &nbsp;|&nbsp; **Released:** May 8
+<img src="../images/steam-925930.jpg" alt="Myst III: Exile cover" width="200">
+
+**Platforms:** Windows, PlayStation 2 &nbsp;|&nbsp; **Genre:** Adventure, Casual &nbsp;|&nbsp; **Released:** May 8
+
+> The story of Myst continues in this third entry of the series, originally released in 2001. Return to this strange and wondrous universe, where books become portals into worlds, and where the lessons of the past may yet hold meaning for today...
+>
+> _Synopsis source: Steam_
+
+[Steam](https://store.steampowered.com/app/925930)
 
 ---
 

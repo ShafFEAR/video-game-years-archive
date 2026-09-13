@@ -1,0 +1,479 @@
+[
+  {
+    "year": 2015,
+    "section": "Critically acclaimed titles",
+    "title": "Grand Theft Auto V",
+    "wiki_title": "Grand Theft Auto V",
+    "wiki_url": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_V",
+    "redlink": false,
+    "publisher": "Rockstar Games",
+    "release_date": "April 14, 2015",
+    "mc score": "96/100",
+    "gr score": "95.07%",
+    "platform_breakdown": {
+      "platform": "WIN"
+    },
+    "platforms": [
+      "Windows"
+    ],
+    "steam": null
+  },
+  {
+    "year": 2015,
+    "section": "Critically acclaimed titles",
+    "title": "Out of the Park Baseball 16",
+    "wiki_title": "Out of the Park Baseball",
+    "wiki_url": "https://en.wikipedia.org/wiki/Out_of_the_Park_Baseball",
+    "redlink": false,
+    "publisher": "Out of the Park Developments",
+    "release_date": "March 23, 2015",
+    "mc score": "91/100",
+    "gr score": "95.25% [ 17 ]",
+    "platform_breakdown": {
+      "platform": "WIN"
+    },
+    "platforms": [
+      "Windows"
+    ],
+    "steam": null
+  },
+  {
+    "year": 2015,
+    "section": "Critically acclaimed titles",
+    "title": "Metal Gear Solid V: The Phantom Pain",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "publisher": "Konami",
+    "release_date": "September 1, 2015",
+    "mc score": "95/100",
+    "gr score": "90.38%",
+    "platform_breakdown": {
+      "platform": "WIN"
+    },
+    "platforms": [
+      "Xbox One",
+      "PlayStation 4",
+      "Windows"
+    ],
+    "steam": {
+      "appid": 287700,
+      "name": "METAL GEAR SOLID V: THE PHANTOM PAIN",
+      "short_description": "Ushering in a new era for the METAL GEAR franchise with cutting-edge technology powered by the Fox Engine, METAL GEAR SOLID V: The Phantom Pain, will provide players a first-rate gaming experience as they are offered tactical freedom to carry out open-world missions.",
+      "image_path": "images/steam-287700.jpg",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "release_date": "Sep 1, 2015",
+      "site_url": "https://store.steampowered.com/app/287700",
+      "year_match": true
+    }
+  },
+  {
+    "year": 2015,
+    "section": "Critically acclaimed titles",
+    "title": "Journey",
+    "wiki_title": "Journey (2012 video game)",
+    "wiki_url": "https://en.wikipedia.org/wiki/Journey_(2012_video_game)",
+    "redlink": false,
+    "publisher": "Sony Computer Entertainment",
+    "release_date": "July 21, 2015",
+    "mc score": "92/100",
+    "gr score": "94.8%",
+    "platform_breakdown": {
+      "platform": "PS4"
+    },
+    "platforms": [
+      "PlayStation 4"
+    ]
+  },
+  {
+    "year": 2015,
+    "section": "Critically acclaimed titles",
+    "title": "Undertale",
+    "wiki_title": "Undertale",
+    "wiki_url": "https://en.wikipedia.org/wiki/Undertale",
+    "redlink": false,
+    "publisher": "Toby Fox",
+    "release_date": "September 15, 2015",
+    "mc score": "92/100",
+    "gr score": "94.11%",
+    "platform_breakdown": {
+      "platform": "WIN"
+    },
+    "platforms": [
+      "Windows"
+    ],
+    "steam": {
+      "appid": 391540,
+      "name": "Undertale",
+      "short_description": "UNDERTALE! The RPG game where you don't have to destroy anyone.",
+      "image_path": "images/steam-391540.jpg",
+      "genres": [
+        "Indie",
+        "RPG"
+      ],
+      "release_date": "Sep 15, 2015",
+      "site_url": "https://store.steampowered.com/app/391540",
+      "year_match": true
+    }
+  },
+  {
+    "year": 2015,
+    "section": "Critically acclaimed titles",
+    "title": "Divinity: Original Sin Enhanced Edition",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "publisher": "Larian Studios",
+    "release_date": "October 27, 2015",
+    "mc score": "94/100",
+    "gr score": "90% [ 18 ]",
+    "platform_breakdown": {
+      "platform": "WIN"
+    },
+    "platforms": [
+      "Windows"
+    ],
+    "steam": {
+      "appid": 373420,
+      "name": "Divinity: Original Sin - Enhanced Edition",
+      "short_description": "Gather your party and get ready for the kick-ass new version of GameSpot's PC Game of the Year 2014. With hours of new content, new game modes, full voiceovers, split-screen multiplayer, and thousands of improvements, there's never been a better time to explore the epic world of Rivellon!",
+      "image_path": "images/steam-373420.jpg",
+      "genres": [
+        "Adventure",
+        "Indie",
+        "RPG",
+        "Strategy"
+      ],
+      "release_date": "Oct 27, 2015",
+      "site_url": "https://store.steampowered.com/app/373420",
+      "year_match": true
+    }
+  },
+  {
+    "year": 2015,
+    "section": "Critically acclaimed titles",
+    "title": "Mario Kart 8 DLC Pack 2",
+    "wiki_title": "Mario Kart 8",
+    "wiki_url": "https://en.wikipedia.org/wiki/Mario_Kart_8",
+    "redlink": false,
+    "publisher": "Nintendo",
+    "release_date": "April 23, 2015",
+    "mc score": "90/100",
+    "gr score": "93.5%",
+    "platform_breakdown": {
+      "platform": "WiiU"
+    },
+    "platforms": [
+      "Wii U"
+    ]
+  },
+  {
+    "year": 2015,
+    "section": "Critically acclaimed titles",
+    "title": "The Swapper",
+    "wiki_title": "The Swapper",
+    "wiki_url": "https://en.wikipedia.org/wiki/The_Swapper",
+    "redlink": false,
+    "publisher": "Curve Studios",
+    "release_date": "June 5, 2015",
+    "mc score": "92/100",
+    "gr score": "93.33%",
+    "platform_breakdown": {
+      "platform": "XBO"
+    },
+    "platforms": [
+      "Xbox One"
+    ]
+  },
+  {
+    "year": 2015,
+    "section": "Critically acclaimed titles",
+    "title": "The Witcher 3: Wild Hunt",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "publisher": "CD Projekt",
+    "release_date": "May 19, 2015",
+    "mc score": "93/100",
+    "gr score": "92.11%",
+    "platform_breakdown": {
+      "platform": "XBO"
+    },
+    "platforms": [
+      "Windows",
+      "PlayStation 4",
+      "Xbox One"
+    ],
+    "steam": {
+      "appid": 292030,
+      "name": "The Witcher 3: Wild Hunt - Complete Edition",
+      "short_description": "You are Geralt of Rivia, mercenary monster slayer. Before you stands a war-torn, monster-infested continent you can explore at will. Your current contract? Tracking down Ciri — the Child of Prophecy, a living weapon that can alter the shape of the world.",
+      "image_path": "images/steam-292030.jpg",
+      "genres": [
+        "RPG"
+      ],
+      "release_date": "May 18, 2015",
+      "site_url": "https://store.steampowered.com/app/292030",
+      "year_match": true
+    }
+  },
+  {
+    "year": 2015,
+    "section": "Critically acclaimed titles",
+    "title": "Bloodborne",
+    "wiki_title": "Bloodborne",
+    "wiki_url": "https://en.wikipedia.org/wiki/Bloodborne",
+    "redlink": false,
+    "publisher": "Sony Computer Entertainment",
+    "release_date": "March 24, 2015",
+    "mc score": "92/100",
+    "gr score": "90.66%",
+    "platform_breakdown": {
+      "platform": "PS4"
+    },
+    "platforms": [
+      "PlayStation 4"
+    ]
+  },
+  {
+    "year": 2015,
+    "section": "Critically acclaimed titles",
+    "title": "Shovel Knight",
+    "wiki_title": "Shovel Knight",
+    "wiki_url": "https://en.wikipedia.org/wiki/Shovel_Knight",
+    "redlink": false,
+    "publisher": "Yacht Club Games",
+    "release_date": "April 21, 2015",
+    "mc score": "92/100",
+    "gr score": "90.4%",
+    "platform_breakdown": {
+      "platform": "PS4"
+    },
+    "platforms": [
+      "PlayStation Vita",
+      "PlayStation 4"
+    ]
+  },
+  {
+    "year": 2015,
+    "section": "Critically acclaimed titles",
+    "title": "The Witcher 3: Wild Hunt – Hearts of Stone",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "publisher": "CD Projekt",
+    "release_date": "October 13, 2015",
+    "mc score": "90/100",
+    "gr score": "91.19%",
+    "platform_breakdown": {
+      "platform": "XBO"
+    },
+    "platforms": [
+      "PlayStation 4",
+      "Xbox One"
+    ]
+  },
+  {
+    "year": 2015,
+    "section": "Critically acclaimed titles",
+    "title": "80 Days",
+    "wiki_title": "80 Days (2014 video game)",
+    "wiki_url": "https://en.wikipedia.org/wiki/80_Days_(2014_video_game)",
+    "redlink": false,
+    "publisher": "Inkle",
+    "release_date": "September 29, 2015",
+    "mc score": "84/100",
+    "gr score": "91%",
+    "platform_breakdown": {
+      "platform": "WIN"
+    },
+    "platforms": [
+      "Windows"
+    ],
+    "steam": {
+      "appid": 381780,
+      "name": "80 Days",
+      "short_description": "1872, with a steampunk twist. Phileas Fogg has wagered he can circumnavigate the world in just 80 days. Travel by airship, submarine, mechanical camel, steam-train and more. Race other players and a clock that never stops in TIME Magazine's Game of 2014.",
+      "image_path": "images/steam-381780.jpg",
+      "genres": [
+        "Adventure",
+        "Indie",
+        "Strategy"
+      ],
+      "release_date": "Sep 28, 2015",
+      "site_url": "https://store.steampowered.com/app/381780",
+      "year_match": true
+    }
+  },
+  {
+    "year": 2015,
+    "section": "Critically acclaimed titles",
+    "title": "Shovel Knight: Plague of Shadows",
+    "wiki_title": "Shovel Knight",
+    "wiki_url": "https://en.wikipedia.org/wiki/Shovel_Knight",
+    "redlink": false,
+    "publisher": "Yacht Club Games",
+    "release_date": "September 17, 2015",
+    "mc score": "89/100",
+    "gr score": "90.5% [ 19 ]",
+    "platform_breakdown": {
+      "platform": "WIN"
+    },
+    "platforms": [
+      "Windows"
+    ],
+    "steam": null
+  },
+  {
+    "year": 2015,
+    "section": "Critically acclaimed titles",
+    "title": "Nuclear Throne",
+    "wiki_title": "Nuclear Throne",
+    "wiki_url": "https://en.wikipedia.org/wiki/Nuclear_Throne",
+    "redlink": false,
+    "publisher": "Vlambeer",
+    "release_date": "December 5, 2015",
+    "mc score": "88/100",
+    "gr score": "90.43%",
+    "platform_breakdown": {
+      "platform": "WIN"
+    },
+    "platforms": [
+      "Windows"
+    ],
+    "steam": {
+      "appid": 242680,
+      "name": "Nuclear Throne",
+      "short_description": "Nuclear Throne is a post-apocalyptic roguelike-like top-down shooter. Not 'the final hope of humanity' post-apocalyptic, but 'humanity is extinct and mutants and monsters now roam the world' post-apocalyptic. Can you reach the Nuclear Throne?",
+      "image_path": "images/steam-242680.jpg",
+      "genres": [
+        "Action",
+        "Indie",
+        "RPG"
+      ],
+      "release_date": "Dec 5, 2015",
+      "site_url": "https://store.steampowered.com/app/242680",
+      "year_match": true
+    }
+  },
+  {
+    "year": 2015,
+    "section": "Critically acclaimed titles",
+    "title": "The Legend of Zelda: Majora's Mask 3D",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "publisher": "Nintendo",
+    "release_date": "February 13, 2015",
+    "mc score": "89/100",
+    "gr score": "90.39%",
+    "platform_breakdown": {
+      "platform": "3DS"
+    },
+    "platforms": [
+      "Nintendo 3DS"
+    ]
+  },
+  {
+    "year": 2015,
+    "section": "Critically acclaimed titles",
+    "title": "Tales from the Borderlands: Episode 5 – The Vault of the Traveler",
+    "wiki_title": "Tales from the Borderlands",
+    "wiki_url": "https://en.wikipedia.org/wiki/Tales_from_the_Borderlands",
+    "redlink": false,
+    "publisher": "Telltale Games",
+    "release_date": "October 20, 2015",
+    "mc score": "90/100",
+    "gr score": "89.89%",
+    "platform_breakdown": {
+      "platform": "PS4"
+    },
+    "platforms": [
+      "PlayStation 4"
+    ]
+  },
+  {
+    "year": 2015,
+    "section": "Critically acclaimed titles",
+    "title": "Broken Age",
+    "wiki_title": "Broken Age",
+    "wiki_url": "https://en.wikipedia.org/wiki/Broken_Age",
+    "redlink": false,
+    "publisher": "Double Fine Productions",
+    "release_date": "April 28, 2015",
+    "mc score": "90/100",
+    "gr score": "89% [ 20 ]",
+    "platform_breakdown": {
+      "platform": "PSV"
+    },
+    "platforms": [
+      "PlayStation Vita"
+    ]
+  },
+  {
+    "year": 2015,
+    "section": "Critically acclaimed titles",
+    "title": "Roche Fusion",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "publisher": "amulware",
+    "release_date": "January 23, 2015",
+    "mc score": "85/100",
+    "gr score": "90%",
+    "platform_breakdown": {
+      "platform": "WIN"
+    },
+    "platforms": [
+      "Windows"
+    ],
+    "steam": {
+      "appid": 334140,
+      "name": "Roche Fusion",
+      "short_description": "Roche Fusion is a retro, over the top space shooter. An all you can shoot buffet; fast paced and procedurally generated; with crazy waves of enemies, awesome upgrades and wicked boss-fights! Also: Explosions. Lots of explosions.",
+      "image_path": "images/steam-334140.jpg",
+      "genres": [
+        "Action",
+        "Casual",
+        "Indie"
+      ],
+      "release_date": "Jan 23, 2015",
+      "site_url": "https://store.steampowered.com/app/334140",
+      "year_match": true
+    }
+  },
+  {
+    "year": 2015,
+    "section": "Critically acclaimed titles",
+    "title": "Odallus: The Dark Call",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "publisher": "Joymasher",
+    "release_date": "July 15, 2015",
+    "mc score": "80/100",
+    "gr score": "90%",
+    "platform_breakdown": {
+      "platform": "WIN"
+    },
+    "platforms": [
+      "Windows"
+    ],
+    "steam": {
+      "appid": 319480,
+      "name": "Odallus: The Dark Call",
+      "short_description": "The old gods have forgotten this land. No one could save our people when darkness started spreading and collecting human souls for its army. Odallus is a classic exploration/action game, inspired by Ghosts’n Goblins, Demon’s Crest and Castlevania.",
+      "image_path": "images/steam-319480.jpg",
+      "genres": [
+        "Action",
+        "Indie"
+      ],
+      "release_date": "Jul 15, 2015",
+      "site_url": "https://store.steampowered.com/app/319480",
+      "year_match": true
+    }
+  }
+]

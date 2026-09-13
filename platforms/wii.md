@@ -50,7 +50,15 @@
 
 ### Call of Duty: Modern Warfare 3
 
-**Platforms:** Windows, PlayStation 3, Xbox 360, Wii &nbsp;|&nbsp; **Released:** November 8
+<img src="../images/steam-42680.jpg" alt="Call of Duty: Modern Warfare 3 cover" width="200">
+
+**Platforms:** Windows, PlayStation 3, Xbox 360, Wii &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** November 8
+
+> The best-selling first-person action series of all-time returns with an epic sequel to the multiple GOTY award winner Call of Duty®: Modern Warfare® 2
+>
+> _Synopsis source: Steam_
+
+[Steam](https://store.steampowered.com/app/42680)
 
 ---
 
@@ -230,19 +238,43 @@
 
 ### Lego Harry Potter: Years 5–7
 
-**Platforms:** Windows, Xbox 360, PlayStation 3, PlayStation Portable, Wii, Nintendo DS, Nintendo 3DS, iOS &nbsp;|&nbsp; **Released:** November 11
+<img src="../images/steam-204120.jpg" alt="Lego Harry Potter: Years 5–7 cover" width="200">
+
+**Platforms:** Windows, Xbox 360, PlayStation 3, PlayStation Portable, Wii, Nintendo DS, Nintendo 3DS, iOS &nbsp;|&nbsp; **Genre:** Adventure &nbsp;|&nbsp; **Released:** November 11
+
+> LEGO Harry Potter: Years 5-7 takes players through Harry Potter's heroic adventures in the Muggle and wizarding worlds.
+>
+> _Synopsis source: Steam_
+
+[Steam](https://store.steampowered.com/app/204120)
 
 ---
 
 ### Lego Pirates of the Caribbean: The Video Game
 
-**Platforms:** Nintendo 3DS, Xbox 360, PlayStation 3, Wii, PlayStation Portable, Nintendo DS, Windows &nbsp;|&nbsp; **Released:** May 10
+<img src="../images/steam-311770.jpg" alt="Lego Pirates of the Caribbean: The Video Game cover" width="200">
+
+**Platforms:** Nintendo 3DS, Xbox 360, PlayStation 3, Wii, PlayStation Portable, Nintendo DS, Windows &nbsp;|&nbsp; **Genre:** Action, Adventure &nbsp;|&nbsp; **Released:** May 10
+
+> LEGO® Pirates of the Caribbean: The Video Game is an action adventure game that brings the Pirates of the Caribbean world and all its colorful characters to life in LEGO Brick form. Players experience all the memorable scenes from all four films in the humorous and quirky LEGO Video Games style.
+>
+> _Synopsis source: Steam_
+
+[Steam](https://store.steampowered.com/app/311770)
 
 ---
 
 ### Lego Star Wars III: The Clone Wars
 
-**Platforms:** Windows, Xbox 360, PlayStation 3, PlayStation Portable, Wii, Nintendo DS, Nintendo 3DS &nbsp;|&nbsp; **Released:** March 22
+<img src="../images/steam-32510.jpg" alt="Lego Star Wars III: The Clone Wars cover" width="200">
+
+**Platforms:** Windows, Xbox 360, PlayStation 3, PlayStation Portable, Wii, Nintendo DS, Nintendo 3DS &nbsp;|&nbsp; **Genre:** Action, Adventure &nbsp;|&nbsp; **Released:** March 22
+
+> LEGO Star Wars III: The Clone Wars will allow fans to explore endlessly and laugh their way through the Star Wars galaxy in the most humorous, accessible and action-packed LEGO game to date.
+>
+> _Synopsis source: Steam_
+
+[Steam](https://store.steampowered.com/app/32510)
 
 ---
 
@@ -684,7 +716,15 @@
 
 ### Call of Duty: Black Ops
 
-**Platforms:** Xbox 360, PlayStation 3, Wii, Windows &nbsp;|&nbsp; **Released:** November 9
+<img src="../images/steam-42700.jpg" alt="Call of Duty: Black Ops cover" width="200">
+
+**Platforms:** Xbox 360, PlayStation 3, Wii, Windows &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** November 9
+
+> The biggest first-person action series of all time and the follow-up to critically acclaimed Call of Duty®: Modern Warfare 2 returns with Call of Duty®: Black Ops.
+>
+> _Synopsis source: Steam_
+
+[Steam](https://store.steampowered.com/app/42700)
 
 ---
 
@@ -726,9 +766,15 @@
 
 ### Create
 
-**Platforms:** PlayStation 3, Wii, Windows, Xbox 360 &nbsp;|&nbsp; **Released:** November 16
+<img src="../images/steam-1744350.jpg" alt="Create cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/Create_(video_game))
+**Platforms:** PlayStation 3, Wii, Windows, Xbox 360 &nbsp;|&nbsp; **Genre:** Casual, Indie &nbsp;|&nbsp; **Released:** November 16
+
+> Gain experience and level up in this voxel sandbox world as you travel through space and time. Craft equipment and recipes to help you survive the treacherous landscape and sculpt it into your own masterpiece!
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Create_(video_game)) · [Steam](https://store.steampowered.com/app/1744350)
 
 ---
 
@@ -970,7 +1016,15 @@
 
 ### Lego Harry Potter: Years 1-4
 
-**Platforms:** Windows, PlayStation 3, Wii, PlayStation Portable, Xbox 360, Nintendo DS &nbsp;|&nbsp; **Released:** June 29
+<img src="../images/steam-21130.jpg" alt="Lego Harry Potter: Years 1-4 cover" width="200">
+
+**Platforms:** Windows, PlayStation 3, Wii, PlayStation Portable, Xbox 360, Nintendo DS &nbsp;|&nbsp; **Genre:** Action, Adventure &nbsp;|&nbsp; **Released:** June 29
+
+> Build the adventure from Privet Drive to the Triwizard Tournament and experience the magic of the first four Harry Potter stories – LEGO style! Explore Hogwarts™ School of Witchcraft and Wizardry, learn spells, brew potions and relive the adventures like never before with tongue-in-cheek humor and creative customization that is unique to...
+>
+> _Synopsis source: Steam_
+
+[Steam](https://store.steampowered.com/app/21130)
 
 ---
 
@@ -1182,7 +1236,15 @@
 
 ### Prince of Persia: The Forgotten Sands
 
-**Platforms:** Nintendo DS, Wii, PlayStation Portable, PlayStation 3, Xbox 360, Windows &nbsp;|&nbsp; **Released:** May 18
+<img src="../images/steam-33320.jpg" alt="Prince of Persia: The Forgotten Sands cover" width="200">
+
+**Platforms:** Nintendo DS, Wii, PlayStation Portable, PlayStation 3, Xbox 360, Windows &nbsp;|&nbsp; **Genre:** Action, Adventure &nbsp;|&nbsp; **Released:** May 18
+
+> Prince of Persia The Forgotten Sands is the next chapter in the fan-favorite Sands of Time universe. Visiting his brother's kingdom following his adventure in Azad, the Prince finds the royal palace under siege from a mighty army bent on its destruction.
+>
+> _Synopsis source: Steam_
+
+[Steam](https://store.steampowered.com/app/33320)
 
 ---
 
@@ -1312,9 +1374,15 @@
 
 ### Sonic & Sega All-Stars Racing
 
-**Platforms:** PlayStation 3, Xbox 360, Nintendo DS, Wii, Windows &nbsp;|&nbsp; **Released:** February 23
+<img src="../images/steam-34190.jpg" alt="Sonic & Sega All-Stars Racing cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/Sonic_%26_Sega_All-Stars_Racing)
+**Platforms:** PlayStation 3, Xbox 360, Nintendo DS, Wii, Windows &nbsp;|&nbsp; **Genre:** Racing &nbsp;|&nbsp; **Released:** February 23
+
+> SONIC AND SEGA ALL-STARS RACE FOR VICTORY IN A HIGH SPEED HIGH SKILL RACETRACK SHOWDOWN! TAKE TO THE TRACK BY CAR, MONSTER TRUCK, BIKE AND EVEN AEROPLANE IN SONIC &amp; SEGA ALL-STARS RACING. Explore stunning new circuits including Sonic Seaside Hill, Curien Mansion and Blizzard Castle as you zip around medieval castle ramparts, hurtle...
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Sonic_%26_Sega_All-Stars_Racing) · [Steam](https://store.steampowered.com/app/34190)
 
 ---
 
@@ -1348,7 +1416,15 @@
 
 ### Star Wars: The Force Unleashed II
 
-**Platforms:** PlayStation 3, Xbox 360, Windows, Wii, Nintendo DS &nbsp;|&nbsp; **Released:** October 26
+<img src="../images/steam-32500.jpg" alt="Star Wars: The Force Unleashed II cover" width="200">
+
+**Platforms:** PlayStation 3, Xbox 360, Windows, Wii, Nintendo DS &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** October 26
+
+> The Star Wars® Saga continues with Star Wars®: The Force Unleashed™ II, the highly anticipated sequel to the fastest-selling Star Wars game ever created.
+>
+> _Synopsis source: Steam_
+
+[Steam](https://store.steampowered.com/app/32500)
 
 ---
 
@@ -2170,7 +2246,15 @@
 
 ### Lego Indiana Jones 2: The Adventure Continues
 
-**Platforms:** Wii, Xbox 360, PlayStation 3, Nintendo DS, PlayStation Portable, Windows &nbsp;|&nbsp; **Released:** November 17
+<img src="../images/steam-32450.jpg" alt="Lego Indiana Jones 2: The Adventure Continues cover" width="200">
+
+**Platforms:** Wii, Xbox 360, PlayStation 3, Nintendo DS, PlayStation Portable, Windows &nbsp;|&nbsp; **Genre:** Adventure &nbsp;|&nbsp; **Released:** November 17
+
+> LEGO® Indy is back in his biggest adventure yet. Battle through all four movies, including all-new levels from the original adventures and your favorite new moments from The Kingdom of the Crystal Skull... or in true LEGO® fashion, get creative and build your own levels to play with friends!
+>
+> _Synopsis source: Steam_
+
+[Steam](https://store.steampowered.com/app/32450)
 
 ---
 
@@ -2288,9 +2372,15 @@
 
 ### Mini Ninjas
 
-**Platforms:** Windows, Xbox 360, PlayStation 3, Wii, Nintendo DS &nbsp;|&nbsp; **Released:** September 8
+<img src="../images/steam-35000.jpg" alt="Mini Ninjas cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/Mini_Ninjas)
+**Platforms:** Windows, Xbox 360, PlayStation 3, Wii, Nintendo DS &nbsp;|&nbsp; **Genre:** Action, Adventure &nbsp;|&nbsp; **Released:** September 8
+
+> Mini Ninjas is a game that combines furious action with stealth and exploration for an experience that appeals to a wide audience across age groups and preferences. It’s an action-adventure with a strong focus on allowing the player freedom to explore the world and has the depth to allow for very varied gameplay and approaches to getting...
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Mini_Ninjas) · [Steam](https://store.steampowered.com/app/35000)
 
 ---
 
@@ -2542,7 +2632,15 @@
 
 ### Secret Files 2: Puritas Cordis
 
-**Platforms:** Windows, Wii, Nintendo DS &nbsp;|&nbsp; **Released:** May 8
+<img src="../images/steam-40340.jpg" alt="Secret Files 2: Puritas Cordis cover" width="200">
+
+**Platforms:** Windows, Wii, Nintendo DS &nbsp;|&nbsp; **Genre:** Adventure &nbsp;|&nbsp; **Released:** May 8
+
+> The sequel to the award winning adventure hit Secret Files Tunguska. Famine in Africa, floods in Southeast Asia, economic crisis in Europe, and civil wars in South America, the world is on the brink of disaster.
+>
+> _Synopsis source: Steam_
+
+[Steam](https://store.steampowered.com/app/40340)
 
 ---
 
@@ -2802,9 +2900,15 @@
 
 ### World of Zoo
 
-**Platforms:** Nintendo DS, Wii, Windows &nbsp;|&nbsp; **Released:** October 26
+<img src="../images/steam-43100.jpg" alt="World of Zoo cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/World_of_Zoo)
+**Platforms:** Nintendo DS, Wii, Windows &nbsp;|&nbsp; **Genre:** Simulation &nbsp;|&nbsp; **Released:** October 26
+
+> What would you do if you had the keys to the zoo? World of Zoo is the only life sim game that pushes you past the fences and into a world of your own zoo. Create and customize your zoo experience and develop hands on relationships to earn the trust and love of your animals.
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/World_of_Zoo) · [Steam](https://store.steampowered.com/app/43100)
 
 ---
 
@@ -2870,9 +2974,15 @@
 
 ### Alone in the Dark
 
-**Platforms:** PlayStation 2, Wii, Windows, Xbox 360 &nbsp;|&nbsp; **Released:** June 20
+<img src="../images/steam-1310410.jpg" alt="Alone in the Dark cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/Alone_in_the_Dark_(2008_video_game))
+**Platforms:** PlayStation 2, Wii, Windows, Xbox 360 &nbsp;|&nbsp; **Genre:** Action, Adventure &nbsp;|&nbsp; **Released:** June 20
+
+> Return to Derceto Manor in this reimagination of Alone in the Dark, a love letter to the 90’s cult classic horror game.
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Alone_in_the_Dark_(2008_video_game)) · [Steam](https://store.steampowered.com/app/1310410)
 
 ---
 
@@ -2926,9 +3036,15 @@
 
 ### Bolt
 
-**Platforms:** Nintendo DS, PlayStation 2, PlayStation 3, Wii, Windows, Xbox 360 &nbsp;|&nbsp; **Released:** November 18
+<img src="../images/steam-3856030.jpg" alt="Bolt cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/Bolt_(video_game))
+**Platforms:** Nintendo DS, PlayStation 2, PlayStation 3, Wii, Windows, Xbox 360 &nbsp;|&nbsp; **Genre:** Strategy &nbsp;|&nbsp; **Released:** November 18
+
+> Step into the boots of a battlefield commander in Bolt Action, a turn-based WWII strategy inspired by Warlord Games’ tabletop classic.
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Bolt_(video_game)) · [Steam](https://store.steampowered.com/app/3856030)
 
 ---
 
@@ -2970,15 +3086,29 @@
 
 ### Bully: Scholarship Edition
 
-**Platforms:** Wii, Xbox 360, Windows &nbsp;|&nbsp; **Released:** March 3
+<img src="../images/steam-12200.jpg" alt="Bully: Scholarship Edition cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/Bully_(video_game))
+**Platforms:** Wii, Xbox 360, Windows &nbsp;|&nbsp; **Genre:** Action, Adventure &nbsp;|&nbsp; **Released:** March 3
+
+> Bully tells the story of mischievous 15-year-old Jimmy Hopkins as he goes through the hilarity and awkwardness of adolescence. Beat the jocks at dodge ball, play pranks on the preppies, save the nerds, kiss the girl and navigate the social hierarchy in the worst school around.
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Bully_(video_game)) · [Steam](https://store.steampowered.com/app/12200)
 
 ---
 
 ### Call of Duty: World at War
 
-**Platforms:** Nintendo DS, PlayStation 3, Wii, Windows, Xbox 360, PlayStation 2 &nbsp;|&nbsp; **Released:** November 11
+<img src="../images/steam-10090.jpg" alt="Call of Duty: World at War cover" width="200">
+
+**Platforms:** Nintendo DS, PlayStation 3, Wii, Windows, Xbox 360, PlayStation 2 &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** November 11
+
+> Call of Duty is back, redefining war like you've never experienced before. Building on the Call of Duty 4®: Modern Warfare engine, Call of Duty: World at War immerses players into the most gritty and chaotic WWII combat ever experienced.
+>
+> _Synopsis source: Steam_
+
+[Steam](https://store.steampowered.com/app/10090)
 
 ---
 
@@ -3058,9 +3188,15 @@
 
 ### De Blob
 
-**Platforms:** Nintendo DS, Wii, Windows &nbsp;|&nbsp; **Released:** September 22
+<img src="../images/steam-532320.jpg" alt="De Blob cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/De_Blob)
+**Platforms:** Nintendo DS, Wii, Windows &nbsp;|&nbsp; **Genre:** Action, Adventure, Casual, Indie &nbsp;|&nbsp; **Released:** September 22
+
+> The evil I.N.K.T. Corporation has declared 'Color is a Crime!' and leeched Chroma City of all its beauty and interest. The race to rescue Chroma City has just begun, and only de Blob can save the world from a black-and-white future with his unique abilities to color the world back to life.
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/De_Blob) · [Steam](https://store.steampowered.com/app/532320)
 
 ---
 
@@ -3324,13 +3460,29 @@
 
 ### Lego Batman: The Videogame
 
-**Platforms:** Nintendo DS, PlayStation 2, PlayStation 3, PlayStation Portable, Wii, Windows, Xbox 360 &nbsp;|&nbsp; **Released:** September 23
+<img src="../images/steam-21000.jpg" alt="Lego Batman: The Videogame cover" width="200">
+
+**Platforms:** Nintendo DS, PlayStation 2, PlayStation 3, PlayStation Portable, Wii, Windows, Xbox 360 &nbsp;|&nbsp; **Genre:** Action, Adventure &nbsp;|&nbsp; **Released:** September 23
+
+> When all the villains in Arkham Asylum team up and break loose, only the dynamic duo is bold enough to take them on to save Gotham City. The fun of LEGO, the drama of Batman and the uniqueness of the combination makes for a comical and exciting adventure in LEGO Batman: The Videogame.
+>
+> _Synopsis source: Steam_
+
+[Steam](https://store.steampowered.com/app/21000)
 
 ---
 
 ### Lego Indiana Jones: The Original Adventures
 
-**Platforms:** Nintendo DS, PlayStation 2, PlayStation 3, PlayStation Portable, Wii, Windows, Xbox, Xbox 360 &nbsp;|&nbsp; **Released:** June 3
+<img src="../images/steam-32330.jpg" alt="Lego Indiana Jones: The Original Adventures cover" width="200">
+
+**Platforms:** Nintendo DS, PlayStation 2, PlayStation 3, PlayStation Portable, Wii, Windows, Xbox, Xbox 360 &nbsp;|&nbsp; **Genre:** Action, Adventure &nbsp;|&nbsp; **Released:** June 3
+
+> Build, Battle and Brawl your way out of trouble! Play through all three classic Indiana Jones™ movies and relive your favorite Indy adventures in the tongue-in-cheek worlds of LEGO®. Explore and Discover - Battle enemies, solve puzzles, and seek out the world's greatest treasures.
+>
+> _Synopsis source: Steam_
+
+[Steam](https://store.steampowered.com/app/32330)
 
 ---
 
@@ -3882,7 +4034,15 @@
 
 ### Tomb Raider: Underworld
 
-**Platforms:** Nintendo DS, PlayStation 2, PlayStation 3, Wii, Windows, Xbox 360 &nbsp;|&nbsp; **Released:** November 18
+<img src="../images/steam-8140.jpg" alt="Tomb Raider: Underworld cover" width="200">
+
+**Platforms:** Nintendo DS, PlayStation 2, PlayStation 3, Wii, Windows, Xbox 360 &nbsp;|&nbsp; **Genre:** Action, Adventure &nbsp;|&nbsp; **Released:** November 18
+
+> Tomb Raider: Underworld represents a new advancement in exploration-based gameplay. As fearless adventurer Lara Croft explore exotic locations around the world, each designed with an incredible attention to detail resulting in breathtaking high-definition visual fidelity that creates a truly believable world and delivers a new level of...
+>
+> _Synopsis source: Steam_
+
+[Steam](https://store.steampowered.com/app/8140)
 
 ---
 
@@ -3970,9 +4130,15 @@
 
 ### World of Goo
 
-**Platforms:** Wii, Windows &nbsp;|&nbsp; **Publisher:** 2D Boy &nbsp;|&nbsp; **Released:** October 13, 2008
+<img src="../images/steam-22000.jpg" alt="World of Goo cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/World_of_Goo)
+**Platforms:** Wii, Windows &nbsp;|&nbsp; **Publisher:** 2D Boy &nbsp;|&nbsp; **Genre:** Indie &nbsp;|&nbsp; **Released:** October 13, 2008
+
+> World of Goo is a multiple award winning physics based puzzle / construction game made entirely by two guys.
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/World_of_Goo) · [Steam](https://store.steampowered.com/app/22000)
 
 ---
 
@@ -4690,9 +4856,15 @@
 
 ### Surf's Up
 
-**Platforms:** Game Boy Advance, Nintendo DS, PlayStation 2, PlayStation 3, PlayStation Portable, Wii, Xbox 360, GameCube, Windows &nbsp;|&nbsp; **Released:** May 30
+<img src="../images/steam-3454830.jpg" alt="Surf's Up cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/Surf%27s_Up_(video_game))
+**Platforms:** Game Boy Advance, Nintendo DS, PlayStation 2, PlayStation 3, PlayStation Portable, Wii, Xbox 360, GameCube, Windows &nbsp;|&nbsp; **Genre:** Action, Casual, Indie, Racing, Sports, Free To Play &nbsp;|&nbsp; **Released:** May 30
+
+> SurfsUp is a free-to-play, standalone recreation of Counter-Strike Surf where precision movement and air-surfing are the keys to setting a new personal best or even breaking a world record. Surf, bhop, and climb across 125+ maps, all for free, with unique leaderboards for every way to play.
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Surf%27s_Up_(video_game)) · [Steam](https://store.steampowered.com/app/3454830)
 
 ---
 
@@ -4734,7 +4906,15 @@
 
 ### Thrillville: Off The Rails
 
-**Platforms:** Windows, PlayStation 2, Xbox 360, PlayStation 3, Wii, Nintendo DS &nbsp;|&nbsp; **Released:** October 9
+<img src="../images/steam-6080.jpg" alt="Thrillville: Off The Rails cover" width="200">
+
+**Platforms:** Windows, PlayStation 2, Xbox 360, PlayStation 3, Wii, Nintendo DS &nbsp;|&nbsp; **Genre:** Action, Adventure, Racing, Simulation, Strategy &nbsp;|&nbsp; **Released:** October 9
+
+> Thrillville™: Off the Rails lives up to its name with 20 death-defying rides! Players can build incredible coasters to leap from one track to another, launch through the air like cannonballs, blast through a burning rings of fire and more!
+>
+> _Synopsis source: Steam_
+
+[Steam](https://store.steampowered.com/app/6080)
 
 ---
 
@@ -4748,7 +4928,15 @@
 
 ### Tomb Raider: Anniversary
 
-**Platforms:** PlayStation 2, Windows, PlayStation Portable, Xbox 360, Wii, Mobile phone &nbsp;|&nbsp; **Released:** June 5
+<img src="../images/steam-8000.jpg" alt="Tomb Raider: Anniversary cover" width="200">
+
+**Platforms:** PlayStation 2, Windows, PlayStation Portable, Xbox 360, Wii, Mobile phone &nbsp;|&nbsp; **Genre:** Action, Adventure &nbsp;|&nbsp; **Released:** June 5
+
+> Tomb Raider: Anniversary retraces Lara Croft's original genre-defining adventure  globe-trotting 3rd person action-adventure in pursuit of the legendary Scion artifact. Using an enhanced 'Tomb Raider: Legend' game engine, the graphics, technology and physics bring Lara's adventure and pursuit of a mystical artifact known only as the...
+>
+> _Synopsis source: Steam_
+
+[Steam](https://store.steampowered.com/app/8000)
 
 ---
 
@@ -5290,7 +5478,15 @@
 
 ### Tom Clancy's Splinter Cell: Double Agent
 
-**Platforms:** Xbox, Xbox 360, PlayStation 2, GameCube, Windows, Wii &nbsp;|&nbsp; **Publisher:** Ubisoft &nbsp;|&nbsp; **Released:** October 24, 2006
+<img src="../images/steam-13580.jpg" alt="Tom Clancy's Splinter Cell: Double Agent cover" width="200">
+
+**Platforms:** Xbox, Xbox 360, PlayStation 2, GameCube, Windows, Wii &nbsp;|&nbsp; **Publisher:** Ubisoft &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** October 24, 2006
+
+> In the sequel to the 2005 Game of the Year, Splinter Cell: Double Agent, play as legendary covert operative Sam Fisher, infiltrate a ruthless terrorist organization, and destroy it from within.
+>
+> _Synopsis source: Steam_
+
+[Steam](https://store.steampowered.com/app/13580)
 
 ---
 

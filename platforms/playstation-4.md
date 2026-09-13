@@ -10,9 +10,15 @@
 
 ### Mina the Hollower
 
-**Platforms:** Windows, Nintendo Switch, Nintendo Switch 2, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S &nbsp;|&nbsp; **Developer:** Yacht Club Games &nbsp;|&nbsp; **Publisher:** Yacht Club Games &nbsp;|&nbsp; **Released:** May 29, 2026
+<img src="../images/steam-1875580.jpg" alt="Mina the Hollower cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/Mina_the_Hollower)
+**Platforms:** Windows, Nintendo Switch, Nintendo Switch 2, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S &nbsp;|&nbsp; **Developer:** Yacht Club Games &nbsp;|&nbsp; **Publisher:** Yacht Club Games &nbsp;|&nbsp; **Genre:** Action, Adventure &nbsp;|&nbsp; **Released:** May 29, 2026
+
+> Take control of Mina, a renowned Hollower hurtled into a desperate mission to rescue a cursed island. Whip foes, burrow through the ground, and explore a pixel-perfect world in Mina the Hollower, a brand new game from the developers who brought you Shovel Knight!
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Mina_the_Hollower) · [Steam](https://store.steampowered.com/app/1875580)
 
 ---
 
@@ -22,7 +28,15 @@
 
 ### Hollow Knight: Silksong
 
-**Platforms:** Windows, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S, Nintendo Switch, Nintendo Switch 2 &nbsp;|&nbsp; **Developer:** Team Cherry &nbsp;|&nbsp; **Publisher:** Team Cherry &nbsp;|&nbsp; **Released:** September 4, 2025
+<img src="../images/steam-1030300.jpg" alt="Hollow Knight: Silksong cover" width="200">
+
+**Platforms:** Windows, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S, Nintendo Switch, Nintendo Switch 2 &nbsp;|&nbsp; **Developer:** Team Cherry &nbsp;|&nbsp; **Publisher:** Team Cherry &nbsp;|&nbsp; **Genre:** Action, Adventure, Indie &nbsp;|&nbsp; **Released:** September 4, 2025
+
+> Discover a vast, haunted kingdom in Hollow Knight: Silksong! Explore, fight and survive as you ascend to the peak of a land ruled by silk and song.
+>
+> _Synopsis source: Steam_
+
+[Steam](https://store.steampowered.com/app/1030300)
 
 ---
 
@@ -32,9 +46,15 @@
 
 ### Balatro
 
-**Platforms:** Android, iOS, macOS, Nintendo Switch, PlayStation 4, PlayStation 5, Windows, Xbox One, Xbox Series X/S &nbsp;|&nbsp; **Developer:** LocalThunk &nbsp;|&nbsp; **Publisher:** Playstack &nbsp;|&nbsp; **Released:** February 20, 2024
+<img src="../images/steam-2379780.jpg" alt="Balatro cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/Balatro)
+**Platforms:** Android, iOS, macOS, Nintendo Switch, PlayStation 4, PlayStation 5, Windows, Xbox One, Xbox Series X/S &nbsp;|&nbsp; **Developer:** LocalThunk &nbsp;|&nbsp; **Publisher:** Playstack &nbsp;|&nbsp; **Genre:** Casual, Indie, Strategy &nbsp;|&nbsp; **Released:** February 20, 2024
+
+> The poker roguelike. Balatro is a hypnotically satisfying deckbuilder where you play illegal poker hands, discover game-changing jokers, and trigger adrenaline-pumping, outrageous combos.
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Balatro) · [Steam](https://store.steampowered.com/app/2379780)
 
 ---
 
@@ -48,7 +68,15 @@
 
 ### Metaphor: ReFantazio
 
-**Platforms:** PlayStation 4, PlayStation 5, Windows, Xbox Series X/S &nbsp;|&nbsp; **Developer:** Studio Zero &nbsp;|&nbsp; **Publisher:** Sega , Atlus &nbsp;|&nbsp; **Released:** October 11, 2024
+<img src="../images/steam-2679460.jpg" alt="Metaphor: ReFantazio cover" width="200">
+
+**Platforms:** PlayStation 4, PlayStation 5, Windows, Xbox Series X/S &nbsp;|&nbsp; **Developer:** Studio Zero &nbsp;|&nbsp; **Publisher:** Sega , Atlus &nbsp;|&nbsp; **Genre:** Action, Adventure, RPG &nbsp;|&nbsp; **Released:** October 11, 2024
+
+> After his assassination, the will of the late king decrees the next monarch to be elected by the people. Forge bonds and win over a kingdom divided in this award-winning fantasy RPG with turn-based and action combat, party customization with powerful Archetypes, and hours of exploration.
+>
+> _Synopsis source: Steam_
+
+[Steam](https://store.steampowered.com/app/2679460)
 
 ---
 
@@ -72,17 +100,29 @@
 
 ### Dave the Diver
 
-**Platforms:** macOS, Nintendo Switch, PlayStation 4, PlayStation 5, Windows &nbsp;|&nbsp; **Developer:** Mintrocket &nbsp;|&nbsp; **Publisher:** Mintrocket &nbsp;|&nbsp; **Released:** June 28, 2023
+<img src="../images/steam-1868140.jpg" alt="Dave the Diver cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/Dave_the_Diver)
+**Platforms:** macOS, Nintendo Switch, PlayStation 4, PlayStation 5, Windows &nbsp;|&nbsp; **Developer:** Mintrocket &nbsp;|&nbsp; **Publisher:** Mintrocket &nbsp;|&nbsp; **Genre:** Adventure, Casual, RPG, Simulation &nbsp;|&nbsp; **Released:** June 28, 2023
+
+> DAVE THE DIVER is a casual, singleplayer adventure RPG featuring deep-sea exploration and fishing during the day and sushi restaurant management at night. Join Dave and his quirky friends as they seek to uncover the secrets of the mysterious Blue Hole.
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Dave_the_Diver) · [Steam](https://store.steampowered.com/app/1868140)
 
 ---
 
 ### Resident Evil 4
 
-**Platforms:** iOS, iPadOS, macOS, PlayStation 4, PlayStation 5, Windows, Xbox Series X/S &nbsp;|&nbsp; **Developer:** Capcom &nbsp;|&nbsp; **Publisher:** Capcom &nbsp;|&nbsp; **Released:** March 24, 2023
+<img src="../images/steam-2050650.jpg" alt="Resident Evil 4 cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/Resident_Evil_4_(2023_video_game))
+**Platforms:** iOS, iPadOS, macOS, PlayStation 4, PlayStation 5, Windows, Xbox Series X/S &nbsp;|&nbsp; **Developer:** Capcom &nbsp;|&nbsp; **Publisher:** Capcom &nbsp;|&nbsp; **Genre:** Action, Adventure &nbsp;|&nbsp; **Released:** March 24, 2023
+
+> Survival is just the beginning. Six years have passed since the biological disaster in Raccoon City. Leon S. Kennedy, one of the survivors, tracks the president's kidnapped daughter to a secluded European village, where there is something terribly wrong with the locals.
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Resident_Evil_4_(2023_video_game)) · [Steam](https://store.steampowered.com/app/2050650)
 
 ---
 
@@ -96,9 +136,15 @@
 
 ### Street Fighter 6
 
-**Platforms:** Arcade, PlayStation 4, PlayStation 5, Windows, Xbox Series X/S &nbsp;|&nbsp; **Developer:** Capcom &nbsp;|&nbsp; **Publisher:** Capcom &nbsp;|&nbsp; **Released:** June 2, 2023
+<img src="../images/steam-1364780.jpg" alt="Street Fighter 6 cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/Street_Fighter_6)
+**Platforms:** Arcade, PlayStation 4, PlayStation 5, Windows, Xbox Series X/S &nbsp;|&nbsp; **Developer:** Capcom &nbsp;|&nbsp; **Publisher:** Capcom &nbsp;|&nbsp; **Genre:** Action, Adventure &nbsp;|&nbsp; **Released:** June 2, 2023
+
+> Here comes Capcom’s newest challenger! Street Fighter™ 6 launches worldwide on June 2nd, 2023 and represents the next evolution of the Street Fighter™ series! Street Fighter 6 spans three distinct game modes, including World Tour, Fighting Ground and Battle Hub.
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Street_Fighter_6) · [Steam](https://store.steampowered.com/app/1364780)
 
 ---
 
@@ -250,9 +296,15 @@
 
 ### Overwatch
 
-**Platforms:** Windows, Xbox One, PlayStation 4 &nbsp;|&nbsp; **Publisher:** Blizzard Entertainment &nbsp;|&nbsp; **Released:** May 24, 2016
+<img src="../images/steam-2357570.jpg" alt="Overwatch cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/Overwatch_(2016_video_game))
+**Platforms:** Windows, Xbox One, PlayStation 4 &nbsp;|&nbsp; **Publisher:** Blizzard Entertainment &nbsp;|&nbsp; **Genre:** Action, Free To Play &nbsp;|&nbsp; **Released:** May 24, 2016
+
+> Overwatch®, A FUTURE WORTH FIGHTING FOR! Overwatch® is an always-on and ever-evolving free-to-play, team-based action game set in an optimistic future, where every match is the ultimate 5v5 or 6v6 battlefield brawl.
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Overwatch_(2016_video_game)) · [Steam](https://store.steampowered.com/app/2357570)
 
 ---
 
@@ -298,7 +350,15 @@
 
 ### Metal Gear Solid V: The Phantom Pain
 
-**Platforms:** Xbox One, PlayStation 4, Windows &nbsp;|&nbsp; **Publisher:** Konami &nbsp;|&nbsp; **Released:** September 1, 2015
+<img src="../images/steam-287700.jpg" alt="Metal Gear Solid V: The Phantom Pain cover" width="200">
+
+**Platforms:** Xbox One, PlayStation 4, Windows &nbsp;|&nbsp; **Publisher:** Konami &nbsp;|&nbsp; **Genre:** Action, Adventure &nbsp;|&nbsp; **Released:** September 1, 2015
+
+> Ushering in a new era for the METAL GEAR franchise with cutting-edge technology powered by the Fox Engine, METAL GEAR SOLID V: The Phantom Pain, will provide players a first-rate gaming experience as they are offered tactical freedom to carry out open-world missions.
+>
+> _Synopsis source: Steam_
+
+[Steam](https://store.steampowered.com/app/287700)
 
 ---
 
@@ -320,7 +380,15 @@
 
 ### The Witcher 3: Wild Hunt
 
-**Platforms:** Windows, PlayStation 4, Xbox One &nbsp;|&nbsp; **Publisher:** CD Projekt &nbsp;|&nbsp; **Released:** May 19, 2015
+<img src="../images/steam-292030.jpg" alt="The Witcher 3: Wild Hunt cover" width="200">
+
+**Platforms:** Windows, PlayStation 4, Xbox One &nbsp;|&nbsp; **Publisher:** CD Projekt &nbsp;|&nbsp; **Genre:** RPG &nbsp;|&nbsp; **Released:** May 19, 2015
+
+> You are Geralt of Rivia, mercenary monster slayer. Before you stands a war-torn, monster-infested continent you can explore at will. Your current contract? Tracking down Ciri — the Child of Prophecy, a living weapon that can alter the shape of the world.
+>
+> _Synopsis source: Steam_
+
+[Steam](https://store.steampowered.com/app/292030)
 
 ---
 

@@ -320,19 +320,43 @@
 
 ### Lego Harry Potter: Years 5–7
 
-**Platforms:** Windows, Xbox 360, PlayStation 3, PlayStation Portable, Wii, Nintendo DS, Nintendo 3DS, iOS &nbsp;|&nbsp; **Released:** November 11
+<img src="../images/steam-204120.jpg" alt="Lego Harry Potter: Years 5–7 cover" width="200">
+
+**Platforms:** Windows, Xbox 360, PlayStation 3, PlayStation Portable, Wii, Nintendo DS, Nintendo 3DS, iOS &nbsp;|&nbsp; **Genre:** Adventure &nbsp;|&nbsp; **Released:** November 11
+
+> LEGO Harry Potter: Years 5-7 takes players through Harry Potter's heroic adventures in the Muggle and wizarding worlds.
+>
+> _Synopsis source: Steam_
+
+[Steam](https://store.steampowered.com/app/204120)
 
 ---
 
 ### Lego Pirates of the Caribbean: The Video Game
 
-**Platforms:** Nintendo 3DS, Xbox 360, PlayStation 3, Wii, PlayStation Portable, Nintendo DS, Windows &nbsp;|&nbsp; **Released:** May 10
+<img src="../images/steam-311770.jpg" alt="Lego Pirates of the Caribbean: The Video Game cover" width="200">
+
+**Platforms:** Nintendo 3DS, Xbox 360, PlayStation 3, Wii, PlayStation Portable, Nintendo DS, Windows &nbsp;|&nbsp; **Genre:** Action, Adventure &nbsp;|&nbsp; **Released:** May 10
+
+> LEGO® Pirates of the Caribbean: The Video Game is an action adventure game that brings the Pirates of the Caribbean world and all its colorful characters to life in LEGO Brick form. Players experience all the memorable scenes from all four films in the humorous and quirky LEGO Video Games style.
+>
+> _Synopsis source: Steam_
+
+[Steam](https://store.steampowered.com/app/311770)
 
 ---
 
 ### Lego Star Wars III: The Clone Wars
 
-**Platforms:** Windows, Xbox 360, PlayStation 3, PlayStation Portable, Wii, Nintendo DS, Nintendo 3DS &nbsp;|&nbsp; **Released:** March 22
+<img src="../images/steam-32510.jpg" alt="Lego Star Wars III: The Clone Wars cover" width="200">
+
+**Platforms:** Windows, Xbox 360, PlayStation 3, PlayStation Portable, Wii, Nintendo DS, Nintendo 3DS &nbsp;|&nbsp; **Genre:** Action, Adventure &nbsp;|&nbsp; **Released:** March 22
+
+> LEGO Star Wars III: The Clone Wars will allow fans to explore endlessly and laugh their way through the Star Wars galaxy in the most humorous, accessible and action-packed LEGO game to date.
+>
+> _Synopsis source: Steam_
+
+[Steam](https://store.steampowered.com/app/32510)
 
 ---
 
@@ -530,9 +554,15 @@
 
 ### Sonic Generations
 
-**Platforms:** PlayStation 3, Xbox 360, Windows, Nintendo 3DS &nbsp;|&nbsp; **Released:** November 1
+<img src="../images/steam-71340.jpg" alt="Sonic Generations cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/Sonic_Generations)
+**Platforms:** PlayStation 3, Xbox 360, Windows, Nintendo 3DS &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** November 1
+
+> Celebrate 20 years of Sonic in an all new adventure that delivers a definitive experience to Sonic fans new and old!
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Sonic_Generations) · [Steam](https://store.steampowered.com/app/71340)
 
 ---
 

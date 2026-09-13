@@ -46,6 +46,8 @@
 
 ### Croc: Legend of the Gobbos
 
+<img src="../images/steam-3043940.jpg" alt="Croc: Legend of the Gobbos cover" width="200">
+
 **Platforms:** Windows, MS-DOS, PlayStation, Sega Saturn &nbsp;|&nbsp; **Genre:** Action, Adventure &nbsp;|&nbsp; **Released:** September 29
 
 > Join Croc in a charming 3D platforming adventure to rescue the kidnapped Gobbos from the evil sorcerer Baron Dante and his impish Dantini minions! Run, jump, climb, swim, and tail-spin through vibrant worlds in this lovingly remastered and updated version of the beloved 1997 classic.
@@ -104,13 +106,9 @@
 
 ### Independence Day
 
-**Platforms:** Windows, MS-DOS, PlayStation, Sega Saturn &nbsp;|&nbsp; **Genre:** Casual &nbsp;|&nbsp; **Released:** February 28
+**Platforms:** Windows, MS-DOS, PlayStation, Sega Saturn &nbsp;|&nbsp; **Released:** February 28
 
-> Dive into the enchanting world of &quot;Secret Cats - Independence Day&quot; a hidden object game where your mission is to uncover every cat hidden within stunning hand-painted artwork. Let your keen eye and curiosity guide you through this captivating journey.
->
-> _Synopsis source: Steam_
-
-[Wikipedia](https://en.wikipedia.org/wiki/Independence_Day_(video_game)) · [Steam](https://store.steampowered.com/app/4821350)
+[Wikipedia](https://en.wikipedia.org/wiki/Independence_Day_(video_game))
 
 ---
 
@@ -139,6 +137,8 @@
 ---
 
 ### Riven
+
+<img src="../images/steam-1712350.jpg" alt="Riven cover" width="200">
 
 **Platforms:** Windows, MS-DOS, Sega Saturn, PlayStation &nbsp;|&nbsp; **Genre:** Adventure, Casual, Indie &nbsp;|&nbsp; **Released:** October 29
 

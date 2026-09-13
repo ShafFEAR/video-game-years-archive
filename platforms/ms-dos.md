@@ -10,49 +10,39 @@
 
 ### Age of Empires
 
-**Platforms:** Windows, MS-DOS &nbsp;|&nbsp; **Genre:** Strategy &nbsp;|&nbsp; **Released:** October 15
+**Platforms:** Windows, MS-DOS &nbsp;|&nbsp; **Released:** October 15
 
-> 42 Civilizations, 229 Campaign Missions, Singleplayer, Co-Op, Multiplayer, In-Game Editor, Mods, Cross-play...It is good to be the king.
->
-> _Synopsis source: Steam_
-
-[Wikipedia](https://en.wikipedia.org/wiki/Age_of_Empires_(video_game)) · [Steam](https://store.steampowered.com/app/813780)
+[Wikipedia](https://en.wikipedia.org/wiki/Age_of_Empires_(video_game))
 
 ---
 
 ### Blade Runner
 
-**Platforms:** Windows, MS-DOS &nbsp;|&nbsp; **Genre:** Adventure &nbsp;|&nbsp; **Released:** November 14
+**Platforms:** Windows, MS-DOS &nbsp;|&nbsp; **Released:** November 14
 
-> Armed with your investigative skills and the tools of the Blade Runner trade, you'll be immersed in a world that lives and breathes around you with breakthrough lighting and visual effects. Your ability to survive will be put to the test in the richest game environment ever created.
->
-> _Synopsis source: Steam_
-
-[Wikipedia](https://en.wikipedia.org/wiki/Blade_Runner_(1997_video_game)) · [Steam](https://store.steampowered.com/app/1678420)
+[Wikipedia](https://en.wikipedia.org/wiki/Blade_Runner_(1997_video_game))
 
 ---
 
 ### Blood
 
-**Platforms:** Windows, MS-DOS &nbsp;|&nbsp; **Genre:** Action, Adventure, RPG &nbsp;|&nbsp; **Released:** May 21
+**Platforms:** Windows, MS-DOS &nbsp;|&nbsp; **Released:** May 21
 
-> The Blood of Dawnwalker is an open-world dark fantasy action RPG set in 14th-century Europe. You play as Coen, human by day and vampire by night, fighting to save your family in a story shaped by your actions and the secrets you uncover.
->
-> _Synopsis source: Steam_
-
-[Wikipedia](https://en.wikipedia.org/wiki/Blood_(video_game)) · [Steam](https://store.steampowered.com/app/3751260)
+[Wikipedia](https://en.wikipedia.org/wiki/Blood_(video_game))
 
 ---
 
 ### Carmageddon
 
-**Platforms:** Windows, MS-DOS &nbsp;|&nbsp; **Publisher:** Sales Curve Interactive &nbsp;|&nbsp; **Genre:** Action, Racing &nbsp;|&nbsp; **Released:** June 13, 1997
+<img src="../images/steam-282010.jpg" alt="Carmageddon cover" width="200">
 
-> Carmageddon smashes back with brutal roguelite vehicular‑combat mayhem. Adapt, upgrade, and unleash destruction on post‑apocalyptic zombie hordes. The legacy lives on, reinvented and unforgiving.
+**Platforms:** Windows, MS-DOS &nbsp;|&nbsp; **Publisher:** Sales Curve Interactive &nbsp;|&nbsp; **Genre:** Action, Indie, Racing &nbsp;|&nbsp; **Released:** June 13, 1997
+
+> Carmageddon is the original freeform driving sensation, where pedestrians (and cows!) equal points, and your opponents are a bunch of crazies in a twisted mix of automotive killing machines. The game features anarchic drive-wherever-you-like gameplay and over-the-top surreal comedy violence. It’s the racing game where racing is for wimps.
 >
 > _Synopsis source: Steam_
 
-[Wikipedia](https://en.wikipedia.org/wiki/Carmageddon) · [Steam](https://store.steampowered.com/app/1712100)
+[Wikipedia](https://en.wikipedia.org/wiki/Carmageddon) · [Steam](https://store.steampowered.com/app/282010)
 
 ---
 
@@ -63,6 +53,8 @@
 ---
 
 ### Combat Chess
+
+<img src="../images/steam-1557050.jpg" alt="Combat Chess cover" width="200">
 
 **Platforms:** Windows, MS-DOS &nbsp;|&nbsp; **Genre:** Strategy &nbsp;|&nbsp; **Released:** October
 
@@ -76,6 +68,8 @@
 
 ### Croc: Legend of the Gobbos
 
+<img src="../images/steam-3043940.jpg" alt="Croc: Legend of the Gobbos cover" width="200">
+
 **Platforms:** Windows, MS-DOS, PlayStation, Sega Saturn &nbsp;|&nbsp; **Genre:** Action, Adventure &nbsp;|&nbsp; **Released:** September 29
 
 > Join Croc in a charming 3D platforming adventure to rescue the kidnapped Gobbos from the evil sorcerer Baron Dante and his impish Dantini minions! Run, jump, climb, swim, and tail-spin through vibrant worlds in this lovingly remastered and updated version of the beloved 1997 classic.
@@ -88,29 +82,23 @@
 
 ### Diablo
 
-**Platforms:** Windows, MS-DOS &nbsp;|&nbsp; **Publisher:** Blizzard Entertainment &nbsp;|&nbsp; **Genre:** Action, Adventure, Casual, Massively Multiplayer, RPG &nbsp;|&nbsp; **Released:** January 3, 1997
+**Platforms:** Windows, MS-DOS &nbsp;|&nbsp; **Publisher:** Blizzard Entertainment &nbsp;|&nbsp; **Released:** January 3, 1997
 
-> Join the fight for Sanctuary in Diablo® IV, the ultimate action RPG adventure. Experience the critically acclaimed campaign and new seasonal content.
->
-> _Synopsis source: Steam_
-
-[Wikipedia](https://en.wikipedia.org/wiki/Diablo_(video_game)) · [Steam](https://store.steampowered.com/app/2344520)
+[Wikipedia](https://en.wikipedia.org/wiki/Diablo_(video_game))
 
 ---
 
 ### Dungeon Keeper
 
-**Platforms:** Windows, MS-DOS &nbsp;|&nbsp; **Publisher:** Electronic Arts &nbsp;|&nbsp; **Genre:** Action, Strategy &nbsp;|&nbsp; **Released:** June 26, 1997
+**Platforms:** Windows, MS-DOS &nbsp;|&nbsp; **Publisher:** Electronic Arts &nbsp;|&nbsp; **Released:** June 26, 1997
 
-> Bad guys have all the fun. Discover your dark side as you build an evil underground kingdom and defend it against the forces of good.
->
-> _Synopsis source: Steam_
-
-[Wikipedia](https://en.wikipedia.org/wiki/Dungeon_Keeper) · [Steam](https://store.steampowered.com/app/2616460)
+[Wikipedia](https://en.wikipedia.org/wiki/Dungeon_Keeper)
 
 ---
 
 ### Ecstatica II
+
+<img src="../images/steam-4834850.jpg" alt="Ecstatica II cover" width="200">
 
 **Platforms:** Windows, MS-DOS &nbsp;|&nbsp; **Genre:** Action, Adventure &nbsp;|&nbsp; **Released:** June 10
 
@@ -124,13 +112,9 @@
 
 ### Fallout
 
-**Platforms:** Windows, MS-DOS &nbsp;|&nbsp; **Publisher:** Interplay Productions &nbsp;|&nbsp; **Genre:** RPG &nbsp;|&nbsp; **Released:** October 10, 1997
+**Platforms:** Windows, MS-DOS &nbsp;|&nbsp; **Publisher:** Interplay Productions &nbsp;|&nbsp; **Released:** October 10, 1997
 
-> Bethesda Game Studios welcome you to Fallout 76. Twenty-five years after the bombs fall, you and your fellow Vault Dwellers emerge into post-nuclear America. Explore a vast wasteland in this open-world multiplayer addition to the Fallout story.
->
-> _Synopsis source: Steam_
-
-[Wikipedia](https://en.wikipedia.org/wiki/Fallout_(video_game)) · [Steam](https://store.steampowered.com/app/1151340)
+[Wikipedia](https://en.wikipedia.org/wiki/Fallout_(video_game))
 
 ---
 
@@ -142,17 +126,15 @@
 
 ### Grand Theft Auto
 
-**Platforms:** Windows, MS-DOS, PlayStation &nbsp;|&nbsp; **Genre:** Action, Adventure, Racing &nbsp;|&nbsp; **Released:** November 27
+**Platforms:** Windows, MS-DOS, PlayStation &nbsp;|&nbsp; **Released:** November 27
 
-> Experience entertainment blockbusters Grand Theft Auto V and Grand Theft Auto Online — now upgraded for a new generation with stunning visuals, faster loading, 3D audio, and more, plus exclusive content for GTA Online players.
->
-> _Synopsis source: Steam_
-
-[Wikipedia](https://en.wikipedia.org/wiki/Grand_Theft_Auto_(video_game)) · [Steam](https://store.steampowered.com/app/3240220)
+[Wikipedia](https://en.wikipedia.org/wiki/Grand_Theft_Auto_(video_game))
 
 ---
 
 ### Hexen II
+
+<img src="../images/steam-9060.jpg" alt="Hexen II cover" width="200">
 
 **Platforms:** Windows, MS-DOS &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** September 11
 
@@ -166,6 +148,8 @@
 
 ### Imperialism
 
+<img src="../images/steam-2766160.jpg" alt="Imperialism cover" width="200">
+
 **Platforms:** Windows, MS-DOS &nbsp;|&nbsp; **Genre:** Indie, Strategy &nbsp;|&nbsp; **Released:** August 31
 
 > It is the 19th century - an age of steam power, revolution, and imperialist expansion. Engage in turn-based gameplay as you strive to ascend to unparalleled power through astute management of trade, industry, research, diplomacy, colonization, and warfare.
@@ -178,25 +162,17 @@
 
 ### Independence Day
 
-**Platforms:** Windows, MS-DOS, PlayStation, Sega Saturn &nbsp;|&nbsp; **Genre:** Casual &nbsp;|&nbsp; **Released:** February 28
+**Platforms:** Windows, MS-DOS, PlayStation, Sega Saturn &nbsp;|&nbsp; **Released:** February 28
 
-> Dive into the enchanting world of &quot;Secret Cats - Independence Day&quot; a hidden object game where your mission is to uncover every cat hidden within stunning hand-painted artwork. Let your keen eye and curiosity guide you through this captivating journey.
->
-> _Synopsis source: Steam_
-
-[Wikipedia](https://en.wikipedia.org/wiki/Independence_Day_(video_game)) · [Steam](https://store.steampowered.com/app/4821350)
+[Wikipedia](https://en.wikipedia.org/wiki/Independence_Day_(video_game))
 
 ---
 
 ### Independence War
 
-**Platforms:** Windows, MS-DOS &nbsp;|&nbsp; **Genre:** Action, Simulation &nbsp;|&nbsp; **Released:** November
+**Platforms:** Windows, MS-DOS &nbsp;|&nbsp; **Released:** November
 
-> Command four space vessels and a band of revolutionary pirates into an all-consuming battle against impossible odds, because there just isn't enough Space for everyone!
->
-> _Synopsis source: Steam_
-
-[Wikipedia](https://en.wikipedia.org/wiki/I-War_(1997_video_game)) · [Steam](https://store.steampowered.com/app/359630)
+[Wikipedia](https://en.wikipedia.org/wiki/I-War_(1997_video_game))
 
 ---
 
@@ -234,13 +210,15 @@
 
 ### MDK
 
+<img src="../images/steam-38450.jpg" alt="MDK cover" width="200">
+
 **Platforms:** Windows, MS-DOS &nbsp;|&nbsp; **Publisher:** Playmates Interactive &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** May 5, 1997
 
-> 3 Unlikely Heroes, 1 Ultimate Goal Kurt Hectic is back to save the universe. This time he is teamed with the genius Dr. Hawkins and the 6-legged gun-toting robotic dog, Max. Together they must out-sneak, out-blast and out-think their enemies as they attempt to reclaim earth from a vile alien menace.
+> ON A GOOD DAY, ONLY 2.5 MILLION PEOPLE WILL DIE. As vast alien mining cities suck the power and minerals from every major metropolis on Earth simultaneously, time is of the essence as millions of civilians are expiring by the second.
 >
 > _Synopsis source: Steam_
 
-[Wikipedia](https://en.wikipedia.org/wiki/MDK_(video_game)) · [Steam](https://store.steampowered.com/app/38460)
+[Wikipedia](https://en.wikipedia.org/wiki/MDK_(video_game)) · [Steam](https://store.steampowered.com/app/38450)
 
 ---
 
@@ -260,6 +238,8 @@
 
 ### Oddworld: Abe's Oddysee
 
+<img src="../images/steam-15700.jpg" alt="Oddworld: Abe's Oddysee cover" width="200">
+
 **Platforms:** PlayStation, Windows, MS-DOS &nbsp;|&nbsp; **Publisher:** GT Interactive &nbsp;|&nbsp; **Genre:** Adventure &nbsp;|&nbsp; **Released:** September 18, 1997
 
 > Selected by the fickle finger of fate, Abe™, floor-waxer first class for RuptureFarms, was catapulted into a life of adventure when he overheard plans by his boss, Molluck the Glukkon™, to turn Abe and his fellow Mudokons into Tasty Treats as part of a last-ditch effort to rescue Molluck's failing meat-packing empire.
@@ -272,13 +252,9 @@
 
 ### Outlaws
 
-**Platforms:** Windows, MS-DOS &nbsp;|&nbsp; **Genre:** Action, Adventure &nbsp;|&nbsp; **Released:** April 7
+**Platforms:** Windows, MS-DOS &nbsp;|&nbsp; **Released:** April 7
 
-> Experience the first-ever open world Star Wars™ game and explore distinct locations across the galaxy, both iconic and new. Risk it all as scoundrel Kay Vess, seeking freedom and the means to start a new life.
->
-> _Synopsis source: Steam_
-
-[Wikipedia](https://en.wikipedia.org/wiki/Outlaws_(1997_video_game)) · [Steam](https://store.steampowered.com/app/2842040)
+[Wikipedia](https://en.wikipedia.org/wiki/Outlaws_(1997_video_game))
 
 ---
 
@@ -292,17 +268,15 @@
 
 ### Postal
 
-**Platforms:** Windows, MS-DOS &nbsp;|&nbsp; **Genre:** Action, Adventure, Indie &nbsp;|&nbsp; **Released:** September 24
+**Platforms:** Windows, MS-DOS &nbsp;|&nbsp; **Released:** September 24
 
-> Live a week in the life of &quot;The POSTAL Dude&quot;; a hapless everyman just trying to check off some chores. Buying milk, returning an overdue library book, getting Gary Coleman's autograph, what could possibly go wrong?
->
-> _Synopsis source: Steam_
-
-[Wikipedia](https://en.wikipedia.org/wiki/Postal_(video_game)) · [Steam](https://store.steampowered.com/app/223470)
+[Wikipedia](https://en.wikipedia.org/wiki/Postal_(video_game))
 
 ---
 
 ### Quake II
+
+<img src="../images/steam-2320.jpg" alt="Quake II cover" width="200">
 
 **Platforms:** Windows, MS-DOS, PlayStation &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** December 6
 
@@ -324,6 +298,8 @@
 
 ### Redneck Rampage
 
+<img src="../images/steam-565550.jpg" alt="Redneck Rampage cover" width="200">
+
 **Platforms:** Windows, MS-DOS &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** April 7
 
 > Well, we crash-landed that UFO in the desert and Bubba says he wants to go home. Heck, I don't blame him 'cause there ain't no place like Hickston. But according to my map, we're gonna have to blast our way through jack o' lope farms and a riverboat as well as a brothel 'fore we get home again.
@@ -336,17 +312,15 @@
 
 ### Resident Evil
 
-**Platforms:** Windows, MS-DOS &nbsp;|&nbsp; **Genre:** Action, Adventure &nbsp;|&nbsp; **Released:** September 17
+**Platforms:** Windows, MS-DOS &nbsp;|&nbsp; **Released:** September 17
 
-> Survival is just the beginning. Six years have passed since the biological disaster in Raccoon City. Leon S. Kennedy, one of the survivors, tracks the president's kidnapped daughter to a secluded European village, where there is something terribly wrong with the locals.
->
-> _Synopsis source: Steam_
-
-[Wikipedia](https://en.wikipedia.org/wiki/Resident_Evil_(1996_video_game)) · [Steam](https://store.steampowered.com/app/2050650)
+[Wikipedia](https://en.wikipedia.org/wiki/Resident_Evil_(1996_video_game))
 
 ---
 
 ### Riven
+
+<img src="../images/steam-1712350.jpg" alt="Riven cover" width="200">
 
 **Platforms:** Windows, MS-DOS, Sega Saturn, PlayStation &nbsp;|&nbsp; **Genre:** Adventure, Casual, Indie &nbsp;|&nbsp; **Released:** October 29
 
@@ -359,6 +333,8 @@
 ---
 
 ### Shadow Warrior
+
+<img src="../images/steam-233130.jpg" alt="Shadow Warrior cover" width="200">
 
 **Platforms:** Windows, MS-DOS &nbsp;|&nbsp; **Genre:** Action, Adventure &nbsp;|&nbsp; **Released:** August 25
 
@@ -388,6 +364,8 @@
 
 ### Star Wars Jedi Knight: Dark Forces II
 
+<img src="../images/steam-32380.jpg" alt="Star Wars Jedi Knight: Dark Forces II cover" width="200">
+
 **Platforms:** Windows, MS-DOS &nbsp;|&nbsp; **Publisher:** LucasArts &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** October 10, 1997
 
 > Jedi Knight: Dark Forces II picks up where the award-winning Dark Forces™ game left off...with even more features and firepower in dazzling 3D graphics. As Kyle Katarn, you must acquire a lightsaber and learn the ways of the Force to become a Jedi Knight.
@@ -399,6 +377,8 @@
 ---
 
 ### Star Wars: Shadows of the Empire
+
+<img src="../images/steam-560170.jpg" alt="Star Wars: Shadows of the Empire cover" width="200">
 
 **Platforms:** Windows, MS-DOS &nbsp;|&nbsp; **Genre:** Action, Adventure &nbsp;|&nbsp; **Released:** September 9
 
@@ -412,17 +392,13 @@
 
 ### Star Wars: X-Wing vs. TIE Fighter
 
-**Platforms:** Windows, MS-DOS &nbsp;|&nbsp; **Genre:** Action, Simulation &nbsp;|&nbsp; **Released:** April 30
-
-> Real-time against real pilots; this is Star Wars space combat as it was meant to be! Featuring challenging real-time dogfights of 2 to 8 players, Star Wars™: X-Wing vs. TIE Fighter is one of the most historically significant space combat simulators ever made.
->
-> _Synopsis source: Steam_
-
-[Steam](https://store.steampowered.com/app/361690)
+**Platforms:** Windows, MS-DOS &nbsp;|&nbsp; **Released:** April 30
 
 ---
 
 ### The Curse of Monkey Island
+
+<img src="../images/steam-730820.jpg" alt="The Curse of Monkey Island cover" width="200">
 
 **Platforms:** Windows, MS-DOS &nbsp;|&nbsp; **Publisher:** LucasArts &nbsp;|&nbsp; **Genre:** Adventure &nbsp;|&nbsp; **Released:** November 1, 1997
 
@@ -436,13 +412,9 @@
 
 ### The Last Express
 
-**Platforms:** Windows, MS-DOS &nbsp;|&nbsp; **Genre:** Adventure &nbsp;|&nbsp; **Released:** March 30
+**Platforms:** Windows, MS-DOS &nbsp;|&nbsp; **Released:** March 30
 
-> Step aboard the 1914 Orient Express in this award-winning mystery adventure from Prince of Persia creator Jordan Mechner. Described as one of the best adventure games of all time, The Last Express is an intrigue-filled adventure set aboard the luxurious Orient Express.
->
-> _Synopsis source: Steam_
-
-[Wikipedia](https://en.wikipedia.org/wiki/The_Last_Express) · [Steam](https://store.steampowered.com/app/252710)
+[Wikipedia](https://en.wikipedia.org/wiki/The_Last_Express)
 
 ---
 
@@ -456,17 +428,15 @@
 
 ### Tomb Raider II
 
-**Platforms:** Windows, MS-DOS, PlayStation &nbsp;|&nbsp; **Genre:** Action, Adventure &nbsp;|&nbsp; **Released:** November 18
+**Platforms:** Windows, MS-DOS, PlayStation &nbsp;|&nbsp; **Released:** November 18
 
-> The second instalment in the Tomb Raider series invites you to join Lara as she travels around the globe to retrieve a precious artefact before it falls into the wrong hands. The legendary artefact, the Dagger of Xian, is said to give its possessor the power of a fire breathing dragon.
->
-> _Synopsis source: Steam_
-
-[Wikipedia](https://en.wikipedia.org/wiki/Tomb_Raider_II) · [Steam](https://store.steampowered.com/app/225300)
+[Wikipedia](https://en.wikipedia.org/wiki/Tomb_Raider_II)
 
 ---
 
 ### Total Annihilation
+
+<img src="../images/steam-298030.jpg" alt="Total Annihilation cover" width="200">
 
 **Platforms:** Windows, MS-DOS &nbsp;|&nbsp; **Publisher:** GT Interactive &nbsp;|&nbsp; **Genre:** Strategy &nbsp;|&nbsp; **Released:** September 26, 1997
 
@@ -485,6 +455,8 @@
 ---
 
 ### Ultima Online
+
+<img src="../images/steam-2068100.jpg" alt="Ultima Online cover" width="200">
 
 **Platforms:** Windows, MS-DOS &nbsp;|&nbsp; **Genre:** Adventure, Casual, Massively Multiplayer, Simulation, Sports, Free To Play &nbsp;|&nbsp; **Released:** September 24
 
@@ -517,6 +489,8 @@
 ---
 
 ### Zork: Grand Inquisitor
+
+<img src="../images/steam-570680.jpg" alt="Zork: Grand Inquisitor cover" width="200">
 
 **Platforms:** Windows, MS-DOS &nbsp;|&nbsp; **Genre:** Adventure &nbsp;|&nbsp; **Released:** October 31
 
@@ -742,13 +716,9 @@
 
 ### Flight Unlimited
 
-**Platforms:** MS-DOS, Windows &nbsp;|&nbsp; **Developer/Publisher:** Looking Glass Studios &nbsp;|&nbsp; **Genre:** Racing, Simulation &nbsp;|&nbsp; **Released:** June 7
+**Platforms:** MS-DOS, Windows &nbsp;|&nbsp; **Developer/Publisher:** Looking Glass Studios &nbsp;|&nbsp; **Released:** June 7
 
-> The popular iPhone Flight Simulator with over 4,000,000 downloads world wide is now available on the Steam Network for PC and MAC. The Steam version features enhanced lighting effects, enhanced shadow effects, and all of the aircraft unlocked and available to pilot. Experience the thrill of flight with Flight Unlimited Las Vegas.
->
-> _Synopsis source: Steam_
-
-[Wikipedia](https://en.wikipedia.org/wiki/Flight_Unlimited) · [Steam](https://store.steampowered.com/app/383620)
+[Wikipedia](https://en.wikipedia.org/wiki/Flight_Unlimited)
 
 ---
 
@@ -804,6 +774,8 @@
 
 ### Phantasmagoria
 
+<img src="../images/steam-501990.jpg" alt="Phantasmagoria cover" width="200">
+
 **Platforms:** MS-DOS, Windows, macOS &nbsp;|&nbsp; **Developer/Publisher:** Sierra Online &nbsp;|&nbsp; **Genre:** Adventure &nbsp;|&nbsp; **Released:** July 31
 
 > Master storyteller Roberta Williams challenges you to experience the ultimate interactive nightmare.
@@ -835,6 +807,8 @@
 ---
 
 ### The Beast Within: A Gabriel Knight Mystery
+
+<img src="../images/steam-496760.jpg" alt="The Beast Within: A Gabriel Knight Mystery cover" width="200">
 
 **Platforms:** MS-DOS, Windows, macOS &nbsp;|&nbsp; **Developer/Publisher:** Sierra On-Line &nbsp;|&nbsp; **Genre:** Adventure &nbsp;|&nbsp; **Released:** December 31
 

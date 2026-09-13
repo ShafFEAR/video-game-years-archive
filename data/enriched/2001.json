@@ -1,0 +1,4556 @@
+[
+  {
+    "year": 2001,
+    "section": "Metacritic and GameRankings",
+    "title": "Halo: Combat Evolved",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "publisher": "Microsoft Game Studios",
+    "release_date": "November 15, 2001",
+    "mc score": "97/100",
+    "gr score": "95.54%",
+    "platform_breakdown": {
+      "platform(s)": "XB",
+      "computer releases": "— N/a",
+      "console releases": "XB",
+      "handheld releases": "— N/a"
+    },
+    "platforms": [
+      "Xbox"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Metacritic and GameRankings",
+    "title": "Grand Theft Auto III",
+    "wiki_title": "Grand Theft Auto III",
+    "wiki_url": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_III",
+    "redlink": false,
+    "publisher": "Rockstar Games",
+    "release_date": "October 22, 2001",
+    "mc score": "97/100",
+    "gr score": "95.19%",
+    "platform_breakdown": {
+      "platform(s)": "PS2",
+      "computer releases": "— N/a",
+      "console releases": "PS2",
+      "handheld releases": "— N/a"
+    },
+    "platforms": [
+      "PlayStation 2"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Metacritic and GameRankings",
+    "title": "Metal Gear Solid 2: Sons of Liberty",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "publisher": "Konami",
+    "release_date": "November 13, 2001",
+    "mc score": "96/100",
+    "gr score": "95.09%",
+    "platform_breakdown": {
+      "platform(s)": "PS2",
+      "computer releases": "— N/a",
+      "console releases": "PS2",
+      "handheld releases": "— N/a"
+    },
+    "platforms": [
+      "PlayStation 2"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Metacritic and GameRankings",
+    "title": "Gran Turismo 3: A-Spec",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "publisher": "Sony Computer Entertainment",
+    "release_date": "April 28, 2001",
+    "mc score": "95/100",
+    "gr score": "94.54%",
+    "platform_breakdown": {
+      "platform(s)": "PS2",
+      "computer releases": "— N/a",
+      "console releases": "PS2",
+      "handheld releases": "— N/a"
+    },
+    "platforms": [
+      "PlayStation 2"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Metacritic and GameRankings",
+    "title": "Tony Hawk's Pro Skater 3",
+    "wiki_title": "Tony Hawk's Pro Skater 3",
+    "wiki_url": "https://en.wikipedia.org/wiki/Tony_Hawk%27s_Pro_Skater_3",
+    "redlink": false,
+    "publisher": "Activision",
+    "release_date": "October 30, 2001",
+    "mc score": "97/100",
+    "gr score": "93.43%",
+    "platform_breakdown": {
+      "platform(s)": "GCN",
+      "computer releases": "— N/a",
+      "console releases": "PS1, PS2, GCN",
+      "handheld releases": "— N/a"
+    },
+    "platforms": [
+      "PlayStation 2",
+      "GameCube",
+      "PlayStation"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Metacritic and GameRankings",
+    "title": "Devil May Cry",
+    "wiki_title": "Devil May Cry (video game)",
+    "wiki_url": "https://en.wikipedia.org/wiki/Devil_May_Cry_(video_game)",
+    "redlink": false,
+    "publisher": "Capcom",
+    "release_date": "August 23, 2001",
+    "mc score": "94/100",
+    "gr score": "92.6%",
+    "platform_breakdown": {
+      "platform(s)": "PS2",
+      "computer releases": "— N/a",
+      "console releases": "PS2",
+      "handheld releases": "— N/a"
+    },
+    "platforms": [
+      "PlayStation 2"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Metacritic and GameRankings",
+    "title": "Tony Hawk's Pro Skater 2",
+    "wiki_title": "Tony Hawk's Pro Skater 2",
+    "wiki_url": "https://en.wikipedia.org/wiki/Tony_Hawk%27s_Pro_Skater_2",
+    "redlink": false,
+    "publisher": "Activision",
+    "release_date": "June 11, 2001",
+    "mc score": "95/100",
+    "gr score": "89.88%",
+    "platform_breakdown": {
+      "platform(s)": "GBA"
+    },
+    "platforms": [
+      "Game Boy Advance"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Metacritic and GameRankings",
+    "title": "Madden NFL 2002",
+    "wiki_title": "Madden NFL 2002",
+    "wiki_url": "https://en.wikipedia.org/wiki/Madden_NFL_2002",
+    "redlink": false,
+    "publisher": "EA Sports",
+    "release_date": "August 19, 2001",
+    "mc score": "94/100",
+    "gr score": "92.32%",
+    "platform_breakdown": {
+      "platform(s)": "PS1",
+      "computer releases": "",
+      "console releases": "",
+      "handheld releases": "GBC"
+    },
+    "platforms": [
+      "PlayStation 2",
+      "GameCube",
+      "Xbox",
+      "PlayStation",
+      "Game Boy Color"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Metacritic and GameRankings",
+    "title": "NBA 2K2",
+    "wiki_title": "NBA 2K2",
+    "wiki_url": "https://en.wikipedia.org/wiki/NBA_2K2",
+    "redlink": false,
+    "publisher": "Sega",
+    "release_date": "October 24, 2001",
+    "mc score": "93/100",
+    "gr score": "92.82%",
+    "platform_breakdown": {
+      "platform(s)": "DC"
+    },
+    "platforms": [
+      "Dreamcast"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Metacritic and GameRankings",
+    "title": "Mario Kart: Super Circuit",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "publisher": "Nintendo",
+    "release_date": "July 21, 2001",
+    "mc score": "93/100",
+    "gr score": "91.54%",
+    "platform_breakdown": {
+      "platform(s)": "GBA",
+      "computer releases": "— N/a",
+      "console releases": "— N/a",
+      "handheld releases": "GBA"
+    },
+    "platforms": [
+      "Game Boy Advance"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Metacritic and GameRankings",
+    "title": "SSX Tricky",
+    "wiki_title": "SSX Tricky",
+    "wiki_url": "https://en.wikipedia.org/wiki/SSX_Tricky",
+    "redlink": false,
+    "publisher": "EA Sports",
+    "release_date": "November 5, 2001",
+    "mc score": "92/100",
+    "gr score": "92.49%",
+    "platform_breakdown": {
+      "platform(s)": "XB",
+      "computer releases": "— N/a",
+      "console releases": "PS2, GCN, XB",
+      "handheld releases": "— N/a"
+    },
+    "platforms": [
+      "PlayStation 2",
+      "Xbox",
+      "GameCube"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Metacritic and GameRankings",
+    "title": "Advance Wars",
+    "wiki_title": "Advance Wars",
+    "wiki_url": "https://en.wikipedia.org/wiki/Advance_Wars",
+    "redlink": false,
+    "publisher": "Nintendo",
+    "release_date": "September 10, 2001",
+    "mc score": "92/100",
+    "gr score": "92.38%",
+    "platform_breakdown": {
+      "platform(s)": "GBA",
+      "computer releases": "— N/a",
+      "console releases": "— N/a",
+      "handheld releases": "GBA"
+    },
+    "platforms": [
+      "Game Boy Advance"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Metacritic and GameRankings",
+    "title": "Super Mario World: Super Mario Advance 2",
+    "wiki_title": "Super Mario World",
+    "wiki_url": "https://en.wikipedia.org/wiki/Super_Mario_World",
+    "redlink": false,
+    "publisher": "Nintendo",
+    "release_date": "December 14, 2001",
+    "mc score": "92/100 [ 32 ]",
+    "gr score": "92.36% [ 33 ]",
+    "platform_breakdown": {
+      "platform(s)": "GBA"
+    },
+    "platforms": [
+      "Game Boy Advance"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Metacritic and GameRankings",
+    "title": "The Legend of Zelda: Oracle of Ages",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "publisher": "Nintendo",
+    "release_date": "February 27, 2001",
+    "mc score": "— N/a",
+    "gr score": "92.2%",
+    "platform_breakdown": {
+      "platform(s)": "GBC"
+    },
+    "platforms": [
+      "Game Boy Color"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Metacritic and GameRankings",
+    "title": "Final Fantasy X",
+    "wiki_title": "Final Fantasy X",
+    "wiki_url": "https://en.wikipedia.org/wiki/Final_Fantasy_X",
+    "redlink": false,
+    "publisher": "Square",
+    "release_date": "July 19, 2001",
+    "mc score": "92/100",
+    "gr score": "91.73%",
+    "platform_breakdown": {
+      "platform(s)": "PS2",
+      "computer releases": "— N/a",
+      "console releases": "PS2 (US)",
+      "handheld releases": "— N/a"
+    },
+    "platforms": [
+      "PlayStation 2"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Metacritic and GameRankings",
+    "title": "Super Smash Bros. Melee",
+    "wiki_title": "Super Smash Bros. Melee",
+    "wiki_url": "https://en.wikipedia.org/wiki/Super_Smash_Bros._Melee",
+    "redlink": false,
+    "publisher": "Nintendo",
+    "release_date": "November 21, 2001",
+    "mc score": "92/100",
+    "gr score": "90.52%",
+    "platform_breakdown": {
+      "platform(s)": "GCN",
+      "computer releases": "— N/a",
+      "console releases": "GCN (NA)",
+      "handheld releases": "— N/a"
+    },
+    "platforms": [
+      "GameCube"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Metacritic and GameRankings",
+    "title": "Conker's Bad Fur Day",
+    "wiki_title": "Conker's Bad Fur Day",
+    "wiki_url": "https://en.wikipedia.org/wiki/Conker%27s_Bad_Fur_Day",
+    "redlink": false,
+    "publisher": "Rare",
+    "release_date": "March 5, 2001",
+    "mc score": "92/100",
+    "gr score": "89.28%",
+    "platform_breakdown": {
+      "platform(s)": "N64",
+      "computer releases": "— N/a",
+      "console releases": "N64",
+      "handheld releases": "— N/a"
+    },
+    "platforms": [
+      "Nintendo 64"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Metacritic and GameRankings",
+    "title": "NHL 2002",
+    "wiki_title": "NHL 2002",
+    "wiki_url": "https://en.wikipedia.org/wiki/NHL_2002",
+    "redlink": false,
+    "publisher": "EA Sports",
+    "release_date": "September 24, 2001",
+    "mc score": "92/100",
+    "gr score": "88.84%",
+    "platform_breakdown": {
+      "platform(s)": "XB"
+    },
+    "platforms": [
+      "PlayStation 2",
+      "Xbox"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Metacritic and GameRankings",
+    "title": "Pro Evolution Soccer",
+    "wiki_title": "Pro Evolution Soccer (video game)",
+    "wiki_url": "https://en.wikipedia.org/wiki/Pro_Evolution_Soccer_(video_game)",
+    "redlink": false,
+    "publisher": "Konami",
+    "release_date": "March 15, 2001",
+    "mc score": "— N/a",
+    "gr score": "91.69%",
+    "platform_breakdown": {
+      "platform(s)": "PS2"
+    },
+    "platforms": [
+      "PlayStation 2"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Metacritic and GameRankings",
+    "title": "The Legend of Zelda: Oracle of Seasons",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "publisher": "Nintendo",
+    "release_date": "February 27, 2001",
+    "mc score": "— N/a",
+    "gr score": "91.37%",
+    "platform_breakdown": {
+      "platform(s)": "GBC"
+    },
+    "platforms": [
+      "Game Boy Color"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Metacritic and GameRankings",
+    "title": "IL-2 Sturmovik",
+    "wiki_title": "IL-2 Sturmovik (video game)",
+    "wiki_url": "https://en.wikipedia.org/wiki/IL-2_Sturmovik_(video_game)",
+    "redlink": false,
+    "publisher": "1C Company",
+    "release_date": "November 18, 2001",
+    "mc score": "91/100",
+    "gr score": "90.65%",
+    "platform_breakdown": {
+      "platform(s)": "WIN",
+      "computer releases": "WIN",
+      "console releases": "— N/a",
+      "handheld releases": "— N/a"
+    },
+    "platforms": [
+      "Windows"
+    ],
+    "steam": null
+  },
+  {
+    "year": 2001,
+    "section": "Metacritic and GameRankings",
+    "title": "Golden Sun",
+    "wiki_title": "Golden Sun (video game)",
+    "wiki_url": "https://en.wikipedia.org/wiki/Golden_Sun_(video_game)",
+    "redlink": false,
+    "publisher": "Nintendo",
+    "release_date": "August 1, 2001",
+    "mc score": "91/100",
+    "gr score": "89.1%",
+    "platform_breakdown": {
+      "platform(s)": "GBA",
+      "computer releases": "— N/a",
+      "console releases": "— N/a",
+      "handheld releases": "GBA"
+    },
+    "platforms": [
+      "Game Boy Advance"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Metacritic and GameRankings",
+    "title": "Twisted Metal: Black",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "publisher": "Sony Computer Entertainment",
+    "release_date": "June 18, 2001",
+    "mc score": "91/100",
+    "gr score": "88.52%",
+    "platform_breakdown": {
+      "platform(s)": "PS2",
+      "computer releases": "— N/a",
+      "console releases": "PS2",
+      "handheld releases": "— N/a"
+    },
+    "platforms": [
+      "PlayStation 2"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Metacritic and GameRankings",
+    "title": "Castlevania: Circle of the Moon",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "publisher": "Konami",
+    "release_date": "March 21, 2001",
+    "mc score": "91/100",
+    "gr score": "88.11%",
+    "platform_breakdown": {
+      "platform(s)": "GBA",
+      "computer releases": "— N/a",
+      "console releases": "— N/a",
+      "handheld releases": "GBA"
+    },
+    "platforms": [
+      "Game Boy Advance"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Metacritic and GameRankings",
+    "title": "Klonoa 2: Lunatea's Veil",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "publisher": "Namco",
+    "release_date": "March 22, 2001",
+    "mc score": "91/100",
+    "gr score": "84.76%",
+    "platform_breakdown": {
+      "platform(s)": "PS2",
+      "computer releases": "— N/a",
+      "console releases": "PS2",
+      "handheld releases": "— N/a"
+    },
+    "platforms": [
+      "PlayStation 2"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Metacritic and GameRankings",
+    "title": "Ico",
+    "wiki_title": "Ico",
+    "wiki_url": "https://en.wikipedia.org/wiki/Ico",
+    "redlink": false,
+    "publisher": "Sony Computer Entertainment",
+    "release_date": "September 24, 2001",
+    "mc score": "90/100",
+    "gr score": "90.29%",
+    "platform_breakdown": {
+      "platform(s)": "PS2",
+      "computer releases": "— N/a",
+      "console releases": "PS2",
+      "handheld releases": "— N/a"
+    },
+    "platforms": [
+      "PlayStation 2"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Metacritic and GameRankings",
+    "title": "NCAA Football 2002",
+    "wiki_title": "NCAA Football (video game series)#NCAA Football 2002",
+    "wiki_url": "https://en.wikipedia.org/wiki/NCAA_Football_(video_game_series)#NCAA_Football_2002",
+    "redlink": false,
+    "publisher": "EA Sports",
+    "release_date": "July 23, 2001",
+    "mc score": "90/100",
+    "gr score": "90.25%",
+    "platform_breakdown": {
+      "platform(s)": "PS2"
+    },
+    "platforms": [
+      "PlayStation 2"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Metacritic and GameRankings",
+    "title": "Jak and Daxter: The Precursor Legacy",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "publisher": "Sony Computer Entertainment",
+    "release_date": "December 3, 2001",
+    "mc score": "90/100",
+    "gr score": "90.22%",
+    "platform_breakdown": {
+      "platform(s)": "PS2",
+      "computer releases": "— N/a",
+      "console releases": "PS2",
+      "handheld releases": "— N/a"
+    },
+    "platforms": [
+      "PlayStation 2"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Metacritic and GameRankings",
+    "title": "Star Wars Rogue Squadron II: Rogue Leader",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "publisher": "LucasArts",
+    "release_date": "November 18, 2001",
+    "mc score": "90/100",
+    "gr score": "90.04%",
+    "platform_breakdown": {
+      "platform(s)": "GCN",
+      "computer releases": "— N/a",
+      "console releases": "GCN",
+      "handheld releases": "— N/a"
+    },
+    "platforms": [
+      "GameCube"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Metacritic and GameRankings",
+    "title": "Black & White",
+    "wiki_title": "Black & White (video game)",
+    "wiki_url": "https://en.wikipedia.org/wiki/Black_%26_White_(video_game)",
+    "redlink": false,
+    "publisher": "Electronic Arts",
+    "release_date": "March 30, 2001",
+    "mc score": "90/100",
+    "gr score": "89.79%",
+    "platform_breakdown": {
+      "platform(s)": "WIN",
+      "computer releases": "WIN",
+      "console releases": "— N/a",
+      "handheld releases": "— N/a"
+    },
+    "platforms": [
+      "Windows"
+    ],
+    "steam": {
+      "appid": 1998450,
+      "name": "Black & White",
+      "short_description": "&quot;Black &amp; White&quot; is a dystopian visual novel + war chess game: black and white, sensibility and reason, freedom and order: follow your beliefs and join your camp.",
+      "image_path": "images/steam-1998450.jpg",
+      "genres": [
+        "Adventure",
+        "Indie",
+        "RPG",
+        "Strategy"
+      ],
+      "release_date": "Mar 16, 2023",
+      "site_url": "https://store.steampowered.com/app/1998450",
+      "year_match": true
+    }
+  },
+  {
+    "year": 2001,
+    "section": "Metacritic and GameRankings",
+    "title": "NFL 2K 2",
+    "wiki_title": "NFL 2K",
+    "wiki_url": "https://en.wikipedia.org/wiki/NFL_2K",
+    "redlink": false,
+    "publisher": "Sega",
+    "release_date": "September 19, 2001",
+    "mc score": "90/100",
+    "gr score": "89.35%",
+    "platform_breakdown": {
+      "platform(s)": "DC"
+    },
+    "platforms": [
+      "Dreamcast"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Metacritic and GameRankings",
+    "title": "Civilization III",
+    "wiki_title": "Civilization III",
+    "wiki_url": "https://en.wikipedia.org/wiki/Civilization_III",
+    "redlink": false,
+    "publisher": "Infogrames",
+    "release_date": "October 30, 2001",
+    "mc score": "90/100",
+    "gr score": "88.75%",
+    "platform_breakdown": {
+      "platform(s)": "WIN",
+      "computer releases": "WIN",
+      "console releases": "— N/a",
+      "handheld releases": "— N/a"
+    },
+    "platforms": [
+      "Windows"
+    ],
+    "steam": null
+  },
+  {
+    "year": 2001,
+    "section": "Metacritic and GameRankings",
+    "title": "Unreal Tournament",
+    "wiki_title": "Unreal Tournament",
+    "wiki_url": "https://en.wikipedia.org/wiki/Unreal_Tournament",
+    "redlink": false,
+    "publisher": "Infogrames",
+    "release_date": "March 13, 2001",
+    "mc score": "90/100",
+    "gr score": "87.8%",
+    "platform_breakdown": {
+      "platform(s)": "DC",
+      "computer releases": "— N/a",
+      "console releases": "DC",
+      "handheld releases": "— N/a"
+    },
+    "platforms": [
+      "Dreamcast"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Metacritic and GameRankings",
+    "title": "Virtua Tennis 2",
+    "wiki_title": "Virtua Tennis 2",
+    "wiki_url": "https://en.wikipedia.org/wiki/Virtua_Tennis_2",
+    "redlink": false,
+    "publisher": "Sega",
+    "release_date": "October 24, 2001",
+    "mc score": "90/100",
+    "gr score": "87.22%",
+    "platform_breakdown": {
+      "platform(s)": "DC",
+      "computer releases": "— N/a",
+      "console releases": "DC",
+      "handheld releases": "— N/a"
+    },
+    "platforms": [
+      "Dreamcast"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Metacritic and GameRankings",
+    "title": "Dance Dance Revolution",
+    "wiki_title": "Dance Dance Revolution (1998 video game)",
+    "wiki_url": "https://en.wikipedia.org/wiki/Dance_Dance_Revolution_(1998_video_game)",
+    "redlink": false,
+    "publisher": "Konami",
+    "release_date": "March 6, 2001",
+    "mc score": "90/100",
+    "gr score": "83.63%",
+    "platform_breakdown": {
+      "platform(s)": "PS1"
+    },
+    "platforms": [
+      "PlayStation"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Metacritic and GameRankings",
+    "title": "Microsoft Flight Simulator 2002",
+    "wiki_title": "Microsoft Flight Simulator 2002",
+    "wiki_url": "https://en.wikipedia.org/wiki/Microsoft_Flight_Simulator_2002",
+    "redlink": false,
+    "publisher": "Microsoft",
+    "release_date": "October 16, 2001",
+    "mc score": "90/100",
+    "gr score": "82.44%",
+    "platform_breakdown": {
+      "platform(s)": "WIN"
+    },
+    "platforms": [
+      "Windows"
+    ],
+    "steam": null
+  },
+  {
+    "year": 2001,
+    "section": "Metacritic and GameRankings",
+    "title": "Shenmue II",
+    "wiki_title": "Shenmue II",
+    "wiki_url": "https://en.wikipedia.org/wiki/Shenmue_II",
+    "redlink": false,
+    "publisher": "Sega",
+    "release_date": "September 6, 2001",
+    "mc score": "— N/a",
+    "gr score": "89.63%",
+    "platform_breakdown": {
+      "platform(s)": "DC",
+      "computer releases": "— N/a",
+      "console releases": "DC",
+      "handheld releases": "— N/a"
+    },
+    "platforms": [
+      "Dreamcast"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Metacritic and GameRankings",
+    "title": "Max Payne",
+    "wiki_title": "Max Payne (video game)",
+    "wiki_url": "https://en.wikipedia.org/wiki/Max_Payne_(video_game)",
+    "redlink": false,
+    "publisher": "Gathering of Developers",
+    "release_date": "July 23, 2001",
+    "mc score": "89/100",
+    "gr score": "89.26%",
+    "platform_breakdown": {
+      "platform(s)": "XB",
+      "computer releases": "WIN",
+      "console releases": "— N/a",
+      "handheld releases": "— N/a"
+    },
+    "platforms": [
+      "Windows",
+      "Xbox"
+    ],
+    "steam": null
+  },
+  {
+    "year": 2001,
+    "section": "Metacritic and GameRankings",
+    "title": "NASCAR Racing 4",
+    "wiki_title": "NASCAR Racing 4",
+    "wiki_url": "https://en.wikipedia.org/wiki/NASCAR_Racing_4",
+    "redlink": false,
+    "publisher": "Sierra Entertainment",
+    "release_date": "February 6, 2001",
+    "mc score": "89/100",
+    "gr score": "88.5%",
+    "platform_breakdown": {
+      "platform(s)": "WIN"
+    },
+    "platforms": [
+      "Windows"
+    ],
+    "steam": null
+  },
+  {
+    "year": 2001,
+    "section": "Metacritic and GameRankings",
+    "title": "NBA Street",
+    "wiki_title": "NBA Street",
+    "wiki_url": "https://en.wikipedia.org/wiki/NBA_Street",
+    "redlink": false,
+    "publisher": "EA Sports",
+    "release_date": "June 19, 2001",
+    "mc score": "89/100",
+    "gr score": "86.92%",
+    "platform_breakdown": {
+      "platform(s)": "PS2"
+    },
+    "platforms": [
+      "PlayStation 2"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Metacritic and GameRankings",
+    "title": "Pikmin",
+    "wiki_title": "Pikmin",
+    "wiki_url": "https://en.wikipedia.org/wiki/Pikmin",
+    "redlink": false,
+    "publisher": "Nintendo",
+    "release_date": "October 26, 2001",
+    "mc score": "89/100",
+    "gr score": "86.71%",
+    "platform_breakdown": {
+      "platform(s)": "GCN",
+      "computer releases": "— N/a",
+      "console releases": "GCN",
+      "handheld releases": "— N/a"
+    },
+    "platforms": [
+      "GameCube"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Metacritic and GameRankings",
+    "title": "Final Fantasy Chronicles",
+    "wiki_title": "Final Fantasy Chronicles",
+    "wiki_url": "https://en.wikipedia.org/wiki/Final_Fantasy_Chronicles",
+    "redlink": false,
+    "publisher": "Square",
+    "release_date": "June 29, 2001",
+    "mc score": "89/100",
+    "gr score": "86.7%",
+    "platform_breakdown": {
+      "platform(s)": "PS1",
+      "computer releases": "— N/a",
+      "console releases": "PS1",
+      "handheld releases": "— N/a"
+    },
+    "platforms": [
+      "PlayStation"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Metacritic and GameRankings",
+    "title": "Ace Combat 04: Shattered Skies",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "publisher": "Namco",
+    "release_date": "September 13, 2001",
+    "mc score": "89/100",
+    "gr score": "86.07%",
+    "platform_breakdown": {
+      "platform(s)": "PS2",
+      "computer releases": "— N/a",
+      "console releases": "PS2",
+      "handheld releases": "— N/a"
+    },
+    "platforms": [
+      "PlayStation 2"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Metacritic and GameRankings",
+    "title": "Silent Hill 2",
+    "wiki_title": "Silent Hill 2",
+    "wiki_url": "https://en.wikipedia.org/wiki/Silent_Hill_2",
+    "redlink": false,
+    "publisher": "Konami",
+    "release_date": "September 24, 2001",
+    "mc score": "89/100",
+    "gr score": "85.82%",
+    "platform_breakdown": {
+      "platform(s)": "PS2",
+      "computer releases": "— N/a",
+      "console releases": "PS2",
+      "handheld releases": "— N/a"
+    },
+    "platforms": [
+      "PlayStation 2"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Metacritic and GameRankings",
+    "title": "Sonic Adventure 2",
+    "wiki_title": "Sonic Adventure 2",
+    "wiki_url": "https://en.wikipedia.org/wiki/Sonic_Adventure_2",
+    "redlink": false,
+    "publisher": "Sega",
+    "release_date": "June 23, 2001",
+    "mc score": "89/100",
+    "gr score": "83.26%",
+    "platform_breakdown": {
+      "platform(s)": "DC",
+      "computer releases": "— N/a",
+      "console releases": "DC",
+      "handheld releases": "— N/a"
+    },
+    "platforms": [
+      "Dreamcast"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Metacritic and GameRankings",
+    "title": "Baldur's Gate II: Throne of Bhaal",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "publisher": "Interplay Entertainment",
+    "release_date": "June 22, 2001",
+    "mc score": "88/100",
+    "gr score": "88.73%",
+    "platform_breakdown": {
+      "platform(s)": "WIN",
+      "computer releases": "WIN",
+      "console releases": "— N/a",
+      "handheld releases": "— N/a"
+    },
+    "platforms": [
+      "Windows"
+    ],
+    "steam": null
+  },
+  {
+    "year": 2001,
+    "section": "Metacritic and GameRankings",
+    "title": "Super Monkey Ball",
+    "wiki_title": "Super Monkey Ball (video game)",
+    "wiki_url": "https://en.wikipedia.org/wiki/Super_Monkey_Ball_(video_game)",
+    "redlink": false,
+    "publisher": "Sega",
+    "release_date": "September 14, 2001",
+    "mc score": "87/100",
+    "gr score": "88.7%",
+    "platform_breakdown": {
+      "platform(s)": "GCN",
+      "computer releases": "— N/a",
+      "console releases": "GCN",
+      "handheld releases": "— N/a"
+    },
+    "platforms": [
+      "GameCube"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Metacritic and GameRankings",
+    "title": "Red Faction",
+    "wiki_title": "Red Faction (video game)",
+    "wiki_url": "https://en.wikipedia.org/wiki/Red_Faction_(video_game)",
+    "redlink": false,
+    "publisher": "THQ",
+    "release_date": "May 22, 2001",
+    "mc score": "88/100",
+    "gr score": "88.32%",
+    "platform_breakdown": {
+      "platform(s)": "PS2",
+      "computer releases": "— N/a",
+      "console releases": "PS2",
+      "handheld releases": "— N/a"
+    },
+    "platforms": [
+      "PlayStation 2"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Metacritic and GameRankings",
+    "title": "Dark Age of Camelot",
+    "wiki_title": "Dark Age of Camelot",
+    "wiki_url": "https://en.wikipedia.org/wiki/Dark_Age_of_Camelot",
+    "redlink": false,
+    "publisher": "Vivendi Universal Games",
+    "release_date": "October 10, 2001",
+    "mc score": "88/100",
+    "gr score": "88.08%",
+    "platform_breakdown": {
+      "platform(s)": "WIN",
+      "computer releases": "WIN",
+      "console releases": "— N/a",
+      "handheld releases": "— N/a"
+    },
+    "platforms": [
+      "Windows"
+    ],
+    "steam": null
+  },
+  {
+    "year": 2001,
+    "section": "Metacritic and GameRankings",
+    "title": "Return to Castle Wolfenstein",
+    "wiki_title": "Return to Castle Wolfenstein",
+    "wiki_url": "https://en.wikipedia.org/wiki/Return_to_Castle_Wolfenstein",
+    "redlink": false,
+    "publisher": "Activision",
+    "release_date": "November 19, 2001",
+    "mc score": "88/100",
+    "gr score": "86.75%",
+    "platform_breakdown": {
+      "platform(s)": "WIN",
+      "computer releases": "WIN",
+      "console releases": "— N/a",
+      "handheld releases": "— N/a"
+    },
+    "platforms": [
+      "Windows"
+    ],
+    "steam": {
+      "appid": 9010,
+      "name": "Return to Castle Wolfenstein",
+      "short_description": "World War II rages and nations fall. The Nazis are twisting science and the occult into an army capable of annihilating the Allies once and for all. As US Army Ranger William “B.J.” Blazkowicz, pierce the black heart of the Third Reich and stop them...or die trying.",
+      "image_path": "images/steam-9010.jpg",
+      "genres": [
+        "Action"
+      ],
+      "release_date": "Aug 3, 2007",
+      "site_url": "https://store.steampowered.com/app/9010",
+      "year_match": true
+    }
+  },
+  {
+    "year": 2001,
+    "section": "Metacritic and GameRankings",
+    "title": "Wario Land 4",
+    "wiki_title": "Wario Land 4",
+    "wiki_url": "https://en.wikipedia.org/wiki/Wario_Land_4",
+    "redlink": false,
+    "publisher": "Nintendo",
+    "release_date": "August 21, 2001",
+    "mc score": "88/100",
+    "gr score": "85.34%",
+    "platform_breakdown": {
+      "platform(s)": "GBA",
+      "computer releases": "— N/a",
+      "console releases": "— N/a",
+      "handheld releases": "GBA"
+    },
+    "platforms": [
+      "Game Boy Advance"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Metacritic and GameRankings",
+    "title": "Tribes 2",
+    "wiki_title": "Tribes 2",
+    "wiki_url": "https://en.wikipedia.org/wiki/Tribes_2",
+    "redlink": false,
+    "publisher": "Sierra Entertainment",
+    "release_date": "March 28, 2001",
+    "mc score": "88/100",
+    "gr score": "84.85%",
+    "platform_breakdown": {
+      "platform(s)": "WIN",
+      "computer releases": "WIN",
+      "console releases": "— N/a",
+      "handheld releases": "— N/a"
+    },
+    "platforms": [
+      "Windows"
+    ],
+    "steam": null
+  },
+  {
+    "year": 2001,
+    "section": "Metacritic and GameRankings",
+    "title": "Tactics Ogre: The Knight of Lodis",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "publisher": "Nintendo",
+    "release_date": "June 21, 2001",
+    "mc score": "88/100 [ 32 ]",
+    "gr score": "83.62% [ 33 ]",
+    "platform_breakdown": {
+      "platform(s)": "GBA"
+    },
+    "platforms": [
+      "Game Boy Advance"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "RuneScape",
+    "wiki_title": "RuneScape",
+    "wiki_url": "https://en.wikipedia.org/wiki/RuneScape",
+    "redlink": false,
+    "release_date": "January 4",
+    "platform_breakdown": {
+      "computer releases": "WIN",
+      "console releases": "— N/a",
+      "handheld releases": "— N/a"
+    },
+    "platforms": [
+      "Windows"
+    ],
+    "steam": {
+      "appid": 1343400,
+      "name": "RuneScape ®",
+      "short_description": "RuneScape is a high fantasy open world MMORPG. Explore an ever changing and evolving living world where new challenges, skills, and quests await. Featuring unprecedented player freedom, you choose how to play, adventure, and grow.",
+      "image_path": "images/steam-1343400.jpg",
+      "genres": [
+        "Massively Multiplayer",
+        "RPG",
+        "Free To Play"
+      ],
+      "release_date": "Oct 14, 2020",
+      "site_url": "https://store.steampowered.com/app/1343400",
+      "year_match": false
+    }
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "Mega Man 64",
+    "wiki_title": "Mega Man Legends (video game)",
+    "wiki_url": "https://en.wikipedia.org/wiki/Mega_Man_Legends_(video_game)",
+    "redlink": false,
+    "release_date": "January 10",
+    "platform_breakdown": {
+      "computer releases": "— N/a",
+      "console releases": "N64",
+      "handheld releases": "— N/a"
+    },
+    "platforms": [
+      "Nintendo 64"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "Mario Tennis",
+    "wiki_title": "Mario Tennis",
+    "wiki_url": "https://en.wikipedia.org/wiki/Mario_Tennis",
+    "redlink": false,
+    "release_date": "January 16",
+    "platform_breakdown": {
+      "computer releases": "— N/a",
+      "console releases": "— N/a",
+      "handheld releases": "GBC"
+    },
+    "platforms": [
+      "Game Boy Color"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "Oni",
+    "wiki_title": "Oni (video game)",
+    "wiki_url": "https://en.wikipedia.org/wiki/Oni_(video_game)",
+    "redlink": false,
+    "release_date": "January 29",
+    "platform_breakdown": {
+      "computer releases": "WIN",
+      "console releases": "PS2",
+      "handheld releases": "— N/a"
+    },
+    "platforms": [
+      "Windows",
+      "PlayStation 2"
+    ],
+    "steam": null
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "Phantasy Star Online",
+    "wiki_title": "Phantasy Star Online",
+    "wiki_url": "https://en.wikipedia.org/wiki/Phantasy_Star_Online",
+    "redlink": false,
+    "release_date": "January 29",
+    "platform_breakdown": {
+      "computer releases": "— N/a",
+      "console releases": "DC",
+      "handheld releases": "— N/a"
+    },
+    "platforms": [
+      "Dreamcast"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "Rayman 2: The Great Escape",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "release_date": "January 30",
+    "platform_breakdown": {
+      "computer releases": "— N/a",
+      "console releases": "PS2",
+      "handheld releases": "— N/a"
+    },
+    "platforms": [
+      "PlayStation 2"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "Mega Man X5",
+    "wiki_title": "Mega Man X5",
+    "wiki_url": "https://en.wikipedia.org/wiki/Mega_Man_X5",
+    "redlink": false,
+    "release_date": "January 31",
+    "platform_breakdown": {
+      "computer releases": "— N/a",
+      "console releases": "PS1",
+      "handheld releases": "— N/a"
+    },
+    "platforms": [
+      "PlayStation"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "Paper Mario",
+    "wiki_title": "Paper Mario",
+    "wiki_url": "https://en.wikipedia.org/wiki/Paper_Mario",
+    "redlink": false,
+    "release_date": "February 5",
+    "platform_breakdown": {
+      "computer releases": "— N/a",
+      "console releases": "N64",
+      "handheld releases": "— N/a"
+    },
+    "platforms": [
+      "Nintendo 64"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "Action Man: Search for Base X",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "release_date": "February 6",
+    "platform_breakdown": {
+      "computer releases": "— N/a",
+      "console releases": "— N/a",
+      "handheld releases": "GBC"
+    },
+    "platforms": [
+      "Game Boy Color"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "Metal Walker",
+    "wiki_title": "Metal Walker",
+    "wiki_url": "https://en.wikipedia.org/wiki/Metal_Walker",
+    "redlink": false,
+    "release_date": "February 6",
+    "platform_breakdown": {
+      "computer releases": "— N/a",
+      "console releases": "— N/a",
+      "handheld releases": "GBC"
+    },
+    "platforms": [
+      "Game Boy Color"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "Clive Barker's Undying",
+    "wiki_title": "Clive Barker's Undying",
+    "wiki_url": "https://en.wikipedia.org/wiki/Clive_Barker%27s_Undying",
+    "redlink": false,
+    "release_date": "February 7",
+    "platform_breakdown": {
+      "computer releases": "WIN",
+      "console releases": "— N/a",
+      "handheld releases": "— N/a"
+    },
+    "platforms": [
+      "Windows"
+    ],
+    "steam": null
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "Final Fantasy IX",
+    "wiki_title": "Final Fantasy IX",
+    "wiki_url": "https://en.wikipedia.org/wiki/Final_Fantasy_IX",
+    "redlink": false,
+    "release_date": "February 16",
+    "platform_breakdown": {
+      "computer releases": "— N/a",
+      "console releases": "PS1 (EU)",
+      "handheld releases": "— N/a"
+    },
+    "platforms": [
+      "PlayStation"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "Scooby-Doo! Classic Creep Capers",
+    "wiki_title": "Scooby-Doo! Classic Creep Capers",
+    "wiki_url": "https://en.wikipedia.org/wiki/Scooby-Doo!_Classic_Creep_Capers",
+    "redlink": false,
+    "release_date": "February 20",
+    "platform_breakdown": {
+      "computer releases": "— N/a",
+      "console releases": "— N/a",
+      "handheld releases": "GBC"
+    },
+    "platforms": [
+      "Game Boy Color"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "Severance: Blade of Darkness",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "release_date": "February 23",
+    "platform_breakdown": {
+      "computer releases": "WIN",
+      "console releases": "— N/a",
+      "handheld releases": "— N/a"
+    },
+    "platforms": [
+      "Windows"
+    ],
+    "steam": null
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "The Legend of Zelda: Oracle of Seasons and Oracle of Ages",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "release_date": "February 27",
+    "platform_breakdown": {
+      "computer releases": "— N/a",
+      "console releases": "— N/a",
+      "handheld releases": "GBC (JP)"
+    },
+    "platforms": [
+      "Game Boy Color"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "Lego Island 2 The Brickster's Revenge",
+    "wiki_title": "Lego Island 2 The Brickster's Revenge",
+    "wiki_url": "https://en.wikipedia.org/wiki/Lego_Island_2_The_Brickster%27s_Revenge",
+    "redlink": false,
+    "release_date": "March 1",
+    "platform_breakdown": {
+      "computer releases": "WIN",
+      "console releases": "PS1",
+      "handheld releases": "GBC, GBA"
+    },
+    "platforms": [
+      "Windows",
+      "PlayStation",
+      "Game Boy Color",
+      "Game Boy Advance"
+    ],
+    "steam": null
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "The Bouncer",
+    "wiki_title": "The Bouncer (video game)",
+    "wiki_url": "https://en.wikipedia.org/wiki/The_Bouncer_(video_game)",
+    "redlink": false,
+    "release_date": "March 6",
+    "platform_breakdown": {
+      "computer releases": "— N/a",
+      "console releases": "PS2",
+      "handheld releases": "— N/a"
+    },
+    "platforms": [
+      "PlayStation 2"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "Sonic Shuffle",
+    "wiki_title": "Sonic Shuffle",
+    "wiki_url": "https://en.wikipedia.org/wiki/Sonic_Shuffle",
+    "redlink": false,
+    "release_date": "March 9",
+    "platform_breakdown": {
+      "computer releases": "— N/a",
+      "console releases": "DC",
+      "handheld releases": "— N/a"
+    },
+    "platforms": [
+      "Dreamcast"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "Star Wars: Episode I: Battle for Naboo",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "release_date": "March 12",
+    "platform_breakdown": {
+      "computer releases": "— N/a",
+      "console releases": "N64 (EU)",
+      "handheld releases": "— N/a"
+    },
+    "platforms": [
+      "Windows",
+      "Nintendo 64"
+    ],
+    "steam": null
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "Onimusha: Warlords",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "release_date": "March 13",
+    "platform_breakdown": {
+      "computer releases": "— N/a",
+      "console releases": "PS2",
+      "handheld releases": "— N/a"
+    },
+    "platforms": [
+      "PlayStation 2"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "Aidyn Chronicles: The First Mage",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "release_date": "March 14",
+    "platform_breakdown": {
+      "computer releases": "— N/a",
+      "console releases": "N64",
+      "handheld releases": "— N/a"
+    },
+    "platforms": [
+      "Nintendo 64"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "SpongeBob SquarePants: Legend of the Lost Spatula",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "release_date": "March 15",
+    "platform_breakdown": {
+      "computer releases": "— N/a",
+      "console releases": "— N/a",
+      "handheld releases": "GBC"
+    },
+    "platforms": [
+      "Game Boy Color"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "Summoner [ 53 ]",
+    "wiki_title": "Summoner (video game)",
+    "wiki_url": "https://en.wikipedia.org/wiki/Summoner_(video_game)",
+    "redlink": false,
+    "release_date": "March 20",
+    "platform_breakdown": {
+      "computer releases": "WIN",
+      "console releases": "— N/a",
+      "handheld releases": "— N/a"
+    },
+    "platforms": [
+      "Windows"
+    ],
+    "steam": null
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "Daytona USA",
+    "wiki_title": "Daytona USA (video game)",
+    "wiki_url": "https://en.wikipedia.org/wiki/Daytona_USA_(video_game)",
+    "redlink": false,
+    "release_date": "March 21",
+    "platform_breakdown": {
+      "computer releases": "— N/a",
+      "console releases": "DC",
+      "handheld releases": "— N/a"
+    },
+    "platforms": [
+      "Dreamcast"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "Serious Sam: The First Encounter",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "release_date": "March 21",
+    "platform_breakdown": {
+      "computer releases": "WIN",
+      "console releases": "— N/a",
+      "handheld releases": "— N/a"
+    },
+    "platforms": [
+      "Windows"
+    ],
+    "steam": null
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "Hostile Waters: Antaeus Rising",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "release_date": "March 23",
+    "platform_breakdown": {
+      "computer releases": "WIN",
+      "console releases": "— N/a",
+      "handheld releases": "— N/a"
+    },
+    "platforms": [
+      "Windows"
+    ],
+    "steam": {
+      "appid": 267980,
+      "name": "Hostile Waters: Antaeus Rising",
+      "short_description": "In 2032 an Earth that knows only peace is forced to relearn the art of war. Twenty years have passed since the population of Earth did a fine job of destroying nearly everything in one final struggle for power by the politicians and military leaders.",
+      "image_path": "images/steam-267980.jpg",
+      "genres": [
+        "Strategy"
+      ],
+      "release_date": "Jan 30, 2014",
+      "site_url": "https://store.steampowered.com/app/267980",
+      "year_match": true
+    }
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "Pokémon Stadium 2",
+    "wiki_title": "Pokémon Stadium 2",
+    "wiki_url": "https://en.wikipedia.org/wiki/Pok%C3%A9mon_Stadium_2",
+    "redlink": false,
+    "release_date": "March 26",
+    "platform_breakdown": {
+      "computer releases": "— N/a",
+      "console releases": "N64",
+      "handheld releases": "— N/a"
+    },
+    "platforms": [
+      "Nintendo 64"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "The Simpsons: Night of the Living Treehouse of Horror",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "release_date": "March 26",
+    "platform_breakdown": {
+      "computer releases": "— N/a",
+      "console releases": "— N/a",
+      "handheld releases": "GBC"
+    },
+    "platforms": [
+      "Game Boy Color"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "Zone of the Enders",
+    "wiki_title": "Zone of the Enders (video game)",
+    "wiki_url": "https://en.wikipedia.org/wiki/Zone_of_the_Enders_(video_game)",
+    "redlink": false,
+    "release_date": "March 26",
+    "platform_breakdown": {
+      "computer releases": "— N/a",
+      "console releases": "PS2",
+      "handheld releases": "— N/a"
+    },
+    "platforms": [
+      "PlayStation 2"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "Rocket Power: Gettin' Air",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "release_date": "March 27",
+    "platform_breakdown": {
+      "computer releases": "— N/a",
+      "console releases": "— N/a",
+      "handheld releases": "GBC"
+    },
+    "platforms": [
+      "Game Boy Color"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "Strikers 1945 II",
+    "wiki_title": "Strikers 1945 II",
+    "wiki_url": "https://en.wikipedia.org/wiki/Strikers_1945_II",
+    "redlink": false,
+    "release_date": "March 27",
+    "platform_breakdown": {
+      "computer releases": "— N/a",
+      "console releases": "PS1",
+      "handheld releases": "— N/a"
+    },
+    "platforms": [
+      "PlayStation"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "Indiana Jones and the Infernal Machine",
+    "wiki_title": "Indiana Jones and the Infernal Machine",
+    "wiki_url": "https://en.wikipedia.org/wiki/Indiana_Jones_and_the_Infernal_Machine",
+    "redlink": false,
+    "release_date": "March 30",
+    "platform_breakdown": {
+      "computer releases": "— N/a",
+      "console releases": "— N/a",
+      "handheld releases": "GBC"
+    },
+    "platforms": [
+      "Game Boy Color"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "Snoopy Tennis",
+    "wiki_title": "Snoopy Tennis",
+    "wiki_url": "https://en.wikipedia.org/wiki/Snoopy_Tennis",
+    "redlink": false,
+    "release_date": "April 6",
+    "platform_breakdown": {
+      "computer releases": "— N/a",
+      "console releases": "— N/a",
+      "handheld releases": "GBC"
+    },
+    "platforms": [
+      "Game Boy Color"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "Dr. Mario 64",
+    "wiki_title": "Dr. Mario 64",
+    "wiki_url": "https://en.wikipedia.org/wiki/Dr._Mario_64",
+    "redlink": false,
+    "release_date": "April 8",
+    "platform_breakdown": {
+      "computer releases": "— N/a",
+      "console releases": "N64",
+      "handheld releases": "— N/a"
+    },
+    "platforms": [
+      "Nintendo 64"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "Kirby Tilt 'n' Tumble",
+    "wiki_title": "Kirby Tilt 'n' Tumble",
+    "wiki_url": "https://en.wikipedia.org/wiki/Kirby_Tilt_%27n%27_Tumble",
+    "redlink": false,
+    "release_date": "April 11",
+    "platform_breakdown": {
+      "computer releases": "— N/a",
+      "console releases": "— N/a",
+      "handheld releases": "GBC"
+    },
+    "platforms": [
+      "Game Boy Color"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "The Simpsons Wrestling",
+    "wiki_title": "The Simpsons Wrestling",
+    "wiki_url": "https://en.wikipedia.org/wiki/The_Simpsons_Wrestling",
+    "redlink": false,
+    "release_date": "April 12",
+    "platform_breakdown": {
+      "computer releases": "— N/a",
+      "console releases": "PS1",
+      "handheld releases": "— N/a"
+    },
+    "platforms": [
+      "PlayStation"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "Illbleed",
+    "wiki_title": "Illbleed",
+    "wiki_url": "https://en.wikipedia.org/wiki/Illbleed",
+    "redlink": false,
+    "release_date": "April 16",
+    "platform_breakdown": {
+      "computer releases": "— N/a",
+      "console releases": "DC",
+      "handheld releases": "— N/a"
+    },
+    "platforms": [
+      "Dreamcast"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "Batman: Chaos in Gotham",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "release_date": "April 16",
+    "platform_breakdown": {
+      "computer releases": "— N/a",
+      "console releases": "— N/a",
+      "handheld releases": "GBC"
+    },
+    "platforms": [
+      "Game Boy Color"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "Spider-Man",
+    "wiki_title": "Spider-Man (2000 video game)",
+    "wiki_url": "https://en.wikipedia.org/wiki/Spider-Man_(2000_video_game)",
+    "redlink": false,
+    "release_date": "April 19",
+    "platform_breakdown": {
+      "computer releases": "— N/a",
+      "console releases": "DC",
+      "handheld releases": "— N/a"
+    },
+    "platforms": [
+      "Dreamcast"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "Silpheed: The Lost Planet",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "release_date": "April 23",
+    "platform_breakdown": {
+      "computer releases": "— N/a",
+      "console releases": "PS2",
+      "handheld releases": "— N/a"
+    },
+    "platforms": [
+      "PlayStation 2"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "The Adventures of Cookie & Cream",
+    "wiki_title": "The Adventures of Cookie & Cream",
+    "wiki_url": "https://en.wikipedia.org/wiki/The_Adventures_of_Cookie_%26_Cream",
+    "redlink": false,
+    "release_date": "April 30",
+    "platform_breakdown": {
+      "computer releases": "— N/a",
+      "console releases": "PS2",
+      "handheld releases": "— N/a"
+    },
+    "platforms": [
+      "PlayStation 2"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "Mars Matrix: Hyper Solid Shooting",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "release_date": "April 30",
+    "platform_breakdown": {
+      "computer releases": "— N/a",
+      "console releases": "DC",
+      "handheld releases": "— N/a"
+    },
+    "platforms": [
+      "Dreamcast"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "Mario Party 3",
+    "wiki_title": "Mario Party 3",
+    "wiki_url": "https://en.wikipedia.org/wiki/Mario_Party_3",
+    "redlink": false,
+    "release_date": "May 7",
+    "platform_breakdown": {
+      "computer releases": "— N/a",
+      "console releases": "N64",
+      "handheld releases": "— N/a"
+    },
+    "platforms": [
+      "Nintendo 64"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "Myst III: Exile",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "release_date": "May 8",
+    "platform_breakdown": {
+      "computer releases": "WIN",
+      "console releases": "PS2",
+      "handheld releases": "— N/a"
+    },
+    "platforms": [
+      "Windows",
+      "PlayStation 2"
+    ],
+    "steam": {
+      "appid": 925930,
+      "name": "Myst III: Exile",
+      "short_description": "The story of Myst continues in this third entry of the series, originally released in 2001. Return to this strange and wondrous universe, where books become portals into worlds, and where the lessons of the past may yet hold meaning for today...",
+      "image_path": "images/steam-925930.jpg",
+      "genres": [
+        "Adventure",
+        "Casual"
+      ],
+      "release_date": "Sep 24, 2018",
+      "site_url": "https://store.steampowered.com/app/925930",
+      "year_match": true
+    }
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "Crazy Taxi",
+    "wiki_title": "Crazy Taxi (video game)",
+    "wiki_url": "https://en.wikipedia.org/wiki/Crazy_Taxi_(video_game)",
+    "redlink": false,
+    "release_date": "May 14",
+    "platform_breakdown": {
+      "computer releases": "— N/a",
+      "console releases": "GCN",
+      "handheld releases": "— N/a"
+    },
+    "platforms": [
+      "PlayStation 2",
+      "GameCube"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "Giga Wing 2",
+    "wiki_title": "Giga Wing 2",
+    "wiki_url": "https://en.wikipedia.org/wiki/Giga_Wing_2",
+    "redlink": false,
+    "release_date": "May 16",
+    "platform_breakdown": {
+      "computer releases": "— N/a",
+      "console releases": "DC",
+      "handheld releases": "— N/a"
+    },
+    "platforms": [
+      "Dreamcast"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "Project Justice",
+    "wiki_title": "Project Justice",
+    "wiki_url": "https://en.wikipedia.org/wiki/Project_Justice",
+    "redlink": false,
+    "release_date": "May 16",
+    "platform_breakdown": {
+      "computer releases": "— N/a",
+      "console releases": "DC",
+      "handheld releases": "— N/a"
+    },
+    "platforms": [
+      "Dreamcast"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "Atlantis The Lost Empire: Trial by Fire",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "release_date": "May 18",
+    "platform_breakdown": {
+      "computer releases": "WIN",
+      "console releases": "— N/a",
+      "handheld releases": "— N/a"
+    },
+    "platforms": [
+      "Windows"
+    ],
+    "steam": null
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "Cool Boarders",
+    "wiki_title": "Cool Boarders",
+    "wiki_url": "https://en.wikipedia.org/wiki/Cool_Boarders",
+    "redlink": false,
+    "release_date": "May 21",
+    "platform_breakdown": {
+      "computer releases": "— N/a",
+      "console releases": "PS2",
+      "handheld releases": "— N/a"
+    },
+    "platforms": [
+      "PlayStation 2"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "Crazy Taxi 2",
+    "wiki_title": "Crazy Taxi 2",
+    "wiki_url": "https://en.wikipedia.org/wiki/Crazy_Taxi_2",
+    "redlink": false,
+    "release_date": "May 28",
+    "platform_breakdown": {
+      "computer releases": "— N/a",
+      "console releases": "DC",
+      "handheld releases": "— N/a"
+    },
+    "platforms": [
+      "Dreamcast"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "Shrek: Fairy Tale Freakdown",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "release_date": "May 29",
+    "platform_breakdown": {
+      "computer releases": "— N/a",
+      "console releases": "— N/a",
+      "handheld releases": "GBC"
+    },
+    "platforms": [
+      "Game Boy Color"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "Bejeweled",
+    "wiki_title": "Bejeweled (video game)",
+    "wiki_url": "https://en.wikipedia.org/wiki/Bejeweled_(video_game)",
+    "redlink": false,
+    "release_date": "May 30",
+    "platform_breakdown": {
+      "computer releases": "WIN",
+      "console releases": "— N/a",
+      "handheld releases": "— N/a"
+    },
+    "platforms": [
+      "Windows"
+    ],
+    "steam": null
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "Spider-Man 2: The Sinister Six",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "release_date": "May 30",
+    "platform_breakdown": {
+      "computer releases": "— N/a",
+      "console releases": "— N/a",
+      "handheld releases": "GBC"
+    },
+    "platforms": [
+      "Game Boy Color"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "Max Steel: Covert Missions",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "release_date": "May 30",
+    "platform_breakdown": {
+      "computer releases": "— N/a",
+      "console releases": "DC",
+      "handheld releases": "— N/a"
+    },
+    "platforms": [
+      "Dreamcast"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "ChuChu Rocket!",
+    "wiki_title": "ChuChu Rocket!",
+    "wiki_url": "https://en.wikipedia.org/wiki/ChuChu_Rocket!",
+    "redlink": false,
+    "release_date": "June 11",
+    "platform_breakdown": {
+      "computer releases": "— N/a",
+      "console releases": "— N/a",
+      "handheld releases": "GBA"
+    },
+    "platforms": [
+      "Game Boy Advance"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "Earthworm Jim",
+    "wiki_title": "Earthworm Jim (video game)",
+    "wiki_url": "https://en.wikipedia.org/wiki/Earthworm_Jim_(video_game)",
+    "redlink": false,
+    "release_date": "June 11",
+    "platform_breakdown": {
+      "computer releases": "— N/a",
+      "console releases": "— N/a",
+      "handheld releases": "GBA"
+    },
+    "platforms": [
+      "Game Boy Advance"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "F-Zero: Maximum Velocity",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "release_date": "June 11",
+    "platform_breakdown": {
+      "computer releases": "— N/a",
+      "console releases": "— N/a",
+      "handheld releases": "GBA"
+    },
+    "platforms": [
+      "Game Boy Advance"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "Konami Krazy Racers",
+    "wiki_title": "Konami Krazy Racers",
+    "wiki_url": "https://en.wikipedia.org/wiki/Konami_Krazy_Racers",
+    "redlink": false,
+    "release_date": "June 11",
+    "platform_breakdown": {
+      "computer releases": "— N/a",
+      "console releases": "— N/a",
+      "handheld releases": "GBA"
+    },
+    "platforms": [
+      "Game Boy Advance"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "Rayman Advance",
+    "wiki_title": "Rayman Advance",
+    "wiki_url": "https://en.wikipedia.org/wiki/Rayman_Advance",
+    "redlink": false,
+    "release_date": "June 11",
+    "platform_breakdown": {
+      "computer releases": "— N/a",
+      "console releases": "— N/a",
+      "handheld releases": "GBA"
+    },
+    "platforms": [
+      "Game Boy Advance"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "Super Mario Advance",
+    "wiki_title": "Super Mario Bros. 2#Super Mario Advance",
+    "wiki_url": "https://en.wikipedia.org/wiki/Super_Mario_Bros._2#Super_Mario_Advance",
+    "redlink": false,
+    "release_date": "June 11",
+    "platform_breakdown": {
+      "computer releases": "— N/a",
+      "console releases": "— N/a",
+      "handheld releases": "GBA"
+    },
+    "platforms": [
+      "Game Boy Advance"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "Atlantis: The Lost Empire",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "release_date": "June 14",
+    "platform_breakdown": {
+      "computer releases": "— N/a",
+      "console releases": "PS1",
+      "handheld releases": "— N/a"
+    },
+    "platforms": [
+      "PlayStation"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "Startopia [ 54 ]",
+    "wiki_title": "Startopia",
+    "wiki_url": "https://en.wikipedia.org/wiki/Startopia",
+    "redlink": false,
+    "release_date": "June 19",
+    "platform_breakdown": {
+      "computer releases": "WIN",
+      "console releases": "— N/a",
+      "handheld releases": "— N/a"
+    },
+    "platforms": [
+      "Windows"
+    ],
+    "steam": null
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "Time Crisis: Project Titan",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "release_date": "June 20",
+    "platform_breakdown": {
+      "computer releases": "— N/a",
+      "console releases": "PS1",
+      "handheld releases": "— N/a"
+    },
+    "platforms": [
+      "PlayStation"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "Operation Flashpoint: Cold War Crisis",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "release_date": "June 22",
+    "platform_breakdown": {
+      "computer releases": "WIN",
+      "console releases": "— N/a",
+      "handheld releases": "— N/a"
+    },
+    "platforms": [
+      "Windows"
+    ],
+    "steam": null
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "Anachronox",
+    "wiki_title": "Anachronox",
+    "wiki_url": "https://en.wikipedia.org/wiki/Anachronox",
+    "redlink": false,
+    "release_date": "June 27",
+    "platform_breakdown": {
+      "computer releases": "WIN",
+      "console releases": "— N/a",
+      "handheld releases": "— N/a"
+    },
+    "platforms": [
+      "Windows"
+    ],
+    "steam": {
+      "appid": 242940,
+      "name": "Anachronox",
+      "short_description": "Join Sylvester &quot;Sly&quot; Boots and Stiletto Anyway as they trek across six bizarre planets investigating a galaxy-crushing mystery, searching for artefacts from an extinct alien race and unlocking the secrets of a powerful, advanced technology. It's your turn. PICK YOUR POISON.",
+      "image_path": "images/steam-242940.jpg",
+      "genres": [
+        "RPG"
+      ],
+      "release_date": "Oct 17, 2013",
+      "site_url": "https://store.steampowered.com/app/242940",
+      "year_match": true
+    }
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "Anarchy Online [ 55 ]",
+    "wiki_title": "Anarchy Online",
+    "wiki_url": "https://en.wikipedia.org/wiki/Anarchy_Online",
+    "redlink": false,
+    "release_date": "June 27",
+    "platform_breakdown": {
+      "computer releases": "WIN",
+      "console releases": "— N/a",
+      "handheld releases": "— N/a"
+    },
+    "platforms": [
+      "Windows"
+    ],
+    "steam": null
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "Bomberman Tournament",
+    "wiki_title": "Bomberman Tournament",
+    "wiki_url": "https://en.wikipedia.org/wiki/Bomberman_Tournament",
+    "redlink": false,
+    "release_date": "June 29",
+    "platform_breakdown": {
+      "computer releases": "— N/a",
+      "console releases": "— N/a",
+      "handheld releases": "GBA"
+    },
+    "platforms": [
+      "Game Boy Advance"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "Diablo II: Lord of Destruction",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "release_date": "June 29",
+    "platform_breakdown": {
+      "computer releases": "WIN",
+      "console releases": "— N/a",
+      "handheld releases": "— N/a"
+    },
+    "platforms": [
+      "Windows"
+    ],
+    "steam": null
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "Tomb Raider: Curse of the Sword",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "release_date": "July 1",
+    "platform_breakdown": {
+      "computer releases": "— N/a",
+      "console releases": "— N/a",
+      "handheld releases": "GBC"
+    },
+    "platforms": [
+      "Game Boy Color"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "Runaway: A Road Adventure",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "release_date": "July 6",
+    "platform_breakdown": {
+      "computer releases": "WIN",
+      "console releases": "— N/a",
+      "handheld releases": "— N/a"
+    },
+    "platforms": [
+      "Windows"
+    ],
+    "steam": {
+      "appid": 7210,
+      "name": "Runaway, A Road Adventure",
+      "short_description": "New York, 2000......Without knowing how or why, Brian, a student on the verge of graduating from college, is attacked by Mafia gangsters. During his desperate getaway, in the company of a mysterious striptease dancer, he ends up meeting a wide range of unusual characters.",
+      "image_path": "images/steam-7210.jpg",
+      "genres": [
+        "Adventure"
+      ],
+      "release_date": "Mar 14, 2007",
+      "site_url": "https://store.steampowered.com/app/7210",
+      "year_match": true
+    }
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "Dark Angel: Vampire Apocalypse",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "release_date": "July 8",
+    "platform_breakdown": {
+      "computer releases": "— N/a",
+      "console releases": "PS2",
+      "handheld releases": "— N/a"
+    },
+    "platforms": [
+      "PlayStation 2"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "Mega Man Legends",
+    "wiki_title": "Mega Man Legends (video game)",
+    "wiki_url": "https://en.wikipedia.org/wiki/Mega_Man_Legends_(video_game)",
+    "redlink": false,
+    "release_date": "July 14",
+    "platform_breakdown": {
+      "computer releases": "WIN",
+      "console releases": "— N/a",
+      "handheld releases": "— N/a"
+    },
+    "platforms": [
+      "Windows"
+    ],
+    "steam": null
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "Jurassic Park III: The DNA Factor",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "release_date": "July 16",
+    "platform_breakdown": {
+      "computer releases": "— N/a",
+      "console releases": "— N/a",
+      "handheld releases": "GBA"
+    },
+    "platforms": [
+      "Game Boy Advance"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "City Crisis",
+    "wiki_title": "City Crisis",
+    "wiki_url": "https://en.wikipedia.org/wiki/City_Crisis",
+    "redlink": false,
+    "release_date": "July 17",
+    "platform_breakdown": {
+      "computer releases": "— N/a",
+      "console releases": "PS2",
+      "handheld releases": "— N/a"
+    },
+    "platforms": [
+      "PlayStation 2"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "Extermination",
+    "wiki_title": "Extermination (video game)",
+    "wiki_url": "https://en.wikipedia.org/wiki/Extermination_(video_game)",
+    "redlink": false,
+    "release_date": "July 23",
+    "platform_breakdown": {
+      "computer releases": "— N/a",
+      "console releases": "PS2",
+      "handheld releases": "— N/a"
+    },
+    "platforms": [
+      "PlayStation 2"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "Rune: Viking Warlord",
+    "wiki_title": "Rune (video game)",
+    "wiki_url": "https://en.wikipedia.org/wiki/Rune_(video_game)",
+    "redlink": false,
+    "release_date": "July 28",
+    "platform_breakdown": {
+      "computer releases": "— N/a",
+      "console releases": "PS2",
+      "handheld releases": "— N/a"
+    },
+    "platforms": [
+      "PlayStation 2"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "Pokémon Crystal (North America)",
+    "wiki_title": "Pokémon Crystal",
+    "wiki_url": "https://en.wikipedia.org/wiki/Pok%C3%A9mon_Crystal",
+    "redlink": false,
+    "release_date": "July 30",
+    "platform_breakdown": {
+      "computer releases": "— N/a",
+      "console releases": "— N/a",
+      "handheld releases": "GBC"
+    },
+    "platforms": [
+      "Game Boy Color"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "Tweety and the Magic Gems",
+    "wiki_title": "Tweety and the Magic Gems",
+    "wiki_url": "https://en.wikipedia.org/wiki/Tweety_and_the_Magic_Gems",
+    "redlink": false,
+    "release_date": "July 30",
+    "platform_breakdown": {
+      "computer releases": "— N/a",
+      "console releases": "— N/a",
+      "handheld releases": "GBA"
+    },
+    "platforms": [
+      "Game Boy Advance"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "Nancy Drew: Treasure in the Royal Tower",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "release_date": "August 1",
+    "platform_breakdown": {
+      "computer releases": "WIN",
+      "console releases": "— N/a",
+      "handheld releases": "— N/a"
+    },
+    "platforms": [
+      "Windows"
+    ],
+    "steam": {
+      "appid": 615780,
+      "name": "Nancy Drew®: Treasure in the Royal Tower",
+      "short_description": "Follow Ancient Clues to Find Marie Antoinette’s Legendary Secret!",
+      "image_path": "images/steam-615780.jpg",
+      "genres": [
+        "Adventure"
+      ],
+      "release_date": "May 22, 2017",
+      "site_url": "https://store.steampowered.com/app/615780",
+      "year_match": true
+    }
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "WWF Betrayal",
+    "wiki_title": "WWF Betrayal",
+    "wiki_url": "https://en.wikipedia.org/wiki/WWF_Betrayal",
+    "redlink": false,
+    "release_date": "August 7",
+    "platform_breakdown": {
+      "computer releases": "— N/a",
+      "console releases": "— N/a",
+      "handheld releases": "GBA"
+    },
+    "platforms": [
+      "Game Boy Advance"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "Shogun: Total War : Mongol Invasion",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "release_date": "August 8",
+    "platform_breakdown": {
+      "computer releases": "WIN",
+      "console releases": "— N/a",
+      "handheld releases": "— N/a"
+    },
+    "platforms": [
+      "Windows"
+    ],
+    "steam": null
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "Armored Core 2: Another Age",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "release_date": "August 20",
+    "platform_breakdown": {
+      "computer releases": "— N/a",
+      "console releases": "PS2",
+      "handheld releases": "— N/a"
+    },
+    "platforms": [
+      "PlayStation 2"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "Arcanum: Of Steamworks and Magick Obscura",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "release_date": "August 21",
+    "platform_breakdown": {
+      "computer releases": "WIN",
+      "console releases": "— N/a",
+      "handheld releases": "— N/a"
+    },
+    "platforms": [
+      "Windows"
+    ],
+    "steam": {
+      "appid": 500810,
+      "name": "Arcanum: Of Steamworks and Magick Obscura",
+      "short_description": "Imagine a place of wonder, where magick and technology coexist in an uneasy balance, and an adventurer might just as easily wield a flintlock pistol as a flaming sword. Welcome to the land of Arcanum.",
+      "image_path": "images/steam-500810.jpg",
+      "genres": [
+        "RPG"
+      ],
+      "release_date": "Aug 29, 2016",
+      "site_url": "https://store.steampowered.com/app/500810",
+      "year_match": true
+    }
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "Dave Mirra Freestyle BMX 2",
+    "wiki_title": "Dave Mirra Freestyle BMX 2",
+    "wiki_url": "https://en.wikipedia.org/wiki/Dave_Mirra_Freestyle_BMX_2",
+    "redlink": false,
+    "release_date": "August 27",
+    "platform_breakdown": {
+      "computer releases": "— N/a",
+      "console releases": "PS2",
+      "handheld releases": "— N/a"
+    },
+    "platforms": [
+      "PlayStation 2"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "ESPN Final Round Golf 2002",
+    "wiki_title": "ESPN Final Round Golf 2002",
+    "wiki_url": "https://en.wikipedia.org/wiki/ESPN_Final_Round_Golf_2002",
+    "redlink": false,
+    "release_date": "August 28",
+    "platform_breakdown": {
+      "computer releases": "— N/a",
+      "console releases": "— N/a",
+      "handheld releases": "GBA"
+    },
+    "platforms": [
+      "Game Boy Advance"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "Alchemy",
+    "wiki_title": "Alchemy (game)",
+    "wiki_url": "https://en.wikipedia.org/wiki/Alchemy_(game)",
+    "redlink": false,
+    "release_date": "August 29",
+    "platform_breakdown": {
+      "computer releases": "WIN",
+      "console releases": "— N/a",
+      "handheld releases": "— N/a"
+    },
+    "platforms": [
+      "Windows"
+    ],
+    "steam": null
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "Klonoa: Empire of Dreams",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "release_date": "August 30",
+    "platform_breakdown": {
+      "computer releases": "— N/a",
+      "console releases": "— N/a",
+      "handheld releases": "GBA"
+    },
+    "platforms": [
+      "Game Boy Advance"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "Jurassic Park III: Park Builder",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "release_date": "September 10",
+    "platform_breakdown": {
+      "computer releases": "— N/a",
+      "console releases": "— N/a",
+      "handheld releases": "GBA"
+    },
+    "platforms": [
+      "Game Boy Advance"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "Portal Runner",
+    "wiki_title": "Portal Runner",
+    "wiki_url": "https://en.wikipedia.org/wiki/Portal_Runner",
+    "redlink": false,
+    "release_date": "September 10",
+    "platform_breakdown": {
+      "computer releases": "— N/a",
+      "console releases": "PS2",
+      "handheld releases": "— N/a"
+    },
+    "platforms": [
+      "PlayStation 2"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "Heavy Metal: Geomatrix",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "release_date": "September 13",
+    "platform_breakdown": {
+      "computer releases": "— N/a",
+      "console releases": "DC",
+      "handheld releases": "— N/a"
+    },
+    "platforms": [
+      "Dreamcast"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "Ooga Booga",
+    "wiki_title": "Ooga Booga",
+    "wiki_url": "https://en.wikipedia.org/wiki/Ooga_Booga",
+    "redlink": false,
+    "release_date": "September 13",
+    "platform_breakdown": {
+      "computer releases": "— N/a",
+      "console releases": "DC",
+      "handheld releases": "— N/a"
+    },
+    "platforms": [
+      "Dreamcast"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "Power Rangers Time Force",
+    "wiki_title": "Power Rangers Time Force",
+    "wiki_url": "https://en.wikipedia.org/wiki/Power_Rangers_Time_Force",
+    "redlink": false,
+    "release_date": "September 15",
+    "platform_breakdown": {
+      "computer releases": "— N/a",
+      "console releases": "— N/a",
+      "handheld releases": "GBA"
+    },
+    "platforms": [
+      "Game Boy Advance"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "Arctic Thunder",
+    "wiki_title": "Arctic Thunder",
+    "wiki_url": "https://en.wikipedia.org/wiki/Arctic_Thunder",
+    "redlink": false,
+    "release_date": "September 17",
+    "platform_breakdown": {
+      "computer releases": "— N/a",
+      "console releases": "PS2",
+      "handheld releases": "— N/a"
+    },
+    "platforms": [
+      "PlayStation 2"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "The World Is Not Enough",
+    "wiki_title": "The World Is Not Enough (2001 video game)",
+    "wiki_url": "https://en.wikipedia.org/wiki/The_World_Is_Not_Enough_(2001_video_game)",
+    "redlink": false,
+    "release_date": "September 17",
+    "platform_breakdown": {
+      "computer releases": "— N/a",
+      "console releases": "— N/a",
+      "handheld releases": "GBC"
+    },
+    "platforms": [
+      "Game Boy Color"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "Red Faction [ 56 ]",
+    "wiki_title": "Red Faction (video game)",
+    "wiki_url": "https://en.wikipedia.org/wiki/Red_Faction_(video_game)",
+    "redlink": false,
+    "release_date": "September 18",
+    "platform_breakdown": {
+      "computer releases": "WIN",
+      "console releases": "— N/a",
+      "handheld releases": "— N/a"
+    },
+    "platforms": [
+      "Windows"
+    ],
+    "steam": null
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "SpongeBob SquarePants: SuperSponge",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "release_date": "September 21",
+    "platform_breakdown": {
+      "computer releases": "— N/a",
+      "console releases": "PS1",
+      "handheld releases": "GBA"
+    },
+    "platforms": [
+      "PlayStation",
+      "Game Boy Advance"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "Monster Rancher 3",
+    "wiki_title": "Monster Rancher 3",
+    "wiki_url": "https://en.wikipedia.org/wiki/Monster_Rancher_3",
+    "redlink": false,
+    "release_date": "September 24",
+    "platform_breakdown": {
+      "computer releases": "— N/a",
+      "console releases": "PS2",
+      "handheld releases": "— N/a"
+    },
+    "platforms": [
+      "PlayStation 2"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "Phantasy Star Online Version 2",
+    "wiki_title": "Phantasy Star Online",
+    "wiki_url": "https://en.wikipedia.org/wiki/Phantasy_Star_Online",
+    "redlink": false,
+    "release_date": "September 24",
+    "platform_breakdown": {
+      "computer releases": "— N/a",
+      "console releases": "DC",
+      "handheld releases": "— N/a"
+    },
+    "platforms": [
+      "Dreamcast"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "Pool of Radiance: Ruins of Myth Drannor",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "release_date": "September 24",
+    "platform_breakdown": {
+      "computer releases": "WIN",
+      "console releases": "— N/a",
+      "handheld releases": "— N/a"
+    },
+    "platforms": [
+      "Windows"
+    ],
+    "steam": {
+      "appid": 4834760,
+      "name": "Pool of Radiance: Ruins of Myth Drannor",
+      "short_description": "Pool of Radiance: Ruins of Myth Drannor is a turn-based party RPG set in the Forgotten Realms. Build a band of heroes, descend into the haunted elven ruins of Myth Drannor, and use tactical positioning, spellcraft and steel to stop a dracolich from corrupting the realm.",
+      "image_path": "images/steam-4834760.jpg",
+      "genres": [
+        "RPG"
+      ],
+      "release_date": "Q4 2026",
+      "site_url": "https://store.steampowered.com/app/4834760",
+      "year_match": true
+    }
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "SpyHunter",
+    "wiki_title": "SpyHunter",
+    "wiki_url": "https://en.wikipedia.org/wiki/SpyHunter",
+    "redlink": false,
+    "release_date": "September 24",
+    "platform_breakdown": {
+      "computer releases": "— N/a",
+      "console releases": "PS2",
+      "handheld releases": "— N/a"
+    },
+    "platforms": [
+      "PlayStation 2"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "SpongeBob SquarePants: Operation Krabby Patty",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "release_date": "September 24",
+    "platform_breakdown": {
+      "computer releases": "WIN",
+      "console releases": "— N/a",
+      "handheld releases": "— N/a"
+    },
+    "platforms": [
+      "Windows"
+    ],
+    "steam": null
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "X-Men: Reign of Apocalypse",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "release_date": "September 25",
+    "platform_breakdown": {
+      "computer releases": "— N/a",
+      "console releases": "— N/a",
+      "handheld releases": "GBA"
+    },
+    "platforms": [
+      "Game Boy Advance"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "Bass Strike",
+    "wiki_title": "Bass Strike",
+    "wiki_url": "https://en.wikipedia.org/wiki/Bass_Strike",
+    "redlink": false,
+    "release_date": "September 26",
+    "platform_breakdown": {
+      "computer releases": "— N/a",
+      "console releases": "PS2",
+      "handheld releases": "— N/a"
+    },
+    "platforms": [
+      "PlayStation 2"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "Dexter's Laboratory: Deesaster Strikes!",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "release_date": "September 26",
+    "platform_breakdown": {
+      "computer releases": "— N/a",
+      "console releases": "— N/a",
+      "handheld releases": "GBA"
+    },
+    "platforms": [
+      "Game Boy Advance"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "Final Fight One",
+    "wiki_title": "Final Fight One",
+    "wiki_url": "https://en.wikipedia.org/wiki/Final_Fight_One",
+    "redlink": false,
+    "release_date": "September 26",
+    "platform_breakdown": {
+      "computer releases": "— N/a",
+      "console releases": "— N/a",
+      "handheld releases": "GBA"
+    },
+    "platforms": [
+      "Game Boy Advance"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "Kessen II",
+    "wiki_title": "Kessen II",
+    "wiki_url": "https://en.wikipedia.org/wiki/Kessen_II",
+    "redlink": false,
+    "release_date": "September 26",
+    "platform_breakdown": {
+      "computer releases": "— N/a",
+      "console releases": "PS2",
+      "handheld releases": "— N/a"
+    },
+    "platforms": [
+      "PlayStation 2"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "NASCAR Thunder 2002",
+    "wiki_title": "NASCAR Thunder 2002",
+    "wiki_url": "https://en.wikipedia.org/wiki/NASCAR_Thunder_2002",
+    "redlink": false,
+    "release_date": "October 1",
+    "platform_breakdown": {
+      "computer releases": "— N/a",
+      "console releases": "PS1, PS2, XB",
+      "handheld releases": "— N/a"
+    },
+    "platforms": [
+      "PlayStation",
+      "PlayStation 2",
+      "Xbox"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "Scooby-Doo and the Cyber Chase",
+    "wiki_title": "Scooby-Doo and the Cyber Chase (video game)",
+    "wiki_url": "https://en.wikipedia.org/wiki/Scooby-Doo_and_the_Cyber_Chase_(video_game)",
+    "redlink": false,
+    "release_date": "October 1",
+    "platform_breakdown": {
+      "computer releases": "— N/a",
+      "console releases": "PS1",
+      "handheld releases": "— N/a"
+    },
+    "platforms": [
+      "Game Boy Advance",
+      "PlayStation"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "Time Crisis II",
+    "wiki_title": "Time Crisis II",
+    "wiki_url": "https://en.wikipedia.org/wiki/Time_Crisis_II",
+    "redlink": false,
+    "release_date": "October 1",
+    "platform_breakdown": {
+      "computer releases": "— N/a",
+      "console releases": "PS2",
+      "handheld releases": "— N/a"
+    },
+    "platforms": [
+      "PlayStation 2"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "Yanya Caballista: City Skater",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "release_date": "October 1",
+    "platform_breakdown": {
+      "computer releases": "— N/a",
+      "console releases": "PS2",
+      "handheld releases": "— N/a"
+    },
+    "platforms": [
+      "PlayStation 2"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "Lego Island 2: The Brickster's Revenge",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "release_date": "October 2",
+    "platform_breakdown": {
+      "computer releases": "— N/a",
+      "console releases": "— N/a",
+      "handheld releases": "GBA"
+    },
+    "platforms": [
+      "Game Boy Advance"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "Lego Bionicle",
+    "wiki_title": "Lego Bionicle (video game)",
+    "wiki_url": "https://en.wikipedia.org/wiki/Lego_Bionicle_(video_game)",
+    "redlink": false,
+    "release_date": "October 3",
+    "platform_breakdown": {
+      "computer releases": "— N/a",
+      "console releases": "— N/a",
+      "handheld releases": "GBA"
+    },
+    "platforms": [
+      "Game Boy Advance"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "The Wild Thornberrys: Chimp Chase",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "release_date": "October 5",
+    "platform_breakdown": {
+      "computer releases": "— N/a",
+      "console releases": "— N/a",
+      "handheld releases": "GBA"
+    },
+    "platforms": [
+      "Game Boy Advance"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "Castlevania Chronicles",
+    "wiki_title": "Castlevania Chronicles",
+    "wiki_url": "https://en.wikipedia.org/wiki/Castlevania_Chronicles",
+    "redlink": false,
+    "release_date": "October 8",
+    "platform_breakdown": {
+      "computer releases": "— N/a",
+      "console releases": "PS1",
+      "handheld releases": "— N/a"
+    },
+    "platforms": [
+      "PlayStation"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "Phoenix Wright: Ace Attorney",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "release_date": "October 12",
+    "platform_breakdown": {
+      "computer releases": "— N/a",
+      "console releases": "— N/a",
+      "handheld releases": "GBA"
+    },
+    "platforms": [
+      "Game Boy Advance"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "Lady Sia",
+    "wiki_title": "Lady Sia",
+    "wiki_url": "https://en.wikipedia.org/wiki/Lady_Sia",
+    "redlink": false,
+    "release_date": "October 15",
+    "platform_breakdown": {
+      "computer releases": "— N/a",
+      "console releases": "— N/a",
+      "handheld releases": "GBA"
+    },
+    "platforms": [
+      "Game Boy Advance"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "Batman: Vengeance",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "release_date": "October 15",
+    "platform_breakdown": {
+      "computer releases": "WIN",
+      "console releases": "PS2, GCN, XB",
+      "handheld releases": "GBA"
+    },
+    "platforms": [
+      "Windows",
+      "PlayStation 2",
+      "GameCube",
+      "Xbox",
+      "Game Boy Advance"
+    ],
+    "steam": null
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "Zoo Tycoon",
+    "wiki_title": "Zoo Tycoon (2001 video game)",
+    "wiki_url": "https://en.wikipedia.org/wiki/Zoo_Tycoon_(2001_video_game)",
+    "redlink": false,
+    "release_date": "October 17",
+    "platform_breakdown": {
+      "computer releases": "WIN",
+      "console releases": "— N/a",
+      "handheld releases": "— N/a"
+    },
+    "platforms": [
+      "Windows"
+    ],
+    "steam": null
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "E.T.: Digital Companion",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "release_date": "October 18",
+    "platform_breakdown": {
+      "computer releases": "— N/a",
+      "console releases": "— N/a",
+      "handheld releases": "GBC"
+    },
+    "platforms": [
+      "Game Boy Color"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "Stronghold",
+    "wiki_title": "Stronghold (2001 video game)",
+    "wiki_url": "https://en.wikipedia.org/wiki/Stronghold_(2001_video_game)",
+    "redlink": false,
+    "release_date": "October 21",
+    "platform_breakdown": {
+      "computer releases": "WIN",
+      "console releases": "— N/a",
+      "handheld releases": "— N/a"
+    },
+    "platforms": [
+      "Windows"
+    ],
+    "steam": null
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "Doom",
+    "wiki_title": "Doom (1993 video game)",
+    "wiki_url": "https://en.wikipedia.org/wiki/Doom_(1993_video_game)",
+    "redlink": false,
+    "release_date": "October 28",
+    "platform_breakdown": {
+      "computer releases": "— N/a",
+      "console releases": "— N/a",
+      "handheld releases": "GBA"
+    },
+    "platforms": [
+      "Game Boy Advance"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "Crash Bandicoot: The Wrath of Cortex",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "release_date": "October 29",
+    "platform_breakdown": {
+      "computer releases": "— N/a",
+      "console releases": "PS2, XB, GCN",
+      "handheld releases": "— N/a"
+    },
+    "platforms": [
+      "PlayStation 2",
+      "Xbox",
+      "GameCube"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "Spyro: Season of Ice",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "release_date": "October 29",
+    "platform_breakdown": {
+      "computer releases": "— N/a",
+      "console releases": "— N/a",
+      "handheld releases": "GBA"
+    },
+    "platforms": [
+      "Game Boy Advance"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "Aliens versus Predator 2",
+    "wiki_title": "Aliens versus Predator 2",
+    "wiki_url": "https://en.wikipedia.org/wiki/Aliens_versus_Predator_2",
+    "redlink": false,
+    "release_date": "October 30",
+    "platform_breakdown": {
+      "computer releases": "WIN",
+      "console releases": "— N/a",
+      "handheld releases": "— N/a"
+    },
+    "platforms": [
+      "Windows"
+    ],
+    "steam": null
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "Boxing Fever",
+    "wiki_title": "Boxing Fever",
+    "wiki_url": "https://en.wikipedia.org/wiki/Boxing_Fever",
+    "redlink": false,
+    "release_date": "October 30",
+    "platform_breakdown": {
+      "computer releases": "— N/a",
+      "console releases": "— N/a",
+      "handheld releases": "GBA"
+    },
+    "platforms": [
+      "Game Boy Advance"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "Mega Man Xtreme 2",
+    "wiki_title": "Mega Man Xtreme 2",
+    "wiki_url": "https://en.wikipedia.org/wiki/Mega_Man_Xtreme_2",
+    "redlink": false,
+    "release_date": "October 30",
+    "platform_breakdown": {
+      "computer releases": "— N/a",
+      "console releases": "— N/a",
+      "handheld releases": "GBC"
+    },
+    "platforms": [
+      "Game Boy Color"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "Monsters, Inc. Scream Team",
+    "wiki_title": "Monsters, Inc. Scream Team",
+    "wiki_url": "https://en.wikipedia.org/wiki/Monsters,_Inc._Scream_Team",
+    "redlink": false,
+    "release_date": "October 30",
+    "platform_breakdown": {
+      "computer releases": "WIN",
+      "console releases": "PS1, PS2",
+      "handheld releases": "— N/a"
+    },
+    "platforms": [
+      "Windows",
+      "PlayStation",
+      "PlayStation 2"
+    ],
+    "steam": null
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "Super Street Fighter II Turbo Revival",
+    "wiki_title": "Super Street Fighter II Turbo Revival",
+    "wiki_url": "https://en.wikipedia.org/wiki/Super_Street_Fighter_II_Turbo_Revival",
+    "redlink": false,
+    "release_date": "October 30",
+    "platform_breakdown": {
+      "computer releases": "— N/a",
+      "console releases": "— N/a",
+      "handheld releases": "GBA"
+    },
+    "platforms": [
+      "Game Boy Advance"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "Soul Reaver 2",
+    "wiki_title": "Soul Reaver 2",
+    "wiki_url": "https://en.wikipedia.org/wiki/Soul_Reaver_2",
+    "redlink": false,
+    "release_date": "October 31",
+    "platform_breakdown": {
+      "computer releases": "— N/a",
+      "console releases": "PS2",
+      "handheld releases": "— N/a"
+    },
+    "platforms": [
+      "PlayStation 2"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "Mega Man Battle Network",
+    "wiki_title": "Mega Man Battle Network (video game)",
+    "wiki_url": "https://en.wikipedia.org/wiki/Mega_Man_Battle_Network_(video_game)",
+    "redlink": false,
+    "release_date": "October 31",
+    "platform_breakdown": {
+      "computer releases": "— N/a",
+      "console releases": "— N/a",
+      "handheld releases": "GBA"
+    },
+    "platforms": [
+      "Game Boy Advance"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "Burnout",
+    "wiki_title": "Burnout (video game)",
+    "wiki_url": "https://en.wikipedia.org/wiki/Burnout_(video_game)",
+    "redlink": false,
+    "release_date": "November 1",
+    "platform_breakdown": {
+      "computer releases": "— N/a",
+      "console releases": "PS2",
+      "handheld releases": "— N/a"
+    },
+    "platforms": [
+      "PlayStation 2"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "Dragon Warrior VII",
+    "wiki_title": "Dragon Warrior VII",
+    "wiki_url": "https://en.wikipedia.org/wiki/Dragon_Warrior_VII",
+    "redlink": false,
+    "release_date": "November 1",
+    "platform_breakdown": {
+      "computer releases": "— N/a",
+      "console releases": "PS1",
+      "handheld releases": "— N/a"
+    },
+    "platforms": [
+      "PlayStation"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "FIFA Football 2002",
+    "wiki_title": "FIFA Football 2002",
+    "wiki_url": "https://en.wikipedia.org/wiki/FIFA_Football_2002",
+    "redlink": false,
+    "release_date": "November 1",
+    "platform_breakdown": {
+      "computer releases": "— N/a",
+      "console releases": "PS1, PS2",
+      "handheld releases": "— N/a"
+    },
+    "platforms": [
+      "PlayStation",
+      "PlayStation 2"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "Nancy Drew: The Final Scene",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "release_date": "November 1",
+    "platform_breakdown": {
+      "computer releases": "WIN",
+      "console releases": "— N/a",
+      "handheld releases": "— N/a"
+    },
+    "platforms": [
+      "Windows"
+    ],
+    "steam": {
+      "appid": 615730,
+      "name": "Nancy Drew®: The Final Scene",
+      "short_description": "Search a Darkened Movie Theater to Free a Hostage from her Captor’s Dangerous Plot!",
+      "image_path": "images/steam-615730.jpg",
+      "genres": [
+        "Adventure"
+      ],
+      "release_date": "Apr 18, 2017",
+      "site_url": "https://store.steampowered.com/app/615730",
+      "year_match": true
+    }
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "Rocket Power: Dream Scheme",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "release_date": "November 3",
+    "platform_breakdown": {
+      "computer releases": "— N/a",
+      "console releases": "— N/a",
+      "handheld releases": "GBA"
+    },
+    "platforms": [
+      "Game Boy Advance"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "Jackie Chan Adventures: Legend of the Dark Hand",
+    "wiki_title": "Jackie Chan Adventures (video game)",
+    "wiki_url": "https://en.wikipedia.org/wiki/Jackie_Chan_Adventures_(video_game)",
+    "redlink": false,
+    "release_date": "November 7",
+    "platform_breakdown": {
+      "computer releases": "— N/a",
+      "console releases": "— N/a",
+      "handheld releases": "GBA"
+    },
+    "platforms": [
+      "Game Boy Advance"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "Project Gotham Racing",
+    "wiki_title": "Project Gotham Racing (video game)",
+    "wiki_url": "https://en.wikipedia.org/wiki/Project_Gotham_Racing_(video_game)",
+    "redlink": false,
+    "release_date": "November 9",
+    "platform_breakdown": {
+      "computer releases": "— N/a",
+      "console releases": "XB",
+      "handheld releases": "— N/a"
+    },
+    "platforms": [
+      "Xbox"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "Empire Earth",
+    "wiki_title": "Empire Earth",
+    "wiki_url": "https://en.wikipedia.org/wiki/Empire_Earth",
+    "redlink": false,
+    "release_date": "November 12",
+    "platform_breakdown": {
+      "computer releases": "WIN",
+      "console releases": "— N/a",
+      "handheld releases": "— N/a"
+    },
+    "platforms": [
+      "Windows"
+    ],
+    "steam": null
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "Gradius Advance",
+    "wiki_title": "Gradius Advance",
+    "wiki_url": "https://en.wikipedia.org/wiki/Gradius_Advance",
+    "redlink": false,
+    "release_date": "November 12",
+    "platform_breakdown": {
+      "computer releases": "— N/a",
+      "console releases": "— N/a",
+      "handheld releases": "GBA"
+    },
+    "platforms": [
+      "Game Boy Advance"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "Survivor",
+    "wiki_title": "Survivor (2001 video game)",
+    "wiki_url": "https://en.wikipedia.org/wiki/Survivor_(2001_video_game)",
+    "redlink": false,
+    "release_date": "November 12",
+    "platform_breakdown": {
+      "computer releases": "WIN",
+      "console releases": "— N/a",
+      "handheld releases": "— N/a"
+    },
+    "platforms": [
+      "Windows"
+    ],
+    "steam": null
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "007: Agent Under Fire",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "release_date": "November 13",
+    "platform_breakdown": {
+      "computer releases": "— N/a",
+      "console releases": "PS2",
+      "handheld releases": "— N/a"
+    },
+    "platforms": [
+      "PlayStation 2"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "Cubix - Robots for Everyone: Race 'N Robots",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "release_date": "November 13",
+    "platform_breakdown": {
+      "computer releases": "— N/a",
+      "console releases": "— N/a",
+      "handheld releases": "GBC"
+    },
+    "platforms": [
+      "Game Boy Color"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "Tom Clancy's Ghost Recon",
+    "wiki_title": "Tom Clancy's Ghost Recon (2001 video game)",
+    "wiki_url": "https://en.wikipedia.org/wiki/Tom_Clancy%27s_Ghost_Recon_(2001_video_game)",
+    "redlink": false,
+    "release_date": "November 13",
+    "platform_breakdown": {
+      "computer releases": "WIN",
+      "console releases": "— N/a",
+      "handheld releases": "— N/a"
+    },
+    "platforms": [
+      "Windows"
+    ],
+    "steam": {
+      "appid": 15300,
+      "name": "Tom Clancy's Ghost Recon®",
+      "short_description": "Eastern Europe, 2008. War has broken out on the borders of Russia and the fate of the world hangs in the balance. That's when the call goes out for the Ghostsan elite handful of specially trained Green Berets, armed with the latest technology and trained to use the deadliest weapons.",
+      "image_path": "images/steam-15300.jpg",
+      "genres": [
+        "Action"
+      ],
+      "release_date": "Jul 15, 2008",
+      "site_url": "https://store.steampowered.com/app/15300",
+      "year_match": false
+    }
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "Frank Herbert's Dune [ 57 ]",
+    "wiki_title": "Frank Herbert's Dune (video game)",
+    "wiki_url": "https://en.wikipedia.org/wiki/Frank_Herbert%27s_Dune_(video_game)",
+    "redlink": false,
+    "release_date": "November 14",
+    "platform_breakdown": {
+      "computer releases": "WIN",
+      "console releases": "PS2",
+      "handheld releases": "— N/a"
+    },
+    "platforms": [
+      "Windows",
+      "PlayStation 2"
+    ],
+    "steam": null
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "Harvest Moon 3 GBC",
+    "wiki_title": "Harvest Moon 3 GBC",
+    "wiki_url": "https://en.wikipedia.org/wiki/Harvest_Moon_3_GBC",
+    "redlink": false,
+    "release_date": "November 14",
+    "platform_breakdown": {
+      "computer releases": "— N/a",
+      "console releases": "— N/a",
+      "handheld releases": "GBC"
+    },
+    "platforms": [
+      "Game Boy Color"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "Shrek",
+    "wiki_title": "Shrek (video game)",
+    "wiki_url": "https://en.wikipedia.org/wiki/Shrek_(video_game)",
+    "redlink": false,
+    "release_date": "November 14",
+    "platform_breakdown": {
+      "computer releases": "— N/a",
+      "console releases": "XB",
+      "handheld releases": "— N/a"
+    },
+    "platforms": [
+      "Xbox"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "Cel Damage",
+    "wiki_title": "Cel Damage",
+    "wiki_url": "https://en.wikipedia.org/wiki/Cel_Damage",
+    "redlink": false,
+    "release_date": "November 15",
+    "platform_breakdown": {
+      "computer releases": "— N/a",
+      "console releases": "GCN",
+      "handheld releases": "— N/a"
+    },
+    "platforms": [
+      "Xbox",
+      "PlayStation 2",
+      "GameCube"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "Dead or Alive 3",
+    "wiki_title": "Dead or Alive 3",
+    "wiki_url": "https://en.wikipedia.org/wiki/Dead_or_Alive_3",
+    "redlink": false,
+    "release_date": "November 15",
+    "platform_breakdown": {
+      "computer releases": "— N/a",
+      "console releases": "XB",
+      "handheld releases": "— N/a"
+    },
+    "platforms": [
+      "Xbox"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "Nancy Drew: Message in a Haunted Mansion",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "release_date": "November 15",
+    "platform_breakdown": {
+      "computer releases": "— N/a",
+      "console releases": "— N/a",
+      "handheld releases": "GBA"
+    },
+    "platforms": [
+      "Game Boy Advance"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "Oddworld: Munch's Oddysee",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "release_date": "November 15",
+    "platform_breakdown": {
+      "computer releases": "— N/a",
+      "console releases": "XB",
+      "handheld releases": "— N/a"
+    },
+    "platforms": [
+      "Xbox"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "Wizardry 8 [ 58 ]",
+    "wiki_title": "Wizardry 8",
+    "wiki_url": "https://en.wikipedia.org/wiki/Wizardry_8",
+    "redlink": false,
+    "release_date": "November 15",
+    "platform_breakdown": {
+      "computer releases": "WIN",
+      "console releases": "— N/a",
+      "handheld releases": "— N/a"
+    },
+    "platforms": [
+      "Windows"
+    ],
+    "steam": null
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "Harry Potter and the Philosopher's Stone",
+    "wiki_title": "Harry Potter and the Philosopher's Stone (PC video game)",
+    "wiki_url": "https://en.wikipedia.org/wiki/Harry_Potter_and_the_Philosopher%27s_Stone_(PC_video_game)",
+    "redlink": false,
+    "release_date": "November 16",
+    "platform_breakdown": {
+      "computer releases": "WIN",
+      "console releases": "PS1",
+      "handheld releases": "GBC, GBA"
+    },
+    "platforms": [
+      "Windows",
+      "PlayStation",
+      "Game Boy Color",
+      "Game Boy Advance"
+    ],
+    "steam": null
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "Headhunter",
+    "wiki_title": "Headhunter (video game)",
+    "wiki_url": "https://en.wikipedia.org/wiki/Headhunter_(video_game)",
+    "redlink": false,
+    "release_date": "November 16",
+    "platform_breakdown": {
+      "computer releases": "— N/a",
+      "console releases": "DC",
+      "handheld releases": "— N/a"
+    },
+    "platforms": [
+      "Dreamcast"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "NHL Hitz 2002",
+    "wiki_title": "NHL Hitz 2002",
+    "wiki_url": "https://en.wikipedia.org/wiki/NHL_Hitz_2002",
+    "redlink": false,
+    "release_date": "November 17",
+    "platform_breakdown": {
+      "computer releases": "— N/a",
+      "console releases": "GCN",
+      "handheld releases": "— N/a"
+    },
+    "platforms": [
+      "GameCube"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "Luigi's Mansion",
+    "wiki_title": "Luigi's Mansion",
+    "wiki_url": "https://en.wikipedia.org/wiki/Luigi%27s_Mansion",
+    "redlink": false,
+    "release_date": "November 18",
+    "platform_breakdown": {
+      "computer releases": "— N/a",
+      "console releases": "GCN",
+      "handheld releases": "— N/a"
+    },
+    "platforms": [
+      "GameCube"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "WWF Road to Wrestlemania",
+    "wiki_title": "WWF Road to WrestleMania",
+    "wiki_url": "https://en.wikipedia.org/wiki/WWF_Road_to_WrestleMania",
+    "redlink": false,
+    "release_date": "November 18",
+    "platform_breakdown": {
+      "computer releases": "— N/a",
+      "console releases": "— N/a",
+      "handheld releases": "GBA"
+    },
+    "platforms": [
+      "Game Boy Advance"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "Soul Reaver 2 [ 59 ]",
+    "wiki_title": "Soul Reaver 2",
+    "wiki_url": "https://en.wikipedia.org/wiki/Soul_Reaver_2",
+    "redlink": false,
+    "release_date": "November 19",
+    "platform_breakdown": {
+      "computer releases": "WIN",
+      "console releases": "— N/a",
+      "handheld releases": "— N/a"
+    },
+    "platforms": [
+      "Windows"
+    ],
+    "steam": null
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "WWF SmackDown! Just Bring It",
+    "wiki_title": "WWF SmackDown! Just Bring It",
+    "wiki_url": "https://en.wikipedia.org/wiki/WWF_SmackDown!_Just_Bring_It",
+    "redlink": false,
+    "release_date": "November 19",
+    "platform_breakdown": {
+      "computer releases": "— N/a",
+      "console releases": "PS2",
+      "handheld releases": "— N/a"
+    },
+    "platforms": [
+      "PlayStation 2"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "Frequency",
+    "wiki_title": "Frequency",
+    "wiki_url": "https://en.wikipedia.org/wiki/Frequency",
+    "redlink": false,
+    "release_date": "November 20",
+    "platform_breakdown": {
+      "computer releases": "— N/a",
+      "console releases": "PS2",
+      "handheld releases": "— N/a"
+    },
+    "platforms": [
+      "PlayStation 2"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "Frogger: The Great Quest",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "release_date": "November 20",
+    "platform_breakdown": {
+      "computer releases": "— N/a",
+      "console releases": "PS2",
+      "handheld releases": "— N/a"
+    },
+    "platforms": [
+      "PlayStation 2"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "Ecks vs. Sever",
+    "wiki_title": "Ecks vs. Sever",
+    "wiki_url": "https://en.wikipedia.org/wiki/Ecks_vs._Sever",
+    "redlink": false,
+    "release_date": "November 21",
+    "platform_breakdown": {
+      "computer releases": "— N/a",
+      "console releases": "— N/a",
+      "handheld releases": "GBA"
+    },
+    "platforms": [
+      "Game Boy Advance"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "Star Wars Episode I: Jedi Power Battles",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "release_date": "November 21",
+    "platform_breakdown": {
+      "computer releases": "— N/a",
+      "console releases": "— N/a",
+      "handheld releases": "GBA"
+    },
+    "platforms": [
+      "Game Boy Advance"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "Mr. Driller G",
+    "wiki_title": "Mr. Driller G",
+    "wiki_url": "https://en.wikipedia.org/wiki/Mr._Driller_G",
+    "redlink": false,
+    "release_date": "November 22",
+    "platform_breakdown": {
+      "computer releases": "— N/a",
+      "console releases": "PS1 (JP)",
+      "handheld releases": "— N/a"
+    },
+    "platforms": [
+      "PlayStation"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "Gothic",
+    "wiki_title": "Gothic (video game)",
+    "wiki_url": "https://en.wikipedia.org/wiki/Gothic_(video_game)",
+    "redlink": false,
+    "release_date": "November 23",
+    "platform_breakdown": {
+      "computer releases": "WIN",
+      "console releases": "— N/a",
+      "handheld releases": "— N/a"
+    },
+    "platforms": [
+      "Windows"
+    ],
+    "steam": {
+      "appid": 65540,
+      "name": "Gothic 1",
+      "short_description": "War has been waged across the kingdom of Myrtana. Orcish hordes invaded human territory and the king of the land needed a lot of ore to forge enough weapons, should his army stand against this threat. Whoever breaks the law in these darkest of times is sentenced to serve in the giant penal colony of Khorinis, mining the so much needed...",
+      "image_path": "images/steam-65540.jpg",
+      "genres": [
+        "Action",
+        "RPG"
+      ],
+      "release_date": "Mar 15, 2001",
+      "site_url": "https://store.steampowered.com/app/65540",
+      "year_match": true
+    }
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "Frogger's Adventures: Temple of the Frog",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "release_date": "November 24",
+    "platform_breakdown": {
+      "computer releases": "— N/a",
+      "console releases": "— N/a",
+      "handheld releases": "GBA"
+    },
+    "platforms": [
+      "Game Boy Advance"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "Azurik: Rise of Perathia",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "release_date": "November 25",
+    "platform_breakdown": {
+      "computer releases": "— N/a",
+      "console releases": "XB",
+      "handheld releases": "— N/a"
+    },
+    "platforms": [
+      "Xbox"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "Jurassic Park III: Island Attack",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "release_date": "November 26",
+    "platform_breakdown": {
+      "computer releases": "— N/a",
+      "console releases": "— N/a",
+      "handheld releases": "GBA"
+    },
+    "platforms": [
+      "Game Boy Advance"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "Star Wars: Starfighter",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "release_date": "November 26",
+    "platform_breakdown": {
+      "computer releases": "— N/a",
+      "console releases": "XB",
+      "handheld releases": "— N/a"
+    },
+    "platforms": [
+      "Xbox"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "Twisted Metal: Small Brawl",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "release_date": "November 26",
+    "platform_breakdown": {
+      "computer releases": "— N/a",
+      "console releases": "PS1",
+      "handheld releases": "— N/a"
+    },
+    "platforms": [
+      "PlayStation"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "Extreme-G 3",
+    "wiki_title": "Extreme-G 3",
+    "wiki_url": "https://en.wikipedia.org/wiki/Extreme-G_3",
+    "redlink": false,
+    "release_date": "November 27",
+    "platform_breakdown": {
+      "computer releases": "— N/a",
+      "console releases": "GCN",
+      "handheld releases": "— N/a"
+    },
+    "platforms": [
+      "GameCube"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "Lego Racers 2",
+    "wiki_title": "Lego Racers 2",
+    "wiki_url": "https://en.wikipedia.org/wiki/Lego_Racers_2",
+    "redlink": false,
+    "release_date": "November 27",
+    "platform_breakdown": {
+      "computer releases": "— N/a",
+      "console releases": "— N/a",
+      "handheld releases": "GBA"
+    },
+    "platforms": [
+      "Game Boy Advance"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "Cruis'n Velocity",
+    "wiki_title": "Cruis'n Velocity",
+    "wiki_url": "https://en.wikipedia.org/wiki/Cruis%27n_Velocity",
+    "redlink": false,
+    "release_date": "November 28",
+    "platform_breakdown": {
+      "computer releases": "— N/a",
+      "console releases": "— N/a",
+      "handheld releases": "GBA"
+    },
+    "platforms": [
+      "Game Boy Advance"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "Rampage Puzzle Attack",
+    "wiki_title": "Rampage Puzzle Attack",
+    "wiki_url": "https://en.wikipedia.org/wiki/Rampage_Puzzle_Attack",
+    "redlink": false,
+    "release_date": "November 29",
+    "platform_breakdown": {
+      "computer releases": "— N/a",
+      "console releases": "— N/a",
+      "handheld releases": "GBA"
+    },
+    "platforms": [
+      "Game Boy Advance"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "Dokapon: Monster Hunter",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "release_date": "November 30",
+    "platform_breakdown": {
+      "computer releases": "— N/a",
+      "console releases": "— N/a",
+      "handheld releases": "GBA"
+    },
+    "platforms": [
+      "Game Boy Advance"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "Breath of Fire",
+    "wiki_title": "Breath of Fire (video game)",
+    "wiki_url": "https://en.wikipedia.org/wiki/Breath_of_Fire_(video_game)",
+    "redlink": false,
+    "release_date": "December 1",
+    "platform_breakdown": {
+      "computer releases": "— N/a",
+      "console releases": "— N/a",
+      "handheld releases": "GBA"
+    },
+    "platforms": [
+      "Game Boy Advance"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "M&M's Blast!",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "release_date": "December 1",
+    "platform_breakdown": {
+      "computer releases": "— N/a",
+      "console releases": "— N/a",
+      "handheld releases": "GBA"
+    },
+    "platforms": [
+      "Game Boy Advance"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "Baldur's Gate: Dark Alliance",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "release_date": "December 3",
+    "platform_breakdown": {
+      "computer releases": "— N/a",
+      "console releases": "PS2",
+      "handheld releases": "— N/a"
+    },
+    "platforms": [
+      "PlayStation 2"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "Mega Man X6",
+    "wiki_title": "Mega Man X6",
+    "wiki_url": "https://en.wikipedia.org/wiki/Mega_Man_X6",
+    "redlink": false,
+    "release_date": "December 4",
+    "platform_breakdown": {
+      "computer releases": "— N/a",
+      "console releases": "PS1",
+      "handheld releases": "— N/a"
+    },
+    "platforms": [
+      "PlayStation"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "American Bass Challenge",
+    "wiki_title": "American Bass Challenge",
+    "wiki_url": "https://en.wikipedia.org/wiki/American_Bass_Challenge",
+    "redlink": false,
+    "release_date": "December 5",
+    "platform_breakdown": {
+      "computer releases": "— N/a",
+      "console releases": "— N/a",
+      "handheld releases": "GBA"
+    },
+    "platforms": [
+      "Game Boy Advance"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "Magical Vacation",
+    "wiki_title": "Magical Vacation",
+    "wiki_url": "https://en.wikipedia.org/wiki/Magical_Vacation",
+    "redlink": false,
+    "release_date": "December 7",
+    "platform_breakdown": {
+      "computer releases": "— N/a",
+      "console releases": "— N/a",
+      "handheld releases": "GBA"
+    },
+    "platforms": [
+      "Game Boy Advance"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "Evil Twin: Cyprien's Chronicles",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "release_date": "December 7",
+    "platform_breakdown": {
+      "computer releases": "— N/a",
+      "console releases": "PS2 (PAL & EU)",
+      "handheld releases": "— N/a"
+    },
+    "platforms": [
+      "PlayStation 2"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "The Flintstones: Big Trouble in Bedrock",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "release_date": "December 9",
+    "platform_breakdown": {
+      "computer releases": "— N/a",
+      "console releases": "— N/a",
+      "handheld releases": "GBA"
+    },
+    "platforms": [
+      "Game Boy Advance"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "Mortal Kombat Advance",
+    "wiki_title": "Ultimate Mortal Kombat 3",
+    "wiki_url": "https://en.wikipedia.org/wiki/Ultimate_Mortal_Kombat_3",
+    "redlink": false,
+    "release_date": "December 12",
+    "platform_breakdown": {
+      "computer releases": "— N/a",
+      "console releases": "— N/a",
+      "handheld releases": "GBA"
+    },
+    "platforms": [
+      "Game Boy Advance"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "Shadow Hearts",
+    "wiki_title": "Shadow Hearts",
+    "wiki_url": "https://en.wikipedia.org/wiki/Shadow_Hearts",
+    "redlink": false,
+    "release_date": "December 12",
+    "platform_breakdown": {
+      "computer releases": "— N/a",
+      "console releases": "PS2",
+      "handheld releases": "— N/a"
+    },
+    "platforms": [
+      "PlayStation 2"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "Dark Rift (North America)",
+    "wiki_title": "Dark Rift",
+    "wiki_url": "https://en.wikipedia.org/wiki/Dark_Rift",
+    "redlink": false,
+    "release_date": "December 17",
+    "platform_breakdown": {
+      "computer releases": "— N/a",
+      "console releases": "N64",
+      "handheld releases": "— N/a"
+    },
+    "platforms": [
+      "Nintendo 64"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "Universal Studios Theme Parks Adventure",
+    "wiki_title": "Universal Studios Theme Parks Adventure",
+    "wiki_url": "https://en.wikipedia.org/wiki/Universal_Studios_Theme_Parks_Adventure",
+    "redlink": false,
+    "release_date": "December 18",
+    "platform_breakdown": {
+      "computer releases": "— N/a",
+      "console releases": "GCN",
+      "handheld releases": "— N/a"
+    },
+    "platforms": [
+      "GameCube"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "Star Wars: Obi-Wan [ 60 ]",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "release_date": "December 19",
+    "platform_breakdown": {
+      "computer releases": "— N/a",
+      "console releases": "XB",
+      "handheld releases": "— N/a"
+    },
+    "platforms": [
+      "Xbox"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "Wizardry: Tale of the Forsaken Land",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "release_date": "December 19",
+    "platform_breakdown": {
+      "computer releases": "— N/a",
+      "console releases": "PS2",
+      "handheld releases": "— N/a"
+    },
+    "platforms": [
+      "PlayStation 2"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "Giants: Citizen Kabuto",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "release_date": "December 20",
+    "platform_breakdown": {
+      "computer releases": "— N/a",
+      "console releases": "PS2",
+      "handheld releases": "— N/a"
+    },
+    "platforms": [
+      "PlayStation 2"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "Silent Hill 2: Director's Cut",
+    "wiki_title": "Silent Hill 2",
+    "wiki_url": "https://en.wikipedia.org/wiki/Silent_Hill_2",
+    "redlink": false,
+    "release_date": "December 21",
+    "platform_breakdown": {
+      "computer releases": "— N/a",
+      "console releases": "XB",
+      "handheld releases": "— N/a"
+    },
+    "platforms": [
+      "Xbox"
+    ]
+  },
+  {
+    "year": 2001,
+    "section": "Notable releases",
+    "title": "Ultimate Mortal Kombat 3",
+    "wiki_title": "Ultimate Mortal Kombat 3",
+    "wiki_url": "https://en.wikipedia.org/wiki/Ultimate_Mortal_Kombat_3",
+    "redlink": false,
+    "release_date": "December 21",
+    "platform_breakdown": {
+      "computer releases": "— N/a",
+      "console releases": "— N/a",
+      "handheld releases": "GBA"
+    },
+    "platforms": [
+      "Game Boy Advance"
+    ]
+  }
+]

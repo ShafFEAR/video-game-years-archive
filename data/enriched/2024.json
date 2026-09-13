@@ -1,0 +1,368 @@
+[
+  {
+    "year": 2024,
+    "section": "Critically acclaimed titles",
+    "title": "Astro Bot",
+    "wiki_title": "Astro Bot",
+    "wiki_url": "https://en.wikipedia.org/wiki/Astro_Bot",
+    "redlink": false,
+    "developer": "Team Asobi",
+    "publisher": "Sony Interactive Entertainment",
+    "release_date": "September 6, 2024",
+    "average score": "94",
+    "platform_breakdown": {
+      "platform(s)": "PS5"
+    },
+    "platforms": [
+      "PlayStation 5"
+    ]
+  },
+  {
+    "year": 2024,
+    "section": "Critically acclaimed titles",
+    "title": "Elden Ring Shadow of the Erdtree",
+    "wiki_title": "Elden Ring Shadow of the Erdtree",
+    "wiki_url": "https://en.wikipedia.org/wiki/Elden_Ring_Shadow_of_the_Erdtree",
+    "redlink": false,
+    "developer": "FromSoftware",
+    "publisher": "Bandai Namco Entertainment",
+    "release_date": "June 21, 2024",
+    "average score": "94",
+    "platform_breakdown": {
+      "platform(s)": "PS4 , PS5 , WIN , XBO , XSX/S"
+    },
+    "platforms": [
+      "PlayStation 4",
+      "PlayStation 5",
+      "Windows",
+      "Xbox One",
+      "Xbox Series X/S"
+    ],
+    "steam": null
+  },
+  {
+    "year": 2024,
+    "section": "Critically acclaimed titles",
+    "title": "Metaphor: ReFantazio",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "developer": "Studio Zero",
+    "publisher": "Sega , Atlus",
+    "release_date": "October 11, 2024",
+    "average score": "94",
+    "platform_breakdown": {
+      "platform(s)": "PS4 , PS5 , WIN , XSX/S"
+    },
+    "platforms": [
+      "PlayStation 4",
+      "PlayStation 5",
+      "Windows",
+      "Xbox Series X/S"
+    ],
+    "steam": {
+      "appid": 2679460,
+      "name": "Metaphor: ReFantazio",
+      "short_description": "After his assassination, the will of the late king decrees the next monarch to be elected by the people. Forge bonds and win over a kingdom divided in this award-winning fantasy RPG with turn-based and action combat, party customization with powerful Archetypes, and hours of exploration.",
+      "image_path": "images/steam-2679460.jpg",
+      "genres": [
+        "Action",
+        "Adventure",
+        "RPG"
+      ],
+      "release_date": "Oct 10, 2024",
+      "site_url": "https://store.steampowered.com/app/2679460",
+      "year_match": true
+    }
+  },
+  {
+    "year": 2024,
+    "section": "Critically acclaimed titles",
+    "title": "Final Fantasy VII Rebirth",
+    "wiki_title": "Final Fantasy VII Rebirth",
+    "wiki_url": "https://en.wikipedia.org/wiki/Final_Fantasy_VII_Rebirth",
+    "redlink": false,
+    "developer": "Square Enix",
+    "publisher": "Square Enix",
+    "release_date": "February 29, 2024",
+    "average score": "92",
+    "platform_breakdown": {
+      "platform(s)": "PS5"
+    },
+    "platforms": [
+      "PlayStation 5"
+    ]
+  },
+  {
+    "year": 2024,
+    "section": "Critically acclaimed titles",
+    "title": "Caves of Qud",
+    "wiki_title": "Caves of Qud",
+    "wiki_url": "https://en.wikipedia.org/wiki/Caves_of_Qud",
+    "redlink": false,
+    "developer": "Freehold Games",
+    "publisher": "Kitfox Games",
+    "release_date": "December 5, 2024",
+    "average score": "91",
+    "platform_breakdown": {
+      "platform(s)": "WIN , OSX , LIN"
+    },
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "steam": {
+      "appid": 333640,
+      "name": "Caves of Qud",
+      "short_description": "Inhabit a deeply-simulated science fantasy world and chisel through layers of thousand-year-old civilizations. Build a character from over a hundred mutations and cybernetics. The award-winning sandbox roguelike &amp; RPG full of robots, deep lore, and sentient plants.",
+      "image_path": "images/steam-333640.jpg",
+      "genres": [
+        "Adventure",
+        "Indie",
+        "RPG",
+        "Strategy"
+      ],
+      "release_date": "Dec 5, 2024",
+      "site_url": "https://store.steampowered.com/app/333640",
+      "year_match": true
+    }
+  },
+  {
+    "year": 2024,
+    "section": "Critically acclaimed titles",
+    "title": "Satisfactory",
+    "wiki_title": "Satisfactory",
+    "wiki_url": "https://en.wikipedia.org/wiki/Satisfactory",
+    "redlink": false,
+    "developer": "Coffee Stain Studios",
+    "publisher": "Coffee Stain Studios",
+    "release_date": "September 10, 2024",
+    "average score": "91",
+    "platform_breakdown": {
+      "platform(s)": "WIN"
+    },
+    "platforms": [
+      "Windows"
+    ],
+    "steam": {
+      "appid": 526870,
+      "name": "Satisfactory",
+      "short_description": "Satisfactory is a first-person open-world factory building game with a dash of exploration and combat. Play alone or with friends, explore an alien planet, create multi-story factories, and enter conveyor belt heaven!",
+      "image_path": "images/steam-526870.jpg",
+      "genres": [
+        "Adventure",
+        "Indie",
+        "Simulation",
+        "Strategy"
+      ],
+      "release_date": "Sep 10, 2024",
+      "site_url": "https://store.steampowered.com/app/526870",
+      "year_match": true
+    }
+  },
+  {
+    "year": 2024,
+    "section": "Critically acclaimed titles",
+    "title": "Slay the Princess — The Pristine Cut",
+    "wiki_title": "Slay the Princess — The Pristine Cut",
+    "wiki_url": "https://en.wikipedia.org/wiki/Slay_the_Princess_%E2%80%94_The_Pristine_Cut",
+    "redlink": false,
+    "developer": "Black Tabby Games",
+    "publisher": "Serenity Forge",
+    "release_date": "October 24, 2024",
+    "average score": "91",
+    "platform_breakdown": {
+      "platform(s)": "LIN , OSX , NS , PS4 , PS5 , WIN , XBO , XSX/S"
+    },
+    "platforms": [
+      "Linux",
+      "macOS",
+      "Nintendo Switch",
+      "PlayStation 4",
+      "PlayStation 5",
+      "Windows",
+      "Xbox One",
+      "Xbox Series X/S"
+    ],
+    "steam": null
+  },
+  {
+    "year": 2024,
+    "section": "Critically acclaimed titles",
+    "title": "UFO 50",
+    "wiki_title": "UFO 50",
+    "wiki_url": "https://en.wikipedia.org/wiki/UFO_50",
+    "redlink": false,
+    "developer": "Mossmouth",
+    "publisher": "Mossmouth",
+    "release_date": "September 18, 2024",
+    "average score": "91",
+    "platform_breakdown": {
+      "platform(s)": "WIN"
+    },
+    "platforms": [
+      "Windows"
+    ],
+    "steam": {
+      "appid": 1147860,
+      "name": "UFO 50",
+      "short_description": "UFO 50 is a collection of 50 single and multiplayer games that span a variety of genres, from platformers and shoot 'em ups to puzzle games, roguelites, and RPGs. Our goal is to combine a familiar 8-bit aesthetic with new ideas and modern game design.",
+      "image_path": "images/steam-1147860.jpg",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Indie",
+        "RPG",
+        "Strategy"
+      ],
+      "release_date": "Sep 18, 2024",
+      "site_url": "https://store.steampowered.com/app/1147860",
+      "year_match": true
+    }
+  },
+  {
+    "year": 2024,
+    "section": "Critically acclaimed titles",
+    "title": "Animal Well",
+    "wiki_title": "Animal Well",
+    "wiki_url": "https://en.wikipedia.org/wiki/Animal_Well",
+    "redlink": false,
+    "developer": "Shared Memory",
+    "publisher": "Bigmode",
+    "release_date": "May 9, 2024",
+    "average score": "90",
+    "platform_breakdown": {
+      "platform(s)": "PS5 , NS , WIN , XSX/S"
+    },
+    "platforms": [
+      "PlayStation 5",
+      "Nintendo Switch",
+      "Windows",
+      "Xbox Series X/S"
+    ],
+    "steam": {
+      "appid": 813230,
+      "name": "ANIMAL WELL",
+      "short_description": "Explore a dense, interconnected labyrinth, and unravel its many secrets. Collect items to manipulate your environment in surprising and meaningful ways. Encounter beautiful and unsettling creatures, as you attempt to survive what lurks in the dark. There is more than what you see.",
+      "image_path": "images/steam-813230.jpg",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Indie"
+      ],
+      "release_date": "May 9, 2024",
+      "site_url": "https://store.steampowered.com/app/813230",
+      "year_match": true
+    }
+  },
+  {
+    "year": 2024,
+    "section": "Critically acclaimed titles",
+    "title": "Balatro",
+    "wiki_title": "Balatro",
+    "wiki_url": "https://en.wikipedia.org/wiki/Balatro",
+    "redlink": false,
+    "developer": "LocalThunk",
+    "publisher": "Playstack",
+    "release_date": "February 20, 2024",
+    "average score": "90",
+    "platform_breakdown": {
+      "platform(s)": "DROID , iOS , OSX , NS , PS4 , PS5 , WIN , XBO , XSX/S"
+    },
+    "platforms": [
+      "Android",
+      "iOS",
+      "macOS",
+      "Nintendo Switch",
+      "PlayStation 4",
+      "PlayStation 5",
+      "Windows",
+      "Xbox One",
+      "Xbox Series X/S"
+    ],
+    "steam": {
+      "appid": 2379780,
+      "name": "Balatro",
+      "short_description": "The poker roguelike. Balatro is a hypnotically satisfying deckbuilder where you play illegal poker hands, discover game-changing jokers, and trigger adrenaline-pumping, outrageous combos.",
+      "image_path": "images/steam-2379780.jpg",
+      "genres": [
+        "Casual",
+        "Indie",
+        "Strategy"
+      ],
+      "release_date": "Feb 20, 2024",
+      "site_url": "https://store.steampowered.com/app/2379780",
+      "year_match": true
+    }
+  },
+  {
+    "year": 2024,
+    "section": "Critically acclaimed titles",
+    "title": "Tekken 8",
+    "wiki_title": "Tekken 8",
+    "wiki_url": "https://en.wikipedia.org/wiki/Tekken_8",
+    "redlink": false,
+    "developer": "Bandai Namco Studios / Arika [ 8 ]",
+    "publisher": "Bandai Namco Entertainment",
+    "release_date": "January 26, 2024",
+    "average score": "90",
+    "platform_breakdown": {
+      "platform(s)": "PS5 , WIN , XSX/S"
+    },
+    "platforms": [
+      "PlayStation 5",
+      "Windows",
+      "Xbox Series X/S"
+    ],
+    "steam": {
+      "appid": 1778820,
+      "name": "TEKKEN 8",
+      "short_description": "TEKKEN 8 is the latest addition to the TEKKEN series, the pinnacle of 3D fighting games. Join the fight with over 32 characters and bear witness to the next installment in this epic saga. Get ready for the biggest and best TEKKEN game ever made!",
+      "image_path": "images/steam-1778820.jpg",
+      "genres": [
+        "Action"
+      ],
+      "release_date": "Jan 25, 2024",
+      "site_url": "https://store.steampowered.com/app/1778820",
+      "year_match": true
+    }
+  },
+  {
+    "year": 2024,
+    "section": "Critically acclaimed titles",
+    "title": "The Last of Us Part II Remastered",
+    "wiki_title": "The Last of Us Part II Remastered",
+    "wiki_url": "https://en.wikipedia.org/wiki/The_Last_of_Us_Part_II_Remastered",
+    "redlink": false,
+    "developer": "Naughty Dog",
+    "publisher": "Sony Interactive Entertainment",
+    "release_date": "January 19, 2024",
+    "average score": "90",
+    "platform_breakdown": {
+      "platform(s)": "PS5"
+    },
+    "platforms": [
+      "PlayStation 5"
+    ]
+  },
+  {
+    "year": 2024,
+    "section": "Critically acclaimed titles",
+    "title": "Tsukihime: A Piece of Blue Glass Moon",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "developer": "Type-Moon / HuneX",
+    "publisher": "Aniplex",
+    "release_date": "June 27, 2024",
+    "average score": "90",
+    "platform_breakdown": {
+      "platform(s)": "PS4 , NS"
+    },
+    "platforms": [
+      "PlayStation 4",
+      "Nintendo Switch"
+    ]
+  }
+]

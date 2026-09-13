@@ -10,9 +10,15 @@
 
 ### Balatro
 
-**Platforms:** Android, iOS, macOS, Nintendo Switch, PlayStation 4, PlayStation 5, Windows, Xbox One, Xbox Series X/S &nbsp;|&nbsp; **Developer:** LocalThunk &nbsp;|&nbsp; **Publisher:** Playstack &nbsp;|&nbsp; **Released:** February 20, 2024
+<img src="../images/steam-2379780.jpg" alt="Balatro cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/Balatro)
+**Platforms:** Android, iOS, macOS, Nintendo Switch, PlayStation 4, PlayStation 5, Windows, Xbox One, Xbox Series X/S &nbsp;|&nbsp; **Developer:** LocalThunk &nbsp;|&nbsp; **Publisher:** Playstack &nbsp;|&nbsp; **Genre:** Casual, Indie, Strategy &nbsp;|&nbsp; **Released:** February 20, 2024
+
+> The poker roguelike. Balatro is a hypnotically satisfying deckbuilder where you play illegal poker hands, discover game-changing jokers, and trigger adrenaline-pumping, outrageous combos.
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Balatro) · [Steam](https://store.steampowered.com/app/2379780)
 
 ---
 
@@ -100,8 +106,14 @@
 
 ### Plants vs. Zombies
 
-**Platforms:** Windows, macOS, iOS, Xbox 360, PlayStation Network, Nintendo DS, Bada, Android, Windows Phone, PlayStation Vita, BlackBerry OS &nbsp;|&nbsp; **Publisher:** PopCap Games &nbsp;|&nbsp; **Released:** May 5, 2009
+<img src="../images/steam-3590.jpg" alt="Plants vs. Zombies cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/Plants_vs._Zombies)
+**Platforms:** Windows, macOS, iOS, Xbox 360, PlayStation Network, Nintendo DS, Bada, Android, Windows Phone, PlayStation Vita, BlackBerry OS &nbsp;|&nbsp; **Publisher:** PopCap Games &nbsp;|&nbsp; **Genre:** Strategy &nbsp;|&nbsp; **Released:** May 5, 2009
+
+> Zombies are invading your home, and the only defense is your arsenal of plants! Armed with an alien nursery-worth of zombie-zapping plants like peashooters and cherry bombs, you'll need to think fast and plant faster to stop dozens of types of zombies dead in their tracks.
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Plants_vs._Zombies) · [Steam](https://store.steampowered.com/app/3590)
 
 ---

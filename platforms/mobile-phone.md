@@ -32,9 +32,15 @@
 
 ### Spore
 
-**Platforms:** macOS, Mobile phone, Nintendo DS, Windows &nbsp;|&nbsp; **Released:** September 5
+<img src="../images/steam-17390.jpg" alt="Spore cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/Spore_(2008_video_game))
+**Platforms:** macOS, Mobile phone, Nintendo DS, Windows &nbsp;|&nbsp; **Genre:** Action, Adventure, Casual, RPG, Simulation, Strategy &nbsp;|&nbsp; **Released:** September 5
+
+> Be the architect of your own universe with Spore, an exciting single-player adventure. From Single Cell to Galactic God, evolve your creature in a universe of your own creations.
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Spore_(2008_video_game)) · [Steam](https://store.steampowered.com/app/17390)
 
 ---
 
@@ -52,7 +58,15 @@
 
 ### Tomb Raider: Anniversary
 
-**Platforms:** PlayStation 2, Windows, PlayStation Portable, Xbox 360, Wii, Mobile phone &nbsp;|&nbsp; **Released:** June 5
+<img src="../images/steam-8000.jpg" alt="Tomb Raider: Anniversary cover" width="200">
+
+**Platforms:** PlayStation 2, Windows, PlayStation Portable, Xbox 360, Wii, Mobile phone &nbsp;|&nbsp; **Genre:** Action, Adventure &nbsp;|&nbsp; **Released:** June 5
+
+> Tomb Raider: Anniversary retraces Lara Croft's original genre-defining adventure  globe-trotting 3rd person action-adventure in pursuit of the legendary Scion artifact. Using an enhanced 'Tomb Raider: Legend' game engine, the graphics, technology and physics bring Lara's adventure and pursuit of a mystical artifact known only as the...
+>
+> _Synopsis source: Steam_
+
+[Steam](https://store.steampowered.com/app/8000)
 
 ---
 

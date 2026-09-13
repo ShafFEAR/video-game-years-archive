@@ -94,19 +94,7 @@
       "Windows",
       "MS-DOS"
     ],
-    "steam": {
-      "appid": 2616460,
-      "name": "Dungeon Keeper™ 2",
-      "short_description": "Bad guys have all the fun. Discover your dark side as you build an evil underground kingdom and defend it against the forces of good.",
-      "image_path": "images/steam-2616460.jpg",
-      "genres": [
-        "Action",
-        "Strategy"
-      ],
-      "release_date": "Mar 7, 2024",
-      "site_url": "https://store.steampowered.com/app/2616460",
-      "year_match": false
-    }
+    "steam": null
   },
   {
     "year": 1997,
@@ -127,22 +115,7 @@
       "Windows",
       "MS-DOS"
     ],
-    "steam": {
-      "appid": 2344520,
-      "name": "Diablo® IV",
-      "short_description": "Join the fight for Sanctuary in Diablo® IV, the ultimate action RPG adventure. Experience the critically acclaimed campaign and new seasonal content.",
-      "image_path": "images/steam-2344520.jpg",
-      "genres": [
-        "Action",
-        "Adventure",
-        "Casual",
-        "Massively Multiplayer",
-        "RPG"
-      ],
-      "release_date": "Oct 17, 2023",
-      "site_url": "https://store.steampowered.com/app/2344520",
-      "year_match": false
-    }
+    "steam": null
   },
   {
     "year": 1997,
@@ -212,7 +185,7 @@
       ],
       "release_date": "Sep 16, 2009",
       "site_url": "https://store.steampowered.com/app/32380",
-      "year_match": false
+      "year_match": true
     }
   },
   {
@@ -292,18 +265,7 @@
       "Windows",
       "MS-DOS"
     ],
-    "steam": {
-      "appid": 1151340,
-      "name": "Fallout 76",
-      "short_description": "Bethesda Game Studios welcome you to Fallout 76. Twenty-five years after the bombs fall, you and your fellow Vault Dwellers emerge into post-nuclear America. Explore a vast wasteland in this open-world multiplayer addition to the Fallout story.",
-      "image_path": "images/steam-1151340.jpg",
-      "genres": [
-        "RPG"
-      ],
-      "release_date": "Apr 14, 2020",
-      "site_url": "https://store.steampowered.com/app/1151340",
-      "year_match": false
-    }
+    "steam": null
   },
   {
     "year": 1997,
@@ -325,17 +287,18 @@
       "MS-DOS"
     ],
     "steam": {
-      "appid": 1712100,
-      "name": "Carmageddon: Rogue Shift",
-      "short_description": "Carmageddon smashes back with brutal roguelite vehicular‑combat mayhem. Adapt, upgrade, and unleash destruction on post‑apocalyptic zombie hordes. The legacy lives on, reinvented and unforgiving.",
-      "image_path": "images/steam-1712100.jpg",
+      "appid": 282010,
+      "name": "Carmageddon Max Pack",
+      "short_description": "Carmageddon is the original freeform driving sensation, where pedestrians (and cows!) equal points, and your opponents are a bunch of crazies in a twisted mix of automotive killing machines. The game features anarchic drive-wherever-you-like gameplay and over-the-top surreal comedy violence. It’s the racing game where racing is for wimps.",
+      "image_path": "images/steam-282010.jpg",
       "genres": [
         "Action",
+        "Indie",
         "Racing"
       ],
-      "release_date": "Feb 6, 2026",
-      "site_url": "https://store.steampowered.com/app/1712100",
-      "year_match": false
+      "release_date": "Jun 30, 1997",
+      "site_url": "https://store.steampowered.com/app/282010",
+      "year_match": true
     }
   },
   {
@@ -376,15 +339,15 @@
       "MS-DOS"
     ],
     "steam": {
-      "appid": 38460,
-      "name": "MDK 2",
-      "short_description": "3 Unlikely Heroes, 1 Ultimate Goal Kurt Hectic is back to save the universe. This time he is teamed with the genius Dr. Hawkins and the 6-legged gun-toting robotic dog, Max. Together they must out-sneak, out-blast and out-think their enemies as they attempt to reclaim earth from a vile alien menace.",
-      "image_path": "images/steam-38460.jpg",
+      "appid": 38450,
+      "name": "MDK",
+      "short_description": "ON A GOOD DAY, ONLY 2.5 MILLION PEOPLE WILL DIE. As vast alien mining cities suck the power and minerals from every major metropolis on Earth simultaneously, time is of the essence as millions of civilians are expiring by the second.",
+      "image_path": "images/steam-38450.jpg",
       "genres": [
         "Action"
       ],
       "release_date": "Sep 17, 2009",
-      "site_url": "https://store.steampowered.com/app/38460",
+      "site_url": "https://store.steampowered.com/app/38450",
       "year_match": false
     }
   },
@@ -436,7 +399,7 @@
       ],
       "release_date": "Mar 22, 2018",
       "site_url": "https://store.steampowered.com/app/730820",
-      "year_match": false
+      "year_match": true
     }
   },
   {
@@ -486,7 +449,7 @@
       ],
       "release_date": "Dec 18, 2015",
       "site_url": "https://store.steampowered.com/app/298030",
-      "year_match": false
+      "year_match": true
     }
   },
   {
@@ -557,7 +520,7 @@
       ],
       "release_date": "Aug 28, 2008",
       "site_url": "https://store.steampowered.com/app/15700",
-      "year_match": false
+      "year_match": true
     }
   },
   {
@@ -666,18 +629,7 @@
       "PlayStation",
       "Sega Saturn"
     ],
-    "steam": {
-      "appid": 4821350,
-      "name": "Secret Cats - Independence Day",
-      "short_description": "Dive into the enchanting world of &quot;Secret Cats - Independence Day&quot; a hidden object game where your mission is to uncover every cat hidden within stunning hand-painted artwork. Let your keen eye and curiosity guide you through this captivating journey.",
-      "image_path": "images/steam-4821350.jpg",
-      "genres": [
-        "Casual"
-      ],
-      "release_date": "Jul 3, 2026",
-      "site_url": "https://store.steampowered.com/app/4821350",
-      "year_match": false
-    }
+    "steam": null
   },
   {
     "year": 1997,
@@ -793,18 +745,7 @@
       "Windows",
       "MS-DOS"
     ],
-    "steam": {
-      "appid": 252710,
-      "name": "The Last Express Gold Edition",
-      "short_description": "Step aboard the 1914 Orient Express in this award-winning mystery adventure from Prince of Persia creator Jordan Mechner. Described as one of the best adventure games of all time, The Last Express is an intrigue-filled adventure set aboard the luxurious Orient Express.",
-      "image_path": "images/steam-252710.jpg",
-      "genres": [
-        "Adventure"
-      ],
-      "release_date": "Nov 21, 2013",
-      "site_url": "https://store.steampowered.com/app/252710",
-      "year_match": false
-    }
+    "steam": null
   },
   {
     "year": 1997,
@@ -839,19 +780,7 @@
       "Windows",
       "MS-DOS"
     ],
-    "steam": {
-      "appid": 2842040,
-      "name": "Star Wars Outlaws",
-      "short_description": "Experience the first-ever open world Star Wars™ game and explore distinct locations across the galaxy, both iconic and new. Risk it all as scoundrel Kay Vess, seeking freedom and the means to start a new life.",
-      "image_path": "images/steam-2842040.jpg",
-      "genres": [
-        "Action",
-        "Adventure"
-      ],
-      "release_date": "Nov 21, 2024",
-      "site_url": "https://store.steampowered.com/app/2842040",
-      "year_match": false
-    }
+    "steam": null
   },
   {
     "year": 1997,
@@ -878,7 +807,7 @@
       ],
       "release_date": "Jan 4, 2017",
       "site_url": "https://store.steampowered.com/app/565550",
-      "year_match": false
+      "year_match": true
     }
   },
   {
@@ -911,19 +840,7 @@
       "Windows",
       "MS-DOS"
     ],
-    "steam": {
-      "appid": 361690,
-      "name": "STAR WARS™ X-Wing vs TIE Fighter - Balance of Power Campaigns™",
-      "short_description": "Real-time against real pilots; this is Star Wars space combat as it was meant to be! Featuring challenging real-time dogfights of 2 to 8 players, Star Wars™: X-Wing vs. TIE Fighter is one of the most historically significant space combat simulators ever made.",
-      "image_path": "images/steam-361690.jpg",
-      "genres": [
-        "Action",
-        "Simulation"
-      ],
-      "release_date": "Apr 28, 2015",
-      "site_url": "https://store.steampowered.com/app/361690",
-      "year_match": false
-    }
+    "steam": null
   },
   {
     "year": 1997,
@@ -940,20 +857,7 @@
       "Windows",
       "MS-DOS"
     ],
-    "steam": {
-      "appid": 3751260,
-      "name": "The Blood of Dawnwalker",
-      "short_description": "The Blood of Dawnwalker is an open-world dark fantasy action RPG set in 14th-century Europe. You play as Coen, human by day and vampire by night, fighting to save your family in a story shaped by your actions and the secrets you uncover.",
-      "image_path": "images/steam-3751260.jpg",
-      "genres": [
-        "Action",
-        "Adventure",
-        "RPG"
-      ],
-      "release_date": "Sep 2, 2026",
-      "site_url": "https://store.steampowered.com/app/3751260",
-      "year_match": false
-    }
+    "steam": null
   },
   {
     "year": 1997,
@@ -981,7 +885,7 @@
       ],
       "release_date": "Oct 26, 2026",
       "site_url": "https://store.steampowered.com/app/4834850",
-      "year_match": false
+      "year_match": true
     }
   },
   {
@@ -1153,7 +1057,7 @@
       ],
       "release_date": "Sep 26, 2013",
       "site_url": "https://store.steampowered.com/app/233130",
-      "year_match": false
+      "year_match": true
     }
   },
   {
@@ -1211,7 +1115,7 @@
       ],
       "release_date": "Feb 7, 2017",
       "site_url": "https://store.steampowered.com/app/560170",
-      "year_match": false
+      "year_match": true
     }
   },
   {
@@ -1269,7 +1173,7 @@
       ],
       "release_date": "Aug 3, 2007",
       "site_url": "https://store.steampowered.com/app/9060",
-      "year_match": false
+      "year_match": true
     }
   },
   {
@@ -1287,19 +1191,7 @@
       "Windows",
       "MS-DOS"
     ],
-    "steam": {
-      "appid": 2050650,
-      "name": "Resident Evil 4",
-      "short_description": "Survival is just the beginning. Six years have passed since the biological disaster in Raccoon City. Leon S. Kennedy, one of the survivors, tracks the president's kidnapped daughter to a secluded European village, where there is something terribly wrong with the locals.",
-      "image_path": "images/steam-2050650.jpg",
-      "genres": [
-        "Action",
-        "Adventure"
-      ],
-      "release_date": "Mar 23, 2023",
-      "site_url": "https://store.steampowered.com/app/2050650",
-      "year_match": false
-    }
+    "steam": null
   },
   {
     "year": 1997,
@@ -1365,20 +1257,7 @@
       "Windows",
       "MS-DOS"
     ],
-    "steam": {
-      "appid": 223470,
-      "name": "POSTAL 2",
-      "short_description": "Live a week in the life of &quot;The POSTAL Dude&quot;; a hapless everyman just trying to check off some chores. Buying milk, returning an overdue library book, getting Gary Coleman's autograph, what could possibly go wrong?",
-      "image_path": "images/steam-223470.jpg",
-      "genres": [
-        "Action",
-        "Adventure",
-        "Indie"
-      ],
-      "release_date": "Nov 2, 2012",
-      "site_url": "https://store.steampowered.com/app/223470",
-      "year_match": false
-    }
+    "steam": null
   },
   {
     "year": 1997,
@@ -1440,7 +1319,7 @@
       ],
       "release_date": "Oct 17, 2025",
       "site_url": "https://store.steampowered.com/app/3043940",
-      "year_match": false
+      "year_match": true
     }
   },
   {
@@ -1517,7 +1396,7 @@
       ],
       "release_date": "Feb 23, 2021",
       "site_url": "https://store.steampowered.com/app/1557050",
-      "year_match": false
+      "year_match": true
     }
   },
   {
@@ -1535,18 +1414,7 @@
       "Windows",
       "MS-DOS"
     ],
-    "steam": {
-      "appid": 813780,
-      "name": "Age of Empires II: Definitive Edition",
-      "short_description": "42 Civilizations, 229 Campaign Missions, Singleplayer, Co-Op, Multiplayer, In-Game Editor, Mods, Cross-play...It is good to be the king.",
-      "image_path": "images/steam-813780.jpg",
-      "genres": [
-        "Strategy"
-      ],
-      "release_date": "Nov 14, 2019",
-      "site_url": "https://store.steampowered.com/app/813780",
-      "year_match": false
-    }
+    "steam": null
   },
   {
     "year": 1997,
@@ -1626,7 +1494,7 @@
       ],
       "release_date": "Jun 25, 2024",
       "site_url": "https://store.steampowered.com/app/1712350",
-      "year_match": false
+      "year_match": true
     }
   },
   {
@@ -1669,7 +1537,7 @@
       ],
       "release_date": "Apr 18, 2017",
       "site_url": "https://store.steampowered.com/app/570680",
-      "year_match": false
+      "year_match": true
     }
   },
   {
@@ -1687,19 +1555,7 @@
       "Windows",
       "MS-DOS"
     ],
-    "steam": {
-      "appid": 359630,
-      "name": "Independence War® 2: Edge of Chaos",
-      "short_description": "Command four space vessels and a band of revolutionary pirates into an all-consuming battle against impossible odds, because there just isn't enough Space for everyone!",
-      "image_path": "images/steam-359630.jpg",
-      "genres": [
-        "Action",
-        "Simulation"
-      ],
-      "release_date": "May 7, 2015",
-      "site_url": "https://store.steampowered.com/app/359630",
-      "year_match": false
-    }
+    "steam": null
   },
   {
     "year": 1997,
@@ -1732,18 +1588,7 @@
       "Windows",
       "MS-DOS"
     ],
-    "steam": {
-      "appid": 1678420,
-      "name": "Blade Runner: Enhanced Edition",
-      "short_description": "Armed with your investigative skills and the tools of the Blade Runner trade, you'll be immersed in a world that lives and breathes around you with breakthrough lighting and visual effects. Your ability to survive will be put to the test in the richest game environment ever created.",
-      "image_path": "images/steam-1678420.jpg",
-      "genres": [
-        "Adventure"
-      ],
-      "release_date": "Jun 23, 2022",
-      "site_url": "https://store.steampowered.com/app/1678420",
-      "year_match": false
-    }
+    "steam": null
   },
   {
     "year": 1997,
@@ -1776,19 +1621,7 @@
       "MS-DOS",
       "PlayStation"
     ],
-    "steam": {
-      "appid": 225300,
-      "name": "Tomb Raider II (1997)",
-      "short_description": "The second instalment in the Tomb Raider series invites you to join Lara as she travels around the globe to retrieve a precious artefact before it falls into the wrong hands. The legendary artefact, the Dagger of Xian, is said to give its possessor the power of a fire breathing dragon.",
-      "image_path": "images/steam-225300.jpg",
-      "genres": [
-        "Action",
-        "Adventure"
-      ],
-      "release_date": "Nov 28, 2012",
-      "site_url": "https://store.steampowered.com/app/225300",
-      "year_match": false
-    }
+    "steam": null
   },
   {
     "year": 1997,
@@ -1838,20 +1671,7 @@
       "MS-DOS",
       "PlayStation"
     ],
-    "steam": {
-      "appid": 3240220,
-      "name": "Grand Theft Auto V Enhanced",
-      "short_description": "Experience entertainment blockbusters Grand Theft Auto V and Grand Theft Auto Online — now upgraded for a new generation with stunning visuals, faster loading, 3D audio, and more, plus exclusive content for GTA Online players.",
-      "image_path": "images/steam-3240220.jpg",
-      "genres": [
-        "Action",
-        "Adventure",
-        "Racing"
-      ],
-      "release_date": "Mar 4, 2025",
-      "site_url": "https://store.steampowered.com/app/3240220",
-      "year_match": false
-    }
+    "steam": null
   },
   {
     "year": 1997,
@@ -1961,7 +1781,7 @@
       ],
       "release_date": "Aug 3, 2007",
       "site_url": "https://store.steampowered.com/app/2320",
-      "year_match": false
+      "year_match": true
     }
   },
   {
@@ -2068,17 +1888,6 @@
     "platforms": [
       "Windows"
     ],
-    "steam": {
-      "appid": 15900,
-      "name": "7 Wonders II",
-      "short_description": "Journey back in time with the 7 Wonders series to when magnificent structures were being built in far away lands. Enjoy challenging match-3 gameplay in a newly enhanced interactive environment where you not only learn about marvelous new wonders such as Stonehenge and Taj Mahal, but also watch them come to life piece by piece before your...",
-      "image_path": "images/steam-15900.jpg",
-      "genres": [
-        "Casual"
-      ],
-      "release_date": "Jun 10, 2008",
-      "site_url": "https://store.steampowered.com/app/15900",
-      "year_match": false
-    }
+    "steam": null
   }
 ]

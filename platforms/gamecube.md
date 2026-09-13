@@ -56,9 +56,15 @@
 
 ### Surf's Up
 
-**Platforms:** Game Boy Advance, Nintendo DS, PlayStation 2, PlayStation 3, PlayStation Portable, Wii, Xbox 360, GameCube, Windows &nbsp;|&nbsp; **Released:** May 30
+<img src="../images/steam-3454830.jpg" alt="Surf's Up cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/Surf%27s_Up_(video_game))
+**Platforms:** Game Boy Advance, Nintendo DS, PlayStation 2, PlayStation 3, PlayStation Portable, Wii, Xbox 360, GameCube, Windows &nbsp;|&nbsp; **Genre:** Action, Casual, Indie, Racing, Sports, Free To Play &nbsp;|&nbsp; **Released:** May 30
+
+> SurfsUp is a free-to-play, standalone recreation of Counter-Strike Surf where precision movement and air-surfing are the keys to setting a new personal best or even breaking a world record. Surf, bhop, and climb across 125+ maps, all for free, with unique leaderboards for every way to play.
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Surf%27s_Up_(video_game)) · [Steam](https://store.steampowered.com/app/3454830)
 
 ---
 
@@ -388,13 +394,29 @@
 
 ### Tom Clancy's Splinter Cell: Double Agent
 
-**Platforms:** Xbox, Xbox 360, PlayStation 2, GameCube, Windows, Wii &nbsp;|&nbsp; **Publisher:** Ubisoft &nbsp;|&nbsp; **Released:** October 24, 2006
+<img src="../images/steam-13580.jpg" alt="Tom Clancy's Splinter Cell: Double Agent cover" width="200">
+
+**Platforms:** Xbox, Xbox 360, PlayStation 2, GameCube, Windows, Wii &nbsp;|&nbsp; **Publisher:** Ubisoft &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** October 24, 2006
+
+> In the sequel to the 2005 Game of the Year, Splinter Cell: Double Agent, play as legendary covert operative Sam Fisher, infiltrate a ruthless terrorist organization, and destroy it from within.
+>
+> _Synopsis source: Steam_
+
+[Steam](https://store.steampowered.com/app/13580)
 
 ---
 
 ### Tomb Raider: Legend
 
-**Platforms:** Windows, PlayStation 2, Xbox, Xbox 360, PlayStation Portable, GameCube, Game Boy Advance, Nintendo DS &nbsp;|&nbsp; **Released:** April 11
+<img src="../images/steam-7000.jpg" alt="Tomb Raider: Legend cover" width="200">
+
+**Platforms:** Windows, PlayStation 2, Xbox, Xbox 360, PlayStation Portable, GameCube, Game Boy Advance, Nintendo DS &nbsp;|&nbsp; **Genre:** Action, Adventure &nbsp;|&nbsp; **Released:** April 11
+
+> Follow Lara Croft down a path of discovery as she travels the globe to remote, exotic locales in search of one of history's greatest artifacts, that unleashes unwelcome figures from Lara's mysterious past.
+>
+> _Synopsis source: Steam_
+
+[Steam](https://store.steampowered.com/app/7000)
 
 ---
 
@@ -622,7 +644,15 @@
 
 ### Judge Dredd: Dredd vs. Death
 
-**Platforms:** PlayStation 2, Xbox, GameCube, Windows &nbsp;|&nbsp; **Released:** February 24
+<img src="../images/steam-3710.jpg" alt="Judge Dredd: Dredd vs. Death cover" width="200">
+
+**Platforms:** PlayStation 2, Xbox, GameCube, Windows &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** February 24
+
+> Welcome to Mega-City One, a city of over 400 million people - every one of them a potential criminal. It is the third decade of the 22nd Century, unemployment is widespread, boredom is universal and only the Judges can prevent total anarchy. Empowered to dispense instant justice, they are Judge, Jury and Executioner all in one.
+>
+> _Synopsis source: Steam_
+
+[Steam](https://store.steampowered.com/app/3710)
 
 ---
 
@@ -700,7 +730,15 @@
 
 ### Need for Speed: Most Wanted
 
-**Platforms:** Windows, PlayStation 2, Xbox, GameCube, Game Boy Advance, Nintendo DS, PlayStation Portable, Xbox 360 &nbsp;|&nbsp; **Released:** November 16
+<img src="../images/steam-1262560.jpg" alt="Need for Speed: Most Wanted cover" width="200">
+
+**Platforms:** Windows, PlayStation 2, Xbox, GameCube, Game Boy Advance, Nintendo DS, PlayStation Portable, Xbox 360 &nbsp;|&nbsp; **Genre:** Action, Adventure, Racing &nbsp;|&nbsp; **Released:** November 16
+
+> The open-world action in Need for Speed Most Wanted gives you the freedom to drive your way. Hit jumps and shortcuts, switch cars, lie low or head for terrain that plays to your vehicle’s unique strengths. Fight your way past cops and rivals using skill, high-end car tech and tons of nitrous.
+>
+> _Synopsis source: Steam_
+
+[Steam](https://store.steampowered.com/app/1262560)
 
 ---
 
@@ -732,7 +770,15 @@
 
 ### Prince of Persia: The Two Thrones
 
-**Platforms:** Windows, PlayStation 2, Xbox, GameCube &nbsp;|&nbsp; **Released:** November 30
+<img src="../images/steam-13530.jpg" alt="Prince of Persia: The Two Thrones cover" width="200">
+
+**Platforms:** Windows, PlayStation 2, Xbox, GameCube &nbsp;|&nbsp; **Genre:** Action, Adventure &nbsp;|&nbsp; **Released:** November 30
+
+> The Prince of Persia, a seasoned warrior, returns from the Island of Time to Babylon with his love, Kaileena. Instead of the peace that he longs for, he finds his homeland ravaged by war and the kingdom turned against him.
+>
+> _Synopsis source: Steam_
+
+[Steam](https://store.steampowered.com/app/13530)
 
 ---
 
@@ -846,7 +892,15 @@
 
 ### Tom Clancy's Splinter Cell: Chaos Theory
 
-**Platforms:** Xbox, Windows, PlayStation 2, GameCube &nbsp;|&nbsp; **Publisher:** Ubisoft &nbsp;|&nbsp; **Released:** March 28, 2005
+<img src="../images/steam-13570.jpg" alt="Tom Clancy's Splinter Cell: Chaos Theory cover" width="200">
+
+**Platforms:** Xbox, Windows, PlayStation 2, GameCube &nbsp;|&nbsp; **Publisher:** Ubisoft &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** March 28, 2005
+
+> Experience one of the most critically acclaimed stealth-action games of all time. Uncover a conspiracy that hits close to home and stop World War III.
+>
+> _Synopsis source: Steam_
+
+[Steam](https://store.steampowered.com/app/13570)
 
 ---
 
@@ -1162,7 +1216,15 @@
 
 ### Prince of Persia: Warrior Within
 
-**Platforms:** Windows, GameCube, PlayStation 2, Xbox &nbsp;|&nbsp; **Released:** December 2
+<img src="../images/steam-13500.jpg" alt="Prince of Persia: Warrior Within cover" width="200">
+
+**Platforms:** Windows, GameCube, PlayStation 2, Xbox &nbsp;|&nbsp; **Genre:** Action, Adventure &nbsp;|&nbsp; **Released:** December 2
+
+> Enter the dark underworld of Prince of Persia Warrior Within, the sword-slashing sequel to the critically acclaimed Prince of Persia: The Sands of Time™. Hunted by Dahaka, an immortal incarnation of Fate seeking divine retribution, the Prince embarks upon a path of both carnage and mystery to defy his preordained death.
+>
+> _Synopsis source: Steam_
+
+[Steam](https://store.steampowered.com/app/13500)
 
 ---
 
@@ -1310,7 +1372,15 @@
 
 ### Tom Clancy's Splinter Cell: Pandora Tomorrow
 
-**Platforms:** Xbox, Windows, GameCube, PlayStation 2 &nbsp;|&nbsp; **Publisher:** Ubisoft &nbsp;|&nbsp; **Released:** March 23, 2004
+<img src="../images/steam-3929740.jpg" alt="Tom Clancy's Splinter Cell: Pandora Tomorrow cover" width="200">
+
+**Platforms:** Xbox, Windows, GameCube, PlayStation 2 &nbsp;|&nbsp; **Publisher:** Ubisoft &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** March 23, 2004
+
+> Infiltrate secure locations across the globe in this stealth-action thriller. Uncover a global conspiracy and stop a deadly bio-terror attack in the second game of the award-winning Splinter Cell series.
+>
+> _Synopsis source: Steam_
+
+[Steam](https://store.steampowered.com/app/3929740)
 
 ---
 
@@ -1454,9 +1524,15 @@
 
 ### Freedom Fighters
 
-**Platforms:** Windows, PlayStation 2, Xbox, GameCube &nbsp;|&nbsp; **Released:** October 1
+<img src="../images/steam-1347780.jpg" alt="Freedom Fighters cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/Freedom_Fighters_(video_game))
+**Platforms:** Windows, PlayStation 2, Xbox, GameCube &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** October 1
+
+> Freedom Fighters is an intense third-person action game set in an alternate history New York during the invasion of a foreign superpower. Take on the role of Chris Stone, a hard-working plumber, and rise through the ranks of the resistance to prove yourself as a charismatic leader.
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Freedom_Fighters_(video_game)) · [Steam](https://store.steampowered.com/app/1347780)
 
 ---
 
@@ -1500,7 +1576,15 @@
 
 ### Judge Dredd: Dredd vs. Death
 
-**Platforms:** Windows, GameCube, PlayStation 2, Xbox &nbsp;|&nbsp; **Released:** October 17
+<img src="../images/steam-3710.jpg" alt="Judge Dredd: Dredd vs. Death cover" width="200">
+
+**Platforms:** Windows, GameCube, PlayStation 2, Xbox &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** October 17
+
+> Welcome to Mega-City One, a city of over 400 million people - every one of them a potential criminal. It is the third decade of the 22nd Century, unemployment is widespread, boredom is universal and only the Judges can prevent total anarchy. Empowered to dispense instant justice, they are Judge, Jury and Executioner all in one.
+>
+> _Synopsis source: Steam_
+
+[Steam](https://store.steampowered.com/app/3710)
 
 ---
 
@@ -1624,7 +1708,15 @@
 
 ### Prince of Persia: The Sands of Time
 
-**Platforms:** Xbox, GameCube, PlayStation 2, Windows &nbsp;|&nbsp; **Publisher:** Ubisoft &nbsp;|&nbsp; **Released:** November 18, 2003
+<img src="../images/steam-13600.jpg" alt="Prince of Persia: The Sands of Time cover" width="200">
+
+**Platforms:** Xbox, GameCube, PlayStation 2, Windows &nbsp;|&nbsp; **Publisher:** Ubisoft &nbsp;|&nbsp; **Genre:** Action, Adventure &nbsp;|&nbsp; **Released:** November 18, 2003
+
+> Amidst the scorched sands of ancient Persia, there is a legend spun in an ancient tongue. It speaks of a time borne by blood and ruled by deceit. Drawn to the dark powers of a magic dagger, a young Prince is led to unleash a deadly evil upon a beautiful kingdom.
+>
+> _Synopsis source: Steam_
+
+[Steam](https://store.steampowered.com/app/13600)
 
 ---
 
@@ -1782,9 +1874,15 @@
 
 ### Tom Clancy's Splinter Cell
 
-**Platforms:** Windows, PlayStation 2, GameCube &nbsp;|&nbsp; **Publisher:** Ubisoft &nbsp;|&nbsp; **Released:** February 19, 2003
+<img src="../images/steam-13560.jpg" alt="Tom Clancy's Splinter Cell cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/Tom_Clancy%27s_Splinter_Cell_(video_game))
+**Platforms:** Windows, PlayStation 2, GameCube &nbsp;|&nbsp; **Publisher:** Ubisoft &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** February 19, 2003
+
+> Enter the world of cinematic stealth action with Splinter Cell, the game that propelled the genre to cult status. You are Sam Fisher, an elite covert agent in the NSA's top-secret division: Third Echelon.
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Tom_Clancy%27s_Splinter_Cell_(video_game)) · [Steam](https://store.steampowered.com/app/13560)
 
 ---
 
@@ -2180,7 +2278,15 @@
 
 ### Star Wars Jedi Knight II: Jedi Outcast
 
-**Platforms:** Windows, GameCube, Xbox &nbsp;|&nbsp; **Publisher:** Activision &nbsp;|&nbsp; **Released:** March 26, 2002
+<img src="../images/steam-6030.jpg" alt="Star Wars Jedi Knight II: Jedi Outcast cover" width="200">
+
+**Platforms:** Windows, GameCube, Xbox &nbsp;|&nbsp; **Publisher:** Activision &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** March 26, 2002
+
+> The Legacy of Star Wars Dark Forces™ and Star Wars® Jedi Knight lives on in the intense first-person action of Jedi Outcast.
+>
+> _Synopsis source: Steam_
+
+[Steam](https://store.steampowered.com/app/6030)
 
 ---
 
@@ -2306,7 +2412,15 @@
 
 ### Zapper: One Wicked Cricket
 
-**Platforms:** Windows, PlayStation 2, Xbox, GameCube, Game Boy Advance &nbsp;|&nbsp; **Released:** November 5
+<img src="../images/steam-2766060.jpg" alt="Zapper: One Wicked Cricket cover" width="200">
+
+**Platforms:** Windows, PlayStation 2, Xbox, GameCube, Game Boy Advance &nbsp;|&nbsp; **Genre:** Action, Adventure &nbsp;|&nbsp; **Released:** November 5
+
+> In this action-adventure game, Zapper (a cricket) hops his way through six worlds in a quest to find his brother, held captive by the evil magpie queen. Dangerous traps and even more dangerous enemies await! It will take skill and timing to conquer all the worlds and survive the final showdown.
+>
+> _Synopsis source: Steam_
+
+[Steam](https://store.steampowered.com/app/2766060)
 
 ---
 

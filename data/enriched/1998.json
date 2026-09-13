@@ -100,18 +100,7 @@
     "platforms": [
       "Windows"
     ],
-    "steam": {
-      "appid": 316790,
-      "name": "Grim Fandango Remastered",
-      "short_description": "One of the most acclaimed adventure games of all time is now back, better than ever. Grim Fandango Remastered has the all the beautiful art and engaging story fans remember, but has also been remastered to look, sound, and control even better than the award-winning original release.",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/316790/header.jpg?t=1731602112",
-      "genres": [
-        "Adventure"
-      ],
-      "release_date": "Jan 26, 2015",
-      "site_url": "https://store.steampowered.com/app/316790",
-      "year_match": false
-    }
+    "steam": null
   },
   {
     "year": 1998,
@@ -166,22 +155,7 @@
     "platforms": [
       "Windows"
     ],
-    "steam": {
-      "appid": 3476660,
-      "name": "Star Crafter",
-      "short_description": "A space survival crafting mining base building and star system building game. Craft rockets to create planets and Dyson Rings, mine and craft advanced materials, terraform the terrain, manage electricity, farm food, and more as you watch the star system evolve into stunning, ever-changing views.",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3476660/header.jpg?t=1759438703",
-      "genres": [
-        "Action",
-        "Adventure",
-        "Casual",
-        "Indie",
-        "Simulation"
-      ],
-      "release_date": "Sep 26, 2025",
-      "site_url": "https://store.steampowered.com/app/3476660",
-      "year_match": false
-    }
+    "steam": null
   },
   {
     "year": 1998,
@@ -267,20 +241,7 @@
     "platforms": [
       "Windows"
     ],
-    "steam": {
-      "appid": 1086940,
-      "name": "Baldur's Gate 3",
-      "short_description": "Baldur’s Gate 3 is a story-rich, party-based RPG set in the universe of Dungeons &amp; Dragons, where your choices shape a tale of fellowship and betrayal, survival and sacrifice, and the lure of absolute power.",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/48a2fcbda8565bb45025e98fd8ebde8a7203f6a0/header.jpg?t=1777363040",
-      "genres": [
-        "Adventure",
-        "RPG",
-        "Strategy"
-      ],
-      "release_date": "Aug 3, 2023",
-      "site_url": "https://store.steampowered.com/app/1086940",
-      "year_match": false
-    }
+    "steam": null
   },
   {
     "year": 1998,
@@ -426,19 +387,7 @@
     "platforms": [
       "Windows"
     ],
-    "steam": {
-      "appid": 301650,
-      "name": "Battlezone 98 Redux",
-      "short_description": "One of the greatest sci-fi strategy games of all time returns with remastered visuals, online multiplayer and near unlimited mod content from Steam Workshop. Experience thrilling first person action and acclaimed RTS in this explosive alternate vision of the 1960s space race.",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/301650/header.jpg?t=1579791137",
-      "genres": [
-        "Action",
-        "Strategy"
-      ],
-      "release_date": "Apr 18, 2016",
-      "site_url": "https://store.steampowered.com/app/301650",
-      "year_match": false
-    }
+    "steam": null
   },
   {
     "year": 1998,
@@ -533,19 +482,7 @@
     "platforms": [
       "Windows"
     ],
-    "steam": {
-      "appid": 1335560,
-      "name": "UNREAL LIFE",
-      "short_description": "And now, for today's story.",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1335560/header.jpg?t=1728639465",
-      "genres": [
-        "Adventure",
-        "Indie"
-      ],
-      "release_date": "Nov 19, 2020",
-      "site_url": "https://store.steampowered.com/app/1335560",
-      "year_match": false
-    }
+    "steam": null
   },
   {
     "year": 1998,
@@ -697,7 +634,7 @@
       "appid": 610860,
       "name": "Shogo: Mobile Armor Division",
       "short_description": "Shogo is an anime-inspired first-person shooter. Fight on foot or pilot a giant mech in both open and urban levels. You will know the true power of giant robots!",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/610860/header.jpg?t=1762284684",
+      "image_path": "images/steam-610860.jpg",
       "genres": [
         "Action",
         "Adventure",
@@ -705,7 +642,7 @@
       ],
       "release_date": "Apr 14, 2017",
       "site_url": "https://store.steampowered.com/app/610860",
-      "year_match": false
+      "year_match": true
     }
   },
   {

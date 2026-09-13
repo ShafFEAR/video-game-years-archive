@@ -10,9 +10,15 @@
 
 ### Mina the Hollower
 
-**Platforms:** Windows, Nintendo Switch, Nintendo Switch 2, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S &nbsp;|&nbsp; **Developer:** Yacht Club Games &nbsp;|&nbsp; **Publisher:** Yacht Club Games &nbsp;|&nbsp; **Released:** May 29, 2026
+<img src="../images/steam-1875580.jpg" alt="Mina the Hollower cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/Mina_the_Hollower)
+**Platforms:** Windows, Nintendo Switch, Nintendo Switch 2, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S &nbsp;|&nbsp; **Developer:** Yacht Club Games &nbsp;|&nbsp; **Publisher:** Yacht Club Games &nbsp;|&nbsp; **Genre:** Action, Adventure &nbsp;|&nbsp; **Released:** May 29, 2026
+
+> Take control of Mina, a renowned Hollower hurtled into a desperate mission to rescue a cursed island. Whip foes, burrow through the ground, and explore a pixel-perfect world in Mina the Hollower, a brand new game from the developers who brought you Shovel Knight!
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Mina_the_Hollower) · [Steam](https://store.steampowered.com/app/1875580)
 
 ---
 
@@ -22,15 +28,29 @@
 
 ### Hades II
 
-**Platforms:** Windows, Nintendo Switch, Nintendo Switch 2 &nbsp;|&nbsp; **Developer:** Supergiant Games &nbsp;|&nbsp; **Publisher:** Supergiant Games &nbsp;|&nbsp; **Released:** September 25, 2025
+<img src="../images/steam-1145350.jpg" alt="Hades II cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/Hades_II)
+**Platforms:** Windows, Nintendo Switch, Nintendo Switch 2 &nbsp;|&nbsp; **Developer:** Supergiant Games &nbsp;|&nbsp; **Publisher:** Supergiant Games &nbsp;|&nbsp; **Genre:** Action, Indie, RPG &nbsp;|&nbsp; **Released:** September 25, 2025
+
+> Battle beyond the Underworld using dark sorcery to take on the Titan of Time in this bewitching sequel to the award-winning rogue-like dungeon crawler.
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Hades_II) · [Steam](https://store.steampowered.com/app/1145350)
 
 ---
 
 ### Hollow Knight: Silksong
 
-**Platforms:** Windows, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S, Nintendo Switch, Nintendo Switch 2 &nbsp;|&nbsp; **Developer:** Team Cherry &nbsp;|&nbsp; **Publisher:** Team Cherry &nbsp;|&nbsp; **Released:** September 4, 2025
+<img src="../images/steam-1030300.jpg" alt="Hollow Knight: Silksong cover" width="200">
+
+**Platforms:** Windows, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S, Nintendo Switch, Nintendo Switch 2 &nbsp;|&nbsp; **Developer:** Team Cherry &nbsp;|&nbsp; **Publisher:** Team Cherry &nbsp;|&nbsp; **Genre:** Action, Adventure, Indie &nbsp;|&nbsp; **Released:** September 4, 2025
+
+> Discover a vast, haunted kingdom in Hollow Knight: Silksong! Explore, fight and survive as you ascend to the peak of a land ruled by silk and song.
+>
+> _Synopsis source: Steam_
+
+[Steam](https://store.steampowered.com/app/1030300)
 
 ---
 
@@ -40,17 +60,29 @@
 
 ### Animal Well
 
-**Platforms:** PlayStation 5, Nintendo Switch, Windows, Xbox Series X/S &nbsp;|&nbsp; **Developer:** Shared Memory &nbsp;|&nbsp; **Publisher:** Bigmode &nbsp;|&nbsp; **Released:** May 9, 2024
+<img src="../images/steam-813230.jpg" alt="Animal Well cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/Animal_Well)
+**Platforms:** PlayStation 5, Nintendo Switch, Windows, Xbox Series X/S &nbsp;|&nbsp; **Developer:** Shared Memory &nbsp;|&nbsp; **Publisher:** Bigmode &nbsp;|&nbsp; **Genre:** Action, Adventure, Indie &nbsp;|&nbsp; **Released:** May 9, 2024
+
+> Explore a dense, interconnected labyrinth, and unravel its many secrets. Collect items to manipulate your environment in surprising and meaningful ways. Encounter beautiful and unsettling creatures, as you attempt to survive what lurks in the dark. There is more than what you see.
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Animal_Well) · [Steam](https://store.steampowered.com/app/813230)
 
 ---
 
 ### Balatro
 
-**Platforms:** Android, iOS, macOS, Nintendo Switch, PlayStation 4, PlayStation 5, Windows, Xbox One, Xbox Series X/S &nbsp;|&nbsp; **Developer:** LocalThunk &nbsp;|&nbsp; **Publisher:** Playstack &nbsp;|&nbsp; **Released:** February 20, 2024
+<img src="../images/steam-2379780.jpg" alt="Balatro cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/Balatro)
+**Platforms:** Android, iOS, macOS, Nintendo Switch, PlayStation 4, PlayStation 5, Windows, Xbox One, Xbox Series X/S &nbsp;|&nbsp; **Developer:** LocalThunk &nbsp;|&nbsp; **Publisher:** Playstack &nbsp;|&nbsp; **Genre:** Casual, Indie, Strategy &nbsp;|&nbsp; **Released:** February 20, 2024
+
+> The poker roguelike. Balatro is a hypnotically satisfying deckbuilder where you play illegal poker hands, discover game-changing jokers, and trigger adrenaline-pumping, outrageous combos.
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Balatro) · [Steam](https://store.steampowered.com/app/2379780)
 
 ---
 
@@ -74,9 +106,15 @@
 
 ### Dave the Diver
 
-**Platforms:** macOS, Nintendo Switch, PlayStation 4, PlayStation 5, Windows &nbsp;|&nbsp; **Developer:** Mintrocket &nbsp;|&nbsp; **Publisher:** Mintrocket &nbsp;|&nbsp; **Released:** June 28, 2023
+<img src="../images/steam-1868140.jpg" alt="Dave the Diver cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/Dave_the_Diver)
+**Platforms:** macOS, Nintendo Switch, PlayStation 4, PlayStation 5, Windows &nbsp;|&nbsp; **Developer:** Mintrocket &nbsp;|&nbsp; **Publisher:** Mintrocket &nbsp;|&nbsp; **Genre:** Adventure, Casual, RPG, Simulation &nbsp;|&nbsp; **Released:** June 28, 2023
+
+> DAVE THE DIVER is a casual, singleplayer adventure RPG featuring deep-sea exploration and fishing during the day and sushi restaurant management at night. Join Dave and his quirky friends as they seek to uncover the secrets of the mysterious Blue Hole.
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Dave_the_Diver) · [Steam](https://store.steampowered.com/app/1868140)
 
 ---
 
@@ -132,17 +170,29 @@
 
 ### Chained Echoes
 
-**Platforms:** Windows, Nintendo Switch &nbsp;|&nbsp; **Developer:** Matthias Linda &nbsp;|&nbsp; **Publisher:** Deck13 &nbsp;|&nbsp; **Released:** December 8, 2022
+<img src="../images/steam-1229240.jpg" alt="Chained Echoes cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/Chained_Echoes)
+**Platforms:** Windows, Nintendo Switch &nbsp;|&nbsp; **Developer:** Matthias Linda &nbsp;|&nbsp; **Publisher:** Deck13 &nbsp;|&nbsp; **Genre:** Indie, RPG &nbsp;|&nbsp; **Released:** December 8, 2022
+
+> Take up your sword, channel your magic or board your Mech. Chained Echoes is a 16-bit style RPG set in a fantasy world where dragons are as common as piloted mechanical suits.
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Chained_Echoes) · [Steam](https://store.steampowered.com/app/1229240)
 
 ---
 
 ### Persona 5 Royal
 
-**Platforms:** Windows, Nintendo Switch, Xbox Series X/S, PlayStation 5 &nbsp;|&nbsp; **Developer:** Atlus &nbsp;|&nbsp; **Publisher:** Sega &nbsp;|&nbsp; **Released:** October 21, 2022
+<img src="../images/steam-1687950.jpg" alt="Persona 5 Royal cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/Persona_5_Royal)
+**Platforms:** Windows, Nintendo Switch, Xbox Series X/S, PlayStation 5 &nbsp;|&nbsp; **Developer:** Atlus &nbsp;|&nbsp; **Publisher:** Sega &nbsp;|&nbsp; **Genre:** RPG &nbsp;|&nbsp; **Released:** October 21, 2022
+
+> Lead the Phantom Thieves of Hearts in this award winning, stylish turn-based RPG filled with dungeon crawling, party customization, strategic combat, and Persona fusion. Explore Tokyo, build relationships, battle Shadows, and infiltrate the minds of the corrupt to make them change their ways!
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Persona_5_Royal) · [Steam](https://store.steampowered.com/app/1687950)
 
 ---
 
@@ -192,9 +242,15 @@
 
 ### Hades
 
-**Platforms:** Windows, Nintendo Switch &nbsp;|&nbsp; **Developer:** Supergiant Games &nbsp;|&nbsp; **Publisher:** Supergiant Games &nbsp;|&nbsp; **Released:** September 17, 2020
+<img src="../images/steam-1145360.jpg" alt="Hades cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/Hades_(video_game))
+**Platforms:** Windows, Nintendo Switch &nbsp;|&nbsp; **Developer:** Supergiant Games &nbsp;|&nbsp; **Publisher:** Supergiant Games &nbsp;|&nbsp; **Genre:** Action, Indie, RPG &nbsp;|&nbsp; **Released:** September 17, 2020
+
+> Defy the god of the dead as you hack and slash out of the Underworld in this rogue-like dungeon crawler from the creators of Bastion, Transistor, and Pyre.
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Hades_(video_game)) · [Steam](https://store.steampowered.com/app/1145360)
 
 ---
 

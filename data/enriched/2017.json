@@ -1,0 +1,340 @@
+[
+  {
+    "year": 2017,
+    "section": "Critically acclaimed games",
+    "title": "The Legend of Zelda: Breath of the Wild",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "developer": "Nintendo EPD",
+    "publisher": "Nintendo",
+    "release_date": "March 3, 2017",
+    "average score out of 100": "97",
+    "platform_breakdown": {
+      "platform": "WiiU"
+    },
+    "platforms": [
+      "Nintendo Switch",
+      "Wii U"
+    ]
+  },
+  {
+    "year": 2017,
+    "section": "Critically acclaimed games",
+    "title": "Super Mario Odyssey",
+    "wiki_title": "Super Mario Odyssey",
+    "wiki_url": "https://en.wikipedia.org/wiki/Super_Mario_Odyssey",
+    "redlink": false,
+    "developer": "Nintendo EPD",
+    "publisher": "Nintendo",
+    "release_date": "October 27, 2017",
+    "average score out of 100": "97",
+    "platform_breakdown": {
+      "platform": "NS"
+    },
+    "platforms": [
+      "Nintendo Switch"
+    ]
+  },
+  {
+    "year": 2017,
+    "section": "Critically acclaimed games",
+    "title": "Divinity: Original Sin II",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "developer": "Larian Studios",
+    "publisher": "Larian Studios",
+    "release_date": "September 14, 2017",
+    "average score out of 100": "93",
+    "platform_breakdown": {
+      "platform": "WIN"
+    },
+    "platforms": [
+      "Windows"
+    ],
+    "steam": {
+      "appid": 435150,
+      "name": "Divinity: Original Sin 2 - Definitive Edition",
+      "short_description": "The critically acclaimed RPG that raised the bar, from the creators of Baldur's Gate 3. Gather your party. Master deep, tactical combat. Venture as a party of up to four - but know that only one of you will have the chance to become a God.",
+      "image_path": "images/steam-435150.jpg",
+      "genres": [
+        "Adventure",
+        "RPG",
+        "Strategy"
+      ],
+      "release_date": "Sep 14, 2017",
+      "site_url": "https://store.steampowered.com/app/435150",
+      "year_match": true
+    }
+  },
+  {
+    "year": 2017,
+    "section": "Critically acclaimed games",
+    "title": "Persona 5",
+    "wiki_title": "Persona 5",
+    "wiki_url": "https://en.wikipedia.org/wiki/Persona_5",
+    "redlink": false,
+    "developer": "P-Studio",
+    "publisher": "Atlus",
+    "release_date": "April 4, 2017",
+    "average score out of 100": "93",
+    "platform_breakdown": {
+      "platform": "PS4"
+    },
+    "platforms": [
+      "PlayStation 4"
+    ]
+  },
+  {
+    "year": 2017,
+    "section": "Critically acclaimed games",
+    "title": "What Remains of Edith Finch",
+    "wiki_title": "What Remains of Edith Finch",
+    "wiki_url": "https://en.wikipedia.org/wiki/What_Remains_of_Edith_Finch",
+    "redlink": false,
+    "developer": "Giant Sparrow",
+    "publisher": "Annapurna Interactive",
+    "release_date": "July 19, 2017",
+    "average score out of 100": "92",
+    "platform_breakdown": {
+      "platform": "XBO"
+    },
+    "platforms": [
+      "Xbox One"
+    ]
+  },
+  {
+    "year": 2017,
+    "section": "Critically acclaimed games",
+    "title": "Undertale",
+    "wiki_title": "Undertale",
+    "wiki_url": "https://en.wikipedia.org/wiki/Undertale",
+    "redlink": false,
+    "developer": "8-4",
+    "publisher": "8-4",
+    "release_date": "August 15, 2017",
+    "average score out of 100": "92",
+    "platform_breakdown": {
+      "platform": "PS4"
+    },
+    "platforms": [
+      "PlayStation 4"
+    ]
+  },
+  {
+    "year": 2017,
+    "section": "Critically acclaimed games",
+    "title": "Ōkami HD",
+    "wiki_title": "Ōkami#High-definition remaster",
+    "wiki_url": "https://en.wikipedia.org/wiki/%C5%8Ckami#High-definition_remaster",
+    "redlink": false,
+    "developer": "Capcom",
+    "publisher": "Capcom",
+    "release_date": "December 12, 2017",
+    "average score out of 100": "92",
+    "platform_breakdown": {
+      "platform": "WIN"
+    },
+    "platforms": [
+      "Windows"
+    ],
+    "steam": {
+      "appid": 587620,
+      "name": "Okami HD",
+      "short_description": "Experience the critically acclaimed masterpiece with its renowned Sumi-e ink art style in breathtaking high resolution.",
+      "image_path": "images/steam-587620.jpg",
+      "genres": [
+        "Adventure"
+      ],
+      "release_date": "Dec 12, 2017",
+      "site_url": "https://store.steampowered.com/app/587620",
+      "year_match": true
+    }
+  },
+  {
+    "year": 2017,
+    "section": "Critically acclaimed games",
+    "title": "Mario Kart 8 Deluxe",
+    "wiki_title": "Mario Kart 8",
+    "wiki_url": "https://en.wikipedia.org/wiki/Mario_Kart_8",
+    "redlink": false,
+    "developer": "Nintendo EPD",
+    "publisher": "Nintendo",
+    "release_date": "April 28, 2017",
+    "average score out of 100": "92",
+    "platform_breakdown": {
+      "platform": "NS"
+    },
+    "platforms": [
+      "Nintendo Switch"
+    ]
+  },
+  {
+    "year": 2017,
+    "section": "Critically acclaimed games",
+    "title": "SteamWorld Heist: Ultimate Edition",
+    "wiki_title": "SteamWorld Heist",
+    "wiki_url": "https://en.wikipedia.org/wiki/SteamWorld_Heist",
+    "redlink": false,
+    "developer": "Image & Form",
+    "publisher": "Image & Form",
+    "release_date": "December 28, 2017",
+    "average score out of 100": "91",
+    "platform_breakdown": {
+      "platform": "NS"
+    },
+    "platforms": [
+      "Nintendo Switch"
+    ]
+  },
+  {
+    "year": 2017,
+    "section": "Critically acclaimed games",
+    "title": "Shovel Knight: Treasure Trove",
+    "wiki_title": "Shovel Knight",
+    "wiki_url": "https://en.wikipedia.org/wiki/Shovel_Knight",
+    "redlink": false,
+    "developer": "Yacht Club Games",
+    "publisher": "Yacht Club Games",
+    "release_date": "March 3, 2017",
+    "average score out of 100": "91",
+    "platform_breakdown": {
+      "platform": "NS"
+    },
+    "platforms": [
+      "Nintendo Switch"
+    ]
+  },
+  {
+    "year": 2017,
+    "section": "Critically acclaimed games",
+    "title": "Retro City Rampage DX",
+    "wiki_title": "Retro City Rampage",
+    "wiki_url": "https://en.wikipedia.org/wiki/Retro_City_Rampage",
+    "redlink": false,
+    "developer": "Vblank Entertainment",
+    "publisher": "Vblank Entertainment",
+    "release_date": "August 3, 2017",
+    "average score out of 100": "91",
+    "platform_breakdown": {
+      "platform": "NS"
+    },
+    "platforms": [
+      "Nintendo Switch"
+    ]
+  },
+  {
+    "year": 2017,
+    "section": "Critically acclaimed games",
+    "title": "Bayonetta",
+    "wiki_title": "Bayonetta (video game)",
+    "wiki_url": "https://en.wikipedia.org/wiki/Bayonetta_(video_game)",
+    "redlink": false,
+    "developer": "PlatinumGames",
+    "publisher": "Sega",
+    "release_date": "April 11, 2017",
+    "average score out of 100": "90",
+    "platform_breakdown": {
+      "platform": "WIN"
+    },
+    "platforms": [
+      "Windows"
+    ],
+    "steam": {
+      "appid": 460790,
+      "name": "Bayonetta",
+      "short_description": "PlatinumGames’ universally acclaimed action masterpiece finally comes to PC. Experience the over-the-top stylish action in 60fps at unlocked HD resolutions. The definitive way to play: being bad never felt so good.",
+      "image_path": "images/steam-460790.jpg",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "release_date": "Apr 11, 2017",
+      "site_url": "https://store.steampowered.com/app/460790",
+      "year_match": true
+    }
+  },
+  {
+    "year": 2017,
+    "section": "Critically acclaimed games",
+    "title": "Opus Magnum",
+    "wiki_title": "Opus Magnum",
+    "wiki_url": "https://en.wikipedia.org/wiki/Opus_Magnum",
+    "redlink": false,
+    "developer": "Zachtronics",
+    "publisher": "Zachtronics",
+    "release_date": "December 8, 2017",
+    "average score out of 100": "90",
+    "platform_breakdown": {
+      "platform": "WIN"
+    },
+    "platforms": [
+      "Windows"
+    ],
+    "steam": {
+      "appid": 558990,
+      "name": "Opus Magnum",
+      "short_description": "Opus Magnum is the latest open-ended puzzle game from Zachtronics, the creators of SpaceChem, Infinifactory, and SHENZHEN I/O. Design and build machines that assemble potions, poisons, and more using the alchemical engineer’s most advanced tool: the transmutation engine!",
+      "image_path": "images/steam-558990.jpg",
+      "genres": [
+        "Indie",
+        "Simulation"
+      ],
+      "release_date": "Dec 7, 2017",
+      "site_url": "https://store.steampowered.com/app/558990",
+      "year_match": true
+    }
+  },
+  {
+    "year": 2017,
+    "section": "Critically acclaimed games",
+    "title": "Pinball FX 3: Universal Classics Pinball",
+    "wiki_title": "Pinball FX 3",
+    "wiki_url": "https://en.wikipedia.org/wiki/Pinball_FX_3",
+    "redlink": false,
+    "developer": "Zen Studios",
+    "publisher": "Zen Studios",
+    "release_date": "September 26, 2017",
+    "average score out of 100": "90",
+    "platform_breakdown": {
+      "platform": "XBO"
+    },
+    "platforms": [
+      "Xbox One"
+    ]
+  },
+  {
+    "year": 2017,
+    "section": "Critically acclaimed games",
+    "title": "Linelight",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "developer": "My Dog Zorro",
+    "publisher": "My Dog Zorro",
+    "release_date": "January 30, 2017",
+    "average score out of 100": "90",
+    "platform_breakdown": {
+      "platform": "WIN"
+    },
+    "platforms": [
+      "Windows"
+    ],
+    "steam": {
+      "appid": 469790,
+      "name": "Linelight",
+      "short_description": "Linelight is an elegant puzzle game set in a world of lines.",
+      "image_path": "images/steam-469790.jpg",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Casual",
+        "Indie"
+      ],
+      "release_date": "Jan 30, 2017",
+      "site_url": "https://store.steampowered.com/app/469790",
+      "year_match": true
+    }
+  }
+]

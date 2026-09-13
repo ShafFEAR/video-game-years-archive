@@ -80,9 +80,15 @@
 
 ### Dungeon Defenders
 
-**Platforms:** PlayStation Network, Windows, Xbox 360 &nbsp;|&nbsp; **Released:** October 18
+<img src="../images/steam-65800.jpg" alt="Dungeon Defenders cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/Dungeon_Defenders)
+**Platforms:** PlayStation Network, Windows, Xbox 360 &nbsp;|&nbsp; **Genre:** Action, Indie, RPG, Strategy &nbsp;|&nbsp; **Released:** October 18
+
+> Create a hero from one of four classes to save Etheria in this 4-player coop Tower Defense Action-RPG. Includes Steam exclusive Portal gun &amp; TF2 familiars!
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Dungeon_Defenders) · [Steam](https://store.steampowered.com/app/65800)
 
 ---
 
@@ -134,9 +140,15 @@
 
 ### Gatling Gears
 
-**Platforms:** Xbox 360, PlayStation Network, Windows &nbsp;|&nbsp; **Released:** May 11
+<img src="../images/steam-102810.jpg" alt="Gatling Gears cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/Gatling_Gears)
+**Platforms:** Xbox 360, PlayStation Network, Windows &nbsp;|&nbsp; **Genre:** Action, Adventure, Indie &nbsp;|&nbsp; **Released:** May 11
+
+> When the Empire begins its reign of destruction in a thirst for natural resources, it’s up to Max Brawley, a retired Gatling Gear pilot, to stop them.
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Gatling_Gears) · [Steam](https://store.steampowered.com/app/102810)
 
 ---
 
@@ -164,9 +176,15 @@
 
 ### Limbo
 
-**Platforms:** PlayStation 3, Xbox 360, PlayStation Network, Windows &nbsp;|&nbsp; **Publisher:** Playdead &nbsp;|&nbsp; **Released:** July 19, 2011
+<img src="../images/steam-48000.jpg" alt="Limbo cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/Limbo_(video_game))
+**Platforms:** PlayStation 3, Xbox 360, PlayStation Network, Windows &nbsp;|&nbsp; **Publisher:** Playdead &nbsp;|&nbsp; **Genre:** Action, Adventure, Indie &nbsp;|&nbsp; **Released:** July 19, 2011
+
+> Uncertain of his sister's fate, a boy enters LIMBO
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Limbo_(video_game)) · [Steam](https://store.steampowered.com/app/48000)
 
 ---
 
@@ -226,7 +244,15 @@
 
 ### Payday: The Heist
 
-**Platforms:** PlayStation Network, Windows &nbsp;|&nbsp; **Released:** October 18
+<img src="../images/steam-24240.jpg" alt="Payday: The Heist cover" width="200">
+
+**Platforms:** PlayStation Network, Windows &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** October 18
+
+> Take on the role of a hardened career criminal executing intense, dynamic heists in constant pursuit of the next “big score”
+>
+> _Synopsis source: Steam_
+
+[Steam](https://store.steampowered.com/app/24240)
 
 ---
 
@@ -238,9 +264,15 @@
 
 ### Rock of Ages
 
-**Platforms:** Windows, Xbox 360, PlayStation Network &nbsp;|&nbsp; **Released:** August 31
+<img src="../images/steam-22230.jpg" alt="Rock of Ages cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/Rock_of_Ages_(video_game))
+**Platforms:** Windows, Xbox 360, PlayStation Network &nbsp;|&nbsp; **Genre:** Action, Indie, Racing, Strategy &nbsp;|&nbsp; **Released:** August 31
+
+> A rock-solid combination of rock-rolling action, deep strategy, and captivating art and music from different ages of history, this is a game of crush or be crushed!
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Rock_of_Ages_(video_game)) · [Steam](https://store.steampowered.com/app/22230)
 
 ---
 
@@ -320,7 +352,15 @@
 
 ### Alien Breed 3: Descent
 
-**Platforms:** PlayStation Network, Windows, Xbox 360 &nbsp;|&nbsp; **Released:** November 17
+<img src="../images/steam-22670.jpg" alt="Alien Breed 3: Descent cover" width="200">
+
+**Platforms:** PlayStation Network, Windows, Xbox 360 &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** November 17
+
+> Experience the final explosive chapter in the Alien Breed series and uncover the horrifying truth surrounding the existence of the Breed. Launch discount good thru Nov. 24 10am PST.
+>
+> _Synopsis source: Steam_
+
+[Steam](https://store.steampowered.com/app/22670)
 
 ---
 
@@ -364,9 +404,15 @@
 
 ### Blade Kitten
 
-**Platforms:** PlayStation Network, Windows, Xbox 360 &nbsp;|&nbsp; **Released:** September 22
+<img src="../images/steam-9940.jpg" alt="Blade Kitten cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/Blade_Kitten)
+**Platforms:** PlayStation Network, Windows, Xbox 360 &nbsp;|&nbsp; **Genre:** Action, Adventure &nbsp;|&nbsp; **Released:** September 22
+
+> In Blade Kitten, join Kit Ballard as she explores the mysterious world of Hollow Wish to hunt down rogue mechs and soft targets.
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Blade_Kitten) · [Steam](https://store.steampowered.com/app/9940)
 
 ---
 
@@ -410,9 +456,15 @@
 
 ### DeathSpank
 
-**Platforms:** PlayStation Network, Xbox 360, Windows &nbsp;|&nbsp; **Released:** July 13
+<img src="../images/steam-18040.jpg" alt="DeathSpank cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/DeathSpank)
+**Platforms:** PlayStation Network, Xbox 360, Windows &nbsp;|&nbsp; **Genre:** Action, Indie, RPG &nbsp;|&nbsp; **Released:** July 13
+
+> For uncounted years, DeathSpank has been a Dispenser of Justice, a Vanquisher of Evil, and a Hero to the Downtrodden.
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/DeathSpank) · [Steam](https://store.steampowered.com/app/18040)
 
 ---
 
@@ -432,9 +484,15 @@
 
 ### Greed Corp
 
-**Platforms:** Xbox 360, PlayStation Network, Windows &nbsp;|&nbsp; **Released:** February 24
+<img src="../images/steam-48950.jpg" alt="Greed Corp cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/Greed_Corp)
+**Platforms:** Xbox 360, PlayStation Network, Windows &nbsp;|&nbsp; **Genre:** Strategy &nbsp;|&nbsp; **Released:** February 24
+
+> Turn-based strategy at its finest.
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Greed_Corp) · [Steam](https://store.steampowered.com/app/48950)
 
 ---
 
@@ -452,9 +510,15 @@
 
 ### Lara Croft and the Guardian of Light
 
-**Platforms:** Xbox 360, PlayStation Network, Windows, iOS &nbsp;|&nbsp; **Released:** August 18
+<img src="../images/steam-35130.jpg" alt="Lara Croft and the Guardian of Light cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/Lara_Croft_and_the_Guardian_of_Light)
+**Platforms:** Xbox 360, PlayStation Network, Windows, iOS &nbsp;|&nbsp; **Genre:** Action, Adventure &nbsp;|&nbsp; **Released:** August 18
+
+> Take control of Lara and her new partner Totec, a Mayan tribesman, and uncover the ancient artifact known as the &quot;Mirror of Smoke&quot; in this all new action adventure game.
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Lara_Croft_and_the_Guardian_of_Light) · [Steam](https://store.steampowered.com/app/35130)
 
 ---
 
@@ -590,9 +654,15 @@
 
 ### Braid
 
-**Platforms:** PlayStation 3, Windows, PlayStation Network &nbsp;|&nbsp; **Publisher:** Number None &nbsp;|&nbsp; **Released:** November 12, 2009
+<img src="../images/steam-26800.jpg" alt="Braid cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/Braid_(video_game))
+**Platforms:** PlayStation 3, Windows, PlayStation Network &nbsp;|&nbsp; **Publisher:** Number None &nbsp;|&nbsp; **Genre:** Casual, Indie, Strategy &nbsp;|&nbsp; **Released:** November 12, 2009
+
+> This is the original version of Braid from 2009, which may not work well on newer systems. For an updated version of the game with nicer graphics, more levels and a large amount of developer commentary, see Braid, Anniversary Edition.
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Braid_(video_game)) · [Steam](https://store.steampowered.com/app/26800)
 
 ---
 
@@ -712,9 +782,15 @@
 
 ### Plants vs. Zombies
 
-**Platforms:** Windows, macOS, iOS, Xbox 360, PlayStation Network, Nintendo DS, Bada, Android, Windows Phone, PlayStation Vita, BlackBerry OS &nbsp;|&nbsp; **Publisher:** PopCap Games &nbsp;|&nbsp; **Released:** May 5, 2009
+<img src="../images/steam-3590.jpg" alt="Plants vs. Zombies cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/Plants_vs._Zombies)
+**Platforms:** Windows, macOS, iOS, Xbox 360, PlayStation Network, Nintendo DS, Bada, Android, Windows Phone, PlayStation Vita, BlackBerry OS &nbsp;|&nbsp; **Publisher:** PopCap Games &nbsp;|&nbsp; **Genre:** Strategy &nbsp;|&nbsp; **Released:** May 5, 2009
+
+> Zombies are invading your home, and the only defense is your arsenal of plants! Armed with an alien nursery-worth of zombie-zapping plants like peashooters and cherry bombs, you'll need to think fast and plant faster to stop dozens of types of zombies dead in their tracks.
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Plants_vs._Zombies) · [Steam](https://store.steampowered.com/app/3590)
 
 ---
 
@@ -792,9 +868,15 @@
 
 ### Bionic Commando Rearmed
 
-**Platforms:** Xbox 360, PlayStation 3, PlayStation Network, Windows &nbsp;|&nbsp; **Publisher:** Capcom &nbsp;|&nbsp; **Released:** August 13, 2008
+<img src="../images/steam-21680.jpg" alt="Bionic Commando Rearmed cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/Bionic_Commando_Rearmed)
+**Platforms:** Xbox 360, PlayStation 3, PlayStation Network, Windows &nbsp;|&nbsp; **Publisher:** Capcom &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** August 13, 2008
+
+> Classic side-scrolling gameplay is reporting back for duty with Bionic Commando Rearmed, a remake of the classic NES game, out now on PC.20 years after the 8-bit classic was released, Bionic Commando Rearmed recreates the world of the original with a complete &quot;2.5D&quot; visual revamp.
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Bionic_Commando_Rearmed) · [Steam](https://store.steampowered.com/app/21680)
 
 ---
 

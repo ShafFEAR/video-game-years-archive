@@ -1,0 +1,126 @@
+[
+  {
+    "year": 2026,
+    "section": "Critically acclaimed games",
+    "title": "Big Walk",
+    "wiki_title": "Big Walk",
+    "wiki_url": "https://en.wikipedia.org/wiki/Big_Walk",
+    "redlink": false,
+    "developer": "House House",
+    "publisher": "Panic",
+    "release_date": "August 4, 2026",
+    "average score": "91",
+    "platform_breakdown": {
+      "platform(s)": "macOS , PS5 , WIN , NS2"
+    },
+    "platforms": [
+      "macOS",
+      "PlayStation 5",
+      "Windows",
+      "Nintendo Switch 2"
+    ],
+    "steam": {
+      "appid": 1478500,
+      "name": "Big Walk",
+      "short_description": "Hang out and get lost with close friends in a big world. A cooperative online walker-talker from the creators of Untitled Goose Game.",
+      "image_path": "images/steam-1478500.jpg",
+      "genres": [
+        "Adventure"
+      ],
+      "release_date": "Aug 4, 2026",
+      "site_url": "https://store.steampowered.com/app/1478500",
+      "year_match": true
+    }
+  },
+  {
+    "year": 2026,
+    "section": "Critically acclaimed games",
+    "title": "Doom: The Dark Ages – Revelations",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "developer": "id Software",
+    "publisher": "Bethesda Softworks",
+    "release_date": "July 6, 2026",
+    "average score": "91",
+    "platform_breakdown": {
+      "platform(s)": "PS5 , WIN , XBX/S"
+    },
+    "platforms": [
+      "PlayStation 5",
+      "Windows",
+      "Xbox Series X/S"
+    ],
+    "steam": null
+  },
+  {
+    "year": 2026,
+    "section": "Critically acclaimed games",
+    "title": "Forza Horizon 6",
+    "wiki_title": "Forza Horizon 6",
+    "wiki_url": "https://en.wikipedia.org/wiki/Forza_Horizon_6",
+    "redlink": false,
+    "developer": "Playground Games",
+    "publisher": "Xbox Game Studios",
+    "release_date": "May 19, 2026",
+    "average score": "90",
+    "platform_breakdown": {
+      "platform(s)": "WIN , XBX/S"
+    },
+    "platforms": [
+      "Windows",
+      "Xbox Series X/S"
+    ],
+    "steam": {
+      "appid": 2483190,
+      "name": "Forza Horizon 6",
+      "short_description": "Discover the breathtaking landscapes of Japan in over 550 real-world cars and become a racing Legend in Forza Horizon's biggest open world driving adventure yet.",
+      "image_path": "images/steam-2483190.jpg",
+      "genres": [
+        "Racing",
+        "Simulation",
+        "Sports"
+      ],
+      "release_date": "May 18, 2026",
+      "site_url": "https://store.steampowered.com/app/2483190",
+      "year_match": true
+    }
+  },
+  {
+    "year": 2026,
+    "section": "Critically acclaimed games",
+    "title": "Mina the Hollower",
+    "wiki_title": "Mina the Hollower",
+    "wiki_url": "https://en.wikipedia.org/wiki/Mina_the_Hollower",
+    "redlink": false,
+    "developer": "Yacht Club Games",
+    "publisher": "Yacht Club Games",
+    "release_date": "May 29, 2026",
+    "average score": "90",
+    "platform_breakdown": {
+      "platform(s)": "WIN , NS , NS2 , PS4 , PS5 , XBO , XBX/S"
+    },
+    "platforms": [
+      "Windows",
+      "Nintendo Switch",
+      "Nintendo Switch 2",
+      "PlayStation 4",
+      "PlayStation 5",
+      "Xbox One",
+      "Xbox Series X/S"
+    ],
+    "steam": {
+      "appid": 1875580,
+      "name": "Mina the Hollower",
+      "short_description": "Take control of Mina, a renowned Hollower hurtled into a desperate mission to rescue a cursed island. Whip foes, burrow through the ground, and explore a pixel-perfect world in Mina the Hollower, a brand new game from the developers who brought you Shovel Knight!",
+      "image_path": "images/steam-1875580.jpg",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "release_date": "May 28, 2026",
+      "site_url": "https://store.steampowered.com/app/1875580",
+      "year_match": true
+    }
+  }
+]

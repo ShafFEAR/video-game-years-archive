@@ -304,9 +304,15 @@
 
 ### MDK2
 
-**Platforms:** Dreamcast, Windows &nbsp;|&nbsp; **Publisher:** Interplay Entertainment &nbsp;|&nbsp; **Released:** March 31, 2000
+<img src="../images/steam-38460.jpg" alt="MDK2 cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/MDK2)
+**Platforms:** Dreamcast, Windows &nbsp;|&nbsp; **Publisher:** Interplay Entertainment &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** March 31, 2000
+
+> 3 Unlikely Heroes, 1 Ultimate Goal Kurt Hectic is back to save the universe. This time he is teamed with the genius Dr. Hawkins and the 6-legged gun-toting robotic dog, Max. Together they must out-sneak, out-blast and out-think their enemies as they attempt to reclaim earth from a vile alien menace.
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/MDK2) · [Steam](https://store.steampowered.com/app/38460)
 
 ---
 
@@ -560,9 +566,15 @@
 
 ### Quake III Arena
 
-**Platforms:** Windows, Linux, Dreamcast &nbsp;|&nbsp; **Released:** December 2
+<img src="../images/steam-2200.jpg" alt="Quake III Arena cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/Quake_III_Arena)
+**Platforms:** Windows, Linux, Dreamcast &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** December 2
+
+> The greatest warriors of all time and space have been summoned to battle for the amusement of an ancient alien race. Wield a variety of guns and power-ups as you fight for glory against ruthless combatants in this fast-paced single-player and multiplayer FPS.
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Quake_III_Arena) · [Steam](https://store.steampowered.com/app/2200)
 
 ---
 
@@ -574,9 +586,15 @@
 
 ### Re-Volt
 
-**Platforms:** Windows, Dreamcast, Nintendo 64, PlayStation &nbsp;|&nbsp; **Released:** August 18
+<img src="../images/steam-287310.jpg" alt="Re-Volt cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/Re-Volt)
+**Platforms:** Windows, Dreamcast, Nintendo 64, PlayStation &nbsp;|&nbsp; **Genre:** Racing &nbsp;|&nbsp; **Released:** August 18
+
+> Re-Volt lets you guide one of 28 remote control cars through insane race tracks set in unusual environments. Curbs become huge walls, toys are obstacles, and everything is fair game to drive on, through, or over.
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Re-Volt) · [Steam](https://store.steampowered.com/app/287310)
 
 ---
 

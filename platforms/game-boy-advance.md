@@ -118,9 +118,15 @@
 
 ### Surf's Up
 
-**Platforms:** Game Boy Advance, Nintendo DS, PlayStation 2, PlayStation 3, PlayStation Portable, Wii, Xbox 360, GameCube, Windows &nbsp;|&nbsp; **Released:** May 30
+<img src="../images/steam-3454830.jpg" alt="Surf's Up cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/Surf%27s_Up_(video_game))
+**Platforms:** Game Boy Advance, Nintendo DS, PlayStation 2, PlayStation 3, PlayStation Portable, Wii, Xbox 360, GameCube, Windows &nbsp;|&nbsp; **Genre:** Action, Casual, Indie, Racing, Sports, Free To Play &nbsp;|&nbsp; **Released:** May 30
+
+> SurfsUp is a free-to-play, standalone recreation of Counter-Strike Surf where precision movement and air-surfing are the keys to setting a new personal best or even breaking a world record. Surf, bhop, and climb across 125+ maps, all for free, with unique leaderboards for every way to play.
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Surf%27s_Up_(video_game)) · [Steam](https://store.steampowered.com/app/3454830)
 
 ---
 
@@ -562,7 +568,15 @@
 
 ### Tomb Raider: Legend
 
-**Platforms:** Windows, PlayStation 2, Xbox, Xbox 360, PlayStation Portable, GameCube, Game Boy Advance, Nintendo DS &nbsp;|&nbsp; **Released:** April 11
+<img src="../images/steam-7000.jpg" alt="Tomb Raider: Legend cover" width="200">
+
+**Platforms:** Windows, PlayStation 2, Xbox, Xbox 360, PlayStation Portable, GameCube, Game Boy Advance, Nintendo DS &nbsp;|&nbsp; **Genre:** Action, Adventure &nbsp;|&nbsp; **Released:** April 11
+
+> Follow Lara Croft down a path of discovery as she travels the globe to remote, exotic locales in search of one of history's greatest artifacts, that unleashes unwelcome figures from Lara's mysterious past.
+>
+> _Synopsis source: Steam_
+
+[Steam](https://store.steampowered.com/app/7000)
 
 ---
 
@@ -868,7 +882,15 @@
 
 ### Need for Speed: Most Wanted
 
-**Platforms:** Windows, PlayStation 2, Xbox, GameCube, Game Boy Advance, Nintendo DS, PlayStation Portable, Xbox 360 &nbsp;|&nbsp; **Released:** November 16
+<img src="../images/steam-1262560.jpg" alt="Need for Speed: Most Wanted cover" width="200">
+
+**Platforms:** Windows, PlayStation 2, Xbox, GameCube, Game Boy Advance, Nintendo DS, PlayStation Portable, Xbox 360 &nbsp;|&nbsp; **Genre:** Action, Adventure, Racing &nbsp;|&nbsp; **Released:** November 16
+
+> The open-world action in Need for Speed Most Wanted gives you the freedom to drive your way. Hit jumps and shortcuts, switch cars, lie low or head for terrain that plays to your vehicle’s unique strengths. Fight your way past cops and rivals using skill, high-end car tech and tons of nitrous.
+>
+> _Synopsis source: Steam_
+
+[Steam](https://store.steampowered.com/app/1262560)
 
 ---
 
@@ -986,9 +1008,15 @@
 
 ### Street Racing Syndicate
 
-**Platforms:** Windows, Game Boy Advance &nbsp;|&nbsp; **Released:** January 18
+<img src="../images/steam-292410.jpg" alt="Street Racing Syndicate cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/Street_Racing_Syndicate)
+**Platforms:** Windows, Game Boy Advance &nbsp;|&nbsp; **Genre:** Racing &nbsp;|&nbsp; **Released:** January 18
+
+> The raw, high-stakes world of illegal street racing comes to life in Street Racing Syndicate. Trick out over 40 authentic licensed cars with parts from over 15 real-world manufacturers, then turn your customized ride loose on the streets of 3 cities across the USA.
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Street_Racing_Syndicate) · [Steam](https://store.steampowered.com/app/292410)
 
 ---
 
@@ -3082,7 +3110,15 @@
 
 ### Zapper: One Wicked Cricket
 
-**Platforms:** Windows, PlayStation 2, Xbox, GameCube, Game Boy Advance &nbsp;|&nbsp; **Released:** November 5
+<img src="../images/steam-2766060.jpg" alt="Zapper: One Wicked Cricket cover" width="200">
+
+**Platforms:** Windows, PlayStation 2, Xbox, GameCube, Game Boy Advance &nbsp;|&nbsp; **Genre:** Action, Adventure &nbsp;|&nbsp; **Released:** November 5
+
+> In this action-adventure game, Zapper (a cricket) hops his way through six worlds in a quest to find his brother, held captive by the evil magpie queen. Dangerous traps and even more dangerous enemies await! It will take skill and timing to conquer all the worlds and survive the final showdown.
+>
+> _Synopsis source: Steam_
+
+[Steam](https://store.steampowered.com/app/2766060)
 
 ---
 

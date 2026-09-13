@@ -10,9 +10,13 @@
 
 ### Dark Souls II
 
-**Platforms:** PlayStation 3, Xbox 360, Windows &nbsp;|&nbsp; **Publisher:** Bandai Namco Games &nbsp;|&nbsp; **Released:** March 11, 2014
+**Platforms:** PlayStation 3, Xbox 360, Windows &nbsp;|&nbsp; **Publisher:** Bandai Namco Games &nbsp;|&nbsp; **Genre:** Action, RPG &nbsp;|&nbsp; **Released:** March 11, 2014
 
-[Wikipedia](https://en.wikipedia.org/wiki/Dark_Souls_II)
+> Developed by FROM SOFTWARE, DARK SOULS™ II is the highly anticipated sequel to the gruelling 2011 breakout hit Dark Souls. The unique old-school action RPG experience captivated imaginations of gamers worldwide with incredible challenge and intense emotional reward.
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Dark_Souls_II) · [Steam](https://store.steampowered.com/app/236430)
 
 ---
 
@@ -22,9 +26,13 @@
 
 ### BioShock Infinite
 
-**Platforms:** PlayStation 3, Windows, Xbox 360 &nbsp;|&nbsp; **Publisher:** 2K Games &nbsp;|&nbsp; **Released:** March 26, 2013
+**Platforms:** PlayStation 3, Windows, Xbox 360 &nbsp;|&nbsp; **Publisher:** 2K Games &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** March 26, 2013
 
-[Wikipedia](https://en.wikipedia.org/wiki/BioShock_Infinite)
+> Indebted to the wrong people, with his life on the line, veteran of the U.S. Cavalry and now hired gun, Booker DeWitt has only one opportunity to wipe his slate clean. He must rescue Elizabeth, a mysterious girl imprisoned since childhood and locked up in the flying city of Columbia.
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/BioShock_Infinite) · [Steam](https://store.steampowered.com/app/8870)
 
 ---
 
@@ -38,9 +46,13 @@
 
 ### Rayman Legends
 
-**Platforms:** Wii U, PlayStation 3, Windows, Xbox 360 &nbsp;|&nbsp; **Publisher:** Ubisoft &nbsp;|&nbsp; **Released:** August 29, 2013
+**Platforms:** Wii U, PlayStation 3, Windows, Xbox 360 &nbsp;|&nbsp; **Publisher:** Ubisoft &nbsp;|&nbsp; **Genre:** Action, Adventure &nbsp;|&nbsp; **Released:** August 29, 2013
 
-[Wikipedia](https://en.wikipedia.org/wiki/Rayman_Legends)
+> Michel Ancel, the celebrated creator of Rayman®, Beyond Good &amp; Evil®, and the Raving Rabbids®, returns to unleash his innovative creativity on this new entry into the Rayman® franchise.When Rayman, Globox, and the Teensies discover a mysterious tent filled with captivating paintings, they are suddenly transported to a series of...
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Rayman_Legends) · [Steam](https://store.steampowered.com/app/242550)
 
 ---
 
@@ -126,7 +138,15 @@
 
 ### Alice: Madness Returns
 
-**Platforms:** Windows, PlayStation 3, Xbox 360 &nbsp;|&nbsp; **Released:** June 14
+<img src="../images/steam-19680.jpg" alt="Alice: Madness Returns cover" width="200">
+
+**Platforms:** Windows, PlayStation 3, Xbox 360 &nbsp;|&nbsp; **Genre:** Action, Adventure &nbsp;|&nbsp; **Released:** June 14
+
+> Alice: Madness Returns is a third-person, single-player, action adventure platformer. Visit the grim reality of Victorian London and travel to the beautiful yet ghastly Wonderland to uncover the root of Alice's madness.
+>
+> _Synopsis source: Steam_
+
+[Steam](https://store.steampowered.com/app/19680)
 
 ---
 
@@ -138,7 +158,15 @@
 
 ### Assassin's Creed: Revelations
 
-**Platforms:** PlayStation 3, Xbox 360, Windows &nbsp;|&nbsp; **Released:** November 15
+<img src="../images/steam-201870.jpg" alt="Assassin's Creed: Revelations cover" width="200">
+
+**Platforms:** PlayStation 3, Xbox 360, Windows &nbsp;|&nbsp; **Genre:** Action, Adventure &nbsp;|&nbsp; **Released:** November 15
+
+> Ezio Auditore walks in the footsteps of the legendary mentor Altair, on a dangerous journey of discovery and revelation.
+>
+> _Synopsis source: Steam_
+
+[Steam](https://store.steampowered.com/app/201870)
 
 ---
 
@@ -158,7 +186,15 @@
 
 ### Batman: Arkham City
 
-**Platforms:** PlayStation 3, Xbox 360, Windows &nbsp;|&nbsp; **Publisher:** Warner Bros. Interactive Entertainment &nbsp;|&nbsp; **Released:** October 18, 2011
+<img src="../images/steam-200260.jpg" alt="Batman: Arkham City cover" width="200">
+
+**Platforms:** PlayStation 3, Xbox 360, Windows &nbsp;|&nbsp; **Publisher:** Warner Bros. Interactive Entertainment &nbsp;|&nbsp; **Genre:** Action, Adventure &nbsp;|&nbsp; **Released:** October 18, 2011
+
+> Get Batman: Arkham City and all DLC for one low price with the release of the GOTY Edition!
+>
+> _Synopsis source: Steam_
+
+[Steam](https://store.steampowered.com/app/200260)
 
 ---
 
@@ -178,9 +214,15 @@
 
 ### Battlefield 3
 
-**Platforms:** Windows, PlayStation 3, Xbox 360 &nbsp;|&nbsp; **Released:** October 25
+<img src="../images/steam-1238820.jpg" alt="Battlefield 3 cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/Battlefield_3)
+**Platforms:** Windows, PlayStation 3, Xbox 360 &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** October 25
+
+> Enjoy total freedom to fight the way you want. Explore 29 massive multiplayer maps and use loads of vehicles, weapons, and gadgets to help you turn up the heat. Every second of battle gets you closer to unlocking tons of extras and moving up in the Ranks. So get in the action.
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Battlefield_3) · [Steam](https://store.steampowered.com/app/1238820)
 
 ---
 
@@ -246,9 +288,15 @@
 
 ### Brink
 
-**Platforms:** Windows, PlayStation 3, Xbox 360 &nbsp;|&nbsp; **Released:** May 10
+<img src="../images/steam-2179940.jpg" alt="Brink cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/Brink_(video_game))
+**Platforms:** Windows, PlayStation 3, Xbox 360 &nbsp;|&nbsp; **Genre:** Action, Indie &nbsp;|&nbsp; **Released:** May 10
+
+> It is a Co-Op horror game that can be played with at least 1 and at most 4 players on the Brink of Death. Your goal is to defeat the killer doctor who feeds on fear in the cursed area. You'll need a lot of things, but don't stop destroying the scarecrows it draws on. Death is just the beginning.
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Brink_(video_game)) · [Steam](https://store.steampowered.com/app/2179940)
 
 ---
 
@@ -290,7 +338,15 @@
 
 ### Call of Duty: Modern Warfare 3
 
-**Platforms:** Windows, PlayStation 3, Xbox 360, Wii &nbsp;|&nbsp; **Released:** November 8
+<img src="../images/steam-42680.jpg" alt="Call of Duty: Modern Warfare 3 cover" width="200">
+
+**Platforms:** Windows, PlayStation 3, Xbox 360, Wii &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** November 8
+
+> The best-selling first-person action series of all-time returns with an epic sequel to the multiple GOTY award winner Call of Duty®: Modern Warfare® 2
+>
+> _Synopsis source: Steam_
+
+[Steam](https://store.steampowered.com/app/42680)
 
 ---
 
@@ -346,9 +402,15 @@
 
 ### Crysis 2
 
-**Platforms:** Windows, PlayStation 3, Xbox 360 &nbsp;|&nbsp; **Released:** March 22
+<img src="../images/steam-108800.jpg" alt="Crysis 2 cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/Crysis_2)
+**Platforms:** Windows, PlayStation 3, Xbox 360 &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** March 22
+
+> Aliens are decimating New York City, only you have the technology to survive. Be The Weapon.
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Crysis_2) · [Steam](https://store.steampowered.com/app/108800)
 
 ---
 
@@ -394,15 +456,29 @@
 
 ### Dead Rising 2: Off the Record
 
-**Platforms:** Windows, PlayStation 3, Xbox 360 &nbsp;|&nbsp; **Released:** October 11
+<img src="../images/steam-45770.jpg" alt="Dead Rising 2: Off the Record cover" width="200">
+
+**Platforms:** Windows, PlayStation 3, Xbox 360 &nbsp;|&nbsp; **Genre:** Action, Adventure &nbsp;|&nbsp; **Released:** October 11
+
+> You are Frank West – photojournalist and original hero of the Dead Rising Willamette incident – taking center stage experiencing the re-imagined Fortune City outbreak.
+>
+> _Synopsis source: Steam_
+
+[Steam](https://store.steampowered.com/app/45770)
 
 ---
 
 ### Dead Space 2
 
+<img src="../images/steam-47780.jpg" alt="Dead Space 2 cover" width="200">
+
 **Platforms:** Xbox 360, Windows, PlayStation 3 &nbsp;|&nbsp; **Publisher:** Electronic Arts &nbsp;|&nbsp; **Genre:** Survival horror &nbsp;|&nbsp; **Released:** January 25, 2011
 
-[Wikipedia](https://en.wikipedia.org/wiki/Dead_Space_2)
+> Three years after the Necromorph infestation aboard the USS Ishimura, Isaac Clarke awakens from a coma, confused, disoriented, and on a space station called The Sprawl. Explore this world and its zero-g environments to discover the truth about the Unitology and its role in the Necromorph epidemic.
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Dead_Space_2) · [Steam](https://store.steampowered.com/app/47780)
 
 ---
 
@@ -474,17 +550,29 @@
 
 ### Duke Nukem Forever
 
-**Platforms:** Windows, PlayStation 3, Xbox 360, macOS &nbsp;|&nbsp; **Released:** June 14
+<img src="../images/steam-57900.jpg" alt="Duke Nukem Forever cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/Duke_Nukem_Forever)
+**Platforms:** Windows, PlayStation 3, Xbox 360, macOS &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** June 14
+
+> The King arrives with an arsenal of over-the-top weapons, giant explosions and pure unadulterated fun!
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Duke_Nukem_Forever) · [Steam](https://store.steampowered.com/app/57900)
 
 ---
 
 ### Dungeon Defenders
 
-**Platforms:** PlayStation Network, Windows, Xbox 360 &nbsp;|&nbsp; **Released:** October 18
+<img src="../images/steam-65800.jpg" alt="Dungeon Defenders cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/Dungeon_Defenders)
+**Platforms:** PlayStation Network, Windows, Xbox 360 &nbsp;|&nbsp; **Genre:** Action, Indie, RPG, Strategy &nbsp;|&nbsp; **Released:** October 18
+
+> Create a hero from one of four classes to save Etheria in this 4-player coop Tower Defense Action-RPG. Includes Steam exclusive Portal gun &amp; TF2 familiars!
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Dungeon_Defenders) · [Steam](https://store.steampowered.com/app/65800)
 
 ---
 
@@ -498,7 +586,15 @@
 
 ### Dungeons & Dragons: Daggerdale
 
-**Platforms:** Windows, Xbox 360 &nbsp;|&nbsp; **Released:** May 25
+<img src="../images/steam-99100.jpg" alt="Dungeons & Dragons: Daggerdale cover" width="200">
+
+**Platforms:** Windows, Xbox 360 &nbsp;|&nbsp; **Genre:** Action, RPG &nbsp;|&nbsp; **Released:** May 25
+
+> Dungeons & Dragons: Daggerdale offers engaging "hack and slash" gameplay, bringing Dungeons & Dragons to life. Travel to the Dalelands of the Forgotten Realms, where the journey begins in the remote Desertsmouth Mountains.
+>
+> _Synopsis source: Steam_
+
+[Steam](https://store.steampowered.com/app/99100)
 
 ---
 
@@ -518,7 +614,15 @@
 
 ### Earth Defense Force: Insect Armageddon
 
-**Platforms:** PlayStation 3, Xbox 360, Windows &nbsp;|&nbsp; **Released:** July 5
+<img src="../images/steam-23530.jpg" alt="Earth Defense Force: Insect Armageddon cover" width="200">
+
+**Platforms:** PlayStation 3, Xbox 360, Windows &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** July 5
+
+> Thousands of giant insects and aliens once again ravage the earth, and only the Earth Defense Force can stop them.
+>
+> _Synopsis source: Steam_
+
+[Steam](https://store.steampowered.com/app/23530)
 
 ---
 
@@ -530,17 +634,29 @@
 
 ### Escape Goat
 
-**Platforms:** Windows, Xbox 360 &nbsp;|&nbsp; **Released:** November 2
+<img src="../images/steam-251370.jpg" alt="Escape Goat cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/Escape_Goat)
+**Platforms:** Windows, Xbox 360 &nbsp;|&nbsp; **Genre:** Action, Indie &nbsp;|&nbsp; **Released:** November 2
+
+> Escape Goat is a puzzle platformer where you take control of a goat, who has been imprisoned for witchcraft, and overcome traps and obstacles to escape the Prison of Agnus. Fear not, for with your supreme agility, sturdy horns, and the help of a magic mouse friend, you can turn the tables on foes and use the environment to your advantage.
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Escape_Goat) · [Steam](https://store.steampowered.com/app/251370)
 
 ---
 
 ### F.E.A.R. 3
 
-**Platforms:** Windows, Xbox 360, PlayStation 3 &nbsp;|&nbsp; **Released:** June 21
+<img src="../images/steam-21100.jpg" alt="F.E.A.R. 3 cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/F.E.A.R._3)
+**Platforms:** Windows, Xbox 360, PlayStation 3 &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** June 21
+
+> F.E.A.R. 3 delivers all the hallmarks that define the F.E.A.R. brand: terrifying paranormal experience, frenetic combat and a dramatic storyline.
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/F.E.A.R._3) · [Steam](https://store.steampowered.com/app/21100)
 
 ---
 
@@ -586,9 +702,15 @@
 
 ### From Dust
 
-**Platforms:** Xbox 360, Windows &nbsp;|&nbsp; **Released:** July 27
+<img src="../images/steam-33460.jpg" alt="From Dust cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/From_Dust)
+**Platforms:** Xbox 360, Windows &nbsp;|&nbsp; **Genre:** Adventure, Simulation &nbsp;|&nbsp; **Released:** July 27
+
+> Immerse yourself in a world as exotically beautiful as it is dangerous in this modern God-Game where Nature is the Star!
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/From_Dust) · [Steam](https://store.steampowered.com/app/33460)
 
 ---
 
@@ -602,9 +724,15 @@
 
 ### Gatling Gears
 
-**Platforms:** Xbox 360, PlayStation Network, Windows &nbsp;|&nbsp; **Released:** May 11
+<img src="../images/steam-102810.jpg" alt="Gatling Gears cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/Gatling_Gears)
+**Platforms:** Xbox 360, PlayStation Network, Windows &nbsp;|&nbsp; **Genre:** Action, Adventure, Indie &nbsp;|&nbsp; **Released:** May 11
+
+> When the Empire begins its reign of destruction in a thirst for natural resources, it’s up to Max Brawley, a retired Gatling Gear pilot, to stop them.
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Gatling_Gears) · [Steam](https://store.steampowered.com/app/102810)
 
 ---
 
@@ -632,9 +760,15 @@
 
 ### Gray Matter
 
-**Platforms:** Windows, Xbox 360 &nbsp;|&nbsp; **Released:** February 22
+<img src="../images/steam-260570.jpg" alt="Gray Matter cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/Gray_Matter_(video_game))
+**Platforms:** Windows, Xbox 360 &nbsp;|&nbsp; **Genre:** Adventure, Casual &nbsp;|&nbsp; **Released:** February 22
+
+> After a tragic accident, neurobiologist Dr. David Styles has become a recluse, rarely leaving his home, the Dread Hill House. One day, Samantha Everett, a street magician, appears at Dr. Style's doorstep just as he is seeking a new assistant.
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Gray_Matter_(video_game)) · [Steam](https://store.steampowered.com/app/260570)
 
 ---
 
@@ -688,9 +822,15 @@
 
 ### Homefront
 
-**Platforms:** Windows, Xbox 360, PlayStation 3 &nbsp;|&nbsp; **Released:** March 15
+<img src="../images/steam-55100.jpg" alt="Homefront cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/Homefront_(video_game))
+**Platforms:** Windows, Xbox 360, PlayStation 3 &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** March 15
+
+> The Rock Map Pack is Now Available! Join the Resistance, stand united and fight for freedom against an overwhelming military force.
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Homefront_(video_game)) · [Steam](https://store.steampowered.com/app/55100)
 
 ---
 
@@ -704,7 +844,15 @@
 
 ### Hunted: The Demon's Forge
 
-**Platforms:** Windows, PlayStation 3, Xbox 360 &nbsp;|&nbsp; **Released:** May 31
+<img src="../images/steam-22450.jpg" alt="Hunted: The Demon's Forge cover" width="200">
+
+**Platforms:** Windows, PlayStation 3, Xbox 360 &nbsp;|&nbsp; **Genre:** Action, Adventure &nbsp;|&nbsp; **Released:** May 31
+
+> It will take the combined efforts of two great warriors to explore menacing dungeons, overgrown ruins, and downtrodden towns … and discover the secrets of the Demon’s Forge.
+>
+> _Synopsis source: Steam_
+
+[Steam](https://store.steampowered.com/app/22450)
 
 ---
 
@@ -792,35 +940,71 @@
 
 ### L.A. Noire
 
-**Platforms:** PlayStation 3, Xbox 360, Windows &nbsp;|&nbsp; **Released:** May 17
+<img src="../images/steam-110800.jpg" alt="L.A. Noire cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/L.A._Noire)
+**Platforms:** PlayStation 3, Xbox 360, Windows &nbsp;|&nbsp; **Genre:** Adventure, Strategy &nbsp;|&nbsp; **Released:** May 17
+
+> In his fight to climb the ranks and do what's right, LAPD detective Cole Phelps must unravel the truth behind a string of arson attacks, conspiracies, and brutal murders, battling the L.A. underworld and even members of his own department.
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/L.A._Noire) · [Steam](https://store.steampowered.com/app/110800)
 
 ---
 
 ### Lego Harry Potter: Years 5–7
 
-**Platforms:** Windows, Xbox 360, PlayStation 3, PlayStation Portable, Wii, Nintendo DS, Nintendo 3DS, iOS &nbsp;|&nbsp; **Released:** November 11
+<img src="../images/steam-204120.jpg" alt="Lego Harry Potter: Years 5–7 cover" width="200">
+
+**Platforms:** Windows, Xbox 360, PlayStation 3, PlayStation Portable, Wii, Nintendo DS, Nintendo 3DS, iOS &nbsp;|&nbsp; **Genre:** Adventure &nbsp;|&nbsp; **Released:** November 11
+
+> LEGO Harry Potter: Years 5-7 takes players through Harry Potter's heroic adventures in the Muggle and wizarding worlds.
+>
+> _Synopsis source: Steam_
+
+[Steam](https://store.steampowered.com/app/204120)
 
 ---
 
 ### Lego Pirates of the Caribbean: The Video Game
 
-**Platforms:** Nintendo 3DS, Xbox 360, PlayStation 3, Wii, PlayStation Portable, Nintendo DS, Windows &nbsp;|&nbsp; **Released:** May 10
+<img src="../images/steam-311770.jpg" alt="Lego Pirates of the Caribbean: The Video Game cover" width="200">
+
+**Platforms:** Nintendo 3DS, Xbox 360, PlayStation 3, Wii, PlayStation Portable, Nintendo DS, Windows &nbsp;|&nbsp; **Genre:** Action, Adventure &nbsp;|&nbsp; **Released:** May 10
+
+> LEGO® Pirates of the Caribbean: The Video Game is an action adventure game that brings the Pirates of the Caribbean world and all its colorful characters to life in LEGO Brick form. Players experience all the memorable scenes from all four films in the humorous and quirky LEGO Video Games style.
+>
+> _Synopsis source: Steam_
+
+[Steam](https://store.steampowered.com/app/311770)
 
 ---
 
 ### Lego Star Wars III: The Clone Wars
 
-**Platforms:** Windows, Xbox 360, PlayStation 3, PlayStation Portable, Wii, Nintendo DS, Nintendo 3DS &nbsp;|&nbsp; **Released:** March 22
+<img src="../images/steam-32510.jpg" alt="Lego Star Wars III: The Clone Wars cover" width="200">
+
+**Platforms:** Windows, Xbox 360, PlayStation 3, PlayStation Portable, Wii, Nintendo DS, Nintendo 3DS &nbsp;|&nbsp; **Genre:** Action, Adventure &nbsp;|&nbsp; **Released:** March 22
+
+> LEGO Star Wars III: The Clone Wars will allow fans to explore endlessly and laugh their way through the Star Wars galaxy in the most humorous, accessible and action-packed LEGO game to date.
+>
+> _Synopsis source: Steam_
+
+[Steam](https://store.steampowered.com/app/32510)
 
 ---
 
 ### Limbo
 
-**Platforms:** PlayStation 3, Xbox 360, PlayStation Network, Windows &nbsp;|&nbsp; **Publisher:** Playdead &nbsp;|&nbsp; **Released:** July 19, 2011
+<img src="../images/steam-48000.jpg" alt="Limbo cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/Limbo_(video_game))
+**Platforms:** PlayStation 3, Xbox 360, PlayStation Network, Windows &nbsp;|&nbsp; **Publisher:** Playdead &nbsp;|&nbsp; **Genre:** Action, Adventure, Indie &nbsp;|&nbsp; **Released:** July 19, 2011
+
+> Uncertain of his sister's fate, a boy enters LIMBO
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Limbo_(video_game)) · [Steam](https://store.steampowered.com/app/48000)
 
 ---
 
@@ -986,9 +1170,15 @@
 
 ### Orcs Must Die!
 
-**Platforms:** Xbox 360, Windows &nbsp;|&nbsp; **Released:** October 5
+<img src="../images/steam-102600.jpg" alt="Orcs Must Die! cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/Orcs_Must_Die!)
+**Platforms:** Xbox 360, Windows &nbsp;|&nbsp; **Genre:** Action, Indie, Strategy &nbsp;|&nbsp; **Released:** October 5
+
+> Slice them, burn them, skewer them, and launch them - no matter how you get it done, orcs must die in this fantasy action-strategy game from Robot Entertainment.
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Orcs_Must_Die!) · [Steam](https://store.steampowered.com/app/102600)
 
 ---
 
@@ -1010,9 +1200,15 @@
 
 ### Portal 2
 
-**Platforms:** Windows, Xbox 360, PlayStation 3, macOS &nbsp;|&nbsp; **Publisher:** Valve &nbsp;|&nbsp; **Released:** April 19, 2011
+<img src="../images/steam-620.jpg" alt="Portal 2 cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/Portal_2)
+**Platforms:** Windows, Xbox 360, PlayStation 3, macOS &nbsp;|&nbsp; **Publisher:** Valve &nbsp;|&nbsp; **Genre:** Action, Adventure &nbsp;|&nbsp; **Released:** April 19, 2011
+
+> The &quot;Perpetual Testing Initiative&quot; has been expanded to allow you to design co-op puzzles for you and your friends!
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Portal_2) · [Steam](https://store.steampowered.com/app/620)
 
 ---
 
@@ -1072,15 +1268,29 @@
 
 ### Red Faction: Armageddon
 
-**Platforms:** Windows, Xbox 360, PlayStation 3 &nbsp;|&nbsp; **Released:** June 7
+<img src="../images/steam-55110.jpg" alt="Red Faction: Armageddon cover" width="200">
+
+**Platforms:** Windows, Xbox 360, PlayStation 3 &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** June 7
+
+> Red Faction: Armageddon Path to War includes 4 new missions, 2 unlockable items and 10 new achievements!
+>
+> _Synopsis source: Steam_
+
+[Steam](https://store.steampowered.com/app/55110)
 
 ---
 
 ### Renegade Ops
 
-**Platforms:** Xbox 360, Windows &nbsp;|&nbsp; **Released:** September 14
+<img src="../images/steam-99300.jpg" alt="Renegade Ops cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/Renegade_Ops)
+**Platforms:** Xbox 360, Windows &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** September 14
+
+> Blast your way through enemy lines to defeat Inferno, a madman intent on global domination. Destruction just got awesome.
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Renegade_Ops) · [Steam](https://store.steampowered.com/app/99300)
 
 ---
 
@@ -1124,9 +1334,15 @@
 
 ### Rock of Ages
 
-**Platforms:** Windows, Xbox 360, PlayStation Network &nbsp;|&nbsp; **Released:** August 31
+<img src="../images/steam-22230.jpg" alt="Rock of Ages cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/Rock_of_Ages_(video_game))
+**Platforms:** Windows, Xbox 360, PlayStation Network &nbsp;|&nbsp; **Genre:** Action, Indie, Racing, Strategy &nbsp;|&nbsp; **Released:** August 31
+
+> A rock-solid combination of rock-rolling action, deep strategy, and captivating art and music from different ages of history, this is a game of crush or be crushed!
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Rock_of_Ages_(video_game)) · [Steam](https://store.steampowered.com/app/22230)
 
 ---
 
@@ -1162,7 +1378,15 @@
 
 ### Saints Row: The Third
 
-**Platforms:** Windows, Xbox 360, PlayStation 3 &nbsp;|&nbsp; **Released:** November 15
+<img src="../images/steam-55230.jpg" alt="Saints Row: The Third cover" width="200">
+
+**Platforms:** Windows, Xbox 360, PlayStation 3 &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** November 15
+
+> Get ready for the most out-landish gameplay scenarios ever seen as the Third Street Saints take on the Syndicate!
+>
+> _Synopsis source: Steam_
+
+[Steam](https://store.steampowered.com/app/55230)
 
 ---
 
@@ -1198,7 +1422,15 @@
 
 ### Shift 2: Unleashed
 
-**Platforms:** Windows, PlayStation 3, Xbox 360, iOS &nbsp;|&nbsp; **Released:** March 29
+<img src="../images/steam-47920.jpg" alt="Shift 2: Unleashed cover" width="200">
+
+**Platforms:** Windows, PlayStation 3, Xbox 360, iOS &nbsp;|&nbsp; **Genre:** Racing &nbsp;|&nbsp; **Released:** March 29
+
+> Bring the true driver’s experience to life with all the intensity and exhilaration of being behind the wheel!
+>
+> _Synopsis source: Steam_
+
+[Steam](https://store.steampowered.com/app/47920)
 
 ---
 
@@ -1210,9 +1442,15 @@
 
 ### Sonic Generations
 
-**Platforms:** PlayStation 3, Xbox 360, Windows, Nintendo 3DS &nbsp;|&nbsp; **Released:** November 1
+<img src="../images/steam-71340.jpg" alt="Sonic Generations cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/Sonic_Generations)
+**Platforms:** PlayStation 3, Xbox 360, Windows, Nintendo 3DS &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** November 1
+
+> Celebrate 20 years of Sonic in an all new adventure that delivers a definitive experience to Sonic fans new and old!
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Sonic_Generations) · [Steam](https://store.steampowered.com/app/71340)
 
 ---
 
@@ -1322,9 +1560,15 @@
 
 ### The First Templar
 
-**Platforms:** Windows, Xbox 360 &nbsp;|&nbsp; **Released:** May 10
+<img src="../images/steam-57680.jpg" alt="The First Templar cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/The_First_Templar)
+**Platforms:** Windows, Xbox 360 &nbsp;|&nbsp; **Genre:** Action, Adventure &nbsp;|&nbsp; **Released:** May 10
+
+> Uncover the mysteries behind the Templar Order! Steam Exclusive Edition includes bonus mission “The Arena”.
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/The_First_Templar) · [Steam](https://store.steampowered.com/app/57680)
 
 ---
 
@@ -1402,9 +1646,15 @@
 
 ### Tropico 4
 
-**Platforms:** Windows, Xbox 360 &nbsp;|&nbsp; **Released:** August 30
+<img src="../images/steam-57690.jpg" alt="Tropico 4 cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/Tropico_4)
+**Platforms:** Windows, Xbox 360 &nbsp;|&nbsp; **Genre:** Simulation, Strategy &nbsp;|&nbsp; **Released:** August 30
+
+> The world is changing and Tropico is moving with the times - geographical powers rise and fall and the world market is dominated by new players with new demands and offers - and you, as El Presidente, face a whole new set of challenges.
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Tropico_4) · [Steam](https://store.steampowered.com/app/57690)
 
 ---
 
@@ -1418,9 +1668,15 @@
 
 ### Two Worlds II
 
+<img src="../images/steam-7520.jpg" alt="Two Worlds II cover" width="200">
+
 **Platforms:** Windows, Xbox 360, PlayStation 3 &nbsp;|&nbsp; **Genre:** Action RPG &nbsp;|&nbsp; **Released:** January 25
 
-[Wikipedia](https://en.wikipedia.org/wiki/Two_Worlds_II)
+> Check out the new Velvet Edition bundle including both Two Worlds II and Pirates of the Flying Fortress DLC.
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Two_Worlds_II) · [Steam](https://store.steampowered.com/app/7520)
 
 ---
 
@@ -1456,7 +1712,15 @@
 
 ### Warhammer 40,000: Space Marine
 
-**Platforms:** Windows, Xbox 360, PlayStation 3 &nbsp;|&nbsp; **Released:** September 6
+<img src="../images/steam-55150.jpg" alt="Warhammer 40,000: Space Marine cover" width="200">
+
+**Platforms:** Windows, Xbox 360, PlayStation 3 &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** September 6
+
+> In Warhammer 40,000 Space Marine you are Captain Titus, a Space Marine of the Ultramarines chapter and a seasoned veteran of countless battles.
+>
+> _Synopsis source: Steam_
+
+[Steam](https://store.steampowered.com/app/55150)
 
 ---
 
@@ -1484,9 +1748,15 @@
 
 ### Worms Ultimate Mayhem
 
-**Platforms:** Windows, Xbox 360 &nbsp;|&nbsp; **Released:** September 28
+<img src="../images/steam-70600.jpg" alt="Worms Ultimate Mayhem cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/Worms_Ultimate_Mayhem)
+**Platforms:** Windows, Xbox 360 &nbsp;|&nbsp; **Genre:** Strategy &nbsp;|&nbsp; **Released:** September 28
+
+> Load your weapons and experience a whole new dimension in destructive turn-based cartoon action!
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Worms_Ultimate_Mayhem) · [Steam](https://store.steampowered.com/app/70600)
 
 ---
 
@@ -1522,9 +1792,15 @@
 
 ### Zeit²
 
+<img src="../images/steam-33390.jpg" alt="Zeit² cover" width="200">
+
 **Platforms:** Windows, Xbox 360 &nbsp;|&nbsp; **Genre:** Shoot 'em up &nbsp;|&nbsp; **Released:** January 12
 
-[Wikipedia](https://en.wikipedia.org/wiki/Zeit%C2%B2)
+> Zeit² brings a new twist to the traditional side-scrolling, 2D, shoot-’em-up game sporting a unique time travel feature never seen before in this genre.
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Zeit%C2%B2) · [Steam](https://store.steampowered.com/app/33390)
 
 ---
 
@@ -1564,29 +1840,57 @@
 
 ### Alien Breed 2: Assault
 
-**Platforms:** Xbox 360, Windows, PlayStation 3 &nbsp;|&nbsp; **Released:** September 22
+<img src="../images/steam-22650.jpg" alt="Alien Breed 2: Assault cover" width="200">
+
+**Platforms:** Xbox 360, Windows, PlayStation 3 &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** September 22
+
+> Can you survive the alien onslaught? Gamers across the world will now have a chance to play the next chapter in this high-budget, high-quality series.
+>
+> _Synopsis source: Steam_
+
+[Steam](https://store.steampowered.com/app/22650)
 
 ---
 
 ### Alien Breed 3: Descent
 
-**Platforms:** PlayStation Network, Windows, Xbox 360 &nbsp;|&nbsp; **Released:** November 17
+<img src="../images/steam-22670.jpg" alt="Alien Breed 3: Descent cover" width="200">
+
+**Platforms:** PlayStation Network, Windows, Xbox 360 &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** November 17
+
+> Experience the final explosive chapter in the Alien Breed series and uncover the horrifying truth surrounding the existence of the Breed. Launch discount good thru Nov. 24 10am PST.
+>
+> _Synopsis source: Steam_
+
+[Steam](https://store.steampowered.com/app/22670)
 
 ---
 
 ### Aliens vs. Predator
 
-**Platforms:** Windows, Xbox 360, PlayStation 3 &nbsp;|&nbsp; **Released:** February 16
+<img src="../images/steam-10680.jpg" alt="Aliens vs. Predator cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/Aliens_vs._Predator_(2010_video_game))
+**Platforms:** Windows, Xbox 360, PlayStation 3 &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** February 16
+
+> Survive, hunt and prey in the deadly jungles and swamps in distinctly new and thrilling first person gameplay.
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Aliens_vs._Predator_(2010_video_game)) · [Steam](https://store.steampowered.com/app/10680)
 
 ---
 
 ### Alpha Protocol
 
-**Platforms:** Windows, Xbox 360, PlayStation 3 &nbsp;|&nbsp; **Released:** June 1
+<img src="../images/steam-34010.jpg" alt="Alpha Protocol cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/Alpha_Protocol)
+**Platforms:** Windows, Xbox 360, PlayStation 3 &nbsp;|&nbsp; **Genre:** Action, RPG &nbsp;|&nbsp; **Released:** June 1
+
+> Loyalty carries a price and no one knows this more than agent Michael Thorton. A talented young agent cast out by his government, Thorton is the only one with the information needed to stop an impending international catastrophe.
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Alpha_Protocol) · [Steam](https://store.steampowered.com/app/34010)
 
 ---
 
@@ -1684,9 +1988,15 @@
 
 ### BioShock 2
 
-**Platforms:** Windows, Xbox 360, PlayStation 3 &nbsp;|&nbsp; **Released:** February 9
+<img src="../images/steam-8850.jpg" alt="BioShock 2 cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/BioShock_2)
+**Platforms:** Windows, Xbox 360, PlayStation 3 &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** February 9
+
+> Set approximately 10 years after the events of the original BioShock, the halls of Rapture once again echo with sins of the past. Along the Atlantic coastline, a monster has been snatching little girls and bringing them back to the undersea city of Rapture.
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/BioShock_2) · [Steam](https://store.steampowered.com/app/8850)
 
 ---
 
@@ -1698,9 +2008,15 @@
 
 ### Blade Kitten
 
-**Platforms:** PlayStation Network, Windows, Xbox 360 &nbsp;|&nbsp; **Released:** September 22
+<img src="../images/steam-9940.jpg" alt="Blade Kitten cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/Blade_Kitten)
+**Platforms:** PlayStation Network, Windows, Xbox 360 &nbsp;|&nbsp; **Genre:** Action, Adventure &nbsp;|&nbsp; **Released:** September 22
+
+> In Blade Kitten, join Kit Ballard as she explores the mysterious world of Hollow Wish to hunt down rogue mechs and soft targets.
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Blade_Kitten) · [Steam](https://store.steampowered.com/app/9940)
 
 ---
 
@@ -1720,17 +2036,29 @@
 
 ### Bloody Good Time
 
-**Platforms:** Windows, Xbox 360 &nbsp;|&nbsp; **Released:** October 28
+<img src="../images/steam-2450.jpg" alt="Bloody Good Time cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/Bloody_Good_Time)
+**Platforms:** Windows, Xbox 360 &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** October 28
+
+> Congratulations, you’ve just been cast in your first slasher movie by the notorious Director X!
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Bloody_Good_Time) · [Steam](https://store.steampowered.com/app/2450)
 
 ---
 
 ### Blur
 
-**Platforms:** Windows, Xbox 360, PlayStation 3 &nbsp;|&nbsp; **Released:** May 25
+<img src="../images/steam-2184260.jpg" alt="Blur cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/Blur_(video_game))
+**Platforms:** Windows, Xbox 360, PlayStation 3 &nbsp;|&nbsp; **Genre:** Action, Indie &nbsp;|&nbsp; **Released:** May 25
+
+> Ricochet Blur is a fast-paced top-down shooter where your bullets bounce off walls. Kill all the armed demons and uncover the secrets of the mystery world.
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Blur_(video_game)) · [Steam](https://store.steampowered.com/app/2184260)
 
 ---
 
@@ -1742,7 +2070,15 @@
 
 ### Call of Duty: Black Ops
 
-**Platforms:** Xbox 360, PlayStation 3, Wii, Windows &nbsp;|&nbsp; **Released:** November 9
+<img src="../images/steam-42700.jpg" alt="Call of Duty: Black Ops cover" width="200">
+
+**Platforms:** Xbox 360, PlayStation 3, Wii, Windows &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** November 9
+
+> The biggest first-person action series of all time and the follow-up to critically acclaimed Call of Duty®: Modern Warfare 2 returns with Call of Duty®: Black Ops.
+>
+> _Synopsis source: Steam_
+
+[Steam](https://store.steampowered.com/app/42700)
 
 ---
 
@@ -1788,9 +2124,15 @@
 
 ### Create
 
-**Platforms:** PlayStation 3, Wii, Windows, Xbox 360 &nbsp;|&nbsp; **Released:** November 16
+<img src="../images/steam-1744350.jpg" alt="Create cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/Create_(video_game))
+**Platforms:** PlayStation 3, Wii, Windows, Xbox 360 &nbsp;|&nbsp; **Genre:** Casual, Indie &nbsp;|&nbsp; **Released:** November 16
+
+> Gain experience and level up in this voxel sandbox world as you travel through space and time. Craft equipment and recipes to help you survive the treacherous landscape and sculpt it into your own masterpiece!
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Create_(video_game)) · [Steam](https://store.steampowered.com/app/1744350)
 
 ---
 
@@ -1812,25 +2154,43 @@
 
 ### Dark Void
 
-**Platforms:** Windows, Xbox 360, PlayStation 3 &nbsp;|&nbsp; **Released:** January 19
+<img src="../images/steam-4770970.jpg" alt="Dark Void cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/Dark_Void)
+**Platforms:** Windows, Xbox 360, PlayStation 3 &nbsp;|&nbsp; **Genre:** Action, Indie &nbsp;|&nbsp; **Released:** January 19
+
+> Dark Side Void is a 2D side-scrolling mecha action game set in space. Scarred by devastating interstellar wars, the Solar System is riddled with hidden dangers across its cosmic frontiers. Pilot your fully armed combat mech and embark on a cosmic journey packed with fierce mecha battles.
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Dark_Void) · [Steam](https://store.steampowered.com/app/4770970)
 
 ---
 
 ### Darksiders
 
+<img src="../images/steam-1203170.jpg" alt="Darksiders cover" width="200">
+
 **Platforms:** Windows, PlayStation 3, Xbox 360 &nbsp;|&nbsp; **Genre:** Action-adventure, Hack and slash &nbsp;|&nbsp; **Released:** January 5
 
-[Wikipedia](https://en.wikipedia.org/wiki/Darksiders)
+> The legendary saga of the Four Horsemen continues in Darksiders 4, an all-new action-adventure set in an apocalyptic version of earth and continues where the original Darksiders game left off.
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Darksiders) · [Steam](https://store.steampowered.com/app/1203170)
 
 ---
 
 ### Dead Rising 2
 
-**Platforms:** Windows, PlayStation 3, Xbox 360 &nbsp;|&nbsp; **Released:** September 28
+<img src="../images/steam-45740.jpg" alt="Dead Rising 2 cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/Dead_Rising_2)
+**Platforms:** Windows, PlayStation 3, Xbox 360 &nbsp;|&nbsp; **Genre:** Action, Adventure &nbsp;|&nbsp; **Released:** September 28
+
+> The sequel to the million-plus selling Dead Rising, Dead Rising 2 takes the zombie survival horror to Fortune City, America’s latest and greatest entertainment playground.
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Dead_Rising_2) · [Steam](https://store.steampowered.com/app/45740)
 
 ---
 
@@ -1872,9 +2232,15 @@
 
 ### DeathSpank
 
-**Platforms:** PlayStation Network, Xbox 360, Windows &nbsp;|&nbsp; **Released:** July 13
+<img src="../images/steam-18040.jpg" alt="DeathSpank cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/DeathSpank)
+**Platforms:** PlayStation Network, Xbox 360, Windows &nbsp;|&nbsp; **Genre:** Action, Indie, RPG &nbsp;|&nbsp; **Released:** July 13
+
+> For uncounted years, DeathSpank has been a Dispenser of Justice, a Vanquisher of Evil, and a Hero to the Downtrodden.
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/DeathSpank) · [Steam](https://store.steampowered.com/app/18040)
 
 ---
 
@@ -1974,7 +2340,15 @@
 
 ### Fallout: New Vegas
 
-**Platforms:** PlayStation 3, Xbox 360, Windows &nbsp;|&nbsp; **Released:** October 19
+<img src="../images/steam-22380.jpg" alt="Fallout: New Vegas cover" width="200">
+
+**Platforms:** PlayStation 3, Xbox 360, Windows &nbsp;|&nbsp; **Genre:** Action, RPG &nbsp;|&nbsp; **Released:** October 19
+
+> Welcome to Vegas. New Vegas. Enjoy your stay!
+>
+> _Synopsis source: Steam_
+
+[Steam](https://store.steampowered.com/app/22380)
 
 ---
 
@@ -2008,17 +2382,29 @@
 
 ### Flotilla
 
-**Platforms:** Xbox 360, Windows &nbsp;|&nbsp; **Released:** March 25
+<img src="../images/steam-55000.jpg" alt="Flotilla cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/Flotilla_(video_game))
+**Platforms:** Xbox 360, Windows &nbsp;|&nbsp; **Genre:** Adventure, Indie, Strategy &nbsp;|&nbsp; **Released:** March 25
+
+> Lead your orbital battleships to victory in Flotilla! Fight, trade, and explore new planets in your journey through the galaxy. Featuring tactically rich 3D combat, flank and surprise the enemy from any direction. When the dust settles, generate another randomized universe for a brand new adventure!
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Flotilla_(video_game)) · [Steam](https://store.steampowered.com/app/55000)
 
 ---
 
 ### Front Mission Evolved
 
-**Platforms:** Windows, Xbox 360, PlayStation 3 &nbsp;|&nbsp; **Released:** September 28
+<img src="../images/steam-43000.jpg" alt="Front Mission Evolved cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/Front_Mission_Evolved)
+**Platforms:** Windows, Xbox 360, PlayStation 3 &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** September 28
+
+> Experience piloting and customizing massive armored units called Wanzers while engaging in high-intensity battles driven by a compelling story. The battle begins now!
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Front_Mission_Evolved) · [Steam](https://store.steampowered.com/app/43000)
 
 ---
 
@@ -2030,9 +2416,15 @@
 
 ### Greed Corp
 
-**Platforms:** Xbox 360, PlayStation Network, Windows &nbsp;|&nbsp; **Released:** February 24
+<img src="../images/steam-48950.jpg" alt="Greed Corp cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/Greed_Corp)
+**Platforms:** Xbox 360, PlayStation Network, Windows &nbsp;|&nbsp; **Genre:** Strategy &nbsp;|&nbsp; **Released:** February 24
+
+> Turn-based strategy at its finest.
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Greed_Corp) · [Steam](https://store.steampowered.com/app/48950)
 
 ---
 
@@ -2138,15 +2530,29 @@
 
 ### Just Cause 2
 
-**Platforms:** Windows, Xbox 360, PlayStation 3 &nbsp;|&nbsp; **Released:** March 23
+<img src="../images/steam-8190.jpg" alt="Just Cause 2 cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/Just_Cause_2)
+**Platforms:** Windows, Xbox 360, PlayStation 3 &nbsp;|&nbsp; **Genre:** Action, Adventure &nbsp;|&nbsp; **Released:** March 23
+
+> Dive into an adrenaline-fuelled free-roaming adventure with 400 square miles of rugged terrain and hundreds of weapons and vehicles.
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Just_Cause_2) · [Steam](https://store.steampowered.com/app/8190)
 
 ---
 
 ### Kane & Lynch 2: Dog Days
 
-**Platforms:** Windows, Xbox 360, PlayStation 3 &nbsp;|&nbsp; **Released:** August 17
+<img src="../images/steam-28000.jpg" alt="Kane & Lynch 2: Dog Days cover" width="200">
+
+**Platforms:** Windows, Xbox 360, PlayStation 3 &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** August 17
+
+> Pure adrenaline of non-stop action in Single Player, Online Co-op and Multiplayer. Double the pleasure and mayhem with new multiplayer DLCs! (click for details)
+>
+> _Synopsis source: Steam_
+
+[Steam](https://store.steampowered.com/app/28000)
 
 ---
 
@@ -2184,15 +2590,29 @@
 
 ### Lara Croft and the Guardian of Light
 
-**Platforms:** Xbox 360, PlayStation Network, Windows, iOS &nbsp;|&nbsp; **Released:** August 18
+<img src="../images/steam-35130.jpg" alt="Lara Croft and the Guardian of Light cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/Lara_Croft_and_the_Guardian_of_Light)
+**Platforms:** Xbox 360, PlayStation Network, Windows, iOS &nbsp;|&nbsp; **Genre:** Action, Adventure &nbsp;|&nbsp; **Released:** August 18
+
+> Take control of Lara and her new partner Totec, a Mayan tribesman, and uncover the ancient artifact known as the &quot;Mirror of Smoke&quot; in this all new action adventure game.
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Lara_Croft_and_the_Guardian_of_Light) · [Steam](https://store.steampowered.com/app/35130)
 
 ---
 
 ### Lego Harry Potter: Years 1-4
 
-**Platforms:** Windows, PlayStation 3, Wii, PlayStation Portable, Xbox 360, Nintendo DS &nbsp;|&nbsp; **Released:** June 29
+<img src="../images/steam-21130.jpg" alt="Lego Harry Potter: Years 1-4 cover" width="200">
+
+**Platforms:** Windows, PlayStation 3, Wii, PlayStation Portable, Xbox 360, Nintendo DS &nbsp;|&nbsp; **Genre:** Action, Adventure &nbsp;|&nbsp; **Released:** June 29
+
+> Build the adventure from Privet Drive to the Triwizard Tournament and experience the magic of the first four Harry Potter stories – LEGO style! Explore Hogwarts™ School of Witchcraft and Wizardry, learn spells, brew potions and relive the adventures like never before with tongue-in-cheek humor and creative customization that is unique to...
+>
+> _Synopsis source: Steam_
+
+[Steam](https://store.steampowered.com/app/21130)
 
 ---
 
@@ -2234,9 +2654,15 @@
 
 ### Mafia II
 
-**Platforms:** Windows, Xbox 360, PlayStation 3 &nbsp;|&nbsp; **Released:** August 24
+<img src="../images/steam-50130.jpg" alt="Mafia II cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/Mafia_II)
+**Platforms:** Windows, Xbox 360, PlayStation 3 &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** August 24
+
+> Vito Scaletta has started to make a name for himself on the streets of Empire Bay as someone who can be trusted to get a job done. Together with his buddy Joe, he is working to prove himself to the Mafia, quickly escalating up the family ladder with crimes of larger reward, status and consequence… the life as a wise guy isn’t quite as...
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Mafia_II) · [Steam](https://store.steampowered.com/app/50130)
 
 ---
 
@@ -2264,9 +2690,15 @@
 
 ### Medal of Honor
 
-**Platforms:** Windows, PlayStation 3, Xbox 360 &nbsp;|&nbsp; **Released:** October 12
+<img src="../images/steam-47790.jpg" alt="Medal of Honor cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/Medal_of_Honor_(2010_video_game))
+**Platforms:** Windows, PlayStation 3, Xbox 360 &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** October 12
+
+> Fight Today's War: Elite Special Forces in a gritty combat campaign using the surgical tactics of Tier 1 Operators combined with the sledgehammer force of Army Rangers.
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Medal_of_Honor_(2010_video_game)) · [Steam](https://store.steampowered.com/app/47790)
 
 ---
 
@@ -2364,9 +2796,15 @@
 
 ### nail'd
 
-**Platforms:** PlayStation 3, Xbox 360, Windows &nbsp;|&nbsp; **Released:** November 30
+<img src="../images/steam-40380.jpg" alt="nail'd cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/Nail%27d)
+**Platforms:** PlayStation 3, Xbox 360, Windows &nbsp;|&nbsp; **Genre:** Racing &nbsp;|&nbsp; **Released:** November 30
+
+> Constant sense of ultimate speed is your only companion, and fast reflexes and tactical skills are what stands between victory and defeat. Buy before Dec. 7 10AM PST and get 10% off.
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Nail%27d) · [Steam](https://store.steampowered.com/app/40380)
 
 ---
 
@@ -2480,7 +2918,15 @@
 
 ### Prince of Persia: The Forgotten Sands
 
-**Platforms:** Nintendo DS, Wii, PlayStation Portable, PlayStation 3, Xbox 360, Windows &nbsp;|&nbsp; **Released:** May 18
+<img src="../images/steam-33320.jpg" alt="Prince of Persia: The Forgotten Sands cover" width="200">
+
+**Platforms:** Nintendo DS, Wii, PlayStation Portable, PlayStation 3, Xbox 360, Windows &nbsp;|&nbsp; **Genre:** Action, Adventure &nbsp;|&nbsp; **Released:** May 18
+
+> Prince of Persia The Forgotten Sands is the next chapter in the fan-favorite Sands of Time universe. Visiting his brother's kingdom following his adventure in Azad, the Prince finds the royal palace under siege from a mighty army bent on its destruction.
+>
+> _Synopsis source: Steam_
+
+[Steam](https://store.steampowered.com/app/33320)
 
 ---
 
@@ -2508,9 +2954,15 @@
 
 ### R.U.S.E.
 
-**Platforms:** Xbox 360, PlayStation 3, Windows &nbsp;|&nbsp; **Released:** September 17
+<img src="../images/steam-21970.jpg" alt="R.U.S.E. cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/R.U.S.E.)
+**Platforms:** Xbox 360, PlayStation 3, Windows &nbsp;|&nbsp; **Genre:** Strategy &nbsp;|&nbsp; **Released:** September 17
+
+> A one-of-a-kind real-time strategy game that allows players to bluff their enemies to lead their nation to victory. The Definitive Edition — includes all DLCs and Steam Deck support.
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/R.U.S.E.) · [Steam](https://store.steampowered.com/app/21970)
 
 ---
 
@@ -2628,9 +3080,15 @@
 
 ### Singularity
 
-**Platforms:** Windows, Xbox 360, PlayStation 3 &nbsp;|&nbsp; **Released:** June 29
+<img src="../images/steam-3499790.jpg" alt="Singularity cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/Singularity_(video_game))
+**Platforms:** Windows, Xbox 360, PlayStation 3 &nbsp;|&nbsp; **Genre:** Simulation, Strategy &nbsp;|&nbsp; **Released:** June 29
+
+> In this massive RTS game, command vast armies fighting for control of entire worlds. Control the forces of Earth, the mechanical AI Substrate, or the enigmatic Post-Human Coalition as you battle across the solar system in single player, cooperative multiplayer, or competitive multiplayer.
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Singularity_(video_game)) · [Steam](https://store.steampowered.com/app/3499790)
 
 ---
 
@@ -2650,7 +3108,15 @@
 
 ### Sniper: Ghost Warrior
 
-**Platforms:** Windows, Xbox 360 &nbsp;|&nbsp; **Released:** June 29
+<img src="../images/steam-34830.jpg" alt="Sniper: Ghost Warrior cover" width="200">
+
+**Platforms:** Windows, Xbox 360 &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** June 29
+
+> As a Ghost Warrior, an elite sniper in a highly trained special ops unit, your unique skills in the art of stalking, target detection, surveillance and shooting accuracy will determine mission success.
+>
+> _Synopsis source: Steam_
+
+[Steam](https://store.steampowered.com/app/34830)
 
 ---
 
@@ -2664,9 +3130,15 @@
 
 ### Sonic & Sega All-Stars Racing
 
-**Platforms:** PlayStation 3, Xbox 360, Nintendo DS, Wii, Windows &nbsp;|&nbsp; **Released:** February 23
+<img src="../images/steam-34190.jpg" alt="Sonic & Sega All-Stars Racing cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/Sonic_%26_Sega_All-Stars_Racing)
+**Platforms:** PlayStation 3, Xbox 360, Nintendo DS, Wii, Windows &nbsp;|&nbsp; **Genre:** Racing &nbsp;|&nbsp; **Released:** February 23
+
+> SONIC AND SEGA ALL-STARS RACE FOR VICTORY IN A HIGH SPEED HIGH SKILL RACETRACK SHOWDOWN! TAKE TO THE TRACK BY CAR, MONSTER TRUCK, BIKE AND EVEN AEROPLANE IN SONIC &amp; SEGA ALL-STARS RACING. Explore stunning new circuits including Sonic Seaside Hill, Curien Mansion and Blizzard Castle as you zip around medieval castle ramparts, hurtle...
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Sonic_%26_Sega_All-Stars_Racing) · [Steam](https://store.steampowered.com/app/34190)
 
 ---
 
@@ -2716,15 +3188,29 @@
 
 ### Star Wars: The Force Unleashed II
 
-**Platforms:** PlayStation 3, Xbox 360, Windows, Wii, Nintendo DS &nbsp;|&nbsp; **Released:** October 26
+<img src="../images/steam-32500.jpg" alt="Star Wars: The Force Unleashed II cover" width="200">
+
+**Platforms:** PlayStation 3, Xbox 360, Windows, Wii, Nintendo DS &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** October 26
+
+> The Star Wars® Saga continues with Star Wars®: The Force Unleashed™ II, the highly anticipated sequel to the fastest-selling Star Wars game ever created.
+>
+> _Synopsis source: Steam_
+
+[Steam](https://store.steampowered.com/app/32500)
 
 ---
 
 ### Super Meat Boy
 
-**Platforms:** Xbox 360, Windows &nbsp;|&nbsp; **Publisher:** Team Meat &nbsp;|&nbsp; **Released:** October 20, 2010
+<img src="../images/steam-40800.jpg" alt="Super Meat Boy cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/Super_Meat_Boy)
+**Platforms:** Xbox 360, Windows &nbsp;|&nbsp; **Publisher:** Team Meat &nbsp;|&nbsp; **Genre:** Indie &nbsp;|&nbsp; **Released:** October 20, 2010
+
+> The infamous, tough-as-nails platformer comes to Steam with a playable Head Crab character (Steam-exclusive)!
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Super_Meat_Boy) · [Steam](https://store.steampowered.com/app/40800)
 
 ---
 
@@ -2738,9 +3224,15 @@
 
 ### Supreme Commander 2
 
-**Platforms:** Windows, Xbox 360 &nbsp;|&nbsp; **Released:** March 2
+<img src="../images/steam-40100.jpg" alt="Supreme Commander 2 cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/Supreme_Commander_2)
+**Platforms:** Windows, Xbox 360 &nbsp;|&nbsp; **Genre:** Strategy &nbsp;|&nbsp; **Released:** March 2
+
+> Includes 47 Steam achievements, leaderboards, and stats!
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Supreme_Commander_2) · [Steam](https://store.steampowered.com/app/40100)
 
 ---
 
@@ -2800,7 +3292,15 @@
 
 ### Tom Clancy's Splinter Cell: Conviction
 
-**Platforms:** Xbox 360, Windows &nbsp;|&nbsp; **Released:** April 13
+<img src="../images/steam-33220.jpg" alt="Tom Clancy's Splinter Cell: Conviction cover" width="200">
+
+**Platforms:** Xbox 360, Windows &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** April 13
+
+> In this stealth-action thriller, Sam Fisher investigates his daughter’s death, only to uncover a betrayal by his former agency. Now hunted, he races against time to thwart a terrorist plot threatening millions.
+>
+> _Synopsis source: Steam_
+
+[Steam](https://store.steampowered.com/app/33220)
 
 ---
 
@@ -2996,7 +3496,15 @@
 
 ### Batman: Arkham Asylum
 
-**Platforms:** Xbox 360, PlayStation 3, Windows &nbsp;|&nbsp; **Publisher:** Eidos Interactive &nbsp;|&nbsp; **Released:** August 25, 2009
+<img src="../images/steam-35140.jpg" alt="Batman: Arkham Asylum cover" width="200">
+
+**Platforms:** Xbox 360, PlayStation 3, Windows &nbsp;|&nbsp; **Publisher:** Eidos Interactive &nbsp;|&nbsp; **Genre:** Action, Adventure &nbsp;|&nbsp; **Released:** August 25, 2009
+
+> Experience what it’s like to be Batman and face off against Gotham's greatest villians. Explore every inch of Arkham Asylum and roam freely on the infamous island.
+>
+> _Synopsis source: Steam_
+
+[Steam](https://store.steampowered.com/app/35140)
 
 ---
 
@@ -3010,7 +3518,15 @@
 
 ### Battlestations: Pacific
 
-**Platforms:** Windows, Xbox 360 &nbsp;|&nbsp; **Released:** May 12
+<img src="../images/steam-8170.jpg" alt="Battlestations: Pacific cover" width="200">
+
+**Platforms:** Windows, Xbox 360 &nbsp;|&nbsp; **Genre:** Action, Strategy &nbsp;|&nbsp; **Released:** May 12
+
+> Experience one war through two epic sagas where you will be a part of history or change it. Feel the power of the historically authentic and decisive battles of the Pacific War. Relive some of the grandest and most critical naval battles of recent history and for the first time, choose to lead your fleet to a completely different ending...
+>
+> _Synopsis source: Steam_
+
+[Steam](https://store.steampowered.com/app/8170)
 
 ---
 
@@ -3030,9 +3546,15 @@
 
 ### Bionic Commando
 
-**Platforms:** PlayStation 3, Xbox 360, Windows &nbsp;|&nbsp; **Released:** May 19
+<img src="../images/steam-21670.jpg" alt="Bionic Commando cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/Bionic_Commando_(2009_video_game))
+**Platforms:** PlayStation 3, Xbox 360, Windows &nbsp;|&nbsp; **Genre:** Action, Adventure &nbsp;|&nbsp; **Released:** May 19
+
+> The first true sequel to the classic 1988 Nintendo Entertainment System original, Bionic Commando sees the return of the bionically-enhanced Nathan &quot;R.A.D.&quot; Spencer. Time has not been kind to Spencer: Five years after his heroic defeat of the Imperials, he has been betrayed by the government he swore to serve, imprisoned for...
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Bionic_Commando_(2009_video_game)) · [Steam](https://store.steampowered.com/app/21670)
 
 ---
 
@@ -3104,13 +3626,29 @@
 
 ### Call of Duty: Modern Warfare 2
 
-**Platforms:** Xbox 360, PlayStation 3, Windows &nbsp;|&nbsp; **Publisher:** Activision &nbsp;|&nbsp; **Released:** November 10, 2009
+<img src="../images/steam-10180.jpg" alt="Call of Duty: Modern Warfare 2 cover" width="200">
+
+**Platforms:** Xbox 360, PlayStation 3, Windows &nbsp;|&nbsp; **Publisher:** Activision &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** November 10, 2009
+
+> The most-anticipated game of the year and the sequel to the best-selling first-person action game of all time, Modern Warfare 2 continues the gripping and heart-racing action as players face off against a new threat dedicated to bringing the world to the brink of collapse.
+>
+> _Synopsis source: Steam_
+
+[Steam](https://store.steampowered.com/app/10180)
 
 ---
 
 ### Call of Juarez: Bound in Blood
 
-**Platforms:** PlayStation 3, Windows, Xbox 360 &nbsp;|&nbsp; **Released:** June 30
+<img src="../images/steam-21980.jpg" alt="Call of Juarez: Bound in Blood cover" width="200">
+
+**Platforms:** PlayStation 3, Windows, Xbox 360 &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** June 30
+
+> THE OLD WEST, 1864. In order to save their family, the McCall brothers will kill anyone who stands between them and the legendary Gold of Juarez.
+>
+> _Synopsis source: Steam_
+
+[Steam](https://store.steampowered.com/app/21980)
 
 ---
 
@@ -3168,9 +3706,15 @@
 
 ### Damnation
 
-**Platforms:** Windows, PlayStation 3, Xbox 360 &nbsp;|&nbsp; **Released:** May 26
+<img src="../images/steam-4418990.jpg" alt="Damnation cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/Damnation_(video_game))
+**Platforms:** Windows, PlayStation 3, Xbox 360 &nbsp;|&nbsp; **Genre:** Action, Adventure, Indie &nbsp;|&nbsp; **Released:** May 26
+
+> Damnation84 is a fast-paced FPS game that uses impulse and propulsion weapons as a means of movement and combat. In this devastated world, eliminate enemies in sequence and complete the levels before your oxygen runs out. You are the last hope, survive and cause damnation.
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Damnation_(video_game)) · [Steam](https://store.steampowered.com/app/4418990)
 
 ---
 
@@ -3212,7 +3756,15 @@
 
 ### Dragon Age: Origins
 
-**Platforms:** Windows, PlayStation 3, Xbox 360 &nbsp;|&nbsp; **Publisher:** Electronic Arts &nbsp;|&nbsp; **Released:** November 3, 2009
+<img src="../images/steam-47810.jpg" alt="Dragon Age: Origins cover" width="200">
+
+**Platforms:** Windows, PlayStation 3, Xbox 360 &nbsp;|&nbsp; **Publisher:** Electronic Arts &nbsp;|&nbsp; **Genre:** RPG &nbsp;|&nbsp; **Released:** November 3, 2009
+
+> Explore a stunning world, make complex moral choices, and engage in bone-crushing combat against massive and terrifying creatures. The Ultimate Edition includes Dragon Age: Origins, Dragon Age: Origins - Awakening and all nine content packs.
+>
+> _Synopsis source: Steam_
+
+[Steam](https://store.steampowered.com/app/47810)
 
 ---
 
@@ -3236,7 +3788,15 @@
 
 ### F.E.A.R. 2: Project Origin
 
-**Platforms:** PlayStation 3, Windows, Xbox 360 &nbsp;|&nbsp; **Released:** February 10
+<img src="../images/steam-16450.jpg" alt="F.E.A.R. 2: Project Origin cover" width="200">
+
+**Platforms:** PlayStation 3, Windows, Xbox 360 &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** February 10
+
+> Assume the role of Special Forces Sgt. Becket as your routine mission quickly turns into a fight for survival against the wrath of Alma Wade. As Alma's terrifying power surges out of control, your squad is forced to battle through an apocalyptic landscape in search of clues for how to destroy her!
+>
+> _Synopsis source: Steam_
+
+[Steam](https://store.steampowered.com/app/16450)
 
 ---
 
@@ -3476,15 +4036,29 @@
 
 ### Left 4 Dead 2
 
-**Platforms:** Xbox 360, Windows &nbsp;|&nbsp; **Publisher:** Valve &nbsp;|&nbsp; **Released:** November 17, 2009
+<img src="../images/steam-550.jpg" alt="Left 4 Dead 2 cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/Left_4_Dead_2)
+**Platforms:** Xbox 360, Windows &nbsp;|&nbsp; **Publisher:** Valve &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** November 17, 2009
+
+> Set in the zombie apocalypse, Left 4 Dead 2 is a co-operative action horror FPS takes you and your friends through the cities, swamps and cemeteries of the Deep South, from Savannah to New Orleans across five expansive campaigns.
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Left_4_Dead_2) · [Steam](https://store.steampowered.com/app/550)
 
 ---
 
 ### Lego Indiana Jones 2: The Adventure Continues
 
-**Platforms:** Wii, Xbox 360, PlayStation 3, Nintendo DS, PlayStation Portable, Windows &nbsp;|&nbsp; **Released:** November 17
+<img src="../images/steam-32450.jpg" alt="Lego Indiana Jones 2: The Adventure Continues cover" width="200">
+
+**Platforms:** Wii, Xbox 360, PlayStation 3, Nintendo DS, PlayStation Portable, Windows &nbsp;|&nbsp; **Genre:** Adventure &nbsp;|&nbsp; **Released:** November 17
+
+> LEGO® Indy is back in his biggest adventure yet. Battle through all four movies, including all-new levels from the original adventures and your favorite new moments from The Kingdom of the Crystal Skull... or in true LEGO® fashion, get creative and build your own levels to play with friends!
+>
+> _Synopsis source: Steam_
+
+[Steam](https://store.steampowered.com/app/32450)
 
 ---
 
@@ -3520,7 +4094,15 @@
 
 ### Madballs in Babo: Invasion
 
-**Platforms:** Xbox 360, Windows &nbsp;|&nbsp; **Released:** July 15
+<img src="../images/steam-25700.jpg" alt="Madballs in Babo: Invasion cover" width="200">
+
+**Platforms:** Xbox 360, Windows &nbsp;|&nbsp; **Genre:** Action, Casual, Indie &nbsp;|&nbsp; **Released:** July 15
+
+> Now with cross-platform multiplayer! PC vs. Mac at last.
+>
+> _Synopsis source: Steam_
+
+[Steam](https://store.steampowered.com/app/25700)
 
 ---
 
@@ -3570,9 +4152,15 @@
 
 ### Mini Ninjas
 
-**Platforms:** Windows, Xbox 360, PlayStation 3, Wii, Nintendo DS &nbsp;|&nbsp; **Released:** September 8
+<img src="../images/steam-35000.jpg" alt="Mini Ninjas cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/Mini_Ninjas)
+**Platforms:** Windows, Xbox 360, PlayStation 3, Wii, Nintendo DS &nbsp;|&nbsp; **Genre:** Action, Adventure &nbsp;|&nbsp; **Released:** September 8
+
+> Mini Ninjas is a game that combines furious action with stealth and exploration for an experience that appeals to a wide audience across age groups and preferences. It’s an action-adventure with a strong focus on allowing the player freedom to explore the world and has the depth to allow for very varied gameplay and approaches to getting...
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Mini_Ninjas) · [Steam](https://store.steampowered.com/app/35000)
 
 ---
 
@@ -3586,9 +4174,15 @@
 
 ### MX vs. ATV Reflex
 
-**Platforms:** Nintendo DS, PlayStation 3, PlayStation Portable, Windows, Xbox 360 &nbsp;|&nbsp; **Released:** December 1
+<img src="../images/steam-55140.jpg" alt="MX vs. ATV Reflex cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/MX_vs._ATV_Reflex)
+**Platforms:** Nintendo DS, PlayStation 3, PlayStation Portable, Windows, Xbox 360 &nbsp;|&nbsp; **Genre:** Racing &nbsp;|&nbsp; **Released:** December 1
+
+> Think fast and hang on to your ride as you take independent control of the rider and take the ultimate test of mettle. Dual controls let you tear it up with death-defying tricks and high-flying freestyle action. Fight for traction and dig up the track to leave your mark.
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/MX_vs._ATV_Reflex) · [Steam](https://store.steampowered.com/app/55140)
 
 ---
 
@@ -3668,9 +4262,15 @@
 
 ### Ninja Blade
 
-**Platforms:** Xbox 360, Windows &nbsp;|&nbsp; **Released:** April 7
+<img src="../images/steam-1929300.jpg" alt="Ninja Blade cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/Ninja_Blade)
+**Platforms:** Xbox 360, Windows &nbsp;|&nbsp; **Genre:** Action, Indie, RPG, Strategy, Early Access &nbsp;|&nbsp; **Released:** April 7
+
+> Ninjas vs Samurais Card Chronicles: 死神の刃 is a beautiful story rich Jrpg, roguelike, card battling gameing. Combining both strategy &amp; skill, players will need to craft unique decks &amp; use their chosen heroes unique abilities, in hopes to restore balance &amp; bring peace to this war torn land.
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Ninja_Blade) · [Steam](https://store.steampowered.com/app/1929300)
 
 ---
 
@@ -3696,15 +4296,29 @@
 
 ### Overlord II
 
-**Platforms:** PlayStation 3, Windows, Xbox 360 &nbsp;|&nbsp; **Released:** June 23
+<img src="../images/steam-12810.jpg" alt="Overlord II cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/Overlord_II)
+**Platforms:** PlayStation 3, Windows, Xbox 360 &nbsp;|&nbsp; **Genre:** RPG &nbsp;|&nbsp; **Released:** June 23
+
+> Overlord II, sequel to the critically acclaimed cult hit, sees the return of the chaotic Minions and their new Dark Master. Bigger, badder and more beautifully destructive, Overlord 2 has a Glorious Empire to smash, a massive Netherworld to revive, Minion mounts to mobilize, a trio of mistresses to woo, War Machines to crush opposition...
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Overlord_II) · [Steam](https://store.steampowered.com/app/12810)
 
 ---
 
 ### Painkiller: Resurrection
 
-**Platforms:** Windows, Xbox 360 &nbsp;|&nbsp; **Released:** October 27
+<img src="../images/steam-39560.jpg" alt="Painkiller: Resurrection cover" width="200">
+
+**Platforms:** Windows, Xbox 360 &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** October 27
+
+> William &quot;Bill&quot; Sherman has a problem - he's dead. Blown to pieces by his own C4 payload, which he wanted to eliminate a South American druglord with on behalf of some shady secret service people.
+>
+> _Synopsis source: Steam_
+
+[Steam](https://store.steampowered.com/app/39560)
 
 ---
 
@@ -3724,9 +4338,15 @@
 
 ### Plants vs. Zombies
 
-**Platforms:** Windows, macOS, iOS, Xbox 360, PlayStation Network, Nintendo DS, Bada, Android, Windows Phone, PlayStation Vita, BlackBerry OS &nbsp;|&nbsp; **Publisher:** PopCap Games &nbsp;|&nbsp; **Released:** May 5, 2009
+<img src="../images/steam-3590.jpg" alt="Plants vs. Zombies cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/Plants_vs._Zombies)
+**Platforms:** Windows, macOS, iOS, Xbox 360, PlayStation Network, Nintendo DS, Bada, Android, Windows Phone, PlayStation Vita, BlackBerry OS &nbsp;|&nbsp; **Publisher:** PopCap Games &nbsp;|&nbsp; **Genre:** Strategy &nbsp;|&nbsp; **Released:** May 5, 2009
+
+> Zombies are invading your home, and the only defense is your arsenal of plants! Armed with an alien nursery-worth of zombie-zapping plants like peashooters and cherry bombs, you'll need to think fast and plant faster to stop dozens of types of zombies dead in their tracks.
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Plants_vs._Zombies) · [Steam](https://store.steampowered.com/app/3590)
 
 ---
 
@@ -3740,15 +4360,29 @@
 
 ### Prototype
 
-**Platforms:** PlayStation 3, Windows, Xbox 360 &nbsp;|&nbsp; **Released:** June 9
+<img src="../images/steam-10150.jpg" alt="Prototype cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/Prototype_(video_game))
+**Platforms:** PlayStation 3, Windows, Xbox 360 &nbsp;|&nbsp; **Genre:** Action, Adventure &nbsp;|&nbsp; **Released:** June 9
+
+> You are the Prototype, Alex Mercer, a man without memory armed with amazing shape-shifting abilities, hunting your way to the heart of the conspiracy which created you; making those responsible pay. Fast &amp; Deadly Shape-Shifting Combat: Reconfigure your body to the situation at hand.
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Prototype_(video_game)) · [Steam](https://store.steampowered.com/app/10150)
 
 ---
 
 ### Puzzle Quest: Galactrix
 
-**Platforms:** Nintendo DS, Windows, Xbox 360, PlayStation 3 &nbsp;|&nbsp; **Released:** February 24
+<img src="../images/steam-23500.jpg" alt="Puzzle Quest: Galactrix cover" width="200">
+
+**Platforms:** Nintendo DS, Windows, Xbox 360, PlayStation 3 &nbsp;|&nbsp; **Genre:** Casual, RPG &nbsp;|&nbsp; **Released:** February 24
+
+> The puzzle game of the future has arrived! The original best-selling new Puzzle franchise is back in an all new dimension with its signature Match-3, turn based battles in an insanely addictive and masterful hybrid of RPG and Puzzle genres.
+>
+> _Synopsis source: Steam_
+
+[Steam](https://store.steampowered.com/app/23500)
 
 ---
 
@@ -3790,15 +4424,29 @@
 
 ### Red Faction: Guerrilla
 
-**Platforms:** PlayStation 3, Xbox 360, Windows &nbsp;|&nbsp; **Released:** June 2
+<img src="../images/steam-20500.jpg" alt="Red Faction: Guerrilla cover" width="200">
+
+**Platforms:** PlayStation 3, Xbox 360, Windows &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** June 2
+
+> Set 50 years after the climactic events of the original Red Faction, Red Faction: Guerrilla allows players to take the role of an insurgent fighter with the newly re-established Red Faction movement as they battle for liberation from the oppressive Earth Defense Force.
+>
+> _Synopsis source: Steam_
+
+[Steam](https://store.steampowered.com/app/20500)
 
 ---
 
 ### Resident Evil 5
 
-**Platforms:** PlayStation 3, Xbox 360, Windows &nbsp;|&nbsp; **Released:** March 13
+<img src="../images/steam-21690.jpg" alt="Resident Evil 5 cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/Resident_Evil_5)
+**Platforms:** PlayStation 3, Xbox 360, Windows &nbsp;|&nbsp; **Genre:** Action, Adventure &nbsp;|&nbsp; **Released:** March 13
+
+> This game is a port of the Games for Windows - Live version that was released in 2009. If you buy the Untold Stories Bundle here on Steam, it will be the same as upgrading to Resident Evil 5 Gold Edition.
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Resident_Evil_5) · [Steam](https://store.steampowered.com/app/21690)
 
 ---
 
@@ -3820,9 +4468,15 @@
 
 ### Rogue Warrior
 
-**Platforms:** PlayStation 3, Windows, Xbox 360 &nbsp;|&nbsp; **Released:** December 1
+<img src="../images/steam-22310.jpg" alt="Rogue Warrior cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/Rogue_Warrior_(video_game))
+**Platforms:** PlayStation 3, Windows, Xbox 360 &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** December 1
+
+> Rogue Warrior is a character-driven, first-person-shooter, featuring Richard 'Demo Dick' Marcinko's explosive personality in an action-packed single player campaign, and intense multiplayer combat. Playing as Richard 'Demo Dick' Marcinko, you go behind the iron curtain to disrupt a suspected North Korean ballistic missile program.
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Rogue_Warrior_(video_game)) · [Steam](https://store.steampowered.com/app/22310)
 
 ---
 
@@ -3930,9 +4584,15 @@
 
 ### Street Fighter IV
 
-**Platforms:** PlayStation 3, Xbox 360, Windows &nbsp;|&nbsp; **Publisher:** Capcom &nbsp;|&nbsp; **Released:** February 12, 2009
+<img src="../images/steam-21660.jpg" alt="Street Fighter IV cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/Street_Fighter_IV)
+**Platforms:** PlayStation 3, Xbox 360, Windows &nbsp;|&nbsp; **Publisher:** Capcom &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** February 12, 2009
+
+> Street Fighter® IV brings the legendary fighting series back to its roots by taking the beloved fighting moves and techniques of the original Street Fighter® II, and infusing them with Capcom's latest advancements in next generation technology.
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Street_Fighter_IV) · [Steam](https://store.steampowered.com/app/21660)
 
 ---
 
@@ -4022,17 +4682,29 @@
 
 ### The Maw
 
-**Platforms:** Xbox 360, Windows &nbsp;|&nbsp; **Released:** January 21
+<img src="../images/steam-26000.jpg" alt="The Maw cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/The_Maw_(video_game))
+**Platforms:** Xbox 360, Windows &nbsp;|&nbsp; **Genre:** Action, Indie &nbsp;|&nbsp; **Released:** January 21
+
+> The pinnacle of alien evolution, Maw is a cowardly fat blob concerned mostly with snacking and lounging. He can, however, absorb the traits of anything he eats, is virtually indestructible, and can grow to unlimited size. If he wasn't a danger to all life in the universe, he'd make the perfect pet.
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/The_Maw_(video_game)) · [Steam](https://store.steampowered.com/app/26000)
 
 ---
 
 ### The Saboteur
 
-**Platforms:** PlayStation 3, Xbox 360, Windows &nbsp;|&nbsp; **Released:** December 8
+<img src="../images/steam-24880.jpg" alt="The Saboteur cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/The_Saboteur_(2009_video_game))
+**Platforms:** PlayStation 3, Xbox 360, Windows &nbsp;|&nbsp; **Genre:** Action, Adventure &nbsp;|&nbsp; **Released:** December 8
+
+> This open-world action thriller takes you through the seedy streets of Paris as you seek to undermine the German authority and lead a rebellion. Fight across rooftops and through dangerous alleys, and operate a wide variety of vehicles as you navigate your terrain.
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/The_Saboteur_(2009_video_game)) · [Steam](https://store.steampowered.com/app/24880)
 
 ---
 
@@ -4112,9 +4784,15 @@
 
 ### Velvet Assassin
 
-**Platforms:** Xbox 360, Windows &nbsp;|&nbsp; **Released:** April 28
+<img src="../images/steam-16720.jpg" alt="Velvet Assassin cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/Velvet_Assassin)
+**Platforms:** Xbox 360, Windows &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** April 28
+
+> Inspired by the fascinating story and unbreakable spirit of British secret agent Violette Szabo, players take control of Violette Summer, a beautiful World War II spy deep behind enemy lines with no support or official backing from the British Government.
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Velvet_Assassin) · [Steam](https://store.steampowered.com/app/16720)
 
 ---
 
@@ -4142,7 +4820,15 @@
 
 ### Watchmen: The End Is Nigh
 
-**Platforms:** PlayStation 3, Windows, Xbox 360 &nbsp;|&nbsp; **Released:** March 4
+<img src="../images/steam-21010.jpg" alt="Watchmen: The End Is Nigh cover" width="200">
+
+**Platforms:** PlayStation 3, Windows, Xbox 360 &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** March 4
+
+> The lines between good and bad have been blurred and crime and terror run rampant in the streets. The alleys, rooftops and sewers are crawling with criminals and brutal gangs. And now, Underboss — in a daring escape — has broken out of prison and is ruling with vicious darkness.
+>
+> _Synopsis source: Steam_
+
+[Steam](https://store.steampowered.com/app/21010)
 
 ---
 
@@ -4206,9 +4892,15 @@
 
 ### X-Blades
 
-**Platforms:** PlayStation 3, Windows, Xbox 360 &nbsp;|&nbsp; **Released:** February 10
+<img src="../images/steam-7510.jpg" alt="X-Blades cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/X-Blades)
+**Platforms:** PlayStation 3, Windows, Xbox 360 &nbsp;|&nbsp; **Genre:** Nudity, Violent, Action, Adventure, RPG &nbsp;|&nbsp; **Released:** February 10
+
+> In X-Blades, the player takes on the role of the enchanting heroine Ayumi, who survives a breathtaking dance of blades through the Hordes of Darkness. The long-haired beautiful anime, with her pistol blades and mind-blowing leaps, whirls and swirls from one fantastic level to the next.
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/X-Blades) · [Steam](https://store.steampowered.com/app/7510)
 
 ---
 
@@ -4254,9 +4946,15 @@
 
 ### Alone in the Dark
 
-**Platforms:** PlayStation 2, Wii, Windows, Xbox 360 &nbsp;|&nbsp; **Released:** June 20
+<img src="../images/steam-1310410.jpg" alt="Alone in the Dark cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/Alone_in_the_Dark_(2008_video_game))
+**Platforms:** PlayStation 2, Wii, Windows, Xbox 360 &nbsp;|&nbsp; **Genre:** Action, Adventure &nbsp;|&nbsp; **Released:** June 20
+
+> Return to Derceto Manor in this reimagination of Alone in the Dark, a love letter to the 90’s cult classic horror game.
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Alone_in_the_Dark_(2008_video_game)) · [Steam](https://store.steampowered.com/app/1310410)
 
 ---
 
@@ -4310,9 +5008,15 @@
 
 ### Bionic Commando Rearmed
 
-**Platforms:** Xbox 360, PlayStation 3, PlayStation Network, Windows &nbsp;|&nbsp; **Publisher:** Capcom &nbsp;|&nbsp; **Released:** August 13, 2008
+<img src="../images/steam-21680.jpg" alt="Bionic Commando Rearmed cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/Bionic_Commando_Rearmed)
+**Platforms:** Xbox 360, PlayStation 3, PlayStation Network, Windows &nbsp;|&nbsp; **Publisher:** Capcom &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** August 13, 2008
+
+> Classic side-scrolling gameplay is reporting back for duty with Bionic Commando Rearmed, a remake of the classic NES game, out now on PC.20 years after the 8-bit classic was released, Bionic Commando Rearmed recreates the world of the original with a complete &quot;2.5D&quot; visual revamp.
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Bionic_Commando_Rearmed) · [Steam](https://store.steampowered.com/app/21680)
 
 ---
 
@@ -4332,9 +5036,15 @@
 
 ### Bolt
 
-**Platforms:** Nintendo DS, PlayStation 2, PlayStation 3, Wii, Windows, Xbox 360 &nbsp;|&nbsp; **Released:** November 18
+<img src="../images/steam-3856030.jpg" alt="Bolt cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/Bolt_(video_game))
+**Platforms:** Nintendo DS, PlayStation 2, PlayStation 3, Wii, Windows, Xbox 360 &nbsp;|&nbsp; **Genre:** Strategy &nbsp;|&nbsp; **Released:** November 18
+
+> Step into the boots of a battlefield commander in Bolt Action, a turn-based WWII strategy inspired by Warlord Games’ tabletop classic.
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Bolt_(video_game)) · [Steam](https://store.steampowered.com/app/3856030)
 
 ---
 
@@ -4348,15 +5058,29 @@
 
 ### Brothers in Arms: Hell's Highway
 
-**Platforms:** PlayStation 3, Xbox 360, Windows &nbsp;|&nbsp; **Released:** September 23
+<img src="../images/steam-15390.jpg" alt="Brothers in Arms: Hell's Highway cover" width="200">
+
+**Platforms:** PlayStation 3, Xbox 360, Windows &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** September 23
+
+> Brothers in Arms Hell's Highway brings the critically acclaimed squad-based WWII shooter into the next generation of gaming with amazing graphics and sound, new cutting-edge gameplay features and a totally redesigned online component.
+>
+> _Synopsis source: Steam_
+
+[Steam](https://store.steampowered.com/app/15390)
 
 ---
 
 ### Bully: Scholarship Edition
 
-**Platforms:** Wii, Xbox 360, Windows &nbsp;|&nbsp; **Released:** March 3
+<img src="../images/steam-12200.jpg" alt="Bully: Scholarship Edition cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/Bully_(video_game))
+**Platforms:** Wii, Xbox 360, Windows &nbsp;|&nbsp; **Genre:** Action, Adventure &nbsp;|&nbsp; **Released:** March 3
+
+> Bully tells the story of mischievous 15-year-old Jimmy Hopkins as he goes through the hilarity and awkwardness of adolescence. Beat the jocks at dodge ball, play pranks on the preppies, save the nerds, kiss the girl and navigate the social hierarchy in the worst school around.
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Bully_(video_game)) · [Steam](https://store.steampowered.com/app/12200)
 
 ---
 
@@ -4370,7 +5094,15 @@
 
 ### Call of Duty: World at War
 
-**Platforms:** Nintendo DS, PlayStation 3, Wii, Windows, Xbox 360, PlayStation 2 &nbsp;|&nbsp; **Released:** November 11
+<img src="../images/steam-10090.jpg" alt="Call of Duty: World at War cover" width="200">
+
+**Platforms:** Nintendo DS, PlayStation 3, Wii, Windows, Xbox 360, PlayStation 2 &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** November 11
+
+> Call of Duty is back, redefining war like you've never experienced before. Building on the Call of Duty 4®: Modern Warfare engine, Call of Duty: World at War immerses players into the most gritty and chaotic WWII combat ever experienced.
+>
+> _Synopsis source: Steam_
+
+[Steam](https://store.steampowered.com/app/10090)
 
 ---
 
@@ -4392,13 +5124,29 @@
 
 ### Command & Conquer 3: Kane's Wrath
 
-**Platforms:** Windows, Xbox 360 &nbsp;|&nbsp; **Released:** March 24
+<img src="../images/steam-24810.jpg" alt="Command & Conquer 3: Kane's Wrath cover" width="200">
+
+**Platforms:** Windows, Xbox 360 &nbsp;|&nbsp; **Genre:** Action, Strategy &nbsp;|&nbsp; **Released:** March 24
+
+> In the name of Kane! The Command &amp; Conquer™ series continues to thrive with Command &amp; Conquer™ 3: Kane’s Wrath.
+>
+> _Synopsis source: Steam_
+
+[Steam](https://store.steampowered.com/app/24810)
 
 ---
 
 ### Command & Conquer: Red Alert 3
 
-**Platforms:** Windows, Xbox 360 &nbsp;|&nbsp; **Released:** October 28
+<img src="../images/steam-17480.jpg" alt="Command & Conquer: Red Alert 3 cover" width="200">
+
+**Platforms:** Windows, Xbox 360 &nbsp;|&nbsp; **Genre:** Action, Strategy &nbsp;|&nbsp; **Released:** October 28
+
+> The desperate leadership of a doomed Soviet Union travels back in time to change history and restore the glory of Mother Russia.
+>
+> _Synopsis source: Steam_
+
+[Steam](https://store.steampowered.com/app/17480)
 
 ---
 
@@ -4410,7 +5158,15 @@
 
 ### Conflict: Denied Ops
 
-**Platforms:** PlayStation 3, Windows, Xbox 360 &nbsp;|&nbsp; **Released:** February 12
+<img src="../images/steam-8100.jpg" alt="Conflict: Denied Ops cover" width="200">
+
+**Platforms:** PlayStation 3, Windows, Xbox 360 &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** February 12
+
+> *This is a single player only title*Venezuela is left in a state of civil war after the government was brutally overthrown by a military coup. With factions fighting to reinstate democracy, the U.S. government has offered their assistance, though the new government regime has threatened to deploy nuclear weapons if the U.S.
+>
+> _Synopsis source: Steam_
+
+[Steam](https://store.steampowered.com/app/8100)
 
 ---
 
@@ -4462,9 +5218,15 @@
 
 ### Dead Space
 
-**Platforms:** Xbox 360, PlayStation 3, Windows &nbsp;|&nbsp; **Publisher:** Electronic Arts &nbsp;|&nbsp; **Released:** October 13, 2008
+<img src="../images/steam-1693980.jpg" alt="Dead Space cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/Dead_Space_(video_game))
+**Platforms:** Xbox 360, PlayStation 3, Windows &nbsp;|&nbsp; **Publisher:** Electronic Arts &nbsp;|&nbsp; **Genre:** Action, Adventure &nbsp;|&nbsp; **Released:** October 13, 2008
+
+> The sci-fi survival-horror classic returns, completely rebuilt to offer an even more immersive experience — including visual, audio, and gameplay improvements — while staying faithful to the original game’s thrilling vision.
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Dead_Space_(video_game)) · [Steam](https://store.steampowered.com/app/1693980)
 
 ---
 
@@ -4580,17 +5342,29 @@
 
 ### Fallout 3
 
-**Platforms:** Xbox 360, Windows, PlayStation 3 &nbsp;|&nbsp; **Publisher:** Bethesda Softworks &nbsp;|&nbsp; **Released:** October 28, 2008
+<img src="../images/steam-22300.jpg" alt="Fallout 3 cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/Fallout_3)
+**Platforms:** Xbox 360, Windows, PlayStation 3 &nbsp;|&nbsp; **Publisher:** Bethesda Softworks &nbsp;|&nbsp; **Genre:** RPG &nbsp;|&nbsp; **Released:** October 28, 2008
+
+> Vault-Tec engineers have worked around the clock on an interactive reproduction of Wasteland life for you to enjoy from the comfort of your own vault. Included is an expansive world, unique combat, shockingly realistic visuals, tons of player choice, and an incredible cast of dynamic characters.
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Fallout_3) · [Steam](https://store.steampowered.com/app/22300)
 
 ---
 
 ### Far Cry 2
 
-**Platforms:** PlayStation 3, Windows, Xbox 360 &nbsp;|&nbsp; **Released:** October 21
+<img src="../images/steam-19900.jpg" alt="Far Cry 2 cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/Far_Cry_2)
+**Platforms:** PlayStation 3, Windows, Xbox 360 &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** October 21
+
+> You are a gun for hire, trapped in a war-torn African state, stricken with malaria and forced to make deals with corrupt warlords on both sides of the conflict in order to make this country your home. You must identify and exploit your enemies' weaknesses, neutralizing their superior numbers and firepower with surprise, subversion,...
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Far_Cry_2) · [Steam](https://store.steampowered.com/app/19900)
 
 ---
 
@@ -4628,7 +5402,15 @@
 
 ### Frontlines: Fuel of War
 
-**Platforms:** Windows, Xbox 360 &nbsp;|&nbsp; **Released:** February 25
+<img src="../images/steam-9460.jpg" alt="Frontlines: Fuel of War cover" width="200">
+
+**Platforms:** Windows, Xbox 360 &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** February 25
+
+> Frontlines™: Fuel of War™ is an open-world First Person Shooter set on the frontlines of tomorrow. In a world ravaged by a global energy crisis, environmental decay, and economic depression, players assume the role of an elite soldier in the Western Coalition Army on an epic crusade against the Red Star Alliance to control the last of...
+>
+> _Synopsis source: Steam_
+
+[Steam](https://store.steampowered.com/app/9460)
 
 ---
 
@@ -4766,9 +5548,15 @@
 
 ### Left 4 Dead
 
-**Platforms:** Xbox 360, Windows &nbsp;|&nbsp; **Publisher:** Valve &nbsp;|&nbsp; **Released:** November 18, 2008
+<img src="../images/steam-550.jpg" alt="Left 4 Dead cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/Left_4_Dead)
+**Platforms:** Xbox 360, Windows &nbsp;|&nbsp; **Publisher:** Valve &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** November 18, 2008
+
+> Set in the zombie apocalypse, Left 4 Dead 2 is a co-operative action horror FPS takes you and your friends through the cities, swamps and cemeteries of the Deep South, from Savannah to New Orleans across five expansive campaigns.
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Left_4_Dead) · [Steam](https://store.steampowered.com/app/550)
 
 ---
 
@@ -4782,13 +5570,29 @@
 
 ### Lego Batman: The Videogame
 
-**Platforms:** Nintendo DS, PlayStation 2, PlayStation 3, PlayStation Portable, Wii, Windows, Xbox 360 &nbsp;|&nbsp; **Released:** September 23
+<img src="../images/steam-21000.jpg" alt="Lego Batman: The Videogame cover" width="200">
+
+**Platforms:** Nintendo DS, PlayStation 2, PlayStation 3, PlayStation Portable, Wii, Windows, Xbox 360 &nbsp;|&nbsp; **Genre:** Action, Adventure &nbsp;|&nbsp; **Released:** September 23
+
+> When all the villains in Arkham Asylum team up and break loose, only the dynamic duo is bold enough to take them on to save Gotham City. The fun of LEGO, the drama of Batman and the uniqueness of the combination makes for a comical and exciting adventure in LEGO Batman: The Videogame.
+>
+> _Synopsis source: Steam_
+
+[Steam](https://store.steampowered.com/app/21000)
 
 ---
 
 ### Lego Indiana Jones: The Original Adventures
 
-**Platforms:** Nintendo DS, PlayStation 2, PlayStation 3, PlayStation Portable, Wii, Windows, Xbox, Xbox 360 &nbsp;|&nbsp; **Released:** June 3
+<img src="../images/steam-32330.jpg" alt="Lego Indiana Jones: The Original Adventures cover" width="200">
+
+**Platforms:** Nintendo DS, PlayStation 2, PlayStation 3, PlayStation Portable, Wii, Windows, Xbox, Xbox 360 &nbsp;|&nbsp; **Genre:** Action, Adventure &nbsp;|&nbsp; **Released:** June 3
+
+> Build, Battle and Brawl your way out of trouble! Play through all three classic Indiana Jones™ movies and relive your favorite Indy adventures in the tongue-in-cheek worlds of LEGO®. Explore and Discover - Battle enemies, solve puzzles, and seek out the world's greatest treasures.
+>
+> _Synopsis source: Steam_
+
+[Steam](https://store.steampowered.com/app/32330)
 
 ---
 
@@ -5024,9 +5828,15 @@
 
 ### Prince of Persia
 
-**Platforms:** PlayStation 3, Xbox 360, Windows &nbsp;|&nbsp; **Released:** December 2
+<img src="../images/steam-19980.jpg" alt="Prince of Persia cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/Prince_of_Persia_(2008_video_game))
+**Platforms:** PlayStation 3, Xbox 360, Windows &nbsp;|&nbsp; **Genre:** Action, Adventure &nbsp;|&nbsp; **Released:** December 2
+
+> The critically acclaimed Prince of Persia® franchise returns for the first time on next-generation platforms with an all-new epic journey. Built by the same award-winning Ubisoft Montreal studio that created Assassin's Creed™, Prince of Persia has been in development for over three years to deliver a whole new action-adventure gaming...
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Prince_of_Persia_(2008_video_game)) · [Steam](https://store.steampowered.com/app/19980)
 
 ---
 
@@ -5226,9 +6036,15 @@
 
 ### The Club
 
-**Platforms:** PlayStation 3, Windows, Xbox 360 &nbsp;|&nbsp; **Released:** February 7
+<img src="../images/steam-10460.jpg" alt="The Club cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/The_Club_(video_game))
+**Platforms:** PlayStation 3, Windows, Xbox 360 &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** February 7
+
+> The Club™, created by critically acclaimed developer Bizarre Creations, is a new breed of third-person shooter, combining fast-paced run and gun gameplay, destructive environments, and lethal weapons. You will fight to survive in a shadowy underground blood-sport controlled by a faceless, obscenely wealthy and influential elite who place...
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/The_Club_(video_game)) · [Steam](https://store.steampowered.com/app/10460)
 
 ---
 
@@ -5294,13 +6110,29 @@
 
 ### Tom Clancy's Rainbow Six: Vegas 2
 
-**Platforms:** PlayStation 3, Windows, Xbox 360 &nbsp;|&nbsp; **Released:** March 18
+<img src="../images/steam-15120.jpg" alt="Tom Clancy's Rainbow Six: Vegas 2 cover" width="200">
+
+**Platforms:** PlayStation 3, Windows, Xbox 360 &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** March 18
+
+> Tom Clancy's Rainbow Six® Vegas 2 - the sequel to the award-winning next-generation first-person shooter - returns to Sin City. Tom Clancy's Rainbow Six Vegas 2 is your last chance to rescue America's sexiest city from an escalating terrorist siege that will force you into heart-pounding action from beginning to end.
+>
+> _Synopsis source: Steam_
+
+[Steam](https://store.steampowered.com/app/15120)
 
 ---
 
 ### Tomb Raider: Underworld
 
-**Platforms:** Nintendo DS, PlayStation 2, PlayStation 3, Wii, Windows, Xbox 360 &nbsp;|&nbsp; **Released:** November 18
+<img src="../images/steam-8140.jpg" alt="Tomb Raider: Underworld cover" width="200">
+
+**Platforms:** Nintendo DS, PlayStation 2, PlayStation 3, Wii, Windows, Xbox 360 &nbsp;|&nbsp; **Genre:** Action, Adventure &nbsp;|&nbsp; **Released:** November 18
+
+> Tomb Raider: Underworld represents a new advancement in exploration-based gameplay. As fearless adventurer Lara Croft explore exotic locations around the world, each designed with an incredible attention to detail resulting in breathtaking high-definition visual fidelity that creates a truly believable world and delivers a new level of...
+>
+> _Synopsis source: Steam_
+
+[Steam](https://store.steampowered.com/app/8140)
 
 ---
 
@@ -5336,9 +6168,15 @@
 
 ### Turok
 
-**Platforms:** PlayStation 3, Xbox 360, Windows &nbsp;|&nbsp; **Released:** February 5
+<img src="../images/steam-1967610.jpg" alt="Turok cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/Turok_(2008_video_game))
+**Platforms:** PlayStation 3, Xbox 360, Windows &nbsp;|&nbsp; **Genre:** Action, Adventure &nbsp;|&nbsp; **Released:** February 5
+
+> Play as the legendary Turok warriors to face off against ferocious dinosaurs and a terrifying alien threat that seeks to destroy all human life across the galaxy.
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Turok_(2008_video_game)) · [Steam](https://store.steampowered.com/app/1967610)
 
 ---
 
@@ -5488,7 +6326,15 @@
 
 ### Battlestations: Midway
 
-**Platforms:** Xbox 360, Windows &nbsp;|&nbsp; **Released:** January 30
+<img src="../images/steam-6870.jpg" alt="Battlestations: Midway cover" width="200">
+
+**Platforms:** Xbox 360, Windows &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** January 30
+
+> Battlestations: Midway is an immense action game that drops players into massive air, sea, and undersea battles from Pearl Harbor to the Battle of Midway.
+>
+> _Synopsis source: Steam_
+
+[Steam](https://store.steampowered.com/app/6870)
 
 ---
 
@@ -5516,9 +6362,15 @@
 
 ### BioShock
 
-**Platforms:** Xbox 360, Windows &nbsp;|&nbsp; **Publisher:** 2K Games &nbsp;|&nbsp; **Released:** August 21, 2007
+<img src="../images/steam-7670.jpg" alt="BioShock cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/BioShock)
+**Platforms:** Xbox 360, Windows &nbsp;|&nbsp; **Publisher:** 2K Games &nbsp;|&nbsp; **Genre:** Action, RPG &nbsp;|&nbsp; **Released:** August 21, 2007
+
+> BioShock is a shooter unlike any you've ever played, loaded with weapons and tactics never seen. You'll have a complete arsenal at your disposal from simple revolvers to grenade launchers and chemical throwers, but you'll also be forced to genetically modify your DNA to create an even more deadly weapon: you.
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/BioShock) · [Steam](https://store.steampowered.com/app/7670)
 
 ---
 
@@ -5562,7 +6414,15 @@
 
 ### Call of Duty 4: Modern Warfare
 
-**Platforms:** Xbox 360, PlayStation 3, Windows &nbsp;|&nbsp; **Publisher:** Activision &nbsp;|&nbsp; **Released:** November 5, 2007
+<img src="../images/steam-7940.jpg" alt="Call of Duty 4: Modern Warfare cover" width="200">
+
+**Platforms:** Xbox 360, PlayStation 3, Windows &nbsp;|&nbsp; **Publisher:** Activision &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** November 5, 2007
+
+> The new action-thriller from the award-winning team at Infinity Ward, the creators of the Call of Duty® series, delivers the most intense and cinematic action experience ever. Call of Duty 4: Modern Warfare arms gamers with an arsenal of advanced and powerful modern day firepower and transports them to the most treacherous hotspots...
+>
+> _Synopsis source: Steam_
+
+[Steam](https://store.steampowered.com/app/7940)
 
 ---
 
@@ -5606,7 +6466,15 @@
 
 ### Command & Conquer 3: Tiberium Wars
 
-**Platforms:** Windows, Xbox 360 &nbsp;|&nbsp; **Released:** March 28
+<img src="../images/steam-24790.jpg" alt="Command & Conquer 3: Tiberium Wars cover" width="200">
+
+**Platforms:** Windows, Xbox 360 &nbsp;|&nbsp; **Genre:** Action, Strategy &nbsp;|&nbsp; **Released:** March 28
+
+> The year is 2047. A massive nuclear fireball explodes high in the night sky, marking the dramatic beginning of the Third Tiberium War and the long-awaited return of the most groundbreaking Real-Time Strategy franchise of all time
+>
+> _Synopsis source: Steam_
+
+[Steam](https://store.steampowered.com/app/24790)
 
 ---
 
@@ -5856,7 +6724,15 @@
 
 ### Kane & Lynch: Dead Men
 
-**Platforms:** PlayStation 3, Windows, Xbox 360 &nbsp;|&nbsp; **Released:** November 13
+<img src="../images/steam-8080.jpg" alt="Kane & Lynch: Dead Men cover" width="200">
+
+**Platforms:** PlayStation 3, Windows, Xbox 360 &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** November 13
+
+> Kane and Lynch: Dead Men is the new action shooter franchise by Io-Interactive, creators of the multi-million selling Hitman series. Kane &amp; Lynch: Dead Men follows the violent and chaotic journey of two men - a flawed mercenary and a medicated psychopath - and their brutal attitude towards right and wrong.
+>
+> _Synopsis source: Steam_
+
+[Steam](https://store.steampowered.com/app/8080)
 
 ---
 
@@ -5882,7 +6758,15 @@
 
 ### Lost Planet: Extreme Condition
 
-**Platforms:** Xbox 360, PlayStation 3, Windows &nbsp;|&nbsp; **Released:** January 12
+<img src="../images/steam-6510.jpg" alt="Lost Planet: Extreme Condition cover" width="200">
+
+**Platforms:** Xbox 360, PlayStation 3, Windows &nbsp;|&nbsp; **Genre:** Action, Adventure &nbsp;|&nbsp; **Released:** January 12
+
+> Driven to the brink of extinction on ice-covered wastelands, humankind fights to survive. Battle to survive against gargantuan alien Akrid and treacherous Snow Pirates on the vast and frozen landscape of EDN III.
+>
+> _Synopsis source: Steam_
+
+[Steam](https://store.steampowered.com/app/6510)
 
 ---
 
@@ -5970,9 +6854,15 @@
 
 ### Overlord
 
-**Platforms:** Xbox 360, Windows &nbsp;|&nbsp; **Released:** June 26
+<img src="../images/steam-12710.jpg" alt="Overlord cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/Overlord_(2007_video_game))
+**Platforms:** Xbox 360, Windows &nbsp;|&nbsp; **Genre:** RPG &nbsp;|&nbsp; **Released:** June 26
+
+> How evil can you get? Discover how corruptible you are in Overlord, the twisted fantasy action adventure where you can be evil (or really evil). In the game's seriously warped fantasy world, players will become the Overlord and get first-hand experience of how absolute power corrupts absolutely.
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Overlord_(2007_video_game)) · [Steam](https://store.steampowered.com/app/12710)
 
 ---
 
@@ -6008,9 +6898,15 @@
 
 ### Portal
 
-**Platforms:** Windows, Xbox 360, PlayStation 3 &nbsp;|&nbsp; **Publisher:** Valve &nbsp;|&nbsp; **Released:** October 10, 2007
+<img src="../images/steam-400.jpg" alt="Portal cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/Portal_(video_game))
+**Platforms:** Windows, Xbox 360, PlayStation 3 &nbsp;|&nbsp; **Publisher:** Valve &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** October 10, 2007
+
+> Portal™ is a new single player game from Valve. Set in the mysterious Aperture Science Laboratories, Portal has been called one of the most innovative new games on the horizon and will offer gamers hours of unique gameplay.
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Portal_(video_game)) · [Steam](https://store.steampowered.com/app/400)
 
 ---
 
@@ -6174,9 +7070,15 @@
 
 ### Surf's Up
 
-**Platforms:** Game Boy Advance, Nintendo DS, PlayStation 2, PlayStation 3, PlayStation Portable, Wii, Xbox 360, GameCube, Windows &nbsp;|&nbsp; **Released:** May 30
+<img src="../images/steam-3454830.jpg" alt="Surf's Up cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/Surf%27s_Up_(video_game))
+**Platforms:** Game Boy Advance, Nintendo DS, PlayStation 2, PlayStation 3, PlayStation Portable, Wii, Xbox 360, GameCube, Windows &nbsp;|&nbsp; **Genre:** Action, Casual, Indie, Racing, Sports, Free To Play &nbsp;|&nbsp; **Released:** May 30
+
+> SurfsUp is a free-to-play, standalone recreation of Counter-Strike Surf where precision movement and air-surfing are the keys to setting a new personal best or even breaking a world record. Surf, bhop, and climb across 125+ maps, all for free, with unique leaderboards for every way to play.
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Surf%27s_Up_(video_game)) · [Steam](https://store.steampowered.com/app/3454830)
 
 ---
 
@@ -6190,9 +7092,15 @@
 
 ### Team Fortress 2
 
-**Platforms:** Windows, Xbox 360, PlayStation 3 &nbsp;|&nbsp; **Publisher:** Valve &nbsp;|&nbsp; **Released:** October 10, 2007
+<img src="../images/steam-440.jpg" alt="Team Fortress 2 cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/Team_Fortress_2)
+**Platforms:** Windows, Xbox 360, PlayStation 3 &nbsp;|&nbsp; **Publisher:** Valve &nbsp;|&nbsp; **Genre:** Action, Free To Play &nbsp;|&nbsp; **Released:** October 10, 2007
+
+> Nine distinct classes provide a broad range of tactical abilities and personalities. Constantly updated with new game modes, maps, equipment and, most importantly, hats!
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Team_Fortress_2) · [Steam](https://store.steampowered.com/app/440)
 
 ---
 
@@ -6252,15 +7160,29 @@
 
 ### Thrillville: Off The Rails
 
-**Platforms:** Windows, PlayStation 2, Xbox 360, PlayStation 3, Wii, Nintendo DS &nbsp;|&nbsp; **Released:** October 9
+<img src="../images/steam-6080.jpg" alt="Thrillville: Off The Rails cover" width="200">
+
+**Platforms:** Windows, PlayStation 2, Xbox 360, PlayStation 3, Wii, Nintendo DS &nbsp;|&nbsp; **Genre:** Action, Adventure, Racing, Simulation, Strategy &nbsp;|&nbsp; **Released:** October 9
+
+> Thrillville™: Off the Rails lives up to its name with 20 death-defying rides! Players can build incredible coasters to leap from one track to another, launch through the air like cannonballs, blast through a burning rings of fire and more!
+>
+> _Synopsis source: Steam_
+
+[Steam](https://store.steampowered.com/app/6080)
 
 ---
 
 ### TimeShift
 
-**Platforms:** Windows, Xbox 360 &nbsp;|&nbsp; **Released:** October 30
+<img src="../images/steam-2682630.jpg" alt="TimeShift cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/TimeShift)
+**Platforms:** Windows, Xbox 360 &nbsp;|&nbsp; **Genre:** Adventure, Casual, Indie &nbsp;|&nbsp; **Released:** October 30
+
+> Don the trenchcoat of private eye Harrison Steel and dive deep into a futuristic crime-noir story sprawling with clues to track down. Crime and corruption run rampant in the city and above all looms the mysterious phenomenon known as &quot;Timeshifts&quot;. Can you rise to the challenge and crack the case?
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/TimeShift) · [Steam](https://store.steampowered.com/app/2682630)
 
 ---
 
@@ -6282,7 +7204,15 @@
 
 ### Tomb Raider: Anniversary
 
-**Platforms:** PlayStation 2, Windows, PlayStation Portable, Xbox 360, Wii, Mobile phone &nbsp;|&nbsp; **Released:** June 5
+<img src="../images/steam-8000.jpg" alt="Tomb Raider: Anniversary cover" width="200">
+
+**Platforms:** PlayStation 2, Windows, PlayStation Portable, Xbox 360, Wii, Mobile phone &nbsp;|&nbsp; **Genre:** Action, Adventure &nbsp;|&nbsp; **Released:** June 5
+
+> Tomb Raider: Anniversary retraces Lara Croft's original genre-defining adventure  globe-trotting 3rd person action-adventure in pursuit of the legendary Scion artifact. Using an enhanced 'Tomb Raider: Legend' game engine, the graphics, technology and physics bring Lara's adventure and pursuit of a mystical artifact known only as the...
+>
+> _Synopsis source: Steam_
+
+[Steam](https://store.steampowered.com/app/8000)
 
 ---
 
@@ -6600,15 +7530,29 @@
 
 ### Hitman: Blood Money
 
-**Platforms:** Windows, PlayStation 2, Xbox, Xbox 360 &nbsp;|&nbsp; **Released:** May 30
+<img src="../images/steam-6860.jpg" alt="Hitman: Blood Money cover" width="200">
+
+**Platforms:** Windows, PlayStation 2, Xbox, Xbox 360 &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** May 30
+
+> Money Talks. Silence Pays. Prepare to Make a Killing. When assassins from Agent 47's contract agency, The ICA, are eliminated in a series of hits, it seems a larger, more powerful agency has entered the fray. Sensing he may be a target, 47 travels to America, and prepares to make a killing.
+>
+> _Synopsis source: Steam_
+
+[Steam](https://store.steampowered.com/app/6860)
 
 ---
 
 ### Just Cause
 
-**Platforms:** Windows, PlayStation 2, Xbox, Xbox 360 &nbsp;|&nbsp; **Released:** September 22
+<img src="../images/steam-6880.jpg" alt="Just Cause cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/Just_Cause_(video_game))
+**Platforms:** Windows, PlayStation 2, Xbox, Xbox 360 &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** September 22
+
+> Your world...Your rules!
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Just_Cause_(video_game)) · [Steam](https://store.steampowered.com/app/6880)
 
 ---
 
@@ -6748,9 +7692,15 @@
 
 ### Prey
 
-**Platforms:** Windows, Xbox 360 &nbsp;|&nbsp; **Released:** July 11
+<img src="../images/steam-480490.jpg" alt="Prey cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/Prey_(2006_video_game))
+**Platforms:** Windows, Xbox 360 &nbsp;|&nbsp; **Genre:** Action, Adventure &nbsp;|&nbsp; **Released:** July 11
+
+> In Prey, you awaken aboard Talos I, a space station orbiting the moon in the year 2032. You are the key subject of an experiment meant to alter humanity forever – but things have gone terribly wrong. The space station has been overrun by hostile aliens and you are now being hunted.
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Prey_(2006_video_game)) · [Steam](https://store.steampowered.com/app/480490)
 
 ---
 
@@ -6882,13 +7832,29 @@
 
 ### Tom Clancy's Splinter Cell: Double Agent
 
-**Platforms:** Xbox, Xbox 360, PlayStation 2, GameCube, Windows, Wii &nbsp;|&nbsp; **Publisher:** Ubisoft &nbsp;|&nbsp; **Released:** October 24, 2006
+<img src="../images/steam-13580.jpg" alt="Tom Clancy's Splinter Cell: Double Agent cover" width="200">
+
+**Platforms:** Xbox, Xbox 360, PlayStation 2, GameCube, Windows, Wii &nbsp;|&nbsp; **Publisher:** Ubisoft &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** October 24, 2006
+
+> In the sequel to the 2005 Game of the Year, Splinter Cell: Double Agent, play as legendary covert operative Sam Fisher, infiltrate a ruthless terrorist organization, and destroy it from within.
+>
+> _Synopsis source: Steam_
+
+[Steam](https://store.steampowered.com/app/13580)
 
 ---
 
 ### Tomb Raider: Legend
 
-**Platforms:** Windows, PlayStation 2, Xbox, Xbox 360, PlayStation Portable, GameCube, Game Boy Advance, Nintendo DS &nbsp;|&nbsp; **Released:** April 11
+<img src="../images/steam-7000.jpg" alt="Tomb Raider: Legend cover" width="200">
+
+**Platforms:** Windows, PlayStation 2, Xbox, Xbox 360, PlayStation Portable, GameCube, Game Boy Advance, Nintendo DS &nbsp;|&nbsp; **Genre:** Action, Adventure &nbsp;|&nbsp; **Released:** April 11
+
+> Follow Lara Croft down a path of discovery as she travels the globe to remote, exotic locales in search of one of history's greatest artifacts, that unleashes unwelcome figures from Lara's mysterious past.
+>
+> _Synopsis source: Steam_
+
+[Steam](https://store.steampowered.com/app/7000)
 
 ---
 
@@ -6936,9 +7902,15 @@
 
 ### Call of Duty 2
 
-**Platforms:** Windows, Xbox 360 &nbsp;|&nbsp; **Released:** October 25
+<img src="../images/steam-2630.jpg" alt="Call of Duty 2 cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/Call_of_Duty_2)
+**Platforms:** Windows, Xbox 360 &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** October 25
+
+> Call of Duty® 2 redefines the cinematic intensity and chaos of battle as seen through the eyes of ordinary soldiers fighting together in epic WWII conflicts. The sequel to 2003's Call of Duty, winner of over 80 Game of the Year awards, Call of Duty 2 offers more immense, more intense, more realistic battles than ever before, thanks to...
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Call_of_Duty_2) · [Steam](https://store.steampowered.com/app/2630)
 
 ---
 
@@ -6988,7 +7960,15 @@
 
 ### Need for Speed: Most Wanted
 
-**Platforms:** Windows, PlayStation 2, Xbox, GameCube, Game Boy Advance, Nintendo DS, PlayStation Portable, Xbox 360 &nbsp;|&nbsp; **Released:** November 16
+<img src="../images/steam-1262560.jpg" alt="Need for Speed: Most Wanted cover" width="200">
+
+**Platforms:** Windows, PlayStation 2, Xbox, GameCube, Game Boy Advance, Nintendo DS, PlayStation Portable, Xbox 360 &nbsp;|&nbsp; **Genre:** Action, Adventure, Racing &nbsp;|&nbsp; **Released:** November 16
+
+> The open-world action in Need for Speed Most Wanted gives you the freedom to drive your way. Hit jumps and shortcuts, switch cars, lie low or head for terrain that plays to your vehicle’s unique strengths. Fight your way past cops and rivals using skill, high-end car tech and tons of nitrous.
+>
+> _Synopsis source: Steam_
+
+[Steam](https://store.steampowered.com/app/1262560)
 
 ---
 
@@ -7016,9 +7996,15 @@
 
 ### Quake 4
 
-**Platforms:** Windows, Xbox 360 &nbsp;|&nbsp; **Released:** October 18
+<img src="../images/steam-2210.jpg" alt="Quake 4 cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/Quake_4)
+**Platforms:** Windows, Xbox 360 &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** October 18
+
+> As part of the elite Rhino Squad, you must spearhead Earth’s military invasion of a hostile alien homeworld. But, in this desperate war for humanity’s survival against an unrelenting enemy, you may discover that the only way to defeat them...is to become one of them.
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Quake_4) · [Steam](https://store.steampowered.com/app/2210)
 
 ---
 

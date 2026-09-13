@@ -10,7 +10,15 @@
 
 ### Lego Indiana Jones: The Original Adventures
 
-**Platforms:** Nintendo DS, PlayStation 2, PlayStation 3, PlayStation Portable, Wii, Windows, Xbox, Xbox 360 &nbsp;|&nbsp; **Released:** June 3
+<img src="../images/steam-32330.jpg" alt="Lego Indiana Jones: The Original Adventures cover" width="200">
+
+**Platforms:** Nintendo DS, PlayStation 2, PlayStation 3, PlayStation Portable, Wii, Windows, Xbox, Xbox 360 &nbsp;|&nbsp; **Genre:** Action, Adventure &nbsp;|&nbsp; **Released:** June 3
+
+> Build, Battle and Brawl your way out of trouble! Play through all three classic Indiana Jones™ movies and relive your favorite Indy adventures in the tongue-in-cheek worlds of LEGO®. Explore and Discover - Battle enemies, solve puzzles, and seek out the world's greatest treasures.
+>
+> _Synopsis source: Steam_
+
+[Steam](https://store.steampowered.com/app/32330)
 
 ---
 
@@ -162,7 +170,15 @@
 
 ### Dreamfall: The Longest Journey
 
-**Platforms:** Windows, Xbox &nbsp;|&nbsp; **Released:** April 17
+<img src="../images/steam-6300.jpg" alt="Dreamfall: The Longest Journey cover" width="200">
+
+**Platforms:** Windows, Xbox &nbsp;|&nbsp; **Genre:** Adventure, RPG &nbsp;|&nbsp; **Released:** April 17
+
+> Dreamfall: The Longest Journey, winner of multiple E3 awards as the best game in its genre, is the continuation of a saga that began in the award-winning The Longest Journey, considered to be one of the finest adventure games ever made.
+>
+> _Synopsis source: Steam_
+
+[Steam](https://store.steampowered.com/app/6300)
 
 ---
 
@@ -224,7 +240,15 @@
 
 ### Hitman: Blood Money
 
-**Platforms:** Windows, PlayStation 2, Xbox, Xbox 360 &nbsp;|&nbsp; **Released:** May 30
+<img src="../images/steam-6860.jpg" alt="Hitman: Blood Money cover" width="200">
+
+**Platforms:** Windows, PlayStation 2, Xbox, Xbox 360 &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** May 30
+
+> Money Talks. Silence Pays. Prepare to Make a Killing. When assassins from Agent 47's contract agency, The ICA, are eliminated in a series of hits, it seems a larger, more powerful agency has entered the fray. Sensing he may be a target, 47 travels to America, and prepares to make a killing.
+>
+> _Synopsis source: Steam_
+
+[Steam](https://store.steampowered.com/app/6860)
 
 ---
 
@@ -254,9 +278,15 @@
 
 ### Just Cause
 
-**Platforms:** Windows, PlayStation 2, Xbox, Xbox 360 &nbsp;|&nbsp; **Released:** September 22
+<img src="../images/steam-6880.jpg" alt="Just Cause cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/Just_Cause_(video_game))
+**Platforms:** Windows, PlayStation 2, Xbox, Xbox 360 &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** September 22
+
+> Your world...Your rules!
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Just_Cause_(video_game)) · [Steam](https://store.steampowered.com/app/6880)
 
 ---
 
@@ -276,7 +306,15 @@
 
 ### Marc Eckō's Getting Up: Contents Under Pressure
 
-**Platforms:** Windows, PlayStation 2, Xbox &nbsp;|&nbsp; **Released:** February 14
+<img src="../images/steam-260190.jpg" alt="Marc Eckō's Getting Up: Contents Under Pressure cover" width="200">
+
+**Platforms:** Windows, PlayStation 2, Xbox &nbsp;|&nbsp; **Genre:** Action, Adventure &nbsp;|&nbsp; **Released:** February 14
+
+> Play as Trane, a &quot;toy&quot; graffiti artist with the street smarts, athletic prowess and vision to become an &quot;All City King&quot; - the most reputable of all graffiti artists. Along your quest, uncover the mayor's deep, dark secret and use your fighting talents and high-wire graffiti to expose the city's leader as a corrupt...
+>
+> _Synopsis source: Steam_
+
+[Steam](https://store.steampowered.com/app/260190)
 
 ---
 
@@ -504,13 +542,29 @@
 
 ### Tom Clancy's Splinter Cell: Double Agent
 
-**Platforms:** Xbox, Xbox 360, PlayStation 2, GameCube, Windows, Wii &nbsp;|&nbsp; **Publisher:** Ubisoft &nbsp;|&nbsp; **Released:** October 24, 2006
+<img src="../images/steam-13580.jpg" alt="Tom Clancy's Splinter Cell: Double Agent cover" width="200">
+
+**Platforms:** Xbox, Xbox 360, PlayStation 2, GameCube, Windows, Wii &nbsp;|&nbsp; **Publisher:** Ubisoft &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** October 24, 2006
+
+> In the sequel to the 2005 Game of the Year, Splinter Cell: Double Agent, play as legendary covert operative Sam Fisher, infiltrate a ruthless terrorist organization, and destroy it from within.
+>
+> _Synopsis source: Steam_
+
+[Steam](https://store.steampowered.com/app/13580)
 
 ---
 
 ### Tomb Raider: Legend
 
-**Platforms:** Windows, PlayStation 2, Xbox, Xbox 360, PlayStation Portable, GameCube, Game Boy Advance, Nintendo DS &nbsp;|&nbsp; **Released:** April 11
+<img src="../images/steam-7000.jpg" alt="Tomb Raider: Legend cover" width="200">
+
+**Platforms:** Windows, PlayStation 2, Xbox, Xbox 360, PlayStation Portable, GameCube, Game Boy Advance, Nintendo DS &nbsp;|&nbsp; **Genre:** Action, Adventure &nbsp;|&nbsp; **Released:** April 11
+
+> Follow Lara Croft down a path of discovery as she travels the globe to remote, exotic locales in search of one of history's greatest artifacts, that unleashes unwelcome figures from Lara's mysterious past.
+>
+> _Synopsis source: Steam_
+
+[Steam](https://store.steampowered.com/app/7000)
 
 ---
 
@@ -590,9 +644,15 @@
 
 ### Advent Rising
 
-**Platforms:** Xbox, Windows &nbsp;|&nbsp; **Released:** May 31
+<img src="../images/steam-3800.jpg" alt="Advent Rising cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/Advent_Rising)
+**Platforms:** Xbox, Windows &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** May 31
+
+> A common legend pervades the galaxy-that of a powerful, highly intelligent ancient race that will one day deliver the universe. They are known as Humans. The Advent of Humanity Begins...
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Advent_Rising) · [Steam](https://store.steampowered.com/app/3800)
 
 ---
 
@@ -606,9 +666,15 @@
 
 ### Area 51
 
-**Platforms:** Windows, PlayStation 2, Xbox &nbsp;|&nbsp; **Released:** June 8
+<img src="../images/steam-4423180.jpg" alt="Area 51 cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/Area_51_(2005_video_game))
+**Platforms:** Windows, PlayStation 2, Xbox &nbsp;|&nbsp; **Genre:** Action, Adventure, Casual, Indie, Simulation &nbsp;|&nbsp; **Released:** June 8
+
+> Storm AREA 51 with your friends. Explore the most classified facility on earth. Discover what they've been hiding. Take selfies with aliens and smuggle evidence out before the military arrives.
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Area_51_(2005_video_game)) · [Steam](https://store.steampowered.com/app/4423180)
 
 ---
 
@@ -634,13 +700,29 @@
 
 ### Brothers in Arms: Earned in Blood
 
-**Platforms:** Windows, PlayStation 2, Xbox &nbsp;|&nbsp; **Released:** October 26
+<img src="../images/steam-19800.jpg" alt="Brothers in Arms: Earned in Blood cover" width="200">
+
+**Platforms:** Windows, PlayStation 2, Xbox &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** October 26
+
+> With its unprecedented combination of authenticity, compelling story and squad-based action, the Brothers in Arms franchise has established itself as a benchmark for military action games, receiving the highest average review scores of any console WWII game to date (www.gamerankings.com).
+>
+> _Synopsis source: Steam_
+
+[Steam](https://store.steampowered.com/app/19800)
 
 ---
 
 ### Brothers in Arms: Road to Hill 30
 
-**Platforms:** Xbox, Windows, PlayStation 2 &nbsp;|&nbsp; **Released:** March 1
+<img src="../images/steam-15190.jpg" alt="Brothers in Arms: Road to Hill 30 cover" width="200">
+
+**Platforms:** Xbox, Windows, PlayStation 2 &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** March 1
+
+> Based on a true story. Set during the famous airdrop before the invasion at Normandy, where Sgt. Matt Baker and his squad of 101st Airborne Paratroopers were scattered over the French countryside.
+>
+> _Synopsis source: Steam_
+
+[Steam](https://store.steampowered.com/app/15190)
 
 ---
 
@@ -960,15 +1042,29 @@
 
 ### Judge Dredd: Dredd vs. Death
 
-**Platforms:** PlayStation 2, Xbox, GameCube, Windows &nbsp;|&nbsp; **Released:** February 24
+<img src="../images/steam-3710.jpg" alt="Judge Dredd: Dredd vs. Death cover" width="200">
+
+**Platforms:** PlayStation 2, Xbox, GameCube, Windows &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** February 24
+
+> Welcome to Mega-City One, a city of over 400 million people - every one of them a potential criminal. It is the third decade of the 22nd Century, unemployment is widespread, boredom is universal and only the Judges can prevent total anarchy. Empowered to dispense instant justice, they are Judge, Jury and Executioner all in one.
+>
+> _Synopsis source: Steam_
+
+[Steam](https://store.steampowered.com/app/3710)
 
 ---
 
 ### Juiced
 
-**Platforms:** Windows, PlayStation 2, Xbox &nbsp;|&nbsp; **Released:** June 13
+<img src="../images/steam-1287310.jpg" alt="Juiced cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/Juiced_(video_game))
+**Platforms:** Windows, PlayStation 2, Xbox &nbsp;|&nbsp; **Genre:** Action, Adventure, Indie &nbsp;|&nbsp; **Released:** June 13
+
+> Embark on an epic journey through exotic worlds to uncover the mystery of the magic crystals! An exciting retro platform adventure in the nostalgic style of the 90's DOS platformers
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Juiced_(video_game)) · [Steam](https://store.steampowered.com/app/1287310)
 
 ---
 
@@ -1068,7 +1164,15 @@
 
 ### Need for Speed: Most Wanted
 
-**Platforms:** Windows, PlayStation 2, Xbox, GameCube, Game Boy Advance, Nintendo DS, PlayStation Portable, Xbox 360 &nbsp;|&nbsp; **Released:** November 16
+<img src="../images/steam-1262560.jpg" alt="Need for Speed: Most Wanted cover" width="200">
+
+**Platforms:** Windows, PlayStation 2, Xbox, GameCube, Game Boy Advance, Nintendo DS, PlayStation Portable, Xbox 360 &nbsp;|&nbsp; **Genre:** Action, Adventure, Racing &nbsp;|&nbsp; **Released:** November 16
+
+> The open-world action in Need for Speed Most Wanted gives you the freedom to drive your way. Hit jumps and shortcuts, switch cars, lie low or head for terrain that plays to your vehicle’s unique strengths. Fight your way past cops and rivals using skill, high-end car tech and tons of nitrous.
+>
+> _Synopsis source: Steam_
+
+[Steam](https://store.steampowered.com/app/1262560)
 
 ---
 
@@ -1082,9 +1186,15 @@
 
 ### ObsCure
 
-**Platforms:** Windows, PlayStation 2, Xbox &nbsp;|&nbsp; **Released:** April 26
+<img src="../images/steam-254460.jpg" alt="ObsCure cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/ObsCure)
+**Platforms:** Windows, PlayStation 2, Xbox &nbsp;|&nbsp; **Genre:** Action, Adventure &nbsp;|&nbsp; **Released:** April 26
+
+> For some time now, Leafmore High School has been the setting for unexplained disappearances. In this survival horror game, you take control of a group of 5 American students. With your friends, you try to unravel the mysterious happenings at this unremarkable-looking school. The night will be long and survival not will not be easy...
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/ObsCure) · [Steam](https://store.steampowered.com/app/254460)
 
 ---
 
@@ -1138,7 +1248,15 @@
 
 ### Prince of Persia: The Two Thrones
 
-**Platforms:** Windows, PlayStation 2, Xbox, GameCube &nbsp;|&nbsp; **Released:** November 30
+<img src="../images/steam-13530.jpg" alt="Prince of Persia: The Two Thrones cover" width="200">
+
+**Platforms:** Windows, PlayStation 2, Xbox, GameCube &nbsp;|&nbsp; **Genre:** Action, Adventure &nbsp;|&nbsp; **Released:** November 30
+
+> The Prince of Persia, a seasoned warrior, returns from the Island of Time to Babylon with his love, Kaileena. Instead of the peace that he longs for, he finds his homeland ravaged by war and the kingdom turned against him.
+>
+> _Synopsis source: Steam_
+
+[Steam](https://store.steampowered.com/app/13530)
 
 ---
 
@@ -1152,9 +1270,15 @@
 
 ### Psychonauts
 
-**Platforms:** Xbox, Windows, PlayStation 2 &nbsp;|&nbsp; **Publisher:** Majesco &nbsp;|&nbsp; **Released:** April 19, 2005
+<img src="../images/steam-3830.jpg" alt="Psychonauts cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/Psychonauts)
+**Platforms:** Xbox, Windows, PlayStation 2 &nbsp;|&nbsp; **Publisher:** Majesco &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** April 19, 2005
+
+> A Psychic Odyssey Through the Minds of Misfits, Monsters, and Madmen. This classic action/adventure platformer from acclaimed developers Double Fine Productions follows the story of a young psychic named Razputin.
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Psychonauts) · [Steam](https://store.steampowered.com/app/3830)
 
 ---
 
@@ -1182,9 +1306,15 @@
 
 ### Serious Sam 2
 
-**Platforms:** Windows, Xbox &nbsp;|&nbsp; **Released:** October 11
+<img src="../images/steam-564310.jpg" alt="Serious Sam 2 cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/Serious_Sam_2)
+**Platforms:** Windows, Xbox &nbsp;|&nbsp; **Genre:** Action, Indie &nbsp;|&nbsp; **Released:** October 11
+
+> Serious Sam Fusion is a central hub for several existing Serious Sam games developed by Croteam. Cool new features, engine upgrades, patches and updates will be released to existing owners for FREE!
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Serious_Sam_2) · [Steam](https://store.steampowered.com/app/564310)
 
 ---
 
@@ -1246,7 +1376,15 @@
 
 ### Star Wars: Republic Commando
 
-**Platforms:** Xbox, Windows &nbsp;|&nbsp; **Released:** February 28
+<img src="../images/steam-6000.jpg" alt="Star Wars: Republic Commando cover" width="200">
+
+**Platforms:** Xbox, Windows &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** February 28
+
+> You are the leader of an elite squad of Republic Commandos, your mission is to infiltrate, dominate, and ultimately, annihilate the enemy. Your squad will follow your orders and your lead, working together as a team - instinctively, intelligently, instantly. You are their leader. They are your weapon.
+>
+> _Synopsis source: Steam_
+
+[Steam](https://store.steampowered.com/app/6000)
 
 ---
 
@@ -1346,7 +1484,15 @@
 
 ### Tom Clancy's Splinter Cell: Chaos Theory
 
-**Platforms:** Xbox, Windows, PlayStation 2, GameCube &nbsp;|&nbsp; **Publisher:** Ubisoft &nbsp;|&nbsp; **Released:** March 28, 2005
+<img src="../images/steam-13570.jpg" alt="Tom Clancy's Splinter Cell: Chaos Theory cover" width="200">
+
+**Platforms:** Xbox, Windows, PlayStation 2, GameCube &nbsp;|&nbsp; **Publisher:** Ubisoft &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** March 28, 2005
+
+> Experience one of the most critically acclaimed stealth-action games of all time. Uncover a conspiracy that hits close to home and stop World War III.
+>
+> _Synopsis source: Steam_
+
+[Steam](https://store.steampowered.com/app/13570)
 
 ---
 
@@ -1412,9 +1558,15 @@
 
 ### Alias
 
-**Platforms:** Windows, PlayStation 2, Xbox &nbsp;|&nbsp; **Released:** April 5
+<img src="../images/steam-3092710.jpg" alt="Alias cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/Alias_(video_game))
+**Platforms:** Windows, PlayStation 2, Xbox &nbsp;|&nbsp; **Genre:** Adventure, Casual, Indie, RPG &nbsp;|&nbsp; **Released:** April 5
+
+> Alia’s Chronicles is a puzzle-narrative game where you play as Neniu, a semi-elf on his quest for identity. Every action you take impacts the story! Craft tools, use your powers to solve puzzles, and prove yourself to the inhabitants of this enchanting world.
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Alias_(video_game)) · [Steam](https://store.steampowered.com/app/3092710)
 
 ---
 
@@ -1622,7 +1774,15 @@
 
 ### Hitman: Contracts
 
-**Platforms:** Windows, PlayStation 2, Xbox &nbsp;|&nbsp; **Released:** April 20
+<img src="../images/steam-247430.jpg" alt="Hitman: Contracts cover" width="200">
+
+**Platforms:** Windows, PlayStation 2, Xbox &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** April 20
+
+> Enter the world of a HITMAN - a world of crime, sin and greed. Delve into the mind of Agent 47 and encounter his greatest adversaries, completing the work that made him so brutally efficient and shaped him as an assassin. Eliminate your targets by any means necessary. There are no rules... only the contract, signed in blood.
+>
+> _Synopsis source: Steam_
+
+[Steam](https://store.steampowered.com/app/247430)
 
 ---
 
@@ -1662,9 +1822,15 @@
 
 ### Manhunt
 
-**Platforms:** Windows, Xbox &nbsp;|&nbsp; **Released:** April 20
+<img src="../images/steam-12130.jpg" alt="Manhunt cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/Manhunt_(video_game))
+**Platforms:** Windows, Xbox &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** April 20
+
+> You awake to the sound of your own panicked breath. In Manhunt, you must run, hide and fight to survive. If you can stay alive long enough, you may find out who did this to you. This is a brutal blood sport.
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Manhunt_(video_game)) · [Steam](https://store.steampowered.com/app/12130)
 
 ---
 
@@ -1740,7 +1906,15 @@
 
 ### Prince of Persia: Warrior Within
 
-**Platforms:** Windows, GameCube, PlayStation 2, Xbox &nbsp;|&nbsp; **Released:** December 2
+<img src="../images/steam-13500.jpg" alt="Prince of Persia: Warrior Within cover" width="200">
+
+**Platforms:** Windows, GameCube, PlayStation 2, Xbox &nbsp;|&nbsp; **Genre:** Action, Adventure &nbsp;|&nbsp; **Released:** December 2
+
+> Enter the dark underworld of Prince of Persia Warrior Within, the sword-slashing sequel to the critically acclaimed Prince of Persia: The Sands of Time™. Hunted by Dahaka, an immortal incarnation of Fate seeking divine retribution, the Prince embarks upon a path of both carnage and mystery to defy his preordained death.
+>
+> _Synopsis source: Steam_
+
+[Steam](https://store.steampowered.com/app/13500)
 
 ---
 
@@ -1834,13 +2008,29 @@
 
 ### Star Wars: Battlefront
 
-**Platforms:** Windows, PlayStation 2, Xbox &nbsp;|&nbsp; **Released:** September 21
+<img src="../images/steam-1237980.jpg" alt="Star Wars: Battlefront cover" width="200">
+
+**Platforms:** Windows, PlayStation 2, Xbox &nbsp;|&nbsp; **Genre:** Action, Adventure, Strategy &nbsp;|&nbsp; **Released:** September 21
+
+> The STAR WARS™ Battlefront™ Ultimate Edition includes the STAR WARS™ Battlefront™ Deluxe Edition as well as the STAR WARS™ Battlefront™ Season Pass.
+>
+> _Synopsis source: Steam_
+
+[Steam](https://store.steampowered.com/app/1237980)
 
 ---
 
 ### Star Wars: Knights of the Old Republic II The Sith Lords
 
-**Platforms:** Windows, Xbox &nbsp;|&nbsp; **Released:** December 6
+<img src="../images/steam-208580.jpg" alt="Star Wars: Knights of the Old Republic II The Sith Lords cover" width="200">
+
+**Platforms:** Windows, Xbox &nbsp;|&nbsp; **Genre:** RPG &nbsp;|&nbsp; **Released:** December 6
+
+> 5 years after the events of the award winning original, the Sith are on the verge of crushing the Old Republic. As a lone Jedi, will you follow the light side or succumb to the dark?
+>
+> _Synopsis source: Steam_
+
+[Steam](https://store.steampowered.com/app/208580)
 
 ---
 
@@ -1928,15 +2118,29 @@
 
 ### The Suffering
 
-**Platforms:** Windows, PlayStation 2, Xbox &nbsp;|&nbsp; **Released:** March 8
+<img src="../images/steam-1726550.jpg" alt="The Suffering cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/The_Suffering_(video_game))
+**Platforms:** Windows, PlayStation 2, Xbox &nbsp;|&nbsp; **Genre:** Action, Adventure, Indie &nbsp;|&nbsp; **Released:** March 8
+
+> This game is a psychological horror in which the main character wakes up in an unfamiliar house and must pass all the levels by solving puzzles.
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/The_Suffering_(video_game)) · [Steam](https://store.steampowered.com/app/1726550)
 
 ---
 
 ### Thief: Deadly Shadows
 
-**Platforms:** Windows, Xbox &nbsp;|&nbsp; **Released:** May 25
+<img src="../images/steam-6980.jpg" alt="Thief: Deadly Shadows cover" width="200">
+
+**Platforms:** Windows, Xbox &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** May 25
+
+> You are Garrett, the master thief. Rarely seen and never caught, Garrett is the best that ever was. Able to sneak past any guard, pick any lock, and break into the most ingeniously secured residences. Garrett steals from the wealthy and gives to himself, making his living in the dark and foreboding City.
+>
+> _Synopsis source: Steam_
+
+[Steam](https://store.steampowered.com/app/6980)
 
 ---
 
@@ -1958,7 +2162,15 @@
 
 ### Tom Clancy's Splinter Cell: Pandora Tomorrow
 
-**Platforms:** Xbox, Windows, GameCube, PlayStation 2 &nbsp;|&nbsp; **Publisher:** Ubisoft &nbsp;|&nbsp; **Released:** March 23, 2004
+<img src="../images/steam-3929740.jpg" alt="Tom Clancy's Splinter Cell: Pandora Tomorrow cover" width="200">
+
+**Platforms:** Xbox, Windows, GameCube, PlayStation 2 &nbsp;|&nbsp; **Publisher:** Ubisoft &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** March 23, 2004
+
+> Infiltrate secure locations across the globe in this stealth-action thriller. Uncover a global conspiracy and stop a deadly bio-terror attack in the second game of the award-winning Splinter Cell series.
+>
+> _Synopsis source: Steam_
+
+[Steam](https://store.steampowered.com/app/3929740)
 
 ---
 
@@ -2144,7 +2356,15 @@
 
 ### Deus Ex: Invisible War
 
-**Platforms:** Windows, Xbox &nbsp;|&nbsp; **Released:** December 2
+<img src="../images/steam-6920.jpg" alt="Deus Ex: Invisible War cover" width="200">
+
+**Platforms:** Windows, Xbox &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** December 2
+
+> Approximately 20 years after Deus Ex, the world is only beginning to recover from a catastrophic worldwide depression. In this techno-nightmare, take part in the dark struggle to raise the world from its own ashes.
+>
+> _Synopsis source: Steam_
+
+[Steam](https://store.steampowered.com/app/6920)
 
 ---
 
@@ -2226,9 +2446,15 @@
 
 ### Freedom Fighters
 
-**Platforms:** Windows, PlayStation 2, Xbox, GameCube &nbsp;|&nbsp; **Released:** October 1
+<img src="../images/steam-1347780.jpg" alt="Freedom Fighters cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/Freedom_Fighters_(video_game))
+**Platforms:** Windows, PlayStation 2, Xbox, GameCube &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** October 1
+
+> Freedom Fighters is an intense third-person action game set in an alternate history New York during the invasion of a foreign superpower. Take on the role of Chris Stone, a hard-working plumber, and rise through the ranks of the resistance to prove yourself as a charismatic leader.
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Freedom_Fighters_(video_game)) · [Steam](https://store.steampowered.com/app/1347780)
 
 ---
 
@@ -2292,7 +2518,15 @@
 
 ### Judge Dredd: Dredd vs. Death
 
-**Platforms:** Windows, GameCube, PlayStation 2, Xbox &nbsp;|&nbsp; **Released:** October 17
+<img src="../images/steam-3710.jpg" alt="Judge Dredd: Dredd vs. Death cover" width="200">
+
+**Platforms:** Windows, GameCube, PlayStation 2, Xbox &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** October 17
+
+> Welcome to Mega-City One, a city of over 400 million people - every one of them a potential criminal. It is the third decade of the 22nd Century, unemployment is widespread, boredom is universal and only the Judges can prevent total anarchy. Empowered to dispense instant justice, they are Judge, Jury and Executioner all in one.
+>
+> _Synopsis source: Steam_
+
+[Steam](https://store.steampowered.com/app/3710)
 
 ---
 
@@ -2330,7 +2564,15 @@
 
 ### Max Payne 2: The Fall of Max Payne
 
-**Platforms:** Windows, Xbox, PlayStation 2 &nbsp;|&nbsp; **Publisher:** Rockstar Games &nbsp;|&nbsp; **Released:** October 14, 2003
+<img src="../images/steam-12150.jpg" alt="Max Payne 2: The Fall of Max Payne cover" width="200">
+
+**Platforms:** Windows, Xbox, PlayStation 2 &nbsp;|&nbsp; **Publisher:** Rockstar Games &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** October 14, 2003
+
+> Max Payne 2: The Fall of Max Payne is a violent, film-noir love story. Dark, tragic and intense, the in-depth story is a thrill-ride of shocking twists and revelations. Love hurts.
+>
+> _Synopsis source: Steam_
+
+[Steam](https://store.steampowered.com/app/12150)
 
 ---
 
@@ -2422,15 +2664,29 @@
 
 ### Pirates of the Caribbean
 
-**Platforms:** Xbox, Windows &nbsp;|&nbsp; **Released:** July 1
+<img src="../images/steam-2591710.jpg" alt="Pirates of the Caribbean cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/Pirates_of_the_Caribbean_(video_game))
+**Platforms:** Xbox, Windows &nbsp;|&nbsp; **Genre:** Adventure, Massively Multiplayer, RPG, Simulation, Strategy, Free To Play &nbsp;|&nbsp; **Released:** July 1
+
+> Battle for the title of Pirate King in Pirates of the Caribbean: Tides of War, the official real-time strategy game. Live the pirate’s life: lead fearsome fleets, plunder priceless treasures, and fight alongside legendary Captains. The seas await, claim your destiny!
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Pirates_of_the_Caribbean_(video_game)) · [Steam](https://store.steampowered.com/app/2591710)
 
 ---
 
 ### Prince of Persia: The Sands of Time
 
-**Platforms:** Xbox, GameCube, PlayStation 2, Windows &nbsp;|&nbsp; **Publisher:** Ubisoft &nbsp;|&nbsp; **Released:** November 18, 2003
+<img src="../images/steam-13600.jpg" alt="Prince of Persia: The Sands of Time cover" width="200">
+
+**Platforms:** Xbox, GameCube, PlayStation 2, Windows &nbsp;|&nbsp; **Publisher:** Ubisoft &nbsp;|&nbsp; **Genre:** Action, Adventure &nbsp;|&nbsp; **Released:** November 18, 2003
+
+> Amidst the scorched sands of ancient Persia, there is a legend spun in an ancient tongue. It speaks of a time borne by blood and ruled by deceit. Drawn to the dark powers of a magic dagger, a young Prince is led to unleash a deadly evil upon a beautiful kingdom.
+>
+> _Synopsis source: Steam_
+
+[Steam](https://store.steampowered.com/app/13600)
 
 ---
 
@@ -2518,13 +2774,29 @@
 
 ### Star Wars Jedi Knight: Jedi Academy
 
-**Platforms:** Windows, Xbox &nbsp;|&nbsp; **Released:** September 17
+<img src="../images/steam-6020.jpg" alt="Star Wars Jedi Knight: Jedi Academy cover" width="200">
+
+**Platforms:** Windows, Xbox &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** September 17
+
+> Forge your weapon and follow the path of the Jedi Jedi Knight: Jedi Academy is the latest installment of the highly acclaimed Jedi Knight series. Take on the role of a new student eager to learn the ways of the Force from Jedi Master Luke Skywalker.
+>
+> _Synopsis source: Steam_
+
+[Steam](https://store.steampowered.com/app/6020)
 
 ---
 
 ### Star Wars: Knights of the Old Republic
 
-**Platforms:** Xbox, Windows &nbsp;|&nbsp; **Publisher:** LucasArts &nbsp;|&nbsp; **Released:** July 15, 2003
+<img src="../images/steam-32370.jpg" alt="Star Wars: Knights of the Old Republic cover" width="200">
+
+**Platforms:** Xbox, Windows &nbsp;|&nbsp; **Publisher:** LucasArts &nbsp;|&nbsp; **Genre:** Adventure, RPG &nbsp;|&nbsp; **Released:** July 15, 2003
+
+> It is four thousand years before the Galactic Empire and hundreds of Jedi Knights have fallen in battle against the ruthless Sith. You are the last hope of the Jedi Order. Can you master the awesome power of the Force on your quest to save the Republic? Or will you fall to the lure of the dark side?
+>
+> _Synopsis source: Steam_
+
+[Steam](https://store.steampowered.com/app/32370)
 
 ---
 
@@ -2562,9 +2834,15 @@
 
 ### The Great Escape
 
-**Platforms:** Windows, PlayStation 2, Xbox &nbsp;|&nbsp; **Released:** July 23
+<img src="../images/steam-814570.jpg" alt="The Great Escape cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/The_Great_Escape_(2003_video_game))
+**Platforms:** Windows, PlayStation 2, Xbox &nbsp;|&nbsp; **Genre:** Action, Adventure, Simulation, Strategy &nbsp;|&nbsp; **Released:** July 23
+
+> Captured, but not defeated, you are being held in the notorious Heldentod camp. This small, converted castle in the middle of nowhere will be your home for the rest of the war—unless you can escape to rejoin the Allied Armies.
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/The_Great_Escape_(2003_video_game)) · [Steam](https://store.steampowered.com/app/814570)
 
 ---
 
@@ -2754,7 +3032,15 @@
 
 ### Hitman 2: Silent Assassin
 
-**Platforms:** Windows, PlayStation 2, Xbox &nbsp;|&nbsp; **Released:** October 1
+<img src="../images/steam-6850.jpg" alt="Hitman 2: Silent Assassin cover" width="200">
+
+**Platforms:** Windows, PlayStation 2, Xbox &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** October 1
+
+> Enter the realm of a retired assassin, forced back into action by treason. You may be a hired killer but you still have a sense of loyalty and justice. Visit the dark recesses of a world corrupted by crime, greed, degradation and dishonor. And a past that catches up with you.
+>
+> _Synopsis source: Steam_
+
+[Steam](https://store.steampowered.com/app/6850)
 
 ---
 
@@ -2922,7 +3208,15 @@
 
 ### Star Wars Jedi Knight II: Jedi Outcast
 
-**Platforms:** Windows, GameCube, Xbox &nbsp;|&nbsp; **Publisher:** Activision &nbsp;|&nbsp; **Released:** March 26, 2002
+<img src="../images/steam-6030.jpg" alt="Star Wars Jedi Knight II: Jedi Outcast cover" width="200">
+
+**Platforms:** Windows, GameCube, Xbox &nbsp;|&nbsp; **Publisher:** Activision &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** March 26, 2002
+
+> The Legacy of Star Wars Dark Forces™ and Star Wars® Jedi Knight lives on in the intense first-person action of Jedi Outcast.
+>
+> _Synopsis source: Steam_
+
+[Steam](https://store.steampowered.com/app/6030)
 
 ---
 
@@ -3048,7 +3342,15 @@
 
 ### Zapper: One Wicked Cricket
 
-**Platforms:** Windows, PlayStation 2, Xbox, GameCube, Game Boy Advance &nbsp;|&nbsp; **Released:** November 5
+<img src="../images/steam-2766060.jpg" alt="Zapper: One Wicked Cricket cover" width="200">
+
+**Platforms:** Windows, PlayStation 2, Xbox, GameCube, Game Boy Advance &nbsp;|&nbsp; **Genre:** Action, Adventure &nbsp;|&nbsp; **Released:** November 5
+
+> In this action-adventure game, Zapper (a cricket) hops his way through six worlds in a quest to find his brother, held captive by the evil magpie queen. Dangerous traps and even more dangerous enemies await! It will take skill and timing to conquer all the worlds and survive the final showdown.
+>
+> _Synopsis source: Steam_
+
+[Steam](https://store.steampowered.com/app/2766060)
 
 ---
 

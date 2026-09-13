@@ -60,9 +60,13 @@
 
 ### Rayman Legends
 
-**Platforms:** Wii U, PlayStation 3, Windows, Xbox 360 &nbsp;|&nbsp; **Publisher:** Ubisoft &nbsp;|&nbsp; **Released:** August 29, 2013
+**Platforms:** Wii U, PlayStation 3, Windows, Xbox 360 &nbsp;|&nbsp; **Publisher:** Ubisoft &nbsp;|&nbsp; **Genre:** Action, Adventure &nbsp;|&nbsp; **Released:** August 29, 2013
 
-[Wikipedia](https://en.wikipedia.org/wiki/Rayman_Legends)
+> Michel Ancel, the celebrated creator of Rayman®, Beyond Good &amp; Evil®, and the Raving Rabbids®, returns to unleash his innovative creativity on this new entry into the Rayman® franchise.When Rayman, Globox, and the Teensies discover a mysterious tent filled with captivating paintings, they are suddenly transported to a series of...
+>
+> _Synopsis source: Steam_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Rayman_Legends) · [Steam](https://store.steampowered.com/app/242550)
 
 ---
 
