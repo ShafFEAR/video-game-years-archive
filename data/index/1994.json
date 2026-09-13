@@ -1,0 +1,648 @@
+[
+  {
+    "year": 1994,
+    "section": "United Kingdom",
+    "title": "Sensible Soccer",
+    "wiki_title": "Sensible Soccer",
+    "wiki_url": "https://en.wikipedia.org/wiki/Sensible_Soccer",
+    "redlink": false,
+    "release_date": "January",
+    "publisher": "Sony",
+    "genre": "Sports (soccer)",
+    "platform_breakdown": {
+      "platform": "GEN"
+    },
+    "platforms": [
+      "Genesis / Mega Drive"
+    ]
+  },
+  {
+    "year": 1994,
+    "section": "United Kingdom",
+    "title": "SimCity 2000",
+    "wiki_title": "SimCity 2000",
+    "wiki_url": "https://en.wikipedia.org/wiki/SimCity_2000",
+    "redlink": false,
+    "release_date": "February",
+    "publisher": "Mindscape",
+    "genre": "City builder",
+    "platform_breakdown": {
+      "platform": "DOS, MAC"
+    },
+    "platforms": [
+      "MS-DOS",
+      "macOS"
+    ]
+  },
+  {
+    "year": 1994,
+    "section": "United Kingdom",
+    "title": "NBA Jam",
+    "wiki_title": "NBA Jam (1993 video game)",
+    "wiki_url": "https://en.wikipedia.org/wiki/NBA_Jam_(1993_video_game)",
+    "redlink": false,
+    "release_date": "March",
+    "publisher": "Acclaim",
+    "genre": "Sports (basketball)",
+    "platform_breakdown": {
+      "platform": "GEN, SNES, GG"
+    },
+    "platforms": [
+      "Genesis / Mega Drive",
+      "Super Nintendo Entertainment System",
+      "Game Gear"
+    ]
+  },
+  {
+    "year": 1994,
+    "section": "United Kingdom",
+    "title": "Doom",
+    "wiki_title": "Doom (1993 video game)",
+    "wiki_url": "https://en.wikipedia.org/wiki/Doom_(1993_video_game)",
+    "redlink": false,
+    "release_date": "April",
+    "publisher": "Id Software",
+    "genre": "FPS",
+    "platform_breakdown": {
+      "platform": "LIN"
+    },
+    "platforms": [
+      "Linux"
+    ],
+    "developer_publisher": "Dave D. Taylor /id Software"
+  },
+  {
+    "year": 1994,
+    "section": "United Kingdom",
+    "title": "World Cup Striker",
+    "wiki_title": "Striker (video game)",
+    "wiki_url": "https://en.wikipedia.org/wiki/Striker_(video_game)",
+    "redlink": false,
+    "release_date": "May",
+    "publisher": "U.S. Gold",
+    "genre": "Sports (soccer)",
+    "platform_breakdown": {
+      "platform": "SNES"
+    },
+    "platforms": [
+      "Super Nintendo Entertainment System"
+    ]
+  },
+  {
+    "year": 1994,
+    "section": "United Kingdom",
+    "title": "World Cup USA '94",
+    "wiki_title": "World Cup USA '94",
+    "wiki_url": "https://en.wikipedia.org/wiki/World_Cup_USA_%2794",
+    "redlink": false,
+    "release_date": "June",
+    "publisher": "U.S. Gold",
+    "genre": "Sports (soccer)",
+    "platform_breakdown": {
+      "platform": "GEN, SNES, GG"
+    },
+    "platforms": [
+      "Genesis / Mega Drive",
+      "Super Nintendo Entertainment System",
+      "Game Gear"
+    ]
+  },
+  {
+    "year": 1994,
+    "section": "United Kingdom",
+    "title": "Star Wars: TIE Fighter",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "release_date": "July",
+    "publisher": "Virgin Interactive",
+    "genre": "Space combat",
+    "platform_breakdown": {
+      "platform": ""
+    },
+    "platforms": []
+  },
+  {
+    "year": 1994,
+    "section": "United Kingdom",
+    "title": "Super Street Fighter II",
+    "wiki_title": "Super Street Fighter II",
+    "wiki_url": "https://en.wikipedia.org/wiki/Super_Street_Fighter_II",
+    "redlink": false,
+    "release_date": "August",
+    "publisher": "Sega",
+    "genre": "Fighting",
+    "platform_breakdown": {
+      "platform": "GEN"
+    },
+    "platforms": [
+      "Genesis / Mega Drive"
+    ]
+  },
+  {
+    "year": 1994,
+    "section": "United Kingdom",
+    "title": "Mortal Kombat II",
+    "wiki_title": "Mortal Kombat II",
+    "wiki_url": "https://en.wikipedia.org/wiki/Mortal_Kombat_II",
+    "redlink": false,
+    "release_date": "September",
+    "publisher": "Acclaim",
+    "genre": "Fighting",
+    "platform_breakdown": {
+      "platform": "SNES"
+    },
+    "platforms": [
+      "Super Nintendo Entertainment System",
+      "Genesis / Mega Drive",
+      "Sega Master System",
+      "Game Gear",
+      "Game Boy"
+    ],
+    "developer_publisher": "Sculptured Software /Acclaim Entertainment"
+  },
+  {
+    "year": 1994,
+    "section": "United Kingdom",
+    "title": "Doom II",
+    "wiki_title": "Doom II",
+    "wiki_url": "https://en.wikipedia.org/wiki/Doom_II",
+    "redlink": false,
+    "release_date": "October",
+    "publisher": "Virgin Interactive",
+    "genre": "FPS",
+    "platform_breakdown": {
+      "platform": "DOS"
+    },
+    "platforms": [
+      "MS-DOS"
+    ],
+    "developer_publisher": "id Software"
+  },
+  {
+    "year": 1994,
+    "section": "United Kingdom",
+    "title": "FIFA Soccer 95",
+    "wiki_title": "FIFA Soccer 95",
+    "wiki_url": "https://en.wikipedia.org/wiki/FIFA_Soccer_95",
+    "redlink": false,
+    "release_date": "November",
+    "publisher": "EA Sports",
+    "genre": "Sports (soccer)",
+    "platform_breakdown": {
+      "platform": "GEN"
+    },
+    "platforms": [
+      "Genesis / Mega Drive"
+    ]
+  },
+  {
+    "year": 1994,
+    "section": "Notable releases in 1994",
+    "title": "Sonic the Hedgehog 3",
+    "wiki_title": "Sonic the Hedgehog 3",
+    "wiki_url": "https://en.wikipedia.org/wiki/Sonic_the_Hedgehog_3",
+    "redlink": false,
+    "release_date": "February 2",
+    "developer_publisher": "Sega",
+    "platform_breakdown": {
+      "platform": "GEN"
+    },
+    "platforms": [
+      "Genesis / Mega Drive"
+    ]
+  },
+  {
+    "year": 1994,
+    "section": "Notable releases in 1994",
+    "title": "X-COM: UFO Defense",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "release_date": "March",
+    "developer_publisher": "Mythos Games / MicroProse",
+    "platform_breakdown": {
+      "platform": "DOS"
+    },
+    "platforms": [
+      "MS-DOS"
+    ]
+  },
+  {
+    "year": 1994,
+    "section": "Notable releases in 1994",
+    "title": "Super Metroid",
+    "wiki_title": "Super Metroid",
+    "wiki_url": "https://en.wikipedia.org/wiki/Super_Metroid",
+    "redlink": false,
+    "release_date": "March 19",
+    "developer_publisher": "Nintendo",
+    "genre": "Metroidvania",
+    "platform_breakdown": {
+      "platform": "SNES"
+    },
+    "platforms": [
+      "Super Nintendo Entertainment System"
+    ]
+  },
+  {
+    "year": 1994,
+    "section": "Notable releases in 1994",
+    "title": "The Elder Scrolls: Arena",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "release_date": "March 25",
+    "developer_publisher": "Bethesda",
+    "genre": "Action RPG, Sandbox",
+    "platform_breakdown": {
+      "platform": "DOS"
+    },
+    "platforms": [
+      "MS-DOS"
+    ]
+  },
+  {
+    "year": 1994,
+    "section": "Notable releases in 1994",
+    "title": "Final Fantasy VI",
+    "wiki_title": "Final Fantasy VI",
+    "wiki_url": "https://en.wikipedia.org/wiki/Final_Fantasy_VI",
+    "redlink": false,
+    "release_date": "April 2",
+    "developer_publisher": "Square Co.",
+    "genre": "RPG",
+    "platform_breakdown": {
+      "platform": "SNES"
+    },
+    "platforms": [
+      "Super Nintendo Entertainment System"
+    ]
+  },
+  {
+    "year": 1994,
+    "section": "Notable releases in 1994",
+    "title": "Donkey Kong",
+    "wiki_title": "Donkey Kong (1994 video game)",
+    "wiki_url": "https://en.wikipedia.org/wiki/Donkey_Kong_(1994_video_game)",
+    "redlink": false,
+    "release_date": "June 14",
+    "developer_publisher": "Nintendo",
+    "platform_breakdown": {
+      "platform": "GB"
+    },
+    "platforms": [
+      "Game Boy"
+    ]
+  },
+  {
+    "year": 1994,
+    "section": "Notable releases in 1994",
+    "title": "TIE Fighter",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "release_date": "July",
+    "developer_publisher": "LucasArts",
+    "platform_breakdown": {
+      "platform": "DOS"
+    },
+    "platforms": [
+      "MS-DOS"
+    ]
+  },
+  {
+    "year": 1994,
+    "section": "Notable releases in 1994",
+    "title": "Earthworm Jim",
+    "wiki_title": "Earthworm Jim (video game)",
+    "wiki_url": "https://en.wikipedia.org/wiki/Earthworm_Jim_(video_game)",
+    "redlink": false,
+    "release_date": "August 2",
+    "developer_publisher": "Shiny Entertainment",
+    "platform_breakdown": {
+      "platform": "SNES, GEN"
+    },
+    "platforms": [
+      "Super Nintendo Entertainment System",
+      "Genesis / Mega Drive"
+    ]
+  },
+  {
+    "year": 1994,
+    "section": "Notable releases in 1994",
+    "title": "The King of Fighters '94",
+    "wiki_title": "The King of Fighters '94",
+    "wiki_url": "https://en.wikipedia.org/wiki/The_King_of_Fighters_%2794",
+    "redlink": false,
+    "release_date": "August 25",
+    "developer_publisher": "SNK",
+    "platform_breakdown": {
+      "platform": "NEO"
+    },
+    "platforms": [
+      "Neo Geo AES"
+    ]
+  },
+  {
+    "year": 1994,
+    "section": "Notable releases in 1994",
+    "title": "EarthBound",
+    "wiki_title": "EarthBound",
+    "wiki_url": "https://en.wikipedia.org/wiki/EarthBound",
+    "redlink": false,
+    "release_date": "August 27",
+    "developer_publisher": "Nintendo",
+    "genre": "RPG",
+    "platform_breakdown": {
+      "platform": "SNES"
+    },
+    "platforms": [
+      "Super Nintendo Entertainment System"
+    ]
+  },
+  {
+    "year": 1994,
+    "section": "Notable releases in 1994",
+    "title": "Master of Magic",
+    "wiki_title": "Master of Magic",
+    "wiki_url": "https://en.wikipedia.org/wiki/Master_of_Magic",
+    "redlink": false,
+    "release_date": "September",
+    "developer_publisher": "MicroProse",
+    "platform_breakdown": {
+      "platform": "DOS"
+    },
+    "platforms": [
+      "MS-DOS"
+    ]
+  },
+  {
+    "year": 1994,
+    "section": "Notable releases in 1994",
+    "title": "System Shock",
+    "wiki_title": "System Shock",
+    "wiki_url": "https://en.wikipedia.org/wiki/System_Shock",
+    "redlink": false,
+    "release_date": "September 22",
+    "developer_publisher": "Looking Glass Studios /Origin Systems",
+    "platform_breakdown": {
+      "platform": "DOS"
+    },
+    "platforms": [
+      "MS-DOS"
+    ]
+  },
+  {
+    "year": 1994,
+    "section": "Notable releases in 1994",
+    "title": "Sonic & Knuckles",
+    "wiki_title": "Sonic & Knuckles",
+    "wiki_url": "https://en.wikipedia.org/wiki/Sonic_%26_Knuckles",
+    "redlink": false,
+    "release_date": "October 17",
+    "developer_publisher": "Sega",
+    "platform_breakdown": {
+      "platform": "GEN"
+    },
+    "platforms": [
+      "Genesis / Mega Drive"
+    ]
+  },
+  {
+    "year": 1994,
+    "section": "Notable releases in 1994",
+    "title": "Killer Instinct",
+    "wiki_title": "Killer Instinct (1994 video game)",
+    "wiki_url": "https://en.wikipedia.org/wiki/Killer_Instinct_(1994_video_game)",
+    "redlink": false,
+    "release_date": "October 28",
+    "developer_publisher": "Rare",
+    "platform_breakdown": {
+      "platform": "Arcade"
+    },
+    "platforms": [
+      "Arcade"
+    ]
+  },
+  {
+    "year": 1994,
+    "section": "Notable releases in 1994",
+    "title": "Warcraft: Orcs & Humans",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "release_date": "November 15",
+    "developer_publisher": "Blizzard Entertainment",
+    "platform_breakdown": {
+      "platform": "DOS"
+    },
+    "platforms": [
+      "MS-DOS"
+    ]
+  },
+  {
+    "year": 1994,
+    "section": "Notable releases in 1994",
+    "title": "NFL '95",
+    "wiki_title": "NFL '95",
+    "wiki_url": "https://en.wikipedia.org/wiki/NFL_%2795",
+    "redlink": false,
+    "release_date": "November 15",
+    "developer_publisher": "Double Diamond Software (GEN) Blue Sky Software (GG)",
+    "genre": "Sports (football)",
+    "platform_breakdown": {
+      "platform": "GEN, GG"
+    },
+    "platforms": [
+      "Genesis / Mega Drive",
+      "Game Gear"
+    ]
+  },
+  {
+    "year": 1994,
+    "section": "Notable releases in 1994",
+    "title": "Donkey Kong Country",
+    "wiki_title": "Donkey Kong Country",
+    "wiki_url": "https://en.wikipedia.org/wiki/Donkey_Kong_Country",
+    "redlink": false,
+    "release_date": "November 21",
+    "developer_publisher": "Rare/Nintendo",
+    "platform_breakdown": {
+      "platform": "SNES"
+    },
+    "platforms": [
+      "Super Nintendo Entertainment System"
+    ]
+  },
+  {
+    "year": 1994,
+    "section": "Notable releases in 1994",
+    "title": "King's Quest VII: The Princeless Bride",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "release_date": "November 23",
+    "developer_publisher": "Sierra On-Line",
+    "platform_breakdown": {
+      "platform": "DOS"
+    },
+    "platforms": [
+      "MS-DOS"
+    ]
+  },
+  {
+    "year": 1994,
+    "section": "Notable releases in 1994",
+    "title": "Banshee's Last Cry",
+    "wiki_title": "Banshee's Last Cry",
+    "wiki_url": "https://en.wikipedia.org/wiki/Banshee%27s_Last_Cry",
+    "redlink": false,
+    "release_date": "November 25",
+    "developer_publisher": "Chunsoft",
+    "genre": "Visual novel",
+    "platform_breakdown": {
+      "platform": "SNES"
+    },
+    "platforms": [
+      "Super Nintendo Entertainment System"
+    ]
+  },
+  {
+    "year": 1994,
+    "section": "Notable releases in 1994",
+    "title": "The Need for Speed",
+    "wiki_title": "The Need for Speed",
+    "wiki_url": "https://en.wikipedia.org/wiki/The_Need_for_Speed",
+    "redlink": false,
+    "release_date": "December",
+    "developer_publisher": "Electronic Arts",
+    "genre": "Racing",
+    "platform_breakdown": {
+      "platform": "3DO"
+    },
+    "platforms": [
+      "3DO Interactive Multiplayer"
+    ]
+  },
+  {
+    "year": 1994,
+    "section": "Notable releases in 1994",
+    "title": "Magic Carpet",
+    "wiki_title": "Magic Carpet (video game)",
+    "wiki_url": "https://en.wikipedia.org/wiki/Magic_Carpet_(video_game)",
+    "redlink": false,
+    "release_date": "December",
+    "developer_publisher": "Bullfrog Productions",
+    "genre": "Action",
+    "platform_breakdown": {
+      "platform": "DOS, PS1, SAT"
+    },
+    "platforms": [
+      "MS-DOS",
+      "PlayStation",
+      "Sega Saturn"
+    ]
+  },
+  {
+    "year": 1994,
+    "section": "Notable releases in 1994",
+    "title": "Wing Commander III: Heart of the Tiger",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "release_date": "December",
+    "developer_publisher": "Origin",
+    "genre": "Space combat simulator",
+    "platform_breakdown": {
+      "platform": "DOS"
+    },
+    "platforms": [
+      "MS-DOS"
+    ]
+  },
+  {
+    "year": 1994,
+    "section": "Notable releases in 1994",
+    "title": "Tekken",
+    "wiki_title": "Tekken (video game)",
+    "wiki_url": "https://en.wikipedia.org/wiki/Tekken_(video_game)",
+    "redlink": false,
+    "release_date": "December 9",
+    "developer_publisher": "Namco",
+    "genre": "Fighting",
+    "platform_breakdown": {
+      "platform": "Arcade"
+    },
+    "platforms": [
+      "Arcade"
+    ]
+  },
+  {
+    "year": 1994,
+    "section": "Notable releases in 1994",
+    "title": "Wario's Woods",
+    "wiki_title": "Wario's Woods",
+    "wiki_url": "https://en.wikipedia.org/wiki/Wario%27s_Woods",
+    "redlink": false,
+    "release_date": "December 10",
+    "developer_publisher": "Nintendo",
+    "platform_breakdown": {
+      "platform": "NES"
+    },
+    "platforms": [
+      "Nintendo Entertainment System"
+    ]
+  },
+  {
+    "year": 1994,
+    "section": "Notable releases in 1994",
+    "title": "King's Field",
+    "wiki_title": "King's Field (1994 video game)",
+    "wiki_url": "https://en.wikipedia.org/wiki/King%27s_Field_(1994_video_game)",
+    "redlink": false,
+    "release_date": "December 16",
+    "developer_publisher": "FromSoftware",
+    "genre": "Action RPG",
+    "platform_breakdown": {
+      "platform": "PS1"
+    },
+    "platforms": [
+      "PlayStation"
+    ]
+  },
+  {
+    "year": 1994,
+    "section": "Notable releases in 1994",
+    "title": "Marathon",
+    "wiki_title": "Marathon (1994 video game)",
+    "wiki_url": "https://en.wikipedia.org/wiki/Marathon_(1994_video_game)",
+    "redlink": false,
+    "release_date": "December 21",
+    "developer_publisher": "Bungie",
+    "genre": "FPS",
+    "platform_breakdown": {
+      "platform": "MAC"
+    },
+    "platforms": [
+      "macOS"
+    ]
+  },
+  {
+    "year": 1994,
+    "section": "Notable releases in 1994",
+    "title": "Heretic",
+    "wiki_title": "Heretic (video game)",
+    "wiki_url": "https://en.wikipedia.org/wiki/Heretic_(video_game)",
+    "redlink": false,
+    "release_date": "December 27",
+    "developer_publisher": "Raven Software /id Software",
+    "platform_breakdown": {
+      "platform": "DOS, MAC"
+    },
+    "platforms": [
+      "MS-DOS",
+      "macOS"
+    ]
+  }
+]

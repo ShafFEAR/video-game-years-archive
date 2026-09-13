@@ -1,0 +1,221 @@
+[
+  {
+    "year": 2019,
+    "section": "Critically acclaimed games",
+    "title": "Divinity: Original Sin II – Definitive Edition",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "developer": "Larian Studios",
+    "publisher": "Larian Studios",
+    "release_date": "September 4, 2019",
+    "mc score": "93",
+    "platform_breakdown": {
+      "platform(s)": "NS"
+    },
+    "platforms": [
+      "Nintendo Switch"
+    ]
+  },
+  {
+    "year": 2019,
+    "section": "Critically acclaimed games",
+    "title": "Red Dead Redemption 2",
+    "wiki_title": "Red Dead Redemption 2",
+    "wiki_url": "https://en.wikipedia.org/wiki/Red_Dead_Redemption_2",
+    "redlink": false,
+    "developer": "Rockstar Games",
+    "publisher": "Rockstar Games",
+    "release_date": "November 5, 2019",
+    "mc score": "93",
+    "platform_breakdown": {
+      "platform(s)": "WIN"
+    },
+    "platforms": [
+      "Windows"
+    ]
+  },
+  {
+    "year": 2019,
+    "section": "Critically acclaimed games",
+    "title": "Beat Saber",
+    "wiki_title": "Beat Saber",
+    "wiki_url": "https://en.wikipedia.org/wiki/Beat_Saber",
+    "redlink": false,
+    "developer": "Beat Games",
+    "publisher": "Beat Games",
+    "release_date": "May 21, 2019",
+    "mc score": "93",
+    "platform_breakdown": {
+      "platform(s)": "WIN"
+    },
+    "platforms": [
+      "Windows"
+    ]
+  },
+  {
+    "year": 2019,
+    "section": "Critically acclaimed games",
+    "title": "Resident Evil 2",
+    "wiki_title": "Resident Evil 2 (2019 video game)",
+    "wiki_url": "https://en.wikipedia.org/wiki/Resident_Evil_2_(2019_video_game)",
+    "redlink": false,
+    "developer": "Capcom",
+    "publisher": "Capcom",
+    "release_date": "January 25, 2019",
+    "mc score": "93",
+    "platform_breakdown": {
+      "platform(s)": "PS4"
+    },
+    "platforms": [
+      "Xbox One",
+      "PlayStation 4"
+    ]
+  },
+  {
+    "year": 2019,
+    "section": "Critically acclaimed games",
+    "title": "Dragon Quest XI S: Echoes of an Elusive Age – Definitive Edition",
+    "wiki_title": "Dragon Quest XI",
+    "wiki_url": "https://en.wikipedia.org/wiki/Dragon_Quest_XI",
+    "redlink": false,
+    "developer": "Square Enix",
+    "publisher": "Square Enix",
+    "release_date": "September 27, 2019",
+    "mc score": "91",
+    "platform_breakdown": {
+      "platform(s)": "NS"
+    },
+    "platforms": [
+      "Nintendo Switch"
+    ]
+  },
+  {
+    "year": 2019,
+    "section": "Critically acclaimed games",
+    "title": "Sekiro: Shadows Die Twice",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "developer": "FromSoftware",
+    "publisher": "Activision",
+    "release_date": "March 22, 2019",
+    "mc score": "91",
+    "platform_breakdown": {
+      "platform(s)": "PS4"
+    },
+    "platforms": [
+      "Xbox One",
+      "PlayStation 4"
+    ]
+  },
+  {
+    "year": 2019,
+    "section": "Critically acclaimed games",
+    "title": "Final Fantasy XIV: Shadowbringers",
+    "wiki_title": "Final Fantasy XIV (2010 video game)",
+    "wiki_url": "https://en.wikipedia.org/wiki/Final_Fantasy_XIV_(2010_video_game)",
+    "redlink": false,
+    "developer": "Square Enix",
+    "publisher": "Square Enix",
+    "release_date": "July 2, 2019",
+    "mc score": "91",
+    "platform_breakdown": {
+      "platform(s)": "WIN"
+    },
+    "platforms": [
+      "PlayStation 4",
+      "Windows"
+    ]
+  },
+  {
+    "year": 2019,
+    "section": "Critically acclaimed games",
+    "title": "Disco Elysium",
+    "wiki_title": "Disco Elysium",
+    "wiki_url": "https://en.wikipedia.org/wiki/Disco_Elysium",
+    "redlink": false,
+    "developer": "ZA/UM",
+    "publisher": "ZA/UM",
+    "release_date": "October 15, 2019",
+    "mc score": "91",
+    "platform_breakdown": {
+      "platform(s)": "WIN"
+    },
+    "platforms": [
+      "Windows"
+    ]
+  },
+  {
+    "year": 2019,
+    "section": "Critically acclaimed games",
+    "title": "Nier: Automata – Game of the Yorha Edition",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "developer": "PlatinumGames",
+    "publisher": "Square Enix",
+    "release_date": "February 26, 2019",
+    "mc score": "91",
+    "platform_breakdown": {
+      "platform(s)": "PS4"
+    },
+    "platforms": [
+      "PlayStation 4"
+    ]
+  },
+  {
+    "year": 2019,
+    "section": "Critically acclaimed games",
+    "title": "Monster Hunter: World – Iceborne",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "developer": "Capcom",
+    "publisher": "Capcom",
+    "release_date": "September 6, 2019",
+    "mc score": "90",
+    "platform_breakdown": {
+      "platform(s)": "XBO"
+    },
+    "platforms": [
+      "Xbox One"
+    ]
+  },
+  {
+    "year": 2019,
+    "section": "Critically acclaimed games",
+    "title": "Ori and the Blind Forest: Definitive Edition",
+    "wiki_title": "Ori and the Blind Forest",
+    "wiki_url": "https://en.wikipedia.org/wiki/Ori_and_the_Blind_Forest",
+    "redlink": false,
+    "developer": "Moon Studios",
+    "publisher": "Microsoft Studios",
+    "release_date": "September 27, 2019",
+    "mc score": "90",
+    "platform_breakdown": {
+      "platform(s)": "NS"
+    },
+    "platforms": [
+      "Nintendo Switch"
+    ]
+  },
+  {
+    "year": 2019,
+    "section": "Critically acclaimed games",
+    "title": "Tetris Effect",
+    "wiki_title": "Tetris Effect",
+    "wiki_url": "https://en.wikipedia.org/wiki/Tetris_Effect",
+    "redlink": false,
+    "developer": "Monstars, Resonair",
+    "publisher": "Enhance Games",
+    "release_date": "July 23, 2019",
+    "mc score": "90",
+    "platform_breakdown": {
+      "platform(s)": "WIN"
+    },
+    "platforms": [
+      "Windows"
+    ]
+  }
+]

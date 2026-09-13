@@ -1,0 +1,2144 @@
+[
+  {
+    "year": 1996,
+    "section": "Metacritic and GameRankings",
+    "title": "Super Mario 64",
+    "wiki_title": "Super Mario 64",
+    "wiki_url": "https://en.wikipedia.org/wiki/Super_Mario_64",
+    "redlink": false,
+    "publisher": "Nintendo",
+    "release_date": "June 23, 1996",
+    "mc score": "94/100",
+    "gr score": "96.41%",
+    "platform_breakdown": {
+      "platform(s)": "N64",
+      "platform": "N64"
+    },
+    "platforms": [
+      "Nintendo 64"
+    ],
+    "developer_publisher": "Nintendo",
+    "genre": "Platformer"
+  },
+  {
+    "year": 1996,
+    "section": "Metacritic and GameRankings",
+    "title": "Wipeout XL/2097",
+    "wiki_title": "Wipeout 2097",
+    "wiki_url": "https://en.wikipedia.org/wiki/Wipeout_2097",
+    "redlink": false,
+    "publisher": "Psygnosis",
+    "release_date": "September 30, 1996",
+    "mc score": "93/100",
+    "gr score": "94.75%",
+    "platform_breakdown": {
+      "platform(s)": "PS1",
+      "platform": "PS1"
+    },
+    "platforms": [
+      "PlayStation"
+    ],
+    "developer_publisher": "Psygnosis"
+  },
+  {
+    "year": 1996,
+    "section": "Metacritic and GameRankings",
+    "title": "Quake",
+    "wiki_title": "Quake (video game)",
+    "wiki_url": "https://en.wikipedia.org/wiki/Quake_(video_game)",
+    "redlink": false,
+    "publisher": "GT Interactive",
+    "release_date": "June 22, 1996",
+    "mc score": "94/100",
+    "gr score": "93.22%",
+    "platform_breakdown": {
+      "platform(s)": "DOS",
+      "platform": "DOS"
+    },
+    "platforms": [
+      "MS-DOS"
+    ],
+    "developer_publisher": "id Software"
+  },
+  {
+    "year": 1996,
+    "section": "Metacritic and GameRankings",
+    "title": "Tekken 2",
+    "wiki_title": "Tekken 2",
+    "wiki_url": "https://en.wikipedia.org/wiki/Tekken_2",
+    "redlink": false,
+    "publisher": "Namco",
+    "release_date": "March 29, 1996",
+    "mc score": "89/100",
+    "gr score": "92.50%",
+    "platform_breakdown": {
+      "platform(s)": "PS1",
+      "platform": "PS1"
+    },
+    "platforms": [
+      "PlayStation"
+    ],
+    "developer_publisher": "Namco",
+    "genre": "Fighting"
+  },
+  {
+    "year": 1996,
+    "section": "Metacritic and GameRankings",
+    "title": "Civilization II",
+    "wiki_title": "Civilization II",
+    "wiki_url": "https://en.wikipedia.org/wiki/Civilization_II",
+    "redlink": false,
+    "publisher": "MicroProse",
+    "release_date": "February 29, 1996",
+    "mc score": "94/100",
+    "gr score": "91.29%",
+    "platform_breakdown": {
+      "platform(s)": "WIN",
+      "platform": "WIN"
+    },
+    "platforms": [
+      "Windows"
+    ],
+    "developer_publisher": "MicroProse",
+    "genre": "4X",
+    "steam": {
+      "appid": 3910,
+      "name": "Sid Meier's Civilization® III Complete",
+      "short_description": "Sid Meier's Civilization III: Complete, the latest offering in the Sid Meier's Civilization III franchise, provides gaming fans with Sid Meier's Civilization III, the highly-addictive journey of discovery.",
+      "image_path": "images/steam-3910.jpg",
+      "genres": [
+        "Strategy"
+      ],
+      "release_date": "Oct 25, 2006",
+      "site_url": "https://store.steampowered.com/app/3910",
+      "year_match": false
+    }
+  },
+  {
+    "year": 1996,
+    "section": "Metacritic and GameRankings",
+    "title": "Wave Race 64",
+    "wiki_title": "Wave Race 64",
+    "wiki_url": "https://en.wikipedia.org/wiki/Wave_Race_64",
+    "redlink": false,
+    "publisher": "Nintendo",
+    "release_date": "September 27, 1996",
+    "mc score": "92/100",
+    "gr score": "90.67%",
+    "platform_breakdown": {
+      "platform(s)": "N64"
+    },
+    "platforms": [
+      "Nintendo 64"
+    ]
+  },
+  {
+    "year": 1996,
+    "section": "Metacritic and GameRankings",
+    "title": "PaRappa the Rapper",
+    "wiki_title": "PaRappa the Rapper",
+    "wiki_url": "https://en.wikipedia.org/wiki/PaRappa_the_Rapper",
+    "redlink": false,
+    "publisher": "Sony Computer Entertainment",
+    "release_date": "December 6, 1996",
+    "mc score": "92/100",
+    "gr score": "88.31%",
+    "platform_breakdown": {
+      "platform(s)": "PS1"
+    },
+    "platforms": [
+      "PlayStation"
+    ]
+  },
+  {
+    "year": 1996,
+    "section": "Metacritic and GameRankings",
+    "title": "Realms of the Haunting",
+    "wiki_title": "Realms of the Haunting",
+    "wiki_url": "https://en.wikipedia.org/wiki/Realms_of_the_Haunting",
+    "redlink": false,
+    "publisher": "Interplay",
+    "release_date": "December 31, 1996",
+    "mc score": "— N/a",
+    "gr score": "91.86%",
+    "platform_breakdown": {
+      "platform(s)": "DOS"
+    },
+    "platforms": [
+      "MS-DOS"
+    ]
+  },
+  {
+    "year": 1996,
+    "section": "Metacritic and GameRankings",
+    "title": "Tomb Raider",
+    "wiki_title": "Tomb Raider (1996 video game)",
+    "wiki_url": "https://en.wikipedia.org/wiki/Tomb_Raider_(1996_video_game)",
+    "redlink": false,
+    "publisher": "Eidos Interactive",
+    "release_date": "November 14, 1996",
+    "mc score": "— N/a",
+    "gr score": "91.67%",
+    "platform_breakdown": {
+      "platform(s)": "PS1",
+      "platform": "PS1, SAT, DOS"
+    },
+    "platforms": [
+      "MS-DOS",
+      "PlayStation",
+      "Sega Saturn"
+    ],
+    "developer_publisher": "Core Design / Eidos",
+    "genre": "Action-adventure"
+  },
+  {
+    "year": 1996,
+    "section": "Metacritic and GameRankings",
+    "title": "Soul Edge",
+    "wiki_title": "Soul Edge",
+    "wiki_url": "https://en.wikipedia.org/wiki/Soul_Edge",
+    "redlink": false,
+    "publisher": "Namco",
+    "release_date": "December 20, 1996",
+    "mc score": "89/100",
+    "gr score": "91.46%",
+    "platform_breakdown": {
+      "platform(s)": "PS1",
+      "platform": "Arcade"
+    },
+    "platforms": [
+      "PlayStation",
+      "Arcade"
+    ],
+    "developer_publisher": "Namco",
+    "genre": "Fighting"
+  },
+  {
+    "year": 1996,
+    "section": "Metacritic and GameRankings",
+    "title": "Resident Evil",
+    "wiki_title": "Resident Evil (1996 video game)",
+    "wiki_url": "https://en.wikipedia.org/wiki/Resident_Evil_(1996_video_game)",
+    "redlink": false,
+    "publisher": "Capcom",
+    "release_date": "March 22, 1996",
+    "mc score": "91/100",
+    "gr score": "87.23%",
+    "platform_breakdown": {
+      "platform(s)": "PS1",
+      "platform": "PS1"
+    },
+    "platforms": [
+      "PlayStation"
+    ],
+    "developer_publisher": "Capcom",
+    "genre": "survival horror"
+  },
+  {
+    "year": 1996,
+    "section": "Metacritic and GameRankings",
+    "title": "Command & Conquer: Red Alert",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "publisher": "Virgin",
+    "release_date": "November 22, 1996",
+    "mc score": "90/100",
+    "gr score": "90.91%",
+    "platform_breakdown": {
+      "platform(s)": "DOS",
+      "platform": "DOS"
+    },
+    "platforms": [
+      "MS-DOS"
+    ],
+    "developer_publisher": "Westwood Studios"
+  },
+  {
+    "year": 1996,
+    "section": "Metacritic and GameRankings",
+    "title": "Command & Conquer",
+    "wiki_title": "Command & Conquer (1995 video game)",
+    "wiki_url": "https://en.wikipedia.org/wiki/Command_%26_Conquer_(1995_video_game)",
+    "redlink": false,
+    "publisher": "Sega",
+    "release_date": "December 18, 1996",
+    "mc score": "— N/a",
+    "gr score": "89.90%",
+    "platform_breakdown": {
+      "platform(s)": "SAT"
+    },
+    "platforms": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "year": 1996,
+    "section": "Metacritic and GameRankings",
+    "title": "Dragon Force",
+    "wiki_title": "Dragon Force",
+    "wiki_url": "https://en.wikipedia.org/wiki/Dragon_Force",
+    "redlink": false,
+    "publisher": "Sega",
+    "release_date": "March 29, 1996",
+    "mc score": "— N/a",
+    "gr score": "89.64%",
+    "platform_breakdown": {
+      "platform(s)": "SAT",
+      "platform": "SAT"
+    },
+    "platforms": [
+      "Sega Saturn"
+    ],
+    "developer_publisher": "Sega / Working Designs",
+    "genre": "RPG, RTS"
+  },
+  {
+    "year": 1996,
+    "section": "Metacritic and GameRankings",
+    "title": "International Superstar Soccer 64",
+    "wiki_title": "International Superstar Soccer 64",
+    "wiki_url": "https://en.wikipedia.org/wiki/International_Superstar_Soccer_64",
+    "redlink": false,
+    "publisher": "Konami",
+    "release_date": "December 20, 1996",
+    "mc score": "— N/a",
+    "gr score": "89.23%",
+    "platform_breakdown": {
+      "platform(s)": "N64"
+    },
+    "platforms": [
+      "Nintendo 64"
+    ]
+  },
+  {
+    "year": 1996,
+    "section": "Metacritic and GameRankings",
+    "title": "Guardian Heroes",
+    "wiki_title": "Guardian Heroes",
+    "wiki_url": "https://en.wikipedia.org/wiki/Guardian_Heroes",
+    "redlink": false,
+    "publisher": "Sega",
+    "release_date": "January 26, 1996",
+    "mc score": "— N/a",
+    "gr score": "89.20%",
+    "platform_breakdown": {
+      "platform(s)": "SAT",
+      "platform": "SAT"
+    },
+    "platforms": [
+      "Sega Saturn"
+    ],
+    "developer_publisher": "Treasure / Sega",
+    "genre": "Brawler"
+  },
+  {
+    "year": 1996,
+    "section": "Metacritic and GameRankings",
+    "title": "Super Mario RPG",
+    "wiki_title": "Super Mario RPG",
+    "wiki_url": "https://en.wikipedia.org/wiki/Super_Mario_RPG",
+    "redlink": false,
+    "publisher": "Nintendo",
+    "release_date": "March 9, 1996",
+    "mc score": "— N/a",
+    "gr score": "89.12%",
+    "platform_breakdown": {
+      "platform(s)": "SNES",
+      "platform": "SNES"
+    },
+    "platforms": [
+      "Super Nintendo Entertainment System"
+    ],
+    "developer_publisher": "SquareSoft/Nintendo",
+    "genre": "RPG"
+  },
+  {
+    "year": 1996,
+    "section": "Metacritic and GameRankings",
+    "title": "Descent II",
+    "wiki_title": "Descent II",
+    "wiki_url": "https://en.wikipedia.org/wiki/Descent_II",
+    "redlink": false,
+    "publisher": "Interplay Productions",
+    "release_date": "March 13, 1996",
+    "mc score": "89/100",
+    "gr score": "— N/a",
+    "platform_breakdown": {
+      "platform(s)": "DOS"
+    },
+    "platforms": [
+      "MS-DOS"
+    ]
+  },
+  {
+    "year": 1996,
+    "section": "Metacritic and GameRankings",
+    "title": "Duke Nukem 3D",
+    "wiki_title": "Duke Nukem 3D",
+    "wiki_url": "https://en.wikipedia.org/wiki/Duke_Nukem_3D",
+    "redlink": false,
+    "publisher": "GT Interactive",
+    "release_date": "January 29, 1996",
+    "mc score": "89/100",
+    "gr score": "88.50%",
+    "platform_breakdown": {
+      "platform(s)": "DOS",
+      "platform": "DOS"
+    },
+    "platforms": [
+      "MS-DOS"
+    ],
+    "developer_publisher": "3D Realms / GT Interactive",
+    "genre": "FPS"
+  },
+  {
+    "year": 1996,
+    "section": "Metacritic and GameRankings",
+    "title": "Star Control 3",
+    "wiki_title": "Star Control 3",
+    "wiki_url": "https://en.wikipedia.org/wiki/Star_Control_3",
+    "redlink": false,
+    "publisher": "Accolade",
+    "release_date": "August 31, 1996",
+    "mc score": "89/100",
+    "gr score": "— N/a",
+    "platform_breakdown": {
+      "platform(s)": "DOS"
+    },
+    "platforms": [
+      "MS-DOS"
+    ]
+  },
+  {
+    "year": 1996,
+    "section": "Metacritic and GameRankings",
+    "title": "NiGHTS into Dreams...",
+    "wiki_title": "NiGHTS into Dreams...",
+    "wiki_url": "https://en.wikipedia.org/wiki/NiGHTS_into_Dreams...",
+    "redlink": false,
+    "publisher": "Sega",
+    "release_date": "July 5, 1996",
+    "mc score": "— N/a",
+    "gr score": "88.56%",
+    "platform_breakdown": {
+      "platform(s)": "SAT",
+      "platform": "SAT"
+    },
+    "platforms": [
+      "Sega Saturn"
+    ],
+    "developer_publisher": "Sega"
+  },
+  {
+    "year": 1996,
+    "section": "Metacritic and GameRankings",
+    "title": "Pokémon Blue Version",
+    "wiki_title": "Pokémon Red and Blue",
+    "wiki_url": "https://en.wikipedia.org/wiki/Pok%C3%A9mon_Red_and_Blue",
+    "redlink": false,
+    "publisher": "Nintendo",
+    "release_date": "October 15, 1996",
+    "mc score": "— N/a",
+    "gr score": "88.33%",
+    "platform_breakdown": {
+      "platform(s)": "GB"
+    },
+    "platforms": [
+      "Game Boy"
+    ]
+  },
+  {
+    "year": 1996,
+    "section": "Metacritic and GameRankings",
+    "title": "Pokémon Red Version",
+    "wiki_title": "Pokémon Red and Blue",
+    "wiki_url": "https://en.wikipedia.org/wiki/Pok%C3%A9mon_Red_and_Blue",
+    "redlink": false,
+    "publisher": "Nintendo",
+    "release_date": "February 27, 1996",
+    "mc score": "— N/a",
+    "gr score": "87.86%",
+    "platform_breakdown": {
+      "platform(s)": "GB"
+    },
+    "platforms": [
+      "Game Boy"
+    ]
+  },
+  {
+    "year": 1996,
+    "section": "Metacritic and GameRankings",
+    "title": "Formula 1",
+    "wiki_title": "Formula 1 (video game)",
+    "wiki_url": "https://en.wikipedia.org/wiki/Formula_1_(video_game)",
+    "redlink": false,
+    "publisher": "Psygnosis",
+    "release_date": "September 30, 1996",
+    "mc score": "— N/a",
+    "gr score": "87.75%",
+    "platform_breakdown": {
+      "platform(s)": "PS1",
+      "platform": "PS1"
+    },
+    "platforms": [
+      "PlayStation"
+    ],
+    "developer_publisher": "Bizarre Creations / SCEA",
+    "genre": "Racing"
+  },
+  {
+    "year": 1996,
+    "section": "Metacritic and GameRankings",
+    "title": "Fighters Megamix",
+    "wiki_title": "Fighters Megamix",
+    "wiki_url": "https://en.wikipedia.org/wiki/Fighters_Megamix",
+    "redlink": false,
+    "publisher": "Sega",
+    "release_date": "December 21, 1996",
+    "mc score": "— N/a",
+    "gr score": "87.67%",
+    "platform_breakdown": {
+      "platform(s)": "SAT"
+    },
+    "platforms": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "year": 1996,
+    "section": "Metacritic and GameRankings",
+    "title": "Pilotwings 64",
+    "wiki_title": "Pilotwings 64",
+    "wiki_url": "https://en.wikipedia.org/wiki/Pilotwings_64",
+    "redlink": false,
+    "publisher": "Nintendo",
+    "release_date": "June 23, 1996",
+    "mc score": "80/100",
+    "gr score": "87.52%",
+    "platform_breakdown": {
+      "platform(s)": "N64",
+      "platform": "N64"
+    },
+    "platforms": [
+      "Nintendo 64"
+    ],
+    "developer_publisher": "Nintendo"
+  },
+  {
+    "year": 1996,
+    "section": "Metacritic and GameRankings",
+    "title": "Panzer Dragoon II Zwei",
+    "wiki_title": "Panzer Dragoon II Zwei",
+    "wiki_url": "https://en.wikipedia.org/wiki/Panzer_Dragoon_II_Zwei",
+    "redlink": false,
+    "publisher": "Sega",
+    "release_date": "March 22, 1996",
+    "mc score": "— N/a",
+    "gr score": "87.50%",
+    "platform_breakdown": {
+      "platform(s)": "SAT",
+      "platform": "SAT"
+    },
+    "platforms": [
+      "Sega Saturn"
+    ],
+    "developer_publisher": "Team Andromeda / Sega",
+    "genre": "Rail shooter"
+  },
+  {
+    "year": 1996,
+    "section": "Notable releases",
+    "title": "Mystaria: The Realms of Lore",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "release_date": "January 26",
+    "developer_publisher": "Micro Cabin / Sega",
+    "genre": "Tactical RPG",
+    "platform_breakdown": {
+      "platform": "SAT"
+    },
+    "platforms": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "year": 1996,
+    "section": "Notable releases",
+    "title": "Shizuku",
+    "wiki_title": "Shizuku (video game)",
+    "wiki_url": "https://en.wikipedia.org/wiki/Shizuku_(video_game)",
+    "redlink": false,
+    "release_date": "January 26",
+    "developer_publisher": "Leaf",
+    "genre": "Visual novel",
+    "platform_breakdown": {
+      "platform": "PC98"
+    },
+    "platforms": [
+      "PC-9800 series"
+    ]
+  },
+  {
+    "year": 1996,
+    "section": "Notable releases",
+    "title": "Mega Man X3",
+    "wiki_title": "Mega Man X3",
+    "wiki_url": "https://en.wikipedia.org/wiki/Mega_Man_X3",
+    "redlink": false,
+    "release_date": "January 31",
+    "developer_publisher": "Capcom",
+    "platform_breakdown": {
+      "platform": "SNES"
+    },
+    "platforms": [
+      "Super Nintendo Entertainment System"
+    ]
+  },
+  {
+    "year": 1996,
+    "section": "Notable releases",
+    "title": "Bahamut Lagoon",
+    "wiki_title": "Bahamut Lagoon",
+    "wiki_url": "https://en.wikipedia.org/wiki/Bahamut_Lagoon",
+    "redlink": false,
+    "release_date": "February 9",
+    "developer_publisher": "SquareSoft",
+    "genre": "Tactical RPG",
+    "platform_breakdown": {
+      "platform": "SNES"
+    },
+    "platforms": [
+      "Super Nintendo Entertainment System"
+    ]
+  },
+  {
+    "year": 1996,
+    "section": "Notable releases",
+    "title": "Front Mission: Gun Hazard",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "release_date": "February 23",
+    "developer_publisher": "SquareSoft",
+    "platform_breakdown": {
+      "platform": "SNES"
+    },
+    "platforms": [
+      "Super Nintendo Entertainment System"
+    ]
+  },
+  {
+    "year": 1996,
+    "section": "Notable releases",
+    "title": "Pokémon Red and Green",
+    "wiki_title": "Pokémon Red and Blue",
+    "wiki_url": "https://en.wikipedia.org/wiki/Pok%C3%A9mon_Red_and_Blue",
+    "redlink": false,
+    "release_date": "February 27",
+    "developer_publisher": "Game Freak / Nintendo",
+    "platform_breakdown": {
+      "platform": "GB"
+    },
+    "platforms": [
+      "Game Boy"
+    ]
+  },
+  {
+    "year": 1996,
+    "section": "Notable releases",
+    "title": "Ripper",
+    "wiki_title": "Ripper (video game)",
+    "wiki_url": "https://en.wikipedia.org/wiki/Ripper_(video_game)",
+    "redlink": false,
+    "release_date": "February 29",
+    "developer_publisher": "Take Two Interactive",
+    "genre": "Adventure, Interactive film",
+    "platform_breakdown": {
+      "platform": "DOS"
+    },
+    "platforms": [
+      "MS-DOS"
+    ]
+  },
+  {
+    "year": 1996,
+    "section": "Notable releases",
+    "title": "Rise 2: Resurrection",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "release_date": "February 29",
+    "developer_publisher": "Mirage / Acclaim",
+    "platform_breakdown": {
+      "platform": "WIN, SAT, PS1"
+    },
+    "platforms": [
+      "Windows",
+      "Sega Saturn",
+      "PlayStation"
+    ],
+    "steam": null
+  },
+  {
+    "year": 1996,
+    "section": "Notable releases",
+    "title": "Terra Nova: Strike Force Centauri",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "release_date": "February 29",
+    "developer_publisher": "Looking Glass Studios",
+    "genre": "FPS",
+    "platform_breakdown": {
+      "platform": "DOS"
+    },
+    "platforms": [
+      "MS-DOS"
+    ]
+  },
+  {
+    "year": 1996,
+    "section": "Notable releases",
+    "title": "Zork: Nemesis",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "release_date": "February 29",
+    "developer_publisher": "Activision",
+    "platform_breakdown": {
+      "platform": "WIN"
+    },
+    "platforms": [
+      "Windows"
+    ],
+    "steam": {
+      "appid": 571060,
+      "name": "Zork Nemesis: The Forbidden Lands",
+      "short_description": "Travel through five mind-bending worlds to discover the ancient secret of Alchemy that will free the trapped souls from evil’s grip…Do you dare enter the Forbidden Lands?",
+      "image_path": "images/steam-571060.jpg",
+      "genres": [
+        "Nudity",
+        "Violent",
+        "Adventure"
+      ],
+      "release_date": "Apr 18, 2017",
+      "site_url": "https://store.steampowered.com/app/571060",
+      "year_match": false
+    }
+  },
+  {
+    "year": 1996,
+    "section": "Notable releases",
+    "title": "Kirby Super Star",
+    "wiki_title": "Kirby Super Star",
+    "wiki_url": "https://en.wikipedia.org/wiki/Kirby_Super_Star",
+    "redlink": false,
+    "release_date": "March 21",
+    "developer_publisher": "HAL Labs / Nintendo",
+    "platform_breakdown": {
+      "platform": "SNES"
+    },
+    "platforms": [
+      "Super Nintendo Entertainment System"
+    ]
+  },
+  {
+    "year": 1996,
+    "section": "Notable releases",
+    "title": "Someone's in the Kitchen!",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "release_date": "March 24",
+    "developer_publisher": "The Neverhood Inc./ DreamWorks",
+    "platform_breakdown": {
+      "platform": "WIN"
+    },
+    "platforms": [
+      "Windows"
+    ],
+    "steam": null
+  },
+  {
+    "year": 1996,
+    "section": "Notable releases",
+    "title": "Dragon Ball Z: Hyper Dimension",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "release_date": "March 29",
+    "developer_publisher": "TOSE / Bandai",
+    "platform_breakdown": {
+      "platform": "SNES"
+    },
+    "platforms": [
+      "Super Nintendo Entertainment System"
+    ]
+  },
+  {
+    "year": 1996,
+    "section": "Notable releases",
+    "title": "Barbie Fashion Designer",
+    "wiki_title": "Barbie Fashion Designer",
+    "wiki_url": "https://en.wikipedia.org/wiki/Barbie_Fashion_Designer",
+    "redlink": false,
+    "release_date": "April 20",
+    "developer_publisher": "Digital Domain / Mattel Media",
+    "platform_breakdown": {
+      "platform": "WIN"
+    },
+    "platforms": [
+      "Windows"
+    ],
+    "steam": null
+  },
+  {
+    "year": 1996,
+    "section": "Notable releases",
+    "title": "Jumping Flash! 2",
+    "wiki_title": "Jumping Flash! 2",
+    "wiki_url": "https://en.wikipedia.org/wiki/Jumping_Flash!_2",
+    "redlink": false,
+    "release_date": "April 26",
+    "developer_publisher": "Exact / SCEA",
+    "genre": "Platformer",
+    "platform_breakdown": {
+      "platform": "PS1"
+    },
+    "platforms": [
+      "PlayStation"
+    ]
+  },
+  {
+    "year": 1996,
+    "section": "Notable releases",
+    "title": "The Legend of Oasis",
+    "wiki_title": "The Legend of Oasis",
+    "wiki_url": "https://en.wikipedia.org/wiki/The_Legend_of_Oasis",
+    "redlink": false,
+    "release_date": "April 26",
+    "developer_publisher": "Sega / Ancient",
+    "platform_breakdown": {
+      "platform": "SAT"
+    },
+    "platforms": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "year": 1996,
+    "section": "Notable releases",
+    "title": "Indiana Jones and His Desktop Adventures",
+    "wiki_title": "Indiana Jones and His Desktop Adventures",
+    "wiki_url": "https://en.wikipedia.org/wiki/Indiana_Jones_and_His_Desktop_Adventures",
+    "redlink": false,
+    "release_date": "April 30",
+    "developer_publisher": "LucasArts",
+    "genre": "Adventure",
+    "platform_breakdown": {
+      "platform": "WIN, MAC"
+    },
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "steam": null
+  },
+  {
+    "year": 1996,
+    "section": "Notable releases",
+    "title": "Fire Emblem: Seisen no Keifu",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "release_date": "May 14",
+    "developer_publisher": "Intelligent Systems / Nintendo",
+    "genre": "Tactical RPG",
+    "platform_breakdown": {
+      "platform": "SNES"
+    },
+    "platforms": [
+      "Super Nintendo Entertainment System"
+    ]
+  },
+  {
+    "year": 1996,
+    "section": "Notable releases",
+    "title": "Kirby's Block Ball",
+    "wiki_title": "Kirby's Block Ball",
+    "wiki_url": "https://en.wikipedia.org/wiki/Kirby%27s_Block_Ball",
+    "redlink": false,
+    "release_date": "May 13",
+    "developer_publisher": "HAL Labs / Nintendo",
+    "platform_breakdown": {
+      "platform": "GB"
+    },
+    "platforms": [
+      "Game Boy"
+    ]
+  },
+  {
+    "year": 1996,
+    "section": "Notable releases",
+    "title": "Metal Slug",
+    "wiki_title": "Metal Slug (1996 video game)",
+    "wiki_url": "https://en.wikipedia.org/wiki/Metal_Slug_(1996_video_game)",
+    "redlink": false,
+    "release_date": "May 24",
+    "developer_publisher": "SNK",
+    "platform_breakdown": {
+      "platform": "NEO"
+    },
+    "platforms": [
+      "Neo Geo AES"
+    ]
+  },
+  {
+    "year": 1996,
+    "section": "Notable releases",
+    "title": "Final Doom",
+    "wiki_title": "Final Doom",
+    "wiki_url": "https://en.wikipedia.org/wiki/Final_Doom",
+    "redlink": false,
+    "release_date": "May 31",
+    "developer_publisher": "id Software",
+    "platform_breakdown": {
+      "platform": "DOS"
+    },
+    "platforms": [
+      "MS-DOS"
+    ]
+  },
+  {
+    "year": 1996,
+    "section": "Notable releases",
+    "title": "Last Bronx",
+    "wiki_title": "Last Bronx",
+    "wiki_url": "https://en.wikipedia.org/wiki/Last_Bronx",
+    "redlink": false,
+    "release_date": "June",
+    "developer_publisher": "Sega",
+    "platform_breakdown": {
+      "platform": "Arcade"
+    },
+    "platforms": [
+      "Arcade"
+    ]
+  },
+  {
+    "year": 1996,
+    "section": "Notable releases",
+    "title": "Ultimate Mortal Kombat 3",
+    "wiki_title": "Ultimate Mortal Kombat 3",
+    "wiki_url": "https://en.wikipedia.org/wiki/Ultimate_Mortal_Kombat_3",
+    "redlink": false,
+    "release_date": "June 26",
+    "developer_publisher": "Acclaim Entertainment , GT Interactive , Midway , Williams Entertainment",
+    "platform_breakdown": {
+      "platform": "SAT, GEN, SNES"
+    },
+    "platforms": [
+      "Sega Saturn",
+      "Genesis / Mega Drive",
+      "Super Nintendo Entertainment System"
+    ]
+  },
+  {
+    "year": 1996,
+    "section": "Notable releases",
+    "title": "Saturn Bomberman",
+    "wiki_title": "Saturn Bomberman",
+    "wiki_url": "https://en.wikipedia.org/wiki/Saturn_Bomberman",
+    "redlink": false,
+    "release_date": "July 19",
+    "developer_publisher": "Hudson",
+    "platform_breakdown": {
+      "platform": "SAT"
+    },
+    "platforms": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "year": 1996,
+    "section": "Notable releases",
+    "title": "Star Ocean",
+    "wiki_title": "Star Ocean (video game)",
+    "wiki_url": "https://en.wikipedia.org/wiki/Star_Ocean_(video_game)",
+    "redlink": false,
+    "release_date": "July 19",
+    "developer_publisher": "tri-ace / Enix",
+    "platform_breakdown": {
+      "platform": "SNES"
+    },
+    "platforms": [
+      "Super Nintendo Entertainment System"
+    ]
+  },
+  {
+    "year": 1996,
+    "section": "Notable releases",
+    "title": "The King of Fighters '96",
+    "wiki_title": "The King of Fighters '96",
+    "wiki_url": "https://en.wikipedia.org/wiki/The_King_of_Fighters_%2796",
+    "redlink": false,
+    "release_date": "July 25",
+    "developer_publisher": "SNK",
+    "platform_breakdown": {
+      "platform": "NEO, NEOCD, SAT"
+    },
+    "platforms": [
+      "Neo Geo AES",
+      "Neo Geo CD",
+      "Sega Saturn"
+    ]
+  },
+  {
+    "year": 1996,
+    "section": "Notable releases",
+    "title": "Bust-A-Move 2: Arcade Edition",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "release_date": "July 26",
+    "developer_publisher": "Taito / Acclaim",
+    "genre": "Puzzle",
+    "platform_breakdown": {
+      "platform": "SAT, PS1"
+    },
+    "platforms": [
+      "Sega Saturn",
+      "PlayStation"
+    ]
+  },
+  {
+    "year": 1996,
+    "section": "Notable releases",
+    "title": "Phantasmagoria: A Puzzle of Flesh",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "release_date": "July 31",
+    "developer_publisher": "Sierra On-Line",
+    "platform_breakdown": {
+      "platform": "DOS, WIN"
+    },
+    "platforms": [
+      "MS-DOS",
+      "Windows"
+    ],
+    "steam": null
+  },
+  {
+    "year": 1996,
+    "section": "Notable releases",
+    "title": "Virtua Fighter Kids",
+    "wiki_title": "Virtua Fighter Kids",
+    "wiki_url": "https://en.wikipedia.org/wiki/Virtua_Fighter_Kids",
+    "redlink": false,
+    "release_date": "July 31",
+    "developer_publisher": "Sega AM2",
+    "platform_breakdown": {
+      "platform": "SAT, Arcade"
+    },
+    "platforms": [
+      "Sega Saturn",
+      "Arcade"
+    ]
+  },
+  {
+    "year": 1996,
+    "section": "Notable releases",
+    "title": "Azrael's Tear",
+    "wiki_title": "Azrael's Tear",
+    "wiki_url": "https://en.wikipedia.org/wiki/Azrael%27s_Tear",
+    "redlink": false,
+    "release_date": "August 26",
+    "developer_publisher": "Intelligent Games",
+    "genre": "Adventure",
+    "platform_breakdown": {
+      "platform": "DOS"
+    },
+    "platforms": [
+      "MS-DOS"
+    ]
+  },
+  {
+    "year": 1996,
+    "section": "Notable releases",
+    "title": "Die Hard Trilogy",
+    "wiki_title": "Die Hard Trilogy",
+    "wiki_url": "https://en.wikipedia.org/wiki/Die_Hard_Trilogy",
+    "redlink": false,
+    "release_date": "August 31",
+    "developer_publisher": "Probe Entertainment / Fox Interactive",
+    "platform_breakdown": {
+      "platform": "WIN, PS1, SAT"
+    },
+    "platforms": [
+      "Windows",
+      "PlayStation",
+      "Sega Saturn"
+    ],
+    "steam": null
+  },
+  {
+    "year": 1996,
+    "section": "Notable releases",
+    "title": "Tetris Attack",
+    "wiki_title": "Tetris Attack",
+    "wiki_url": "https://en.wikipedia.org/wiki/Tetris_Attack",
+    "redlink": false,
+    "release_date": "August 31",
+    "developer_publisher": "Intelligent Systems / Nintendo",
+    "platform_breakdown": {
+      "platform": "SNES, GB"
+    },
+    "platforms": [
+      "Super Nintendo Entertainment System",
+      "Game Boy"
+    ]
+  },
+  {
+    "year": 1996,
+    "section": "Notable releases",
+    "title": "Madden NFL 97",
+    "wiki_title": "Madden NFL 97",
+    "wiki_url": "https://en.wikipedia.org/wiki/Madden_NFL_97",
+    "redlink": false,
+    "release_date": "August 31",
+    "developer_publisher": "EA Sports / Electronic Arts",
+    "genre": "Sports (football)",
+    "platform_breakdown": {
+      "platform": "GEN, PS1, WIN, SNES, SAT, GB"
+    },
+    "platforms": [
+      "Genesis / Mega Drive",
+      "PlayStation",
+      "Windows",
+      "Super Nintendo Entertainment System",
+      "Sega Saturn",
+      "Game Boy"
+    ],
+    "steam": null
+  },
+  {
+    "year": 1996,
+    "section": "Notable releases",
+    "title": "Beyond the Beyond",
+    "wiki_title": "Beyond the Beyond",
+    "wiki_url": "https://en.wikipedia.org/wiki/Beyond_the_Beyond",
+    "redlink": false,
+    "release_date": "August 31",
+    "developer_publisher": "Camelot / SCEA",
+    "genre": "RPG",
+    "platform_breakdown": {
+      "platform": "PS1"
+    },
+    "platforms": [
+      "PlayStation"
+    ]
+  },
+  {
+    "year": 1996,
+    "section": "Notable releases",
+    "title": "Jet Moto",
+    "wiki_title": "Jet Moto",
+    "wiki_url": "https://en.wikipedia.org/wiki/Jet_Moto",
+    "redlink": false,
+    "release_date": "August 31",
+    "developer_publisher": "SingleTrac / SCEA",
+    "genre": "Racing",
+    "platform_breakdown": {
+      "platform": "PS1"
+    },
+    "platforms": [
+      "PlayStation"
+    ]
+  },
+  {
+    "year": 1996,
+    "section": "Notable releases",
+    "title": "Jagged Alliance: Deadly Games",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "release_date": "September",
+    "developer_publisher": "Sir-Tech",
+    "platform_breakdown": {
+      "platform": "DOS"
+    },
+    "platforms": [
+      "MS-DOS"
+    ]
+  },
+  {
+    "year": 1996,
+    "section": "Notable releases",
+    "title": "Virtua Fighter 3",
+    "wiki_title": "Virtua Fighter 3",
+    "wiki_url": "https://en.wikipedia.org/wiki/Virtua_Fighter_3",
+    "redlink": false,
+    "release_date": "September",
+    "developer_publisher": "Sega AM2",
+    "genre": "Fighting",
+    "platform_breakdown": {
+      "platform": "Arcade"
+    },
+    "platforms": [
+      "Arcade"
+    ]
+  },
+  {
+    "year": 1996,
+    "section": "Notable releases",
+    "title": "Magic Carpet 2",
+    "wiki_title": "Magic Carpet 2",
+    "wiki_url": "https://en.wikipedia.org/wiki/Magic_Carpet_2",
+    "redlink": false,
+    "release_date": "September 8",
+    "developer_publisher": "Bullfrog Productions",
+    "genre": "Action",
+    "platform_breakdown": {
+      "platform": "DOS"
+    },
+    "platforms": [
+      "MS-DOS"
+    ]
+  },
+  {
+    "year": 1996,
+    "section": "Notable releases",
+    "title": "Crash Bandicoot",
+    "wiki_title": "Crash Bandicoot (video game)",
+    "wiki_url": "https://en.wikipedia.org/wiki/Crash_Bandicoot_(video_game)",
+    "redlink": false,
+    "release_date": "September 9",
+    "developer_publisher": "Naughty Dog / Universal / Sony",
+    "platform_breakdown": {
+      "platform": "PS1"
+    },
+    "platforms": [
+      "PlayStation"
+    ]
+  },
+  {
+    "year": 1996,
+    "section": "Notable releases",
+    "title": "GunGriffon",
+    "wiki_title": "GunGriffon",
+    "wiki_url": "https://en.wikipedia.org/wiki/GunGriffon",
+    "redlink": false,
+    "release_date": "September 14",
+    "developer_publisher": "Game Arts / Sega",
+    "platform_breakdown": {
+      "platform": "SAT"
+    },
+    "platforms": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "year": 1996,
+    "section": "Notable releases",
+    "title": "Revelations: Persona",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "release_date": "September 20",
+    "developer_publisher": "Atlus",
+    "genre": "RPG",
+    "platform_breakdown": {
+      "platform": "PS1"
+    },
+    "platforms": [
+      "PlayStation"
+    ]
+  },
+  {
+    "year": 1996,
+    "section": "Notable releases",
+    "title": "The Elder Scrolls II: Daggerfall",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "release_date": "September 20",
+    "developer_publisher": "Bethesda Softworks",
+    "genre": "Sandbox",
+    "platform_breakdown": {
+      "platform": "WIN"
+    },
+    "platforms": [
+      "Windows"
+    ],
+    "steam": {
+      "appid": 1812390,
+      "name": "The Elder Scrolls II: Daggerfall",
+      "short_description": "THE GREAT MACHINE AWAKENS",
+      "image_path": "images/steam-1812390.jpg",
+      "genres": [
+        "Action",
+        "RPG"
+      ],
+      "release_date": "Apr 26, 2022",
+      "site_url": "https://store.steampowered.com/app/1812390",
+      "year_match": false
+    }
+  },
+  {
+    "year": 1996,
+    "section": "Notable releases",
+    "title": "Meridian 59",
+    "wiki_title": "Meridian 59",
+    "wiki_url": "https://en.wikipedia.org/wiki/Meridian_59",
+    "redlink": false,
+    "release_date": "September 27",
+    "developer_publisher": "3DO",
+    "genre": "MMORPG",
+    "platform_breakdown": {
+      "platform": "WIN"
+    },
+    "platforms": [
+      "Windows"
+    ],
+    "steam": {
+      "appid": 893390,
+      "name": "Meridian 59",
+      "short_description": "Meridian 59 was the first 3D massively multiplayer game, released in 1996. It's back, and it's free to play!",
+      "image_path": "images/steam-893390.jpg",
+      "genres": [
+        "Indie",
+        "Massively Multiplayer",
+        "RPG",
+        "Free To Play"
+      ],
+      "release_date": "Aug 28, 2018",
+      "site_url": "https://store.steampowered.com/app/893390",
+      "year_match": false
+    }
+  },
+  {
+    "year": 1996,
+    "section": "Notable releases",
+    "title": "Blue Breaker: Ken yori mo hohoemi o",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "release_date": "September 27",
+    "developer_publisher": "HuneX",
+    "genre": "RPG",
+    "platform_breakdown": {
+      "platform": "PCFX"
+    },
+    "platforms": [
+      "PC-FX"
+    ]
+  },
+  {
+    "year": 1996,
+    "section": "Notable releases",
+    "title": "Broken Sword: The Shadow of the Templars",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "release_date": "September 30",
+    "developer_publisher": "Revolution Software / Virgin Interactive",
+    "genre": "Adventure",
+    "platform_breakdown": {
+      "platform": "WIN, PS1"
+    },
+    "platforms": [
+      "Windows",
+      "PlayStation"
+    ],
+    "steam": null
+  },
+  {
+    "year": 1996,
+    "section": "Notable releases",
+    "title": "Shattered Steel",
+    "wiki_title": "Shattered Steel",
+    "wiki_url": "https://en.wikipedia.org/wiki/Shattered_Steel",
+    "redlink": false,
+    "release_date": "September 30",
+    "developer_publisher": "BioWare / Interplay",
+    "platform_breakdown": {
+      "platform": "DOS"
+    },
+    "platforms": [
+      "MS-DOS"
+    ]
+  },
+  {
+    "year": 1996,
+    "section": "Notable releases",
+    "title": "Street Fighter Alpha 2",
+    "wiki_title": "Street Fighter Alpha 2",
+    "wiki_url": "https://en.wikipedia.org/wiki/Street_Fighter_Alpha_2",
+    "redlink": false,
+    "release_date": "September 30",
+    "developer_publisher": "Capcom",
+    "platform_breakdown": {
+      "platform": "Arcade, SNES, PS1, SAT"
+    },
+    "platforms": [
+      "Arcade",
+      "Super Nintendo Entertainment System",
+      "PlayStation",
+      "Sega Saturn"
+    ]
+  },
+  {
+    "year": 1996,
+    "section": "Notable releases",
+    "title": "Mr. Bones",
+    "wiki_title": "Mr. Bones (video game)",
+    "wiki_url": "https://en.wikipedia.org/wiki/Mr._Bones_(video_game)",
+    "redlink": false,
+    "release_date": "September 30",
+    "developer_publisher": "Zono / Sega",
+    "genre": "Platformer",
+    "platform_breakdown": {
+      "platform": "SAT"
+    },
+    "platforms": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "year": 1996,
+    "section": "Notable releases",
+    "title": "Tobal No. 1",
+    "wiki_title": "Tobal No. 1",
+    "wiki_url": "https://en.wikipedia.org/wiki/Tobal_No._1",
+    "redlink": false,
+    "release_date": "September 30",
+    "developer_publisher": "DreamFactory / SCEA",
+    "genre": "Fighting",
+    "platform_breakdown": {
+      "platform": "PS1"
+    },
+    "platforms": [
+      "PlayStation"
+    ]
+  },
+  {
+    "year": 1996,
+    "section": "Notable releases",
+    "title": "Donkey Kong Land 2",
+    "wiki_title": "Donkey Kong Land 2",
+    "wiki_url": "https://en.wikipedia.org/wiki/Donkey_Kong_Land_2",
+    "redlink": false,
+    "release_date": "September 30",
+    "developer_publisher": "Rare / Nintendo",
+    "platform_breakdown": {
+      "platform": "GB"
+    },
+    "platforms": [
+      "Game Boy"
+    ]
+  },
+  {
+    "year": 1996,
+    "section": "Notable releases",
+    "title": "Heroes of Might and Magic II: The Succession Wars",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "release_date": "October 1",
+    "developer_publisher": "New World Computing / 3DO",
+    "platform_breakdown": {
+      "platform": "DOS, WIN"
+    },
+    "platforms": [
+      "MS-DOS",
+      "Windows"
+    ],
+    "steam": null
+  },
+  {
+    "year": 1996,
+    "section": "Notable releases",
+    "title": "Mortal Kombat Trilogy",
+    "wiki_title": "Mortal Kombat Trilogy",
+    "wiki_url": "https://en.wikipedia.org/wiki/Mortal_Kombat_Trilogy",
+    "redlink": false,
+    "release_date": "October 10",
+    "developer_publisher": "Avalanche , Midway , Point of View",
+    "platform_breakdown": {
+      "platform": "N64, PS1, RZ"
+    },
+    "platforms": [
+      "Nintendo 64",
+      "PlayStation",
+      "R-Zone"
+    ]
+  },
+  {
+    "year": 1996,
+    "section": "Notable releases",
+    "title": "Marathon Infinity",
+    "wiki_title": "Marathon Infinity",
+    "wiki_url": "https://en.wikipedia.org/wiki/Marathon_Infinity",
+    "redlink": false,
+    "release_date": "October 15",
+    "developer_publisher": "Bungie",
+    "platform_breakdown": {
+      "platform": "MAC"
+    },
+    "platforms": [
+      "macOS"
+    ]
+  },
+  {
+    "year": 1996,
+    "section": "Notable releases",
+    "title": "Pokémon Blue",
+    "wiki_title": "Pokémon Red and Blue",
+    "wiki_url": "https://en.wikipedia.org/wiki/Pok%C3%A9mon_Red_and_Blue",
+    "redlink": false,
+    "release_date": "October 15",
+    "developer_publisher": "Game Freak / Nintendo",
+    "platform_breakdown": {
+      "platform": "GB"
+    },
+    "platforms": [
+      "Game Boy"
+    ]
+  },
+  {
+    "year": 1996,
+    "section": "Notable releases",
+    "title": "The Neverhood",
+    "wiki_title": "The Neverhood",
+    "wiki_url": "https://en.wikipedia.org/wiki/The_Neverhood",
+    "redlink": false,
+    "release_date": "October 30",
+    "developer_publisher": "The Neverhood Inc./DreamWorks",
+    "platform_breakdown": {
+      "platform": "WIN"
+    },
+    "platforms": [
+      "Windows"
+    ],
+    "steam": null
+  },
+  {
+    "year": 1996,
+    "section": "Notable releases",
+    "title": "Master of Orion II",
+    "wiki_title": "Master of Orion II",
+    "wiki_url": "https://en.wikipedia.org/wiki/Master_of_Orion_II",
+    "redlink": false,
+    "release_date": "October 31",
+    "developer_publisher": "Simtex / MicroProse",
+    "platform_breakdown": {
+      "platform": "DOS"
+    },
+    "platforms": [
+      "MS-DOS"
+    ]
+  },
+  {
+    "year": 1996,
+    "section": "Notable releases",
+    "title": "Toonstruck",
+    "wiki_title": "Toonstruck",
+    "wiki_url": "https://en.wikipedia.org/wiki/Toonstruck",
+    "redlink": false,
+    "release_date": "October 31",
+    "developer_publisher": "Burst Studios / Virgin Interactive Entertainment",
+    "platform_breakdown": {
+      "platform": "DOS"
+    },
+    "platforms": [
+      "MS-DOS"
+    ]
+  },
+  {
+    "year": 1996,
+    "section": "Notable releases",
+    "title": "Drowned God",
+    "wiki_title": "Drowned God",
+    "wiki_url": "https://en.wikipedia.org/wiki/Drowned_God",
+    "redlink": false,
+    "release_date": "October 31",
+    "developer_publisher": "Epic Multimedia Group/ Inscape",
+    "genre": "Adventure",
+    "platform_breakdown": {
+      "platform": "WIN"
+    },
+    "platforms": [
+      "Windows"
+    ],
+    "steam": {
+      "appid": 3320100,
+      "name": "Drowned God: Conspiracy of the Ages.",
+      "short_description": "The original 90's Myst style Adventure Game featuring pre rendered graphics, intricate puzzle solving and step through exploration, exactly as it was first released in 1996 but with the post launch patches added. 'Extras' include the original pitch document, pre production art and loads more.",
+      "image_path": "images/steam-3320100.jpg",
+      "genres": [
+        "Adventure"
+      ],
+      "release_date": "Feb 14, 2025",
+      "site_url": "https://store.steampowered.com/app/3320100",
+      "year_match": false
+    }
+  },
+  {
+    "year": 1996,
+    "section": "Notable releases",
+    "title": "SimCopter",
+    "wiki_title": "SimCopter",
+    "wiki_url": "https://en.wikipedia.org/wiki/SimCopter",
+    "redlink": false,
+    "release_date": "October 31",
+    "developer_publisher": "Maxis",
+    "genre": "Simulation (flight)",
+    "platform_breakdown": {
+      "platform": "WIN"
+    },
+    "platforms": [
+      "Windows"
+    ],
+    "steam": null
+  },
+  {
+    "year": 1996,
+    "section": "Notable releases",
+    "title": "King's Field III",
+    "wiki_title": "King's Field III",
+    "wiki_url": "https://en.wikipedia.org/wiki/King%27s_Field_III",
+    "redlink": false,
+    "release_date": "October 31",
+    "developer_publisher": "FromSoftware / ASCII Entertainment",
+    "platform_breakdown": {
+      "platform": "PS1"
+    },
+    "platforms": [
+      "PlayStation"
+    ]
+  },
+  {
+    "year": 1996,
+    "section": "Notable releases",
+    "title": "DeathDrome",
+    "wiki_title": "DeathDrome",
+    "wiki_url": "https://en.wikipedia.org/wiki/DeathDrome",
+    "redlink": false,
+    "release_date": "October 31",
+    "developer_publisher": "Zipper Interactive / Viacom",
+    "platform_breakdown": {
+      "platform": "WIN"
+    },
+    "platforms": [
+      "Windows"
+    ],
+    "steam": null
+  },
+  {
+    "year": 1996,
+    "section": "Notable releases",
+    "title": "WWF In Your House",
+    "wiki_title": "WWF In Your House (video game)",
+    "wiki_url": "https://en.wikipedia.org/wiki/WWF_In_Your_House_(video_game)",
+    "redlink": false,
+    "release_date": "October 31",
+    "developer_publisher": "Acclaim",
+    "platform_breakdown": {
+      "platform": "DOS, PS1, SAT"
+    },
+    "platforms": [
+      "MS-DOS",
+      "PlayStation",
+      "Sega Saturn"
+    ]
+  },
+  {
+    "year": 1996,
+    "section": "Notable releases",
+    "title": "Twisted Metal 2",
+    "wiki_title": "Twisted Metal 2",
+    "wiki_url": "https://en.wikipedia.org/wiki/Twisted_Metal_2",
+    "redlink": false,
+    "release_date": "October 31",
+    "developer_publisher": "SingleTrac / SCEA",
+    "platform_breakdown": {
+      "platform": "PS1"
+    },
+    "platforms": [
+      "PlayStation"
+    ]
+  },
+  {
+    "year": 1996,
+    "section": "Notable releases",
+    "title": "Destruction Derby 2",
+    "wiki_title": "Destruction Derby 2",
+    "wiki_url": "https://en.wikipedia.org/wiki/Destruction_Derby_2",
+    "redlink": false,
+    "release_date": "October 31",
+    "developer_publisher": "Reflections Interactive / SCEA",
+    "platform_breakdown": {
+      "platform": "PS1"
+    },
+    "platforms": [
+      "PlayStation"
+    ]
+  },
+  {
+    "year": 1996,
+    "section": "Notable releases",
+    "title": "NBA Live 97",
+    "wiki_title": "NBA Live 97",
+    "wiki_url": "https://en.wikipedia.org/wiki/NBA_Live_97",
+    "redlink": false,
+    "release_date": "October 31",
+    "developer_publisher": "Electronic Arts , EA Sports",
+    "platform_breakdown": {
+      "platform": "PS1, SAT, SNES, GEN"
+    },
+    "platforms": [
+      "PlayStation",
+      "Sega Saturn",
+      "Super Nintendo Entertainment System",
+      "Genesis / Mega Drive"
+    ]
+  },
+  {
+    "year": 1996,
+    "section": "Notable releases",
+    "title": "Pandemonium!",
+    "wiki_title": "Pandemonium! (video game)",
+    "wiki_url": "https://en.wikipedia.org/wiki/Pandemonium!_(video_game)",
+    "redlink": false,
+    "release_date": "October 31",
+    "developer_publisher": "Electronic Arts , EA Sports",
+    "platform_breakdown": {
+      "platform": "PS1, SAT"
+    },
+    "platforms": [
+      "PlayStation",
+      "Sega Saturn"
+    ]
+  },
+  {
+    "year": 1996,
+    "section": "Notable releases",
+    "title": "Blood Omen: Legacy of Kain",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "release_date": "November 1",
+    "developer_publisher": "Silicon Knights / Crystal Dynamics",
+    "platform_breakdown": {
+      "platform": "PS1, WIN"
+    },
+    "platforms": [
+      "PlayStation",
+      "Windows"
+    ],
+    "steam": null
+  },
+  {
+    "year": 1996,
+    "section": "Notable releases",
+    "title": "Disruptor",
+    "wiki_title": "Disruptor (video game)",
+    "wiki_url": "https://en.wikipedia.org/wiki/Disruptor_(video_game)",
+    "redlink": false,
+    "release_date": "November 20",
+    "developer_publisher": "Insomniac Games",
+    "platform_breakdown": {
+      "platform": "PS1"
+    },
+    "platforms": [
+      "PlayStation"
+    ]
+  },
+  {
+    "year": 1996,
+    "section": "Notable releases",
+    "title": "Sonic 3D Blast",
+    "wiki_title": "Sonic 3D Blast",
+    "wiki_url": "https://en.wikipedia.org/wiki/Sonic_3D_Blast",
+    "redlink": false,
+    "release_date": "November 20",
+    "developer_publisher": "Sega / Traveller's Tales",
+    "genre": "Platformer",
+    "platform_breakdown": {
+      "platform": "SAT, GEN"
+    },
+    "platforms": [
+      "Sega Saturn",
+      "Genesis / Mega Drive"
+    ]
+  },
+  {
+    "year": 1996,
+    "section": "Notable releases",
+    "title": "Donkey Kong Country 3",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "release_date": "November 22",
+    "developer_publisher": "Rare /Nintendo",
+    "platform_breakdown": {
+      "platform": "SNES"
+    },
+    "platforms": [
+      "Super Nintendo Entertainment System"
+    ]
+  },
+  {
+    "year": 1996,
+    "section": "Notable releases",
+    "title": "Killer Instinct Gold",
+    "wiki_title": "Killer Instinct Gold",
+    "wiki_url": "https://en.wikipedia.org/wiki/Killer_Instinct_Gold",
+    "redlink": false,
+    "release_date": "November 25",
+    "developer_publisher": "Rare /Nintendo",
+    "genre": "Fighting",
+    "platform_breakdown": {
+      "platform": "N64"
+    },
+    "platforms": [
+      "Nintendo 64"
+    ]
+  },
+  {
+    "year": 1996,
+    "section": "Notable releases",
+    "title": "Bubsy is 3D in \"Furbitten Planet\"",
+    "wiki_title": "Bubsy 3D",
+    "wiki_url": "https://en.wikipedia.org/wiki/Bubsy_3D",
+    "redlink": false,
+    "release_date": "November 25",
+    "developer_publisher": "Eidetic / Accolade",
+    "platform_breakdown": {
+      "platform": "PS1"
+    },
+    "platforms": [
+      "PlayStation"
+    ]
+  },
+  {
+    "year": 1996,
+    "section": "Notable releases",
+    "title": "Area 51",
+    "wiki_title": "Area 51 (1995 video game)",
+    "wiki_url": "https://en.wikipedia.org/wiki/Area_51_(1995_video_game)",
+    "redlink": false,
+    "release_date": "November 26",
+    "developer_publisher": "Mesa Logic/ Atari Games",
+    "genre": "Shooter",
+    "platform_breakdown": {
+      "platform": "PS1, WIN, SAT"
+    },
+    "platforms": [
+      "PlayStation",
+      "Windows",
+      "Sega Saturn"
+    ],
+    "steam": {
+      "appid": 4423180,
+      "name": "AREA 51",
+      "short_description": "Storm AREA 51 with your friends. Explore the most classified facility on earth. Discover what they've been hiding. Take selfies with aliens and smuggle evidence out before the military arrives.",
+      "image_path": "images/steam-4423180.jpg",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Casual",
+        "Indie",
+        "Simulation"
+      ],
+      "release_date": "To be announced",
+      "site_url": "https://store.steampowered.com/app/4423180",
+      "year_match": true
+    }
+  },
+  {
+    "year": 1996,
+    "section": "Notable releases",
+    "title": "Dead or Alive",
+    "wiki_title": "Dead or Alive (video game)",
+    "wiki_url": "https://en.wikipedia.org/wiki/Dead_or_Alive_(video_game)",
+    "redlink": false,
+    "release_date": "November 26",
+    "developer_publisher": "Team Ninja / Tecmo",
+    "genre": "Fighting",
+    "platform_breakdown": {
+      "platform": "Arcade"
+    },
+    "platforms": [
+      "Arcade"
+    ]
+  },
+  {
+    "year": 1996,
+    "section": "Notable releases",
+    "title": "Contra: Legacy of War",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "release_date": "November 30",
+    "developer_publisher": "Konami / Appaloosa Interactive",
+    "platform_breakdown": {
+      "platform": "SAT, PS1"
+    },
+    "platforms": [
+      "Sega Saturn",
+      "PlayStation"
+    ]
+  },
+  {
+    "year": 1996,
+    "section": "Notable releases",
+    "title": "Fighting Vipers",
+    "wiki_title": "Fighting Vipers",
+    "wiki_url": "https://en.wikipedia.org/wiki/Fighting_Vipers",
+    "redlink": false,
+    "release_date": "November 30",
+    "developer_publisher": "Sega AM2",
+    "genre": "Fighting",
+    "platform_breakdown": {
+      "platform": "SAT, Arcade"
+    },
+    "platforms": [
+      "Sega Saturn",
+      "Arcade"
+    ]
+  },
+  {
+    "year": 1996,
+    "section": "Notable releases",
+    "title": "Virtua Cop 2",
+    "wiki_title": "Virtua Cop 2",
+    "wiki_url": "https://en.wikipedia.org/wiki/Virtua_Cop_2",
+    "redlink": false,
+    "release_date": "November 30",
+    "developer_publisher": "Sega AM2",
+    "genre": "Light gun shooter",
+    "platform_breakdown": {
+      "platform": "SAT, Arcade"
+    },
+    "platforms": [
+      "Sega Saturn",
+      "Arcade"
+    ]
+  },
+  {
+    "year": 1996,
+    "section": "Notable releases",
+    "title": "Virtual On: Cyber Troopers",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "release_date": "November 30",
+    "developer_publisher": "CRI / Sega",
+    "platform_breakdown": {
+      "platform": "SAT, Arcade"
+    },
+    "platforms": [
+      "Sega Saturn",
+      "Arcade"
+    ]
+  },
+  {
+    "year": 1996,
+    "section": "Notable releases",
+    "title": "Bug Too!",
+    "wiki_title": "Bug Too!",
+    "wiki_url": "https://en.wikipedia.org/wiki/Bug_Too!",
+    "redlink": false,
+    "release_date": "November 30",
+    "developer_publisher": "Sega / Realtime Associates",
+    "platform_breakdown": {
+      "platform": "SAT, WIN"
+    },
+    "platforms": [
+      "Sega Saturn",
+      "Windows"
+    ],
+    "steam": null
+  },
+  {
+    "year": 1996,
+    "section": "Notable releases",
+    "title": "FIFA Soccer 97",
+    "wiki_title": "FIFA Soccer 97",
+    "wiki_url": "https://en.wikipedia.org/wiki/FIFA_Soccer_97",
+    "redlink": false,
+    "release_date": "November 30",
+    "developer_publisher": "EA Canada / Electronic Arts",
+    "platform_breakdown": {
+      "platform": "GEN, PS1, WIN, SNES, SAT, GB"
+    },
+    "platforms": [
+      "Genesis / Mega Drive",
+      "PlayStation",
+      "Windows",
+      "Super Nintendo Entertainment System",
+      "Sega Saturn",
+      "Game Boy"
+    ],
+    "steam": null
+  },
+  {
+    "year": 1996,
+    "section": "Notable releases",
+    "title": "Star Wars: Shadows of the Empire",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "release_date": "December 3",
+    "developer_publisher": "LucasArts / Nintendo",
+    "genre": "Action",
+    "platform_breakdown": {
+      "platform": "N64"
+    },
+    "platforms": [
+      "Nintendo 64"
+    ]
+  },
+  {
+    "year": 1996,
+    "section": "Notable releases",
+    "title": "Ignition",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "release_date": "December 12",
+    "developer_publisher": "Unique Development Studios/ Virgin Interactive",
+    "genre": "Racing",
+    "platform_breakdown": {
+      "platform": "DOS, WIN"
+    },
+    "platforms": [
+      "MS-DOS",
+      "Windows"
+    ],
+    "steam": {
+      "appid": 3774780,
+      "name": "Sulfur Ignition",
+      "short_description": "Sulfur Ignition is an irreverent racing game set in hell where players are condemned to compete at high speeds while battling each other, the game contains a good mix of high speed action, dark humor and lots of sarcasm!",
+      "image_path": "images/steam-3774780.jpg",
+      "genres": [
+        "Action",
+        "Racing"
+      ],
+      "release_date": "Coming soon",
+      "site_url": "https://store.steampowered.com/app/3774780",
+      "year_match": true
+    }
+  },
+  {
+    "year": 1996,
+    "section": "Notable releases",
+    "title": "Mario Kart 64",
+    "wiki_title": "Mario Kart 64",
+    "wiki_url": "https://en.wikipedia.org/wiki/Mario_Kart_64",
+    "redlink": false,
+    "release_date": "December 14",
+    "developer_publisher": "Nintendo",
+    "genre": "Racing (kart)",
+    "platform_breakdown": {
+      "platform": "N64"
+    },
+    "platforms": [
+      "Nintendo 64"
+    ]
+  },
+  {
+    "year": 1996,
+    "section": "Notable releases",
+    "title": "Furcadia",
+    "wiki_title": "Furcadia",
+    "wiki_url": "https://en.wikipedia.org/wiki/Furcadia",
+    "redlink": false,
+    "release_date": "December 16",
+    "developer_publisher": "Dragon's Eye Productions, Inc.",
+    "genre": "MMORPG",
+    "platform_breakdown": {
+      "platform": "WIN"
+    },
+    "platforms": [
+      "Windows"
+    ],
+    "steam": null
+  },
+  {
+    "year": 1996,
+    "section": "Notable releases",
+    "title": "Mega Man 8",
+    "wiki_title": "Mega Man 8",
+    "wiki_url": "https://en.wikipedia.org/wiki/Mega_Man_8",
+    "redlink": false,
+    "release_date": "December 17",
+    "developer_publisher": "Capcom",
+    "platform_breakdown": {
+      "platform": "PS1"
+    },
+    "platforms": [
+      "PlayStation"
+    ]
+  },
+  {
+    "year": 1996,
+    "section": "Notable releases",
+    "title": "Yu-no",
+    "wiki_title": "Yu-no",
+    "wiki_url": "https://en.wikipedia.org/wiki/Yu-no",
+    "redlink": false,
+    "release_date": "December 26",
+    "developer_publisher": "ELF Corporation",
+    "genre": "Visual novel",
+    "platform_breakdown": {
+      "platform": "PC98"
+    },
+    "platforms": [
+      "PC-9800 series"
+    ]
+  },
+  {
+    "year": 1996,
+    "section": "Notable releases",
+    "title": "Death Rally",
+    "wiki_title": "Death Rally",
+    "wiki_url": "https://en.wikipedia.org/wiki/Death_Rally",
+    "redlink": false,
+    "release_date": "December 31",
+    "developer_publisher": "Remedy Entertainment / GT Interactive",
+    "platform_breakdown": {
+      "platform": "DOS"
+    },
+    "platforms": [
+      "MS-DOS"
+    ]
+  },
+  {
+    "year": 1996,
+    "section": "Notable releases",
+    "title": "NBA Hangtime",
+    "wiki_title": "NBA Hangtime",
+    "wiki_url": "https://en.wikipedia.org/wiki/NBA_Hangtime",
+    "redlink": false,
+    "release_date": "December 31",
+    "developer_publisher": "Midway",
+    "genre": "Sports (basketball)",
+    "platform_breakdown": {
+      "platform": "GEN, PS1, WIN, N64, Arcade, SNES"
+    },
+    "platforms": [
+      "Genesis / Mega Drive",
+      "PlayStation",
+      "Windows",
+      "Nintendo 64",
+      "Arcade",
+      "Super Nintendo Entertainment System"
+    ],
+    "steam": null
+  }
+]

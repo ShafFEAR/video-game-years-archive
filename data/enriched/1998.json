@@ -1,0 +1,747 @@
+[
+  {
+    "year": 1998,
+    "section": "Metacritic and GameRankings",
+    "title": "The Legend of Zelda: Ocarina of Time",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "publisher": "Nintendo",
+    "release_date": "November 21, 1998",
+    "mc score": "99/100",
+    "gr score": "97.54%",
+    "platform_breakdown": {
+      "platform": "N64"
+    },
+    "platforms": [
+      "Nintendo 64"
+    ]
+  },
+  {
+    "year": 1998,
+    "section": "Metacritic and GameRankings",
+    "title": "Tekken 3",
+    "wiki_title": "Tekken 3",
+    "wiki_url": "https://en.wikipedia.org/wiki/Tekken_3",
+    "redlink": false,
+    "publisher": "Namco",
+    "release_date": "March 26, 1998",
+    "mc score": "96/100",
+    "gr score": "95.8%",
+    "platform_breakdown": {
+      "platform": "PS1"
+    },
+    "platforms": [
+      "PlayStation"
+    ]
+  },
+  {
+    "year": 1998,
+    "section": "Metacritic and GameRankings",
+    "title": "Half-Life",
+    "wiki_title": "Half-Life (video game)",
+    "wiki_url": "https://en.wikipedia.org/wiki/Half-Life_(video_game)",
+    "redlink": false,
+    "publisher": "Sierra Entertainment",
+    "release_date": "November 19, 1998",
+    "mc score": "96/100",
+    "gr score": "94.02%",
+    "platform_breakdown": {
+      "platform": "WIN"
+    },
+    "platforms": [
+      "Windows"
+    ],
+    "steam": {
+      "appid": 70,
+      "name": "Half-Life",
+      "short_description": "Named Game of the Year by over 50 publications, Valve's debut title blends action and adventure with award-winning technology to create a frighteningly realistic world where players must think to survive. Also includes an exciting multiplayer mode that allows you to play against friends and enemies around the world.",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/70/header.jpg?t=1745368462",
+      "genres": [
+        "Action"
+      ],
+      "release_date": "Nov 19, 1998",
+      "site_url": "https://store.steampowered.com/app/70",
+      "year_match": true
+    }
+  },
+  {
+    "year": 1998,
+    "section": "Metacritic and GameRankings",
+    "title": "Metal Gear Solid",
+    "wiki_title": "Metal Gear Solid (1998 video game)",
+    "wiki_url": "https://en.wikipedia.org/wiki/Metal_Gear_Solid_(1998_video_game)",
+    "redlink": false,
+    "publisher": "Konami",
+    "release_date": "September 3, 1998",
+    "mc score": "94/100",
+    "gr score": "93.24%",
+    "platform_breakdown": {
+      "platform": "PS1"
+    },
+    "platforms": [
+      "PlayStation"
+    ]
+  },
+  {
+    "year": 1998,
+    "section": "Metacritic and GameRankings",
+    "title": "Grim Fandango",
+    "wiki_title": "Grim Fandango",
+    "wiki_url": "https://en.wikipedia.org/wiki/Grim_Fandango",
+    "redlink": false,
+    "publisher": "LucasArts",
+    "release_date": "October 30, 1998",
+    "mc score": "94/100",
+    "gr score": "92.97%",
+    "platform_breakdown": {
+      "platform": "WIN"
+    },
+    "platforms": [
+      "Windows"
+    ],
+    "steam": {
+      "appid": 316790,
+      "name": "Grim Fandango Remastered",
+      "short_description": "One of the most acclaimed adventure games of all time is now back, better than ever. Grim Fandango Remastered has the all the beautiful art and engaging story fans remember, but has also been remastered to look, sound, and control even better than the award-winning original release.",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/316790/header.jpg?t=1731602112",
+      "genres": [
+        "Adventure"
+      ],
+      "release_date": "Jan 26, 2015",
+      "site_url": "https://store.steampowered.com/app/316790",
+      "year_match": false
+    }
+  },
+  {
+    "year": 1998,
+    "section": "Metacritic and GameRankings",
+    "title": "Resident Evil 2",
+    "wiki_title": "Resident Evil 2",
+    "wiki_url": "https://en.wikipedia.org/wiki/Resident_Evil_2",
+    "redlink": false,
+    "publisher": "Capcom",
+    "release_date": "January 21, 1998",
+    "mc score": "89/100",
+    "gr score": "93.13%",
+    "platform_breakdown": {
+      "platform": "PS1"
+    },
+    "platforms": [
+      "PlayStation"
+    ]
+  },
+  {
+    "year": 1998,
+    "section": "Metacritic and GameRankings",
+    "title": "Street Fighter Alpha 3",
+    "wiki_title": "Street Fighter Alpha 3",
+    "wiki_url": "https://en.wikipedia.org/wiki/Street_Fighter_Alpha_3",
+    "redlink": false,
+    "publisher": "Capcom",
+    "release_date": "December 23, 1998",
+    "mc score": "93/100 [ 26 ]",
+    "gr score": "90.28% [ 27 ]",
+    "platform_breakdown": {
+      "platform": "PS1"
+    },
+    "platforms": [
+      "PlayStation"
+    ]
+  },
+  {
+    "year": 1998,
+    "section": "Metacritic and GameRankings",
+    "title": "StarCraft",
+    "wiki_title": "StarCraft (video game)",
+    "wiki_url": "https://en.wikipedia.org/wiki/StarCraft_(video_game)",
+    "redlink": false,
+    "publisher": "Blizzard Entertainment",
+    "release_date": "March 31, 1998",
+    "mc score": "88/100",
+    "gr score": "92.85%",
+    "platform_breakdown": {
+      "platform": "WIN"
+    },
+    "platforms": [
+      "Windows"
+    ],
+    "steam": {
+      "appid": 3476660,
+      "name": "Star Crafter",
+      "short_description": "A space survival crafting mining base building and star system building game. Craft rockets to create planets and Dyson Rings, mine and craft advanced materials, terraform the terrain, manage electricity, farm food, and more as you watch the star system evolve into stunning, ever-changing views.",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3476660/header.jpg?t=1759438703",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Casual",
+        "Indie",
+        "Simulation"
+      ],
+      "release_date": "Sep 26, 2025",
+      "site_url": "https://store.steampowered.com/app/3476660",
+      "year_match": false
+    }
+  },
+  {
+    "year": 1998,
+    "section": "Metacritic and GameRankings",
+    "title": "Panzer Dragoon Saga",
+    "wiki_title": "Panzer Dragoon Saga",
+    "wiki_url": "https://en.wikipedia.org/wiki/Panzer_Dragoon_Saga",
+    "redlink": false,
+    "publisher": "Sega",
+    "release_date": "January 29, 1998",
+    "mc score": "— N/a",
+    "gr score": "92.46%",
+    "platform_breakdown": {
+      "platform": "SAT"
+    },
+    "platforms": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "year": 1998,
+    "section": "Metacritic and GameRankings",
+    "title": "Banjo-Kazooie",
+    "wiki_title": "Banjo-Kazooie (video game)",
+    "wiki_url": "https://en.wikipedia.org/wiki/Banjo-Kazooie_(video_game)",
+    "redlink": false,
+    "publisher": "Nintendo",
+    "release_date": "June 29, 1998",
+    "mc score": "92/100",
+    "gr score": "92.38%",
+    "platform_breakdown": {
+      "platform": "N64"
+    },
+    "platforms": [
+      "Nintendo 64"
+    ]
+  },
+  {
+    "year": 1998,
+    "section": "Metacritic and GameRankings",
+    "title": "Thief: The Dark Project",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "publisher": "Eidos Interactive",
+    "release_date": "December 1, 1998",
+    "mc score": "92/100",
+    "gr score": "89.41%",
+    "platform_breakdown": {
+      "platform": "WIN"
+    },
+    "platforms": [
+      "Windows"
+    ],
+    "steam": {
+      "appid": 4200960,
+      "name": "Thief: The Dark Project Remastered",
+      "short_description": "The shadows are your ally. Return to the city as Garrett, master thief, in this remastered classic by Nightdive Studios. Pickpocket, prowl, and outsmart in a world where trust is a luxury and every stolen secret comes at a price.",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4200960/20321014a4a5a0b71c8c70648eb37eef249466b1/header.jpg?t=1789156870",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "release_date": "To be announced",
+      "site_url": "https://store.steampowered.com/app/4200960",
+      "year_match": true
+    }
+  },
+  {
+    "year": 1998,
+    "section": "Metacritic and GameRankings",
+    "title": "Baldur's Gate",
+    "wiki_title": "Baldur's Gate (video game)",
+    "wiki_url": "https://en.wikipedia.org/wiki/Baldur%27s_Gate_(video_game)",
+    "redlink": false,
+    "publisher": "Interplay Entertainment",
+    "release_date": "December 21, 1998",
+    "mc score": "91/100",
+    "gr score": "91.94%",
+    "platform_breakdown": {
+      "platform": "WIN"
+    },
+    "platforms": [
+      "Windows"
+    ],
+    "steam": {
+      "appid": 1086940,
+      "name": "Baldur's Gate 3",
+      "short_description": "Baldur’s Gate 3 is a story-rich, party-based RPG set in the universe of Dungeons &amp; Dragons, where your choices shape a tale of fellowship and betrayal, survival and sacrifice, and the lure of absolute power.",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/48a2fcbda8565bb45025e98fd8ebde8a7203f6a0/header.jpg?t=1777363040",
+      "genres": [
+        "Adventure",
+        "RPG",
+        "Strategy"
+      ],
+      "release_date": "Aug 3, 2023",
+      "site_url": "https://store.steampowered.com/app/1086940",
+      "year_match": false
+    }
+  },
+  {
+    "year": 1998,
+    "section": "Metacritic and GameRankings",
+    "title": "The Legend of Zelda: Link's Awakening DX",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "publisher": "Nintendo",
+    "release_date": "December 12, 1998",
+    "mc score": "— N/a",
+    "gr score": "91.21%",
+    "platform_breakdown": {
+      "platform": "GBC"
+    },
+    "platforms": [
+      "Game Boy Color"
+    ]
+  },
+  {
+    "year": 1998,
+    "section": "Metacritic and GameRankings",
+    "title": "International Superstar Soccer 98",
+    "wiki_title": "International Superstar Soccer 98",
+    "wiki_url": "https://en.wikipedia.org/wiki/International_Superstar_Soccer_98",
+    "redlink": false,
+    "publisher": "Konami",
+    "release_date": "June 4, 1998",
+    "mc score": "91/100",
+    "gr score": "89.15%",
+    "platform_breakdown": {
+      "platform": "N64"
+    },
+    "platforms": [
+      "Nintendo 64"
+    ]
+  },
+  {
+    "year": 1998,
+    "section": "Metacritic and GameRankings",
+    "title": "Crash Bandicoot: Warped",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "publisher": "Sony Computer Entertainment",
+    "release_date": "October 31, 1998",
+    "mc score": "91/100",
+    "gr score": "89.07%",
+    "platform_breakdown": {
+      "platform": "PS1"
+    },
+    "platforms": [
+      "PlayStation"
+    ]
+  },
+  {
+    "year": 1998,
+    "section": "Metacritic and GameRankings",
+    "title": "Xenogears",
+    "wiki_title": "Xenogears",
+    "wiki_url": "https://en.wikipedia.org/wiki/Xenogears",
+    "redlink": false,
+    "publisher": "Square",
+    "release_date": "February 11, 1998",
+    "mc score": "84/100",
+    "gr score": "90.99%",
+    "platform_breakdown": {
+      "platform": "PS1"
+    },
+    "platforms": [
+      "PlayStation"
+    ]
+  },
+  {
+    "year": 1998,
+    "section": "Metacritic and GameRankings",
+    "title": "Oddworld: Abe's Exoddus",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "publisher": "GT Interactive",
+    "release_date": "November 17, 1998",
+    "mc score": "88/100",
+    "gr score": "90.42%",
+    "platform_breakdown": {
+      "platform": "PS1"
+    },
+    "platforms": [
+      "PlayStation"
+    ]
+  },
+  {
+    "year": 1998,
+    "section": "Metacritic and GameRankings",
+    "title": "NFL Blitz",
+    "wiki_title": "NFL Blitz",
+    "wiki_url": "https://en.wikipedia.org/wiki/NFL_Blitz",
+    "redlink": false,
+    "publisher": "Midway Games",
+    "release_date": "September 12, 1998",
+    "mc score": "— N/a",
+    "gr score": "90.13%",
+    "platform_breakdown": {
+      "platform": "N64"
+    },
+    "platforms": [
+      "PlayStation",
+      "Nintendo 64"
+    ]
+  },
+  {
+    "year": 1998,
+    "section": "Metacritic and GameRankings",
+    "title": "1080° Snowboarding",
+    "wiki_title": "1080° Snowboarding",
+    "wiki_url": "https://en.wikipedia.org/wiki/1080%C2%B0_Snowboarding",
+    "redlink": false,
+    "publisher": "Nintendo",
+    "release_date": "February 28, 1998",
+    "mc score": "— N/a",
+    "gr score": "89.60%",
+    "platform_breakdown": {
+      "platform": "N64"
+    },
+    "platforms": [
+      "Nintendo 64"
+    ]
+  },
+  {
+    "year": 1998,
+    "section": "Metacritic and GameRankings",
+    "title": "Battlezone",
+    "wiki_title": "Battlezone (1998 video game)",
+    "wiki_url": "https://en.wikipedia.org/wiki/Battlezone_(1998_video_game)",
+    "redlink": false,
+    "publisher": "Activision",
+    "release_date": "March 11, 1998",
+    "mc score": "— N/a",
+    "gr score": "89.03%",
+    "platform_breakdown": {
+      "platform": "WIN"
+    },
+    "platforms": [
+      "Windows"
+    ],
+    "steam": {
+      "appid": 301650,
+      "name": "Battlezone 98 Redux",
+      "short_description": "One of the greatest sci-fi strategy games of all time returns with remastered visuals, online multiplayer and near unlimited mod content from Steam Workshop. Experience thrilling first person action and acclaimed RTS in this explosive alternate vision of the 1960s space race.",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/301650/header.jpg?t=1579791137",
+      "genres": [
+        "Action",
+        "Strategy"
+      ],
+      "release_date": "Apr 18, 2016",
+      "site_url": "https://store.steampowered.com/app/301650",
+      "year_match": false
+    }
+  },
+  {
+    "year": 1998,
+    "section": "Metacritic and GameRankings",
+    "title": "Railroad Tycoon II",
+    "wiki_title": "Railroad Tycoon II",
+    "wiki_url": "https://en.wikipedia.org/wiki/Railroad_Tycoon_II",
+    "redlink": false,
+    "publisher": "Gathering of Developers",
+    "release_date": "November 2, 1998",
+    "mc score": "89/100",
+    "gr score": "83.15%",
+    "platform_breakdown": {
+      "platform": "WIN"
+    },
+    "platforms": [
+      "Windows"
+    ],
+    "steam": null
+  },
+  {
+    "year": 1998,
+    "section": "Metacritic and GameRankings",
+    "title": "Turok 2: Seeds of Evil",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "publisher": "Acclaim Entertainment",
+    "release_date": "December 10, 1998",
+    "mc score": "86/100",
+    "gr score": "88.96%",
+    "platform_breakdown": {
+      "platform": "N64"
+    },
+    "platforms": [
+      "Nintendo 64"
+    ]
+  },
+  {
+    "year": 1998,
+    "section": "Metacritic and GameRankings",
+    "title": "FIFA 99",
+    "wiki_title": "FIFA 99",
+    "wiki_url": "https://en.wikipedia.org/wiki/FIFA_99",
+    "redlink": false,
+    "publisher": "EA Sports",
+    "release_date": "October 31, 1998",
+    "mc score": "— N/a",
+    "gr score": "88.87%",
+    "platform_breakdown": {
+      "platform": "PS1"
+    },
+    "platforms": [
+      "Windows",
+      "PlayStation"
+    ],
+    "steam": null
+  },
+  {
+    "year": 1998,
+    "section": "Metacritic and GameRankings",
+    "title": "Caesar III",
+    "wiki_title": "Caesar III",
+    "wiki_url": "https://en.wikipedia.org/wiki/Caesar_III",
+    "redlink": false,
+    "publisher": "Sierra Entertainment",
+    "release_date": "September 30, 1998",
+    "mc score": "— N/a",
+    "gr score": "88.6%",
+    "platform_breakdown": {
+      "platform": "WIN"
+    },
+    "platforms": [
+      "Windows"
+    ],
+    "steam": null
+  },
+  {
+    "year": 1998,
+    "section": "Metacritic and GameRankings",
+    "title": "Unreal",
+    "wiki_title": "Unreal (1998 video game)",
+    "wiki_url": "https://en.wikipedia.org/wiki/Unreal_(1998_video_game)",
+    "redlink": false,
+    "publisher": "GT Interactive",
+    "release_date": "May 22, 1998",
+    "mc score": "— N/a",
+    "gr score": "88.58%",
+    "platform_breakdown": {
+      "platform": "WIN"
+    },
+    "platforms": [
+      "Windows"
+    ],
+    "steam": {
+      "appid": 1335560,
+      "name": "UNREAL LIFE",
+      "short_description": "And now, for today's story.",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1335560/header.jpg?t=1728639465",
+      "genres": [
+        "Adventure",
+        "Indie"
+      ],
+      "release_date": "Nov 19, 2020",
+      "site_url": "https://store.steampowered.com/app/1335560",
+      "year_match": false
+    }
+  },
+  {
+    "year": 1998,
+    "section": "Metacritic and GameRankings",
+    "title": "NBA Live 99",
+    "wiki_title": "NBA Live 99",
+    "wiki_url": "https://en.wikipedia.org/wiki/NBA_Live_99",
+    "redlink": false,
+    "publisher": "EA Sports",
+    "release_date": "November 10, 1998",
+    "mc score": "— N/a",
+    "gr score": "88.39%",
+    "platform_breakdown": {
+      "platform": "PS1"
+    },
+    "platforms": [
+      "PlayStation"
+    ]
+  },
+  {
+    "year": 1998,
+    "section": "Metacritic and GameRankings",
+    "title": "R4: Ridge Racer Type 4",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "publisher": "Namco",
+    "release_date": "December 3, 1998",
+    "mc score": "88/100 [ 26 ]",
+    "gr score": "88.16% [ 27 ]",
+    "platform_breakdown": {
+      "platform": "PS1"
+    },
+    "platforms": [
+      "PlayStation"
+    ]
+  },
+  {
+    "year": 1998,
+    "section": "Metacritic and GameRankings",
+    "title": "NHL 99",
+    "wiki_title": "NHL 99",
+    "wiki_url": "https://en.wikipedia.org/wiki/NHL_99",
+    "redlink": false,
+    "publisher": "EA Sports",
+    "release_date": "September 30, 1998",
+    "mc score": "— N/a",
+    "gr score": "88.11%",
+    "platform_breakdown": {
+      "platform": "WIN"
+    },
+    "platforms": [
+      "Windows"
+    ],
+    "steam": null
+  },
+  {
+    "year": 1998,
+    "section": "Metacritic and GameRankings",
+    "title": "Wario Land II",
+    "wiki_title": "Wario Land II",
+    "wiki_url": "https://en.wikipedia.org/wiki/Wario_Land_II",
+    "redlink": false,
+    "publisher": "Nintendo",
+    "release_date": "March 7, 1998",
+    "mc score": "— N/a",
+    "gr score": "88.04% [ 27 ]",
+    "platform_breakdown": {
+      "platform": "GBC"
+    },
+    "platforms": [
+      "Game Boy Color"
+    ]
+  },
+  {
+    "year": 1998,
+    "section": "Metacritic and GameRankings",
+    "title": "Myth II: Soulblighter",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "publisher": "Bungie",
+    "release_date": "December 28, 1998",
+    "mc score": "88/100",
+    "gr score": "86.39%",
+    "platform_breakdown": {
+      "platform": "WIN"
+    },
+    "platforms": [
+      "Windows"
+    ],
+    "steam": null
+  },
+  {
+    "year": 1998,
+    "section": "Metacritic and GameRankings",
+    "title": "Need for Speed III: Hot Pursuit",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "publisher": "Electronic Arts",
+    "release_date": "March 25, 1998",
+    "mc score": "88/100",
+    "gr score": "85.63%",
+    "platform_breakdown": {
+      "platform": "PS1"
+    },
+    "platforms": [
+      "PlayStation"
+    ]
+  },
+  {
+    "year": 1998,
+    "section": "Metacritic and GameRankings",
+    "title": "Starsiege: Tribes",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "publisher": "Sierra Entertainment",
+    "release_date": "December 23, 1998",
+    "mc score": "88/100",
+    "gr score": "84.77%",
+    "platform_breakdown": {
+      "platform": "WIN"
+    },
+    "platforms": [
+      "Windows"
+    ],
+    "steam": null
+  },
+  {
+    "year": 1998,
+    "section": "Metacritic and GameRankings",
+    "title": "Shogo: Mobile Armor Division",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "publisher": "Monolith Productions",
+    "release_date": "October 15, 1998",
+    "mc score": "88/100",
+    "gr score": "81.6%",
+    "platform_breakdown": {
+      "platform": "WIN"
+    },
+    "platforms": [
+      "Windows"
+    ],
+    "steam": {
+      "appid": 610860,
+      "name": "Shogo: Mobile Armor Division",
+      "short_description": "Shogo is an anime-inspired first-person shooter. Fight on foot or pilot a giant mech in both open and urban levels. You will know the true power of giant robots!",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/610860/header.jpg?t=1762284684",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Strategy"
+      ],
+      "release_date": "Apr 14, 2017",
+      "site_url": "https://store.steampowered.com/app/610860",
+      "year_match": false
+    }
+  },
+  {
+    "year": 1998,
+    "section": "Metacritic and GameRankings",
+    "title": "F-Zero X",
+    "wiki_title": "F-Zero X",
+    "wiki_url": "https://en.wikipedia.org/wiki/F-Zero_X",
+    "redlink": false,
+    "publisher": "Nintendo",
+    "release_date": "July 14, 1998",
+    "mc score": "85/100",
+    "gr score": "87.61%",
+    "platform_breakdown": {
+      "platform": "N64"
+    },
+    "platforms": [
+      "Nintendo 64"
+    ]
+  },
+  {
+    "year": 1998,
+    "section": "Metacritic and GameRankings",
+    "title": "Madden NFL 99",
+    "wiki_title": "Madden NFL 99",
+    "wiki_url": "https://en.wikipedia.org/wiki/Madden_NFL_99",
+    "redlink": false,
+    "publisher": "EA Sports",
+    "release_date": "September 23, 1998",
+    "mc score": "— N/a",
+    "gr score": "87.59%",
+    "platform_breakdown": {
+      "platform": "N64"
+    },
+    "platforms": [
+      "Nintendo 64"
+    ]
+  }
+]

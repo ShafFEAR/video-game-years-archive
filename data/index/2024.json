@@ -1,0 +1,266 @@
+[
+  {
+    "year": 2024,
+    "section": "Critically acclaimed titles",
+    "title": "Astro Bot",
+    "wiki_title": "Astro Bot",
+    "wiki_url": "https://en.wikipedia.org/wiki/Astro_Bot",
+    "redlink": false,
+    "developer": "Team Asobi",
+    "publisher": "Sony Interactive Entertainment",
+    "release_date": "September 6, 2024",
+    "average score": "94",
+    "platform_breakdown": {
+      "platform(s)": "PS5"
+    },
+    "platforms": [
+      "PlayStation 5"
+    ]
+  },
+  {
+    "year": 2024,
+    "section": "Critically acclaimed titles",
+    "title": "Elden Ring Shadow of the Erdtree",
+    "wiki_title": "Elden Ring Shadow of the Erdtree",
+    "wiki_url": "https://en.wikipedia.org/wiki/Elden_Ring_Shadow_of_the_Erdtree",
+    "redlink": false,
+    "developer": "FromSoftware",
+    "publisher": "Bandai Namco Entertainment",
+    "release_date": "June 21, 2024",
+    "average score": "94",
+    "platform_breakdown": {
+      "platform(s)": "PS4 , PS5 , WIN , XBO , XSX/S"
+    },
+    "platforms": [
+      "PlayStation 4",
+      "PlayStation 5",
+      "Windows",
+      "Xbox One",
+      "Xbox Series X/S"
+    ]
+  },
+  {
+    "year": 2024,
+    "section": "Critically acclaimed titles",
+    "title": "Metaphor: ReFantazio",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "developer": "Studio Zero",
+    "publisher": "Sega , Atlus",
+    "release_date": "October 11, 2024",
+    "average score": "94",
+    "platform_breakdown": {
+      "platform(s)": "PS4 , PS5 , WIN , XSX/S"
+    },
+    "platforms": [
+      "PlayStation 4",
+      "PlayStation 5",
+      "Windows",
+      "Xbox Series X/S"
+    ]
+  },
+  {
+    "year": 2024,
+    "section": "Critically acclaimed titles",
+    "title": "Final Fantasy VII Rebirth",
+    "wiki_title": "Final Fantasy VII Rebirth",
+    "wiki_url": "https://en.wikipedia.org/wiki/Final_Fantasy_VII_Rebirth",
+    "redlink": false,
+    "developer": "Square Enix",
+    "publisher": "Square Enix",
+    "release_date": "February 29, 2024",
+    "average score": "92",
+    "platform_breakdown": {
+      "platform(s)": "PS5"
+    },
+    "platforms": [
+      "PlayStation 5"
+    ]
+  },
+  {
+    "year": 2024,
+    "section": "Critically acclaimed titles",
+    "title": "Caves of Qud",
+    "wiki_title": "Caves of Qud",
+    "wiki_url": "https://en.wikipedia.org/wiki/Caves_of_Qud",
+    "redlink": false,
+    "developer": "Freehold Games",
+    "publisher": "Kitfox Games",
+    "release_date": "December 5, 2024",
+    "average score": "91",
+    "platform_breakdown": {
+      "platform(s)": "WIN , OSX , LIN"
+    },
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Linux"
+    ]
+  },
+  {
+    "year": 2024,
+    "section": "Critically acclaimed titles",
+    "title": "Satisfactory",
+    "wiki_title": "Satisfactory",
+    "wiki_url": "https://en.wikipedia.org/wiki/Satisfactory",
+    "redlink": false,
+    "developer": "Coffee Stain Studios",
+    "publisher": "Coffee Stain Studios",
+    "release_date": "September 10, 2024",
+    "average score": "91",
+    "platform_breakdown": {
+      "platform(s)": "WIN"
+    },
+    "platforms": [
+      "Windows"
+    ]
+  },
+  {
+    "year": 2024,
+    "section": "Critically acclaimed titles",
+    "title": "Slay the Princess — The Pristine Cut",
+    "wiki_title": "Slay the Princess — The Pristine Cut",
+    "wiki_url": "https://en.wikipedia.org/wiki/Slay_the_Princess_%E2%80%94_The_Pristine_Cut",
+    "redlink": false,
+    "developer": "Black Tabby Games",
+    "publisher": "Serenity Forge",
+    "release_date": "October 24, 2024",
+    "average score": "91",
+    "platform_breakdown": {
+      "platform(s)": "LIN , OSX , NS , PS4 , PS5 , WIN , XBO , XSX/S"
+    },
+    "platforms": [
+      "Linux",
+      "macOS",
+      "Nintendo Switch",
+      "PlayStation 4",
+      "PlayStation 5",
+      "Windows",
+      "Xbox One",
+      "Xbox Series X/S"
+    ]
+  },
+  {
+    "year": 2024,
+    "section": "Critically acclaimed titles",
+    "title": "UFO 50",
+    "wiki_title": "UFO 50",
+    "wiki_url": "https://en.wikipedia.org/wiki/UFO_50",
+    "redlink": false,
+    "developer": "Mossmouth",
+    "publisher": "Mossmouth",
+    "release_date": "September 18, 2024",
+    "average score": "91",
+    "platform_breakdown": {
+      "platform(s)": "WIN"
+    },
+    "platforms": [
+      "Windows"
+    ]
+  },
+  {
+    "year": 2024,
+    "section": "Critically acclaimed titles",
+    "title": "Animal Well",
+    "wiki_title": "Animal Well",
+    "wiki_url": "https://en.wikipedia.org/wiki/Animal_Well",
+    "redlink": false,
+    "developer": "Shared Memory",
+    "publisher": "Bigmode",
+    "release_date": "May 9, 2024",
+    "average score": "90",
+    "platform_breakdown": {
+      "platform(s)": "PS5 , NS , WIN , XSX/S"
+    },
+    "platforms": [
+      "PlayStation 5",
+      "Nintendo Switch",
+      "Windows",
+      "Xbox Series X/S"
+    ]
+  },
+  {
+    "year": 2024,
+    "section": "Critically acclaimed titles",
+    "title": "Balatro",
+    "wiki_title": "Balatro",
+    "wiki_url": "https://en.wikipedia.org/wiki/Balatro",
+    "redlink": false,
+    "developer": "LocalThunk",
+    "publisher": "Playstack",
+    "release_date": "February 20, 2024",
+    "average score": "90",
+    "platform_breakdown": {
+      "platform(s)": "DROID , iOS , OSX , NS , PS4 , PS5 , WIN , XBO , XSX/S"
+    },
+    "platforms": [
+      "Android",
+      "iOS",
+      "macOS",
+      "Nintendo Switch",
+      "PlayStation 4",
+      "PlayStation 5",
+      "Windows",
+      "Xbox One",
+      "Xbox Series X/S"
+    ]
+  },
+  {
+    "year": 2024,
+    "section": "Critically acclaimed titles",
+    "title": "Tekken 8",
+    "wiki_title": "Tekken 8",
+    "wiki_url": "https://en.wikipedia.org/wiki/Tekken_8",
+    "redlink": false,
+    "developer": "Bandai Namco Studios / Arika [ 8 ]",
+    "publisher": "Bandai Namco Entertainment",
+    "release_date": "January 26, 2024",
+    "average score": "90",
+    "platform_breakdown": {
+      "platform(s)": "PS5 , WIN , XSX/S"
+    },
+    "platforms": [
+      "PlayStation 5",
+      "Windows",
+      "Xbox Series X/S"
+    ]
+  },
+  {
+    "year": 2024,
+    "section": "Critically acclaimed titles",
+    "title": "The Last of Us Part II Remastered",
+    "wiki_title": "The Last of Us Part II Remastered",
+    "wiki_url": "https://en.wikipedia.org/wiki/The_Last_of_Us_Part_II_Remastered",
+    "redlink": false,
+    "developer": "Naughty Dog",
+    "publisher": "Sony Interactive Entertainment",
+    "release_date": "January 19, 2024",
+    "average score": "90",
+    "platform_breakdown": {
+      "platform(s)": "PS5"
+    },
+    "platforms": [
+      "PlayStation 5"
+    ]
+  },
+  {
+    "year": 2024,
+    "section": "Critically acclaimed titles",
+    "title": "Tsukihime: A Piece of Blue Glass Moon",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "developer": "Type-Moon / HuneX",
+    "publisher": "Aniplex",
+    "release_date": "June 27, 2024",
+    "average score": "90",
+    "platform_breakdown": {
+      "platform(s)": "PS4 , NS"
+    },
+    "platforms": [
+      "PlayStation 4",
+      "Nintendo Switch"
+    ]
+  }
+]

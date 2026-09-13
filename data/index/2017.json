@@ -1,0 +1,273 @@
+[
+  {
+    "year": 2017,
+    "section": "Critically acclaimed games",
+    "title": "The Legend of Zelda: Breath of the Wild",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "developer": "Nintendo EPD",
+    "publisher": "Nintendo",
+    "release_date": "March 3, 2017",
+    "average score out of 100": "97",
+    "platform_breakdown": {
+      "platform": "WiiU"
+    },
+    "platforms": [
+      "Nintendo Switch",
+      "Wii U"
+    ]
+  },
+  {
+    "year": 2017,
+    "section": "Critically acclaimed games",
+    "title": "Super Mario Odyssey",
+    "wiki_title": "Super Mario Odyssey",
+    "wiki_url": "https://en.wikipedia.org/wiki/Super_Mario_Odyssey",
+    "redlink": false,
+    "developer": "Nintendo EPD",
+    "publisher": "Nintendo",
+    "release_date": "October 27, 2017",
+    "average score out of 100": "97",
+    "platform_breakdown": {
+      "platform": "NS"
+    },
+    "platforms": [
+      "Nintendo Switch"
+    ]
+  },
+  {
+    "year": 2017,
+    "section": "Critically acclaimed games",
+    "title": "Divinity: Original Sin II",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "developer": "Larian Studios",
+    "publisher": "Larian Studios",
+    "release_date": "September 14, 2017",
+    "average score out of 100": "93",
+    "platform_breakdown": {
+      "platform": "WIN"
+    },
+    "platforms": [
+      "Windows"
+    ]
+  },
+  {
+    "year": 2017,
+    "section": "Critically acclaimed games",
+    "title": "Persona 5",
+    "wiki_title": "Persona 5",
+    "wiki_url": "https://en.wikipedia.org/wiki/Persona_5",
+    "redlink": false,
+    "developer": "P-Studio",
+    "publisher": "Atlus",
+    "release_date": "April 4, 2017",
+    "average score out of 100": "93",
+    "platform_breakdown": {
+      "platform": "PS4"
+    },
+    "platforms": [
+      "PlayStation 4"
+    ]
+  },
+  {
+    "year": 2017,
+    "section": "Critically acclaimed games",
+    "title": "What Remains of Edith Finch",
+    "wiki_title": "What Remains of Edith Finch",
+    "wiki_url": "https://en.wikipedia.org/wiki/What_Remains_of_Edith_Finch",
+    "redlink": false,
+    "developer": "Giant Sparrow",
+    "publisher": "Annapurna Interactive",
+    "release_date": "July 19, 2017",
+    "average score out of 100": "92",
+    "platform_breakdown": {
+      "platform": "XBO"
+    },
+    "platforms": [
+      "Xbox One"
+    ]
+  },
+  {
+    "year": 2017,
+    "section": "Critically acclaimed games",
+    "title": "Undertale",
+    "wiki_title": "Undertale",
+    "wiki_url": "https://en.wikipedia.org/wiki/Undertale",
+    "redlink": false,
+    "developer": "8-4",
+    "publisher": "8-4",
+    "release_date": "August 15, 2017",
+    "average score out of 100": "92",
+    "platform_breakdown": {
+      "platform": "PS4"
+    },
+    "platforms": [
+      "PlayStation 4"
+    ]
+  },
+  {
+    "year": 2017,
+    "section": "Critically acclaimed games",
+    "title": "Ōkami HD",
+    "wiki_title": "Ōkami#High-definition remaster",
+    "wiki_url": "https://en.wikipedia.org/wiki/%C5%8Ckami#High-definition_remaster",
+    "redlink": false,
+    "developer": "Capcom",
+    "publisher": "Capcom",
+    "release_date": "December 12, 2017",
+    "average score out of 100": "92",
+    "platform_breakdown": {
+      "platform": "WIN"
+    },
+    "platforms": [
+      "Windows"
+    ]
+  },
+  {
+    "year": 2017,
+    "section": "Critically acclaimed games",
+    "title": "Mario Kart 8 Deluxe",
+    "wiki_title": "Mario Kart 8",
+    "wiki_url": "https://en.wikipedia.org/wiki/Mario_Kart_8",
+    "redlink": false,
+    "developer": "Nintendo EPD",
+    "publisher": "Nintendo",
+    "release_date": "April 28, 2017",
+    "average score out of 100": "92",
+    "platform_breakdown": {
+      "platform": "NS"
+    },
+    "platforms": [
+      "Nintendo Switch"
+    ]
+  },
+  {
+    "year": 2017,
+    "section": "Critically acclaimed games",
+    "title": "SteamWorld Heist: Ultimate Edition",
+    "wiki_title": "SteamWorld Heist",
+    "wiki_url": "https://en.wikipedia.org/wiki/SteamWorld_Heist",
+    "redlink": false,
+    "developer": "Image & Form",
+    "publisher": "Image & Form",
+    "release_date": "December 28, 2017",
+    "average score out of 100": "91",
+    "platform_breakdown": {
+      "platform": "NS"
+    },
+    "platforms": [
+      "Nintendo Switch"
+    ]
+  },
+  {
+    "year": 2017,
+    "section": "Critically acclaimed games",
+    "title": "Shovel Knight: Treasure Trove",
+    "wiki_title": "Shovel Knight",
+    "wiki_url": "https://en.wikipedia.org/wiki/Shovel_Knight",
+    "redlink": false,
+    "developer": "Yacht Club Games",
+    "publisher": "Yacht Club Games",
+    "release_date": "March 3, 2017",
+    "average score out of 100": "91",
+    "platform_breakdown": {
+      "platform": "NS"
+    },
+    "platforms": [
+      "Nintendo Switch"
+    ]
+  },
+  {
+    "year": 2017,
+    "section": "Critically acclaimed games",
+    "title": "Retro City Rampage DX",
+    "wiki_title": "Retro City Rampage",
+    "wiki_url": "https://en.wikipedia.org/wiki/Retro_City_Rampage",
+    "redlink": false,
+    "developer": "Vblank Entertainment",
+    "publisher": "Vblank Entertainment",
+    "release_date": "August 3, 2017",
+    "average score out of 100": "91",
+    "platform_breakdown": {
+      "platform": "NS"
+    },
+    "platforms": [
+      "Nintendo Switch"
+    ]
+  },
+  {
+    "year": 2017,
+    "section": "Critically acclaimed games",
+    "title": "Bayonetta",
+    "wiki_title": "Bayonetta (video game)",
+    "wiki_url": "https://en.wikipedia.org/wiki/Bayonetta_(video_game)",
+    "redlink": false,
+    "developer": "PlatinumGames",
+    "publisher": "Sega",
+    "release_date": "April 11, 2017",
+    "average score out of 100": "90",
+    "platform_breakdown": {
+      "platform": "WIN"
+    },
+    "platforms": [
+      "Windows"
+    ]
+  },
+  {
+    "year": 2017,
+    "section": "Critically acclaimed games",
+    "title": "Opus Magnum",
+    "wiki_title": "Opus Magnum",
+    "wiki_url": "https://en.wikipedia.org/wiki/Opus_Magnum",
+    "redlink": false,
+    "developer": "Zachtronics",
+    "publisher": "Zachtronics",
+    "release_date": "December 8, 2017",
+    "average score out of 100": "90",
+    "platform_breakdown": {
+      "platform": "WIN"
+    },
+    "platforms": [
+      "Windows"
+    ]
+  },
+  {
+    "year": 2017,
+    "section": "Critically acclaimed games",
+    "title": "Pinball FX 3: Universal Classics Pinball",
+    "wiki_title": "Pinball FX 3",
+    "wiki_url": "https://en.wikipedia.org/wiki/Pinball_FX_3",
+    "redlink": false,
+    "developer": "Zen Studios",
+    "publisher": "Zen Studios",
+    "release_date": "September 26, 2017",
+    "average score out of 100": "90",
+    "platform_breakdown": {
+      "platform": "XBO"
+    },
+    "platforms": [
+      "Xbox One"
+    ]
+  },
+  {
+    "year": 2017,
+    "section": "Critically acclaimed games",
+    "title": "Linelight",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "developer": "My Dog Zorro",
+    "publisher": "My Dog Zorro",
+    "release_date": "January 30, 2017",
+    "average score out of 100": "90",
+    "platform_breakdown": {
+      "platform": "WIN"
+    },
+    "platforms": [
+      "Windows"
+    ]
+  }
+]

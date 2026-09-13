@@ -1,0 +1,350 @@
+[
+  {
+    "year": 2013,
+    "section": "Critically acclaimed titles",
+    "title": "Grand Theft Auto V",
+    "wiki_title": "Grand Theft Auto V",
+    "wiki_url": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_V",
+    "redlink": false,
+    "publisher": "Rockstar Games",
+    "release_date": "September 17, 2013",
+    "mc score": "97/100",
+    "gr score": "97.01%",
+    "platform_breakdown": {
+      "platform": "X360"
+    },
+    "platforms": [
+      "PlayStation 3",
+      "Xbox 360"
+    ]
+  },
+  {
+    "year": 2013,
+    "section": "Critically acclaimed titles",
+    "title": "BioShock Infinite",
+    "wiki_title": "BioShock Infinite",
+    "wiki_url": "https://en.wikipedia.org/wiki/BioShock_Infinite",
+    "redlink": false,
+    "publisher": "2K Games",
+    "release_date": "March 26, 2013",
+    "mc score": "94/100",
+    "gr score": "95.94%",
+    "platform_breakdown": {
+      "platform": "X360"
+    },
+    "platforms": [
+      "PlayStation 3",
+      "Windows",
+      "Xbox 360"
+    ]
+  },
+  {
+    "year": 2013,
+    "section": "Critically acclaimed titles",
+    "title": "The Last of Us",
+    "wiki_title": "The Last of Us (video game)",
+    "wiki_url": "https://en.wikipedia.org/wiki/The_Last_of_Us_(video_game)",
+    "redlink": false,
+    "publisher": "Sony Computer Entertainment",
+    "release_date": "June 14, 2013",
+    "mc score": "95/100",
+    "gr score": "95.09%",
+    "platform_breakdown": {
+      "platform": "PS3"
+    },
+    "platforms": [
+      "PlayStation 3"
+    ]
+  },
+  {
+    "year": 2013,
+    "section": "Critically acclaimed titles",
+    "title": "Flower",
+    "wiki_title": "Flower (video game)",
+    "wiki_url": "https://en.wikipedia.org/wiki/Flower_(video_game)",
+    "redlink": false,
+    "publisher": "Sony Computer Entertainment",
+    "release_date": "November 15, 2013",
+    "mc score": "91/100",
+    "gr score": "93.57%",
+    "platform_breakdown": {
+      "platform": "PS4"
+    },
+    "platforms": [
+      "PlayStation 4"
+    ]
+  },
+  {
+    "year": 2013,
+    "section": "Critically acclaimed titles",
+    "title": "Fez",
+    "wiki_title": "Fez (video game)",
+    "wiki_url": "https://en.wikipedia.org/wiki/Fez_(video_game)",
+    "redlink": false,
+    "publisher": "Trapdoor",
+    "release_date": "May 1, 2013",
+    "mc score": "91/100",
+    "gr score": "93.5%",
+    "platform_breakdown": {
+      "platform": "WIN"
+    },
+    "platforms": [
+      "Windows"
+    ]
+  },
+  {
+    "year": 2013,
+    "section": "Critically acclaimed titles",
+    "title": "Metal Gear Solid: The Legacy Collection",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "publisher": "Konami",
+    "release_date": "July 9, 2013",
+    "mc score": "93/100",
+    "gr score": "93.33% [ 12 ]",
+    "platform_breakdown": {
+      "platform": "PS3"
+    },
+    "platforms": [
+      "PlayStation 3"
+    ]
+  },
+  {
+    "year": 2013,
+    "section": "Critically acclaimed titles",
+    "title": "Super Mario 3D World",
+    "wiki_title": "Super Mario 3D World",
+    "wiki_url": "https://en.wikipedia.org/wiki/Super_Mario_3D_World",
+    "redlink": false,
+    "publisher": "Nintendo",
+    "release_date": "November 21, 2013",
+    "mc score": "93/100",
+    "gr score": "92.56%",
+    "platform_breakdown": {
+      "platform": "WiiU"
+    },
+    "platforms": [
+      "Wii U"
+    ]
+  },
+  {
+    "year": 2013,
+    "section": "Critically acclaimed titles",
+    "title": "Brothers: A Tale of Two Sons",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "publisher": "505 Games",
+    "release_date": "September 3, 2013",
+    "mc score": "90/100",
+    "gr score": "93.12%",
+    "platform_breakdown": {
+      "platform": "WIN"
+    },
+    "platforms": [
+      "Windows"
+    ]
+  },
+  {
+    "year": 2013,
+    "section": "Critically acclaimed titles",
+    "title": "Rayman Legends",
+    "wiki_title": "Rayman Legends",
+    "wiki_url": "https://en.wikipedia.org/wiki/Rayman_Legends",
+    "redlink": false,
+    "publisher": "Ubisoft",
+    "release_date": "August 29, 2013",
+    "mc score": "92/100",
+    "gr score": "93%",
+    "platform_breakdown": {
+      "platform": "X360"
+    },
+    "platforms": [
+      "Wii U",
+      "PlayStation 3",
+      "Windows",
+      "Xbox 360"
+    ]
+  },
+  {
+    "year": 2013,
+    "section": "Critically acclaimed titles",
+    "title": "Deus Ex: Human Revolution – Director's Cut",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "publisher": "Square Enix",
+    "release_date": "October 22, 2013",
+    "mc score": "91/100",
+    "gr score": "92.5% [ 13 ]",
+    "platform_breakdown": {
+      "platform": "WIN"
+    },
+    "platforms": [
+      "Windows"
+    ]
+  },
+  {
+    "year": 2013,
+    "section": "Critically acclaimed titles",
+    "title": "The Legend of Zelda: The Wind Waker HD",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "publisher": "Nintendo",
+    "release_date": "September 20, 2013",
+    "mc score": "90/100",
+    "gr score": "91.08%",
+    "platform_breakdown": {
+      "platform": "WiiU"
+    },
+    "platforms": [
+      "Wii U"
+    ]
+  },
+  {
+    "year": 2013,
+    "section": "Critically acclaimed titles",
+    "title": "The Legend of Zelda: A Link Between Worlds",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "publisher": "Nintendo",
+    "release_date": "November 22, 2013",
+    "mc score": "91/100",
+    "gr score": "90.55%",
+    "platform_breakdown": {
+      "platform": "3DS"
+    },
+    "platforms": [
+      "Nintendo 3DS"
+    ]
+  },
+  {
+    "year": 2013,
+    "section": "Critically acclaimed titles",
+    "title": "Spelunky",
+    "wiki_title": "Spelunky",
+    "wiki_url": "https://en.wikipedia.org/wiki/Spelunky",
+    "redlink": false,
+    "publisher": "Mossmouth",
+    "release_date": "August 8, 2013",
+    "mc score": "90/100",
+    "gr score": "91%",
+    "platform_breakdown": {
+      "platform": "WIN"
+    },
+    "platforms": [
+      "Windows"
+    ]
+  },
+  {
+    "year": 2013,
+    "section": "Critically acclaimed titles",
+    "title": "Mass Effect 3: Citadel",
+    "wiki_title": "Mass Effect 3 downloadable content",
+    "wiki_url": "https://en.wikipedia.org/wiki/Mass_Effect_3_downloadable_content",
+    "redlink": false,
+    "publisher": "Electronic Arts",
+    "release_date": "March 5, 2013",
+    "mc score": "90/100",
+    "gr score": "90.67% [ 14 ]",
+    "platform_breakdown": {
+      "platform": "PS3"
+    },
+    "platforms": [
+      "PlayStation 3"
+    ]
+  },
+  {
+    "year": 2013,
+    "section": "Critically acclaimed titles",
+    "title": "The Stanley Parable",
+    "wiki_title": "The Stanley Parable",
+    "wiki_url": "https://en.wikipedia.org/wiki/The_Stanley_Parable",
+    "redlink": false,
+    "publisher": "Galactic Cafe",
+    "release_date": "October 13, 2013",
+    "mc score": "88/100",
+    "gr score": "90.25%",
+    "platform_breakdown": {
+      "platform": "WIN"
+    },
+    "platforms": [
+      "Windows"
+    ]
+  },
+  {
+    "year": 2013,
+    "section": "Critically acclaimed titles",
+    "title": "Dota 2",
+    "wiki_title": "Dota 2",
+    "wiki_url": "https://en.wikipedia.org/wiki/Dota_2",
+    "redlink": false,
+    "publisher": "Valve",
+    "release_date": "July 9, 2013",
+    "mc score": "90/100",
+    "gr score": "89.27%",
+    "platform_breakdown": {
+      "platform": "WIN"
+    },
+    "platforms": [
+      "Windows"
+    ]
+  },
+  {
+    "year": 2013,
+    "section": "Critically acclaimed titles",
+    "title": "Crusader Kings II: The Old Gods",
+    "wiki_title": "Crusader Kings II",
+    "wiki_url": "https://en.wikipedia.org/wiki/Crusader_Kings_II",
+    "redlink": false,
+    "publisher": "Paradox Interactive",
+    "release_date": "May 28, 2013",
+    "mc score": "88/100",
+    "gr score": "90% [ 16 ]",
+    "platform_breakdown": {
+      "platform": "WIN"
+    },
+    "platforms": [
+      "Windows"
+    ]
+  },
+  {
+    "year": 2013,
+    "section": "Critically acclaimed titles",
+    "title": "XCOM: Enemy Within",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "publisher": "2K Games",
+    "release_date": "November 12, 2013",
+    "mc score": "88/100",
+    "gr score": "90% [ 17 ]",
+    "platform_breakdown": {
+      "platform": "PS3"
+    },
+    "platforms": [
+      "PlayStation 3"
+    ]
+  },
+  {
+    "year": 2013,
+    "section": "Critically acclaimed titles",
+    "title": "Rage of the Gladiator",
+    "wiki_title": "Rage of the Gladiator",
+    "wiki_url": "https://en.wikipedia.org/wiki/Rage_of_the_Gladiator",
+    "redlink": false,
+    "publisher": "Gamelion Studios",
+    "release_date": "September 19, 2013",
+    "mc score": "88/100",
+    "gr score": "90% [ 18 ]",
+    "platform_breakdown": {
+      "platform": "3DS"
+    },
+    "platforms": [
+      "Nintendo 3DS"
+    ]
+  }
+]

@@ -1,0 +1,263 @@
+[
+  {
+    "year": 2023,
+    "section": "Critically acclaimed titles",
+    "title": "Baldur's Gate 3",
+    "wiki_title": "Baldur's Gate 3",
+    "wiki_url": "https://en.wikipedia.org/wiki/Baldur%27s_Gate_3",
+    "redlink": false,
+    "developer": "Larian Studios",
+    "publisher": "Larian Studios",
+    "release_date": "August 3, 2023",
+    "average score": "96",
+    "platform_breakdown": {
+      "platform(s)": "OSX , PS5 , WIN , XSX/S"
+    },
+    "platforms": [
+      "macOS",
+      "PlayStation 5",
+      "Windows",
+      "Xbox Series X/S"
+    ]
+  },
+  {
+    "year": 2023,
+    "section": "Critically acclaimed titles",
+    "title": "The Legend of Zelda: Tears of the Kingdom",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "developer": "Nintendo EPD",
+    "publisher": "Nintendo",
+    "release_date": "May 12, 2023",
+    "average score": "96",
+    "platform_breakdown": {
+      "platform(s)": "NS"
+    },
+    "platforms": [
+      "Nintendo Switch"
+    ]
+  },
+  {
+    "year": 2023,
+    "section": "Critically acclaimed titles",
+    "title": "Metroid Prime Remastered",
+    "wiki_title": "Metroid Prime Remastered",
+    "wiki_url": "https://en.wikipedia.org/wiki/Metroid_Prime_Remastered",
+    "redlink": false,
+    "developer": "Retro Studios",
+    "publisher": "Nintendo",
+    "release_date": "February 8, 2023",
+    "average score": "94",
+    "platform_breakdown": {
+      "platform(s)": "NS"
+    },
+    "platforms": [
+      "Nintendo Switch"
+    ]
+  },
+  {
+    "year": 2023,
+    "section": "Critically acclaimed titles",
+    "title": "Resident Evil 4",
+    "wiki_title": "Resident Evil 4 (2023 video game)",
+    "wiki_url": "https://en.wikipedia.org/wiki/Resident_Evil_4_(2023_video_game)",
+    "redlink": false,
+    "developer": "Capcom",
+    "publisher": "Capcom",
+    "release_date": "March 24, 2023",
+    "average score": "93",
+    "platform_breakdown": {
+      "platform(s)": "iOS , iPadOS , OSX , PS4 , PS5 , WIN , XSX/S"
+    },
+    "platforms": [
+      "iOS",
+      "iPadOS",
+      "macOS",
+      "PlayStation 4",
+      "PlayStation 5",
+      "Windows",
+      "Xbox Series X/S"
+    ]
+  },
+  {
+    "year": 2023,
+    "section": "Critically acclaimed titles",
+    "title": "Street Fighter 6",
+    "wiki_title": "Street Fighter 6",
+    "wiki_url": "https://en.wikipedia.org/wiki/Street_Fighter_6",
+    "redlink": false,
+    "developer": "Capcom",
+    "publisher": "Capcom",
+    "release_date": "June 2, 2023",
+    "average score": "92",
+    "platform_breakdown": {
+      "platform(s)": "Arcade , PS4 , PS5 , WIN , XSX/S"
+    },
+    "platforms": [
+      "Arcade",
+      "PlayStation 4",
+      "PlayStation 5",
+      "Windows",
+      "Xbox Series X/S"
+    ]
+  },
+  {
+    "year": 2023,
+    "section": "Critically acclaimed titles",
+    "title": "Super Mario Bros. Wonder",
+    "wiki_title": "Super Mario Bros. Wonder",
+    "wiki_url": "https://en.wikipedia.org/wiki/Super_Mario_Bros._Wonder",
+    "redlink": false,
+    "developer": "Nintendo EPD",
+    "publisher": "Nintendo",
+    "release_date": "October 20, 2023",
+    "average score": "92",
+    "platform_breakdown": {
+      "platform(s)": "NS"
+    },
+    "platforms": [
+      "Nintendo Switch"
+    ]
+  },
+  {
+    "year": 2023,
+    "section": "Critically acclaimed titles",
+    "title": "Xenoblade Chronicles 3: Expansion Pass Wave 4 - Future Redeemed",
+    "wiki_title": "Xenoblade Chronicles 3#Future Redeemed",
+    "wiki_url": "https://en.wikipedia.org/wiki/Xenoblade_Chronicles_3#Future_Redeemed",
+    "redlink": false,
+    "developer": "Monolith Soft",
+    "publisher": "Nintendo",
+    "release_date": "April 25, 2023",
+    "average score": "92",
+    "platform_breakdown": {
+      "platform(s)": "NS"
+    },
+    "platforms": [
+      "Nintendo Switch"
+    ]
+  },
+  {
+    "year": 2023,
+    "section": "Critically acclaimed titles",
+    "title": "Against the Storm",
+    "wiki_title": "Against the Storm (video game)",
+    "wiki_url": "https://en.wikipedia.org/wiki/Against_the_Storm_(video_game)",
+    "redlink": false,
+    "developer": "Eremite Games",
+    "publisher": "Hooded Horse",
+    "release_date": "December 8, 2023",
+    "average score": "91",
+    "platform_breakdown": {
+      "platform(s)": "WIN"
+    },
+    "platforms": [
+      "Windows"
+    ]
+  },
+  {
+    "year": 2023,
+    "section": "Critically acclaimed titles",
+    "title": "Dave the Diver",
+    "wiki_title": "Dave the Diver",
+    "wiki_url": "https://en.wikipedia.org/wiki/Dave_the_Diver",
+    "redlink": false,
+    "developer": "Mintrocket",
+    "publisher": "Mintrocket",
+    "release_date": "June 28, 2023",
+    "average score": "90",
+    "platform_breakdown": {
+      "platform(s)": "OSX , NS , PS4 , PS5 , WIN"
+    },
+    "platforms": [
+      "macOS",
+      "Nintendo Switch",
+      "PlayStation 4",
+      "PlayStation 5",
+      "Windows"
+    ]
+  },
+  {
+    "year": 2023,
+    "section": "Critically acclaimed titles",
+    "title": "Jack Jeanne",
+    "wiki_title": "Jack Jeanne",
+    "wiki_url": "https://en.wikipedia.org/wiki/Jack_Jeanne",
+    "redlink": false,
+    "developer": "Broccoli",
+    "publisher": "Aksys Games",
+    "release_date": "June 15, 2023",
+    "average score": "90",
+    "platform_breakdown": {
+      "platform(s)": "DROID , iOS , NS"
+    },
+    "platforms": [
+      "Android",
+      "iOS",
+      "Nintendo Switch"
+    ]
+  },
+  {
+    "year": 2023,
+    "section": "Critically acclaimed titles",
+    "title": "Marvel's Spider-Man 2",
+    "wiki_title": "Marvel's Spider-Man 2",
+    "wiki_url": "https://en.wikipedia.org/wiki/Marvel%27s_Spider-Man_2",
+    "redlink": false,
+    "developer": "Insomniac Games",
+    "publisher": "Sony Interactive Entertainment",
+    "release_date": "October 20, 2023",
+    "average score": "90",
+    "platform_breakdown": {
+      "platform(s)": "PS5"
+    },
+    "platforms": [
+      "PlayStation 5"
+    ]
+  },
+  {
+    "year": 2023,
+    "section": "Critically acclaimed titles",
+    "title": "Slay the Princess",
+    "wiki_title": "Slay the Princess",
+    "wiki_url": "https://en.wikipedia.org/wiki/Slay_the_Princess",
+    "redlink": false,
+    "developer": "Black Tabby Games",
+    "publisher": "Black Tabby Games",
+    "release_date": "October 23, 2023",
+    "average score": "90",
+    "platform_breakdown": {
+      "platform(s)": "LIN , OSX , NS , PS4 , PS5 , XBO , XSX/S"
+    },
+    "platforms": [
+      "Linux",
+      "macOS",
+      "Nintendo Switch",
+      "PlayStation 4",
+      "PlayStation 5",
+      "Xbox One",
+      "Xbox Series X/S"
+    ]
+  },
+  {
+    "year": 2023,
+    "section": "Critically acclaimed titles",
+    "title": "Videoverse",
+    "wiki_title": "Videoverse",
+    "wiki_url": "https://en.wikipedia.org/wiki/Videoverse",
+    "redlink": false,
+    "developer": "Kinmoku",
+    "publisher": "Kinmoku",
+    "release_date": "August 7, 2023",
+    "average score": "90",
+    "platform_breakdown": {
+      "platform(s)": "LIN , OSX , WIN"
+    },
+    "platforms": [
+      "Linux",
+      "macOS",
+      "Windows"
+    ]
+  }
+]
