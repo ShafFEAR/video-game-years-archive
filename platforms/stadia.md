@@ -2,7 +2,7 @@
 
 [← Back to index](../README.md)
 
-117 titles across 5 years in this archive.
+125 titles across 6 years in this archive.
 
 ## 2023
 
@@ -217,6 +217,14 @@
 ### My Little Pony: A Maretime Bay Adventure
 
 **Platforms:** Windows, Nintendo Switch, PlayStation 4, Xbox One, Xbox Series X/S, Stadia, PlayStation 5 &nbsp;|&nbsp; **Developer:** Melbot Studios &nbsp;|&nbsp; **Publisher:** Outright Games &nbsp;|&nbsp; **Genre:** Adventure &nbsp;|&nbsp; **Released:** May 27
+
+---
+
+### Nine to Five
+
+**Platforms:** Windows, Stadia &nbsp;|&nbsp; **Developer:** Redhill Games &nbsp;|&nbsp; **Publisher:** Redhill Games &nbsp;|&nbsp; **Genre:** Massively multiplayer online tactical first-person shooter &nbsp;|&nbsp; **Released:** May 16, 2022
+
+[Wikipedia](https://en.wikipedia.org/wiki/Nine_to_Five_(video_game))
 
 ---
 
@@ -634,6 +642,14 @@
 
 ---
 
+### Nanotale – Typing Chronicles
+
+**Platforms:** Linux, macOS, Windows, Stadia &nbsp;|&nbsp; **Developer:** Fishing Cactus &nbsp;|&nbsp; **Publisher:** Fishing Cactus &nbsp;|&nbsp; **Genre:** Adventure, typing &nbsp;|&nbsp; **Released:** March 31, 2021
+
+[Wikipedia](https://en.wikipedia.org/wiki/Nanotale_%E2%80%93_Typing_Chronicles)
+
+---
+
 ### Olympic Games Tokyo 2020 - The Official Video Game
 
 **Platforms:** Windows, Nintendo Switch, PlayStation 4, Xbox One, Stadia &nbsp;|&nbsp; **Developer:** Sega &nbsp;|&nbsp; **Publisher:** Sega &nbsp;|&nbsp; **Genre:** Sports &nbsp;|&nbsp; **Released:** June 22
@@ -713,6 +729,14 @@
 > _Synopsis source: IGDB_
 
 [Wikipedia](https://en.wikipedia.org/wiki/Super_Animal_Royale) · [IGDB](https://www.igdb.com/games/super-animal-royale)
+
+---
+
+### Watch Dogs: Legion – Bloodline
+
+**Platforms:** Windows, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S, Stadia, Amazon Luna &nbsp;|&nbsp; **Developer:** Ubisoft Toronto &nbsp;|&nbsp; **Publisher:** Ubisoft &nbsp;|&nbsp; **Genre:** Action-adventure &nbsp;|&nbsp; **Released:** July 6, 2021
+
+[Wikipedia](https://en.wikipedia.org/wiki/Watch_Dogs:_Legion_%E2%80%93_Bloodline)
 
 ---
 
@@ -872,6 +896,14 @@
 
 ---
 
+### Pac-Man Mega Tunnel Battle
+
+**Platforms:** Stadia, Nintendo Switch, Windows, PlayStation 5, PlayStation 4, Xbox One, Xbox Series X/S &nbsp;|&nbsp; **Developer:** Heavy Iron Studios, Amber Studio &nbsp;|&nbsp; **Publisher:** Bandai Namco Entertainment &nbsp;|&nbsp; **Genre:** Maze, battle royale &nbsp;|&nbsp; **Released:** November 17, 2020
+
+[Wikipedia](https://en.wikipedia.org/wiki/Pac-Man_Mega_Tunnel_Battle)
+
+---
+
 ### PGA Tour 2K21
 
 **Platforms:** Windows, Nintendo Switch, PlayStation 4, Xbox One, Stadia &nbsp;|&nbsp; **Publisher:** 2K Sports &nbsp;|&nbsp; **Genre:** Sports &nbsp;|&nbsp; **Released:** August 21
@@ -885,6 +917,14 @@
 **Platforms:** Windows, Nintendo Switch, PlayStation 4, Xbox One, Stadia &nbsp;|&nbsp; **Publisher:** Coatsink &nbsp;|&nbsp; **Genre:** Adventure, Puzzle-platformer &nbsp;|&nbsp; **Released:** December 3
 
 [Wikipedia](https://en.wikipedia.org/wiki/Phogs!)
+
+---
+
+### Relicta
+
+**Platforms:** Windows, PlayStation 4, Xbox One, Stadia &nbsp;|&nbsp; **Developer:** Mighty Polygon &nbsp;|&nbsp; **Publisher:** Ravenscourt &nbsp;|&nbsp; **Genre:** Puzzle &nbsp;|&nbsp; **Released:** August 4, 2020
+
+[Wikipedia](https://en.wikipedia.org/wiki/Relicta)
 
 ---
 
@@ -1130,6 +1170,14 @@
 
 ---
 
+### Red Dead Online
+
+**Platforms:** PlayStation 4, Xbox One, Windows, Stadia &nbsp;|&nbsp; **Developer:** Rockstar Games &nbsp;|&nbsp; **Publisher:** Rockstar Games &nbsp;|&nbsp; **Genre:** Action-adventure &nbsp;|&nbsp; **Released:** May 14, 2019
+
+[Wikipedia](https://en.wikipedia.org/wiki/Red_Dead_Online)
+
+---
+
 ### Red Dead Redemption 2
 
 <img src="../images/steam-1174180.jpg" alt="Red Dead Redemption 2 cover" width="200">
@@ -1165,5 +1213,25 @@
 **Platforms:** Stadia &nbsp;|&nbsp; **Publisher:** Square Enix &nbsp;|&nbsp; **Genre:** Action-adventure &nbsp;|&nbsp; **Type:** Port &nbsp;|&nbsp; **Released:** November 19
 
 [Wikipedia](https://en.wikipedia.org/wiki/Tomb_Raider_(2013_video_game))
+
+---
+
+## 2018
+
+[Full 2018 page](../years/2018.md)
+
+### Assassin's Creed Odyssey – Legacy of the First Blade
+
+**Platforms:** PlayStation 4, Windows, Xbox One, Nintendo Switch, Stadia &nbsp;|&nbsp; **Developer:** Ubisoft &nbsp;|&nbsp; **Publisher:** Ubisoft &nbsp;|&nbsp; **Genre:** Action role-playing &nbsp;|&nbsp; **Released:** December 4, 2018
+
+[Wikipedia](https://en.wikipedia.org/wiki/Assassin's_Creed_Odyssey_%E2%80%93_Legacy_of_the_First_Blade)
+
+---
+
+### The Legend of Heroes: Trails of Cold Steel IV
+
+**Platforms:** PlayStation 4, Stadia &nbsp;|&nbsp; **Developer:** Nihon Falcom &nbsp;|&nbsp; **Publisher:** NIS America, Nihon Falcom &nbsp;|&nbsp; **Genre:** Role-playing &nbsp;|&nbsp; **Released:** September 27, 2018
+
+[Wikipedia](https://en.wikipedia.org/wiki/The_Legend_of_Heroes:_Trails_of_Cold_Steel_IV)
 
 ---

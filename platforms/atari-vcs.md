@@ -2,7 +2,7 @@
 
 [← Back to index](../README.md)
 
-13 titles across 5 years in this archive.
+16 titles across 5 years in this archive.
 
 ## 2025
 
@@ -33,6 +33,14 @@
 **Platforms:** Windows, Nintendo Switch, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S, Atari VCS &nbsp;|&nbsp; **Developer:** Headless Chicken &nbsp;|&nbsp; **Publisher:** Atari &nbsp;|&nbsp; **Genre:** Racing &nbsp;|&nbsp; **Released:** June 27
 
 [Wikipedia](https://en.wikipedia.org/wiki/Sprint_2)
+
+---
+
+### Qomp2
+
+**Platforms:** Atari VCS, Nintendo Switch, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S &nbsp;|&nbsp; **Developer:** Graphite Lab &nbsp;|&nbsp; **Publisher:** Atari &nbsp;|&nbsp; **Genre:** Puzzle-platform &nbsp;|&nbsp; **Released:** February 20, 2024
+
+[Wikipedia](https://en.wikipedia.org/wiki/Qomp2)
 
 ---
 
@@ -84,6 +92,14 @@
 
 [Full 2022 page](../years/2022.md)
 
+### Atari 50
+
+**Platforms:** Atari VCS, Nintendo Switch, PlayStation 4, PlayStation 5, Windows, Xbox One, Xbox Series X/S &nbsp;|&nbsp; **Developer:** Digital Eclipse &nbsp;|&nbsp; **Publisher:** Atari &nbsp;|&nbsp; **Released:** November 11, 2022
+
+[Wikipedia](https://en.wikipedia.org/wiki/Atari_50)
+
+---
+
 ### Breakout: Recharged
 
 **Platforms:** Windows, macOS, Linux, Nintendo Switch, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S, Atari VCS &nbsp;|&nbsp; **Developer:** Adamvision Studios, SneakyBox &nbsp;|&nbsp; **Publisher:** Atari &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** February 10
@@ -119,5 +135,13 @@
 **Platforms:** Windows, Nintendo Switch, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S, Atari VCS &nbsp;|&nbsp; **Developer:** Adamvision Studios, Sneakybox &nbsp;|&nbsp; **Publisher:** Atari &nbsp;|&nbsp; **Genre:** Shoot 'em up &nbsp;|&nbsp; **Released:** September 29
 
 [Wikipedia](https://en.wikipedia.org/wiki/Centipede_(video_game)#Sequels_and_remakes)
+
+---
+
+### Mr. Run and Jump
+
+**Platforms:** Linux, macOS, Atari VCS, Atari 2600, Nintendo Switch, PlayStation 4, PlayStation 5, Windows, Xbox One, Xbox Series X/S &nbsp;|&nbsp; **Developer:** Graphite Lab, Heavy Horse Games &nbsp;|&nbsp; **Publisher:** Atari &nbsp;|&nbsp; **Genre:** Platform
+
+[Wikipedia](https://en.wikipedia.org/wiki/Mr._Run_and_Jump)
 
 ---

@@ -2,7 +2,7 @@
 
 [← Back to index](../README.md)
 
-12 titles across 7 years in this archive.
+24 titles across 10 years in this archive.
 
 ## 2026
 
@@ -19,6 +19,30 @@
 > _Synopsis source: IGDB_
 
 [IGDB](https://www.igdb.com/games/hot-dogs-horseshoes-and-hand-grenades)
+
+---
+
+## 2025
+
+[Full 2025 page](../years/2025.md)
+
+### Elsewhere Electric
+
+**Platforms:** Meta Quest, SteamVR, iOS, Android &nbsp;|&nbsp; **Developer:** Games by Stitch &nbsp;|&nbsp; **Publisher:** Games by Stitch &nbsp;|&nbsp; **Genre:** Puzzle, Asymmetric Co-op &nbsp;|&nbsp; **Released:** July 23, 2025
+
+[Wikipedia](https://en.wikipedia.org/wiki/Elsewhere_Electric)
+
+---
+
+## 2024
+
+[Full 2024 page](../years/2024.md)
+
+### Skydance's Behemoth
+
+**Platforms:** Meta Quest, PlayStation VR2, SteamVR &nbsp;|&nbsp; **Developer:** Skydance Interactive &nbsp;|&nbsp; **Publisher:** Skydance Interactive &nbsp;|&nbsp; **Genre:** Action-adventure &nbsp;|&nbsp; **Released:** December 5, 2024
+
+[Wikipedia](https://en.wikipedia.org/wiki/Skydance's_Behemoth)
 
 ---
 
@@ -58,20 +82,6 @@
 
 ---
 
-### Escape Simulator
-
-<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co49cc.jpg" alt="Escape Simulator cover" width="200">
-
-**Platforms:** Windows, SteamVR, macOS, Linux &nbsp;|&nbsp; **Developer:** Pine Studio &nbsp;|&nbsp; **Publisher:** Pine Studio &nbsp;|&nbsp; **Genre:** Point-and-click, Puzzle, Simulator, Adventure, Indie &nbsp;|&nbsp; **Released:** October 19, 2021
-
-> Escape Simulator is a next-gen escape room experience: pick up and examine everything, move furniture, smash pots and melt locks! Play solo or with a friend to solve cryptic puzzles and riddles.
->
-> _Synopsis source: IGDB_
-
-[IGDB](https://www.igdb.com/games/escape-simulator)
-
----
-
 ## 2020
 
 [Full 2020 page](../years/2020.md)
@@ -90,9 +100,45 @@
 
 ---
 
+## 2019
+
+[Full 2019 page](../years/2019.md)
+
+### Death Horizon: Reloaded
+
+**Platforms:** Meta Quest, Oculus Rift, SteamVR, PlayStation VR &nbsp;|&nbsp; **Developer:** Dream Dev Studio VR &nbsp;|&nbsp; **Genre:** First-person shooter &nbsp;|&nbsp; **Released:** September 26, 2019
+
+[Wikipedia](https://en.wikipedia.org/wiki/Death_Horizon:_Reloaded)
+
+---
+
+### Synth Riders
+
+**Platforms:** SteamVR, Oculus Rift, Meta Quest, PlayStation 4, PlayStation 5, PlayStation VR, Windows, Android &nbsp;|&nbsp; **Developer:** Kluge Interactive &nbsp;|&nbsp; **Publisher:** Kluge Interactive &nbsp;|&nbsp; **Genre:** Rhythm &nbsp;|&nbsp; **Released:** May 21, 2019
+
+[Wikipedia](https://en.wikipedia.org/wiki/Synth_Riders)
+
+---
+
 ## 2018
 
 [Full 2018 page](../years/2018.md)
+
+### Ark Park
+
+**Platforms:** PlayStation VR, Oculus Rift, SteamVR, Windows Mixed Reality &nbsp;|&nbsp; **Developer:** Snail Games, Studio Wildcard &nbsp;|&nbsp; **Genre:** Virtual reality &nbsp;|&nbsp; **Released:** March 22, 2018
+
+[Wikipedia](https://en.wikipedia.org/wiki/Ark_Park)
+
+---
+
+### Cold Iron
+
+**Platforms:** SteamVR, PlayStation 4, Oculus Rift, Windows &nbsp;|&nbsp; **Developer:** Catch & Release &nbsp;|&nbsp; **Publisher:** Catch & Release &nbsp;|&nbsp; **Genre:** Shooter &nbsp;|&nbsp; **Released:** January 30, 2018
+
+[Wikipedia](https://en.wikipedia.org/wiki/Cold_Iron_(video_game))
+
+---
 
 ### Grip
 
@@ -108,21 +154,39 @@
 
 ---
 
+### Red Matter
+
+**Platforms:** SteamVR, Oculus Rift, Windows Mixed Reality, PlayStation VR &nbsp;|&nbsp; **Developer:** Vertical Robot &nbsp;|&nbsp; **Genre:** Puzzle &nbsp;|&nbsp; **Released:** May 24, 2018
+
+[Wikipedia](https://en.wikipedia.org/wiki/Red_Matter_(video_game))
+
+---
+
+### Torn
+
+**Platforms:** Windows, Steam, PlayStation VR, Oculus VR, SteamVR &nbsp;|&nbsp; **Developer:** Aspyr Media &nbsp;|&nbsp; **Publisher:** Aspyr Media &nbsp;|&nbsp; **Released:** August 28, 2018
+
+[Wikipedia](https://en.wikipedia.org/wiki/Torn_(2018_video_game))
+
+---
+
 ## 2017
 
 [Full 2017 page](../years/2017.md)
 
-### Everspace
+### Drunk or Dead
 
-<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co24ms.jpg" alt="Everspace cover" width="200">
+**Platforms:** SteamVR, Oculus Rift &nbsp;|&nbsp; **Developer:** 4 I Lab &nbsp;|&nbsp; **Publisher:** 4 I Lab &nbsp;|&nbsp; **Genre:** First-person shooter &nbsp;|&nbsp; **Released:** January 10, 2017
 
-**Platforms:** Xbox One, Linux, macOS, Windows, SteamVR &nbsp;|&nbsp; **Developer:** ROCKFISH Games &nbsp;|&nbsp; **Publisher:** ROCKFISH Games &nbsp;|&nbsp; **Genre:** Fighting, Shooter, Simulator, Indie &nbsp;|&nbsp; **Released:** May 25, 2017
+[Wikipedia](https://en.wikipedia.org/wiki/Drunk_or_Dead)
 
-> Everspace is an action-focused single-player space shooter with rock solid 6DOF controls combining roguelike elements with top-notch visuals and a captivating non-linear story as well as VR support in the final version.
->
-> _Synopsis source: IGDB_
+---
 
-[IGDB](https://www.igdb.com/games/everspace)
+### Rick and Morty: Virtual Rick-ality
+
+**Platforms:** SteamVR, PlayStation VR, Oculus Rift, Windows &nbsp;|&nbsp; **Developer:** Owlchemy Labs &nbsp;|&nbsp; **Publisher:** Adult Swim Games &nbsp;|&nbsp; **Genre:** Adventure game &nbsp;|&nbsp; **Released:** April 20, 2017
+
+[Wikipedia](https://en.wikipedia.org/wiki/Rick_and_Morty:_Virtual_Rick-ality)
 
 ---
 
@@ -172,6 +236,22 @@
 
 ---
 
+### Audioshield
+
+**Platforms:** SteamVR, Windows &nbsp;|&nbsp; **Developer:** Dylan Fitterer &nbsp;|&nbsp; **Publisher:** Dylan Fitterer &nbsp;|&nbsp; **Genre:** Music &nbsp;|&nbsp; **Released:** April 5, 2016
+
+[Wikipedia](https://en.wikipedia.org/wiki/Audioshield)
+
+---
+
+### Holodance
+
+**Platforms:** SteamVR, Oculus Rift &nbsp;|&nbsp; **Developer:** Narayana games &nbsp;|&nbsp; **Publisher:** Narayana games &nbsp;|&nbsp; **Genre:** Music / rhythm &nbsp;|&nbsp; **Released:** April 5, 2016
+
+[Wikipedia](https://en.wikipedia.org/wiki/Holodance)
+
+---
+
 ### Job Simulator: The 2050 Archives
 
 <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2qgk.jpg" alt="Job Simulator: The 2050 Archives cover" width="200">
@@ -186,16 +266,32 @@
 
 ---
 
+### New Retro Arcade: Neon
+
+**Platforms:** SteamVR, Oculus Rift &nbsp;|&nbsp; **Developer:** Digital Cybercherries &nbsp;|&nbsp; **Publisher:** Digital Cybercherries &nbsp;|&nbsp; **Genre:** Simulation &nbsp;|&nbsp; **Released:** August 1, 2016
+
+[Wikipedia](https://en.wikipedia.org/wiki/New_Retro_Arcade:_Neon)
+
+---
+
+### Radial-G: Racing Revolved
+
+**Platforms:** Oculus Rift, SteamVR, PlayStation 4, PlayStation VR, Gear VR &nbsp;|&nbsp; **Developer:** Tammeka Games &nbsp;|&nbsp; **Publisher:** Tammeka Games &nbsp;|&nbsp; **Genre:** Racing
+
+[Wikipedia](https://en.wikipedia.org/wiki/Radial-G:_Racing_Revolved)
+
+---
+
 ### Rec Room
 
 <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/cocbki.jpg" alt="Rec Room cover" width="200">
 
-**Platforms:** Oculus Rift, Windows, SteamVR &nbsp;|&nbsp; **Developer:** Against Gravity &nbsp;|&nbsp; **Publisher:** Against Gravity &nbsp;|&nbsp; **Genre:** Fighting, Shooter, Music, Platform, Role-playing (RPG), Simulator, Sport, Strategy, Adventure, Arcade &nbsp;|&nbsp; **Released:** June 28, 2016
+**Platforms:** Oculus Rift, Windows, SteamVR &nbsp;|&nbsp; **Genre:** Fighting, Shooter, Music, Platform, Role-playing (RPG), Simulator, Sport, Strategy, Adventure, Arcade
 
 > Rec Room is a virtual reality online game platform to build and play games together. Party up with friends from all around the world to chat, hang out, explore millions of player-created rooms, or build something new and amazing to share with us all.  On June 1, 2026, following financial issues within the Rec Room Inc. company, Rec Room officially ceased operations and shut down all game servers.
 >
 > _Synopsis source: IGDB_
 
-[IGDB](https://www.igdb.com/games/rec-room)
+[Wikipedia](https://en.wikipedia.org/wiki/Rec_Room_(video_game)) · [IGDB](https://www.igdb.com/games/rec-room)
 
 ---

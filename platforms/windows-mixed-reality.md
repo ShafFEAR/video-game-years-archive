@@ -2,7 +2,7 @@
 
 [← Back to index](../README.md)
 
-2 titles across 2 years in this archive.
+4 titles across 3 years in this archive.
 
 ## 2020
 
@@ -19,6 +19,26 @@
 > _Synopsis source: IGDB_
 
 [IGDB](https://www.igdb.com/games/phasmophobia)
+
+---
+
+## 2018
+
+[Full 2018 page](../years/2018.md)
+
+### Ark Park
+
+**Platforms:** PlayStation VR, Oculus Rift, SteamVR, Windows Mixed Reality &nbsp;|&nbsp; **Developer:** Snail Games, Studio Wildcard &nbsp;|&nbsp; **Genre:** Virtual reality &nbsp;|&nbsp; **Released:** March 22, 2018
+
+[Wikipedia](https://en.wikipedia.org/wiki/Ark_Park)
+
+---
+
+### Red Matter
+
+**Platforms:** SteamVR, Oculus Rift, Windows Mixed Reality, PlayStation VR &nbsp;|&nbsp; **Developer:** Vertical Robot &nbsp;|&nbsp; **Genre:** Puzzle &nbsp;|&nbsp; **Released:** May 24, 2018
+
+[Wikipedia](https://en.wikipedia.org/wiki/Red_Matter_(video_game))
 
 ---
 

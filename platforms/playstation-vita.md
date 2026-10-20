@@ -2,7 +2,7 @@
 
 [← Back to index](../README.md)
 
-521 titles across 12 years in this archive.
+621 titles across 13 years in this archive.
 
 ## 2021
 
@@ -28,9 +28,33 @@
 
 ---
 
+### UnMetal
+
+**Platforms:** PlayStation Vita, Windows, PlayStation 4, Xbox One, Nintendo Switch &nbsp;|&nbsp; **Developer:** Francisco Téllez de Meneses &nbsp;|&nbsp; **Publisher:** Versus Evil, Eastasiasoft &nbsp;|&nbsp; **Genre:** Action-adventure, stealth, comedy &nbsp;|&nbsp; **Released:** April 21, 2021
+
+[Wikipedia](https://en.wikipedia.org/wiki/UnMetal)
+
+---
+
 ## 2020
 
 [Full 2020 page](../years/2020.md)
+
+### Gensō Rōgoku no Kaleidoscope
+
+**Platforms:** PlayStation 4, Nintendo Switch, PlayStation Vita &nbsp;|&nbsp; **Developer:** 07th Expansion &nbsp;|&nbsp; **Publisher:** Entergram &nbsp;|&nbsp; **Genre:** Visual novel, Psychological horror &nbsp;|&nbsp; **Released:** December 17, 2020
+
+[Wikipedia](https://en.wikipedia.org/wiki/Gens%C5%8D_R%C5%8Dgoku_no_Kaleidoscope)
+
+---
+
+### Labyrinth of Galleria: The Moon Society
+
+**Platforms:** PlayStation 4, PlayStation Vita, Nintendo Switch &nbsp;|&nbsp; **Developer:** Nippon Ichi Software &nbsp;|&nbsp; **Publisher:** Nippon Ichi Software &nbsp;|&nbsp; **Genre:** Role-playing video game &nbsp;|&nbsp; **Released:** November 26, 2020
+
+[Wikipedia](https://en.wikipedia.org/wiki/Labyrinth_of_Galleria:_The_Moon_Society)
+
+---
 
 ### Twin Breaker: A Sacred Symbols Adventure
 
@@ -53,6 +77,22 @@
 **Platforms:** PlayStation 4, PlayStation Vita &nbsp;|&nbsp; **Publisher:** Kemco &nbsp;|&nbsp; **Genre:** RPG &nbsp;|&nbsp; **Released:** January 15
 
 [Wikipedia](https://en.wikipedia.org/wiki/Asdivine_Hearts_II)
+
+---
+
+### Bouncy Bullets
+
+**Platforms:** PlayStation 4, PlayStation Vita, Xbox One, Nintendo Switch &nbsp;|&nbsp; **Developer:** Petite Games &nbsp;|&nbsp; **Publisher:** Ratalaika Games &nbsp;|&nbsp; **Genre:** Platform, shooter &nbsp;|&nbsp; **Released:** July 9, 2019
+
+[Wikipedia](https://en.wikipedia.org/wiki/Bouncy_Bullets)
+
+---
+
+### Gnosia
+
+**Platforms:** PlayStation Vita &nbsp;|&nbsp; **Developer:** Petit Depotto &nbsp;|&nbsp; **Publisher:** Mebius, Petit Depotto, Playism &nbsp;|&nbsp; **Genre:** Visual novel, role-playing, social deduction &nbsp;|&nbsp; **Released:** June 20, 2019
+
+[Wikipedia](https://en.wikipedia.org/wiki/Gnosia)
 
 ---
 
@@ -79,6 +119,14 @@
 ### The House in Fata Morgana: Dream of the Revenants Edition
 
 **Platforms:** PlayStation Vita, PlayStation 4 &nbsp;|&nbsp; **Publisher:** Mighty Rabbit Studios &nbsp;|&nbsp; **Genre:** Visual novel &nbsp;|&nbsp; **Released:** May 28
+
+---
+
+### Variable Barricade
+
+**Platforms:** PlayStation Vita &nbsp;|&nbsp; **Developer:** Otomate, Design Factory &nbsp;|&nbsp; **Publisher:** Idea Factory, Aksys Games &nbsp;|&nbsp; **Genre:** Visual novel, otome game &nbsp;|&nbsp; **Released:** April 4, 2019
+
+[Wikipedia](https://en.wikipedia.org/wiki/Variable_Barricade)
 
 ---
 
@@ -122,6 +170,14 @@
 
 ---
 
+### Charade Maniacs
+
+**Platforms:** PlayStation Vita &nbsp;|&nbsp; **Developer:** Otomate &nbsp;|&nbsp; **Publisher:** Idea Factory, Idea Factory International &nbsp;|&nbsp; **Genre:** Visual novel, otome game &nbsp;|&nbsp; **Released:** August 9, 2018
+
+[Wikipedia](https://en.wikipedia.org/wiki/Charade_Maniacs)
+
+---
+
 ### Chasm
 
 <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co1r6k.jpg" alt="Chasm cover" width="200">
@@ -159,6 +215,14 @@
 ### Hello Lady! Superior Dynamis
 
 **Platforms:** PlayStation Vita &nbsp;|&nbsp; **Publisher:** Dramatic Create &nbsp;|&nbsp; **Genre:** Visual novel &nbsp;|&nbsp; **Released:** January 25 (JP)
+
+---
+
+### Homura: The Crimson Warriors
+
+**Platforms:** PlayStation Vita, Nintendo Switch &nbsp;|&nbsp; **Developer:** Idea Factory, Design Factory &nbsp;|&nbsp; **Publisher:** Otomate &nbsp;|&nbsp; **Genre:** Otome &nbsp;|&nbsp; **Released:** June 28, 2018
+
+[Wikipedia](https://en.wikipedia.org/wiki/Homura:_The_Crimson_Warriors)
 
 ---
 
@@ -250,6 +314,14 @@
 
 ---
 
+### Persona 3: Dancing in Moonlight and Persona 5: Dancing in Starlight
+
+**Platforms:** PlayStation 4, PlayStation Vita &nbsp;|&nbsp; **Developer:** P-Studio &nbsp;|&nbsp; **Publisher:** Atlus, Sega &nbsp;|&nbsp; **Genre:** Rhythm &nbsp;|&nbsp; **Released:** May 24, 2018
+
+[Wikipedia](https://en.wikipedia.org/wiki/Persona_3:_Dancing_in_Moonlight_and_Persona_5:_Dancing_in_Starlight)
+
+---
+
 ### Persona 5: Dancing in Starlight
 
 <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co5cbi.jpg" alt="Persona 5: Dancing in Starlight cover" width="200">
@@ -297,6 +369,14 @@
 ### Revenant Dogma
 
 **Platforms:** Windows, Nintendo Switch, PlayStation 4, PlayStation Vita &nbsp;|&nbsp; **Publisher:** Kemco &nbsp;|&nbsp; **Genre:** RPG &nbsp;|&nbsp; **Released:** September 25
+
+---
+
+### Reverie
+
+**Platforms:** PlayStation 4, PlayStation Vita &nbsp;|&nbsp; **Developer:** Rainbite &nbsp;|&nbsp; **Genre:** Action-adventure &nbsp;|&nbsp; **Released:** April 5, 2018
+
+[Wikipedia](https://en.wikipedia.org/wiki/Reverie_(video_game))
 
 ---
 
@@ -454,6 +534,14 @@
 
 ---
 
+### Chaos;Child Love Chu Chu!!
+
+**Platforms:** PlayStation 4, PlayStation Vita &nbsp;|&nbsp; **Developer:** Mages &nbsp;|&nbsp; **Publisher:** 5pb. &nbsp;|&nbsp; **Genre:** Visual novel &nbsp;|&nbsp; **Released:** March 30, 2017
+
+[Wikipedia](https://en.wikipedia.org/wiki/Chaos;Child_Love_Chu_Chu!!)
+
+---
+
 ### Cladun Returns: This is Sengoku!
 
 **Platforms:** Windows, PlayStation 4, PlayStation Vita &nbsp;|&nbsp; **Genre:** Action RPG &nbsp;|&nbsp; **Released:** June 6
@@ -514,6 +602,14 @@
 
 ---
 
+### Exile Election
+
+**Platforms:** PlayStation Vita, PlayStation 4 &nbsp;|&nbsp; **Developer:** Regista &nbsp;|&nbsp; **Publisher:** Nippon Ichi Software &nbsp;|&nbsp; **Genre:** Visual novel &nbsp;|&nbsp; **Released:** April 27, 2017
+
+[Wikipedia](https://en.wikipedia.org/wiki/Exile_Election)
+
+---
+
 ### Fallen Legion: Flames of Rebellion
 
 **Platforms:** PlayStation Vita &nbsp;|&nbsp; **Genre:** RPG, Platformer, Action &nbsp;|&nbsp; **Released:** July 18
@@ -556,6 +652,14 @@
 
 ---
 
+### Gun Gun Pixies
+
+**Platforms:** PlayStation Vita &nbsp;|&nbsp; **Developer:** Shade &nbsp;|&nbsp; **Publisher:** Compile Heart, PQube &nbsp;|&nbsp; **Genre:** Third-person shooter &nbsp;|&nbsp; **Released:** April 27, 2017
+
+[Wikipedia](https://en.wikipedia.org/wiki/Gun_Gun_Pixies)
+
+---
+
 ### Gundam Breaker 3 Break Edition
 
 **Platforms:** PlayStation 4, PlayStation Vita &nbsp;|&nbsp; **Released:** May 2
@@ -590,6 +694,14 @@
 
 ---
 
+### Metropolis: Lux Obscura
+
+**Platforms:** Nintendo Switch, Windows, PlayStation 4, PlayStation Vita, Xbox One &nbsp;|&nbsp; **Developer:** Ktulhu Solutions &nbsp;|&nbsp; **Publisher:** Ktulhu Solutions/Sometimes You &nbsp;|&nbsp; **Genre:** Adventure, match-three &nbsp;|&nbsp; **Released:** October 11, 2017
+
+[Wikipedia](https://en.wikipedia.org/wiki/Metropolis:_Lux_Obscura)
+
+---
+
 ### Musou Stars
 
 **Platforms:** PlayStation 4, PlayStation Vita &nbsp;|&nbsp; **Genre:** Hack and slash, Action &nbsp;|&nbsp; **Released:** March 30 (JP)
@@ -607,6 +719,14 @@
 ### Operation Babel: New Tokyo Legacy
 
 **Platforms:** Windows, PlayStation Vita &nbsp;|&nbsp; **Genre:** RPG, Dungeon crawl &nbsp;|&nbsp; **Released:** May 16
+
+---
+
+### Our World Is Ended
+
+**Platforms:** PlayStation Vita &nbsp;|&nbsp; **Developer:** Red Entertainment &nbsp;|&nbsp; **Publisher:** 5pb., PQube &nbsp;|&nbsp; **Genre:** Visual Novel &nbsp;|&nbsp; **Released:** November 9, 2017
+
+[Wikipedia](https://en.wikipedia.org/wiki/Our_World_Is_Ended)
 
 ---
 
@@ -630,13 +750,13 @@
 
 <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2gsu.jpg" alt="Shovel Knight: Specter of Torment cover" width="200">
 
-**Platforms:** macOS, Nintendo Switch, Xbox One, PlayStation Vita, Wii U, Windows, Linux, Nintendo 3DS, PlayStation 3, PlayStation 4 &nbsp;|&nbsp; **Developer:** Yacht Club Games &nbsp;|&nbsp; **Publisher:** Yacht Club Games &nbsp;|&nbsp; **Genre:** Platform, Adventure, Indie &nbsp;|&nbsp; **Released:** March 3, 2017
+**Platforms:** Nintendo Switch, Linux, macOS, Windows, Wii U, Nintendo 3DS, PlayStation 3, PlayStation 4, PlayStation Vita, Xbox One &nbsp;|&nbsp; **Developer:** Yacht Club Games &nbsp;|&nbsp; **Publisher:** Yacht Club Games &nbsp;|&nbsp; **Genre:** Platform &nbsp;|&nbsp; **Released:** March 3, 2017
 
 > This game is a free expansion included in the main game, Shovel Knight, and its updated title, Shovel Knight: Treasure Trove. The game will also be available as a standalone title on PC, PS4, Xbox One, and Nintendo Switch.
 >
 > _Synopsis source: IGDB_
 
-[IGDB](https://www.igdb.com/games/shovel-knight-specter-of-torment)
+[Wikipedia](https://en.wikipedia.org/wiki/Shovel_Knight:_Specter_of_Torment) · [IGDB](https://www.igdb.com/games/shovel-knight-specter-of-torment)
 
 ---
 
@@ -665,6 +785,22 @@
 **Platforms:** PlayStation 4, PlayStation Vita &nbsp;|&nbsp; **Genre:** Tactical RPG &nbsp;|&nbsp; **Released:** October 31
 
 [Wikipedia](https://en.wikipedia.org/wiki/Summon_Night_6)
+
+---
+
+### Super Hydorah
+
+**Platforms:** Windows, Xbox One, PlayStation 4, PlayStation Vita &nbsp;|&nbsp; **Developer:** Locomalito &nbsp;|&nbsp; **Publisher:** Abylight Studios &nbsp;|&nbsp; **Genre:** Side-scrolling shoot 'em up &nbsp;|&nbsp; **Released:** September 20, 2017
+
+[Wikipedia](https://en.wikipedia.org/wiki/Super_Hydorah)
+
+---
+
+### Super Robot Wars V
+
+**Platforms:** PlayStation 4, PlayStation Vita &nbsp;|&nbsp; **Developer:** B.B. Studio &nbsp;|&nbsp; **Publisher:** Bandai Namco Entertainment &nbsp;|&nbsp; **Genre:** Tactical role-playing &nbsp;|&nbsp; **Released:** February 23, 2017
+
+[Wikipedia](https://en.wikipedia.org/wiki/Super_Robot_Wars_V)
 
 ---
 
@@ -830,6 +966,14 @@
 
 ---
 
+### 7'scarlet
+
+**Platforms:** PlayStation Vita, Windows, Nintendo Switch &nbsp;|&nbsp; **Developer:** Otomate, Toybox Inc. &nbsp;|&nbsp; **Publisher:** Idea Factory, Aksys Games &nbsp;|&nbsp; **Genre:** Visual novel &nbsp;|&nbsp; **Released:** July 21, 2016
+
+[Wikipedia](https://en.wikipedia.org/wiki/7'scarlet)
+
+---
+
 ### A Boy and His Blob
 
 **Platforms:** Windows, PlayStation 4, PlayStation Vita, Xbox One &nbsp;|&nbsp; **Genre:** Puzzle-platformer &nbsp;|&nbsp; **Released:** January 19
@@ -896,6 +1040,14 @@
 
 ---
 
+### Bullet Girls 2
+
+**Platforms:** PlayStation Vita &nbsp;|&nbsp; **Developer:** Shade &nbsp;|&nbsp; **Publisher:** D3 Publisher &nbsp;|&nbsp; **Genre:** Third-person shooter &nbsp;|&nbsp; **Released:** April 21, 2016
+
+[Wikipedia](https://en.wikipedia.org/wiki/Bullet_Girls_2)
+
+---
+
 ### Criminal Girls 2: Party Favors
 
 **Platforms:** PlayStation Vita &nbsp;|&nbsp; **Genre:** RPG &nbsp;|&nbsp; **Released:** October 11
@@ -935,6 +1087,14 @@
 **Platforms:** PlayStation 4, PlayStation Vita &nbsp;|&nbsp; **Genre:** Sports &nbsp;|&nbsp; **Released:** March 24 (JP)
 
 [Wikipedia](https://en.wikipedia.org/wiki/Dead_or_Alive_Xtreme_3)
+
+---
+
+### Demetrios
+
+**Platforms:** macOS, Windows, Linux, PlayStation Vita &nbsp;|&nbsp; **Developer:** COWCAT Games &nbsp;|&nbsp; **Publisher:** COWCAT Games, Red Sky Games &nbsp;|&nbsp; **Genre:** Point and click &nbsp;|&nbsp; **Released:** May 31, 2016
+
+[Wikipedia](https://en.wikipedia.org/wiki/Demetrios_(video_game))
 
 ---
 
@@ -984,6 +1144,14 @@
 
 ---
 
+### Genkai Tokki: Seven Pirates
+
+**Platforms:** PlayStation Vita &nbsp;|&nbsp; **Developer:** Felistella &nbsp;|&nbsp; **Publisher:** Compile Heart, Eastasiasoft &nbsp;|&nbsp; **Genre:** Role-playing &nbsp;|&nbsp; **Released:** August 4, 2016
+
+[Wikipedia](https://en.wikipedia.org/wiki/Genkai_Tokki:_Seven_Pirates)
+
+---
+
 ### God Eater 2: Rage Burst
 
 **Platforms:** Windows, PlayStation 4, PlayStation Vita &nbsp;|&nbsp; **Genre:** Action RPG &nbsp;|&nbsp; **Released:** August 30
@@ -996,11 +1164,27 @@
 
 ---
 
+### Goes!
+
+**Platforms:** PlayStation Vita &nbsp;|&nbsp; **Developer:** Petit Reve &nbsp;|&nbsp; **Publisher:** Future Tech Lab &nbsp;|&nbsp; **Genre:** Otome game &nbsp;|&nbsp; **Released:** November 25, 2016
+
+[Wikipedia](https://en.wikipedia.org/wiki/Goes!)
+
+---
+
 ### Grand Kingdom
 
 **Platforms:** PlayStation 4, PlayStation Vita &nbsp;|&nbsp; **Genre:** Tactical RPG &nbsp;|&nbsp; **Released:** June 28
 
 [Wikipedia](https://en.wikipedia.org/wiki/Grand_Kingdom)
+
+---
+
+### Hashihime of the Old Book Town
+
+**Platforms:** Windows, PlayStation Vita, Nintendo Switch &nbsp;|&nbsp; **Developer:** ADELTA &nbsp;|&nbsp; **Publisher:** ADELTA, Dramatic Create, MangaGamer &nbsp;|&nbsp; **Genre:** BL game, visual novel &nbsp;|&nbsp; **Released:** August 13, 2016
+
+[Wikipedia](https://en.wikipedia.org/wiki/Hashihime_of_the_Old_Book_Town)
 
 ---
 
@@ -1041,6 +1225,30 @@
 > _Synopsis source: IGDB_
 
 [Wikipedia](https://en.wikipedia.org/wiki/I_Am_Setsuna) · [IGDB](https://www.igdb.com/games/i-am-setsuna)
+
+---
+
+### Idol Death Game TV
+
+**Platforms:** PlayStation Vita &nbsp;|&nbsp; **Developer:** Witchcraft &nbsp;|&nbsp; **Publisher:** D3 Publisher &nbsp;|&nbsp; **Genre:** Action-adventure &nbsp;|&nbsp; **Released:** October 20, 2016
+
+[Wikipedia](https://en.wikipedia.org/wiki/Idol_Death_Game_TV)
+
+---
+
+### Kamen Rider: Battride War
+
+**Platforms:** PlayStation 3, PlayStation 4, PlayStation Vita, Wii U &nbsp;|&nbsp; **Developer:** Eighting, Bandai Namco Studios &nbsp;|&nbsp; **Publisher:** Bandai Namco Games &nbsp;|&nbsp; **Genre:** Action role-playing game, hack and slash
+
+[Wikipedia](https://en.wikipedia.org/wiki/Kamen_Rider:_Battride_War)
+
+---
+
+### Labyrinth of Refrain: Coven of Dusk
+
+**Platforms:** PlayStation Vita &nbsp;|&nbsp; **Developer:** Nippon Ichi Software &nbsp;|&nbsp; **Publisher:** Nippon Ichi Software &nbsp;|&nbsp; **Genre:** Role-playing, dungeon crawler &nbsp;|&nbsp; **Released:** June 23, 2016
+
+[Wikipedia](https://en.wikipedia.org/wiki/Labyrinth_of_Refrain:_Coven_of_Dusk)
 
 ---
 
@@ -1116,6 +1324,22 @@
 
 ---
 
+### Neon Chrome
+
+**Platforms:** Windows, PlayStation 4, Xbox One, Linux, macOS, iOS, PlayStation Vita &nbsp;|&nbsp; **Developer:** 10tons &nbsp;|&nbsp; **Publisher:** 10tons &nbsp;|&nbsp; **Genre:** Multidirectional shooter &nbsp;|&nbsp; **Released:** April 28, 2016
+
+[Wikipedia](https://en.wikipedia.org/wiki/Neon_Chrome)
+
+---
+
+### Nil Admirari no Tenbin: Teito Genwaku Kitan
+
+**Platforms:** PlayStation Vita &nbsp;|&nbsp; **Developer:** Otomate &nbsp;|&nbsp; **Publisher:** Idea Factory &nbsp;|&nbsp; **Genre:** Visual novel &nbsp;|&nbsp; **Released:** April 21, 2016
+
+[Wikipedia](https://en.wikipedia.org/wiki/Nil_Admirari_no_Tenbin:_Teito_Genwaku_Kitan)
+
+---
+
 ### Ninja Senki DX
 
 **Platforms:** Windows, PlayStation 4, PlayStation Vita &nbsp;|&nbsp; **Genre:** Action, Platformer &nbsp;|&nbsp; **Released:** February 23
@@ -1164,6 +1388,14 @@
 
 ---
 
+### Punch Line
+
+**Platforms:** PlayStation 4, PlayStation Vita &nbsp;|&nbsp; **Developer:** 5pb. &nbsp;|&nbsp; **Publisher:** 5pb., PQube &nbsp;|&nbsp; **Genre:** Adventure, visual novel &nbsp;|&nbsp; **Released:** April 28, 2016
+
+[Wikipedia](https://en.wikipedia.org/wiki/Punch_Line_(video_game))
+
+---
+
 ### Ray Gigant
 
 **Platforms:** PlayStation Vita, Windows &nbsp;|&nbsp; **Genre:** RPG &nbsp;|&nbsp; **Released:** May 3
@@ -1195,6 +1427,14 @@
 ### Samurai Warriors: Sanada Maru
 
 **Platforms:** PlayStation 3, PlayStation 4, PlayStation Vita &nbsp;|&nbsp; **Genre:** Hack and slash, Action &nbsp;|&nbsp; **Released:** November 23 (JP)
+
+---
+
+### Senran Kagura: Estival Versus
+
+**Platforms:** PlayStation 4, PlayStation Vita &nbsp;|&nbsp; **Developer:** Tamsoft &nbsp;|&nbsp; **Publisher:** Marvelous, Xseed Games, Marvelous Europe Limited &nbsp;|&nbsp; **Genre:** Hack and slash &nbsp;|&nbsp; **Released:** March 15, 2016
+
+[Wikipedia](https://en.wikipedia.org/wiki/Senran_Kagura:_Estival_Versus)
 
 ---
 
@@ -1273,6 +1513,14 @@
 ### Sword Art Online: Hollow Realization
 
 **Platforms:** PlayStation 4, PlayStation Vita &nbsp;|&nbsp; **Genre:** RPG &nbsp;|&nbsp; **Released:** November 8
+
+---
+
+### The Legend of Heroes: Trails at Sunrise
+
+**Platforms:** Windows, PlayStation Vita, Browser &nbsp;|&nbsp; **Developer:** UserJoy Technology &nbsp;|&nbsp; **Publisher:** Nihon Falcom &nbsp;|&nbsp; **Genre:** Role-playing &nbsp;|&nbsp; **Released:** August 31, 2016
+
+[Wikipedia](https://en.wikipedia.org/wiki/The_Legend_of_Heroes:_Trails_at_Sunrise)
 
 ---
 
@@ -1386,6 +1634,14 @@
 
 [Full 2015 page](../years/2015.md)
 
+### A-Men 2
+
+**Platforms:** Windows, PlayStation 3, PlayStation Vita &nbsp;|&nbsp; **Developer:** Bloober Team &nbsp;|&nbsp; **Publisher:** Bloober Team &nbsp;|&nbsp; **Genre:** Puzzle-platform &nbsp;|&nbsp; **Released:** June 24, 2015
+
+[Wikipedia](https://en.wikipedia.org/wiki/A-Men_2)
+
+---
+
 ### AeternoBlade
 
 **Platforms:** PlayStation Vita &nbsp;|&nbsp; **Released:** February 10
@@ -1433,6 +1689,14 @@
 ### Back to Bed
 
 **Platforms:** PlayStation 3, PlayStation 4, PlayStation Vita &nbsp;|&nbsp; **Released:** August 25
+
+---
+
+### Bad Apple Wars
+
+**Platforms:** PlayStation Vita &nbsp;|&nbsp; **Developer:** Otomate &nbsp;|&nbsp; **Publisher:** Idea Factory, Aksys Games &nbsp;|&nbsp; **Genre:** Visual novel &nbsp;|&nbsp; **Released:** November 19, 2015
+
+[Wikipedia](https://en.wikipedia.org/wiki/Bad_Apple_Wars)
 
 ---
 
@@ -1647,6 +1911,14 @@
 ### Earth Defense Force 2: Invaders from Planet Space
 
 **Platforms:** PlayStation Vita &nbsp;|&nbsp; **Genre:** TPS &nbsp;|&nbsp; **Released:** December 8
+
+---
+
+### Exist Archive
+
+**Platforms:** PlayStation 4, PlayStation Vita &nbsp;|&nbsp; **Developer:** Spike Chunsoft, tri-Ace &nbsp;|&nbsp; **Publisher:** Spike Chunsoft, Aksys Games &nbsp;|&nbsp; **Genre:** Role-playing &nbsp;|&nbsp; **Released:** December 17, 2015
+
+[Wikipedia](https://en.wikipedia.org/wiki/Exist_Archive)
 
 ---
 
@@ -1874,6 +2146,14 @@
 
 ---
 
+### Looney Tunes Galactic Sports
+
+**Platforms:** PlayStation Vita &nbsp;|&nbsp; **Developer:** Virtual Toys &nbsp;|&nbsp; **Publisher:** Sony Computer Entertainment &nbsp;|&nbsp; **Genre:** Sports &nbsp;|&nbsp; **Released:** May 27, 2015
+
+[Wikipedia](https://en.wikipedia.org/wiki/Looney_Tunes_Galactic_Sports)
+
+---
+
 ### Lost Dimension
 
 **Platforms:** PlayStation 3, PlayStation Vita &nbsp;|&nbsp; **Genre:** Tactical RPG &nbsp;|&nbsp; **Released:** July 28
@@ -1914,9 +2194,25 @@
 
 ---
 
+### Miracle Girls Festival
+
+**Platforms:** PlayStation Vita &nbsp;|&nbsp; **Developer:** Sega &nbsp;|&nbsp; **Publisher:** Sega &nbsp;|&nbsp; **Genre:** Rhythm game &nbsp;|&nbsp; **Released:** December 17, 2015
+
+[Wikipedia](https://en.wikipedia.org/wiki/Miracle_Girls_Festival)
+
+---
+
 ### MLB 15: The Show
 
 **Platforms:** PlayStation 3, PlayStation 4, PlayStation Vita &nbsp;|&nbsp; **Genre:** Sports &nbsp;|&nbsp; **Released:** March 31
+
+---
+
+### Moero Crystal
+
+**Platforms:** PlayStation Vita &nbsp;|&nbsp; **Developer:** Compile Heart &nbsp;|&nbsp; **Publisher:** Compile Heart, Sony Computer Entertainment, Eastasiasoft &nbsp;|&nbsp; **Genre:** Role-playing &nbsp;|&nbsp; **Released:** September 25, 2015
+
+[Wikipedia](https://en.wikipedia.org/wiki/Moero_Crystal)
 
 ---
 
@@ -2042,6 +2338,30 @@
 
 ---
 
+### Phineas and Ferb: Day of Doofenshmirtz
+
+**Platforms:** PlayStation Vita &nbsp;|&nbsp; **Developer:** Virtual Toys &nbsp;|&nbsp; **Publisher:** Disney Interactive Studios &nbsp;|&nbsp; **Genre:** Action-adventure &nbsp;|&nbsp; **Released:** November 4, 2015
+
+[Wikipedia](https://en.wikipedia.org/wiki/Phineas_and_Ferb:_Day_of_Doofenshmirtz)
+
+---
+
+### Psychedelica of the Black Butterfly and the Ashen Hawk
+
+**Platforms:** PlayStation Vita &nbsp;|&nbsp; **Developer:** Otomate &nbsp;|&nbsp; **Publisher:** Idea Factory, Aksys Games, Intragames, Idea Factory &nbsp;|&nbsp; **Genre:** Visual novel &nbsp;|&nbsp; **Released:** January 29, 2015
+
+[Wikipedia](https://en.wikipedia.org/wiki/Psychedelica_of_the_Black_Butterfly_and_the_Ashen_Hawk)
+
+---
+
+### Pumped BMX
+
+**Platforms:** Windows, PlayStation 4, PlayStation 3, PlayStation Vita, Wii U, Xbox One &nbsp;|&nbsp; **Developer:** Yeah Us! &nbsp;|&nbsp; **Publisher:** Curve Digital &nbsp;|&nbsp; **Genre:** Sport, Racing &nbsp;|&nbsp; **Released:** September 18, 2015
+
+[Wikipedia](https://en.wikipedia.org/wiki/Pumped_BMX)
+
+---
+
 ### Q*bert Rebooted
 
 **Platforms:** PlayStation 3, PlayStation 4, PlayStation Vita &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** February 17
@@ -2072,11 +2392,27 @@
 
 ---
 
+### Root Rexx
+
+**Platforms:** PlayStation Vita &nbsp;|&nbsp; **Developer:** Otomate &nbsp;|&nbsp; **Publisher:** Idea Factory &nbsp;|&nbsp; **Genre:** Visual novel, music rhythm &nbsp;|&nbsp; **Released:** January 22, 2015
+
+[Wikipedia](https://en.wikipedia.org/wiki/Root_Rexx)
+
+---
+
 ### Rugby 15
 
 **Platforms:** Windows, PlayStation 3, PlayStation 4, PlayStation Vita, Xbox 360, Xbox One &nbsp;|&nbsp; **Genre:** Sports &nbsp;|&nbsp; **Released:** February 10
 
 [Wikipedia](https://en.wikipedia.org/wiki/Rugby_15)
+
+---
+
+### Rugby World Cup 2015
+
+**Platforms:** Windows, PlayStation 3, PlayStation 4, PlayStation Vita, Xbox 360, Xbox One &nbsp;|&nbsp; **Developer:** HB Studios &nbsp;|&nbsp; **Publisher:** Bigben Interactive, Plug In Digital &nbsp;|&nbsp; **Genre:** Sports, simulation &nbsp;|&nbsp; **Released:** September 4, 2015
+
+[Wikipedia](https://en.wikipedia.org/wiki/Rugby_World_Cup_2015_(video_game))
 
 ---
 
@@ -2137,6 +2473,14 @@
 ### Sora no Kiseki FC Evolution
 
 **Platforms:** PlayStation Vita &nbsp;|&nbsp; **Released:** June 11 (JP)
+
+---
+
+### Spelunker World
+
+**Platforms:** PlayStation 4, PlayStation Vita &nbsp;|&nbsp; **Developer:** Tozai Games &nbsp;|&nbsp; **Publisher:** Square Enix &nbsp;|&nbsp; **Genre:** Platform &nbsp;|&nbsp; **Released:** March 19, 2015
+
+[Wikipedia](https://en.wikipedia.org/wiki/Spelunker_World)
 
 ---
 
@@ -2220,6 +2564,14 @@
 
 ---
 
+### The Idolmaster Must Songs
+
+**Platforms:** PlayStation Vita &nbsp;|&nbsp; **Developer:** Bandai Namco Studios &nbsp;|&nbsp; **Publisher:** Bandai Namco Entertainment &nbsp;|&nbsp; **Genre:** Rhythm &nbsp;|&nbsp; **Released:** December 10, 2015
+
+[Wikipedia](https://en.wikipedia.org/wiki/The_Idolmaster_Must_Songs)
+
+---
+
 ### The Legend of Heroes: Trails of Cold Steel
 
 **Platforms:** PlayStation 3, PlayStation Vita &nbsp;|&nbsp; **Genre:** RPG &nbsp;|&nbsp; **Released:** December 22
@@ -2231,6 +2583,14 @@
 **Platforms:** PlayStation 3, PlayStation 4, PlayStation Vita, Xbox One &nbsp;|&nbsp; **Released:** July 28
 
 [Wikipedia](https://en.wikipedia.org/wiki/Curve_Digital)
+
+---
+
+### Three Fourths Home
+
+**Platforms:** Windows, Linux, macOS, PlayStation 4, PlayStation Vita, Xbox One &nbsp;|&nbsp; **Developer:** Bracket Games &nbsp;|&nbsp; **Publisher:** Bracket Games &nbsp;|&nbsp; **Genre:** Visual novel &nbsp;|&nbsp; **Released:** March 20, 2015
+
+[Wikipedia](https://en.wikipedia.org/wiki/Three_Fourths_Home)
 
 ---
 
@@ -2276,6 +2636,14 @@
 
 ---
 
+### Utawarerumono: Mask of Deception
+
+**Platforms:** PlayStation 3, PlayStation 4, PlayStation Vita &nbsp;|&nbsp; **Developer:** Aquaplus &nbsp;|&nbsp; **Publisher:** Aquaplus, Atlus USA, Deep Silver, DMM Games, ShiraVN &nbsp;|&nbsp; **Genre:** Tactical role-playing, visual novel &nbsp;|&nbsp; **Released:** September 24, 2015
+
+[Wikipedia](https://en.wikipedia.org/wiki/Utawarerumono:_Mask_of_Deception)
+
+---
+
 ### Volume
 
 **Platforms:** Windows, macOS, PlayStation 4, PlayStation Vita &nbsp;|&nbsp; **Genre:** Stealth &nbsp;|&nbsp; **Released:** August 18
@@ -2297,6 +2665,22 @@
 **Platforms:** PlayStation Vita, PlayStation 4, Wii U &nbsp;|&nbsp; **Genre:** Platformer &nbsp;|&nbsp; **Released:** January 6
 
 [Wikipedia](https://en.wikipedia.org/wiki/Woah_Dave!)
+
+---
+
+### Wondership Q
+
+**Platforms:** PlayStation Vita &nbsp;|&nbsp; **Developer:** Cygames, Miracle Positive Co., Ltd. &nbsp;|&nbsp; **Publisher:** Cygames, Sony Computer Entertainment &nbsp;|&nbsp; **Genre:** Action-adventure, Sandbox &nbsp;|&nbsp; **Released:** November 19, 2015
+
+[Wikipedia](https://en.wikipedia.org/wiki/Wondership_Q)
+
+---
+
+### WRC 5
+
+**Platforms:** Windows, PlayStation 3, PlayStation 4, Xbox 360, Xbox One, PlayStation Vita &nbsp;|&nbsp; **Developer:** Kylotonn &nbsp;|&nbsp; **Publisher:** Bigben Interactive &nbsp;|&nbsp; **Genre:** Racing &nbsp;|&nbsp; **Released:** October 13, 2015
+
+[Wikipedia](https://en.wikipedia.org/wiki/WRC_5)
 
 ---
 
@@ -2408,6 +2792,14 @@
 
 ---
 
+### Bullet Girls
+
+**Platforms:** PlayStation Vita &nbsp;|&nbsp; **Developer:** Shade &nbsp;|&nbsp; **Publisher:** D3 Publisher &nbsp;|&nbsp; **Genre:** Third-person shooter &nbsp;|&nbsp; **Released:** August 21, 2014
+
+[Wikipedia](https://en.wikipedia.org/wiki/Bullet_Girls)
+
+---
+
 ### Child of Light
 
 <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co21q2.jpg" alt="Child of Light cover" width="200">
@@ -2419,6 +2811,14 @@
 > _Synopsis source: IGDB_
 
 [Wikipedia](https://en.wikipedia.org/wiki/Child_of_Light) · [IGDB](https://www.igdb.com/games/child-of-light)
+
+---
+
+### Code: Realize
+
+**Platforms:** PlayStation Vita &nbsp;|&nbsp; **Developer:** Otomate &nbsp;|&nbsp; **Publisher:** Idea Factory, Aksys Games &nbsp;|&nbsp; **Genre:** Visual novel &nbsp;|&nbsp; **Released:** November 27, 2014
+
+[Wikipedia](https://en.wikipedia.org/wiki/Code:_Realize)
 
 ---
 
@@ -2509,6 +2909,14 @@
 ### Disgaea 4: A Promise Revisited
 
 **Platforms:** PlayStation Vita &nbsp;|&nbsp; **Genre:** Tactical RPG &nbsp;|&nbsp; **Released:** August 12
+
+---
+
+### Don't Die, Mr. Robot!
+
+**Platforms:** PlayStation Vita, PlayStation 4, iOS &nbsp;|&nbsp; **Developer:** Infinite State &nbsp;|&nbsp; **Publisher:** Sony Interactive Entertainment, Infinite State, Digerati &nbsp;|&nbsp; **Genre:** Action game &nbsp;|&nbsp; **Released:** October 29, 2014
+
+[Wikipedia](https://en.wikipedia.org/wiki/Don't_Die,_Mr._Robot!)
 
 ---
 
@@ -2802,6 +3210,14 @@
 
 ---
 
+### Moero Chronicle
+
+**Platforms:** PlayStation Vita &nbsp;|&nbsp; **Developer:** Compile Heart &nbsp;|&nbsp; **Publisher:** Compile Heart, Sony Computer Entertainment &nbsp;|&nbsp; **Genre:** Role-playing, dungeon crawler &nbsp;|&nbsp; **Released:** May 15, 2014
+
+[Wikipedia](https://en.wikipedia.org/wiki/Moero_Chronicle)
+
+---
+
 ### Monster Monpiece
 
 **Platforms:** PlayStation Vita &nbsp;|&nbsp; **Genre:** DCCG &nbsp;|&nbsp; **Released:** May 27
@@ -2818,11 +3234,27 @@
 
 ---
 
+### MouseCraft
+
+**Platforms:** Ouya, PlayStation 3, PlayStation 4, PlayStation Vita, Windows &nbsp;|&nbsp; **Developer:** Crunching Koalas &nbsp;|&nbsp; **Publisher:** Crunching Koalas &nbsp;|&nbsp; **Genre:** Adventure &nbsp;|&nbsp; **Released:** July 8, 2014
+
+[Wikipedia](https://en.wikipedia.org/wiki/MouseCraft)
+
+---
+
 ### Murasaki Baby
 
 **Platforms:** PlayStation Vita &nbsp;|&nbsp; **Genre:** Puzzle &nbsp;|&nbsp; **Released:** September 16
 
 [Wikipedia](https://en.wikipedia.org/wiki/Murasaki_Baby)
+
+---
+
+### MXGP: The Official Motocross Videogame
+
+**Platforms:** Windows, PlayStation 3, PlayStation 4, PlayStation Vita, Xbox 360, Xbox One, macOS, Linux &nbsp;|&nbsp; **Developer:** Milestone &nbsp;|&nbsp; **Publisher:** Milestone &nbsp;|&nbsp; **Genre:** Racing &nbsp;|&nbsp; **Released:** March 28, 2014
+
+[Wikipedia](https://en.wikipedia.org/wiki/MXGP:_The_Official_Motocross_Videogame)
 
 ---
 
@@ -2876,6 +3308,14 @@
 
 ---
 
+### Phantasy Star Nova
+
+**Platforms:** PlayStation Vita &nbsp;|&nbsp; **Developer:** tri-Ace &nbsp;|&nbsp; **Publisher:** Sega &nbsp;|&nbsp; **Genre:** Action role-playing game &nbsp;|&nbsp; **Released:** November 27, 2014
+
+[Wikipedia](https://en.wikipedia.org/wiki/Phantasy_Star_Nova)
+
+---
+
 ### Phantom Breaker: Battle Grounds
 
 **Platforms:** PlayStation Vita &nbsp;|&nbsp; **Genre:** Fighting &nbsp;|&nbsp; **Released:** August 12
@@ -2926,13 +3366,13 @@
 
 <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co3vws.jpg" alt="Puyo Puyo Tetris cover" width="200">
 
-**Platforms:** PlayStation 4, Nintendo 3DS, PlayStation Vita, Wii U, Xbox One, PlayStation 3 &nbsp;|&nbsp; **Developer:** Sonic Team &nbsp;|&nbsp; **Publisher:** Sega &nbsp;|&nbsp; **Genre:** Puzzle, Strategy, Arcade &nbsp;|&nbsp; **Released:** February 6, 2014
+**Platforms:** Nintendo 3DS, PlayStation Vita, PlayStation 3, Wii U, Xbox One, PlayStation 4 &nbsp;|&nbsp; **Developer:** Sega CS2 &nbsp;|&nbsp; **Publisher:** Sega, Deep Silver &nbsp;|&nbsp; **Genre:** Puzzle &nbsp;|&nbsp; **Released:** February 6, 2014
 
 > "Two puzzle game juggernauts collide as Tetris, one of the largest-selling and recognized brands in gaming history, and Puyo Puyo from SEGA have combined to create a fun-to-play, fast-paced, competitive party game like no other! The game has tons of different styles of gameplay – from the single-player Adventure and Challenge modes to the ferocious competition of the up-to-four player Arcade modes. There's plenty of Tetris/Puyo variety, even an in-game Shop where players can unlock new characters, new skins for Puyos and Tetriminos, new backgrounds and more."
 >
 > _Synopsis source: IGDB_
 
-[IGDB](https://www.igdb.com/games/puyo-puyo-tetris)
+[Wikipedia](https://en.wikipedia.org/wiki/Puyo_Puyo_Tetris) · [IGDB](https://www.igdb.com/games/puyo-puyo-tetris)
 
 ---
 
@@ -3034,6 +3474,14 @@
 
 ---
 
+### Super Hero Generation
+
+**Platforms:** PlayStation 3, PlayStation Vita &nbsp;|&nbsp; **Developer:** Bandai Namco Studios, Tom Create &nbsp;|&nbsp; **Publisher:** Bandai Namco Games &nbsp;|&nbsp; **Genre:** Tactical role-playing game &nbsp;|&nbsp; **Released:** October 23, 2014
+
+[Wikipedia](https://en.wikipedia.org/wiki/Super_Hero_Generation)
+
+---
+
 ### Switch Galaxy Ultra
 
 **Platforms:** PlayStation 4, PlayStation Vita &nbsp;|&nbsp; **Released:** December 23
@@ -3085,6 +3533,14 @@
 ### The Hungry Horde
 
 **Platforms:** PlayStation Vita &nbsp;|&nbsp; **Released:** November 4
+
+---
+
+### The Muppets Movie Adventures
+
+**Platforms:** PlayStation Vita &nbsp;|&nbsp; **Developer:** Virtual Toys &nbsp;|&nbsp; **Publisher:** Sony Computer Entertainment &nbsp;|&nbsp; **Genre:** Platform &nbsp;|&nbsp; **Released:** November 5, 2014
+
+[Wikipedia](https://en.wikipedia.org/wiki/The_Muppets_Movie_Adventures)
 
 ---
 
@@ -3228,6 +3684,14 @@
 
 ---
 
+### Atomic Ninjas
+
+**Platforms:** PlayStation 3, PlayStation Vita &nbsp;|&nbsp; **Developer:** Grip Games &nbsp;|&nbsp; **Publisher:** Grip Games &nbsp;|&nbsp; **Genre:** Platform &nbsp;|&nbsp; **Released:** October 2, 2013
+
+[Wikipedia](https://en.wikipedia.org/wiki/Atomic_Ninjas)
+
+---
+
 ### Batman: Arkham Origins Blackgate
 
 <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2hzg.jpg" alt="Batman: Arkham Origins Blackgate cover" width="200">
@@ -3239,6 +3703,14 @@
 > _Synopsis source: IGDB_
 
 [IGDB](https://www.igdb.com/games/batman-arkham-origins-blackgate)
+
+---
+
+### Bentley's Hackpack
+
+**Platforms:** PlayStation 3, PlayStation Vita &nbsp;|&nbsp; **Developer:** Sanzaru Games &nbsp;|&nbsp; **Publisher:** Sony Computer Entertainment &nbsp;|&nbsp; **Genre:** Action
+
+[Wikipedia](https://en.wikipedia.org/wiki/Bentley's_Hackpack)
 
 ---
 
@@ -3268,13 +3740,13 @@
 
 <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2mn5.jpg" alt="Broken Sword 5: The Serpent's Curse cover" width="200">
 
-**Platforms:** Windows, Linux, macOS, PlayStation Vita &nbsp;|&nbsp; **Developer:** Revolution Software &nbsp;|&nbsp; **Publisher:** Revolution Software, Ravenscourt, Deep Silver &nbsp;|&nbsp; **Genre:** Point-and-click, Puzzle, Role-playing (RPG), Adventure &nbsp;|&nbsp; **Released:** December 4, 2013
+**Platforms:** Windows, macOS, Linux, PlayStation Vita &nbsp;|&nbsp; **Developer:** Revolution Software &nbsp;|&nbsp; **Publisher:** Revolution Software &nbsp;|&nbsp; **Genre:** Point-and-click adventure &nbsp;|&nbsp; **Released:** December 4, 2013
 
 > Broken Sword 5: The Serpent's Curse is a classical point & click adventure. It abandons 3D graphics and direct control which were used in the two predecessors and returns to the style of the first two games. The only major technical differences are a higher resolution and that the characters are modelled instead of drawn. The game uses an intelligent mouse cursor: a right click on a hotspot results in looking at the item and a left click triggers an item-specific action. Of course this is the main ingredient of the puzzles: collecting items and using them on other items in order to solve problems. On some occasions there are also logic puzzles from a zoomed-in view on an object, e.g. connecting cables of an engine in order to repair the car's horn. Another important part of the game are conversations with the various characters, some of them known from previous instalments. During the course of the game the controlled character switches between George and Nico. A help function supports players who are stuck.
 >
 > _Synopsis source: IGDB_
 
-[IGDB](https://www.igdb.com/games/broken-sword-5-the-serpents-curse)
+[Wikipedia](https://en.wikipedia.org/wiki/Broken_Sword_5:_The_Serpent's_Curse) · [IGDB](https://www.igdb.com/games/broken-sword-5-the-serpents-curse)
 
 ---
 
@@ -3289,6 +3761,22 @@
 **Platforms:** PlayStation Portable, PlayStation Vita &nbsp;|&nbsp; **Genre:** RPG &nbsp;|&nbsp; **Released:** June 4
 
 [Wikipedia](https://en.wikipedia.org/wiki/Class_of_Heroes_2)
+
+---
+
+### Criminal Girls: Invite Only
+
+**Platforms:** PlayStation Portable, PlayStation Vita &nbsp;|&nbsp; **Developer:** Imageepoch &nbsp;|&nbsp; **Publisher:** Nippon Ichi Software &nbsp;|&nbsp; **Genre:** Role-playing &nbsp;|&nbsp; **Released:** November 28, 2013
+
+[Wikipedia](https://en.wikipedia.org/wiki/Criminal_Girls:_Invite_Only)
+
+---
+
+### Damascus Gear: Operation Tokyo
+
+**Platforms:** PlayStation Vita &nbsp;|&nbsp; **Developer:** Arc System Works &nbsp;|&nbsp; **Publisher:** Arc System Works &nbsp;|&nbsp; **Genre:** Action role-playing game &nbsp;|&nbsp; **Released:** December 25, 2013
+
+[Wikipedia](https://en.wikipedia.org/wiki/Damascus_Gear:_Operation_Tokyo)
 
 ---
 
@@ -3368,6 +3856,14 @@
 
 ---
 
+### Exstetra
+
+**Platforms:** Nintendo 3DS, PlayStation Vita &nbsp;|&nbsp; **Developer:** Studio Saizensen &nbsp;|&nbsp; **Publisher:** FuRyu &nbsp;|&nbsp; **Genre:** Role-playing game &nbsp;|&nbsp; **Released:** November 7, 2013
+
+[Wikipedia](https://en.wikipedia.org/wiki/Exstetra)
+
+---
+
 ### FIFA 14
 
 <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co206x.jpg" alt="FIFA 14 cover" width="200">
@@ -3420,6 +3916,14 @@
 
 ---
 
+### God Eater 2
+
+**Platforms:** PlayStation Vita, PlayStation Portable, PlayStation 4, Windows &nbsp;|&nbsp; **Developer:** Shift &nbsp;|&nbsp; **Publisher:** Bandai Namco Entertainment &nbsp;|&nbsp; **Genre:** Action role-playing &nbsp;|&nbsp; **Released:** November 14, 2013
+
+[Wikipedia](https://en.wikipedia.org/wiki/God_Eater_2)
+
+---
+
 ### Guacamelee!
 
 <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2g6i.jpg" alt="Guacamelee! cover" width="200">
@@ -3456,9 +3960,25 @@
 
 ---
 
+### Hyperdimension Neptunia: Producing Perfection
+
+**Platforms:** PlayStation Vita &nbsp;|&nbsp; **Developer:** Compile Heart, Tamsoft &nbsp;|&nbsp; **Publisher:** Idea Factory, NIS America &nbsp;|&nbsp; **Genre:** Life simulation, rhythm &nbsp;|&nbsp; **Released:** June 20, 2013
+
+[Wikipedia](https://en.wikipedia.org/wiki/Hyperdimension_Neptunia:_Producing_Perfection)
+
+---
+
 ### Injustice: Gods Among Us – Ultimate Edition
 
 **Platforms:** Windows, PlayStation 3, Xbox 360, PlayStation Vita, PlayStation 4 &nbsp;|&nbsp; **Genre:** Fighting &nbsp;|&nbsp; **Type:** Limited &nbsp;|&nbsp; **Released:** November 12
+
+---
+
+### Invizimals: The Alliance
+
+**Platforms:** PlayStation Vita &nbsp;|&nbsp; **Developer:** Novarama &nbsp;|&nbsp; **Publisher:** Sony Computer Entertainment &nbsp;|&nbsp; **Genre:** Monster-taming, role-playing &nbsp;|&nbsp; **Released:** October 30, 2013
+
+[Wikipedia](https://en.wikipedia.org/wiki/Invizimals:_The_Alliance)
 
 ---
 
@@ -3467,6 +3987,14 @@
 **Platforms:** PlayStation Vita &nbsp;|&nbsp; **Genre:** Puzzle, Adventure &nbsp;|&nbsp; **Released:** May 14
 
 [Wikipedia](https://en.wikipedia.org/wiki/Jacob_Jones_and_the_Bigfoot_Mystery)
+
+---
+
+### Kamen Rider: Battride War
+
+**Platforms:** PlayStation 3, PlayStation 4, PlayStation Vita, Wii U &nbsp;|&nbsp; **Developer:** Eighting, Bandai Namco Studios &nbsp;|&nbsp; **Publisher:** Bandai Namco Games &nbsp;|&nbsp; **Genre:** Action role-playing game, hack and slash
+
+[Wikipedia](https://en.wikipedia.org/wiki/Kamen_Rider:_Battride_War)
 
 ---
 
@@ -3481,6 +4009,14 @@
 > _Synopsis source: IGDB_
 
 [IGDB](https://www.igdb.com/games/killzone-mercenary)
+
+---
+
+### Lego Legends of Chima: Laval's Journey
+
+**Platforms:** Nintendo 3DS, Nintendo DS, PlayStation Vita &nbsp;|&nbsp; **Developer:** TT Fusion &nbsp;|&nbsp; **Publisher:** Warner Bros. Interactive Entertainment &nbsp;|&nbsp; **Genre:** Action-adventure &nbsp;|&nbsp; **Released:** June 21, 2013
+
+[Wikipedia](https://en.wikipedia.org/wiki/Lego_Legends_of_Chima:_Laval's_Journey)
 
 ---
 
@@ -3519,6 +4055,14 @@
 ### MLB 13: The Show
 
 **Platforms:** PlayStation 3, PlayStation Vita &nbsp;|&nbsp; **Genre:** Sports &nbsp;|&nbsp; **Released:** March 5
+
+---
+
+### MotoGP 13
+
+**Platforms:** PlayStation 3, Windows, PlayStation Vita, Xbox 360 &nbsp;|&nbsp; **Developer:** Milestone &nbsp;|&nbsp; **Publisher:** Milestone, Plug in Digital &nbsp;|&nbsp; **Genre:** Racing &nbsp;|&nbsp; **Released:** June 20, 2013
+
+[Wikipedia](https://en.wikipedia.org/wiki/MotoGP_13)
 
 ---
 
@@ -3584,6 +4128,14 @@
 
 ---
 
+### Rymdkapsel
+
+**Platforms:** PlayStation Vita, iOS, Android &nbsp;|&nbsp; **Developer:** Grapefrukt &nbsp;|&nbsp; **Publisher:** Grapefrukt &nbsp;|&nbsp; **Genre:** Real-time strategy &nbsp;|&nbsp; **Released:** May 7, 2013
+
+[Wikipedia](https://en.wikipedia.org/wiki/Rymdkapsel)
+
+---
+
 ### Sly Cooper: Thieves in Time
 
 <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2rbv.jpg" alt="Sly Cooper: Thieves in Time cover" width="200">
@@ -3634,6 +4186,14 @@
 
 ---
 
+### Steins;Gate: Linear Bounded Phenogram
+
+**Platforms:** PlayStation 3, Xbox 360, PlayStation Vita &nbsp;|&nbsp; **Developer:** 5pb. &nbsp;|&nbsp; **Publisher:** 5pb., Spike Chunsoft &nbsp;|&nbsp; **Genre:** Visual novel &nbsp;|&nbsp; **Released:** April 25, 2013
+
+[Wikipedia](https://en.wikipedia.org/wiki/Steins;Gate:_Linear_Bounded_Phenogram)
+
+---
+
 ### Stick it to the Man!
 
 <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co24ue.jpg" alt="Stick it to the Man! cover" width="200">
@@ -3653,6 +4213,14 @@
 **Platforms:** PlayStation 3, PlayStation Vita, Windows &nbsp;|&nbsp; **Genre:** Platformer &nbsp;|&nbsp; **Released:** August 6
 
 [Wikipedia](https://en.wikipedia.org/wiki/Superfrog_HD)
+
+---
+
+### Talisman: Digital Edition
+
+**Platforms:** Windows, iOS, Android, macOS, PlayStation 4, PlayStation Vita, Xbox One &nbsp;|&nbsp; **Developer:** Nomad Games &nbsp;|&nbsp; **Publisher:** Asmodee Digital, Nomad Games &nbsp;|&nbsp; **Genre:** Role-playing &nbsp;|&nbsp; **Released:** April 25, 2013
+
+[Wikipedia](https://en.wikipedia.org/wiki/Talisman:_Digital_Edition)
 
 ---
 
@@ -3690,13 +4258,13 @@
 
 <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co44ma.jpg" alt="The Legend of Heroes: Trails of Cold Steel cover" width="200">
 
-**Platforms:** PlayStation 3, PlayStation Vita &nbsp;|&nbsp; **Developer:** Nihon Falcom &nbsp;|&nbsp; **Publisher:** XSEED Games, NIS America, Nihon Falcom &nbsp;|&nbsp; **Genre:** Role-playing (RPG), Strategy, Turn-based strategy (TBS), Adventure &nbsp;|&nbsp; **Released:** September 26, 2013
+**Platforms:** PlayStation 3, PlayStation Vita &nbsp;|&nbsp; **Developer:** Nihon Falcom &nbsp;|&nbsp; **Publisher:** Xseed Games, Nihon Falcom, NIS America, Marvelous Europe &nbsp;|&nbsp; **Genre:** Role-playing &nbsp;|&nbsp; **Released:** September 26, 2013
 
 > The Legend of Heroes: Trails of Cold Steel is the sixth installment in the main Trails series, serving as the beginning to the Erebonia arc. The game follows Rean Schwarzer and his fellow students of "Class VII" at Thors Military Academy, a newly formed class at the academy which is the only one not segregated by social class, composing of both Erebonian nobility and commoners.  The basic gameplay is nearly identical to the previous entries with a few changes. The biggest change to the battle system and also counting as a brand new feature is the "Tactical Link System". The "Tactical Link" allow players follow up with three different kinds of link attacks, dealing additional damage and providing various other benefits. "Tactical Link" becomes a more useful asset to the player as the story progress and characters level up their "Link Levels" with other characters. As the link levels increase, you will obtain new link abilities such as healing the link partner or increase the CP gain of the partner.
 >
 > _Synopsis source: IGDB_
 
-[IGDB](https://www.igdb.com/games/the-legend-of-heroes-trails-of-cold-steel)
+[Wikipedia](https://en.wikipedia.org/wiki/The_Legend_of_Heroes:_Trails_of_Cold_Steel) · [IGDB](https://www.igdb.com/games/the-legend-of-heroes-trails-of-cold-steel)
 
 ---
 
@@ -3705,6 +4273,14 @@
 **Platforms:** PlayStation 3, PlayStation Vita, PlayStation Network &nbsp;|&nbsp; **Genre:** Puzzle-platformer &nbsp;|&nbsp; **Released:** April 23
 
 [Wikipedia](https://en.wikipedia.org/wiki/Thomas_Was_Alone)
+
+---
+
+### Ultratron
+
+**Platforms:** Windows, macOS, Linux, PlayStation 3, PlayStation 4, PlayStation Vita, Wii U, Xbox One &nbsp;|&nbsp; **Developer:** Puppy Games &nbsp;|&nbsp; **Publisher:** Puppy Games, Curve Studios &nbsp;|&nbsp; **Genre:** Top-down shooter &nbsp;|&nbsp; **Released:** March 18, 2013
+
+[Wikipedia](https://en.wikipedia.org/wiki/Ultratron)
 
 ---
 
@@ -3721,6 +4297,14 @@
 **Platforms:** PlayStation Vita &nbsp;|&nbsp; **Genre:** RPG &nbsp;|&nbsp; **Released:** October 15
 
 [Wikipedia](https://en.wikipedia.org/wiki/Valhalla_Knights_3)
+
+---
+
+### WRC 4: FIA World Rally Championship
+
+**Platforms:** Windows, Xbox 360, PlayStation 3, PlayStation Vita &nbsp;|&nbsp; **Developer:** Milestone &nbsp;|&nbsp; **Publisher:** Bigben Interactive, Square Enix &nbsp;|&nbsp; **Genre:** Racing &nbsp;|&nbsp; **Released:** October 25, 2013
+
+[Wikipedia](https://en.wikipedia.org/wiki/WRC_4:_FIA_World_Rally_Championship)
 
 ---
 
@@ -3741,6 +4325,14 @@
 ## 2012
 
 [Full 2012 page](../years/2012.md)
+
+### A Virus Named TOM
+
+**Platforms:** Windows, macOS, Linux, PlayStation Vita &nbsp;|&nbsp; **Developer:** Misfits Attic &nbsp;|&nbsp; **Publisher:** Misfits Attic &nbsp;|&nbsp; **Genre:** Puzzle &nbsp;|&nbsp; **Released:** August 1, 2012
+
+[Wikipedia](https://en.wikipedia.org/wiki/A_Virus_Named_TOM)
+
+---
 
 ### Army Corps of Hell
 
@@ -3767,6 +4359,14 @@
 > _Synopsis source: IGDB_
 
 [IGDB](https://www.igdb.com/games/assassin-s-creed-iii-liberation)
+
+---
+
+### Azkend 2: The World Beneath
+
+**Platforms:** iOS, Android, Windows, PlayStation 4, PlayStation Vita, Xbox One &nbsp;|&nbsp; **Developer:** 10tons Ltd &nbsp;|&nbsp; **Genre:** Puzzle &nbsp;|&nbsp; **Released:** March 14, 2012
+
+[Wikipedia](https://en.wikipedia.org/wiki/Azkend_2:_The_World_Beneath)
 
 ---
 
@@ -3816,9 +4416,33 @@
 
 ---
 
+### Ciel Nosurge
+
+**Platforms:** PlayStation Vita, PlayStation 4, Windows &nbsp;|&nbsp; **Developer:** Gust &nbsp;|&nbsp; **Publisher:** Koei Tecmo &nbsp;|&nbsp; **Genre:** Life simulation, social game &nbsp;|&nbsp; **Released:** April 26, 2012
+
+[Wikipedia](https://en.wikipedia.org/wiki/Ciel_Nosurge)
+
+---
+
 ### Cliff Diving
 
 **Platforms:** PlayStation Vita &nbsp;|&nbsp; **Released:** February 21
+
+---
+
+### Cytus
+
+**Platforms:** iOS, Android, PlayStation Vita &nbsp;|&nbsp; **Developer:** Rayark &nbsp;|&nbsp; **Publisher:** Rayark &nbsp;|&nbsp; **Genre:** Rhythm game &nbsp;|&nbsp; **Released:** January 12, 2012
+
+[Wikipedia](https://en.wikipedia.org/wiki/Cytus)
+
+---
+
+### Defender's Quest
+
+**Platforms:** Browser, Windows, PlayStation 4, Xbox One, PlayStation Vita &nbsp;|&nbsp; **Developer:** Level Up Labs &nbsp;|&nbsp; **Publisher:** Level Up Labs &nbsp;|&nbsp; **Genre:** Tower defense, role-playing game &nbsp;|&nbsp; **Released:** October 30, 2012
+
+[Wikipedia](https://en.wikipedia.org/wiki/Defender's_Quest)
 
 ---
 
@@ -3828,9 +4452,25 @@
 
 ---
 
+### DJMax Technika Tune
+
+**Platforms:** PlayStation Vita &nbsp;|&nbsp; **Developer:** Pentavision, Neowiz Mobile &nbsp;|&nbsp; **Publisher:** Pentavision, Pentavision Global, CyberFront &nbsp;|&nbsp; **Genre:** Music video game &nbsp;|&nbsp; **Released:** September 20, 2012
+
+[Wikipedia](https://en.wikipedia.org/wiki/DJMax_Technika_Tune)
+
+---
+
 ### Doctor Who: The Eternity Clock
 
 **Platforms:** PlayStation Network, PlayStation Vita &nbsp;|&nbsp; **Released:** May 23
+
+---
+
+### Dokuro
+
+**Platforms:** PlayStation Vita &nbsp;|&nbsp; **Developer:** Game Arts &nbsp;|&nbsp; **Publisher:** GungHo Online Entertainment &nbsp;|&nbsp; **Genre:** Puzzle &nbsp;|&nbsp; **Released:** July 5, 2012
+
+[Wikipedia](https://en.wikipedia.org/wiki/Dokuro_(video_game))
 
 ---
 
@@ -3845,6 +4485,14 @@
 **Platforms:** PlayStation Vita &nbsp;|&nbsp; **Released:** February 22
 
 [Wikipedia](https://en.wikipedia.org/wiki/Dynasty_Warriors#Ports_on_other_systems)
+
+---
+
+### Ecolibrium
+
+**Platforms:** PlayStation Vita &nbsp;|&nbsp; **Developer:** StormBASIC Games &nbsp;|&nbsp; **Publisher:** Sony Computer Entertainment &nbsp;|&nbsp; **Genre:** Simulation &nbsp;|&nbsp; **Released:** September 12, 2012
+
+[Wikipedia](https://en.wikipedia.org/wiki/Ecolibrium)
 
 ---
 
@@ -3929,6 +4577,14 @@
 **Platforms:** PlayStation Network, Windows, Xbox 360, PlayStation Vita, iOS, Android &nbsp;|&nbsp; **Type:** Port &nbsp;|&nbsp; **Released:** September 18
 
 [Wikipedia](https://en.wikipedia.org/wiki/Jet_Set_Radio_HD)
+
+---
+
+### Kidō Senshi Gundam SEED Battle Destiny
+
+**Platforms:** PlayStation Vita &nbsp;|&nbsp; **Developer:** Artdink &nbsp;|&nbsp; **Publisher:** Namco Bandai Games &nbsp;|&nbsp; **Genre:** Combat, Mecha, Science Fiction &nbsp;|&nbsp; **Released:** June 7, 2012
+
+[Wikipedia](https://en.wikipedia.org/wiki/Kid%C5%8D_Senshi_Gundam_SEED_Battle_Destiny)
 
 ---
 
@@ -4124,6 +4780,22 @@
 
 ---
 
+### Pure Chess
+
+**Platforms:** Windows, PlayStation 3, PlayStation Vita, iOS, Android, Xbox One &nbsp;|&nbsp; **Developer:** VooFoo Studios &nbsp;|&nbsp; **Publisher:** Ripstone, Play It &nbsp;|&nbsp; **Genre:** Digital tabletop &nbsp;|&nbsp; **Released:** April 11, 2012
+
+[Wikipedia](https://en.wikipedia.org/wiki/Pure_Chess)
+
+---
+
+### Ragnarok Odyssey
+
+**Platforms:** PlayStation Vita, PlayStation 3 &nbsp;|&nbsp; **Developer:** Game Arts &nbsp;|&nbsp; **Publisher:** GungHo Online Entertainment, Marvelous USA &nbsp;|&nbsp; **Genre:** Role-playing &nbsp;|&nbsp; **Released:** February 2, 2012
+
+[Wikipedia](https://en.wikipedia.org/wiki/Ragnarok_Odyssey)
+
+---
+
 ### Ratchet & Clank: Full Frontal Assault
 
 <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co230o.jpg" alt="Ratchet & Clank: Full Frontal Assault cover" width="200">
@@ -4165,6 +4837,14 @@
 **Platforms:** PlayStation Vita &nbsp;|&nbsp; **Released:** March 13
 
 [Wikipedia](https://en.wikipedia.org/wiki/Ridge_Racer_(2011_video_game))
+
+---
+
+### Romance of the Three Kingdoms 12
+
+**Platforms:** Windows, PlayStation 3, PlayStation Vita, Wii U &nbsp;|&nbsp; **Developer:** Koei Tecmo &nbsp;|&nbsp; **Publisher:** Koei Tecmo &nbsp;|&nbsp; **Genre:** Strategy &nbsp;|&nbsp; **Released:** December 13, 2012
+
+[Wikipedia](https://en.wikipedia.org/wiki/Romance_of_the_Three_Kingdoms_12)
 
 ---
 
@@ -4254,6 +4934,14 @@
 
 ---
 
+### Super Monkey Ball: Banana Splitz
+
+**Platforms:** PlayStation Vita &nbsp;|&nbsp; **Developer:** Marvelous AQL &nbsp;|&nbsp; **Publisher:** Sega &nbsp;|&nbsp; **Genre:** Platform, party &nbsp;|&nbsp; **Released:** June 14, 2012
+
+[Wikipedia](https://en.wikipedia.org/wiki/Super_Monkey_Ball:_Banana_Splitz)
+
+---
+
 ### Super Stardust Delta
 
 **Platforms:** PlayStation Vita &nbsp;|&nbsp; **Released:** February 22
@@ -4287,6 +4975,28 @@
 **Platforms:** Xbox 360, PlayStation 3, PlayStation Vita &nbsp;|&nbsp; **Released:** April 4
 
 [Wikipedia](https://en.wikipedia.org/wiki/The_Pinball_Arcade)
+
+---
+
+### The Silent Age
+
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2k29.jpg" alt="The Silent Age cover" width="200">
+
+**Platforms:** iOS, Android, Windows Phone, Fire OS, Windows, macOS, PlayStation Vita &nbsp;|&nbsp; **Developer:** House on Fire &nbsp;|&nbsp; **Genre:** Point and click adventure game &nbsp;|&nbsp; **Released:** December 6, 2012
+
+> Lose yourself in The Silent Age, the thrilling point-and-click adventure with over seven million mobile downloads, completely revamped and updated for PC. The Silent Age is an unforgettable experience. Can you, a simple janitor and literally, “the average Joe,” save humankind?
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/The_Silent_Age) · [IGDB](https://www.igdb.com/games/the-silent-age)
+
+---
+
+### Time Travelers
+
+**Platforms:** Nintendo 3DS, PlayStation Vita, PlayStation Portable &nbsp;|&nbsp; **Developer:** Level-5 &nbsp;|&nbsp; **Publisher:** Level-5 &nbsp;|&nbsp; **Genre:** Playing cinema, adventure, visual novel &nbsp;|&nbsp; **Released:** July 12, 2012
+
+[Wikipedia](https://en.wikipedia.org/wiki/Time_Travelers_(video_game))
 
 ---
 
@@ -4324,6 +5034,14 @@
 
 ---
 
+### Under Night In-Birth
+
+**Platforms:** Arcade, PlayStation 3, Windows, PlayStation 4, PlayStation Vita &nbsp;|&nbsp; **Developer:** French-Bread, Ecole Software &nbsp;|&nbsp; **Publisher:** Sega, Arc System Works, Aksys Games, NIS America, PQube, Clear River Games, Arc System Works &nbsp;|&nbsp; **Genre:** Fighting, visual novel
+
+[Wikipedia](https://en.wikipedia.org/wiki/Under_Night_In-Birth)
+
+---
+
 ### Unit 13
 
 **Platforms:** PlayStation Vita &nbsp;|&nbsp; **Released:** March 6
@@ -4340,11 +5058,27 @@
 
 ---
 
+### When Vikings Attack!
+
+**Platforms:** PlayStation 3, PlayStation Vita &nbsp;|&nbsp; **Developer:** Clever Beans and XDev Studios Europe &nbsp;|&nbsp; **Publisher:** Sony Computer Entertainment &nbsp;|&nbsp; **Genre:** Fighting &nbsp;|&nbsp; **Released:** November 6, 2012
+
+[Wikipedia](https://en.wikipedia.org/wiki/When_Vikings_Attack!)
+
+---
+
 ### Wipeout 2048
 
 **Platforms:** PlayStation Vita &nbsp;|&nbsp; **Released:** February 22
 
 [Wikipedia](https://en.wikipedia.org/wiki/Wipeout_2048)
+
+---
+
+### WRC 3: FIA World Rally Championship
+
+**Platforms:** PlayStation 3, PlayStation Vita, Windows, Xbox 360, OnLive &nbsp;|&nbsp; **Developer:** Milestone srl &nbsp;|&nbsp; **Publisher:** Milestone srl, Bandai Namco Entertainment &nbsp;|&nbsp; **Genre:** Racing &nbsp;|&nbsp; **Released:** October 12, 2012
+
+[Wikipedia](https://en.wikipedia.org/wiki/WRC_3:_FIA_World_Rally_Championship)
 
 ---
 
@@ -4366,11 +5100,93 @@
 
 [Full 2011 page](../years/2011.md)
 
+### Bridge Constructor
+
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co3c18.jpg" alt="Bridge Constructor cover" width="200">
+
+**Platforms:** Android, iOS, Linux, macOS, Windows, PlayStation Vita, Wii U, Windows Phone &nbsp;|&nbsp; **Developer:** ClockStone &nbsp;|&nbsp; **Publisher:** Headup Games, ClockStone, Joindots &nbsp;|&nbsp; **Genre:** Simulation, puzzle
+
+> Bridge Constructor put you into the role of an engineer in bridge building. In numerous different levels you'll design and create bridges over deep valleys, dangerous canyons, city streets and raging rivers. Once satisfied with your creation, send the trucks and cars to cross the bridge.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Bridge_Constructor) · [IGDB](https://www.igdb.com/games/bridge-constructor)
+
+---
+
+### Chaos Code
+
+**Platforms:** Arcade, PlayStation 3, Windows, PlayStation Vita &nbsp;|&nbsp; **Developer:** FK Digital &nbsp;|&nbsp; **Publisher:** FK Digital, Arc System Works, exA-Arcadia [2020s arcades]), Arc System Works &nbsp;|&nbsp; **Genre:** Fighting, Visual novel
+
+[Wikipedia](https://en.wikipedia.org/wiki/Chaos_Code)
+
+---
+
+### Dream Club Zero
+
+**Platforms:** Xbox 360, PlayStation Vita, PlayStation 3 &nbsp;|&nbsp; **Developer:** Tamsoft &nbsp;|&nbsp; **Publisher:** D3 Publisher &nbsp;|&nbsp; **Genre:** Dating sim &nbsp;|&nbsp; **Released:** January 27, 2011
+
+[Wikipedia](https://en.wikipedia.org/wiki/Dream_Club_Zero)
+
+---
+
+### Kajiri Kamui Kagura
+
+**Platforms:** Windows, PlayStation Vita &nbsp;|&nbsp; **Developer:** Light &nbsp;|&nbsp; **Publisher:** Wen Yang &nbsp;|&nbsp; **Genre:** Visual novel &nbsp;|&nbsp; **Released:** September 2011
+
+[Wikipedia](https://en.wikipedia.org/wiki/Kajiri_Kamui_Kagura)
+
+---
+
+### Little Battlers Experience
+
+**Platforms:** PlayStation Portable, Nintendo 3DS, PlayStation Vita, Windows, Android, iOS &nbsp;|&nbsp; **Developer:** Level-5, DMM Games &nbsp;|&nbsp; **Publisher:** Level-5 &nbsp;|&nbsp; **Genre:** Action role-playing, Gacha game &nbsp;|&nbsp; **Released:** June 16, 2011
+
+[Wikipedia](https://en.wikipedia.org/wiki/Little_Battlers_Experience)
+
+---
+
 ### Shin Kamaitachi no Yoru
 
 **Platforms:** PlayStation 3, PlayStation Vita &nbsp;|&nbsp; **Genre:** Visual novel &nbsp;|&nbsp; **Released:** December 17
 
 [Wikipedia](https://en.wikipedia.org/wiki/Shin_Kamaitachi_no_Yoru)
+
+---
+
+## 2010
+
+[Full 2010 page](../years/2010.md)
+
+### Fast Striker
+
+**Platforms:** Dreamcast, iOS, Neo Geo AES, PlayStation Vita &nbsp;|&nbsp; **Developer:** NG:Dev.Team &nbsp;|&nbsp; **Publisher:** NG:Dev.Team &nbsp;|&nbsp; **Genre:** Scrolling shooter &nbsp;|&nbsp; **Released:** June 30, 2010
+
+[Wikipedia](https://en.wikipedia.org/wiki/Fast_Striker)
+
+---
+
+### God Eater
+
+**Platforms:** PlayStation Portable, PlayStation Vita, Windows &nbsp;|&nbsp; **Developer:** Shift &nbsp;|&nbsp; **Publisher:** Namco Bandai Games, D3 Publisher &nbsp;|&nbsp; **Genre:** Action role-playing &nbsp;|&nbsp; **Released:** February 4, 2010
+
+[Wikipedia](https://en.wikipedia.org/wiki/God_Eater_(video_game))
+
+---
+
+### Legends of War
+
+**Platforms:** PlayStation Portable, PlayStation 3, Xbox 360, Windows, PlayStation Vita &nbsp;|&nbsp; **Developer:** Enigma Software Productions &nbsp;|&nbsp; **Publisher:** Enigma Software Productions &nbsp;|&nbsp; **Genre:** Turn-based strategy &nbsp;|&nbsp; **Released:** October 20, 2010
+
+[Wikipedia](https://en.wikipedia.org/wiki/Legends_of_War)
+
+---
+
+### Ninja Senki
+
+**Platforms:** PlayStation Vita, Windows, macOS &nbsp;|&nbsp; **Developer:** Jonathan Lavigne, Tribute Games &nbsp;|&nbsp; **Publisher:** Jonathan Lavigne, Tribute Games &nbsp;|&nbsp; **Genre:** Action platformer, side-scroller &nbsp;|&nbsp; **Released:** December 20, 2010
+
+[Wikipedia](https://en.wikipedia.org/wiki/Ninja_Senki)
 
 ---
 

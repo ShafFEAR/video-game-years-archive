@@ -2,7 +2,7 @@
 
 [← Back to index](../README.md)
 
-584 titles across 4 years in this archive.
+602 titles across 5 years in this archive.
 
 ## 2028
 
@@ -51,6 +51,14 @@
 ### 13Z: The Zodiac Trials
 
 **Platforms:** Nintendo Switch 2, PlayStation 5 &nbsp;|&nbsp; **Developer:** Mixed Realms &nbsp;|&nbsp; **Publisher:** Clouded Leopard Entertainment &nbsp;|&nbsp; **Genre:** Action, Roguelike &nbsp;|&nbsp; **Released:** January 14
+
+---
+
+### 171
+
+**Platforms:** Windows, Nintendo Switch, Nintendo Switch 2, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S &nbsp;|&nbsp; **Developer:** Betagames Group &nbsp;|&nbsp; **Publisher:** Betagames Group, QUByte Interactive &nbsp;|&nbsp; **Genre:** Action-adventure
+
+[Wikipedia](https://en.wikipedia.org/wiki/171_(video_game))
 
 ---
 
@@ -114,13 +122,13 @@
 
 <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co9xhc.jpg" alt="Blighted cover" width="200">
 
-**Platforms:** Nintendo Switch 2, Windows &nbsp;|&nbsp; **Developer:** Drinkbox Studios &nbsp;|&nbsp; **Publisher:** Drinkbox Studios &nbsp;|&nbsp; **Genre:** Role-playing (RPG), Indie &nbsp;|&nbsp; **Expected:** 2027 (date TBA)
+**Platforms:** Windows, Nintendo Switch 2 &nbsp;|&nbsp; **Developer:** DrinkBox Studios &nbsp;|&nbsp; **Publisher:** DrinkBox Studios &nbsp;|&nbsp; **Genre:** Action role-playing
 
 > Battle your way through a psychedelic western nightmare to reclaim the memories of your people in this action RPG from the creators of Guacamelee! Harness the power of the deadly, reality-altering Blight and unravel the mysteries of a twisted world.
 >
 > _Synopsis source: IGDB_
 
-[IGDB](https://www.igdb.com/games/blighted)
+[Wikipedia](https://en.wikipedia.org/wiki/Blighted_(video_game)) · [IGDB](https://www.igdb.com/games/blighted)
 
 ---
 
@@ -136,13 +144,13 @@
 
 <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/coc77a.jpg" alt="Crazy Taxi: World Tour cover" width="200">
 
-**Platforms:** Windows, Xbox Series X/S, PlayStation 5, Nintendo Switch 2 &nbsp;|&nbsp; **Developer:** Sega &nbsp;|&nbsp; **Publisher:** Sega &nbsp;|&nbsp; **Genre:** Racing, Adventure, Arcade &nbsp;|&nbsp; **Expected:** 2027 (date TBA)
+**Platforms:** Nintendo Switch 2, PlayStation 5, Windows, Xbox Series X/S &nbsp;|&nbsp; **Developer:** Sega &nbsp;|&nbsp; **Publisher:** Sega &nbsp;|&nbsp; **Genre:** Racing
 
 > It's time for crazy driving, crazy adventure, and crazy money! Crazy Taxi is back and going global!  In this new high-octane adventure, follow Axel as he chases down the mysterious masked villains who stole his beloved taxi. Tackle extreme missions around the world all while earning some CRAZY money!
 >
 > _Synopsis source: IGDB_
 
-[IGDB](https://www.igdb.com/games/crazy-taxi-world-tour)
+[Wikipedia](https://en.wikipedia.org/wiki/Crazy_Taxi:_World_Tour) · [IGDB](https://www.igdb.com/games/crazy-taxi-world-tour)
 
 ---
 
@@ -165,6 +173,14 @@
 **Platforms:** Windows, Nintendo Switch, Nintendo Switch 2, PlayStation 5, Xbox Series X/S &nbsp;|&nbsp; **Developer:** Gemdrops, Too Kyo Games &nbsp;|&nbsp; **Publisher:** Spike Chunsoft &nbsp;|&nbsp; **Genre:** Visual novel, Adventure &nbsp;|&nbsp; **Released:** January 14
 
 [Wikipedia](https://en.wikipedia.org/wiki/Danganronpa_2%C3%972)
+
+---
+
+### Deltarune
+
+**Platforms:** macOS, Windows, Nintendo Switch, PlayStation 4, Nintendo Switch 2, PlayStation 5 &nbsp;|&nbsp; **Publisher:** Toby Fox, 8-4 &nbsp;|&nbsp; **Genre:** Role-playing
+
+[Wikipedia](https://en.wikipedia.org/wiki/Deltarune)
 
 ---
 
@@ -230,6 +246,14 @@
 
 ---
 
+### Hatsune Miku: Starry Party
+
+**Platforms:** Nintendo Switch 2, Windows &nbsp;|&nbsp; **Developer:** Crypton Future Media, Good Smile Company &nbsp;|&nbsp; **Genre:** Party video game
+
+[Wikipedia](https://en.wikipedia.org/wiki/Hatsune_Miku:_Starry_Party)
+
+---
+
 ### Hyrule Warriors: Age of Calamity – Definitive Edition
 
 **Platforms:** Nintendo Switch 2 &nbsp;|&nbsp; **Developer:** Omega Force &nbsp;|&nbsp; **Publisher:** Koei Tecmo &nbsp;|&nbsp; **Genre:** Hack and slash &nbsp;|&nbsp; **Released:** February 25
@@ -246,13 +270,13 @@
 
 <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/cocp35.jpg" alt="Kingdom Hearts IV cover" width="200">
 
-**Platforms:** Nintendo Switch 2, Windows, PlayStation 5, Xbox Series X/S &nbsp;|&nbsp; **Developer:** Square Enix Creative Studio 1 &nbsp;|&nbsp; **Publisher:** Square Enix, The Walt Disney Company &nbsp;|&nbsp; **Genre:** Role-playing (RPG), Hack and slash/Beat 'em up, Adventure &nbsp;|&nbsp; **Expected:** 2027 (date TBA)
+**Platforms:** Nintendo Switch 2, PlayStation 5, Windows, Xbox Series X/S &nbsp;|&nbsp; **Developer:** Square Enix Creative Studio 1 &nbsp;|&nbsp; **Publisher:** Square Enix &nbsp;|&nbsp; **Genre:** Action role-playing
 
 > Kingdom Hearts IV follows protagonist Sora and some familiar characters as they journey through the mysterious city of Quadratum. Sora will once again journey to various worlds, where new figures cross his path and new powers awaken in this next chapter.
 >
 > _Synopsis source: IGDB_
 
-[IGDB](https://www.igdb.com/games/kingdom-hearts-iv)
+[Wikipedia](https://en.wikipedia.org/wiki/Kingdom_Hearts_IV) · [IGDB](https://www.igdb.com/games/kingdom-hearts-iv)
 
 ---
 
@@ -260,13 +284,13 @@
 
 <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/cocvba.jpg" alt="Kirby and the World Beyond cover" width="200">
 
-**Platforms:** Nintendo Switch 2 &nbsp;|&nbsp; **Developer:** HAL Laboratory &nbsp;|&nbsp; **Publisher:** Nintendo &nbsp;|&nbsp; **Genre:** Platform, Adventure &nbsp;|&nbsp; **Expected:** June 30, 2027
+**Platforms:** Nintendo Switch 2 &nbsp;|&nbsp; **Developer:** HAL Laboratory &nbsp;|&nbsp; **Publisher:** Nintendo &nbsp;|&nbsp; **Genre:** Platform, Adventure
 
 > Get ready to freely explore the World Beyond using Copy Abilities in Kirby and the World Beyond, the latest 3D Kirby adventure, coming to Nintendo Switch 2 in spring 2027!
 >
 > _Synopsis source: IGDB_
 
-[IGDB](https://www.igdb.com/games/kirby-and-the-world-beyond)
+[Wikipedia](https://en.wikipedia.org/wiki/Kirby_and_the_World_Beyond) · [IGDB](https://www.igdb.com/games/kirby-and-the-world-beyond)
 
 ---
 
@@ -294,13 +318,13 @@
 
 <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/cobc2z.jpg" alt="Lords of the Fallen II cover" width="200">
 
-**Platforms:** Nintendo Switch 2, Windows, PlayStation 5, Xbox Series X/S &nbsp;|&nbsp; **Developer:** CI Games &nbsp;|&nbsp; **Publisher:** CI Games &nbsp;|&nbsp; **Genre:** Role-playing (RPG), Adventure &nbsp;|&nbsp; **Expected:** March 31, 2027
+**Platforms:** Nintendo Switch 2, PlayStation 5, Windows, Xbox Series X/S &nbsp;|&nbsp; **Developer:** Hexworks &nbsp;|&nbsp; **Publisher:** CI Games &nbsp;|&nbsp; **Genre:** Action role-playing
 
 > Lords of the Fallen 2, the highly anticipated sequel to the game released in 2023, is set to arrive in 2026. The team at Hexworks aims to create a sequel incorporating more commercial elements, particularly in visual design, to attract a broader audience of players.
 >
 > _Synopsis source: IGDB_
 
-[IGDB](https://www.igdb.com/games/lords-of-the-fallen-ii)
+[Wikipedia](https://en.wikipedia.org/wiki/Lords_of_the_Fallen_II) · [IGDB](https://www.igdb.com/games/lords-of-the-fallen-ii)
 
 ---
 
@@ -308,13 +332,13 @@
 
 <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/cobksp.jpg" alt="Mega Man: Dual Override cover" width="200">
 
-**Platforms:** Nintendo Switch, Nintendo Switch 2, Windows, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S &nbsp;|&nbsp; **Developer:** Capcom &nbsp;|&nbsp; **Publisher:** Capcom &nbsp;|&nbsp; **Genre:** Platform &nbsp;|&nbsp; **Expected:** June 30, 2027
+**Platforms:** Nintendo Switch, Nintendo Switch 2, PlayStation 4, PlayStation 5, Windows, Xbox One, Xbox Series X/S &nbsp;|&nbsp; **Developer:** Capcom &nbsp;|&nbsp; **Publisher:** Capcom &nbsp;|&nbsp; **Genre:** Platform
 
 > Mega Man returns in 2027 with a brand-new entry in the classic action platforming series! Override challenges and blast down legions of robots while springboarding across a new array of futuristic frontiers!
 >
 > _Synopsis source: IGDB_
 
-[IGDB](https://www.igdb.com/games/mega-man-dual-override)
+[Wikipedia](https://en.wikipedia.org/wiki/Mega_Man:_Dual_Override) · [IGDB](https://www.igdb.com/games/mega-man-dual-override)
 
 ---
 
@@ -352,17 +376,39 @@
 
 ---
 
+### My Time at Evershine
+
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co997d.jpg" alt="My Time at Evershine cover" width="200">
+
+**Platforms:** Nintendo Switch 2, PlayStation 5, Windows, Xbox Series X/S &nbsp;|&nbsp; **Developer:** Pathea Games &nbsp;|&nbsp; **Publisher:** Pathea Games &nbsp;|&nbsp; **Genre:** Simulation, role-playing
+
+> Be the Governor of a brand-new settlement on the fringes of the Free Cities, facing the almighty Duvos Empire. Recruit settlers, build infrastructure, tame the wilds, and lead your people to become a new cornerstone for the Alliance in this adventure-packed simulation RPG!
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/My_Time_at_Evershine) · [IGDB](https://www.igdb.com/games/my-time-at-evershine)
+
+---
+
+### Onyx: The Dark Grip
+
+**Platforms:** Nintendo Switch 2 &nbsp;|&nbsp; **Developer:** Bloober Team &nbsp;|&nbsp; **Publisher:** Broken Mirror Games &nbsp;|&nbsp; **Genre:** Survival horror
+
+[Wikipedia](https://en.wikipedia.org/wiki/Onyx:_The_Dark_Grip)
+
+---
+
 ### Out of Words
 
 <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co9xhn.jpg" alt="Out of Words cover" width="200">
 
-**Platforms:** Nintendo Switch 2, Windows, PlayStation 5, Xbox Series X/S &nbsp;|&nbsp; **Developer:** Kong Orange &nbsp;|&nbsp; **Publisher:** Epic Games Publishing &nbsp;|&nbsp; **Genre:** Platform, Adventure &nbsp;|&nbsp; **Expected:** March 31, 2027
+**Platforms:** Nintendo Switch 2, PlayStation 5, Windows, Xbox Series X/S &nbsp;|&nbsp; **Developer:** Kong Orange, WiredFly &nbsp;|&nbsp; **Publisher:** Epic Games Publishing &nbsp;|&nbsp; **Genre:** Platform, adventure
 
 > Find your lost voices in a co-op platformer adventure. Together with a friend, via online cross-platform or couch co-op, explore the wild, colorful realm of Vokabulantis as Kurt and Karla in a story about the first time they held hands — where everything you see is crafted by hand.
 >
 > _Synopsis source: IGDB_
 
-[IGDB](https://www.igdb.com/games/out-of-words)
+[Wikipedia](https://en.wikipedia.org/wiki/Out_of_Words) · [IGDB](https://www.igdb.com/games/out-of-words)
 
 ---
 
@@ -394,6 +440,14 @@
 
 ---
 
+### Pokémon Winds and Waves
+
+**Platforms:** Nintendo Switch 2 &nbsp;|&nbsp; **Developer:** Game Freak &nbsp;|&nbsp; **Publisher:** The Pokémon Company, Nintendo &nbsp;|&nbsp; **Genre:** Role-playing
+
+[Wikipedia](https://en.wikipedia.org/wiki/Pok%C3%A9mon_Winds_and_Waves)
+
+---
+
 ### Psikyo Memories
 
 **Platforms:** Nintendo Switch 2, PlayStation 5 &nbsp;|&nbsp; **Developer:** Edia &nbsp;|&nbsp; **Publisher:** Edia &nbsp;|&nbsp; **Genre:** Shoot 'em up &nbsp;|&nbsp; **Released:** February 18
@@ -406,13 +460,13 @@
 
 <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/cocsoe.jpg" alt="Resident Evil Veronica cover" width="200">
 
-**Platforms:** Windows, PlayStation 5, Xbox Series X/S, Nintendo Switch 2 &nbsp;|&nbsp; **Developer:** Capcom Development Division 1 &nbsp;|&nbsp; **Publisher:** Capcom &nbsp;|&nbsp; **Genre:** Shooter, Puzzle, Adventure &nbsp;|&nbsp; **Expected:** 2027 (date TBA)
+**Platforms:** Nintendo Switch 2, PlayStation 5, Windows, Xbox Series X/S &nbsp;|&nbsp; **Developer:** Capcom &nbsp;|&nbsp; **Publisher:** Capcom &nbsp;|&nbsp; **Genre:** Survival horror
 
 > Claire Redfield returns to the forefront in this remake of the title originally released on the Dreamcast in 2000 and the following year on PlayStation 2. This new version preserves the essence of the original game while introducing modernized gameplay, a reimagined storyline, and vividly detailed graphics.
 >
 > _Synopsis source: IGDB_
 
-[IGDB](https://www.igdb.com/games/resident-evil-veronica)
+[Wikipedia](https://en.wikipedia.org/wiki/Resident_Evil_Veronica) · [IGDB](https://www.igdb.com/games/resident-evil-veronica)
 
 ---
 
@@ -436,6 +490,20 @@
 
 ---
 
+### Spine
+
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/cocrsi.jpg" alt="Spine cover" width="200">
+
+**Platforms:** Nintendo Switch 2, PlayStation 5, Windows, Xbox Series X/S &nbsp;|&nbsp; **Developer:** Nekki &nbsp;|&nbsp; **Publisher:** Nekki &nbsp;|&nbsp; **Genre:** Action-adventure, beat 'em up
+
+> Experience Gun Fu like never before with SPINE, an immersive and highly cinematic action game set in a cyberpunk world. Explore the realistic vision of a near-future with a rebellious street artist Redline and her sentient combat implant, Spine, as they challenge a totalitarian AI regime in search of Redline’s captured brother. Participate in epic gunfights against charismatic opponents, while performing spectacular choreography with firearms!
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Spine_(video_game)) · [IGDB](https://www.igdb.com/games/spine)
+
+---
+
 ### Spyder: Agent 8
 
 **Platforms:** Windows, Nintendo Switch, Nintendo Switch 2, PlayStation 5, Xbox Series X/S &nbsp;|&nbsp; **Developer:** Sumo Digital &nbsp;|&nbsp; **Publisher:** PQube &nbsp;|&nbsp; **Genre:** Adventure, Stealth &nbsp;|&nbsp; **Released:** February 11
@@ -446,13 +514,13 @@
 
 <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/coc7e0.jpg" alt="Spyro: A Realm Beyond cover" width="200">
 
-**Platforms:** Windows, Xbox Series X/S, PlayStation 5, Nintendo Switch 2 &nbsp;|&nbsp; **Developer:** Toys for Bob &nbsp;|&nbsp; **Publisher:** Activision &nbsp;|&nbsp; **Genre:** Platform, Adventure &nbsp;|&nbsp; **Expected:** June 30, 2027
+**Platforms:** Nintendo Switch 2, PlayStation 5, Windows, Xbox Series X/S &nbsp;|&nbsp; **Developer:** Toys for Bob &nbsp;|&nbsp; **Publisher:** Activision &nbsp;|&nbsp; **Genre:** Platformer
 
 > Take flight in a brand-new journey through a strange and wondrous realm. When Spyro finds himself stranded, his journey to discover a way home is interrupted by the arrival of a vicious invading force known as the Scavs.
 >
 > _Synopsis source: IGDB_
 
-[IGDB](https://www.igdb.com/games/spyro-a-realm-beyond)
+[Wikipedia](https://en.wikipedia.org/wiki/Spyro:_A_Realm_Beyond) · [IGDB](https://www.igdb.com/games/spyro-a-realm-beyond)
 
 ---
 
@@ -478,17 +546,25 @@
 
 ---
 
+### The Witcher 3: Wild Hunt – Songs of the Past
+
+**Platforms:** Nintendo Switch 2, PlayStation 5, Windows, Xbox Series X/S &nbsp;|&nbsp; **Developer:** CD Projekt Red, Fool's Theory &nbsp;|&nbsp; **Publisher:** CD Projekt &nbsp;|&nbsp; **Genre:** Action role-playing
+
+[Wikipedia](https://en.wikipedia.org/wiki/The_Witcher_3:_Wild_Hunt_%E2%80%93_Songs_of_the_Past)
+
+---
+
 ### The Wolf Among Us 2
 
 <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co4ha1.jpg" alt="The Wolf Among Us 2 cover" width="200">
 
-**Platforms:** Windows, PlayStation 5, Xbox Series X/S, Nintendo Switch, Nintendo Switch 2, Xbox One &nbsp;|&nbsp; **Developer:** Telltale Games &nbsp;|&nbsp; **Publisher:** PM Studios &nbsp;|&nbsp; **Genre:** Point-and-click, Adventure &nbsp;|&nbsp; **Expected:** 2027 (date TBA)
+**Platforms:** Nintendo Switch, Nintendo Switch 2, PlayStation 5, Windows, Xbox One, Xbox Series X/S &nbsp;|&nbsp; **Developer:** Telltale Games, Trick Studios &nbsp;|&nbsp; **Publisher:** Telltale Games, PM Studios &nbsp;|&nbsp; **Genre:** Graphic adventure, Interactive film
 
 > The Wolf Among Us 2 is an episodic graphic adventure game. It is a sequel to The Wolf Among Us and takes place six months following the events of the first game. Follow Bigby Wolf in a new story filled with not-so-colorful characters from famous fairy tales.
 >
 > _Synopsis source: IGDB_
 
-[IGDB](https://www.igdb.com/games/the-wolf-among-us-2)
+[Wikipedia](https://en.wikipedia.org/wiki/The_Wolf_Among_Us_2) · [IGDB](https://www.igdb.com/games/the-wolf-among-us-2)
 
 ---
 
@@ -532,13 +608,13 @@
 
 <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co95g7.jpg" alt="Turok: Origins cover" width="200">
 
-**Platforms:** Nintendo Switch 2, PlayStation 5, Xbox Series X/S, Windows &nbsp;|&nbsp; **Developer:** Saber Interactive &nbsp;|&nbsp; **Publisher:** Saber Interactive &nbsp;|&nbsp; **Genre:** Shooter, Adventure &nbsp;|&nbsp; **Expected:** June 30, 2027
+**Platforms:** Windows, Nintendo Switch 2, PlayStation 5, Xbox Series X/S &nbsp;|&nbsp; **Developer:** Saber Interactive &nbsp;|&nbsp; **Publisher:** Saber Interactive &nbsp;|&nbsp; **Genre:** Action-adventure
 
 > Play as the legendary Turok warriors to face off against ferocious dinosaurs and a terrifying alien threat that seeks to destroy all human life across the galaxy.
 >
 > _Synopsis source: IGDB_
 
-[IGDB](https://www.igdb.com/games/turok-origins)
+[Wikipedia](https://en.wikipedia.org/wiki/Turok:_Origins) · [IGDB](https://www.igdb.com/games/turok-origins)
 
 ---
 
@@ -566,13 +642,13 @@
 
 <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/coc8ai.jpg" alt="Xenoblade Genesis cover" width="200">
 
-**Platforms:** Nintendo Switch 2 &nbsp;|&nbsp; **Developer:** Monolith Soft &nbsp;|&nbsp; **Publisher:** Nintendo &nbsp;|&nbsp; **Genre:** Role-playing (RPG) &nbsp;|&nbsp; **Expected:** 2027 (date TBA)
+**Platforms:** Nintendo Switch 2 &nbsp;|&nbsp; **Genre:** Role-playing (RPG)
 
 > A new beginning for the Xenoblade series is coming to Nintendo Switch 2 in 2027.
 >
 > _Synopsis source: IGDB_
 
-[IGDB](https://www.igdb.com/games/xenoblade-genesis)
+[Wikipedia](https://en.wikipedia.org/wiki/Xenoblade_Genesis) · [IGDB](https://www.igdb.com/games/xenoblade-genesis)
 
 ---
 
@@ -1478,6 +1554,14 @@
 
 ---
 
+### FIFA Heroes
+
+**Platforms:** Android, iOS, Windows, Nintendo Switch, Nintendo Switch 2, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S, Mobile phone &nbsp;|&nbsp; **Developer:** ENVER &nbsp;|&nbsp; **Publisher:** Solace Games &nbsp;|&nbsp; **Genre:** Sports &nbsp;|&nbsp; **Released:** June 24, 2026
+
+[Wikipedia](https://en.wikipedia.org/wiki/FIFA_Heroes)
+
+---
+
 ### Final Fantasy Resonance
 
 <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/coc7q4.jpg" alt="Final Fantasy Resonance cover" width="200">
@@ -1552,6 +1636,14 @@
 
 ---
 
+### Funi Raccoon Game
+
+**Platforms:** Linux, Windows, Nintendo Switch, Nintendo Switch 2 &nbsp;|&nbsp; **Developer:** The Crayon Eating Company &nbsp;|&nbsp; **Publisher:** The Crayon Eating Company &nbsp;|&nbsp; **Genre:** 3D platformer, adventure &nbsp;|&nbsp; **Released:** March 13, 2026
+
+[Wikipedia](https://en.wikipedia.org/wiki/Funi_Raccoon_Game)
+
+---
+
 ### FZ: Formation Z
 
 **Platforms:** Windows, Nintendo Switch 2, PlayStation 5, Xbox Series X/S &nbsp;|&nbsp; **Developer:** Granzella &nbsp;|&nbsp; **Publisher:** City Connection &nbsp;|&nbsp; **Genre:** Shoot 'em up &nbsp;|&nbsp; **Released:** May 21
@@ -1586,13 +1678,13 @@
 
 <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co5doo.jpg" alt="Glaciered cover" width="200">
 
-**Platforms:** Nintendo Switch 2, Windows &nbsp;|&nbsp; **Developer:** Snowblind Studios &nbsp;|&nbsp; **Publisher:** PLAYISM &nbsp;|&nbsp; **Genre:** Adventure, Indie &nbsp;|&nbsp; **Expected:** 2026 (date TBA)
+**Platforms:** Windows, Nintendo Switch 2 &nbsp;|&nbsp; **Developer:** Studio Snowblind &nbsp;|&nbsp; **Publisher:** Playism &nbsp;|&nbsp; **Genre:** Action-adventure
 
 > Glaciered is an action-adventure indie game that takes place on a glacier-covered Earth 65 million years in the future. Play as a Tuai, a species evolved from birds, to soar through the seas and fight against the threats to this new golden age of life.
 >
 > _Synopsis source: IGDB_
 
-[IGDB](https://www.igdb.com/games/glaciered)
+[Wikipedia](https://en.wikipedia.org/wiki/Glaciered) · [IGDB](https://www.igdb.com/games/glaciered)
 
 ---
 
@@ -1650,13 +1742,13 @@
 
 <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/cobyw1.jpg" alt="Golf With Your Friends 2 cover" width="200">
 
-**Platforms:** Windows, Xbox Series X/S, Nintendo Switch 2, PlayStation 5 &nbsp;|&nbsp; **Developer:** Radical Forge, Team17 &nbsp;|&nbsp; **Publisher:** Team17 &nbsp;|&nbsp; **Genre:** Sport, Indie &nbsp;|&nbsp; **Expected:** 2026 (date TBA)
+**Platforms:** Nintendo Switch 2, PlayStation 5, Windows, Xbox Series X/S &nbsp;|&nbsp; **Developer:** Radical Forge &nbsp;|&nbsp; **Publisher:** Team17 &nbsp;|&nbsp; **Genre:** Casual, golf video game
 
 > Tee off in Golf With Your Friends 2! Dive into 12-player chaos, wild new course mechanics, a revamped level editor, and nonstop fun—play together no matter how and where your friends play!
 >
 > _Synopsis source: IGDB_
 
-[IGDB](https://www.igdb.com/games/golf-with-your-friends-2)
+[Wikipedia](https://en.wikipedia.org/wiki/Golf_With_Your_Friends_2) · [IGDB](https://www.igdb.com/games/golf-with-your-friends-2)
 
 ---
 
@@ -1769,6 +1861,14 @@
 > _Synopsis source: IGDB_
 
 [Wikipedia](https://en.wikipedia.org/wiki/High_on_Life_2) · [IGDB](https://www.igdb.com/games/high-on-life-2)
+
+---
+
+### High Times
+
+**Platforms:** Windows, Nintendo Switch, Nintendo Switch 2, PlayStation 5, Xbox Series X/S &nbsp;|&nbsp; **Developer:** Yangyang Mobile &nbsp;|&nbsp; **Publisher:** Yangyang Mobile &nbsp;|&nbsp; **Genre:** Visual novel, dating sim, simulation &nbsp;|&nbsp; **Released:** July 23, 2026
+
+[Wikipedia](https://en.wikipedia.org/wiki/High_Times_(video_game))
 
 ---
 
@@ -1891,6 +1991,14 @@
 **Platforms:** Nintendo Switch 2 &nbsp;|&nbsp; **Developer:** Frontier Developments &nbsp;|&nbsp; **Publisher:** Frontier Developments &nbsp;|&nbsp; **Genre:** CMS &nbsp;|&nbsp; **Released:** July 30
 
 [Wikipedia](https://en.wikipedia.org/wiki/Jurassic_World_Evolution_2)
+
+---
+
+### Just Dance: Decades of Hits
+
+**Platforms:** Nintendo Switch, Nintendo Switch 2, PlayStation 5, Xbox Series X/S &nbsp;|&nbsp; **Developer:** Ubisoft Paris, Ubisoft Pune, Ubisoft Shanghai, Ubisoft Kyiv &nbsp;|&nbsp; **Publisher:** Ubisoft &nbsp;|&nbsp; **Genre:** Rhythm &nbsp;|&nbsp; **Released:** October 13, 2026
+
+[Wikipedia](https://en.wikipedia.org/wiki/Just_Dance:_Decades_of_Hits)
 
 ---
 
@@ -2020,6 +2128,14 @@
 
 ---
 
+### Madden NFL 27
+
+**Platforms:** iOS, macOS, tvOS, visionOS, Nintendo Switch 2, PlayStation 5, Windows, Xbox Series X/S &nbsp;|&nbsp; **Developer:** EA Orlando &nbsp;|&nbsp; **Publisher:** EA Sports &nbsp;|&nbsp; **Genre:** Sports &nbsp;|&nbsp; **Released:** August 4, 2026
+
+[Wikipedia](https://en.wikipedia.org/wiki/Madden_NFL_27)
+
+---
+
 ### Mamon King
 
 **Platforms:** PlayStation 5, Nintendo Switch 2 &nbsp;|&nbsp; **Developer:** LiTMUS &nbsp;|&nbsp; **Publisher:** LiTMUS &nbsp;|&nbsp; **Genre:** Raising sim &nbsp;|&nbsp; **Released:** March 20
@@ -2077,6 +2193,14 @@
 > _Synopsis source: IGDB_
 
 [Wikipedia](https://en.wikipedia.org/wiki/Meccha_Chameleon) · [IGDB](https://www.igdb.com/games/meccha-chameleon--1)
+
+---
+
+### Metal Gear Solid: Master Collection
+
+**Platforms:** PlayStation 4, PlayStation 5, Windows, Xbox Series X/S, Nintendo Switch, Nintendo Switch 2 &nbsp;|&nbsp; **Developer:** Konami, Rocket Studio, M2, Virtuos &nbsp;|&nbsp; **Publisher:** Konami &nbsp;|&nbsp; **Genre:** Action-adventure, stealth &nbsp;|&nbsp; **Released:** August 27, 2026
+
+[Wikipedia](https://en.wikipedia.org/wiki/Metal_Gear_Solid:_Master_Collection)
 
 ---
 
@@ -2551,6 +2675,14 @@
 **Platforms:** Nintendo Switch 2 &nbsp;|&nbsp; **Developer:** Pocket Trap &nbsp;|&nbsp; **Publisher:** PM Studios &nbsp;|&nbsp; **Genre:** Platformer, Adventure &nbsp;|&nbsp; **Released:** August 20
 
 [Wikipedia](https://en.wikipedia.org/wiki/Pipistrello_and_the_Cursed_Yoyo)
+
+---
+
+### Planet of Lana II
+
+**Platforms:** Nintendo Switch, Nintendo Switch 2, PlayStation 4, PlayStation 5, Windows, Xbox One, Xbox Series X/S &nbsp;|&nbsp; **Developer:** Wishfully &nbsp;|&nbsp; **Publisher:** Thunderful Publishing &nbsp;|&nbsp; **Genre:** Puzzle-platform &nbsp;|&nbsp; **Released:** March 5, 2026
+
+[Wikipedia](https://en.wikipedia.org/wiki/Planet_of_Lana_II)
 
 ---
 
@@ -3134,13 +3266,13 @@
 
 <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/cobcv5.jpg" alt="Super Battle Golf cover" width="200">
 
-**Platforms:** Windows, Nintendo Switch 2, PlayStation 5, Xbox Series X/S &nbsp;|&nbsp; **Developer:** Brimstone &nbsp;|&nbsp; **Publisher:** Oro Interactive &nbsp;|&nbsp; **Genre:** Sport, Adventure, Indie &nbsp;|&nbsp; **Released:** February 19, 2026
+**Platforms:** Windows, Nintendo Switch 2, PlayStation 5, Xbox Series X/S &nbsp;|&nbsp; **Developer:** Brimstone &nbsp;|&nbsp; **Publisher:** Oro Interactive &nbsp;|&nbsp; **Genre:** Sports &nbsp;|&nbsp; **Released:** February 19, 2026
 
 > An online 1-8 player golf game where everyone plays at the same time. Swing, shoot, sabotage, and finish first by any means necessary in a free-for-all rush to the hole.
 >
 > _Synopsis source: IGDB_
 
-[IGDB](https://www.igdb.com/games/super-battle-golf)
+[Wikipedia](https://en.wikipedia.org/wiki/Super_Battle_Golf) · [IGDB](https://www.igdb.com/games/super-battle-golf)
 
 ---
 
@@ -3308,13 +3440,13 @@
 
 <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/cocqn8.jpg" alt="The Duskbloods cover" width="200">
 
-**Platforms:** Nintendo Switch 2 &nbsp;|&nbsp; **Developer:** FromSoftware &nbsp;|&nbsp; **Publisher:** FromSoftware, Nintendo &nbsp;|&nbsp; **Expected:** 2026 (date TBA)
+**Platforms:** Nintendo Switch 2 &nbsp;|&nbsp; **Developer:** FromSoftware &nbsp;|&nbsp; **Publisher:** FromSoftware, Nintendo &nbsp;|&nbsp; **Genre:** Action game
 
 > An online multiplayer PvPvE game where players vie for supremacy among themselves and against challenging foes. Play as the "Bloodsworn"; a group that has transcended human strength thanks to their special blood, and throw yourself into a violent fray for "First Blood" as the twilight of humanity approaches. The moontears will flow for one and one alone.
 >
 > _Synopsis source: IGDB_
 
-[IGDB](https://www.igdb.com/games/the-duskbloods)
+[Wikipedia](https://en.wikipedia.org/wiki/The_Duskbloods) · [IGDB](https://www.igdb.com/games/the-duskbloods)
 
 ---
 
@@ -3682,6 +3814,14 @@
 
 ---
 
+### Viractal: Will You Trust Your Party?
+
+**Platforms:** Windows, Nintendo Switch, Nintendo Switch 2 &nbsp;|&nbsp; **Developer:** Sting &nbsp;|&nbsp; **Publisher:** Sting &nbsp;|&nbsp; **Genre:** Digital tabletop, role-playing &nbsp;|&nbsp; **Released:** January 26, 2026
+
+[Wikipedia](https://en.wikipedia.org/wiki/Viractal:_Will_You_Trust_Your_Party%3F)
+
+---
+
 ### Virtua Fighter 5 R.E.V.O. World Stage
 
 **Platforms:** Nintendo Switch 2 &nbsp;|&nbsp; **Developer:** Ryu Ga Gotoku Studio &nbsp;|&nbsp; **Publisher:** Sega &nbsp;|&nbsp; **Genre:** Fighting &nbsp;|&nbsp; **Released:** March 26
@@ -3786,13 +3926,13 @@
 
 <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/cocce4.jpg" alt="Witchbrook cover" width="200">
 
-**Platforms:** Nintendo Switch, Nintendo Switch 2, Windows, Xbox One, Xbox Series X/S &nbsp;|&nbsp; **Developer:** Chucklefish Games &nbsp;|&nbsp; **Publisher:** Chucklefish Games &nbsp;|&nbsp; **Genre:** Role-playing (RPG), Simulator, Indie &nbsp;|&nbsp; **Expected:** 2026 (date TBA)
+**Platforms:** Nintendo Switch, Nintendo Switch 2, Windows, Xbox One, Xbox Series X/S &nbsp;|&nbsp; **Genre:** Role-playing (RPG), Simulator, Indie
 
 > Experience the thrills and pitfalls of school-life in Witchbrook! Discover a spellbinding isometric pixel art world full of charm and intrigue in this richly detailed magical school and town life simulator.
 >
 > _Synopsis source: IGDB_
 
-[IGDB](https://www.igdb.com/games/witchbrook)
+[Wikipedia](https://en.wikipedia.org/wiki/Witchbrook) · [IGDB](https://www.igdb.com/games/witchbrook)
 
 ---
 
@@ -3989,6 +4129,14 @@
 ### Bravely Default: Flying Fairy HD Remaster
 
 **Platforms:** Nintendo Switch 2 &nbsp;|&nbsp; **Developer:** Cattle Call &nbsp;|&nbsp; **Publisher:** Square Enix &nbsp;|&nbsp; **Genre:** RPG &nbsp;|&nbsp; **Type:** Remaster &nbsp;|&nbsp; **Released:** June 5
+
+---
+
+### Cast n Chill
+
+**Platforms:** Windows, macOS, Nintendo Switch 2 &nbsp;|&nbsp; **Developer:** Wombat Brawler &nbsp;|&nbsp; **Genre:** Cozy, Fishing &nbsp;|&nbsp; **Released:** June 16, 2025
+
+[Wikipedia](https://en.wikipedia.org/wiki/Cast_n_Chill)
 
 ---
 
@@ -5061,5 +5209,17 @@
 ### Ys X: Proud Nordics
 
 **Platforms:** Nintendo Switch 2 &nbsp;|&nbsp; **Developer:** Nihon Falcom &nbsp;|&nbsp; **Publisher:** Nihon Falcom &nbsp;|&nbsp; **Genre:** Action RPG &nbsp;|&nbsp; **Released:** July 31 (JP)
+
+---
+
+## 2024
+
+[Full 2024 page](../years/2024.md)
+
+### Maestro
+
+**Platforms:** Meta Quest, Nintendo Switch, Nintendo Switch 2, PICO 4, PlayStation 5, PlayStation VR2 &nbsp;|&nbsp; **Developer:** Double Jack &nbsp;|&nbsp; **Publisher:** Double Jack &nbsp;|&nbsp; **Genre:** Rhythm &nbsp;|&nbsp; **Released:** October 17, 2024
+
+[Wikipedia](https://en.wikipedia.org/wiki/Maestro_(2024_video_game))
 
 ---

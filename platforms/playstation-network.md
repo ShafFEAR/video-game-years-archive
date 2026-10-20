@@ -2,7 +2,7 @@
 
 [← Back to index](../README.md)
 
-294 titles across 9 years in this archive.
+327 titles across 9 years in this archive.
 
 ## 2014
 
@@ -695,6 +695,14 @@
 **Platforms:** Windows, PlayStation Network, Xbox 360 &nbsp;|&nbsp; **Genre:** Action, Brawler &nbsp;|&nbsp; **Released:** April 17
 
 [Wikipedia](https://en.wikipedia.org/wiki/Sacred_Citadel)
+
+---
+
+### Skydive: Proximity Flight
+
+**Platforms:** PlayStation 3, PlayStation Network &nbsp;|&nbsp; **Developer:** Gaijin Entertainment &nbsp;|&nbsp; **Publisher:** Gaijin Entertainment, TopWare Interactive &nbsp;|&nbsp; **Genre:** Sports &nbsp;|&nbsp; **Released:** October 1, 2013
+
+[Wikipedia](https://en.wikipedia.org/wiki/Skydive:_Proximity_Flight)
 
 ---
 
@@ -1610,11 +1618,27 @@
 
 ---
 
+### Crazy Machines Elements
+
+**Platforms:** Windows, PlayStation 3, PlayStation Network, Xbox 360 &nbsp;|&nbsp; **Developer:** Fakt Software &nbsp;|&nbsp; **Publisher:** DTP Entertainment &nbsp;|&nbsp; **Genre:** Puzzle &nbsp;|&nbsp; **Released:** March 25, 2011
+
+[Wikipedia](https://en.wikipedia.org/wiki/Crazy_Machines_Elements)
+
+---
+
 ### Days of Thunder
 
 **Platforms:** PlayStation Network, Xbox 360, PlayStation Portable &nbsp;|&nbsp; **Released:** February 22
 
 [Wikipedia](https://en.wikipedia.org/wiki/Days_of_Thunder_(2011_video_game))
+
+---
+
+### Deadliest Warrior: Legends
+
+**Platforms:** Xbox 360, PlayStation Network, PlayStation 3 &nbsp;|&nbsp; **Developer:** Pipeworks Software &nbsp;|&nbsp; **Publisher:** 345 Games, Spike Games &nbsp;|&nbsp; **Genre:** Fighting &nbsp;|&nbsp; **Released:** July 6, 2011
+
+[Wikipedia](https://en.wikipedia.org/wiki/Deadliest_Warrior:_Legends)
 
 ---
 
@@ -1752,6 +1776,22 @@
 
 ---
 
+### Modern Combat: Domination
+
+**Platforms:** PlayStation 3, PlayStation Network, macOS &nbsp;|&nbsp; **Developer:** Gameloft &nbsp;|&nbsp; **Publisher:** Gameloft &nbsp;|&nbsp; **Genre:** First-person shooter &nbsp;|&nbsp; **Released:** January 18, 2011
+
+[Wikipedia](https://en.wikipedia.org/wiki/Modern_Combat:_Domination)
+
+---
+
+### Moon Diver
+
+**Platforms:** PlayStation Network, Xbox 360 &nbsp;|&nbsp; **Developer:** feelplus &nbsp;|&nbsp; **Publisher:** Square Enix &nbsp;|&nbsp; **Genre:** Side-scroller, platformer &nbsp;|&nbsp; **Released:** March 29, 2011
+
+[Wikipedia](https://en.wikipedia.org/wiki/Moon_Diver)
+
+---
+
 ### Mortal Kombat Arcade Kollection
 
 **Platforms:** PlayStation Network, Xbox 360 &nbsp;|&nbsp; **Released:** August 30
@@ -1802,6 +1842,14 @@
 
 ---
 
+### Red Faction: Battlegrounds
+
+**Platforms:** PlayStation 3, PlayStation Network, Xbox 360 &nbsp;|&nbsp; **Developer:** THQ Digital Studios UK &nbsp;|&nbsp; **Publisher:** THQ &nbsp;|&nbsp; **Genre:** Vehicle simulation, multi-directional shooter &nbsp;|&nbsp; **Released:** April 5, 2011
+
+[Wikipedia](https://en.wikipedia.org/wiki/Red_Faction:_Battlegrounds)
+
+---
+
 ### Rock of Ages
 
 <img src="../images/steam-22230.jpg" alt="Rock of Ages cover" width="200">
@@ -1819,6 +1867,14 @@
 ### Rush'n Attack: Ex-Patriot
 
 **Platforms:** PlayStation Network, Xbox 360 &nbsp;|&nbsp; **Released:** March 29
+
+---
+
+### SkyDrift
+
+**Platforms:** PlayStation 3, PlayStation Network, Windows, Xbox 360 &nbsp;|&nbsp; **Developer:** Digital Reality, THQ Nordic &nbsp;|&nbsp; **Publisher:** Digital Reality, Bandai Namco Partners, HandyGames &nbsp;|&nbsp; **Genre:** Arcade racing &nbsp;|&nbsp; **Released:** September 6, 2011
+
+[Wikipedia](https://en.wikipedia.org/wiki/SkyDrift)
 
 ---
 
@@ -1841,6 +1897,14 @@
 ### Space Channel 5: Part 2
 
 **Platforms:** PlayStation Network &nbsp;|&nbsp; **Released:** October 4
+
+---
+
+### Spare Parts
+
+**Platforms:** PlayStation 3, PlayStation Network, Xbox 360 &nbsp;|&nbsp; **Developer:** EA Bright Light &nbsp;|&nbsp; **Publisher:** Electronic Arts &nbsp;|&nbsp; **Genre:** Platform &nbsp;|&nbsp; **Released:** January 18, 2011
+
+[Wikipedia](https://en.wikipedia.org/wiki/Spare_Parts_(video_game))
 
 ---
 
@@ -1883,6 +1947,14 @@
 ### Wanted Corp
 
 **Platforms:** PlayStation Network &nbsp;|&nbsp; **Released:** December 6
+
+---
+
+### Zombie Apocalypse: Never Die Alone
+
+**Platforms:** PlayStation 3, Xbox 360, PlayStation Network &nbsp;|&nbsp; **Developer:** Backbone Entertainment &nbsp;|&nbsp; **Publisher:** Konami &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** October 25, 2011
+
+[Wikipedia](https://en.wikipedia.org/wiki/Zombie_Apocalypse:_Never_Die_Alone)
 
 ---
 
@@ -2022,6 +2094,22 @@
 
 ---
 
+### Earthworm Jim HD
+
+**Platforms:** Xbox 360, PlayStation 3, PlayStation Network, Windows Phone &nbsp;|&nbsp; **Developer:** Gameloft &nbsp;|&nbsp; **Publisher:** Gameloft &nbsp;|&nbsp; **Genre:** Platform shoot 'em up &nbsp;|&nbsp; **Released:** June 9, 2010
+
+[Wikipedia](https://en.wikipedia.org/wiki/Earthworm_Jim_HD)
+
+---
+
+### Fret Nice
+
+**Platforms:** Xbox 360, PlayStation 3, PlayStation Network &nbsp;|&nbsp; **Developer:** Pieces Interactive AB &nbsp;|&nbsp; **Publisher:** Tecmo &nbsp;|&nbsp; **Genre:** Platform game, Music video game &nbsp;|&nbsp; **Released:** February 4, 2010
+
+[Wikipedia](https://en.wikipedia.org/wiki/Fret_Nice)
+
+---
+
 ### Greed Corp
 
 <img src="../images/steam-48950.jpg" alt="Greed Corp cover" width="200">
@@ -2048,6 +2136,14 @@
 
 ---
 
+### Kung-Fu Live
+
+**Platforms:** PlayStation 3, PlayStation Network &nbsp;|&nbsp; **Developer:** Virtual Air Guitar &nbsp;|&nbsp; **Publisher:** Virtual Air Guitar &nbsp;|&nbsp; **Genre:** Action, Fighting &nbsp;|&nbsp; **Released:** December 7, 2010
+
+[Wikipedia](https://en.wikipedia.org/wiki/Kung-Fu_Live)
+
+---
+
 ### Lara Croft and the Guardian of Light
 
 <img src="../images/steam-35130.jpg" alt="Lara Croft and the Guardian of Light cover" width="200">
@@ -2070,6 +2166,14 @@
 
 ---
 
+### Marvel Pinball
+
+**Platforms:** Xbox 360, PlayStation 3, PlayStation Network, Nintendo 3DS, macOS &nbsp;|&nbsp; **Developer:** Zen Studios &nbsp;|&nbsp; **Publisher:** Microsoft Studios, Sony Computer Entertainment, Zen Studios &nbsp;|&nbsp; **Genre:** Pinball &nbsp;|&nbsp; **Released:** December 8, 2010
+
+[Wikipedia](https://en.wikipedia.org/wiki/Marvel_Pinball)
+
+---
+
 ### Matt Hazard: Blood Bath and Beyond
 
 **Platforms:** Xbox 360, PlayStation Network &nbsp;|&nbsp; **Genre:** Shoot 'em up &nbsp;|&nbsp; **Released:** January 6
@@ -2081,6 +2185,14 @@
 **Platforms:** Wii, PlayStation Network, Xbox 360 &nbsp;|&nbsp; **Released:** March 1
 
 [Wikipedia](https://en.wikipedia.org/wiki/Mega_Man_10)
+
+---
+
+### My Aquarium
+
+**Platforms:** Wii, PlayStation 3, PlayStation Network &nbsp;|&nbsp; **Developer:** Hudson Soft &nbsp;|&nbsp; **Genre:** Virtual pet simulation &nbsp;|&nbsp; **Released:** August 3, 2010
+
+[Wikipedia](https://en.wikipedia.org/wiki/My_Aquarium)
 
 ---
 
@@ -2105,6 +2217,22 @@
 **Platforms:** PlayStation Network &nbsp;|&nbsp; **Released:** June 1
 
 [Wikipedia](https://en.wikipedia.org/wiki/Planet_Minigolf)
+
+---
+
+### Puzzle Agent
+
+**Platforms:** Windows, macOS, iOS, PlayStation Network &nbsp;|&nbsp; **Developer:** Telltale Games &nbsp;|&nbsp; **Publisher:** Telltale Games &nbsp;|&nbsp; **Genre:** Adventure, puzzle &nbsp;|&nbsp; **Released:** June 30, 2010
+
+[Wikipedia](https://en.wikipedia.org/wiki/Puzzle_Agent)
+
+---
+
+### Risk: Factions
+
+**Platforms:** Xbox 360, PlayStation 3, PlayStation Network, Windows, Steam, Facebook &nbsp;|&nbsp; **Developer:** Stainless Games &nbsp;|&nbsp; **Publisher:** Electronic Arts &nbsp;|&nbsp; **Genre:** Strategy &nbsp;|&nbsp; **Released:** June 23, 2010
+
+[Wikipedia](https://en.wikipedia.org/wiki/Risk:_Factions)
 
 ---
 
@@ -2149,6 +2277,14 @@
 **Platforms:** PlayStation Network &nbsp;|&nbsp; **Released:** December 21
 
 [Wikipedia](https://en.wikipedia.org/wiki/Top_Darts)
+
+---
+
+### Voodoo Dice
+
+**Platforms:** iOS, PlayStation 3, PlayStation Portable, PlayStation Network, Wii, Windows, Xbox 360 &nbsp;|&nbsp; **Developer:** Exkee &nbsp;|&nbsp; **Publisher:** Ubisoft &nbsp;|&nbsp; **Genre:** Action, puzzle &nbsp;|&nbsp; **Released:** May 26, 2010
+
+[Wikipedia](https://en.wikipedia.org/wiki/Voodoo_Dice)
 
 ---
 
@@ -2226,11 +2362,27 @@
 
 ---
 
+### Comet Crash
+
+**Platforms:** PlayStation 3, PlayStation Network &nbsp;|&nbsp; **Developer:** Pelfast &nbsp;|&nbsp; **Publisher:** Pelfast &nbsp;|&nbsp; **Genre:** Tower defense &nbsp;|&nbsp; **Released:** April 2, 2009
+
+[Wikipedia](https://en.wikipedia.org/wiki/Comet_Crash)
+
+---
+
 ### Cuboid
 
 **Platforms:** PlayStation Network &nbsp;|&nbsp; **Released:** January 8
 
 [Wikipedia](https://en.wikipedia.org/wiki/Cuboid_(video_game))
+
+---
+
+### Droplitz
+
+**Platforms:** Xbox 360, PlayStation 3, Windows, iOS, PlayStation Network &nbsp;|&nbsp; **Developer:** Blitz Arcade &nbsp;|&nbsp; **Publisher:** Atlus USA &nbsp;|&nbsp; **Genre:** Puzzle &nbsp;|&nbsp; **Released:** June 24, 2009
+
+[Wikipedia](https://en.wikipedia.org/wiki/Droplitz)
 
 ---
 
@@ -2278,6 +2430,14 @@
 
 ---
 
+### Ion Assault
+
+**Platforms:** Xbox 360, Windows, PlayStation Network &nbsp;|&nbsp; **Developer:** Coreplay &nbsp;|&nbsp; **Publisher:** Black Inc., BitComposer Games &nbsp;|&nbsp; **Genre:** Multidirectional shooter &nbsp;|&nbsp; **Released:** September 23, 2009
+
+[Wikipedia](https://en.wikipedia.org/wiki/Ion_Assault)
+
+---
+
 ### Madden NFL Arcade
 
 **Platforms:** PlayStation Network, Xbox 360 &nbsp;|&nbsp; **Released:** November 24
@@ -2286,9 +2446,33 @@
 
 ---
 
+### Magic Orbz
+
+**Platforms:** PlayStation 3, PlayStation Network &nbsp;|&nbsp; **Developer:** Creat Studios, HeroCraft &nbsp;|&nbsp; **Publisher:** Creat Studios & TikGames, HeroCraft &nbsp;|&nbsp; **Genre:** Breakout clone &nbsp;|&nbsp; **Released:** January 15, 2009
+
+[Wikipedia](https://en.wikipedia.org/wiki/Magic_Orbz)
+
+---
+
+### Magic: The Gathering – Duels of the Planeswalkers
+
+**Platforms:** Xbox 360, PlayStation Network &nbsp;|&nbsp; **Developer:** Stainless Games &nbsp;|&nbsp; **Publisher:** Wizards of the Coast &nbsp;|&nbsp; **Genre:** Digital collectible card game &nbsp;|&nbsp; **Released:** June 17, 2009
+
+[Wikipedia](https://en.wikipedia.org/wiki/Magic:_The_Gathering_%E2%80%93_Duels_of_the_Planeswalkers)
+
+---
+
 ### Marvel vs. Capcom 2: New Age of Heroes
 
 **Platforms:** Xbox 360, PlayStation Network &nbsp;|&nbsp; **Released:** July 29
+
+---
+
+### Military Madness: Nectaris
+
+**Platforms:** Xbox 360, PlayStation Network &nbsp;|&nbsp; **Developer:** Backbone Entertainment &nbsp;|&nbsp; **Publisher:** Hudson Soft &nbsp;|&nbsp; **Genre:** Turn-based strategy &nbsp;|&nbsp; **Released:** September 30, 2009
+
+[Wikipedia](https://en.wikipedia.org/wiki/Military_Madness:_Nectaris)
 
 ---
 
@@ -2396,6 +2580,22 @@
 
 ---
 
+### Zombie Apocalypse
+
+**Platforms:** PlayStation 3, Xbox 360, PlayStation Network &nbsp;|&nbsp; **Developer:** Nihilistic Software &nbsp;|&nbsp; **Publisher:** Konami &nbsp;|&nbsp; **Genre:** Shoot 'em up &nbsp;|&nbsp; **Released:** September 23, 2009
+
+[Wikipedia](https://en.wikipedia.org/wiki/Zombie_Apocalypse_(video_game))
+
+---
+
+### Zuma's Revenge!
+
+**Platforms:** Windows, Xbox 360, Windows Phone, macOS, Nintendo DS, iOS, PlayStation Network &nbsp;|&nbsp; **Developer:** PopCap Games &nbsp;|&nbsp; **Publisher:** PopCap Games, Electronic Arts &nbsp;|&nbsp; **Genre:** Puzzle &nbsp;|&nbsp; **Released:** September 15, 2009
+
+[Wikipedia](https://en.wikipedia.org/wiki/Zuma's_Revenge!)
+
+---
+
 ## 2008
 
 [Full 2008 page](../years/2008.md)
@@ -2428,6 +2628,14 @@
 
 ---
 
+### Death Track: Resurrection
+
+**Platforms:** Windows, Steam, PlayStation 3, PlayStation Network &nbsp;|&nbsp; **Developer:** SkyFallen Entertainment &nbsp;|&nbsp; **Publisher:** 1C Company, 505 Games, Aspyr Media &nbsp;|&nbsp; **Genre:** Racing, vehicular combat &nbsp;|&nbsp; **Released:** February 22, 2008
+
+[Wikipedia](https://en.wikipedia.org/wiki/Death_Track:_Resurrection)
+
+---
+
 ### Echochrome
 
 **Platforms:** PlayStation Network, PlayStation Portable &nbsp;|&nbsp; **Released:** May 1
@@ -2449,6 +2657,22 @@
 **Platforms:** Wii, PlayStation Network, Xbox 360 &nbsp;|&nbsp; **Released:** September 22
 
 [Wikipedia](https://en.wikipedia.org/wiki/Mega_Man_9)
+
+---
+
+### PachiPara DL Hyper Sea Story In Karibu
+
+**Platforms:** PlayStation 3, PlayStation Network &nbsp;|&nbsp; **Developer:** Sanyo Bussan &nbsp;|&nbsp; **Publisher:** Irem &nbsp;|&nbsp; **Genre:** Casino &nbsp;|&nbsp; **Released:** July 2, 2008
+
+[Wikipedia](https://en.wikipedia.org/wiki/PachiPara_DL_Hyper_Sea_Story_In_Karibu)
+
+---
+
+### Peggle Nights
+
+**Platforms:** Windows, PlayStation Network, iOS &nbsp;|&nbsp; **Developer:** PopCap Games &nbsp;|&nbsp; **Publisher:** PopCap Games &nbsp;|&nbsp; **Genre:** Puzzle &nbsp;|&nbsp; **Released:** September 16, 2008
+
+[Wikipedia](https://en.wikipedia.org/wiki/Peggle_Nights)
 
 ---
 
@@ -2476,6 +2700,14 @@
 
 ---
 
+### Puzzlegeddon
+
+**Platforms:** Windows, Xbox 360, PlayStation Network &nbsp;|&nbsp; **Developer:** Pieces Interactive &nbsp;|&nbsp; **Publisher:** Tecmo &nbsp;|&nbsp; **Genre:** Puzzle, Strategy &nbsp;|&nbsp; **Released:** November 27, 2008
+
+[Wikipedia](https://en.wikipedia.org/wiki/Puzzlegeddon)
+
+---
+
 ### Rayman
 
 **Platforms:** PlayStation Network &nbsp;|&nbsp; **Released:** July 17
@@ -2490,9 +2722,25 @@
 
 ---
 
+### Sega Rally 3
+
+**Platforms:** Arcade, PlayStation 3, PlayStation Network, Xbox 360 &nbsp;|&nbsp; **Developer:** Sega Racing Studio, Sumo Digital &nbsp;|&nbsp; **Publisher:** Sega Amusements International &nbsp;|&nbsp; **Genre:** Racing game &nbsp;|&nbsp; **Released:** June 2008
+
+[Wikipedia](https://en.wikipedia.org/wiki/Sega_Rally_3)
+
+---
+
 ### Söldner-X: Himmelsstürmer
 
 **Platforms:** PlayStation Network &nbsp;|&nbsp; **Released:** December 4
+
+---
+
+### TV Show King
+
+**Platforms:** Wii, iOS, PlayStation 3, PlayStation Network &nbsp;|&nbsp; **Developer:** Gameloft Montreal &nbsp;|&nbsp; **Publisher:** Gameloft &nbsp;|&nbsp; **Genre:** Quiz &nbsp;|&nbsp; **Released:** May 12, 2008
+
+[Wikipedia](https://en.wikipedia.org/wiki/TV_Show_King)
 
 ---
 
@@ -2548,6 +2796,14 @@
 
 ---
 
+### Mahjong Tales: Ancient Wisdom
+
+**Platforms:** PlayStation Network, Windows &nbsp;|&nbsp; **Developer:** Creat Studios &nbsp;|&nbsp; **Publisher:** Creat Studios & TikGames, Microsoft Game Studios &nbsp;|&nbsp; **Genre:** Board &nbsp;|&nbsp; **Released:** March 7, 2007
+
+[Wikipedia](https://en.wikipedia.org/wiki/Mahjong_Tales:_Ancient_Wisdom)
+
+---
+
 ### Operation Creature Feature
 
 **Platforms:** PlayStation Network &nbsp;|&nbsp; **Released:** November 20
@@ -2581,5 +2837,13 @@
 **Platforms:** PlayStation Network &nbsp;|&nbsp; **Released:** November 17
 
 [Wikipedia](https://en.wikipedia.org/wiki/Blast_Factor)
+
+---
+
+### Feeding Frenzy 2
+
+**Platforms:** Windows, Xbox 360, PlayStation 3, PlayStation Network &nbsp;|&nbsp; **Developer:** Sprout Games &nbsp;|&nbsp; **Publisher:** PopCap Games &nbsp;|&nbsp; **Genre:** Arcade &nbsp;|&nbsp; **Released:** March 15, 2006
+
+[Wikipedia](https://en.wikipedia.org/wiki/Feeding_Frenzy_2)
 
 ---

@@ -4,20 +4,14 @@
 
 1 titles across 1 years in this archive.
 
-## 2015
+## 2004
 
-[Full 2015 page](../years/2015.md)
+[Full 2004 page](../years/2004.md)
 
-### Keep Talking and Nobody Explodes
+### Vendetta Online
 
-<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/aykvlxlmax2rcvljwkqn.jpg" alt="Keep Talking and Nobody Explodes cover" width="200">
+**Platforms:** Windows, macOS, Linux, Gear VR, Daydream &nbsp;|&nbsp; **Developer:** Guild Software &nbsp;|&nbsp; **Publisher:** Strategy First, Guild Software &nbsp;|&nbsp; **Genre:** Massively multiplayer online role-playing, space trading and combat simulator &nbsp;|&nbsp; **Released:** November 4, 2004
 
-**Platforms:** SteamVR, Windows Mixed Reality, Daydream, macOS, Gear VR, Windows &nbsp;|&nbsp; **Developer:** Steel Crate Games &nbsp;|&nbsp; **Publisher:** Steel Crate Games &nbsp;|&nbsp; **Genre:** Puzzle, Simulator, Indie &nbsp;|&nbsp; **Released:** July 16, 2015
-
-> One player is trapped in a virtual room with a ticking time bomb they must defuse. The other players are the “Experts” who must give the instructions to defuse the bomb by deciphering the information found in the bomb defusal manual. But there’s a catch: the experts can’t see the bomb, so everyone will need to talk it out – fast!
->
-> _Synopsis source: IGDB_
-
-[IGDB](https://www.igdb.com/games/keep-talking-and-nobody-explodes)
+[Wikipedia](https://en.wikipedia.org/wiki/Vendetta_Online)
 
 ---

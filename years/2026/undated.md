@@ -2,7 +2,15 @@
 
 [← All of 2026](../2026.md) · [Back to index](../../README.md)
 
-57 titles.
+82 titles.
+
+### .45 Parabellum Bloodhound
+
+**Platforms:** Windows &nbsp;|&nbsp; **Developer:** Sukeban Games &nbsp;|&nbsp; **Publisher:** Sukeban Games
+
+[Wikipedia](https://en.wikipedia.org/wiki/.45_Parabellum_Bloodhound)
+
+---
 
 ### About Fishing
 
@@ -15,6 +23,12 @@
 > _Synopsis source: IGDB_
 
 [IGDB](https://www.igdb.com/games/about-fishing)
+
+---
+
+### Aerial Knight's DropShot
+
+[Wikipedia](https://en.wikipedia.org/wiki/Aerial_Knight's_DropShot)
 
 ---
 
@@ -106,13 +120,13 @@
 
 <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/cobjws.jpg" alt="Become cover" width="200">
 
-**Platforms:** Windows &nbsp;|&nbsp; **Developer:** Valentin Wirth &nbsp;|&nbsp; **Publisher:** Valentin Wirth &nbsp;|&nbsp; **Genre:** Racing, Adventure, Indie &nbsp;|&nbsp; **Expected:** 2026 (date TBA)
+**Platforms:** Windows &nbsp;|&nbsp; **Developer:** Valentin Wirth &nbsp;|&nbsp; **Publisher:** Valentin Wirth &nbsp;|&nbsp; **Genre:** Adventure, 3D platformer
 
 > Experience life's fantastical journey as one of millions of sperm. Survive the microcosm dangers, wiggle, dash and compete through the human reproductive system and create new life.
 >
 > _Synopsis source: IGDB_
 
-[IGDB](https://www.igdb.com/games/become)
+[Wikipedia](https://en.wikipedia.org/wiki/Become_(video_game)) · [IGDB](https://www.igdb.com/games/become)
 
 ---
 
@@ -158,17 +172,9 @@
 
 ---
 
-### Casualties: Unknown
+### Citizen Vigilante: The Video Game
 
-<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/cocbi7.jpg" alt="Casualties: Unknown cover" width="200">
-
-**Platforms:** Windows &nbsp;|&nbsp; **Developer:** Orsonik's Studio &nbsp;|&nbsp; **Publisher:** Oro Interactive &nbsp;|&nbsp; **Genre:** Simulator, Adventure, Indie &nbsp;|&nbsp; **Expected:** 2026 (date TBA)
-
-> Casualties: Unknown is an unforgiving cave-exploration survival simulator. Your captors have tasked you with retrieving lost cargo on a foreign planet, explore its 5 layers and do your best to survive diverse hostile environments. You are just one of the thousands of test subjects sent to die.
->
-> _Synopsis source: IGDB_
-
-[IGDB](https://www.igdb.com/games/casualties-unknown)
+[Wikipedia](https://en.wikipedia.org/wiki/Citizen_Vigilante:_The_Video_Game)
 
 ---
 
@@ -183,6 +189,18 @@
 > _Synopsis source: IGDB_
 
 [IGDB](https://www.igdb.com/games/compress-space)
+
+---
+
+### Corpse Party II: Darkness Distortion
+
+[Wikipedia](https://en.wikipedia.org/wiki/Corpse_Party_II:_Darkness_Distortion)
+
+---
+
+### Creepshow
+
+[Wikipedia](https://en.wikipedia.org/wiki/Creepshow_(video_game))
 
 ---
 
@@ -242,6 +260,14 @@
 
 ---
 
+### Dreams on a Pillow
+
+**Platforms:** Windows &nbsp;|&nbsp; **Developer:** Rasheed Abueideh &nbsp;|&nbsp; **Publisher:** Rasheed Abueideh &nbsp;|&nbsp; **Genre:** Stealth
+
+[Wikipedia](https://en.wikipedia.org/wiki/Dreams_on_a_Pillow)
+
+---
+
 ### Drownlight
 
 <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/coargk.jpg" alt="Drownlight cover" width="200">
@@ -284,6 +310,24 @@
 
 ---
 
+### Enter the Gungeon 2
+
+[Wikipedia](https://en.wikipedia.org/wiki/Enter_the_Gungeon_2)
+
+---
+
+### Epstein Clicker
+
+[Wikipedia](https://en.wikipedia.org/wiki/Epstein_Clicker)
+
+---
+
+### Fireboy and Watergirl and Friends
+
+[Wikipedia](https://en.wikipedia.org/wiki/Fireboy_and_Watergirl_and_Friends)
+
+---
+
 ### Five Laps at Freddy's
 
 <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co8p3l.jpg" alt="Five Laps at Freddy's cover" width="200">
@@ -298,17 +342,23 @@
 
 ---
 
+### Five Nights at Epstein's
+
+[Wikipedia](https://en.wikipedia.org/wiki/Five_Nights_at_Epstein's)
+
+---
+
 ### Glaciered
 
 <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co5doo.jpg" alt="Glaciered cover" width="200">
 
-**Platforms:** Nintendo Switch 2, Windows &nbsp;|&nbsp; **Developer:** Snowblind Studios &nbsp;|&nbsp; **Publisher:** PLAYISM &nbsp;|&nbsp; **Genre:** Adventure, Indie &nbsp;|&nbsp; **Expected:** 2026 (date TBA)
+**Platforms:** Windows, Nintendo Switch 2 &nbsp;|&nbsp; **Developer:** Studio Snowblind &nbsp;|&nbsp; **Publisher:** Playism &nbsp;|&nbsp; **Genre:** Action-adventure
 
 > Glaciered is an action-adventure indie game that takes place on a glacier-covered Earth 65 million years in the future. Play as a Tuai, a species evolved from birds, to soar through the seas and fight against the threats to this new golden age of life.
 >
 > _Synopsis source: IGDB_
 
-[IGDB](https://www.igdb.com/games/glaciered)
+[Wikipedia](https://en.wikipedia.org/wiki/Glaciered) · [IGDB](https://www.igdb.com/games/glaciered)
 
 ---
 
@@ -316,13 +366,13 @@
 
 <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/cobyw1.jpg" alt="Golf With Your Friends 2 cover" width="200">
 
-**Platforms:** Windows, Xbox Series X/S, Nintendo Switch 2, PlayStation 5 &nbsp;|&nbsp; **Developer:** Radical Forge, Team17 &nbsp;|&nbsp; **Publisher:** Team17 &nbsp;|&nbsp; **Genre:** Sport, Indie &nbsp;|&nbsp; **Expected:** 2026 (date TBA)
+**Platforms:** Nintendo Switch 2, PlayStation 5, Windows, Xbox Series X/S &nbsp;|&nbsp; **Developer:** Radical Forge &nbsp;|&nbsp; **Publisher:** Team17 &nbsp;|&nbsp; **Genre:** Casual, golf video game
 
 > Tee off in Golf With Your Friends 2! Dive into 12-player chaos, wild new course mechanics, a revamped level editor, and nonstop fun—play together no matter how and where your friends play!
 >
 > _Synopsis source: IGDB_
 
-[IGDB](https://www.igdb.com/games/golf-with-your-friends-2)
+[Wikipedia](https://en.wikipedia.org/wiki/Golf_With_Your_Friends_2) · [IGDB](https://www.igdb.com/games/golf-with-your-friends-2)
 
 ---
 
@@ -438,6 +488,12 @@
 
 ---
 
+### Jay and Silent Bob: Chronic Blunt Punch
+
+[Wikipedia](https://en.wikipedia.org/wiki/Jay_and_Silent_Bob:_Chronic_Blunt_Punch)
+
+---
+
 ### Last Moon
 
 <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co8bv9.jpg" alt="Last Moon cover" width="200">
@@ -522,6 +578,28 @@
 
 ---
 
+### Mysplaced
+
+**Platforms:** PlayStation 4, PlayStation 5, Windows, Xbox One, Xbox Series X/S &nbsp;|&nbsp; **Developer:** Clear Sky Games &nbsp;|&nbsp; **Publisher:** Clear Sky Games &nbsp;|&nbsp; **Genre:** Metroidvania
+
+[Wikipedia](https://en.wikipedia.org/wiki/Mysplaced)
+
+---
+
+### Needle In A Haystack Simulator
+
+**Platforms:** Windows &nbsp;|&nbsp; **Developer:** Nas Nakarus &nbsp;|&nbsp; **Publisher:** Nas Nakarus &nbsp;|&nbsp; **Genre:** Simulation
+
+[Wikipedia](https://en.wikipedia.org/wiki/Needle_In_A_Haystack_Simulator)
+
+---
+
+### New Classic ~ The Embodiment of Scarlet Devil
+
+[Wikipedia](https://en.wikipedia.org/wiki/New_Classic_~_The_Embodiment_of_Scarlet_Devil)
+
+---
+
 ### Object Impermanence
 
 <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/cob1li.jpg" alt="Object Impermanence cover" width="200">
@@ -533,6 +611,12 @@
 > _Synopsis source: IGDB_
 
 [IGDB](https://www.igdb.com/games/object-impermanence)
+
+---
+
+### Onegai AiPri
+
+[Wikipedia](https://en.wikipedia.org/wiki/Onegai_AiPri)
 
 ---
 
@@ -606,6 +690,18 @@
 
 ---
 
+### Pool Room Billiard
+
+[Wikipedia](https://en.wikipedia.org/wiki/Pool_Room_Billiard)
+
+---
+
+### Postal 2 Redux
+
+[Wikipedia](https://en.wikipedia.org/wiki/Postal_2_Redux)
+
+---
+
 ### Psycho Dead
 
 <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/cobvt1.jpg" alt="Psycho Dead cover" width="200">
@@ -617,6 +713,20 @@
 > _Synopsis source: IGDB_
 
 [IGDB](https://www.igdb.com/games/psycho-dead)
+
+---
+
+### S&box
+
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/cobzd1.jpg" alt="S&box cover" width="200">
+
+**Platforms:** Windows &nbsp;|&nbsp; **Genre:** Simulator, Sport, Strategy
+
+> S&box is a next-generation sandbox platform that lets players instantly play community-made games while creators build limitless experiences using a powerful modern engine. From rapid prototyping to full multiplayer games, everything lives in one connected ecosystem.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/S&box) · [IGDB](https://www.igdb.com/games/s-and-box)
 
 ---
 
@@ -634,17 +744,33 @@
 
 ---
 
+### Saw: Genesis
+
+**Platforms:** Windows &nbsp;|&nbsp; **Developer:** Broken Mirror Games, Anshar Studios &nbsp;|&nbsp; **Publisher:** Bloober Team &nbsp;|&nbsp; **Genre:** Horror
+
+[Wikipedia](https://en.wikipedia.org/wiki/Saw:_Genesis)
+
+---
+
 ### Showa American Story
 
 <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co4bv1.jpg" alt="Showa American Story cover" width="200">
 
-**Platforms:** Windows, PlayStation 5 &nbsp;|&nbsp; **Developer:** Nekcom &nbsp;|&nbsp; **Publisher:** 2P Games &nbsp;|&nbsp; **Genre:** Role-playing (RPG), Adventure, Indie &nbsp;|&nbsp; **Expected:** 2026 (date TBA)
+**Platforms:** PlayStation 5, Windows &nbsp;|&nbsp; **Developer:** Nekcom &nbsp;|&nbsp; **Publisher:** 4Divinity, 2P Games &nbsp;|&nbsp; **Genre:** Action role-playing
 
 > Showa American Story is a brand new RPG and an enthusiastic love letter to the 80s' pop culture that features a strong taste of B-Movies. Follow Choko's journey of truth and revenge across North America as she grows stronger.
 >
 > _Synopsis source: IGDB_
 
-[IGDB](https://www.igdb.com/games/showa-american-story)
+[Wikipedia](https://en.wikipedia.org/wiki/Showa_American_Story) · [IGDB](https://www.igdb.com/games/showa-american-story)
+
+---
+
+### Skyblivion
+
+**Platforms:** Windows &nbsp;|&nbsp; **Developer:** TES Renewal Project &nbsp;|&nbsp; **Genre:** Action role-playing
+
+[Wikipedia](https://en.wikipedia.org/wiki/Skyblivion)
 
 ---
 
@@ -662,6 +788,20 @@
 
 ---
 
+### Squadron 42
+
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/cod3pg.jpg" alt="Squadron 42 cover" width="200">
+
+**Platforms:** Windows &nbsp;|&nbsp; **Genre:** Shooter, Simulator, Adventure, Indie
+
+> Take the role of a rookie UEE Navy combat pilot in a cinematic single-player epic adventure set in the Star Citizen universe. Battle in the stars and face-to-face as you seamlessly transition between dogfighting and ground combat. Serve aboard a massive Navy capital ship as your custom character interacts and builds relationships with a living, breathing crew. Cutting-edge performance capture brings unprecedented emotion and life to some of your favorite actors. Powered by StarEngine, Squadron 42 pushes gaming graphics and fidelity to the next level.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Squadron_42) · [IGDB](https://www.igdb.com/games/squadron-42)
+
+---
+
 ### Sublustrum
 
 <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/coawh1.jpg" alt="Sublustrum cover" width="200">
@@ -673,6 +813,14 @@
 > _Synopsis source: IGDB_
 
 [IGDB](https://www.igdb.com/games/sublustrum)
+
+---
+
+### Sunkissed City
+
+**Platforms:** Linux, macOS, Windows &nbsp;|&nbsp; **Developer:** Arthur Lee &nbsp;|&nbsp; **Publisher:** Arthur Lee &nbsp;|&nbsp; **Genre:** Farm life sim
+
+[Wikipedia](https://en.wikipedia.org/wiki/Sunkissed_City)
 
 ---
 
@@ -690,17 +838,25 @@
 
 ---
 
-### Tanuki: Pon's Summer
+### TANUKI: Pon's Summer
 
-<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co8uyz.jpg" alt="Tanuki: Pon's Summer cover" width="200">
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co8uyz.jpg" alt="TANUKI: Pon's Summer cover" width="200">
 
-**Platforms:** Windows, Xbox Series X/S, Nintendo Switch &nbsp;|&nbsp; **Developer:** Denkiworks &nbsp;|&nbsp; **Publisher:** Critical Reflex &nbsp;|&nbsp; **Genre:** Simulator, Indie &nbsp;|&nbsp; **Expected:** 2026 (date TBA)
+**Platforms:** Windows, Xbox Series X/S &nbsp;|&nbsp; **Developer:** Denkiworks &nbsp;|&nbsp; **Publisher:** CRITICAL REFLEX &nbsp;|&nbsp; **Genre:** Simulator, Indie
 
 > The Tanuki Festival is just a month away, and the shrine is in disrepair. Follow Pon, a well meaning, if a bit lazy Tanuki with a part-time job at the Post Office, as he works to restore the shrine before summer ends. Deliver packages, make friends, and get the shrine ready for the big festival!
 >
 > _Synopsis source: IGDB_
 
-[IGDB](https://www.igdb.com/games/tanuki-pons-summer)
+[Wikipedia](https://en.wikipedia.org/wiki/TANUKI:_Pon's_Summer) · [IGDB](https://www.igdb.com/games/tanuki-pons-summer)
+
+---
+
+### The Big Catch
+
+**Platforms:** Windows &nbsp;|&nbsp; **Developer:** Filet Group &nbsp;|&nbsp; **Publisher:** Xseed Games &nbsp;|&nbsp; **Genre:** Platformer
+
+[Wikipedia](https://en.wikipedia.org/wiki/The_Big_Catch_(video_game))
 
 ---
 
@@ -722,13 +878,19 @@
 
 <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/cocqn8.jpg" alt="The Duskbloods cover" width="200">
 
-**Platforms:** Nintendo Switch 2 &nbsp;|&nbsp; **Developer:** FromSoftware &nbsp;|&nbsp; **Publisher:** FromSoftware, Nintendo &nbsp;|&nbsp; **Expected:** 2026 (date TBA)
+**Platforms:** Nintendo Switch 2 &nbsp;|&nbsp; **Developer:** FromSoftware &nbsp;|&nbsp; **Publisher:** FromSoftware, Nintendo &nbsp;|&nbsp; **Genre:** Action game
 
 > An online multiplayer PvPvE game where players vie for supremacy among themselves and against challenging foes. Play as the "Bloodsworn"; a group that has transcended human strength thanks to their special blood, and throw yourself into a violent fray for "First Blood" as the twilight of humanity approaches. The moontears will flow for one and one alone.
 >
 > _Synopsis source: IGDB_
 
-[IGDB](https://www.igdb.com/games/the-duskbloods)
+[Wikipedia](https://en.wikipedia.org/wiki/The_Duskbloods) · [IGDB](https://www.igdb.com/games/the-duskbloods)
+
+---
+
+### The Sims 4: Royalty & Legacy
+
+[Wikipedia](https://en.wikipedia.org/wiki/The_Sims_4:_Royalty_&_Legacy)
 
 ---
 
@@ -774,17 +936,33 @@
 
 ---
 
+### Windblown
+
+**Platforms:** Windows &nbsp;|&nbsp; **Developer:** Motion Twin &nbsp;|&nbsp; **Publisher:** Motion Twin, Kepler Ghost &nbsp;|&nbsp; **Genre:** Roguelike
+
+[Wikipedia](https://en.wikipedia.org/wiki/Windblown)
+
+---
+
 ### Witchbrook
 
 <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/cocce4.jpg" alt="Witchbrook cover" width="200">
 
-**Platforms:** Nintendo Switch, Nintendo Switch 2, Windows, Xbox One, Xbox Series X/S &nbsp;|&nbsp; **Developer:** Chucklefish Games &nbsp;|&nbsp; **Publisher:** Chucklefish Games &nbsp;|&nbsp; **Genre:** Role-playing (RPG), Simulator, Indie &nbsp;|&nbsp; **Expected:** 2026 (date TBA)
+**Platforms:** Nintendo Switch, Nintendo Switch 2, Windows, Xbox One, Xbox Series X/S &nbsp;|&nbsp; **Genre:** Role-playing (RPG), Simulator, Indie
 
 > Experience the thrills and pitfalls of school-life in Witchbrook! Discover a spellbinding isometric pixel art world full of charm and intrigue in this richly detailed magical school and town life simulator.
 >
 > _Synopsis source: IGDB_
 
-[IGDB](https://www.igdb.com/games/witchbrook)
+[Wikipedia](https://en.wikipedia.org/wiki/Witchbrook) · [IGDB](https://www.igdb.com/games/witchbrook)
+
+---
+
+### Witchfire
+
+**Platforms:** Windows &nbsp;|&nbsp; **Developer:** The Astronauts &nbsp;|&nbsp; **Publisher:** The Astronauts &nbsp;|&nbsp; **Genre:** First-person shooter
+
+[Wikipedia](https://en.wikipedia.org/wiki/Witchfire)
 
 ---
 

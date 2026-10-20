@@ -2,7 +2,7 @@
 
 [← Back to index](../README.md)
 
-116 titles across 7 years in this archive.
+289 titles across 7 years in this archive.
 
 ## 2002
 
@@ -26,6 +26,14 @@
 
 ---
 
+### Bomberman 64
+
+**Platforms:** Nintendo 64 &nbsp;|&nbsp; **Developer:** Racjin &nbsp;|&nbsp; **Publisher:** Hudson Soft &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** December 20, 2001
+
+[Wikipedia](https://en.wikipedia.org/wiki/Bomberman_64_(2001_video_game))
+
+---
+
 ### Conker's Bad Fur Day
 
 **Platforms:** Nintendo 64 &nbsp;|&nbsp; **Publisher:** Rare &nbsp;|&nbsp; **Released:** March 5, 2001
@@ -42,11 +50,27 @@
 
 ---
 
+### Derby Stallion 64
+
+**Platforms:** Nintendo 64 &nbsp;|&nbsp; **Developer:** Parity Bit &nbsp;|&nbsp; **Publisher:** Media Factory &nbsp;|&nbsp; **Genre:** Simulation &nbsp;|&nbsp; **Released:** August 10, 2001
+
+[Wikipedia](https://en.wikipedia.org/wiki/Derby_Stallion_64)
+
+---
+
 ### Dr. Mario 64
 
 **Platforms:** Nintendo 64 &nbsp;|&nbsp; **Released:** April 8
 
 [Wikipedia](https://en.wikipedia.org/wiki/Dr._Mario_64)
+
+---
+
+### Hamster Monogatari 64
+
+**Platforms:** Nintendo 64 &nbsp;|&nbsp; **Developer:** Culture Brain &nbsp;|&nbsp; **Publisher:** Culture Brain &nbsp;|&nbsp; **Genre:** Life simulation game &nbsp;|&nbsp; **Released:** April 6, 2001
+
+[Wikipedia](https://en.wikipedia.org/wiki/Hamster_Monogatari_64)
 
 ---
 
@@ -88,15 +112,47 @@
 
 ---
 
+### The Powerpuff Girls: Chemical X-Traction
+
+**Platforms:** PlayStation, Nintendo 64 &nbsp;|&nbsp; **Developer:** VIS Entertainment, Asylum Entertainment &nbsp;|&nbsp; **Publisher:** BAM! Entertainment &nbsp;|&nbsp; **Genre:** Fighting &nbsp;|&nbsp; **Released:** November 14, 2001
+
+[Wikipedia](https://en.wikipedia.org/wiki/The_Powerpuff_Girls:_Chemical_X-Traction)
+
+---
+
 ## 2000
 
 [Full 2000 page](../years/2000.md)
+
+### All-Star Baseball 2001
+
+**Platforms:** Nintendo 64, Game Boy Color &nbsp;|&nbsp; **Developer:** High Voltage Software, KnowWonder &nbsp;|&nbsp; **Publisher:** Acclaim Entertainment &nbsp;|&nbsp; **Genre:** Sports game &nbsp;|&nbsp; **Released:** March 30, 2000
+
+[Wikipedia](https://en.wikipedia.org/wiki/All-Star_Baseball_2001)
+
+---
+
+### Army Men: Sarge's Heroes 2
+
+**Platforms:** Nintendo 64, PlayStation, Game Boy Color &nbsp;|&nbsp; **Developer:** The 3DO Company &nbsp;|&nbsp; **Publisher:** The 3DO Company &nbsp;|&nbsp; **Genre:** Third-person shooter &nbsp;|&nbsp; **Released:** September 27, 2000
+
+[Wikipedia](https://en.wikipedia.org/wiki/Army_Men:_Sarge's_Heroes_2)
+
+---
 
 ### Banjo-Tooie
 
 **Platforms:** Nintendo 64 &nbsp;|&nbsp; **Publisher:** Nintendo &nbsp;|&nbsp; **Released:** November 20, 2000
 
 [Wikipedia](https://en.wikipedia.org/wiki/Banjo-Tooie)
+
+---
+
+### Bass Rush: ECOGEAR PowerWorm Championship
+
+**Platforms:** Dreamcast, Nintendo 64 &nbsp;|&nbsp; **Developer:** Visco Corporation &nbsp;|&nbsp; **Publisher:** Visco Corporation &nbsp;|&nbsp; **Genre:** Fishing &nbsp;|&nbsp; **Released:** April 28, 2000
+
+[Wikipedia](https://en.wikipedia.org/wiki/Bass_Rush:_ECOGEAR_PowerWorm_Championship)
 
 ---
 
@@ -120,9 +176,33 @@
 
 ---
 
+### Custom Robo V2
+
+**Platforms:** Nintendo 64 &nbsp;|&nbsp; **Developer:** Noise &nbsp;|&nbsp; **Publisher:** Nintendo &nbsp;|&nbsp; **Genre:** Action role-playing &nbsp;|&nbsp; **Released:** November 10, 2000
+
+[Wikipedia](https://en.wikipedia.org/wiki/Custom_Robo_V2)
+
+---
+
 ### Donald Duck: Goin' Quackers
 
 **Platforms:** Windows, PlayStation, Nintendo 64, PlayStation 2, Dreamcast, Game Boy Color &nbsp;|&nbsp; **Released:** October 19
+
+---
+
+### Duck Dodgers Starring Daffy Duck
+
+**Platforms:** Nintendo 64 &nbsp;|&nbsp; **Developer:** Paradigm Entertainment &nbsp;|&nbsp; **Publisher:** Infogrames &nbsp;|&nbsp; **Genre:** Platform &nbsp;|&nbsp; **Released:** August 15, 2000
+
+[Wikipedia](https://en.wikipedia.org/wiki/Duck_Dodgers_Starring_Daffy_Duck)
+
+---
+
+### ECW Hardcore Revolution
+
+**Platforms:** Game Boy Color, Nintendo 64, PlayStation, Dreamcast &nbsp;|&nbsp; **Developer:** Acclaim Studios Salt Lake City, Crawfish Interactive &nbsp;|&nbsp; **Publisher:** Acclaim Entertainment &nbsp;|&nbsp; **Genre:** Sports &nbsp;|&nbsp; **Released:** February 17, 2000
+
+[Wikipedia](https://en.wikipedia.org/wiki/ECW_Hardcore_Revolution)
 
 ---
 
@@ -131,6 +211,38 @@
 **Platforms:** Nintendo 64 &nbsp;|&nbsp; **Publisher:** Nintendo &nbsp;|&nbsp; **Released:** April 30, 2000
 
 [Wikipedia](https://en.wikipedia.org/wiki/Excitebike_64)
+
+---
+
+### F1 Racing Championship
+
+**Platforms:** Game Boy Color, Nintendo 64, PlayStation &nbsp;|&nbsp; **Developer:** Ubi Soft Shanghai, Ubi Soft Milan &nbsp;|&nbsp; **Publisher:** Video System &nbsp;|&nbsp; **Genre:** Sim racing &nbsp;|&nbsp; **Released:** September 15, 2000
+
+[Wikipedia](https://en.wikipedia.org/wiki/F1_Racing_Championship)
+
+---
+
+### Hercules: The Legendary Journeys
+
+**Platforms:** Nintendo 64 &nbsp;|&nbsp; **Developer:** Player 1 &nbsp;|&nbsp; **Publisher:** Titus Interactive &nbsp;|&nbsp; **Genre:** Action-adventure &nbsp;|&nbsp; **Released:** August 18, 2000
+
+[Wikipedia](https://en.wikipedia.org/wiki/Hercules:_The_Legendary_Journeys_(video_game))
+
+---
+
+### Indy Racing 2000
+
+**Platforms:** Nintendo 64 &nbsp;|&nbsp; **Developer:** Paradigm Entertainment &nbsp;|&nbsp; **Publisher:** Infogrames &nbsp;|&nbsp; **Genre:** Racing &nbsp;|&nbsp; **Released:** June 7, 2000
+
+[Wikipedia](https://en.wikipedia.org/wiki/Indy_Racing_2000)
+
+---
+
+### Jeremy McGrath Supercross 2000
+
+**Platforms:** Nintendo 64, Game Boy Color, PlayStation, Dreamcast &nbsp;|&nbsp; **Developer:** Acclaim Studios Salt Lake City &nbsp;|&nbsp; **Publisher:** Acclaim Entertainment &nbsp;|&nbsp; **Genre:** Racing &nbsp;|&nbsp; **Released:** February 28, 2000
+
+[Wikipedia](https://en.wikipedia.org/wiki/Jeremy_McGrath_Supercross_2000)
 
 ---
 
@@ -172,6 +284,54 @@
 
 ---
 
+### Mickey's Speedway USA
+
+**Platforms:** Nintendo 64 &nbsp;|&nbsp; **Developer:** Rare &nbsp;|&nbsp; **Publisher:** Nintendo &nbsp;|&nbsp; **Genre:** Kart racing &nbsp;|&nbsp; **Released:** November 13, 2000
+
+[Wikipedia](https://en.wikipedia.org/wiki/Mickey's_Speedway_USA)
+
+---
+
+### Midway's Greatest Arcade Hits
+
+**Platforms:** Dreamcast, Nintendo 64 &nbsp;|&nbsp; **Developer:** Digital Eclipse &nbsp;|&nbsp; **Publisher:** Midway &nbsp;|&nbsp; **Genre:** Various &nbsp;|&nbsp; **Released:** June 27, 2000
+
+[Wikipedia](https://en.wikipedia.org/wiki/Midway's_Greatest_Arcade_Hits)
+
+---
+
+### Ms. Pac-Man Maze Madness
+
+**Platforms:** PlayStation, Nintendo 64, Dreamcast &nbsp;|&nbsp; **Developer:** Namco Hometek &nbsp;|&nbsp; **Publisher:** Namco Hometek, Namco, Sony Computer Entertainment, Zoo Digital Publishing &nbsp;|&nbsp; **Genre:** Maze &nbsp;|&nbsp; **Released:** September 13, 2000
+
+[Wikipedia](https://en.wikipedia.org/wiki/Ms._Pac-Man_Maze_Madness)
+
+---
+
+### NBA In The Zone 2000
+
+**Platforms:** Nintendo 64, PlayStation, Game Boy Color &nbsp;|&nbsp; **Developer:** Konami Computer Entertainment Osaka &nbsp;|&nbsp; **Publisher:** Konami &nbsp;|&nbsp; **Genre:** Sports &nbsp;|&nbsp; **Released:** January 27, 2000
+
+[Wikipedia](https://en.wikipedia.org/wiki/NBA_In_The_Zone_2000)
+
+---
+
+### NFL Blitz 2001
+
+**Platforms:** Dreamcast, PlayStation, Nintendo 64, Game Boy Color &nbsp;|&nbsp; **Developer:** Midway Games, Morning Star Multimedia &nbsp;|&nbsp; **Publisher:** Midway &nbsp;|&nbsp; **Genre:** Sports &nbsp;|&nbsp; **Released:** September 12, 2000
+
+[Wikipedia](https://en.wikipedia.org/wiki/NFL_Blitz_2001)
+
+---
+
+### NFL QB Club 2001
+
+**Platforms:** Dreamcast, Nintendo 64 &nbsp;|&nbsp; **Developer:** High Voltage Software &nbsp;|&nbsp; **Publisher:** Acclaim Entertainment &nbsp;|&nbsp; **Genre:** Sports &nbsp;|&nbsp; **Released:** August 24, 2000
+
+[Wikipedia](https://en.wikipedia.org/wiki/NFL_QB_Club_2001)
+
+---
+
 ### Paper Mario
 
 **Platforms:** Nintendo 64 &nbsp;|&nbsp; **Publisher:** Nintendo &nbsp;|&nbsp; **Released:** August 11, 2000
@@ -188,11 +348,51 @@
 
 ---
 
+### Pokémon Puzzle League
+
+**Platforms:** Nintendo 64 &nbsp;|&nbsp; **Developer:** Nintendo Software Technology, Intelligent Systems &nbsp;|&nbsp; **Publisher:** Nintendo &nbsp;|&nbsp; **Genre:** Puzzle &nbsp;|&nbsp; **Released:** September 25, 2000
+
+[Wikipedia](https://en.wikipedia.org/wiki/Pok%C3%A9mon_Puzzle_League)
+
+---
+
 ### Pokémon Stadium
 
 **Platforms:** Nintendo 64 &nbsp;|&nbsp; **Released:** February 29
 
 [Wikipedia](https://en.wikipedia.org/wiki/Pok%C3%A9mon_Stadium)
+
+---
+
+### Polaris SnoCross
+
+**Platforms:** Game Boy Color, PlayStation, Nintendo 64 &nbsp;|&nbsp; **Developer:** Vicarious Visions &nbsp;|&nbsp; **Publisher:** Vatical Entertainment &nbsp;|&nbsp; **Genre:** Racing &nbsp;|&nbsp; **Released:** February 2000
+
+[Wikipedia](https://en.wikipedia.org/wiki/Polaris_SnoCross)
+
+---
+
+### Ready 2 Rumble Boxing: Round 2
+
+**Platforms:** Dreamcast, Nintendo 64, PlayStation, PlayStation 2 &nbsp;|&nbsp; **Developer:** Midway Studios San Diego, Point of View, Crawfish Interactive &nbsp;|&nbsp; **Publisher:** Midway &nbsp;|&nbsp; **Genre:** Sports &nbsp;|&nbsp; **Released:** October 24, 2000
+
+[Wikipedia](https://en.wikipedia.org/wiki/Ready_2_Rumble_Boxing:_Round_2)
+
+---
+
+### Ridge Racer 64
+
+**Platforms:** Nintendo 64 &nbsp;|&nbsp; **Developer:** Nintendo Software Technology &nbsp;|&nbsp; **Publisher:** Nintendo, Namco Hometek &nbsp;|&nbsp; **Genre:** Racing &nbsp;|&nbsp; **Released:** February 14, 2000
+
+[Wikipedia](https://en.wikipedia.org/wiki/Ridge_Racer_64)
+
+---
+
+### Rugrats in Paris: The Movie
+
+**Platforms:** PlayStation, Game Boy Color, Nintendo 64 &nbsp;|&nbsp; **Developer:** Avalanche Software, Software Creations, KnowWonder &nbsp;|&nbsp; **Publisher:** THQ, Mattel Interactive &nbsp;|&nbsp; **Genre:** Action-adventure &nbsp;|&nbsp; **Released:** November 8, 2000
+
+[Wikipedia](https://en.wikipedia.org/wiki/Rugrats_in_Paris:_The_Movie_(video_game))
 
 ---
 
@@ -204,11 +404,43 @@
 
 ---
 
+### Shiren the Wanderer 2: Shiren's Castle and the Oni Invasion
+
+**Platforms:** Nintendo 64 &nbsp;|&nbsp; **Developer:** Chunsoft &nbsp;|&nbsp; **Publisher:** Nintendo &nbsp;|&nbsp; **Genre:** Role-playing, roguelike
+
+[Wikipedia](https://en.wikipedia.org/wiki/Shiren_the_Wanderer_2:_Shiren's_Castle_and_the_Oni_Invasion)
+
+---
+
+### Sin and Punishment
+
+**Platforms:** Nintendo 64 &nbsp;|&nbsp; **Developer:** Treasure, Nintendo R&D1 &nbsp;|&nbsp; **Publisher:** Nintendo &nbsp;|&nbsp; **Genre:** Rail shooter, shooting gallery &nbsp;|&nbsp; **Released:** November 21, 2000
+
+[Wikipedia](https://en.wikipedia.org/wiki/Sin_and_Punishment)
+
+---
+
 ### Spider-Man
 
 **Platforms:** Windows, PlayStation, Game Boy Color, Nintendo 64 &nbsp;|&nbsp; **Released:** September 1
 
 [Wikipedia](https://en.wikipedia.org/wiki/Spider-Man_(2000_video_game))
+
+---
+
+### Stunt Racer 64
+
+**Platforms:** Nintendo 64 &nbsp;|&nbsp; **Developer:** Boss Game Studios &nbsp;|&nbsp; **Publisher:** Midway &nbsp;|&nbsp; **Genre:** Racing &nbsp;|&nbsp; **Released:** October 3, 2000
+
+[Wikipedia](https://en.wikipedia.org/wiki/Stunt_Racer_64)
+
+---
+
+### Taz Express
+
+**Platforms:** Nintendo 64 &nbsp;|&nbsp; **Developer:** Zed Two &nbsp;|&nbsp; **Publisher:** Infogrames &nbsp;|&nbsp; **Genre:** Puzzle, Platformer &nbsp;|&nbsp; **Released:** August 1, 2000
+
+[Wikipedia](https://en.wikipedia.org/wiki/Taz_Express)
 
 ---
 
@@ -226,11 +458,59 @@
 
 ---
 
+### Tigger's Honey Hunt
+
+**Platforms:** PlayStation, Nintendo 64 &nbsp;|&nbsp; **Developer:** Doki Denki Studio &nbsp;|&nbsp; **Publisher:** NewKidCo, Ubi Soft, Disney Interactive &nbsp;|&nbsp; **Genre:** Platform &nbsp;|&nbsp; **Released:** September 27, 2000
+
+[Wikipedia](https://en.wikipedia.org/wiki/Tigger's_Honey_Hunt)
+
+---
+
+### Tom and Jerry in Fists of Furry
+
+**Platforms:** Nintendo 64, Windows &nbsp;|&nbsp; **Developer:** VIS Interactive &nbsp;|&nbsp; **Publisher:** NewKidCo, Ubi Soft &nbsp;|&nbsp; **Genre:** Fighting &nbsp;|&nbsp; **Released:** November 8, 2000
+
+[Wikipedia](https://en.wikipedia.org/wiki/Tom_and_Jerry_in_Fists_of_Furry)
+
+---
+
 ### Tony Hawk's Pro Skater
 
 **Platforms:** Dreamcast, Nintendo 64 &nbsp;|&nbsp; **Publisher:** Crave Entertainment &nbsp;|&nbsp; **Released:** May 22, 2000
 
 [Wikipedia](https://en.wikipedia.org/wiki/Tony_Hawk%27s_Pro_Skater)
+
+---
+
+### Top Gear Hyper Bike
+
+**Platforms:** Nintendo 64 &nbsp;|&nbsp; **Developer:** Snowblind Studios &nbsp;|&nbsp; **Publisher:** Kemco &nbsp;|&nbsp; **Genre:** Racing &nbsp;|&nbsp; **Released:** March 17, 2000
+
+[Wikipedia](https://en.wikipedia.org/wiki/Top_Gear_Hyper_Bike)
+
+---
+
+### Turok 3: Shadow of Oblivion
+
+**Platforms:** Nintendo 64 &nbsp;|&nbsp; **Developer:** Acclaim Studios Austin &nbsp;|&nbsp; **Publisher:** Acclaim Entertainment &nbsp;|&nbsp; **Genre:** First-person shooter &nbsp;|&nbsp; **Released:** August 31, 2000
+
+[Wikipedia](https://en.wikipedia.org/wiki/Turok_3:_Shadow_of_Oblivion)
+
+---
+
+### Virtual Pro Wrestling 2: Ōdō Keishō
+
+**Platforms:** Nintendo 64 &nbsp;|&nbsp; **Developer:** AKI Corporation &nbsp;|&nbsp; **Publisher:** Asmik Ace Entertainment &nbsp;|&nbsp; **Genre:** Wrestling &nbsp;|&nbsp; **Released:** January 28, 2000
+
+[Wikipedia](https://en.wikipedia.org/wiki/Virtual_Pro_Wrestling_2:_%C5%8Cd%C5%8D_Keish%C5%8D)
+
+---
+
+### WCW Backstage Assault
+
+**Platforms:** PlayStation, Nintendo 64 &nbsp;|&nbsp; **Developer:** Kodiak Interactive &nbsp;|&nbsp; **Publisher:** Electronic Arts &nbsp;|&nbsp; **Genre:** Sports &nbsp;|&nbsp; **Released:** November 8, 2000
+
+[Wikipedia](https://en.wikipedia.org/wiki/WCW_Backstage_Assault)
 
 ---
 
@@ -262,9 +542,41 @@
 
 ---
 
+### Armorines: Project S.W.A.R.M.
+
+**Platforms:** Nintendo 64, Game Boy Color &nbsp;|&nbsp; **Developer:** Acclaim Studios London &nbsp;|&nbsp; **Publisher:** Acclaim Entertainment &nbsp;|&nbsp; **Genre:** First-person shooter &nbsp;|&nbsp; **Released:** December 9, 1999
+
+[Wikipedia](https://en.wikipedia.org/wiki/Armorines:_Project_S.W.A.R.M.)
+
+---
+
 ### Army Men: Sarge's Heroes
 
 **Platforms:** Nintendo 64 &nbsp;|&nbsp; **Released:** September 28
+
+---
+
+### Bangai-O
+
+**Platforms:** Nintendo 64, Dreamcast &nbsp;|&nbsp; **Developer:** Treasure &nbsp;|&nbsp; **Publisher:** Entertainment Software Publishing, Swing! Entertainment, Conspiracy Entertainment &nbsp;|&nbsp; **Genre:** Shoot 'em up &nbsp;|&nbsp; **Released:** September 3, 1999
+
+[Wikipedia](https://en.wikipedia.org/wiki/Bangai-O)
+
+---
+
+### Bassmasters 2000
+
+**Platforms:** Nintendo 64 &nbsp;|&nbsp; **Developer:** Mass Media &nbsp;|&nbsp; **Publisher:** THQ &nbsp;|&nbsp; **Genre:** Fishing game &nbsp;|&nbsp; **Released:** December 16, 1999
+
+[Wikipedia](https://en.wikipedia.org/wiki/Bassmasters_2000)
+
+---
+
+### BattleTanx: Global Assault
+
+**Platforms:** Nintendo 64 &nbsp;|&nbsp; **Developer:** The 3DO Company &nbsp;|&nbsp; **Publisher:** The 3DO Company &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** October 12, 1999
+
+[Wikipedia](https://en.wikipedia.org/wiki/BattleTanx:_Global_Assault)
 
 ---
 
@@ -276,11 +588,67 @@
 
 ---
 
+### Castlevania
+
+**Platforms:** Nintendo 64 &nbsp;|&nbsp; **Developer:** Konami Computer Entertainment Kobe &nbsp;|&nbsp; **Publisher:** Konami &nbsp;|&nbsp; **Genre:** Action-adventure, platform &nbsp;|&nbsp; **Released:** January 26, 1999
+
+[Wikipedia](https://en.wikipedia.org/wiki/Castlevania_(1999_video_game))
+
+---
+
+### Castlevania: Legacy of Darkness
+
+**Platforms:** Nintendo 64 &nbsp;|&nbsp; **Developer:** Konami Computer Entertainment Kobe &nbsp;|&nbsp; **Publisher:** Konami &nbsp;|&nbsp; **Genre:** Action-adventure, platform &nbsp;|&nbsp; **Released:** December 8, 1999
+
+[Wikipedia](https://en.wikipedia.org/wiki/Castlevania:_Legacy_of_Darkness)
+
+---
+
+### Custom Robo
+
+**Platforms:** Nintendo 64 &nbsp;|&nbsp; **Developer:** Noise &nbsp;|&nbsp; **Publisher:** Nintendo &nbsp;|&nbsp; **Genre:** Action role-playing &nbsp;|&nbsp; **Released:** December 8, 1999
+
+[Wikipedia](https://en.wikipedia.org/wiki/Custom_Robo_(1999_video_game))
+
+---
+
+### Destruction Derby 64
+
+**Platforms:** Nintendo 64 &nbsp;|&nbsp; **Developer:** Looking Glass Studios &nbsp;|&nbsp; **Publisher:** THQ &nbsp;|&nbsp; **Genre:** Vehicular combat, racing &nbsp;|&nbsp; **Released:** September 30, 1999
+
+[Wikipedia](https://en.wikipedia.org/wiki/Destruction_Derby_64)
+
+---
+
 ### Donkey Kong 64
 
 **Platforms:** Nintendo 64 &nbsp;|&nbsp; **Publisher:** Nintendo &nbsp;|&nbsp; **Released:** November 22, 1999
 
 [Wikipedia](https://en.wikipedia.org/wiki/Donkey_Kong_64)
+
+---
+
+### Duke Nukem: Zero Hour
+
+**Platforms:** Nintendo 64 &nbsp;|&nbsp; **Developer:** Eurocom Entertainment Software &nbsp;|&nbsp; **Publisher:** GT Interactive &nbsp;|&nbsp; **Genre:** Third-person shooter &nbsp;|&nbsp; **Released:** August 31, 1999
+
+[Wikipedia](https://en.wikipedia.org/wiki/Duke_Nukem:_Zero_Hour)
+
+---
+
+### Earthworm Jim 3D
+
+**Platforms:** Nintendo 64, Windows &nbsp;|&nbsp; **Developer:** VIS Interactive &nbsp;|&nbsp; **Publisher:** Rockstar Games, Interplay Entertainment &nbsp;|&nbsp; **Genre:** Platform, action-adventure &nbsp;|&nbsp; **Released:** November 4, 1999
+
+[Wikipedia](https://en.wikipedia.org/wiki/Earthworm_Jim_3D)
+
+---
+
+### F-1 World Grand Prix II
+
+**Platforms:** Nintendo 64 &nbsp;|&nbsp; **Developer:** Paradigm Entertainment, Video System &nbsp;|&nbsp; **Publisher:** Video System &nbsp;|&nbsp; **Genre:** Sim racing &nbsp;|&nbsp; **Released:** July 2, 1999
+
+[Wikipedia](https://en.wikipedia.org/wiki/F-1_World_Grand_Prix_II)
 
 ---
 
@@ -304,6 +672,14 @@
 
 ---
 
+### Goemon Mononoke Sugoroku
+
+**Platforms:** Nintendo 64 &nbsp;|&nbsp; **Developer:** Konami Computer Entertainment Kobe &nbsp;|&nbsp; **Publisher:** Konami &nbsp;|&nbsp; **Genre:** Board game &nbsp;|&nbsp; **Released:** December 25, 1999
+
+[Wikipedia](https://en.wikipedia.org/wiki/Goemon_Mononoke_Sugoroku)
+
+---
+
 ### Harvest Moon 64
 
 **Platforms:** Nintendo 64 &nbsp;|&nbsp; **Released:** December 22
@@ -312,11 +688,83 @@
 
 ---
 
+### Hot Wheels Turbo Racing
+
+**Platforms:** Nintendo 64, PlayStation &nbsp;|&nbsp; **Developer:** Stormfront Studios &nbsp;|&nbsp; **Publisher:** Electronic Arts &nbsp;|&nbsp; **Genre:** Racing &nbsp;|&nbsp; **Released:** August 31, 1999
+
+[Wikipedia](https://en.wikipedia.org/wiki/Hot_Wheels_Turbo_Racing)
+
+---
+
+### Hybrid Heaven
+
+**Platforms:** Nintendo 64 &nbsp;|&nbsp; **Developer:** Konami Computer Entertainment Osaka &nbsp;|&nbsp; **Publisher:** Konami &nbsp;|&nbsp; **Genre:** Action role-playing &nbsp;|&nbsp; **Released:** August 5, 1999
+
+[Wikipedia](https://en.wikipedia.org/wiki/Hybrid_Heaven)
+
+---
+
+### In-Fisherman Bass Hunter 64
+
+**Platforms:** Nintendo 64 &nbsp;|&nbsp; **Developer:** GearHead Entertainment &nbsp;|&nbsp; **Publisher:** Take-Two Interactive &nbsp;|&nbsp; **Genre:** Sports, simulation &nbsp;|&nbsp; **Released:** July 30, 1999
+
+[Wikipedia](https://en.wikipedia.org/wiki/In-Fisherman_Bass_Hunter_64)
+
+---
+
+### International Superstar Soccer 2000
+
+**Platforms:** Nintendo 64 &nbsp;|&nbsp; **Developer:** KCEO &nbsp;|&nbsp; **Publisher:** Konami &nbsp;|&nbsp; **Genre:** Sports &nbsp;|&nbsp; **Released:** July 29, 1999
+
+[Wikipedia](https://en.wikipedia.org/wiki/International_Superstar_Soccer_2000)
+
+---
+
 ### Jet Force Gemini
 
 **Platforms:** Nintendo 64 &nbsp;|&nbsp; **Released:** October 11
 
 [Wikipedia](https://en.wikipedia.org/wiki/Jet_Force_Gemini)
+
+---
+
+### Ken Griffey Jr.'s Slugfest
+
+**Platforms:** Nintendo 64, Game Boy Color &nbsp;|&nbsp; **Developer:** Angel Studios, Software Creations &nbsp;|&nbsp; **Publisher:** Nintendo of America &nbsp;|&nbsp; **Genre:** Sports &nbsp;|&nbsp; **Released:** May 10, 1999
+
+[Wikipedia](https://en.wikipedia.org/wiki/Ken_Griffey_Jr.'s_Slugfest)
+
+---
+
+### Knockout Kings 2000
+
+**Platforms:** Nintendo 64, PlayStation, Game Boy Color &nbsp;|&nbsp; **Developer:** Black Ops Entertainment, Digital Eclipse &nbsp;|&nbsp; **Publisher:** EA Sports &nbsp;|&nbsp; **Genre:** Sports, fighting &nbsp;|&nbsp; **Released:** October 10, 1999
+
+[Wikipedia](https://en.wikipedia.org/wiki/Knockout_Kings_2000)
+
+---
+
+### Last Legion UX
+
+**Platforms:** Nintendo 64 &nbsp;|&nbsp; **Developer:** Yuke's &nbsp;|&nbsp; **Publisher:** Hudson Soft &nbsp;|&nbsp; **Genre:** Fighting, shooting &nbsp;|&nbsp; **Released:** May 28, 1999
+
+[Wikipedia](https://en.wikipedia.org/wiki/Last_Legion_UX)
+
+---
+
+### Lego Racers
+
+**Platforms:** Windows, Nintendo 64, PlayStation &nbsp;|&nbsp; **Developer:** High Voltage Software &nbsp;|&nbsp; **Publisher:** Lego Media &nbsp;|&nbsp; **Genre:** Racing &nbsp;|&nbsp; **Released:** August 23, 1999
+
+[Wikipedia](https://en.wikipedia.org/wiki/Lego_Racers)
+
+---
+
+### Lode Runner 3-D
+
+**Platforms:** Nintendo 64 &nbsp;|&nbsp; **Developer:** Big Bang &nbsp;|&nbsp; **Publisher:** Banpresto, Infogrames &nbsp;|&nbsp; **Genre:** Platform &nbsp;|&nbsp; **Released:** March 30, 1999
+
+[Wikipedia](https://en.wikipedia.org/wiki/Lode_Runner_3-D)
 
 ---
 
@@ -358,6 +806,102 @@
 
 ---
 
+### Michael Owen's WLS 2000
+
+**Platforms:** Nintendo 64 &nbsp;|&nbsp; **Developer:** Silicon Dreams Studio &nbsp;|&nbsp; **Publisher:** THQ, SouthPeak Interactive &nbsp;|&nbsp; **Genre:** Sports &nbsp;|&nbsp; **Released:** September 24, 1999
+
+[Wikipedia](https://en.wikipedia.org/wiki/Michael_Owen's_WLS_2000)
+
+---
+
+### Monopoly
+
+**Platforms:** Nintendo 64 &nbsp;|&nbsp; **Developer:** Mind's Eye Productions &nbsp;|&nbsp; **Publisher:** Hasbro Interactive &nbsp;|&nbsp; **Genre:** Strategy, board game &nbsp;|&nbsp; **Released:** December 18, 1999
+
+[Wikipedia](https://en.wikipedia.org/wiki/Monopoly_(1999_video_game))
+
+---
+
+### NASCAR 2000
+
+**Platforms:** Nintendo 64, PlayStation &nbsp;|&nbsp; **Developer:** Stormfront Studios, Software Creations &nbsp;|&nbsp; **Publisher:** EA Sports &nbsp;|&nbsp; **Genre:** Racing &nbsp;|&nbsp; **Released:** September 13, 1999
+
+[Wikipedia](https://en.wikipedia.org/wiki/NASCAR_2000)
+
+---
+
+### NBA Courtside 2 Featuring Kobe Bryant
+
+**Platforms:** Nintendo 64, Game Boy Color &nbsp;|&nbsp; **Developer:** Left Field Productions &nbsp;|&nbsp; **Publisher:** Nintendo &nbsp;|&nbsp; **Genre:** Sports &nbsp;|&nbsp; **Released:** November 8, 1999
+
+[Wikipedia](https://en.wikipedia.org/wiki/NBA_Courtside_2_Featuring_Kobe_Bryant)
+
+---
+
+### NBA In The Zone '99
+
+**Platforms:** Nintendo 64, PlayStation &nbsp;|&nbsp; **Developer:** Konami Computer Entertainment Osaka &nbsp;|&nbsp; **Publisher:** Konami &nbsp;|&nbsp; **Genre:** Sports &nbsp;|&nbsp; **Released:** April 8, 1999
+
+[Wikipedia](https://en.wikipedia.org/wiki/NBA_In_The_Zone_'99)
+
+---
+
+### NBA Jam 2000
+
+**Platforms:** Nintendo 64 &nbsp;|&nbsp; **Developer:** Acclaim Studios Salt Lake City &nbsp;|&nbsp; **Publisher:** Acclaim Entertainment &nbsp;|&nbsp; **Genre:** Sports &nbsp;|&nbsp; **Released:** November 30, 1999
+
+[Wikipedia](https://en.wikipedia.org/wiki/NBA_Jam_2000)
+
+---
+
+### NBA Showtime: NBA on NBC
+
+**Platforms:** Arcade, PlayStation, Dreamcast, Nintendo 64 &nbsp;|&nbsp; **Developer:** Midway Games, Torus Games &nbsp;|&nbsp; **Publisher:** Midway Games &nbsp;|&nbsp; **Genre:** Sports &nbsp;|&nbsp; **Released:** April 5, 1999
+
+[Wikipedia](https://en.wikipedia.org/wiki/NBA_Showtime:_NBA_on_NBC)
+
+---
+
+### Neon Genesis Evangelion
+
+**Platforms:** Nintendo 64 &nbsp;|&nbsp; **Developer:** BEC &nbsp;|&nbsp; **Publisher:** Bandai &nbsp;|&nbsp; **Genre:** Fighting &nbsp;|&nbsp; **Released:** June 25, 1999
+
+[Wikipedia](https://en.wikipedia.org/wiki/Neon_Genesis_Evangelion_(video_game))
+
+---
+
+### NFL Blitz 2000
+
+**Platforms:** Arcade, PlayStation, Nintendo 64, Dreamcast, Windows, Game Boy Color &nbsp;|&nbsp; **Developer:** Midway Games, Digital Eclipse &nbsp;|&nbsp; **Publisher:** Midway, Infogrames &nbsp;|&nbsp; **Genre:** Sports &nbsp;|&nbsp; **Released:** August 18, 1999
+
+[Wikipedia](https://en.wikipedia.org/wiki/NFL_Blitz_2000)
+
+---
+
+### NFL Quarterback Club 2000
+
+**Platforms:** Nintendo 64, Dreamcast &nbsp;|&nbsp; **Developer:** Acclaim Studios Austin &nbsp;|&nbsp; **Publisher:** Acclaim Entertainment &nbsp;|&nbsp; **Genre:** Sports &nbsp;|&nbsp; **Released:** August 26, 1999
+
+[Wikipedia](https://en.wikipedia.org/wiki/NFL_Quarterback_Club_2000)
+
+---
+
+### NHL Blades of Steel '99
+
+**Platforms:** Nintendo 64, Game Boy Color &nbsp;|&nbsp; **Developer:** Konami Computer Entertainment Osaka, Climax Studios &nbsp;|&nbsp; **Publisher:** Konami &nbsp;|&nbsp; **Genre:** Sports &nbsp;|&nbsp; **Released:** April 5, 1999
+
+[Wikipedia](https://en.wikipedia.org/wiki/NHL_Blades_of_Steel_'99)
+
+---
+
+### Ogre Battle 64
+
+**Platforms:** Nintendo 64 &nbsp;|&nbsp; **Developer:** Quest Corporation &nbsp;|&nbsp; **Publisher:** Nintendo, Atlus &nbsp;|&nbsp; **Genre:** Tactical role-playing, real-time strategy &nbsp;|&nbsp; **Released:** July 14, 1999
+
+[Wikipedia](https://en.wikipedia.org/wiki/Ogre_Battle_64)
+
+---
+
 ### Ogre Battle 64: Person of Lordly Caliber
 
 **Platforms:** Nintendo 64 &nbsp;|&nbsp; **Released:** July 14 (JP)
@@ -377,6 +921,38 @@
 **Platforms:** Nintendo 64 &nbsp;|&nbsp; **Released:** April 30 (JP)
 
 [Wikipedia](https://en.wikipedia.org/wiki/Pok%C3%A9mon_Stadium)
+
+---
+
+### Premier Manager: Ninety Nine
+
+**Platforms:** PlayStation, Windows, Nintendo 64 &nbsp;|&nbsp; **Developer:** Dinamic Multimedia &nbsp;|&nbsp; **Publisher:** Gremlin Interactive &nbsp;|&nbsp; **Genre:** Sports &nbsp;|&nbsp; **Released:** August 1999
+
+[Wikipedia](https://en.wikipedia.org/wiki/Premier_Manager:_Ninety_Nine)
+
+---
+
+### Puyo Puyo~n
+
+**Platforms:** Dreamcast, Nintendo 64, PlayStation &nbsp;|&nbsp; **Developer:** Compile &nbsp;|&nbsp; **Publisher:** Sega, Compile &nbsp;|&nbsp; **Genre:** Puzzle &nbsp;|&nbsp; **Released:** March 4, 1999
+
+[Wikipedia](https://en.wikipedia.org/wiki/Puyo_Puyo~n)
+
+---
+
+### Rally Challenge 2000
+
+**Platforms:** Nintendo 64 &nbsp;|&nbsp; **Developer:** Genki &nbsp;|&nbsp; **Publisher:** SouthPeak Games, Xicat Interactive, Inc. &nbsp;|&nbsp; **Genre:** Racing &nbsp;|&nbsp; **Released:** August 6, 1999
+
+[Wikipedia](https://en.wikipedia.org/wiki/Rally_Challenge_2000)
+
+---
+
+### Rampage 2: Universal Tour
+
+**Platforms:** PlayStation, Nintendo 64, Game Boy Color &nbsp;|&nbsp; **Developer:** Avalanche Software, Digital Eclipse Software &nbsp;|&nbsp; **Publisher:** Midway &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** March 31, 1999
+
+[Wikipedia](https://en.wikipedia.org/wiki/Rampage_2:_Universal_Tour)
 
 ---
 
@@ -400,11 +976,83 @@
 
 ---
 
+### Ready 2 Rumble Boxing
+
+**Platforms:** Dreamcast, PlayStation, Nintendo 64, Game Boy Color &nbsp;|&nbsp; **Developer:** Midway Studios San Diego, Crawfish Interactive &nbsp;|&nbsp; **Publisher:** Midway &nbsp;|&nbsp; **Genre:** Sports &nbsp;|&nbsp; **Released:** September 9, 1999
+
+[Wikipedia](https://en.wikipedia.org/wiki/Ready_2_Rumble_Boxing)
+
+---
+
+### Rev Limit
+
+**Platforms:** Nintendo 64DD, Arcade, Nintendo 64 &nbsp;|&nbsp; **Developer:** SETA Corporation &nbsp;|&nbsp; **Publisher:** SETA Corporation &nbsp;|&nbsp; **Genre:** Racing
+
+[Wikipedia](https://en.wikipedia.org/wiki/Rev_Limit)
+
+---
+
+### Road Rash 64
+
+**Platforms:** Nintendo 64 &nbsp;|&nbsp; **Developer:** Pacific Coast Power and Light &nbsp;|&nbsp; **Publisher:** THQ &nbsp;|&nbsp; **Genre:** Racing &nbsp;|&nbsp; **Released:** September 22, 1999
+
+[Wikipedia](https://en.wikipedia.org/wiki/Road_Rash_64)
+
+---
+
+### Roadsters
+
+**Platforms:** Nintendo 64 &nbsp;|&nbsp; **Developer:** Titus Interactive, Smart Dog, Player 1 &nbsp;|&nbsp; **Publisher:** Titus Interactive &nbsp;|&nbsp; **Genre:** Racing &nbsp;|&nbsp; **Released:** December 14, 1999
+
+[Wikipedia](https://en.wikipedia.org/wiki/Roadsters_(video_game))
+
+---
+
+### Robot Ponkottsu 64: Nanatsu no Umi no Caramel
+
+**Platforms:** Nintendo 64 &nbsp;|&nbsp; **Developer:** Red Company &nbsp;|&nbsp; **Publisher:** Hudson Soft &nbsp;|&nbsp; **Genre:** Role-playing &nbsp;|&nbsp; **Released:** December 24, 1999
+
+[Wikipedia](https://en.wikipedia.org/wiki/Robot_Ponkottsu_64:_Nanatsu_no_Umi_no_Caramel)
+
+---
+
+### Rocket: Robot on Wheels
+
+**Platforms:** Nintendo 64 &nbsp;|&nbsp; **Developer:** Sucker Punch Productions &nbsp;|&nbsp; **Publisher:** Ubi Soft &nbsp;|&nbsp; **Genre:** Platform &nbsp;|&nbsp; **Released:** November 17, 1999
+
+[Wikipedia](https://en.wikipedia.org/wiki/Rocket:_Robot_on_Wheels)
+
+---
+
+### Rugrats: Scavenger Hunt
+
+**Platforms:** Nintendo 64 &nbsp;|&nbsp; **Developer:** Realtime Associates &nbsp;|&nbsp; **Publisher:** THQ &nbsp;|&nbsp; **Genre:** Board game &nbsp;|&nbsp; **Released:** June 28, 1999
+
+[Wikipedia](https://en.wikipedia.org/wiki/Rugrats:_Scavenger_Hunt)
+
+---
+
 ### Shadow Man
 
 **Platforms:** Windows, Dreamcast, Nintendo 64, PlayStation &nbsp;|&nbsp; **Released:** August 31
 
 [Wikipedia](https://en.wikipedia.org/wiki/Shadow_Man_(video_game))
+
+---
+
+### Shadowgate 64: Trials of the Four Towers
+
+**Platforms:** Nintendo 64 &nbsp;|&nbsp; **Developer:** TNS Co., Ltd., Infinite Ventures &nbsp;|&nbsp; **Publisher:** Kemco &nbsp;|&nbsp; **Genre:** Adventure &nbsp;|&nbsp; **Released:** June 9, 1999
+
+[Wikipedia](https://en.wikipedia.org/wiki/Shadowgate_64:_Trials_of_the_Four_Towers)
+
+---
+
+### Snowboard Kids 2
+
+**Platforms:** Nintendo 64 &nbsp;|&nbsp; **Developer:** Racdym &nbsp;|&nbsp; **Publisher:** Atlus &nbsp;|&nbsp; **Genre:** Snowboarding &nbsp;|&nbsp; **Released:** February 19, 1999
+
+[Wikipedia](https://en.wikipedia.org/wiki/Snowboard_Kids_2)
 
 ---
 
@@ -414,11 +1062,35 @@
 
 ---
 
+### Space Invaders
+
+**Platforms:** Nintendo 64, PlayStation, Windows, Game Boy Color &nbsp;|&nbsp; **Developer:** Z-Axis, Crawfish Interactive (Game Boy Color], Torus Games &nbsp;|&nbsp; **Publisher:** Activision &nbsp;|&nbsp; **Genre:** Fixed shooter &nbsp;|&nbsp; **Released:** September 14, 1999
+
+[Wikipedia](https://en.wikipedia.org/wiki/Space_Invaders_(1999_video_game))
+
+---
+
+### Super Robot Wars 64
+
+**Platforms:** Nintendo 64 &nbsp;|&nbsp; **Developer:** AI &nbsp;|&nbsp; **Publisher:** Banpresto &nbsp;|&nbsp; **Genre:** Tactical role-playing &nbsp;|&nbsp; **Released:** October 29, 1999
+
+[Wikipedia](https://en.wikipedia.org/wiki/Super_Robot_Wars_64)
+
+---
+
 ### Super Smash Bros.
 
 **Platforms:** Nintendo 64 &nbsp;|&nbsp; **Released:** January 21
 
 [Wikipedia](https://en.wikipedia.org/wiki/Super_Smash_Bros._(video_game))
+
+---
+
+### Supercross 2000
+
+**Platforms:** PlayStation, Nintendo 64 &nbsp;|&nbsp; **Developer:** MBL Research &nbsp;|&nbsp; **Publisher:** EA Sports &nbsp;|&nbsp; **Genre:** Racing &nbsp;|&nbsp; **Released:** November 11, 1999
+
+[Wikipedia](https://en.wikipedia.org/wiki/Supercross_2000)
 
 ---
 
@@ -438,9 +1110,57 @@
 
 ---
 
+### Tonic Trouble
+
+**Platforms:** Nintendo 64, Windows &nbsp;|&nbsp; **Developer:** Ubi Soft Montreal, RFX Interactive &nbsp;|&nbsp; **Publisher:** Ubi Soft &nbsp;|&nbsp; **Genre:** Action-adventure &nbsp;|&nbsp; **Released:** August 31, 1999
+
+[Wikipedia](https://en.wikipedia.org/wiki/Tonic_Trouble)
+
+---
+
+### Top Gear Rally 2
+
+**Platforms:** Nintendo 64 &nbsp;|&nbsp; **Developer:** Saffire &nbsp;|&nbsp; **Publisher:** Kemco &nbsp;|&nbsp; **Genre:** Racing &nbsp;|&nbsp; **Released:** December 3, 1999
+
+[Wikipedia](https://en.wikipedia.org/wiki/Top_Gear_Rally_2)
+
+---
+
 ### Toy Story 2: Buzz Lightyear to the Rescue
 
 **Platforms:** PlayStation, Nintendo 64 &nbsp;|&nbsp; **Released:** November 16
+
+---
+
+### Transformers: Beast Wars Transmetals
+
+**Platforms:** Nintendo 64, PlayStation &nbsp;|&nbsp; **Developer:** Locomotive, WAVEDGE &nbsp;|&nbsp; **Publisher:** Takara, Bay Area Multimedia &nbsp;|&nbsp; **Genre:** Fighting &nbsp;|&nbsp; **Released:** October 2, 1999
+
+[Wikipedia](https://en.wikipedia.org/wiki/Transformers:_Beast_Wars_Transmetals)
+
+---
+
+### Triple Play 2000
+
+**Platforms:** PlayStation, Nintendo 64, Windows &nbsp;|&nbsp; **Developer:** EA Canada &nbsp;|&nbsp; **Publisher:** EA Sports &nbsp;|&nbsp; **Genre:** Sports &nbsp;|&nbsp; **Released:** March 24, 1999
+
+[Wikipedia](https://en.wikipedia.org/wiki/Triple_Play_2000)
+
+---
+
+### Turok: Rage Wars
+
+**Platforms:** Nintendo 64 &nbsp;|&nbsp; **Developer:** Acclaim Studios Austin &nbsp;|&nbsp; **Publisher:** Acclaim Entertainment &nbsp;|&nbsp; **Genre:** First-person shooter &nbsp;|&nbsp; **Released:** November 23, 1999
+
+[Wikipedia](https://en.wikipedia.org/wiki/Turok:_Rage_Wars)
+
+---
+
+### WCW Mayhem
+
+**Platforms:** Nintendo 64, PlayStation &nbsp;|&nbsp; **Developer:** Kodiak Interactive, 2n Productions &nbsp;|&nbsp; **Publisher:** Electronic Arts &nbsp;|&nbsp; **Genre:** Sports &nbsp;|&nbsp; **Released:** September 23, 1999
+
+[Wikipedia](https://en.wikipedia.org/wiki/WCW_Mayhem_(video_game))
 
 ---
 
@@ -455,6 +1175,46 @@
 > _Synopsis source: IGDB_
 
 [Wikipedia](https://en.wikipedia.org/wiki/WCW_Nitro_(video_game)) · [IGDB](https://www.igdb.com/games/wcw-nitro)
+
+---
+
+### WinBack
+
+**Platforms:** Nintendo 64 &nbsp;|&nbsp; **Developer:** Omega Force &nbsp;|&nbsp; **Publisher:** Koei, Virgin Interactive Entertainment, Midas Interactive Entertainment &nbsp;|&nbsp; **Genre:** Third-person shooter &nbsp;|&nbsp; **Released:** September 23, 1999
+
+[Wikipedia](https://en.wikipedia.org/wiki/WinBack)
+
+---
+
+### World Driver Championship
+
+**Platforms:** Nintendo 64 &nbsp;|&nbsp; **Developer:** Boss Game Studios &nbsp;|&nbsp; **Publisher:** Midway &nbsp;|&nbsp; **Genre:** Racing game &nbsp;|&nbsp; **Released:** June 15, 1999
+
+[Wikipedia](https://en.wikipedia.org/wiki/World_Driver_Championship)
+
+---
+
+### WWF Attitude
+
+**Platforms:** Game Boy Color, Nintendo 64, PlayStation, Dreamcast &nbsp;|&nbsp; **Developer:** Acclaim Studios Salt Lake City, Crawfish Interactive &nbsp;|&nbsp; **Publisher:** Acclaim Entertainment &nbsp;|&nbsp; **Genre:** Sports &nbsp;|&nbsp; **Released:** May 24, 1999
+
+[Wikipedia](https://en.wikipedia.org/wiki/WWF_Attitude)
+
+---
+
+### WWF WrestleMania 2000
+
+**Platforms:** Nintendo 64, Game Boy Color &nbsp;|&nbsp; **Developer:** AKI Corporation, Natsume Co., Ltd. &nbsp;|&nbsp; **Publisher:** THQ, Asmik Ace &nbsp;|&nbsp; **Genre:** Fighting &nbsp;|&nbsp; **Released:** November 18, 1999
+
+[Wikipedia](https://en.wikipedia.org/wiki/WWF_WrestleMania_2000_(video_game))
+
+---
+
+### Xena: Warrior Princess: The Talisman of Fate
+
+**Platforms:** Nintendo 64 &nbsp;|&nbsp; **Developer:** Saffire &nbsp;|&nbsp; **Publisher:** Titus Interactive &nbsp;|&nbsp; **Genre:** Fighting &nbsp;|&nbsp; **Released:** December 6, 1999
+
+[Wikipedia](https://en.wikipedia.org/wiki/Xena:_Warrior_Princess:_The_Talisman_of_Fate)
 
 ---
 
@@ -476,6 +1236,30 @@
 
 ---
 
+### Air Boarder 64
+
+**Platforms:** Nintendo 64 &nbsp;|&nbsp; **Developer:** Human Entertainment &nbsp;|&nbsp; **Publisher:** Human Entertainment, Gaga Interactive Media &nbsp;|&nbsp; **Genre:** Racing &nbsp;|&nbsp; **Released:** March 27, 1998
+
+[Wikipedia](https://en.wikipedia.org/wiki/Air_Boarder_64)
+
+---
+
+### All-Star Baseball 99
+
+**Platforms:** Game Boy, Nintendo 64 &nbsp;|&nbsp; **Developer:** Iguana Entertainment, Realtime Associates Seattle Division &nbsp;|&nbsp; **Publisher:** Acclaim Entertainment &nbsp;|&nbsp; **Genre:** Sports game &nbsp;|&nbsp; **Released:** May 27, 1998
+
+[Wikipedia](https://en.wikipedia.org/wiki/All-Star_Baseball_99)
+
+---
+
+### Bakushō Jinsei 64: Mezase! Resort Ō
+
+**Platforms:** Nintendo 64 &nbsp;|&nbsp; **Developer:** Taito &nbsp;|&nbsp; **Publisher:** Taito &nbsp;|&nbsp; **Genre:** Board game &nbsp;|&nbsp; **Released:** December 24, 1998
+
+[Wikipedia](https://en.wikipedia.org/wiki/Bakush%C5%8D_Jinsei_64:_Mezase!_Resort_%C5%8C)
+
+---
+
 ### Banjo-Kazooie
 
 <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/cobbr5.jpg" alt="Banjo-Kazooie cover" width="200">
@@ -490,17 +1274,33 @@
 
 ---
 
+### BattleTanx
+
+**Platforms:** Nintendo 64 &nbsp;|&nbsp; **Developer:** The 3DO Company, Lucky Chicken Games &nbsp;|&nbsp; **Publisher:** The 3DO Company &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** December 29, 1998
+
+[Wikipedia](https://en.wikipedia.org/wiki/BattleTanx)
+
+---
+
+### Big Mountain 2000
+
+**Platforms:** Nintendo 64 &nbsp;|&nbsp; **Developer:** Imagineer &nbsp;|&nbsp; **Publisher:** Imagineer, SouthPeak Interactive &nbsp;|&nbsp; **Genre:** Skiing/snowboarding &nbsp;|&nbsp; **Released:** December 26, 1998
+
+[Wikipedia](https://en.wikipedia.org/wiki/Big_Mountain_2000)
+
+---
+
 ### Bio F.R.E.A.K.S.
 
 <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2l9k.jpg" alt="Bio F.R.E.A.K.S. cover" width="200">
 
-**Platforms:** Nintendo 64, Windows, PlayStation &nbsp;|&nbsp; **Developer:** Saffire &nbsp;|&nbsp; **Publisher:** Midway Games, Gradiente &nbsp;|&nbsp; **Genre:** Fighting &nbsp;|&nbsp; **Released:** May 19, 1998
+**Platforms:** PlayStation, Nintendo 64, Windows &nbsp;|&nbsp; **Developer:** Midway Studios San Diego &nbsp;|&nbsp; **Publisher:** Midway, GT Interactive &nbsp;|&nbsp; **Genre:** Fighting &nbsp;|&nbsp; **Released:** May 19, 1998
 
 > Bio F.R.E.A.K.S. is a 3D fighting game released by Midway in 1998. It was originally planned for arcades. However, this arcade prototype was scrapped and never officially released (although it exists on MAME), and the game was later released for the PlayStation, Nintendo 64 and PC.
 >
 > _Synopsis source: IGDB_
 
-[IGDB](https://www.igdb.com/games/bio-f-r-e-a-k-s)
+[Wikipedia](https://en.wikipedia.org/wiki/Bio_F.R.E.A.K.S.) · [IGDB](https://www.igdb.com/games/bio-f-r-e-a-k-s)
 
 ---
 
@@ -508,13 +1308,13 @@
 
 <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co5j8e.jpg" alt="Body Harvest cover" width="200">
 
-**Platforms:** Nintendo 64 &nbsp;|&nbsp; **Developer:** DMA Design &nbsp;|&nbsp; **Publisher:** Midway Home Entertainment, Gremlin Interactive, Gradiente &nbsp;|&nbsp; **Genre:** Shooter, Adventure &nbsp;|&nbsp; **Released:** September 30, 1998
+**Platforms:** Nintendo 64 &nbsp;|&nbsp; **Developer:** DMA Design &nbsp;|&nbsp; **Publisher:** Midway Games, Gremlin Interactive &nbsp;|&nbsp; **Genre:** Action-adventure, third-person shooter &nbsp;|&nbsp; **Released:** October 20, 1998
 
 > The year is 2016. Humanity has been reduced to a few survivors inhabiting the orbital space station Omega. Over the course of the history, aliens visited the Earth every twenty-five years, "harvesting" humans as an organic material. Eventually, they launch an assault on the last remnants of the human race. But Adam Drake, a genetically engineered soldier, comes into possession of a time-traveling device. He uses it to travel to the time periods of human history when aliens performed their deadly attacks. The fate of humanity is in his hands.  Body Harvest is an action and driving game with a mission-based structure. The protagonist travels to various locations and eras (e.g. Greece during World War II, Siberia in the 1990s, etc.) with the goal of stopping alien invasions. Missions can be accessed by traveling to specified areas on the map. Adam can move on foot and use his weapons to kill aliens; however, vehicles usually prove to be a more reliable way of tackling most missions. Adam can use most of his weapons while in a vehicle; in addition, some vehicles are outfitted with their own weapons.
 >
 > _Synopsis source: IGDB_
 
-[IGDB](https://www.igdb.com/games/body-harvest)
+[Wikipedia](https://en.wikipedia.org/wiki/Body_Harvest) · [IGDB](https://www.igdb.com/games/body-harvest)
 
 ---
 
@@ -522,13 +1322,13 @@
 
 <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co6nww.jpg" alt="Bomberman Hero cover" width="200">
 
-**Platforms:** Nintendo 64 &nbsp;|&nbsp; **Developer:** Hudson Soft &nbsp;|&nbsp; **Publisher:** Nintendo, Hudson Soft, Konami, Gradiente &nbsp;|&nbsp; **Genre:** Platform &nbsp;|&nbsp; **Released:** April 30, 1998
+**Platforms:** Nintendo 64 &nbsp;|&nbsp; **Developer:** A.I Co., Ltd &nbsp;|&nbsp; **Publisher:** Hudson Soft, Nintendo &nbsp;|&nbsp; **Genre:** Platform &nbsp;|&nbsp; **Released:** April 30, 1998
 
 > Bomberman's latest adventure takes him across the galaxy! Princess Millian has been kidnapped by the evil Garaden Empire and it's up to Bomberman to save the day. Travel through worlds of ice, fire and water. Use new abilities and get help from friends like Louie the rabbit and Pibol the robot. New vehicles like the Bomber Copter and Bomber Marine will come in handy in your quest to save the Princess and free the universe once again!
 >
 > _Synopsis source: IGDB_
 
-[IGDB](https://www.igdb.com/games/bomberman-hero)
+[Wikipedia](https://en.wikipedia.org/wiki/Bomberman_Hero) · [IGDB](https://www.igdb.com/games/bomberman-hero)
 
 ---
 
@@ -536,13 +1336,53 @@
 
 <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2b2n.jpg" alt="Buck Bumble cover" width="200">
 
-**Platforms:** Nintendo 64 &nbsp;|&nbsp; **Developer:** Argonaut Games &nbsp;|&nbsp; **Publisher:** Gradiente, Ubi Soft Entertainment &nbsp;|&nbsp; **Genre:** Shooter &nbsp;|&nbsp; **Released:** September 30, 1998
+**Platforms:** Nintendo 64 &nbsp;|&nbsp; **Developer:** Argonaut Software &nbsp;|&nbsp; **Publisher:** Ubi Soft &nbsp;|&nbsp; **Genre:** Third-person shooter &nbsp;|&nbsp; **Released:** November 20, 1998
 
 > A chemical spill somewhere in rural England has mutated an army of bees into killer insects! Led by their queen, they are out to destroy everything living thing on the planet, including all insects that dare stop them. Only Buck Bumble, the only bee not to be turned evil by the ways of the queen, can save the world, and his fellow insects, from total destruction.  Shoot down swarms of enemy bees, while flying and avoiding the hazards bellow or land on the ground and attack the enemies on foot with various weapons. Also included are a handful of two-player split-screen modes, including Buzz Ball, a unique soccer style game.
 >
 > _Synopsis source: IGDB_
 
-[IGDB](https://www.igdb.com/games/buck-bumble)
+[Wikipedia](https://en.wikipedia.org/wiki/Buck_Bumble) · [IGDB](https://www.igdb.com/games/buck-bumble)
+
+---
+
+### Centre Court Tennis
+
+**Platforms:** Nintendo 64 &nbsp;|&nbsp; **Developer:** Hudson Soft &nbsp;|&nbsp; **Publisher:** Hudson Soft, Gaga Interactive Media &nbsp;|&nbsp; **Genre:** Sports &nbsp;|&nbsp; **Released:** October 9, 1998
+
+[Wikipedia](https://en.wikipedia.org/wiki/Centre_Court_Tennis)
+
+---
+
+### Chameleon Twist 2
+
+**Platforms:** Nintendo 64 &nbsp;|&nbsp; **Developer:** Japan System Supply &nbsp;|&nbsp; **Publisher:** Japan System Supply, Sunsoft &nbsp;|&nbsp; **Genre:** Platformer &nbsp;|&nbsp; **Released:** December 25, 1998
+
+[Wikipedia](https://en.wikipedia.org/wiki/Chameleon_Twist_2)
+
+---
+
+### Cruis'n World
+
+**Platforms:** Arcade, Nintendo 64 &nbsp;|&nbsp; **Developer:** Midway Games, Eurocom &nbsp;|&nbsp; **Publisher:** Nintendo, Midway Games &nbsp;|&nbsp; **Genre:** Racing &nbsp;|&nbsp; **Released:** June 25, 1998
+
+[Wikipedia](https://en.wikipedia.org/wiki/Cruis'n_World)
+
+---
+
+### Dezaemon 3D
+
+**Platforms:** Nintendo 64 &nbsp;|&nbsp; **Developer:** Athena &nbsp;|&nbsp; **Publisher:** Athena &nbsp;|&nbsp; **Genre:** Scrolling shooter, game creation system
+
+[Wikipedia](https://en.wikipedia.org/wiki/Dezaemon_3D)
+
+---
+
+### Extreme-G 2
+
+**Platforms:** Nintendo 64 &nbsp;|&nbsp; **Developer:** Probe Entertainment &nbsp;|&nbsp; **Publisher:** Acclaim Entertainment &nbsp;|&nbsp; **Genre:** Racing &nbsp;|&nbsp; **Released:** November 17, 1998
+
+[Wikipedia](https://en.wikipedia.org/wiki/Extreme-G_2)
 
 ---
 
@@ -564,13 +1404,13 @@
 
 <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co3bao.jpg" alt="F-1 World Grand Prix cover" width="200">
 
-**Platforms:** Nintendo 64 &nbsp;|&nbsp; **Developer:** Paradigm Entertainment, Video System, Lankhor &nbsp;|&nbsp; **Publisher:** Eidos Interactive, Tsukuda Original, Nintendo, Video System, Gradiente &nbsp;|&nbsp; **Genre:** Racing, Simulator &nbsp;|&nbsp; **Released:** July 31, 1998
+**Platforms:** Nintendo 64 &nbsp;|&nbsp; **Developer:** Paradigm Entertainment, Video System, Lankhor &nbsp;|&nbsp; **Publisher:** Video System, Sega, Eidos Interactive, Tsukuda Original &nbsp;|&nbsp; **Genre:** Sim racing &nbsp;|&nbsp; **Released:** July 27, 1998
 
 > The game consists of five gameplay modes: Grand Prix, a course-by-course simulation of the 1997 season; Exhibition, a single race; Time Trial, a race against the clock and Challenge, which comprised real scenarios from the 1997 season-examples include trying to win the 1997 Hungarian Grand Prix as Damon Hill or beating Jean Alesi as David Coulthard in the 1997 Italian Grand Prix. The final mode allowed 2 players to compete in a single, split-screen race.
 >
 > _Synopsis source: IGDB_
 
-[IGDB](https://www.igdb.com/games/f-1-world-grand-prix)
+[Wikipedia](https://en.wikipedia.org/wiki/F-1_World_Grand_Prix) · [IGDB](https://www.igdb.com/games/f-1-world-grand-prix)
 
 ---
 
@@ -588,17 +1428,77 @@
 
 ---
 
+### Fighters Destiny
+
+**Platforms:** Nintendo 64 &nbsp;|&nbsp; **Developer:** Genki, Opus Corp., Anchor Inc. &nbsp;|&nbsp; **Publisher:** Imagineer, Ocean of America, Infogrames United Kingdom &nbsp;|&nbsp; **Genre:** Fighting &nbsp;|&nbsp; **Released:** January 26, 1998
+
+[Wikipedia](https://en.wikipedia.org/wiki/Fighters_Destiny)
+
+---
+
+### Forsaken
+
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/coc4x7.jpg" alt="Forsaken cover" width="200">
+
+**Platforms:** Windows, PlayStation, Nintendo 64 &nbsp;|&nbsp; **Developer:** Probe Entertainment, Iguana UK, Nightdive Studios &nbsp;|&nbsp; **Publisher:** Acclaim Entertainment, Nightdive Studios &nbsp;|&nbsp; **Genre:** Shooter game &nbsp;|&nbsp; **Released:** April 24, 1998
+
+> Forsaken is a Sci-Fi First-Person Shooter game, developed by Probe Entertainment Limited and published by Acclaim, which was released in 1998.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Forsaken_(video_game)) · [IGDB](https://www.igdb.com/games/forsaken)
+
+---
+
+### Fox Sports College Hoops '99
+
+**Platforms:** Nintendo 64 &nbsp;|&nbsp; **Developer:** Z-Axis &nbsp;|&nbsp; **Publisher:** Fox Sports Interactive &nbsp;|&nbsp; **Genre:** Sports &nbsp;|&nbsp; **Released:** November 23, 1998
+
+[Wikipedia](https://en.wikipedia.org/wiki/Fox_Sports_College_Hoops_'99)
+
+---
+
+### G.A.S.P!! Fighters' NEXTream
+
+**Platforms:** Nintendo 64 &nbsp;|&nbsp; **Developer:** Konami Computer Entertainment Osaka &nbsp;|&nbsp; **Publisher:** Konami &nbsp;|&nbsp; **Genre:** Fighting &nbsp;|&nbsp; **Released:** March 26, 1998
+
+[Wikipedia](https://en.wikipedia.org/wiki/G.A.S.P!!_Fighters'_NEXTream)
+
+---
+
+### Getter Love!!
+
+**Platforms:** Nintendo 64 &nbsp;|&nbsp; **Developer:** Hudson Soft &nbsp;|&nbsp; **Publisher:** Hudson Soft &nbsp;|&nbsp; **Genre:** Party, dating sim &nbsp;|&nbsp; **Released:** December 3, 1998
+
+[Wikipedia](https://en.wikipedia.org/wiki/Getter_Love!!)
+
+---
+
+### Gex: Enter the Gecko
+
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2q8n.jpg" alt="Gex: Enter the Gecko cover" width="200">
+
+**Platforms:** PlayStation, Nintendo 64, Windows &nbsp;|&nbsp; **Developer:** Crystal Dynamics &nbsp;|&nbsp; **Publisher:** Crystal Dynamics, Midway, Bandai, GT Interactive &nbsp;|&nbsp; **Genre:** Platform &nbsp;|&nbsp; **Released:** February 24, 1998
+
+> "Is it just me, or am I engulfed in flames?" is one of the many one-liners uttered by Gex, a wise cracking gecko who should check himself into television rehab; he's addicted to it. After saving the Television Realm from the evil Rez in his first adventure, the gecko was ready to kick back, relax, and watch a little television. Little did he know his adventure was just beginning.  One day, two secret agent goons showed up at Gex's doorstep. They inform him that Rez is back and looking for vengeance; the evil monster is planning to destroy the Television Realm once more...and possibly the world. When Gex tells them that he's retired and doesn't care, one of the goons hits the gecko on the head and takes him to a secluded place.  When Gex comes to, the mystery men plead with the gecko to take the cash and help destroy Rez for good...or at least make him disappear. With that incentive (the cash), the wise cracking lizard slips into his special agent suit and plunges headfirst into the Television Realm. Watch out, Rez -- Gex is back!
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Gex:_Enter_the_Gecko) · [IGDB](https://www.igdb.com/games/gex-enter-the-gecko)
+
+---
+
 ### Glover
 
 <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co3whq.jpg" alt="Glover cover" width="200">
 
-**Platforms:** Windows, Nintendo 64 &nbsp;|&nbsp; **Developer:** Interactive Studios &nbsp;|&nbsp; **Publisher:** Hasbro Interactive &nbsp;|&nbsp; **Genre:** Platform &nbsp;|&nbsp; **Released:** November 16, 1998
+**Platforms:** Nintendo 64, Windows &nbsp;|&nbsp; **Developer:** Interactive Studios &nbsp;|&nbsp; **Publisher:** Hasbro Interactive &nbsp;|&nbsp; **Genre:** Puzzle-platformer &nbsp;|&nbsp; **Released:** November 16, 1998
 
 > Glover is a platforming video game featuring a magical, four-fingered glove named Glover in his quest to restore the Crystal Kingdom by retrieving crystals that were lost.
 >
 > _Synopsis source: IGDB_
 
-[IGDB](https://www.igdb.com/games/glover)
+[Wikipedia](https://en.wikipedia.org/wiki/Glover_(video_game)) · [IGDB](https://www.igdb.com/games/glover)
 
 ---
 
@@ -606,13 +1506,29 @@
 
 <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co56g1.jpg" alt="Goemon's Great Adventure cover" width="200">
 
-**Platforms:** Nintendo 64 &nbsp;|&nbsp; **Developer:** Konami &nbsp;|&nbsp; **Publisher:** Konami &nbsp;|&nbsp; **Genre:** Platform, Adventure &nbsp;|&nbsp; **Released:** December 23, 1998
+**Platforms:** Nintendo 64 &nbsp;|&nbsp; **Developer:** Konami Computer Entertainment Osaka &nbsp;|&nbsp; **Publisher:** Konami &nbsp;|&nbsp; **Genre:** Platforming &nbsp;|&nbsp; **Released:** December 23, 1998
 
 > Goemon and all his friends are back in his greatest adventure yet! Goemon's Great Adventure combines classic Goemon platform action with an all-new twist. The evil time-traveling nun, Bismaru, has summoned Dochuki, a demon prince, to take over the Earth. But first, she wants to marry him! Can Goemon and his gang stop the demon? Can Dochuki escape the cloying clutches of the wacked-out nun? Will Ebisu ever beat his own dumpling eating record? It's an adventure you'll never forget!
 >
 > _Synopsis source: IGDB_
 
-[IGDB](https://www.igdb.com/games/goemons-great-adventure)
+[Wikipedia](https://en.wikipedia.org/wiki/Goemon's_Great_Adventure) · [IGDB](https://www.igdb.com/games/goemons-great-adventure)
+
+---
+
+### Golden Nugget 64
+
+**Platforms:** Nintendo 64 &nbsp;|&nbsp; **Developer:** Westwood Pacific &nbsp;|&nbsp; **Publisher:** Electronic Arts &nbsp;|&nbsp; **Genre:** Casino &nbsp;|&nbsp; **Released:** December 10, 1998
+
+[Wikipedia](https://en.wikipedia.org/wiki/Golden_Nugget_64)
+
+---
+
+### GT 64: Championship Edition
+
+**Platforms:** Nintendo 64 &nbsp;|&nbsp; **Developer:** Imagineer &nbsp;|&nbsp; **Publisher:** Infogrames, United Kingdom, Ocean of America, Imagineer &nbsp;|&nbsp; **Genre:** Racing &nbsp;|&nbsp; **Released:** September 9, 1998
+
+[Wikipedia](https://en.wikipedia.org/wiki/GT_64:_Championship_Edition)
 
 ---
 
@@ -620,13 +1536,21 @@
 
 <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co407c.jpg" alt="Hey You, Pikachu! cover" width="200">
 
-**Platforms:** Nintendo 64 &nbsp;|&nbsp; **Developer:** Ambrella &nbsp;|&nbsp; **Publisher:** Nintendo &nbsp;|&nbsp; **Genre:** Simulator &nbsp;|&nbsp; **Released:** December 12, 1998
+**Platforms:** Nintendo 64 &nbsp;|&nbsp; **Developer:** Ambrella &nbsp;|&nbsp; **Publisher:** Nintendo &nbsp;|&nbsp; **Genre:** Virtual pet, Simulation &nbsp;|&nbsp; **Released:** December 12, 1998
 
 > Hey you, Pokémon fanatic! Have you ever wanted to control your very own Pokémon? Now you can with HEY YOU, PIKACHU! for the Nintendo 64. It's as simple as speaking into the microphone that connects to your controller. If Pikachu understands you, he'll respond. The little yellow pocket monster has a vocabulary of approximately 200 words, and Professor Oak is even on hand to train you in the ways of creature communication. Wake up Pikachu each day by shouting "Good Morning!" and decide what games to play and activities to engage in. You can play Pokémon trivia on the in-game TV, gather food, hunt for treasure, collect seemingly endless goodies, go fishing, baby-sit Caterpie, and much more. You'll also play a variety of mini-games while guiding Pikachu along with friendly commands. As you bond and converse with your cartoon pal you'll investigate the Ochre Woods, head for the campground, check out Bulbasaur's picnic, and even solve clever puzzles. HEY YOU, PIKACHU! is an interactive romp that gives the younger set a chance to get up close and personal with their favorite Pokémon character.
 >
 > _Synopsis source: IGDB_
 
-[IGDB](https://www.igdb.com/games/hey-you-pikachu)
+[Wikipedia](https://en.wikipedia.org/wiki/Hey_You,_Pikachu!) · [IGDB](https://www.igdb.com/games/hey-you-pikachu)
+
+---
+
+### Iggy's Reckin' Balls
+
+**Platforms:** Nintendo 64 &nbsp;|&nbsp; **Developer:** Iguana Entertainment &nbsp;|&nbsp; **Publisher:** Acclaim Entertainment &nbsp;|&nbsp; **Genre:** Platformer, racing &nbsp;|&nbsp; **Released:** August 24, 1998
+
+[Wikipedia](https://en.wikipedia.org/wiki/Iggy's_Reckin'_Balls)
 
 ---
 
@@ -644,6 +1568,30 @@
 
 ---
 
+### Kiratto Kaiketsu! 64 Tanteidan
+
+**Platforms:** Nintendo 64 &nbsp;|&nbsp; **Developer:** Pandora Box &nbsp;|&nbsp; **Publisher:** Imagineer &nbsp;|&nbsp; **Genre:** Party &nbsp;|&nbsp; **Released:** October 23, 1998
+
+[Wikipedia](https://en.wikipedia.org/wiki/Kiratto_Kaiketsu!_64_Tanteidan)
+
+---
+
+### Knife Edge: Nose Gunner
+
+**Platforms:** Nintendo 64 &nbsp;|&nbsp; **Developer:** Kemco &nbsp;|&nbsp; **Publisher:** Kemco &nbsp;|&nbsp; **Genre:** 3D rail shooter &nbsp;|&nbsp; **Released:** November 10, 1998
+
+[Wikipedia](https://en.wikipedia.org/wiki/Knife_Edge:_Nose_Gunner)
+
+---
+
+### Kobe Bryant in NBA Courtside
+
+**Platforms:** Nintendo 64 &nbsp;|&nbsp; **Developer:** Left Field Productions &nbsp;|&nbsp; **Publisher:** Nintendo &nbsp;|&nbsp; **Genre:** Sports &nbsp;|&nbsp; **Released:** April 27, 1998
+
+[Wikipedia](https://en.wikipedia.org/wiki/Kobe_Bryant_in_NBA_Courtside)
+
+---
+
 ### Madden NFL 99
 
 **Platforms:** Nintendo 64 &nbsp;|&nbsp; **Publisher:** EA Sports &nbsp;|&nbsp; **Released:** September 23, 1998
@@ -652,17 +1600,49 @@
 
 ---
 
+### Magical Tetris Challenge
+
+**Platforms:** Arcade, Nintendo 64 &nbsp;|&nbsp; **Developer:** Capcom &nbsp;|&nbsp; **Publisher:** Capcom, Sony Computer Entertainment, Activision &nbsp;|&nbsp; **Genre:** Puzzle &nbsp;|&nbsp; **Released:** November 20, 1998
+
+[Wikipedia](https://en.wikipedia.org/wiki/Magical_Tetris_Challenge)
+
+---
+
 ### Major League Baseball Featuring Ken Griffey Jr.
 
 <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co47ro.jpg" alt="Major League Baseball Featuring Ken Griffey Jr. cover" width="200">
 
-**Platforms:** Nintendo 64 &nbsp;|&nbsp; **Developer:** Angel Studios &nbsp;|&nbsp; **Publisher:** Nintendo &nbsp;|&nbsp; **Genre:** Sport &nbsp;|&nbsp; **Released:** May 31, 1998
+**Platforms:** Nintendo 64 &nbsp;|&nbsp; **Developer:** Angel Studios &nbsp;|&nbsp; **Publisher:** Nintendo &nbsp;|&nbsp; **Genre:** Sports &nbsp;|&nbsp; **Released:** May 26, 1998
 
 > Make your dreams of becoming a Major Leaguer a reality! Hit a grand slam, pitch a no-hitter, go for the cycle and steal home - all in the same game! If that's not enough, check out the real-time stat tracking in over 30 major categories. Improve your team by making the right trades and picking up the best free agents. Major League Baseball Featuring Ken Griffey Jr. is so real, every pitch counts!
 >
 > _Synopsis source: IGDB_
 
-[IGDB](https://www.igdb.com/games/major-league-baseball-featuring-ken-griffey-jr)
+[Wikipedia](https://en.wikipedia.org/wiki/Major_League_Baseball_Featuring_Ken_Griffey_Jr.) · [IGDB](https://www.igdb.com/games/major-league-baseball-featuring-ken-griffey-jr)
+
+---
+
+### Mario no Photopi
+
+**Platforms:** Nintendo 64 &nbsp;|&nbsp; **Developer:** Datt Japan, Inc. &nbsp;|&nbsp; **Publisher:** Tokyo Electron Device, Hagiwara Syscom Co., Ltd. &nbsp;|&nbsp; **Genre:** Creativity &nbsp;|&nbsp; **Released:** December 2, 1998
+
+[Wikipedia](https://en.wikipedia.org/wiki/Mario_no_Photopi)
+
+---
+
+### Mike Piazza's StrikeZone
+
+**Platforms:** Nintendo 64 &nbsp;|&nbsp; **Developer:** Devil's Thumb Entertainment &nbsp;|&nbsp; **Publisher:** GT Interactive &nbsp;|&nbsp; **Genre:** Sports &nbsp;|&nbsp; **Released:** June 18, 1998
+
+[Wikipedia](https://en.wikipedia.org/wiki/Mike_Piazza's_StrikeZone)
+
+---
+
+### Milo's Astro Lanes
+
+**Platforms:** Nintendo 64 &nbsp;|&nbsp; **Developer:** Player 1 &nbsp;|&nbsp; **Publisher:** Crave Entertainment, Interplay Entertainment &nbsp;|&nbsp; **Genre:** Sports &nbsp;|&nbsp; **Released:** November 24, 1998
+
+[Wikipedia](https://en.wikipedia.org/wiki/Milo's_Astro_Lanes)
 
 ---
 
@@ -670,13 +1650,45 @@
 
 <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co6xqx.jpg" alt="Mission: Impossible cover" width="200">
 
-**Platforms:** Nintendo 64 &nbsp;|&nbsp; **Developer:** Ocean Software &nbsp;|&nbsp; **Publisher:** Infogrames Entertainment, Gradiente &nbsp;|&nbsp; **Genre:** Shooter, Adventure &nbsp;|&nbsp; **Released:** July 16, 1998
+**Platforms:** Nintendo 64 &nbsp;|&nbsp; **Developer:** Infogrames &nbsp;|&nbsp; **Publisher:** Ocean, Infogrames &nbsp;|&nbsp; **Genre:** Action-adventure &nbsp;|&nbsp; **Released:** July 16, 1998
 
 > An Action-adventure game based on the 1996 film Mission: Impossible. It was for Nintendo 64. It was later ported to the PlayStation, with minor additions such as voice acting. A sequel, Mission: Impossible – Operation Surma, was released in 2003.
 >
 > _Synopsis source: IGDB_
 
-[IGDB](https://www.igdb.com/games/mission-impossible)
+[Wikipedia](https://en.wikipedia.org/wiki/Mission:_Impossible_(1998_video_game)) · [IGDB](https://www.igdb.com/games/mission-impossible)
+
+---
+
+### Morita Shogi 64
+
+**Platforms:** Nintendo 64 &nbsp;|&nbsp; **Developer:** Seta &nbsp;|&nbsp; **Publisher:** Seta &nbsp;|&nbsp; **Genre:** Board game &nbsp;|&nbsp; **Released:** April 3, 1998
+
+[Wikipedia](https://en.wikipedia.org/wiki/Morita_Shogi_64)
+
+---
+
+### NASCAR 99
+
+**Platforms:** Nintendo 64, PlayStation &nbsp;|&nbsp; **Developer:** Stormfront Studios &nbsp;|&nbsp; **Publisher:** EA Sports &nbsp;|&nbsp; **Genre:** Racing &nbsp;|&nbsp; **Released:** September 10, 1998
+
+[Wikipedia](https://en.wikipedia.org/wiki/NASCAR_99)
+
+---
+
+### NBA In The Zone '98
+
+**Platforms:** Nintendo 64, PlayStation &nbsp;|&nbsp; **Developer:** Konami Computer Entertainment Osaka &nbsp;|&nbsp; **Publisher:** Konami &nbsp;|&nbsp; **Genre:** Sports &nbsp;|&nbsp; **Released:** January 29, 1998
+
+[Wikipedia](https://en.wikipedia.org/wiki/NBA_In_The_Zone_'98)
+
+---
+
+### NBA Jam 99
+
+**Platforms:** Nintendo 64 &nbsp;|&nbsp; **Developer:** Iguana West, Torus Games &nbsp;|&nbsp; **Publisher:** Acclaim Entertainment &nbsp;|&nbsp; **Genre:** Sports &nbsp;|&nbsp; **Released:** December 3, 1998
+
+[Wikipedia](https://en.wikipedia.org/wiki/NBA_Jam_99)
 
 ---
 
@@ -694,17 +1706,97 @@
 
 ---
 
+### NFL Quarterback Club 99
+
+**Platforms:** Nintendo 64 &nbsp;|&nbsp; **Developer:** Iguana Entertainment &nbsp;|&nbsp; **Publisher:** Acclaim Entertainment &nbsp;|&nbsp; **Genre:** Sports &nbsp;|&nbsp; **Released:** November 10, 1998
+
+[Wikipedia](https://en.wikipedia.org/wiki/NFL_Quarterback_Club_99)
+
+---
+
+### NHL Breakaway 99
+
+**Platforms:** Nintendo 64 &nbsp;|&nbsp; **Developer:** Iguana West &nbsp;|&nbsp; **Publisher:** Acclaim Entertainment &nbsp;|&nbsp; **Genre:** Sports &nbsp;|&nbsp; **Released:** November 30, 1998
+
+[Wikipedia](https://en.wikipedia.org/wiki/NHL_Breakaway_99)
+
+---
+
+### Olympic Hockey '98
+
+**Platforms:** Nintendo 64 &nbsp;|&nbsp; **Developer:** Treyarch Invention &nbsp;|&nbsp; **Publisher:** Midway, GT Interactive, Konami &nbsp;|&nbsp; **Genre:** Sports &nbsp;|&nbsp; **Released:** February 23, 1998
+
+[Wikipedia](https://en.wikipedia.org/wiki/Olympic_Hockey_'98)
+
+---
+
+### Penny Racers
+
+**Platforms:** Nintendo 64 &nbsp;|&nbsp; **Developer:** Locomotive Corporation &nbsp;|&nbsp; **Publisher:** THQ, Takara &nbsp;|&nbsp; **Genre:** Racing &nbsp;|&nbsp; **Released:** July 17, 1998
+
+[Wikipedia](https://en.wikipedia.org/wiki/Penny_Racers_(1998_video_game))
+
+---
+
+### Pocket Monsters Stadium
+
+**Platforms:** Nintendo 64 &nbsp;|&nbsp; **Developer:** Nintendo EAD &nbsp;|&nbsp; **Publisher:** Nintendo &nbsp;|&nbsp; **Genre:** Turn-based strategy, RPG &nbsp;|&nbsp; **Released:** August 1, 1998
+
+[Wikipedia](https://en.wikipedia.org/wiki/Pocket_Monsters_Stadium)
+
+---
+
 ### Quest 64
 
 <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co8kyu.jpg" alt="Quest 64 cover" width="200">
 
-**Platforms:** Nintendo 64 &nbsp;|&nbsp; **Developer:** Imagineer Interactive &nbsp;|&nbsp; **Publisher:** Konami, THQ, Gradiente, Imagineer Interactive &nbsp;|&nbsp; **Genre:** Role-playing (RPG), Adventure &nbsp;|&nbsp; **Released:** June 10, 1998
+**Platforms:** Nintendo 64 &nbsp;|&nbsp; **Developer:** Imagineer &nbsp;|&nbsp; **Publisher:** THQ, Konami, Imagineer &nbsp;|&nbsp; **Genre:** Role-playing game &nbsp;|&nbsp; **Released:** June 10, 1998
 
 > Celtland has been cast into chaos by the theft of Eletale's Book. This mystical volume contains the secrets of the Spirit Tamers. Control Brian, a magician's apprentice, as he explores the expansive countryside and villages on his quest. If he does not reclaim the book, the Kingdom of Celtland will be cast into darkness forever.
 >
 > _Synopsis source: IGDB_
 
-[IGDB](https://www.igdb.com/games/quest-64)
+[Wikipedia](https://en.wikipedia.org/wiki/Quest_64) · [IGDB](https://www.igdb.com/games/quest-64)
+
+---
+
+### Rakugakids
+
+**Platforms:** Nintendo 64 &nbsp;|&nbsp; **Developer:** Konami Computer Entertainment Kobe &nbsp;|&nbsp; **Publisher:** Konami &nbsp;|&nbsp; **Genre:** Fighting &nbsp;|&nbsp; **Released:** July 23, 1998
+
+[Wikipedia](https://en.wikipedia.org/wiki/Rakugakids)
+
+---
+
+### Robotron 64
+
+**Platforms:** Nintendo 64 &nbsp;|&nbsp; **Developer:** Player 1 &nbsp;|&nbsp; **Publisher:** Crave Entertainment, GT Interactive &nbsp;|&nbsp; **Genre:** Multidirectional shooter &nbsp;|&nbsp; **Released:** January 5, 1998
+
+[Wikipedia](https://en.wikipedia.org/wiki/Robotron_64)
+
+---
+
+### Rush 2: Extreme Racing USA
+
+**Platforms:** Nintendo 64 &nbsp;|&nbsp; **Developer:** Atari Games &nbsp;|&nbsp; **Publisher:** Midway, GT Interactive &nbsp;|&nbsp; **Genre:** Racing &nbsp;|&nbsp; **Released:** November 11, 1998
+
+[Wikipedia](https://en.wikipedia.org/wiki/Rush_2:_Extreme_Racing_USA)
+
+---
+
+### S.C.A.R.S.
+
+**Platforms:** PlayStation, Nintendo 64, Windows &nbsp;|&nbsp; **Developer:** Vivid Image &nbsp;|&nbsp; **Publisher:** Ubi Soft &nbsp;|&nbsp; **Genre:** Racing &nbsp;|&nbsp; **Released:** September 25, 1998
+
+[Wikipedia](https://en.wikipedia.org/wiki/S.C.A.R.S._(video_game))
+
+---
+
+### San Francisco Rush: Extreme Racing
+
+**Platforms:** Arcade, Nintendo 64, PlayStation, Windows &nbsp;|&nbsp; **Developer:** Atari Games &nbsp;|&nbsp; **Publisher:** Atari Games &nbsp;|&nbsp; **Genre:** Racing &nbsp;|&nbsp; **Released:** February 28, 1998
+
+[Wikipedia](https://en.wikipedia.org/wiki/San_Francisco_Rush:_Extreme_Racing)
 
 ---
 
@@ -712,13 +1804,13 @@
 
 <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co6vcj.jpg" alt="South Park cover" width="200">
 
-**Platforms:** Nintendo 64 &nbsp;|&nbsp; **Developer:** Appaloosa Interactive, Iguana Entertainment &nbsp;|&nbsp; **Publisher:** Gradiente, Acclaim Entertainment &nbsp;|&nbsp; **Genre:** Shooter &nbsp;|&nbsp; **Released:** December 12, 1998
+**Platforms:** Nintendo 64 &nbsp;|&nbsp; **Developer:** Iguana Entertainment, Appaloosa Interactive &nbsp;|&nbsp; **Publisher:** Acclaim Entertainment &nbsp;|&nbsp; **Genre:** First-person shooter &nbsp;|&nbsp; **Released:** December 21, 1998
 
 > Single player takes the form of a "Story" mode divided into five episodes and fifteen linear levels. The player will face weak minions (which change based on the episode), plus occasional sub-bosses which will try to escape into town. The final level is devoted to a unique boss fight. Players use quirky weapons ranging from infinite yellow snowballs to cow launchers and toxic Terrance and Phillip dolls. Every weapon has a secondary fire, and players switch between the four main characters when they switch weapons - each of the four kids shares a single life bar because of this. The kids will comment on game actions as they occur, with heavier profanity censored with bleeps. The kids will get angrier (and fouler) as their health depletes, until they finally give up on saving the town and go home.
 >
 > _Synopsis source: IGDB_
 
-[IGDB](https://www.igdb.com/games/south-park)
+[Wikipedia](https://en.wikipedia.org/wiki/South_Park_(video_game)) · [IGDB](https://www.igdb.com/games/south-park)
 
 ---
 
@@ -726,13 +1818,21 @@
 
 <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co3woq.jpg" alt="Space Station Silicon Valley cover" width="200">
 
-**Platforms:** Nintendo 64 &nbsp;|&nbsp; **Developer:** DMA Design &nbsp;|&nbsp; **Publisher:** Take-Two Interactive &nbsp;|&nbsp; **Genre:** Platform, Puzzle &nbsp;|&nbsp; **Released:** October 21, 1998
+**Platforms:** Nintendo 64 &nbsp;|&nbsp; **Developer:** DMA Design &nbsp;|&nbsp; **Publisher:** Take-Two Interactive &nbsp;|&nbsp; **Genre:** Platformer &nbsp;|&nbsp; **Released:** October 22, 1998
 
 > A space station that was built more than 1000 years before by Earth, shortly after its launch, vanished. The station has since then mysteriously reappeared and it's bound on a collision course with Earth. Unless Dan and Evo can stop it, all will surely perish. The idea behind the game is fairly simplistic: players take on the role of Evo, a robotic microchip that possesses the unique ability to take over the bodies of dead (robotic) animals. Evo makes his way through a variety of levels and worlds filled with different objectives and, of course, different animals.
 >
 > _Synopsis source: IGDB_
 
-[IGDB](https://www.igdb.com/games/space-station-silicon-valley)
+[Wikipedia](https://en.wikipedia.org/wiki/Space_Station_Silicon_Valley) · [IGDB](https://www.igdb.com/games/space-station-silicon-valley)
+
+---
+
+### Star Soldier: Vanishing Earth
+
+**Platforms:** Arcade, Nintendo 64 &nbsp;|&nbsp; **Developer:** Hudson Soft &nbsp;|&nbsp; **Publisher:** Hudson Soft, Electro Brain &nbsp;|&nbsp; **Genre:** Vertically scrolling shooter &nbsp;|&nbsp; **Released:** July 10, 1998
+
+[Wikipedia](https://en.wikipedia.org/wiki/Star_Soldier:_Vanishing_Earth)
 
 ---
 
@@ -740,13 +1840,61 @@
 
 <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co7k18.jpg" alt="Star Wars: Rogue Squadron cover" width="200">
 
-**Platforms:** Nintendo 64, Windows &nbsp;|&nbsp; **Developer:** Factor 5, LucasArts &nbsp;|&nbsp; **Publisher:** Nintendo, LucasArts, Disney Interactive Studios, Gradiente &nbsp;|&nbsp; **Genre:** Shooter &nbsp;|&nbsp; **Released:** November 17, 1998
+**Platforms:** Windows, Nintendo 64 &nbsp;|&nbsp; **Developer:** Factor 5, LucasArts &nbsp;|&nbsp; **Publisher:** LucasArts, Nintendo &nbsp;|&nbsp; **Genre:** Action, Arcade flight &nbsp;|&nbsp; **Released:** December 3, 1998
 
 > It is a time of great rejoicing in the galaxy. Luke Skywalker, with the help of Wedge Antilles, has blown up the Death Star. But there is little time to celebrate. The mighty Empire is gathering strength for a determined, all-out assault on the Rebel forces.  To save the Rebel Alliance from this Imperial onslaught, Luke Skywalker and Wedge Antilles have assembled the Rogue Squadron, a group of twelve of the most skilled battle-tested starfighter pilots. You will fly into battle as Luke Skywalker, to engage in intense, fast-paced planetary air-to-ground and air-to-air missions ‒ dogfights, search and destroy, reconnaissance, bombing runs, rescue assignments, and more.
 >
 > _Synopsis source: IGDB_
 
-[IGDB](https://www.igdb.com/games/star-wars-rogue-squadron)
+[Wikipedia](https://en.wikipedia.org/wiki/Star_Wars:_Rogue_Squadron) · [IGDB](https://www.igdb.com/games/star-wars-rogue-squadron)
+
+---
+
+### StarCraft: Brood War
+
+**Platforms:** Windows, Nintendo 64 &nbsp;|&nbsp; **Developer:** Saffire, Blizzard Entertainment &nbsp;|&nbsp; **Publisher:** Blizzard Entertainment &nbsp;|&nbsp; **Genre:** Real-time strategy &nbsp;|&nbsp; **Released:** December 18, 1998
+
+[Wikipedia](https://en.wikipedia.org/wiki/StarCraft:_Brood_War)
+
+---
+
+### Starshot: Space Circus Fever
+
+**Platforms:** Nintendo 64 &nbsp;|&nbsp; **Developer:** Infogrames &nbsp;|&nbsp; **Publisher:** Infogrames &nbsp;|&nbsp; **Genre:** Platformer &nbsp;|&nbsp; **Released:** December 4, 1998
+
+[Wikipedia](https://en.wikipedia.org/wiki/Starshot:_Space_Circus_Fever)
+
+---
+
+### Super B-Daman: Battle Phoenix 64
+
+**Platforms:** Nintendo 64 &nbsp;|&nbsp; **Developer:** Hudson &nbsp;|&nbsp; **Publisher:** Hudson &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** July 24, 1998
+
+[Wikipedia](https://en.wikipedia.org/wiki/Super_B-Daman:_Battle_Phoenix_64)
+
+---
+
+### Super Robot Spirits
+
+**Platforms:** Nintendo 64 &nbsp;|&nbsp; **Developer:** Banpresto &nbsp;|&nbsp; **Publisher:** Banpresto &nbsp;|&nbsp; **Genre:** Fighting &nbsp;|&nbsp; **Released:** July 17, 1998
+
+[Wikipedia](https://en.wikipedia.org/wiki/Super_Robot_Spirits)
+
+---
+
+### Susume! Taisen Puzzle Dama: Tōkon! Marutama Chō
+
+**Platforms:** Nintendo 64 &nbsp;|&nbsp; **Developer:** Konami Computer Entertainment Kobe &nbsp;|&nbsp; **Publisher:** Konami &nbsp;|&nbsp; **Genre:** Puzzle &nbsp;|&nbsp; **Released:** March 26, 1998
+
+[Wikipedia](https://en.wikipedia.org/wiki/Susume!_Taisen_Puzzle_Dama:_T%C5%8Dkon!_Marutama_Ch%C5%8D)
+
+---
+
+### Tetris 64
+
+**Platforms:** Nintendo 64 &nbsp;|&nbsp; **Developer:** Amtex &nbsp;|&nbsp; **Publisher:** SETA &nbsp;|&nbsp; **Genre:** Puzzle &nbsp;|&nbsp; **Released:** November 13, 1998
+
+[Wikipedia](https://en.wikipedia.org/wiki/Tetris_64)
 
 ---
 
@@ -764,6 +1912,14 @@
 
 ---
 
+### Top Gear Overdrive
+
+**Platforms:** Nintendo 64 &nbsp;|&nbsp; **Developer:** Snowblind Studios &nbsp;|&nbsp; **Publisher:** Kemco &nbsp;|&nbsp; **Genre:** Racing &nbsp;|&nbsp; **Released:** November 23, 1998
+
+[Wikipedia](https://en.wikipedia.org/wiki/Top_Gear_Overdrive)
+
+---
+
 ### Turok 2: Seeds of Evil
 
 <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2zqs.jpg" alt="Turok 2: Seeds of Evil cover" width="200">
@@ -778,17 +1934,49 @@
 
 ---
 
+### Twisted Edge Extreme Snowboarding
+
+**Platforms:** Nintendo 64 &nbsp;|&nbsp; **Developer:** Boss Game Studio &nbsp;|&nbsp; **Publisher:** Midway, Kemco &nbsp;|&nbsp; **Genre:** Snowboarding &nbsp;|&nbsp; **Released:** November 11, 1998
+
+[Wikipedia](https://en.wikipedia.org/wiki/Twisted_Edge_Extreme_Snowboarding)
+
+---
+
+### Virtual Chess 64
+
+**Platforms:** Nintendo 64 &nbsp;|&nbsp; **Developer:** Titus France &nbsp;|&nbsp; **Publisher:** Titus France &nbsp;|&nbsp; **Genre:** Chess &nbsp;|&nbsp; **Released:** June 10, 1998
+
+[Wikipedia](https://en.wikipedia.org/wiki/Virtual_Chess_64)
+
+---
+
+### Virtual Pool 64
+
+**Platforms:** Nintendo 64 &nbsp;|&nbsp; **Developer:** Celeris &nbsp;|&nbsp; **Publisher:** Crave Entertainment &nbsp;|&nbsp; **Genre:** Sports &nbsp;|&nbsp; **Released:** December 17, 1998
+
+[Wikipedia](https://en.wikipedia.org/wiki/Virtual_Pool_64)
+
+---
+
+### Waialae Country Club: True Golf Classics
+
+**Platforms:** Nintendo 64 &nbsp;|&nbsp; **Developer:** T&E Soft &nbsp;|&nbsp; **Publisher:** Nintendo &nbsp;|&nbsp; **Genre:** Sports &nbsp;|&nbsp; **Released:** July 27, 1998
+
+[Wikipedia](https://en.wikipedia.org/wiki/Waialae_Country_Club:_True_Golf_Classics)
+
+---
+
 ### WCW/nWo Revenge
 
 <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co3b81.jpg" alt="WCW/nWo Revenge cover" width="200">
 
-**Platforms:** Nintendo 64 &nbsp;|&nbsp; **Developer:** Asmik Ace Entertainment, AKI Corporation &nbsp;|&nbsp; **Publisher:** THQ, Gradiente &nbsp;|&nbsp; **Genre:** Sport &nbsp;|&nbsp; **Released:** November 30, 1998
+**Platforms:** Nintendo 64 &nbsp;|&nbsp; **Developer:** Asmik Ace Entertainment, AKI Corporation &nbsp;|&nbsp; **Publisher:** THQ &nbsp;|&nbsp; **Genre:** Sports &nbsp;|&nbsp; **Released:** October 26, 1998
 
 > More than 60 wrestlers, including ALL of the top WCW and NWO superstars! Awesome new features including wrestler entrances, all the real WCW belts, hidden weapons, instant replay, completely updated roster and complete user stats and arcade style scores! Enjoy real pay-per-view arenas, 40-man Battle Royale mode, and a costume editing feature!
 >
 > _Synopsis source: IGDB_
 
-[IGDB](https://www.igdb.com/games/wcw-nwo-revenge)
+[Wikipedia](https://en.wikipedia.org/wiki/WCW/nWo_Revenge) · [IGDB](https://www.igdb.com/games/wcw-nwo-revenge)
 
 ---
 
@@ -796,13 +1984,21 @@
 
 <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2b2m.jpg" alt="Wetrix cover" width="200">
 
-**Platforms:** Nintendo 64, Windows &nbsp;|&nbsp; **Developer:** Zed Two &nbsp;|&nbsp; **Publisher:** Ocean Software, Imagineer &nbsp;|&nbsp; **Genre:** Puzzle, Strategy &nbsp;|&nbsp; **Released:** June 12, 1998
+**Platforms:** Nintendo 64, Windows &nbsp;|&nbsp; **Developer:** Zed Two &nbsp;|&nbsp; **Publisher:** Ocean Software, Xicat Interactive, Take-Two Interactive, Imagineer &nbsp;|&nbsp; **Genre:** Puzzle &nbsp;|&nbsp; **Released:** June 12, 1998
 
 > A rainstorm so fierce, it will keep you from leaving your home for the next six months. Using randomly shaped 3D blocks as they fall from the sky, you must create a series of lakes and dams before the heavy rains appear. Because if the water drains, you lose! Sound simple? Well, mix in a few natural disasters and bomb attacks, and suddenly you need to muster all your strategy and skill to combat nature's fury!
 >
 > _Synopsis source: IGDB_
 
-[IGDB](https://www.igdb.com/games/wetrix)
+[Wikipedia](https://en.wikipedia.org/wiki/Wetrix) · [IGDB](https://www.igdb.com/games/wetrix)
+
+---
+
+### Wipeout 64
+
+**Platforms:** Nintendo 64 &nbsp;|&nbsp; **Developer:** Psygnosis &nbsp;|&nbsp; **Publisher:** Midway Games &nbsp;|&nbsp; **Genre:** Racing &nbsp;|&nbsp; **Released:** November 4, 1998
+
+[Wikipedia](https://en.wikipedia.org/wiki/Wipeout_64)
 
 ---
 
@@ -810,13 +2006,13 @@
 
 <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co207z.jpg" alt="World Cup 98 cover" width="200">
 
-**Platforms:** Nintendo 64, PlayStation, Windows &nbsp;|&nbsp; **Developer:** EA Canada &nbsp;|&nbsp; **Publisher:** EA Sports, Gradiente &nbsp;|&nbsp; **Genre:** Sport &nbsp;|&nbsp; **Released:** March 31, 1998
+**Platforms:** Game Boy, Nintendo 64, PlayStation, Windows &nbsp;|&nbsp; **Developer:** EA Canada, Software Creations, Tiertex Design Studios &nbsp;|&nbsp; **Publisher:** EA Sports, THQ &nbsp;|&nbsp; **Genre:** Football/Soccer &nbsp;|&nbsp; **Released:** May 19, 1998
 
 > The main feature of the game is the World Cup tournament itself, where the player may use either the actual groups used in the finals, or groups composed of a random selection of the included teams. Each match takes place in a recreation of the venue it was played in the actual tournament. As in the real tournament, group games do not go to extra time or a penalty shootout but knockout matches do.
 >
 > _Synopsis source: IGDB_
 
-[IGDB](https://www.igdb.com/games/world-cup-98)
+[Wikipedia](https://en.wikipedia.org/wiki/World_Cup_98_(video_game)) · [IGDB](https://www.igdb.com/games/world-cup-98)
 
 ---
 
@@ -824,13 +2020,13 @@
 
 <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2xec.jpg" alt="WWF War Zone cover" width="200">
 
-**Platforms:** PlayStation, Nintendo 64 &nbsp;|&nbsp; **Developer:** Acclaim Studios Salt Lake City &nbsp;|&nbsp; **Publisher:** Acclaim Entertainment &nbsp;|&nbsp; **Genre:** Fighting, Sport &nbsp;|&nbsp; **Released:** July 14, 1998
+**Platforms:** PlayStation, Nintendo 64, Game Boy &nbsp;|&nbsp; **Developer:** Iguana West, Crawfish Interactive &nbsp;|&nbsp; **Publisher:** Acclaim Entertainment &nbsp;|&nbsp; **Genre:** Sports &nbsp;|&nbsp; **Released:** June 10, 1998
 
 > WWF WARZONE is here, featuring the top superstars in the World Wrestling Federation! Signature and finishing moves unique to each wrestler. Specialized matches including Steel Cage Match. Four-player action with Tag Team, Tornado, War, and Training Modes! Over 300 motion captured maneuvers. Create and save up to 30 customized wrestlers!
 >
 > _Synopsis source: IGDB_
 
-[IGDB](https://www.igdb.com/games/wwf-war-zone)
+[Wikipedia](https://en.wikipedia.org/wiki/WWF_War_Zone) · [IGDB](https://www.igdb.com/games/wwf-war-zone)
 
 ---
 
@@ -838,17 +2034,49 @@
 
 [Full 1997 page](../years/1997.md)
 
+### 64 de Hakken!! Tamagotchi: Minna de Tamagotchi World
+
+**Platforms:** Nintendo 64 &nbsp;|&nbsp; **Developer:** Hudson Soft &nbsp;|&nbsp; **Publisher:** Bandai &nbsp;|&nbsp; **Genre:** Board game &nbsp;|&nbsp; **Released:** December 19, 1997
+
+[Wikipedia](https://en.wikipedia.org/wiki/64_de_Hakken!!_Tamagotchi:_Minna_de_Tamagotchi_World)
+
+---
+
+### 64 Ōzumō
+
+**Platforms:** Nintendo 64 &nbsp;|&nbsp; **Developer:** Bottom Up &nbsp;|&nbsp; **Publisher:** Bottom Up &nbsp;|&nbsp; **Genre:** Sports, Fighting &nbsp;|&nbsp; **Released:** November 28, 1997
+
+[Wikipedia](https://en.wikipedia.org/wiki/64_%C5%8Czum%C5%8D)
+
+---
+
+### Aero Fighters Assault
+
+**Platforms:** Nintendo 64 &nbsp;|&nbsp; **Developer:** Paradigm Entertainment &nbsp;|&nbsp; **Publisher:** Vic Tokai, Video System &nbsp;|&nbsp; **Genre:** Combat flight simulation &nbsp;|&nbsp; **Released:** November 21, 1997
+
+[Wikipedia](https://en.wikipedia.org/wiki/Aero_Fighters_Assault)
+
+---
+
 ### AeroGauge
 
 <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co39yc.jpg" alt="AeroGauge cover" width="200">
 
-**Platforms:** Nintendo 64 &nbsp;|&nbsp; **Developer:** Locomotive Corporation &nbsp;|&nbsp; **Publisher:** ASCII Corporation, ASK &nbsp;|&nbsp; **Genre:** Racing, Arcade &nbsp;|&nbsp; **Released:** December 19, 1997
+**Platforms:** Nintendo 64 &nbsp;|&nbsp; **Developer:** Locomotive Co. Ltd. &nbsp;|&nbsp; **Publisher:** ASCII Entertainment &nbsp;|&nbsp; **Genre:** Racing &nbsp;|&nbsp; **Released:** December 19, 1997
 
 > In the tradition of F-Zero and Wipeout, AeroGauge is a sci-fi racer that pits you and a friend in a fast paced race to the finish through futuristic tracks and among detailed craft, acting more like planes than racers as they skim many metres above the ground. Play solo through the grand prix and compete against the AI enemy, or beat down your best time in the time trial mode.  Each track features a number of twists and turns, whether it be racing upside down or vertically, with a number of obstacles in your path. There's no weapons, though, it's just you and the open road ahead.
 >
 > _Synopsis source: IGDB_
 
-[IGDB](https://www.igdb.com/games/aerogauge)
+[Wikipedia](https://en.wikipedia.org/wiki/AeroGauge) · [IGDB](https://www.igdb.com/games/aerogauge)
+
+---
+
+### Automobili Lamborghini
+
+**Platforms:** Nintendo 64 &nbsp;|&nbsp; **Developer:** Titus France &nbsp;|&nbsp; **Publisher:** Titus France &nbsp;|&nbsp; **Genre:** Racing &nbsp;|&nbsp; **Released:** November 22, 1997
+
+[Wikipedia](https://en.wikipedia.org/wiki/Automobili_Lamborghini_(video_game))
 
 ---
 
@@ -884,13 +2112,21 @@
 
 <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2dq6.jpg" alt="Chameleon Twist cover" width="200">
 
-**Platforms:** Nintendo 64 &nbsp;|&nbsp; **Developer:** Japan System Supply &nbsp;|&nbsp; **Publisher:** SUNSOFT &nbsp;|&nbsp; **Genre:** Platform, Adventure &nbsp;|&nbsp; **Released:** December 6, 1997
+**Platforms:** Nintendo 64 &nbsp;|&nbsp; **Developer:** Japan System Supply &nbsp;|&nbsp; **Publisher:** Japan System Supply, Sunsoft &nbsp;|&nbsp; **Genre:** Platform &nbsp;|&nbsp; **Released:** December 9, 1997
 
 > Chameleon Twist is a 3D-Jump & Run, developed by Japan System Supply and released by Sunsoft in 1997.  After following a rabbit into a magical hole in the ground, the blue chameleon named Davy realises that he has taken on a humanoid form. In an attempt to find a way back home, Davy is traveling throughout six lands with his friends, Jack, Fred, and Linda; together they discover Jungle Land, Ant Land, Bomb Land, Desert Castle, Kids Land, and Ghost Castle to find the certain magic portal.
 >
 > _Synopsis source: IGDB_
 
-[IGDB](https://www.igdb.com/games/chameleon-twist)
+[Wikipedia](https://en.wikipedia.org/wiki/Chameleon_Twist) · [IGDB](https://www.igdb.com/games/chameleon-twist)
+
+---
+
+### Chopper Attack
+
+**Platforms:** Nintendo 64 &nbsp;|&nbsp; **Developer:** SETA Corporation &nbsp;|&nbsp; **Publisher:** SETA Corporation, Midway, GT Interactive &nbsp;|&nbsp; **Genre:** Third-person shooter &nbsp;|&nbsp; **Released:** November 28, 1997
+
+[Wikipedia](https://en.wikipedia.org/wiki/Chopper_Attack)
 
 ---
 
@@ -898,13 +2134,21 @@
 
 <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co3bc4.jpg" alt="ClayFighter 63 1/3 cover" width="200">
 
-**Platforms:** Nintendo 64 &nbsp;|&nbsp; **Developer:** Interplay &nbsp;|&nbsp; **Publisher:** Interplay, Gradiente &nbsp;|&nbsp; **Genre:** Fighting &nbsp;|&nbsp; **Released:** October 21, 1997
+**Platforms:** Nintendo 64 &nbsp;|&nbsp; **Developer:** Interplay Productions &nbsp;|&nbsp; **Publisher:** Interplay Productions &nbsp;|&nbsp; **Genre:** Fighting &nbsp;|&nbsp; **Released:** October 23, 1997
 
 > Get ready to crumble! Once again, the clay fighters prove that when you play a state-of-the-art fighter, you might lose lives, you might lose limbs, but there's no reason to lose your sense of humor! Fight in and out of 3D backgrounds. Get tossed out of a window and resume fighting outside. Choose form 12 eccentric fighters including brand new combatants and old favorites like "Bad Mister Frosty" and "Bonker the Clown." Includes bonus "secret characters" who are so famous that a legal gag order prohibits us from revealing their identity. Move freely in over 12 highly detailed 3D environments.
 >
 > _Synopsis source: IGDB_
 
-[IGDB](https://www.igdb.com/games/clayfighter-63-1-slash-3)
+[Wikipedia](https://en.wikipedia.org/wiki/ClayFighter_63_1/3) · [IGDB](https://www.igdb.com/games/clayfighter-63-1-slash-3)
+
+---
+
+### Dark Rift
+
+**Platforms:** Nintendo 64, Windows &nbsp;|&nbsp; **Developer:** Kronos Digital Entertainment &nbsp;|&nbsp; **Publisher:** Vic Tokai &nbsp;|&nbsp; **Genre:** Fighting &nbsp;|&nbsp; **Released:** July 8, 1997
+
+[Wikipedia](https://en.wikipedia.org/wiki/Dark_Rift)
 
 ---
 
@@ -926,13 +2170,21 @@
 
 <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2gro.jpg" alt="Doom 64 cover" width="200">
 
-**Platforms:** Nintendo 64 &nbsp;|&nbsp; **Developer:** Midway Studios San Diego &nbsp;|&nbsp; **Publisher:** Midway Home Entertainment &nbsp;|&nbsp; **Genre:** Shooter &nbsp;|&nbsp; **Released:** April 4, 1997
+**Platforms:** Nintendo 64 &nbsp;|&nbsp; **Developer:** Midway Studios San Diego &nbsp;|&nbsp; **Publisher:** Midway Games, GT Interactive &nbsp;|&nbsp; **Genre:** First-person shooter &nbsp;|&nbsp; **Released:** April 4, 1997
 
 > You killed the Demons once, they were all dead. Or so you thought... A single Demon Entity escaped detection. Systematically it altered decaying, dead carnage back into grotesque living tissue. The Demons have returned - stronger and more vicious than ever before. You mission is clear, there are no options: kill or be killed!
 >
 > _Synopsis source: IGDB_
 
-[IGDB](https://www.igdb.com/games/doom-64)
+[Wikipedia](https://en.wikipedia.org/wiki/Doom_64) · [IGDB](https://www.igdb.com/games/doom-64)
+
+---
+
+### Dual Heroes
+
+**Platforms:** Nintendo 64 &nbsp;|&nbsp; **Developer:** Produce! &nbsp;|&nbsp; **Publisher:** JP Hudson Soft, NA Electro Brain, PAL Gaga Interactive Media &nbsp;|&nbsp; **Genre:** Fighting &nbsp;|&nbsp; **Released:** December 5, 1997
+
+[Wikipedia](https://en.wikipedia.org/wiki/Dual_Heroes)
 
 ---
 
@@ -940,13 +2192,29 @@
 
 <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co7myg.jpg" alt="Extreme-G cover" width="200">
 
-**Platforms:** Nintendo 64 &nbsp;|&nbsp; **Developer:** Probe Entertainment &nbsp;|&nbsp; **Publisher:** Acclaim Entertainment, Gradiente &nbsp;|&nbsp; **Genre:** Shooter, Racing, Sport &nbsp;|&nbsp; **Released:** September 30, 1997
+**Platforms:** Nintendo 64 &nbsp;|&nbsp; **Developer:** Probe Entertainment &nbsp;|&nbsp; **Publisher:** Acclaim Entertainment &nbsp;|&nbsp; **Genre:** Racing &nbsp;|&nbsp; **Released:** October 27, 1997
 
 > Extreme-G is a futuristic racing game with an emphasis on speed. It also features many weapons and an F-Zero style energy shield and regeneration.
 >
 > _Synopsis source: IGDB_
 
-[IGDB](https://www.igdb.com/games/extreme-g)
+[Wikipedia](https://en.wikipedia.org/wiki/Extreme-G) · [IGDB](https://www.igdb.com/games/extreme-g)
+
+---
+
+### F1 Pole Position 64
+
+**Platforms:** Nintendo 64 &nbsp;|&nbsp; **Developer:** Human Entertainment &nbsp;|&nbsp; **Publisher:** Human Entertainment, Ubi Soft &nbsp;|&nbsp; **Genre:** Racing &nbsp;|&nbsp; **Released:** March 28, 1997
+
+[Wikipedia](https://en.wikipedia.org/wiki/F1_Pole_Position_64)
+
+---
+
+### Famista 64
+
+**Platforms:** Nintendo 64 &nbsp;|&nbsp; **Developer:** Namco &nbsp;|&nbsp; **Publisher:** Namco &nbsp;|&nbsp; **Genre:** Sports &nbsp;|&nbsp; **Released:** November 28, 1997
+
+[Wikipedia](https://en.wikipedia.org/wiki/Famista_64)
 
 ---
 
@@ -954,13 +2222,13 @@
 
 <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co207w.jpg" alt="FIFA Soccer 64 cover" width="200">
 
-**Platforms:** Nintendo 64 &nbsp;|&nbsp; **Developer:** EA Canada &nbsp;|&nbsp; **Publisher:** EA Sports &nbsp;|&nbsp; **Genre:** Sport &nbsp;|&nbsp; **Released:** February 28, 1997
+**Platforms:** Nintendo 64 &nbsp;|&nbsp; **Developer:** EA Canada &nbsp;|&nbsp; **Publisher:** EA Sports &nbsp;|&nbsp; **Genre:** Sports &nbsp;|&nbsp; **Released:** March 27, 1997
 
 > FIFA Soccer 64 delivers the intensity and drama of international soccer to the Nintendo 64. You can choose from 150 national and club teams and develop your tactics and strategies in a friendly match. And when the time comes, try to win a Tournament. If you like something more substantial than tournament play, try to win a Season and become a league champion, or skip straight to the Playoffs. Should a friend want to join the action, he can with the Two-Player mode. In all of the game modes, you can play with free-and-loose Arcade rules, or strict referees and penalties in Simulation. Thanks to the motion-captured animation, you'll get smooth and realistic player movement, which helps put you in the middle of the action. Try to become an international soccer sensation with FIFA Soccer 64
 >
 > _Synopsis source: IGDB_
 
-[IGDB](https://www.igdb.com/games/fifa-soccer-64)
+[Wikipedia](https://en.wikipedia.org/wiki/FIFA_Soccer_64) · [IGDB](https://www.igdb.com/games/fifa-soccer-64)
 
 ---
 
@@ -978,6 +2246,14 @@
 
 ---
 
+### Flying Dragon
+
+**Platforms:** Nintendo 64 &nbsp;|&nbsp; **Developer:** Culture Brain &nbsp;|&nbsp; **Publisher:** Culture Brain, Natsume Inc. &nbsp;|&nbsp; **Genre:** Fighting, role-playing &nbsp;|&nbsp; **Released:** December 18, 1997
+
+[Wikipedia](https://en.wikipedia.org/wiki/Flying_Dragon)
+
+---
+
 ### GoldenEye 007
 
 <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/cocckw.jpg" alt="GoldenEye 007 cover" width="200">
@@ -992,17 +2268,41 @@
 
 ---
 
+### J-League Dynamite Soccer 64
+
+**Platforms:** Nintendo 64 &nbsp;|&nbsp; **Developer:** A-Max &nbsp;|&nbsp; **Publisher:** Imagineer &nbsp;|&nbsp; **Genre:** Sports &nbsp;|&nbsp; **Released:** September 1997
+
+[Wikipedia](https://en.wikipedia.org/wiki/J-League_Dynamite_Soccer_64)
+
+---
+
+### J-League Eleven Beat 1997
+
+**Platforms:** Nintendo 64 &nbsp;|&nbsp; **Developer:** Hudson Soft &nbsp;|&nbsp; **Publisher:** Hudson Soft &nbsp;|&nbsp; **Genre:** Sports &nbsp;|&nbsp; **Released:** October 24, 1997
+
+[Wikipedia](https://en.wikipedia.org/wiki/J-League_Eleven_Beat_1997)
+
+---
+
 ### Mace: The Dark Age
 
 <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2ey8.jpg" alt="Mace: The Dark Age cover" width="200">
 
-**Platforms:** Arcade, Nintendo 64 &nbsp;|&nbsp; **Developer:** Atari Games, Midway Games &nbsp;|&nbsp; **Publisher:** Midway Games, Gradiente &nbsp;|&nbsp; **Genre:** Fighting, Sport &nbsp;|&nbsp; **Released:** March 1, 1997
+**Platforms:** Arcade, Nintendo 64 &nbsp;|&nbsp; **Developer:** Atari Games &nbsp;|&nbsp; **Publisher:** Atari Games, Midway Home Entertainment, GT Interactive Software &nbsp;|&nbsp; **Genre:** Fighting &nbsp;|&nbsp; **Released:** March 1997
 
 > Mace: The Dark Age is a fighting video game released by Atari for arcade machines in 1997 and ported by Midway to the Nintendo 64 in 1997.  The game is similar to Bio F.R.E.A.K.S. and the Mortal Kombat series. Like in Mortal Kombat, when a character wins both rounds, they can perform an execution move on the enemy. Methods included severing an opponent's limbs and torso (Al Rashid), beheading (The Executioner), repeated stabbing (Koyasha), impaling the opponent with a sword (Lord Deimos), breaking an opponent's back by hoisting them on top of a Viking helmet and throwing them to the ground, causing their body to explode (Ragnar), and some more far-fetched methods including pulling out an opponent's heart (Xiao Long), shrinking (Namira), transforming the opponent into a chicken (Taria), and entering an opponent's body and bursting them from inside (Dregan).  Note: Heavily borrowing from the arcade game Soul Edge (1995)--first of the Souls Series. Which borrowed heavily from the framework WeaponLord (1995) laid out. Visual Concepts (developers of WeaponLord) would send builds of the game to Namco (the publisher of WeaponLord) to playtest.
 >
 > _Synopsis source: IGDB_
 
-[IGDB](https://www.igdb.com/games/mace-the-dark-age)
+[Wikipedia](https://en.wikipedia.org/wiki/Mace:_The_Dark_Age) · [IGDB](https://www.igdb.com/games/mace-the-dark-age)
+
+---
+
+### Madden Football 64
+
+**Platforms:** Nintendo 64 &nbsp;|&nbsp; **Developer:** Tiburon Entertainment &nbsp;|&nbsp; **Publisher:** EA Sports &nbsp;|&nbsp; **Genre:** Sports &nbsp;|&nbsp; **Released:** October 1997
+
+[Wikipedia](https://en.wikipedia.org/wiki/Madden_Football_64)
 
 ---
 
@@ -1014,17 +2314,25 @@
 
 ---
 
+### Masters '98: Harukanaru Augusta
+
+**Platforms:** Nintendo 64 &nbsp;|&nbsp; **Developer:** T&E Soft &nbsp;|&nbsp; **Publisher:** T&E Soft &nbsp;|&nbsp; **Genre:** Sports &nbsp;|&nbsp; **Released:** December 26, 1997
+
+[Wikipedia](https://en.wikipedia.org/wiki/Masters_'98:_Harukanaru_Augusta)
+
+---
+
 ### Mischief Makers
 
 <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/cobyes.jpg" alt="Mischief Makers cover" width="200">
 
-**Platforms:** Nintendo 64 &nbsp;|&nbsp; **Developer:** Treasure &nbsp;|&nbsp; **Publisher:** Nintendo, Enix, Gradiente &nbsp;|&nbsp; **Genre:** Platform, Puzzle &nbsp;|&nbsp; **Released:** June 27, 1997
+**Platforms:** Nintendo 64 &nbsp;|&nbsp; **Developer:** Treasure &nbsp;|&nbsp; **Publisher:** Enix, Nintendo &nbsp;|&nbsp; **Genre:** Platform &nbsp;|&nbsp; **Released:** June 27, 1997
 
 > Mischief Makers is a Single-Player Video Game for the Nintendo 64 that was released in the United States on October 1st, 1997. The protagonist is the Ultra-Intergalactic-Cybot G, Marina Liteyears. She must protect the clumsy and lighthearted Professor Theo from the evil emperor. While visiting Planet Clancer, the Professor is suddenly kidnapped by the empire, and thus starts our game. The player must travel to different worlds and utilize widely innovative and different modes of gameplay to save the professor. To get 100% completion one must collect a golden gem in each stage and achieve super fast completion ranks.
 >
 > _Synopsis source: IGDB_
 
-[IGDB](https://www.igdb.com/games/mischief-makers)
+[Wikipedia](https://en.wikipedia.org/wiki/Mischief_Makers) · [IGDB](https://www.igdb.com/games/mischief-makers)
 
 ---
 
@@ -1056,17 +2364,25 @@
 
 ---
 
+### MRC: Multi-Racing Championship
+
+**Platforms:** Nintendo 64 &nbsp;|&nbsp; **Developer:** Genki &nbsp;|&nbsp; **Publisher:** Imagineer, Ocean &nbsp;|&nbsp; **Genre:** Racing &nbsp;|&nbsp; **Released:** July 18, 1997
+
+[Wikipedia](https://en.wikipedia.org/wiki/MRC:_Multi-Racing_Championship)
+
+---
+
 ### Mystical Ninja Starring Goemon
 
 <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co56g4.jpg" alt="Mystical Ninja Starring Goemon cover" width="200">
 
-**Platforms:** Nintendo 64 &nbsp;|&nbsp; **Developer:** Konami &nbsp;|&nbsp; **Publisher:** Konami, Gradiente &nbsp;|&nbsp; **Genre:** Platform, Adventure &nbsp;|&nbsp; **Released:** August 7, 1997
+**Platforms:** Nintendo 64 &nbsp;|&nbsp; **Developer:** Konami Computer Entertainment Osaka &nbsp;|&nbsp; **Publisher:** Konami &nbsp;|&nbsp; **Genre:** Action-adventure &nbsp;|&nbsp; **Released:** August 7, 1997
 
 > The story follows Goemon's struggles to prevent the Peach Mountain Shoguns gang from turning Japan into a Westernized fine arts theater. The plot calls for three cinematic musical features and battles between giant robots; like other Ganbare Goemon games, it is peppered with surrealist humor and anachronisms.  The protagonist of Mystical Ninja is Goemon, a hot-blooded, kiseru-wielding ninja with blue, bushy hair based loosely on the legendary thief Ishikawa Goemon. The lord of Oedo asks him to find those who maimed Oedo Castle. Goemon lives in Oedo Town and is friends with Ebisumaru, a strange, gluttonous fat man who wears a blue bandana. Ebisumaru is defined as lazy and perverted. Their kunai-throwing friend Sasuke is a mechanical ninja (made by the Wise Man of Iga) who enjoys hot baths and Japanese tea. Rounding out the heroes is Yae, a fierce sword-wielding kunoichi, who happens upon Goemon's band in Zazen Town. The villains of the game hail from the organization Peach Mountain Shoguns and include a gang of four "weirdos" led by Spring Breeze Dancin' (Danshin Harukaze) and Kitty Lily (Margaret Ranko). They intend to transform Japan into a stage for their talents.
 >
 > _Synopsis source: IGDB_
 
-[IGDB](https://www.igdb.com/games/mystical-ninja-starring-goemon)
+[Wikipedia](https://en.wikipedia.org/wiki/Mystical_Ninja_Starring_Goemon) · [IGDB](https://www.igdb.com/games/mystical-ninja-starring-goemon)
 
 ---
 
@@ -1074,13 +2390,29 @@
 
 <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co39vf.jpg" alt="Nagano Winter Olympics '98 cover" width="200">
 
-**Platforms:** Nintendo 64, PlayStation &nbsp;|&nbsp; **Developer:** Konami &nbsp;|&nbsp; **Publisher:** Konami, Gradiente &nbsp;|&nbsp; **Genre:** Sport &nbsp;|&nbsp; **Released:** December 18, 1997
+**Platforms:** PlayStation, Nintendo 64 &nbsp;|&nbsp; **Developer:** Konami Computer Entertainment Osaka, Konami Computer Entertainment Tokyo &nbsp;|&nbsp; **Publisher:** Konami &nbsp;|&nbsp; **Genre:** Sports &nbsp;|&nbsp; **Released:** December 18, 1997
 
 > The Nagano Winter Olympic Games are here! Experience all of the thrills, spills and "chills" as you compete for glory against the rest of the world. It's time to find out what you're made of...Can you bring home a medal? 12 exciting Olympic events! 16 different countries! 1-4 player action. Set new world records and save them to your Controller Pak. Real-time motion captured athletes.
 >
 > _Synopsis source: IGDB_
 
-[IGDB](https://www.igdb.com/games/nagano-winter-olympics-98)
+[Wikipedia](https://en.wikipedia.org/wiki/Nagano_Winter_Olympics_'98) · [IGDB](https://www.igdb.com/games/nagano-winter-olympics-98)
+
+---
+
+### NFL Quarterback Club 98
+
+**Platforms:** Nintendo 64 &nbsp;|&nbsp; **Developer:** Iguana Entertainment &nbsp;|&nbsp; **Publisher:** Acclaim Entertainment &nbsp;|&nbsp; **Genre:** Sports, American football &nbsp;|&nbsp; **Released:** October 24, 1997
+
+[Wikipedia](https://en.wikipedia.org/wiki/NFL_Quarterback_Club_98)
+
+---
+
+### Power League 64
+
+**Platforms:** Nintendo 64 &nbsp;|&nbsp; **Developer:** Hudson Soft &nbsp;|&nbsp; **Publisher:** Hudson Soft &nbsp;|&nbsp; **Genre:** Sports &nbsp;|&nbsp; **Released:** August 8, 1997
+
+[Wikipedia](https://en.wikipedia.org/wiki/Power_League_64)
 
 ---
 
@@ -1088,13 +2420,13 @@
 
 <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co28cg.jpg" alt="Snowboard Kids cover" width="200">
 
-**Platforms:** Nintendo 64 &nbsp;|&nbsp; **Developer:** Racdym &nbsp;|&nbsp; **Publisher:** Atlus &nbsp;|&nbsp; **Genre:** Racing, Sport &nbsp;|&nbsp; **Released:** December 12, 1997
+**Platforms:** Nintendo 64 &nbsp;|&nbsp; **Developer:** Racdym &nbsp;|&nbsp; **Publisher:** Atlus, Nintendo &nbsp;|&nbsp; **Genre:** Snowboarding &nbsp;|&nbsp; **Released:** December 12, 1997
 
 > The kids are arguing about their snowboarding skills. The debate escalates to the point where they decide to hold a snowboarding tournament to determine who is the best. One character, Shinobin, has no involvement whatsoever until he is unlocked by the player.  In addition to the usual gameplay of a snowboarding game, Snowboard Kids adds "Shots" (special weapons used to attack players) and items which can help the player, hinder other players, or both.  The game has nine main courses. Although some of the courses are snowy mountains, many are courses that would be unorthodox for snowboarding in the real world. Such courses include an amusement park, a desert, a vast valley, a dark highway, and a Japanese village during the cherry blossom festival.  There were several game mechanics that were unique to Snowboard Kids from other snowboard games and racing games at the time. One was the addition of the second item slot, allowing each player to carry a shooting item and support item (such as a rock, or invisibility) at the same time. Also, players needed to pay 100 gold in order to grab an item during the race, which could be obtained either through performing tricks or collecting coins scattered across the course. All courses also required players to race down the hill for multiple laps. Once a player had reached the bottom of the hill, he or she would need to pass through the lift gate to be transported back to the top of the hill, and could not be attacked by other players in this transition.
 >
 > _Synopsis source: IGDB_
 
-[IGDB](https://www.igdb.com/games/snowboard-kids)
+[Wikipedia](https://en.wikipedia.org/wiki/Snowboard_Kids) · [IGDB](https://www.igdb.com/games/snowboard-kids)
 
 ---
 
@@ -1130,13 +2462,13 @@
 
 <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co47wz.jpg" alt="Top Gear Rally cover" width="200">
 
-**Platforms:** Nintendo 64 &nbsp;|&nbsp; **Developer:** Boss Game Studios, Kemco &nbsp;|&nbsp; **Publisher:** Midway Games, Kemco, Gradiente &nbsp;|&nbsp; **Genre:** Racing, Sport &nbsp;|&nbsp; **Released:** September 10, 1997
+**Platforms:** Nintendo 64 &nbsp;|&nbsp; **Developer:** Boss Game Studios &nbsp;|&nbsp; **Publisher:** Midway, Kemco &nbsp;|&nbsp; **Genre:** Racing &nbsp;|&nbsp; **Released:** September 30, 1997
 
 > Top Gear Rally is a 1997 racing video game developed by Boss Game Studios and released for the Nintendo 64. A follow-up to Kemco's original Top Gear game, it features a championship mode where a single player must complete six seasons of two to four races, as well as a multiplayer mode where two players may compete against each other via a split-screen display.
 >
 > _Synopsis source: IGDB_
 
-[IGDB](https://www.igdb.com/games/top-gear-rally)
+[Wikipedia](https://en.wikipedia.org/wiki/Top_Gear_Rally) · [IGDB](https://www.igdb.com/games/top-gear-rally)
 
 ---
 
@@ -1151,6 +2483,30 @@
 > _Synopsis source: IGDB_
 
 [IGDB](https://www.igdb.com/games/turok-dinosaur-hunter)
+
+---
+
+### Ucchannanchan no Honō no Challenger: Denryū Iraira Bō
+
+**Platforms:** Nintendo 64 &nbsp;|&nbsp; **Developer:** Yuke's &nbsp;|&nbsp; **Publisher:** Hudson &nbsp;|&nbsp; **Genre:** Puzzle &nbsp;|&nbsp; **Released:** December 19, 1997
+
+[Wikipedia](https://en.wikipedia.org/wiki/Ucchannanchan_no_Hon%C5%8D_no_Challenger:_Denry%C5%AB_Iraira_B%C5%8D)
+
+---
+
+### Virtual Pro Wrestling 64
+
+**Platforms:** Nintendo 64 &nbsp;|&nbsp; **Developer:** Asmik Ace Entertainment, AKI Corporation &nbsp;|&nbsp; **Publisher:** Asmik Ace Entertainment &nbsp;|&nbsp; **Genre:** Wrestling &nbsp;|&nbsp; **Released:** December 19, 1997
+
+[Wikipedia](https://en.wikipedia.org/wiki/Virtual_Pro_Wrestling_64)
+
+---
+
+### Wayne Gretzky's 3D Hockey '98
+
+**Platforms:** Nintendo 64, PlayStation &nbsp;|&nbsp; **Developer:** Software Creations &nbsp;|&nbsp; **Publisher:** Midway &nbsp;|&nbsp; **Genre:** Sports &nbsp;|&nbsp; **Released:** December 3, 1997
+
+[Wikipedia](https://en.wikipedia.org/wiki/Wayne_Gretzky's_3D_Hockey_'98)
 
 ---
 
@@ -1185,6 +2541,22 @@
 ## 1996
 
 [Full 1996 page](../years/1996.md)
+
+### Chōkūkan Night: Pro Yakyū King
+
+**Platforms:** Nintendo 64 &nbsp;|&nbsp; **Developer:** Genki &nbsp;|&nbsp; **Publisher:** Imagineer &nbsp;|&nbsp; **Genre:** Sports &nbsp;|&nbsp; **Released:** December 20, 1996
+
+[Wikipedia](https://en.wikipedia.org/wiki/Ch%C5%8Dk%C5%ABkan_Night:_Pro_Yaky%C5%AB_King)
+
+---
+
+### Cruis'n USA
+
+**Platforms:** Arcade, Nintendo 64 &nbsp;|&nbsp; **Developer:** TV Games Inc., Leland Interactive Media &nbsp;|&nbsp; **Publisher:** Nintendo, Midway Games &nbsp;|&nbsp; **Genre:** Racing &nbsp;|&nbsp; **Released:** December 2, 1996
+
+[Wikipedia](https://en.wikipedia.org/wiki/Cruis'n_USA)
+
+---
 
 ### International Superstar Soccer 64
 
@@ -1240,6 +2612,14 @@
 
 ---
 
+### Saikyō Habu Shōgi
+
+**Platforms:** Nintendo 64 &nbsp;|&nbsp; **Developer:** Seta &nbsp;|&nbsp; **Publisher:** Seta &nbsp;|&nbsp; **Genre:** Board game &nbsp;|&nbsp; **Released:** June 23, 1996
+
+[Wikipedia](https://en.wikipedia.org/wiki/Saiky%C5%8D_Habu_Sh%C5%8Dgi)
+
+---
+
 ### Star Wars: Shadows of the Empire
 
 **Platforms:** Nintendo 64 &nbsp;|&nbsp; **Developer/Publisher:** LucasArts / Nintendo &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** December 3
@@ -1259,5 +2639,21 @@
 **Platforms:** Nintendo 64 &nbsp;|&nbsp; **Publisher:** Nintendo &nbsp;|&nbsp; **Released:** September 27, 1996
 
 [Wikipedia](https://en.wikipedia.org/wiki/Wave_Race_64)
+
+---
+
+### Wayne Gretzky's 3D Hockey
+
+**Platforms:** Arcade, Nintendo 64 &nbsp;|&nbsp; **Developer:** Atari Games &nbsp;|&nbsp; **Publisher:** Atari Games, Midway Home Entertainment &nbsp;|&nbsp; **Genre:** Sports &nbsp;|&nbsp; **Released:** October 1996
+
+[Wikipedia](https://en.wikipedia.org/wiki/Wayne_Gretzky's_3D_Hockey)
+
+---
+
+### Wonder Project J2
+
+**Platforms:** Nintendo 64 &nbsp;|&nbsp; **Developer:** Givro Corporation &nbsp;|&nbsp; **Publisher:** Enix &nbsp;|&nbsp; **Genre:** Life simulation &nbsp;|&nbsp; **Released:** November 22, 1996
+
+[Wikipedia](https://en.wikipedia.org/wiki/Wonder_Project_J2)
 
 ---

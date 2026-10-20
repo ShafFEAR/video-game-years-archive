@@ -2,29 +2,31 @@
 
 [← Back to index](../README.md)
 
-2 titles across 2 years in this archive.
+4 titles across 2 years in this archive.
 
-## 1993
+## 2021
 
-[Full 1993 page](../years/1993.md)
+[Full 2021 page](../years/2021.md)
 
-### Fatal Fury Special
+### Ruined King
 
-<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co3b7p.jpg" alt="Fatal Fury Special cover" width="200">
+**Platforms:** Nintendo Switch, PlayStation 4, Windows, Xbox One, Sharp X1 &nbsp;|&nbsp; **Developer:** Airship Syndicate &nbsp;|&nbsp; **Publisher:** Riot Forge &nbsp;|&nbsp; **Genre:** Role-playing &nbsp;|&nbsp; **Released:** November 16, 2021
 
-**Platforms:** Arcade, Neo Geo AES, Sega CD, Game Gear, Sharp X1, Super Nintendo Entertainment System &nbsp;|&nbsp; **Developer:** JVC Musical Industries, SNK &nbsp;|&nbsp; **Publisher:** Takara, Magical Company, Victor Entertainment, Japan Home Video Co., JVC Musical Industries, Hudson Soft, SNK &nbsp;|&nbsp; **Genre:** Fighting &nbsp;|&nbsp; **Released:** September 16, 1993
-
-> The GRANDMOTHER of all battles! 15 of the FATAL FURY series' top stars gather in the match of the millenium! Use the resurrected Geese Howard and Wolfgang Krauser in a dazzling arena! All you have ever wanted in a fighting game is here in FATAL FURY SPECIAL!
->
-> _Synopsis source: IGDB_
-
-[IGDB](https://www.igdb.com/games/fatal-fury-special)
+[Wikipedia](https://en.wikipedia.org/wiki/Ruined_King)
 
 ---
 
 ## 1990
 
 [Full 1990 page](../years/1990.md)
+
+### L'Empereur
+
+**Platforms:** MSX, PC-8800 series, PC-9800 series, Sharp X1, Sharp X68000 &nbsp;|&nbsp; **Developer:** Koei &nbsp;|&nbsp; **Publisher:** Koei &nbsp;|&nbsp; **Genre:** Turn-based strategy
+
+[Wikipedia](https://en.wikipedia.org/wiki/L'Empereur)
+
+---
 
 ### SimEarth: The Living Planet
 
@@ -37,5 +39,13 @@
 > _Synopsis source: IGDB_
 
 [IGDB](https://www.igdb.com/games/simearth-the-living-planet--2)
+
+---
+
+### Tunnels & Trolls: Crusaders of Khazan
+
+**Platforms:** MS-DOS, FM Towns, PC-8800 series, PC-9800 series, Sharp X1, Sharp X68000 &nbsp;|&nbsp; **Developer:** New World Computing, Flying Buffalo, Fiery Dragon Productions &nbsp;|&nbsp; **Publisher:** New World Computing &nbsp;|&nbsp; **Genre:** Role-playing
+
+[Wikipedia](https://en.wikipedia.org/wiki/Tunnels_&_Trolls:_Crusaders_of_Khazan)
 
 ---

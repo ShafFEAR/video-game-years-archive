@@ -2,7 +2,19 @@
 
 [← Back to index](../README.md)
 
-789 titles across 14 years in this archive.
+1154 titles across 16 years in this archive.
+
+## 2021
+
+[Full 2021 page](../years/2021.md)
+
+### Thatcher's Techbase
+
+**Platforms:** Windows, macOS, Linux, Android, Nintendo 3DS, Wii &nbsp;|&nbsp; **Developer:** 3D: Doom Daddy Digital &nbsp;|&nbsp; **Genre:** First-person shooter &nbsp;|&nbsp; **Released:** September 24, 2021
+
+[Wikipedia](https://en.wikipedia.org/wiki/Thatcher's_Techbase)
+
+---
 
 ## 2019
 
@@ -67,6 +79,14 @@
 **Platforms:** PlayStation 3, PlayStation 4, Xbox 360, Xbox One, Wii U, Wii &nbsp;|&nbsp; **Genre:** Music, Rhythm &nbsp;|&nbsp; **Released:** October 20
 
 [Wikipedia](https://en.wikipedia.org/wiki/Just_Dance_2016)
+
+---
+
+### Just Dance: Disney Party 2
+
+**Platforms:** Xbox 360, Xbox One, Wii, Wii U &nbsp;|&nbsp; **Developer:** Ubisoft San Francisco &nbsp;|&nbsp; **Publisher:** Ubisoft &nbsp;|&nbsp; **Genre:** Music, rhythm, dance &nbsp;|&nbsp; **Released:** October 20, 2015
+
+[Wikipedia](https://en.wikipedia.org/wiki/Just_Dance:_Disney_Party_2)
 
 ---
 
@@ -168,6 +188,14 @@
 
 ---
 
+### Ben 10: Omniverse 2
+
+**Platforms:** Nintendo 3DS, PlayStation 3, Wii, Wii U, Xbox 360 &nbsp;|&nbsp; **Publisher:** D3 Publisher, Namco Bandai Games &nbsp;|&nbsp; **Genre:** Beat 'em up &nbsp;|&nbsp; **Released:** November 5, 2013
+
+[Wikipedia](https://en.wikipedia.org/wiki/Ben_10:_Omniverse_2)
+
+---
+
 ### Deer Drive Legends
 
 **Platforms:** Wii &nbsp;|&nbsp; **Genre:** Sports &nbsp;|&nbsp; **Released:** November 19
@@ -223,6 +251,14 @@
 > _Synopsis source: IGDB_
 
 [Wikipedia](https://en.wikipedia.org/wiki/Just_Dance_2014) · [IGDB](https://www.igdb.com/games/just-dance-2014)
+
+---
+
+### Just Dance Kids 2014
+
+**Platforms:** Wii, Wii U, Xbox 360 &nbsp;|&nbsp; **Developer:** Ubisoft Osaka &nbsp;|&nbsp; **Publisher:** Ubisoft &nbsp;|&nbsp; **Genre:** Music, Rhythm &nbsp;|&nbsp; **Released:** October 22, 2013
+
+[Wikipedia](https://en.wikipedia.org/wiki/Just_Dance_Kids_2014)
 
 ---
 
@@ -332,6 +368,14 @@
 
 [Full 2012 page](../years/2012.md)
 
+### 2 Fast 4 Gnomz
+
+**Platforms:** Nintendo 3DS, Wii &nbsp;|&nbsp; **Developer:** QubicGames &nbsp;|&nbsp; **Publisher:** QubicGames, Flyhigh Works &nbsp;|&nbsp; **Genre:** Platform &nbsp;|&nbsp; **Released:** February 23, 2012
+
+[Wikipedia](https://en.wikipedia.org/wiki/2_Fast_4_Gnomz)
+
+---
+
 ### Brave
 
 **Platforms:** Windows, PlayStation 3, Xbox 360, Wii, PlayStation Vita, Nintendo DS, Nintendo 3DS &nbsp;|&nbsp; **Released:** June 19
@@ -340,9 +384,33 @@
 
 ---
 
+### Cabela's Dangerous Hunts 2013
+
+**Platforms:** Wii U, PlayStation 3, Xbox 360, Windows, Wii &nbsp;|&nbsp; **Developer:** Cauldron &nbsp;|&nbsp; **Publisher:** Activision &nbsp;|&nbsp; **Genre:** Hunting, action, simulation &nbsp;|&nbsp; **Released:** October 23, 2012
+
+[Wikipedia](https://en.wikipedia.org/wiki/Cabela's_Dangerous_Hunts_2013)
+
+---
+
+### Captain Morgane and the Golden Turtle
+
+**Platforms:** Windows, PlayStation 3, Wii, Nintendo DS &nbsp;|&nbsp; **Developer:** Wizarbox &nbsp;|&nbsp; **Publisher:** Reef Entertainment &nbsp;|&nbsp; **Genre:** Adventure &nbsp;|&nbsp; **Released:** March 16, 2012
+
+[Wikipedia](https://en.wikipedia.org/wiki/Captain_Morgane_and_the_Golden_Turtle)
+
+---
+
 ### Disney Princess: My Fairytale Adventure
 
 **Platforms:** Nintendo 3DS, Wii, Windows &nbsp;|&nbsp; **Released:** September 14
+
+---
+
+### Dragon Quest X
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** Square Enix &nbsp;|&nbsp; **Publisher:** Square Enix &nbsp;|&nbsp; **Genre:** Massively multiplayer online role-playing &nbsp;|&nbsp; **Released:** August 2, 2012
+
+[Wikipedia](https://en.wikipedia.org/wiki/Dragon_Quest_X)
 
 ---
 
@@ -360,6 +428,14 @@
 
 ---
 
+### Ice Age: Continental Drift – Arctic Games
+
+**Platforms:** Nintendo 3DS, Nintendo DS, PlayStation 3, Wii, Windows, Xbox 360 &nbsp;|&nbsp; **Developer:** Behaviour Interactive &nbsp;|&nbsp; **Publisher:** Activision Publishing &nbsp;|&nbsp; **Genre:** Action-adventure &nbsp;|&nbsp; **Released:** June 29, 2012
+
+[Wikipedia](https://en.wikipedia.org/wiki/Ice_Age:_Continental_Drift_%E2%80%93_Arctic_Games)
+
+---
+
 ### Just Dance 4
 
 <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co1xf6.jpg" alt="Just Dance 4 cover" width="200">
@@ -374,9 +450,41 @@
 
 ---
 
+### Just Dance Wii 2
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** Ubisoft Paris &nbsp;|&nbsp; **Publisher:** Nintendo &nbsp;|&nbsp; **Genre:** Music, rhythm &nbsp;|&nbsp; **Released:** July 26, 2012
+
+[Wikipedia](https://en.wikipedia.org/wiki/Just_Dance_Wii_2)
+
+---
+
 ### Just Dance: Best Of
 
 **Platforms:** Xbox 360, Wii &nbsp;|&nbsp; **Released:** June 26
+
+---
+
+### Just Dance: Disney Party
+
+**Platforms:** Xbox 360, Wii &nbsp;|&nbsp; **Developer:** Land Ho! &nbsp;|&nbsp; **Publisher:** Ubisoft &nbsp;|&nbsp; **Genre:** Music, Rhythm, Dance &nbsp;|&nbsp; **Released:** October 23, 2012
+
+[Wikipedia](https://en.wikipedia.org/wiki/Just_Dance:_Disney_Party)
+
+---
+
+### Just Dance: Greatest Hits
+
+**Platforms:** Wii, Xbox 360 &nbsp;|&nbsp; **Developer:** Ubisoft Paris, Ubisoft Montreal &nbsp;|&nbsp; **Publisher:** Ubisoft &nbsp;|&nbsp; **Genre:** Music, rhythm &nbsp;|&nbsp; **Released:** March 29, 2012
+
+[Wikipedia](https://en.wikipedia.org/wiki/Just_Dance:_Greatest_Hits)
+
+---
+
+### Kiki Trick
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** Nintendo SPD &nbsp;|&nbsp; **Publisher:** Nintendo &nbsp;|&nbsp; **Genre:** Music, party &nbsp;|&nbsp; **Released:** January 19, 2012
+
+[Wikipedia](https://en.wikipedia.org/wiki/Kiki_Trick)
 
 ---
 
@@ -508,6 +616,14 @@
 
 ---
 
+### Project Zero 2: Wii Edition
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** Tecmo Koei Games &nbsp;|&nbsp; **Publisher:** Nintendo &nbsp;|&nbsp; **Genre:** Survival horror &nbsp;|&nbsp; **Released:** June 28, 2012
+
+[Wikipedia](https://en.wikipedia.org/wiki/Project_Zero_2:_Wii_Edition)
+
+---
+
 ### Rhythm Heaven Fever
 
 **Platforms:** Wii &nbsp;|&nbsp; **Released:** February 13
@@ -522,6 +638,14 @@
 
 ---
 
+### Sesame Street: Elmo's Musical Monsterpiece
+
+**Platforms:** Wii, Nintendo DS &nbsp;|&nbsp; **Developer:** Griptonite Games &nbsp;|&nbsp; **Publisher:** Warner Bros. Interactive Entertainment &nbsp;|&nbsp; **Genre:** Adventure, edutainment &nbsp;|&nbsp; **Released:** June 15, 2012
+
+[Wikipedia](https://en.wikipedia.org/wiki/Sesame_Street:_Elmo's_Musical_Monsterpiece)
+
+---
+
 ### Skylanders: Giants
 
 <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co1ysh.jpg" alt="Skylanders: Giants cover" width="200">
@@ -533,6 +657,14 @@
 > _Synopsis source: IGDB_
 
 [IGDB](https://www.igdb.com/games/skylanders-giants)
+
+---
+
+### Stonekeep: Bones of the Ancestors
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** Alpine Studios &nbsp;|&nbsp; **Publisher:** Interplay Entertainment
+
+[Wikipedia](https://en.wikipedia.org/wiki/Stonekeep:_Bones_of_the_Ancestors)
 
 ---
 
@@ -556,6 +688,22 @@
 
 ---
 
+### The Cube
+
+**Platforms:** Nintendo 3DS, PlayStation 3, Wii &nbsp;|&nbsp; **Developer:** Route 1 Games &nbsp;|&nbsp; **Publisher:** Funbox Media &nbsp;|&nbsp; **Genre:** Puzzle &nbsp;|&nbsp; **Released:** November 16, 2012
+
+[Wikipedia](https://en.wikipedia.org/wiki/The_Cube_(video_game))
+
+---
+
+### The Hip Hop Dance Experience
+
+**Platforms:** Wii, Xbox 360 &nbsp;|&nbsp; **Developer:** iNiS, Land Ho! &nbsp;|&nbsp; **Publisher:** Ubisoft &nbsp;|&nbsp; **Genre:** Dance &nbsp;|&nbsp; **Released:** November 13, 2012
+
+[Wikipedia](https://en.wikipedia.org/wiki/The_Hip_Hop_Dance_Experience)
+
+---
+
 ### The Last Story
 
 **Platforms:** Wii &nbsp;|&nbsp; **Released:** August 14
@@ -573,6 +721,14 @@
 ### Victorious: Taking the Lead
 
 **Platforms:** Nintendo DS, Wii &nbsp;|&nbsp; **Released:** November 13
+
+---
+
+### We Sing Pop!
+
+**Platforms:** Wii, Xbox One, PlayStation 4 &nbsp;|&nbsp; **Developer:** Le Cortex &nbsp;|&nbsp; **Publisher:** Nordic Games &nbsp;|&nbsp; **Genre:** Music Video game &nbsp;|&nbsp; **Released:** March 23, 2012
+
+[Wikipedia](https://en.wikipedia.org/wiki/We_Sing_Pop!)
 
 ---
 
@@ -598,13 +754,37 @@
 
 ---
 
+### Zumba Fitness Core
+
+**Platforms:** Wii, Xbox 360 &nbsp;|&nbsp; **Developer:** Zoë Mode &nbsp;|&nbsp; **Publisher:** Majesco &nbsp;|&nbsp; **Genre:** Fitness game &nbsp;|&nbsp; **Released:** October 16, 2012
+
+[Wikipedia](https://en.wikipedia.org/wiki/Zumba_Fitness_Core)
+
+---
+
 ## 2011
 
 [Full 2011 page](../years/2011.md)
 
+### 3D Pixel Racing
+
+**Platforms:** Wii, iOS &nbsp;|&nbsp; **Developer:** Vidia &nbsp;|&nbsp; **Publisher:** Microforum Games, Vidia &nbsp;|&nbsp; **Genre:** Racing &nbsp;|&nbsp; **Released:** July 14, 2011
+
+[Wikipedia](https://en.wikipedia.org/wiki/3D_Pixel_Racing)
+
+---
+
 ### ABBA: You Can Dance
 
 **Platforms:** Wii &nbsp;|&nbsp; **Released:** November 15
+
+---
+
+### AFL
+
+**Platforms:** Wii, iOS &nbsp;|&nbsp; **Developer:** Wicked Witch Software &nbsp;|&nbsp; **Publisher:** Tru Blu Entertainment &nbsp;|&nbsp; **Genre:** Sports &nbsp;|&nbsp; **Released:** May 19, 2011
+
+[Wikipedia](https://en.wikipedia.org/wiki/AFL_(2011_video_game))
 
 ---
 
@@ -628,11 +808,35 @@
 
 ---
 
+### Bit.Trip Complete
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** Gaijin Games &nbsp;|&nbsp; **Publisher:** Aksys Games, Rising Star Games &nbsp;|&nbsp; **Genre:** Action, music &nbsp;|&nbsp; **Released:** September 13, 2011
+
+[Wikipedia](https://en.wikipedia.org/wiki/Bit.Trip_Complete)
+
+---
+
+### Bit.Trip Flux
+
+**Platforms:** Wii, Nintendo 3DS &nbsp;|&nbsp; **Developer:** Gaijin Games &nbsp;|&nbsp; **Publisher:** Aksys Games, Gaijin Games, QubicGames &nbsp;|&nbsp; **Genre:** Action, Music &nbsp;|&nbsp; **Released:** February 25, 2011
+
+[Wikipedia](https://en.wikipedia.org/wiki/Bit.Trip_Flux)
+
+---
+
 ### Cabela's Adventure Camp
 
 **Platforms:** PlayStation 3, Wii, Xbox 360 &nbsp;|&nbsp; **Released:** November 1
 
 [Wikipedia](https://en.wikipedia.org/wiki/Cabela%27s_Adventure_Camp)
+
+---
+
+### Cabela's Big Game Hunter 2012
+
+**Platforms:** PlayStation 3, Wii, Xbox 360 &nbsp;|&nbsp; **Developer:** Cauldron &nbsp;|&nbsp; **Publisher:** Activision &nbsp;|&nbsp; **Genre:** Sports &nbsp;|&nbsp; **Released:** September 27, 2011
+
+[Wikipedia](https://en.wikipedia.org/wiki/Cabela's_Big_Game_Hunter_2012)
 
 ---
 
@@ -662,11 +866,27 @@
 
 ---
 
+### Carmen Sandiego Adventures in Math
+
+**Platforms:** Wii, Windows &nbsp;|&nbsp; **Developer:** Houghton Mifflin Harcourt &nbsp;|&nbsp; **Publisher:** The Learning Company &nbsp;|&nbsp; **Genre:** Educational game
+
+[Wikipedia](https://en.wikipedia.org/wiki/Carmen_Sandiego_Adventures_in_Math)
+
+---
+
 ### Cars 2
 
 **Platforms:** Windows, Xbox 360, PlayStation 3, Wii, Nintendo DS, Nintendo 3DS, PlayStation Portable &nbsp;|&nbsp; **Released:** June 21
 
 [Wikipedia](https://en.wikipedia.org/wiki/Cars_2_(video_game))
+
+---
+
+### Cars 2: The Video Game
+
+**Platforms:** PlayStation 3, Xbox 360, Windows, Wii, Nintendo DS, Nintendo 3DS, PlayStation Portable, macOS, iOS &nbsp;|&nbsp; **Developer:** Avalanche Software, TransGaming, Firebrand Games, Virtual Toys &nbsp;|&nbsp; **Publisher:** Disney Interactive Studios, Sony Computer Entertainment, Disney Mobile Studios &nbsp;|&nbsp; **Genre:** Racing &nbsp;|&nbsp; **Released:** June 21, 2011
+
+[Wikipedia](https://en.wikipedia.org/wiki/Cars_2:_The_Video_Game)
 
 ---
 
@@ -682,11 +902,27 @@
 
 ---
 
+### Champion Jockey: G1 Jockey & Gallop Racer
+
+**Platforms:** PlayStation 3, Wii, Xbox 360 &nbsp;|&nbsp; **Developer:** Tecmo Koei, Kou Shibusawa &nbsp;|&nbsp; **Publisher:** Tecmo Koei &nbsp;|&nbsp; **Genre:** Alternative sports &nbsp;|&nbsp; **Released:** September 2, 2011
+
+[Wikipedia](https://en.wikipedia.org/wiki/Champion_Jockey:_G1_Jockey_&_Gallop_Racer)
+
+---
+
 ### Conduit 2
 
 **Platforms:** Wii &nbsp;|&nbsp; **Released:** April 19
 
 [Wikipedia](https://en.wikipedia.org/wiki/Conduit_2)
+
+---
+
+### Dance Dance Revolution II
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** Konami &nbsp;|&nbsp; **Publisher:** Konami &nbsp;|&nbsp; **Genre:** Music, Exercise &nbsp;|&nbsp; **Released:** October 11, 2011
+
+[Wikipedia](https://en.wikipedia.org/wiki/Dance_Dance_Revolution_II)
 
 ---
 
@@ -732,6 +968,14 @@
 
 ---
 
+### Earth Seeker
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** Crafts & Meister, Kadokawa Shoten &nbsp;|&nbsp; **Publisher:** Enterbrain &nbsp;|&nbsp; **Genre:** Role-playing game &nbsp;|&nbsp; **Released:** June 23, 2011
+
+[Wikipedia](https://en.wikipedia.org/wiki/Earth_Seeker)
+
+---
+
 ### FAST - Racing League
 
 **Platforms:** Wii &nbsp;|&nbsp; **Released:** May 30
@@ -743,6 +987,14 @@
 **Platforms:** PlayStation 3, Xbox 360, Windows, Wii, PlayStation 2, PlayStation Portable, Nintendo 3DS, iOS &nbsp;|&nbsp; **Publisher:** EA Sports &nbsp;|&nbsp; **Released:** September 27, 2011
 
 [Wikipedia](https://en.wikipedia.org/wiki/FIFA_12)
+
+---
+
+### Fishing Resort
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** Prope &nbsp;|&nbsp; **Publisher:** Namco Bandai Games, XSEED Games, Nintendo &nbsp;|&nbsp; **Genre:** Fishing &nbsp;|&nbsp; **Released:** August 4, 2011
+
+[Wikipedia](https://en.wikipedia.org/wiki/Fishing_Resort)
 
 ---
 
@@ -759,6 +1011,30 @@
 **Platforms:** Wii &nbsp;|&nbsp; **Released:** December 5
 
 [Wikipedia](https://en.wikipedia.org/wiki/Fortune_Street)
+
+---
+
+### Get Up and Dance
+
+**Platforms:** PlayStation 3, Wii &nbsp;|&nbsp; **Developer:** Gusto Games &nbsp;|&nbsp; **Publisher:** O Games &nbsp;|&nbsp; **Genre:** Rhythm game &nbsp;|&nbsp; **Released:** November 4, 2011
+
+[Wikipedia](https://en.wikipedia.org/wiki/Get_Up_and_Dance)
+
+---
+
+### Gnomz
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** QubicGames &nbsp;|&nbsp; **Publisher:** QubicGames &nbsp;|&nbsp; **Genre:** Platform game, fighting game &nbsp;|&nbsp; **Released:** November 3, 2011
+
+[Wikipedia](https://en.wikipedia.org/wiki/Gnomz)
+
+---
+
+### Go Vacation
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** Namco Bandai Games &nbsp;|&nbsp; **Publisher:** Namco Bandai Games, Nintendo, Bandai Namco Entertainment &nbsp;|&nbsp; **Genre:** Party, Sports &nbsp;|&nbsp; **Released:** October 11, 2011
+
+[Wikipedia](https://en.wikipedia.org/wiki/Go_Vacation)
 
 ---
 
@@ -784,6 +1060,22 @@
 
 ---
 
+### Ikenie no Yoru
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** Square Enix, Marvelous Entertainment &nbsp;|&nbsp; **Publisher:** Marvelous Entertainment &nbsp;|&nbsp; **Genre:** Horror, adventure &nbsp;|&nbsp; **Released:** March 24, 2011
+
+[Wikipedia](https://en.wikipedia.org/wiki/Ikenie_no_Yoru)
+
+---
+
+### Inazuma Eleven Strikers
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** Level-5, Shade &nbsp;|&nbsp; **Publisher:** Level-5, Nintendo &nbsp;|&nbsp; **Genre:** Role-playing, sports &nbsp;|&nbsp; **Released:** July 16, 2011
+
+[Wikipedia](https://en.wikipedia.org/wiki/Inazuma_Eleven_Strikers)
+
+---
+
 ### Jimmie Johnson's Anything with an Engine
 
 **Platforms:** PlayStation 3, Wii, Xbox 360 &nbsp;|&nbsp; **Released:** November 1
@@ -805,6 +1097,14 @@
 **Platforms:** PlayStation 3, Wii, Xbox 360 &nbsp;|&nbsp; **Released:** October 25
 
 [Wikipedia](https://en.wikipedia.org/wiki/Just_Dance_Kids_2)
+
+---
+
+### Just Dance Wii
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** Ubisoft Paris &nbsp;|&nbsp; **Publisher:** Nintendo &nbsp;|&nbsp; **Genre:** Music, rhythm &nbsp;|&nbsp; **Released:** October 13, 2011
+
+[Wikipedia](https://en.wikipedia.org/wiki/Just_Dance_Wii)
 
 ---
 
@@ -926,6 +1226,38 @@
 
 ---
 
+### Monochrome Racing
+
+**Platforms:** Wii, PlayStation Portable &nbsp;|&nbsp; **Developer:** Nordcurrent &nbsp;|&nbsp; **Publisher:** Nordcurrent &nbsp;|&nbsp; **Genre:** Racing &nbsp;|&nbsp; **Released:** August 2, 2011
+
+[Wikipedia](https://en.wikipedia.org/wiki/Monochrome_Racing)
+
+---
+
+### Monster High: Ghoul Spirit
+
+**Platforms:** Nintendo DS, Wii &nbsp;|&nbsp; **Developer:** ImaginEngine &nbsp;|&nbsp; **Publisher:** THQ, Little Orbit &nbsp;|&nbsp; **Genre:** Party game &nbsp;|&nbsp; **Released:** October 25, 2011
+
+[Wikipedia](https://en.wikipedia.org/wiki/Monster_High:_Ghoul_Spirit)
+
+---
+
+### MotoHeroz
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** Ubisoft RedLynx &nbsp;|&nbsp; **Publisher:** Ubisoft RedLynx, Ubisoft &nbsp;|&nbsp; **Genre:** Platform, racing &nbsp;|&nbsp; **Released:** September 15, 2011
+
+[Wikipedia](https://en.wikipedia.org/wiki/MotoHeroz)
+
+---
+
+### Mystery Case Files: The Malgrave Incident
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** Big Fish Games, Sanzaru Games &nbsp;|&nbsp; **Publisher:** Nintendo &nbsp;|&nbsp; **Genre:** Adventure, puzzle &nbsp;|&nbsp; **Released:** June 27, 2011
+
+[Wikipedia](https://en.wikipedia.org/wiki/Mystery_Case_Files:_The_Malgrave_Incident)
+
+---
+
 ### NASCAR The Game: 2011
 
 **Platforms:** Xbox 360, PlayStation 3, Wii &nbsp;|&nbsp; **Released:** March 29
@@ -945,6 +1277,14 @@
 **Platforms:** PlayStation 3, Xbox 360, Windows, Wii, PlayStation Portable, PlayStation 2 &nbsp;|&nbsp; **Publisher:** 2K &nbsp;|&nbsp; **Released:** October 4, 2011
 
 [Wikipedia](https://en.wikipedia.org/wiki/NBA_2K12)
+
+---
+
+### NCIS
+
+**Platforms:** PlayStation 3, Wii, Windows, Xbox 360, Nintendo 3DS &nbsp;|&nbsp; **Developer:** Ubisoft Shanghai &nbsp;|&nbsp; **Publisher:** Ubisoft &nbsp;|&nbsp; **Genre:** Adventure &nbsp;|&nbsp; **Released:** October 27, 2011
+
+[Wikipedia](https://en.wikipedia.org/wiki/NCIS_(video_game))
 
 ---
 
@@ -968,11 +1308,35 @@
 
 ---
 
+### Pandora's Tower
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** Ganbarion &nbsp;|&nbsp; **Publisher:** Nintendo, Xseed Games &nbsp;|&nbsp; **Genre:** Action role-playing &nbsp;|&nbsp; **Released:** May 26, 2011
+
+[Wikipedia](https://en.wikipedia.org/wiki/Pandora's_Tower)
+
+---
+
+### Phineas and Ferb: Across the 2nd Dimension
+
+**Platforms:** PlayStation 3, Nintendo DS, Wii &nbsp;|&nbsp; **Developer:** High Impact Games, Altron, Virtual Toys &nbsp;|&nbsp; **Publisher:** Disney Interactive Studios, Sony Computer Entertainment &nbsp;|&nbsp; **Genre:** Action-adventure, platform &nbsp;|&nbsp; **Released:** August 2, 2011
+
+[Wikipedia](https://en.wikipedia.org/wiki/Phineas_and_Ferb:_Across_the_2nd_Dimension_(video_game))
+
+---
+
 ### Pro Evolution Soccer 2012
 
 **Platforms:** Windows, PlayStation 3, Xbox 360, Wii, PlayStation Portable, Nintendo 3DS, PlayStation 2 &nbsp;|&nbsp; **Released:** September 27
 
 [Wikipedia](https://en.wikipedia.org/wiki/Pro_Evolution_Soccer_2012)
+
+---
+
+### Project M
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** Project M Development Team &nbsp;|&nbsp; **Genre:** Fighting &nbsp;|&nbsp; **Released:** February 7, 2011
+
+[Wikipedia](https://en.wikipedia.org/wiki/Project_M)
 
 ---
 
@@ -989,6 +1353,14 @@
 **Platforms:** PlayStation Portable, Wii, Nintendo DS, Nintendo 3DS &nbsp;|&nbsp; **Released:** July 14
 
 [Wikipedia](https://en.wikipedia.org/wiki/Puyo_Puyo!!_20th_Anniversary)
+
+---
+
+### Rango
+
+**Platforms:** Nintendo DS, PlayStation 3, Wii, Xbox 360 &nbsp;|&nbsp; **Developer:** Behaviour Interactive &nbsp;|&nbsp; **Publisher:** Electronic Arts, Paramount Digital Entertainment &nbsp;|&nbsp; **Genre:** Action-adventure, platform &nbsp;|&nbsp; **Released:** February 25, 2011
+
+[Wikipedia](https://en.wikipedia.org/wiki/Rango_(video_game))
 
 ---
 
@@ -1022,6 +1394,14 @@
 
 ---
 
+### Sesame Street: Ready, Set, Grover!
+
+**Platforms:** Wii, Nintendo DS &nbsp;|&nbsp; **Developer:** Griptonite Games &nbsp;|&nbsp; **Publisher:** Warner Bros. Interactive Entertainment &nbsp;|&nbsp; **Genre:** Adventure, edutainment &nbsp;|&nbsp; **Released:** August 2, 2011
+
+[Wikipedia](https://en.wikipedia.org/wiki/Sesame_Street:_Ready,_Set,_Grover!)
+
+---
+
 ### Shake It Up
 
 **Platforms:** Wii &nbsp;|&nbsp; **Released:** December 9
@@ -1031,6 +1411,14 @@
 ### Skylanders: Spyro's Adventure
 
 **Platforms:** Windows, Nintendo 3DS, PlayStation 3, Wii, Xbox 360 &nbsp;|&nbsp; **Released:** October 16
+
+---
+
+### Snail Mail
+
+**Platforms:** Windows, Wii, macOS, iOS, Android &nbsp;|&nbsp; **Publisher:** Sandlot Games &nbsp;|&nbsp; **Genre:** Racing
+
+[Wikipedia](https://en.wikipedia.org/wiki/Snail_Mail_(video_game))
 
 ---
 
@@ -1062,6 +1450,14 @@
 
 ---
 
+### The Adventures of Tintin: The Secret of the Unicorn
+
+**Platforms:** Windows, Nintendo 3DS, PlayStation 3, Wii, Xbox 360, iOS, Android &nbsp;|&nbsp; **Developer:** Ubisoft Montpellier, Gameloft Barcelona &nbsp;|&nbsp; **Publisher:** Ubisoft, Gameloft &nbsp;|&nbsp; **Genre:** Action-adventure, platformer, stealth &nbsp;|&nbsp; **Released:** October 21, 2011
+
+[Wikipedia](https://en.wikipedia.org/wiki/The_Adventures_of_Tintin:_The_Secret_of_the_Unicorn_(video_game))
+
+---
+
 ### The Legend of Zelda: Skyward Sword
 
 **Platforms:** Wii &nbsp;|&nbsp; **Publisher:** Nintendo &nbsp;|&nbsp; **Released:** November 18, 2011
@@ -1073,6 +1469,14 @@
 **Platforms:** Nintendo 3DS, Wii &nbsp;|&nbsp; **Released:** December 6
 
 [Wikipedia](https://en.wikipedia.org/wiki/The_Oregon_Trail_(2011_video_game))
+
+---
+
+### The Penguins of Madagascar: Dr. Blowhole Returns – Again!
+
+**Platforms:** Nintendo DS, PlayStation 3, Wii, Xbox 360 &nbsp;|&nbsp; **Developer:** Griptonite Games &nbsp;|&nbsp; **Publisher:** THQ &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** September 6, 2011
+
+[Wikipedia](https://en.wikipedia.org/wiki/The_Penguins_of_Madagascar:_Dr._Blowhole_Returns_%E2%80%93_Again!)
 
 ---
 
@@ -1120,6 +1524,14 @@
 
 ---
 
+### UFC Personal Trainer
+
+**Platforms:** PlayStation 3, Xbox 360, Wii &nbsp;|&nbsp; **Developer:** Heavy Iron Studios &nbsp;|&nbsp; **Publisher:** THQ &nbsp;|&nbsp; **Genre:** Sports, fighting &nbsp;|&nbsp; **Released:** June 28, 2011
+
+[Wikipedia](https://en.wikipedia.org/wiki/UFC_Personal_Trainer)
+
+---
+
 ### Urbanix
 
 **Platforms:** Wii &nbsp;|&nbsp; **Genre:** Puzzle &nbsp;|&nbsp; **Released:** January 17
@@ -1134,6 +1546,46 @@
 
 ---
 
+### We Dare
+
+**Platforms:** PlayStation 3, Wii &nbsp;|&nbsp; **Developer:** Ubisoft Milan &nbsp;|&nbsp; **Publisher:** Ubisoft &nbsp;|&nbsp; **Genre:** Party &nbsp;|&nbsp; **Released:** March 14, 2011
+
+[Wikipedia](https://en.wikipedia.org/wiki/We_Dare)
+
+---
+
+### We Sing Deutsche Hits
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** Le Cortex &nbsp;|&nbsp; **Publisher:** Nordic Games &nbsp;|&nbsp; **Genre:** Music Video game &nbsp;|&nbsp; **Released:** May 26, 2011
+
+[Wikipedia](https://en.wikipedia.org/wiki/We_Sing_Deutsche_Hits)
+
+---
+
+### We Sing Down Under
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** Le Cortex &nbsp;|&nbsp; **Publisher:** Nordic Games &nbsp;|&nbsp; **Genre:** Music Video game &nbsp;|&nbsp; **Released:** March 31, 2011
+
+[Wikipedia](https://en.wikipedia.org/wiki/We_Sing_Down_Under)
+
+---
+
+### We Sing Rock!
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** Le Cortex &nbsp;|&nbsp; **Publisher:** Nordic Games Publishing &nbsp;|&nbsp; **Genre:** Music Video game &nbsp;|&nbsp; **Released:** November 11, 2011
+
+[Wikipedia](https://en.wikipedia.org/wiki/We_Sing_Rock!)
+
+---
+
+### We Sing UK Hits
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** Le Cortex &nbsp;|&nbsp; **Publisher:** Nordic Games Publishing &nbsp;|&nbsp; **Genre:** Music Video game &nbsp;|&nbsp; **Released:** September 30, 2011
+
+[Wikipedia](https://en.wikipedia.org/wiki/We_Sing_UK_Hits)
+
+---
+
 ### Wicked Monsters Blast!
 
 **Platforms:** Wii &nbsp;|&nbsp; **Released:** July 7
@@ -1145,6 +1597,14 @@
 ### Wii Play: Motion
 
 **Platforms:** Wii &nbsp;|&nbsp; **Released:** June 13
+
+---
+
+### Wild West Guns
+
+**Platforms:** Mobile phone, Wii, iOS &nbsp;|&nbsp; **Developer:** Gameloft Bucharest &nbsp;|&nbsp; **Publisher:** Gameloft &nbsp;|&nbsp; **Genre:** Action-adventure, Shooting
+
+[Wikipedia](https://en.wikipedia.org/wiki/Wild_West_Guns)
 
 ---
 
@@ -1178,6 +1638,14 @@
 
 ---
 
+### Zumba Fitness 2
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** Zoë Mode &nbsp;|&nbsp; **Publisher:** Majesco &nbsp;|&nbsp; **Genre:** Fitness game &nbsp;|&nbsp; **Released:** November 15, 2011
+
+[Wikipedia](https://en.wikipedia.org/wiki/Zumba_Fitness_2)
+
+---
+
 ## 2010
 
 [Full 2010 page](../years/2010.md)
@@ -1194,11 +1662,27 @@
 
 ---
 
+### 101-in-1 Sports Party Megamix
+
+**Platforms:** Wii, Nintendo DS &nbsp;|&nbsp; **Developer:** Nordcurrent &nbsp;|&nbsp; **Publisher:** Nordcurrent, Atlus, Starfish-SD &nbsp;|&nbsp; **Genre:** Sports
+
+[Wikipedia](https://en.wikipedia.org/wiki/101-in-1_Sports_Party_Megamix)
+
+---
+
 ### 2010 FIFA World Cup South Africa
 
 **Platforms:** PlayStation 3, Xbox 360, Wii, PlayStation Portable, iOS &nbsp;|&nbsp; **Released:** April 27
 
 [Wikipedia](https://en.wikipedia.org/wiki/2010_FIFA_World_Cup_South_Africa_(video_game))
+
+---
+
+### Active Life: Explorer
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** h.a.n.d. &nbsp;|&nbsp; **Publisher:** Namco Bandai Games &nbsp;|&nbsp; **Genre:** Exergaming &nbsp;|&nbsp; **Released:** October 19, 2010
+
+[Wikipedia](https://en.wikipedia.org/wiki/Active_Life:_Explorer)
 
 ---
 
@@ -1215,6 +1699,14 @@
 **Platforms:** Wii &nbsp;|&nbsp; **Released:** July 20
 
 [Wikipedia](https://en.wikipedia.org/wiki/Arc_Rise_Fantasia)
+
+---
+
+### Armin van Buuren: In the Mix
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** TransGaming Technologies &nbsp;|&nbsp; **Publisher:** Foreign Media Games &nbsp;|&nbsp; **Genre:** Music video game &nbsp;|&nbsp; **Released:** November 12, 2010
+
+[Wikipedia](https://en.wikipedia.org/wiki/Armin_van_Buuren:_In_the_Mix)
 
 ---
 
@@ -1268,6 +1760,14 @@
 
 ---
 
+### Batman: The Brave and the Bold – The Videogame
+
+**Platforms:** Wii, Nintendo DS &nbsp;|&nbsp; **Developer:** WayForward Technologies &nbsp;|&nbsp; **Publisher:** Warner Bros. Interactive Entertainment &nbsp;|&nbsp; **Genre:** Beat 'em up, platform &nbsp;|&nbsp; **Released:** September 7, 2010
+
+[Wikipedia](https://en.wikipedia.org/wiki/Batman:_The_Brave_and_the_Bold_%E2%80%93_The_Videogame)
+
+---
+
 ### Ben 10 Alien Force: The Rise of Hex
 
 **Platforms:** Xbox 360, Wii &nbsp;|&nbsp; **Released:** May 26
@@ -1305,6 +1805,14 @@
 ### Blaster Master: Overdrive
 
 **Platforms:** Wii &nbsp;|&nbsp; **Released:** February 8
+
+---
+
+### Cabela's Dangerous Hunts 2011
+
+**Platforms:** Nintendo DS, PlayStation 3, Xbox 360, Wii, iOS &nbsp;|&nbsp; **Developer:** Cauldron &nbsp;|&nbsp; **Publisher:** Activision &nbsp;|&nbsp; **Genre:** Hunting, action, Survival horror &nbsp;|&nbsp; **Released:** October 26, 2010
+
+[Wikipedia](https://en.wikipedia.org/wiki/Cabela's_Dangerous_Hunts_2011)
 
 ---
 
@@ -1372,6 +1880,22 @@
 
 ---
 
+### CSI: Fatal Conspiracy
+
+**Platforms:** Windows, PlayStation 3, Xbox 360, Wii &nbsp;|&nbsp; **Developer:** Telltale Games &nbsp;|&nbsp; **Publisher:** Ubisoft &nbsp;|&nbsp; **Genre:** Adventure &nbsp;|&nbsp; **Released:** October 26, 2010
+
+[Wikipedia](https://en.wikipedia.org/wiki/CSI:_Fatal_Conspiracy)
+
+---
+
+### Dance Dance Revolution
+
+**Platforms:** Wii, PlayStation 3 &nbsp;|&nbsp; **Developer:** Hudson Soft, Studio ZAN &nbsp;|&nbsp; **Publisher:** Konami &nbsp;|&nbsp; **Genre:** Music, Exercise &nbsp;|&nbsp; **Released:** November 16, 2010
+
+[Wikipedia](https://en.wikipedia.org/wiki/Dance_Dance_Revolution_(2010_video_game))
+
+---
+
 ### Dance on Broadway
 
 **Platforms:** Wii &nbsp;|&nbsp; **Released:** June 15
@@ -1404,6 +1928,14 @@
 
 ---
 
+### Despicable Me: The Game
+
+**Platforms:** PlayStation 2, PlayStation Portable, Wii, Nintendo DS &nbsp;|&nbsp; **Developer:** Vicious Cycle Software, Wayforward Technologies &nbsp;|&nbsp; **Publisher:** D3 Publisher, Namco Bandai Games &nbsp;|&nbsp; **Genre:** Platformer &nbsp;|&nbsp; **Released:** July 6, 2010
+
+[Wikipedia](https://en.wikipedia.org/wiki/Despicable_Me:_The_Game)
+
+---
+
 ### Disney Channel All Star Party
 
 **Platforms:** Wii &nbsp;|&nbsp; **Released:** October 26
@@ -1412,11 +1944,43 @@
 
 ---
 
+### Disney Sing It: Family Hits
+
+**Platforms:** PlayStation 3, Wii &nbsp;|&nbsp; **Developer:** Zoë Mode &nbsp;|&nbsp; **Publisher:** Disney Interactive Studios &nbsp;|&nbsp; **Genre:** Karaoke &nbsp;|&nbsp; **Released:** August 3, 2010
+
+[Wikipedia](https://en.wikipedia.org/wiki/Disney_Sing_It:_Family_Hits)
+
+---
+
+### Disney Sing It: Party Hits
+
+**Platforms:** PlayStation 3, Wii &nbsp;|&nbsp; **Developer:** Zoë Mode &nbsp;|&nbsp; **Publisher:** Disney Interactive Studios &nbsp;|&nbsp; **Genre:** Karaoke &nbsp;|&nbsp; **Released:** September 24, 2010
+
+[Wikipedia](https://en.wikipedia.org/wiki/Disney_Sing_It:_Party_Hits)
+
+---
+
+### Dive: The Medes Islands Secret
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** Cosmonaut Games, Over the Top Games &nbsp;|&nbsp; **Publisher:** Cosmonaut Games, 46 To Shinjuku Medialab, S.L. &nbsp;|&nbsp; **Genre:** Platform, adventure &nbsp;|&nbsp; **Released:** July 26, 2010
+
+[Wikipedia](https://en.wikipedia.org/wiki/Dive:_The_Medes_Islands_Secret)
+
+---
+
 ### DJ Hero 2
 
 **Platforms:** Xbox 360, PlayStation 3, Wii &nbsp;|&nbsp; **Released:** October 19
 
 [Wikipedia](https://en.wikipedia.org/wiki/DJ_Hero_2)
+
+---
+
+### Doctor Who: Return to Earth
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** Asylum Entertainment &nbsp;|&nbsp; **Publisher:** Asylum Entertainment &nbsp;|&nbsp; **Genre:** Action-adventure &nbsp;|&nbsp; **Released:** November 19, 2010
+
+[Wikipedia](https://en.wikipedia.org/wiki/Doctor_Who:_Return_to_Earth)
 
 ---
 
@@ -1433,6 +1997,14 @@
 **Platforms:** Wii &nbsp;|&nbsp; **Released:** November 14
 
 [Wikipedia](https://en.wikipedia.org/wiki/Dood%27s_Big_Adventure)
+
+---
+
+### EA Sports Active 2
+
+**Platforms:** PlayStation 3, Xbox 360, Wii &nbsp;|&nbsp; **Developer:** EA Canada &nbsp;|&nbsp; **Publisher:** EA Sports &nbsp;|&nbsp; **Genre:** Fitness game &nbsp;|&nbsp; **Released:** November 16, 2010
+
+[Wikipedia](https://en.wikipedia.org/wiki/EA_Sports_Active_2)
 
 ---
 
@@ -1458,11 +2030,35 @@
 
 ---
 
+### Ferrari: The Race Experience
+
+**Platforms:** PlayStation 3, Wii &nbsp;|&nbsp; **Developer:** Eutechnyx &nbsp;|&nbsp; **Publisher:** System 3 &nbsp;|&nbsp; **Genre:** Racing &nbsp;|&nbsp; **Released:** October 6, 2010
+
+[Wikipedia](https://en.wikipedia.org/wiki/Ferrari:_The_Race_Experience)
+
+---
+
 ### FIFA 11
 
 **Platforms:** Windows, Xbox 360, Wii, Nintendo DS, PlayStation 2, PlayStation 3, PlayStation Portable &nbsp;|&nbsp; **Released:** September 28
 
 [Wikipedia](https://en.wikipedia.org/wiki/FIFA_11)
+
+---
+
+### Fish Tank
+
+**Platforms:** PlayStation Portable, iOS, Wii &nbsp;|&nbsp; **Developer:** iFun4all &nbsp;|&nbsp; **Genre:** Puzzle
+
+[Wikipedia](https://en.wikipedia.org/wiki/Fish_Tank_(video_game))
+
+---
+
+### FlingSmash
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** Artoon &nbsp;|&nbsp; **Publisher:** Nintendo &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** November 7, 2010
+
+[Wikipedia](https://en.wikipedia.org/wiki/FlingSmash)
 
 ---
 
@@ -1504,6 +2100,22 @@
 
 ---
 
+### Get Fit with Mel B
+
+**Platforms:** PlayStation 3, Wii, Xbox 360 &nbsp;|&nbsp; **Developer:** Lightning Fish &nbsp;|&nbsp; **Publisher:** Deep Silver, Black Bean Games &nbsp;|&nbsp; **Genre:** Fitness game &nbsp;|&nbsp; **Released:** October 20, 2010
+
+[Wikipedia](https://en.wikipedia.org/wiki/Get_Fit_with_Mel_B)
+
+---
+
+### GoldenEye 007
+
+**Platforms:** Wii, Nintendo DS, PlayStation 3, Xbox 360 &nbsp;|&nbsp; **Developer:** Eurocom, n-Space &nbsp;|&nbsp; **Publisher:** Activision, Nintendo &nbsp;|&nbsp; **Genre:** First-person shooter &nbsp;|&nbsp; **Released:** November 2, 2010
+
+[Wikipedia](https://en.wikipedia.org/wiki/GoldenEye_007_(2010_video_game))
+
+---
+
 ### Grease
 
 **Platforms:** Nintendo DS, Wii &nbsp;|&nbsp; **Released:** August 24
@@ -1518,9 +2130,25 @@
 
 ---
 
+### Guilty Party
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** Wideload Games &nbsp;|&nbsp; **Publisher:** Disney Interactive Studios &nbsp;|&nbsp; **Genre:** Party, puzzle &nbsp;|&nbsp; **Released:** August 26, 2010
+
+[Wikipedia](https://en.wikipedia.org/wiki/Guilty_Party_(video_game))
+
+---
+
 ### Guitar Hero: Warriors of Rock
 
 **Platforms:** PlayStation 3, Wii, Xbox 360 &nbsp;|&nbsp; **Released:** September 28
+
+---
+
+### Harry Potter and the Deathly Hallows – Part 1
+
+**Platforms:** Nintendo DS, Windows, PlayStation 3, Wii, Xbox 360, Mobile phone &nbsp;|&nbsp; **Developer:** EA Bright Light, Full Fat, EA Romania &nbsp;|&nbsp; **Publisher:** Electronic Arts, EA Mobile &nbsp;|&nbsp; **Genre:** Action-adventure &nbsp;|&nbsp; **Released:** November 16, 2010
+
+[Wikipedia](https://en.wikipedia.org/wiki/Harry_Potter_and_the_Deathly_Hallows_%E2%80%93_Part_1_(video_game))
 
 ---
 
@@ -1546,6 +2174,14 @@
 
 ---
 
+### HoopWorld
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** Streamline Studios, Virtual Toys &nbsp;|&nbsp; **Publisher:** Virtual Toys &nbsp;|&nbsp; **Genre:** Arcade Sports &nbsp;|&nbsp; **Released:** July 19, 2010
+
+[Wikipedia](https://en.wikipedia.org/wiki/HoopWorld)
+
+---
+
 ### Hot Wheels Track Attack
 
 **Platforms:** Nintendo DS, Wii &nbsp;|&nbsp; **Released:** November 23
@@ -1559,6 +2195,14 @@
 **Platforms:** Xbox 360, Nintendo DS, PlayStation 3, Wii &nbsp;|&nbsp; **Released:** March 23
 
 [Wikipedia](https://en.wikipedia.org/wiki/How_to_Train_Your_Dragon_(video_game))
+
+---
+
+### Hubert the Teddy Bear: Winter Games
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** Teyon &nbsp;|&nbsp; **Publisher:** Teyon &nbsp;|&nbsp; **Genre:** Sports, Party &nbsp;|&nbsp; **Released:** February 8, 2010
+
+[Wikipedia](https://en.wikipedia.org/wiki/Hubert_the_Teddy_Bear:_Winter_Games)
 
 ---
 
@@ -1600,11 +2244,27 @@
 
 ---
 
+### Just Dance Kids
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** Land Ho! &nbsp;|&nbsp; **Publisher:** Ubisoft &nbsp;|&nbsp; **Genre:** Music, rhythm &nbsp;|&nbsp; **Released:** November 9, 2010
+
+[Wikipedia](https://en.wikipedia.org/wiki/Just_Dance_Kids_(2010_video_game))
+
+---
+
 ### Kirby's Epic Yarn
 
 **Platforms:** Wii &nbsp;|&nbsp; **Released:** October 17
 
 [Wikipedia](https://en.wikipedia.org/wiki/Kirby%27s_Epic_Yarn)
+
+---
+
+### Legend of the Guardians: The Owls of Ga'Hoole
+
+**Platforms:** Nintendo DS, PlayStation 3, Wii, Xbox 360 &nbsp;|&nbsp; **Developer:** Krome Studios, Tantalus Media &nbsp;|&nbsp; **Publisher:** Warner Bros. Interactive Entertainment &nbsp;|&nbsp; **Genre:** Combat flight simulator &nbsp;|&nbsp; **Released:** September 14, 2010
+
+[Wikipedia](https://en.wikipedia.org/wiki/Legend_of_the_Guardians:_The_Owls_of_Ga'Hoole_(video_game))
 
 ---
 
@@ -1630,6 +2290,14 @@
 
 ---
 
+### Marvel Super Hero Squad: The Infinity Gauntlet
+
+**Platforms:** Nintendo DS, Wii, PlayStation 3, Xbox 360 &nbsp;|&nbsp; **Developer:** Griptonite Games &nbsp;|&nbsp; **Publisher:** THQ &nbsp;|&nbsp; **Genre:** Fighting, beat 'em up &nbsp;|&nbsp; **Released:** November 16, 2010
+
+[Wikipedia](https://en.wikipedia.org/wiki/Marvel_Super_Hero_Squad:_The_Infinity_Gauntlet)
+
+---
+
 ### Max & the Magic Marker
 
 **Platforms:** Wii &nbsp;|&nbsp; **Released:** March 8
@@ -1651,6 +2319,14 @@
 **Platforms:** Wii, Xbox 360, PlayStation 3, PlayStation Portable, Nintendo DS &nbsp;|&nbsp; **Released:** November 2
 
 [Wikipedia](https://en.wikipedia.org/wiki/Megamind_(video_game))
+
+---
+
+### Megamind: Mega Team Unite
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** THQ Studio Australia &nbsp;|&nbsp; **Publisher:** THQ &nbsp;|&nbsp; **Genre:** Party &nbsp;|&nbsp; **Released:** November 2, 2010
+
+[Wikipedia](https://en.wikipedia.org/wiki/Megamind:_Mega_Team_Unite)
 
 ---
 
@@ -1680,6 +2356,14 @@
 
 ---
 
+### Monopoly Streets
+
+**Platforms:** PlayStation 3, Xbox 360, Wii &nbsp;|&nbsp; **Developer:** EA Salt Lake &nbsp;|&nbsp; **Publisher:** Electronic Arts &nbsp;|&nbsp; **Genre:** Board game, strategy &nbsp;|&nbsp; **Released:** October 26, 2010
+
+[Wikipedia](https://en.wikipedia.org/wiki/Monopoly_Streets)
+
+---
+
 ### Monsteca Corral
 
 **Platforms:** Wii &nbsp;|&nbsp; **Released:** August 16
@@ -1699,6 +2383,14 @@
 ### Monster Jam: Path of Destruction
 
 **Platforms:** Nintendo DS, PlayStation 3, PlayStation Portable, Wii, Xbox 360 &nbsp;|&nbsp; **Released:** November 9
+
+---
+
+### My Aquarium
+
+**Platforms:** Wii, PlayStation 3, PlayStation Network &nbsp;|&nbsp; **Developer:** Hudson Soft &nbsp;|&nbsp; **Genre:** Virtual pet simulation &nbsp;|&nbsp; **Released:** August 3, 2010
+
+[Wikipedia](https://en.wikipedia.org/wiki/My_Aquarium)
 
 ---
 
@@ -1784,6 +2476,22 @@
 
 ---
 
+### PDC World Championship Darts Pro Tour
+
+**Platforms:** PlayStation 3, Wii, Xbox 360 &nbsp;|&nbsp; **Developer:** Redoubt, Rebellion Developments &nbsp;|&nbsp; **Publisher:** O-Games &nbsp;|&nbsp; **Genre:** Sports, simulation &nbsp;|&nbsp; **Released:** November 26, 2010
+
+[Wikipedia](https://en.wikipedia.org/wiki/PDC_World_Championship_Darts_Pro_Tour)
+
+---
+
+### Pearl Harbor Trilogy – 1941: Red Sun Rising
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** Legendo Entertainment &nbsp;|&nbsp; **Publisher:** Legendo Entertainment &nbsp;|&nbsp; **Genre:** Action-adventure, combat flight simulation &nbsp;|&nbsp; **Released:** July 5, 2010
+
+[Wikipedia](https://en.wikipedia.org/wiki/Pearl_Harbor_Trilogy_%E2%80%93_1941:_Red_Sun_Rising)
+
+---
+
 ### Phineas and Ferb: Ride Again
 
 **Platforms:** Nintendo DS, Wii &nbsp;|&nbsp; **Released:** September 14
@@ -1842,11 +2550,35 @@
 
 ---
 
+### Prince of Persia: The Forgotten Sands (Wii)
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** Ubisoft Quebec &nbsp;|&nbsp; **Publisher:** Ubisoft &nbsp;|&nbsp; **Genre:** Action-adventure, platform &nbsp;|&nbsp; **Released:** May 18, 2010
+
+[Wikipedia](https://en.wikipedia.org/wiki/Prince_of_Persia:_The_Forgotten_Sands_(Wii))
+
+---
+
 ### Pro Evolution Soccer 2011
 
 **Platforms:** Windows, Xbox 360, Wii, Nintendo DS, PlayStation 2, PlayStation 3, PlayStation Portable &nbsp;|&nbsp; **Released:** October 5
 
 [Wikipedia](https://en.wikipedia.org/wiki/Pro_Evolution_Soccer_2011)
+
+---
+
+### Project Runway
+
+**Platforms:** Wii, Windows &nbsp;|&nbsp; **Developer:** Tornado Studios &nbsp;|&nbsp; **Publisher:** Atari, Inc. &nbsp;|&nbsp; **Genre:** Life simulation &nbsp;|&nbsp; **Released:** March 2, 2010
+
+[Wikipedia](https://en.wikipedia.org/wiki/Project_Runway_(video_game))
+
+---
+
+### Racket Sports Party
+
+**Platforms:** Wii, PlayStation 3 &nbsp;|&nbsp; **Developer:** Asobo Studio &nbsp;|&nbsp; **Publisher:** Ubisoft &nbsp;|&nbsp; **Genre:** Sports &nbsp;|&nbsp; **Released:** March 9, 2010
+
+[Wikipedia](https://en.wikipedia.org/wiki/Racket_Sports_Party)
 
 ---
 
@@ -1869,6 +2601,22 @@
 **Platforms:** Wii &nbsp;|&nbsp; **Released:** March 23
 
 [Wikipedia](https://en.wikipedia.org/wiki/Red_Steel_2)
+
+---
+
+### Robocalypse: Beaver Defense
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** Vogster Entertainment &nbsp;|&nbsp; **Publisher:** Vogster Entertainment &nbsp;|&nbsp; **Genre:** Tower defense &nbsp;|&nbsp; **Released:** May 31, 2010
+
+[Wikipedia](https://en.wikipedia.org/wiki/Robocalypse:_Beaver_Defense)
+
+---
+
+### Robox
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** Dreambox Games &nbsp;|&nbsp; **Publisher:** Dreambox Games &nbsp;|&nbsp; **Genre:** Platform-adventure &nbsp;|&nbsp; **Released:** November 1, 2010
+
+[Wikipedia](https://en.wikipedia.org/wiki/Robox)
 
 ---
 
@@ -1899,6 +2647,14 @@
 **Platforms:** Nintendo DS, Wii &nbsp;|&nbsp; **Released:** November 9
 
 [Wikipedia](https://en.wikipedia.org/wiki/Rudolph_the_Red-Nosed_Reindeer_(video_game))
+
+---
+
+### Rugby League 3
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** Sidhe Interactive &nbsp;|&nbsp; **Publisher:** Tru Blu Entertainment &nbsp;|&nbsp; **Genre:** Sports &nbsp;|&nbsp; **Released:** March 18, 2010
+
+[Wikipedia](https://en.wikipedia.org/wiki/Rugby_League_3)
 
 ---
 
@@ -1936,6 +2692,30 @@
 
 ---
 
+### Sesame Street: Cookie's Counting Carnival
+
+**Platforms:** Windows, Wii, Nintendo DS &nbsp;|&nbsp; **Developer:** Black Lantern Studios &nbsp;|&nbsp; **Publisher:** Warner Bros. Interactive Entertainment &nbsp;|&nbsp; **Genre:** Adventure, edutainment &nbsp;|&nbsp; **Released:** October 19, 2010
+
+[Wikipedia](https://en.wikipedia.org/wiki/Sesame_Street:_Cookie's_Counting_Carnival)
+
+---
+
+### Sesame Street: Elmo's A-to-Zoo Adventure
+
+**Platforms:** Windows, Wii, Nintendo DS &nbsp;|&nbsp; **Developer:** Black Lantern Studios &nbsp;|&nbsp; **Publisher:** Warner Bros. Interactive Entertainment &nbsp;|&nbsp; **Genre:** Adventure, edutainment &nbsp;|&nbsp; **Released:** October 19, 2010
+
+[Wikipedia](https://en.wikipedia.org/wiki/Sesame_Street:_Elmo's_A-to-Zoo_Adventure)
+
+---
+
+### ShadowPlay
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** Deep Fried Entertainment &nbsp;|&nbsp; **Publisher:** Deep Fried Entertainment &nbsp;|&nbsp; **Genre:** Puzzle &nbsp;|&nbsp; **Released:** January 11, 2010
+
+[Wikipedia](https://en.wikipedia.org/wiki/ShadowPlay)
+
+---
+
 ### Shaun White Skateboarding
 
 **Platforms:** PlayStation 3, Wii, Windows, Xbox 360 &nbsp;|&nbsp; **Released:** October 24
@@ -1966,6 +2746,30 @@
 
 ---
 
+### Sled Shred featuring the Jamaican Bobsled Team
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** Just for Fun Studios &nbsp;|&nbsp; **Publisher:** SouthPeak Games &nbsp;|&nbsp; **Genre:** Sports, Racing &nbsp;|&nbsp; **Released:** October 12, 2010
+
+[Wikipedia](https://en.wikipedia.org/wiki/Sled_Shred_featuring_the_Jamaican_Bobsled_Team)
+
+---
+
+### Snowpack Park
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** Skip Ltd. &nbsp;|&nbsp; **Publisher:** Nintendo &nbsp;|&nbsp; **Genre:** Life simulation &nbsp;|&nbsp; **Released:** November 22, 2010
+
+[Wikipedia](https://en.wikipedia.org/wiki/Snowpack_Park)
+
+---
+
+### So Blonde: Back to the Island
+
+**Platforms:** Wii, Nintendo DS &nbsp;|&nbsp; **Developer:** Wizarbox &nbsp;|&nbsp; **Publisher:** dtp Entertainment &nbsp;|&nbsp; **Genre:** Adventure &nbsp;|&nbsp; **Released:** March 26, 2010
+
+[Wikipedia](https://en.wikipedia.org/wiki/So_Blonde:_Back_to_the_Island)
+
+---
+
 ### Sonic & Sega All-Stars Racing
 
 <img src="../images/steam-34190.jpg" alt="Sonic & Sega All-Stars Racing cover" width="200">
@@ -1991,6 +2795,14 @@
 ### Sonic the Hedgehog 4: Episode 1
 
 **Platforms:** iOS, Wii, PlayStation Network, Xbox 360 &nbsp;|&nbsp; **Released:** October 7
+
+---
+
+### Sonic the Hedgehog 4: Episode I
+
+**Platforms:** iOS, Wii, PlayStation 3, Xbox 360 &nbsp;|&nbsp; **Developer:** Dimps, Sonic Team &nbsp;|&nbsp; **Publisher:** Sega &nbsp;|&nbsp; **Genre:** Platform &nbsp;|&nbsp; **Released:** October 7, 2010
+
+[Wikipedia](https://en.wikipedia.org/wiki/Sonic_the_Hedgehog_4:_Episode_I)
 
 ---
 
@@ -2050,6 +2862,14 @@
 
 ---
 
+### Tatsunoko vs. Capcom
+
+**Platforms:** Arcade, Wii &nbsp;|&nbsp; **Developer:** Eighting &nbsp;|&nbsp; **Publisher:** Capcom &nbsp;|&nbsp; **Genre:** Fighting &nbsp;|&nbsp; **Released:** January 26, 2010
+
+[Wikipedia](https://en.wikipedia.org/wiki/Tatsunoko_vs._Capcom)
+
+---
+
 ### Tatsunoko vs. Capcom: Ultimate All-Stars
 
 **Platforms:** Wii &nbsp;|&nbsp; **Released:** January 26
@@ -2067,6 +2887,14 @@
 ### The Biggest Loser: Challenge
 
 **Platforms:** Wii &nbsp;|&nbsp; **Released:** November 4
+
+---
+
+### The Kore Gang
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** Zoink, SnapDragon Games, Unique Development Studios &nbsp;|&nbsp; **Publisher:** Pixonauts, Atari &nbsp;|&nbsp; **Genre:** Adventure, Platform &nbsp;|&nbsp; **Released:** August 11, 2010
+
+[Wikipedia](https://en.wikipedia.org/wiki/The_Kore_Gang)
 
 ---
 
@@ -2112,6 +2940,22 @@
 
 ---
 
+### The Tales of Bearsworth Manor
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** Square Enix &nbsp;|&nbsp; **Publisher:** Square Enix &nbsp;|&nbsp; **Genre:** Puzzle &nbsp;|&nbsp; **Released:** June 8, 2010
+
+[Wikipedia](https://en.wikipedia.org/wiki/The_Tales_of_Bearsworth_Manor)
+
+---
+
+### ThruSpace
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** Keys Factory &nbsp;|&nbsp; **Publisher:** Nintendo &nbsp;|&nbsp; **Genre:** Puzzle &nbsp;|&nbsp; **Released:** September 7, 2010
+
+[Wikipedia](https://en.wikipedia.org/wiki/ThruSpace)
+
+---
+
 ### Tiger Woods PGA Tour 11
 
 **Platforms:** Xbox 360, PlayStation 3, Wii &nbsp;|&nbsp; **Released:** June 8
@@ -2136,6 +2980,14 @@
 
 ---
 
+### Tony Hawk: Shred
+
+**Platforms:** PlayStation 3, Wii, Xbox 360 &nbsp;|&nbsp; **Developer:** Robomodo, Buzz Monkey &nbsp;|&nbsp; **Publisher:** Activision &nbsp;|&nbsp; **Genre:** Sports &nbsp;|&nbsp; **Released:** October 26, 2010
+
+[Wikipedia](https://en.wikipedia.org/wiki/Tony_Hawk:_Shred)
+
+---
+
 ### Totally Spies!: Revenge of the Undercover
 
 **Platforms:** PlayStation 3, Xbox 360, Wii, PlayStation Portable, Nintendo DS &nbsp;|&nbsp; **Released:** June 15
@@ -2147,6 +2999,14 @@
 **Platforms:** Wii &nbsp;|&nbsp; **Released:** July 6
 
 [Wikipedia](https://en.wikipedia.org/wiki/Tournament_of_Legends)
+
+---
+
+### Toy Story 3
+
+**Platforms:** iOS, macOS, Nintendo DS, PlayStation 3, PlayStation Portable, Wii, Windows, Xbox 360, PlayStation 2 &nbsp;|&nbsp; **Developer:** Avalanche Software &nbsp;|&nbsp; **Publisher:** Disney Interactive Studios &nbsp;|&nbsp; **Genre:** Platform, sandbox &nbsp;|&nbsp; **Released:** June 15, 2010
+
+[Wikipedia](https://en.wikipedia.org/wiki/Toy_Story_3_(video_game))
 
 ---
 
@@ -2190,6 +3050,14 @@
 
 ---
 
+### Truth or Lies
+
+**Platforms:** Xbox 360, PlayStation 3, Wii, iOS &nbsp;|&nbsp; **Developer:** Big Ant Studios, Imagination Entertainment, HandyGames &nbsp;|&nbsp; **Publisher:** THQ &nbsp;|&nbsp; **Genre:** Party, Trivia &nbsp;|&nbsp; **Released:** September 14, 2010
+
+[Wikipedia](https://en.wikipedia.org/wiki/Truth_or_Lies)
+
+---
+
 ### uDraw Pictionary
 
 **Platforms:** Wii &nbsp;|&nbsp; **Released:** November 14
@@ -2198,9 +3066,41 @@
 
 ---
 
+### UDraw Studio
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** Pipeworks Software &nbsp;|&nbsp; **Publisher:** THQ &nbsp;|&nbsp; **Genre:** Art &nbsp;|&nbsp; **Released:** November 14, 2010
+
+[Wikipedia](https://en.wikipedia.org/wiki/UDraw_Studio)
+
+---
+
+### Voodoo Dice
+
+**Platforms:** iOS, PlayStation 3, PlayStation Portable, PlayStation Network, Wii, Windows, Xbox 360 &nbsp;|&nbsp; **Developer:** Exkee &nbsp;|&nbsp; **Publisher:** Ubisoft &nbsp;|&nbsp; **Genre:** Action, puzzle &nbsp;|&nbsp; **Released:** May 26, 2010
+
+[Wikipedia](https://en.wikipedia.org/wiki/Voodoo_Dice)
+
+---
+
 ### Walk It Out!
 
 **Platforms:** Wii &nbsp;|&nbsp; **Released:** January 12
+
+---
+
+### We Sing Encore
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** Le Cortex &nbsp;|&nbsp; **Publisher:** Nordic Games &nbsp;|&nbsp; **Genre:** Music &nbsp;|&nbsp; **Released:** August 20, 2010
+
+[Wikipedia](https://en.wikipedia.org/wiki/We_Sing_Encore)
+
+---
+
+### We Sing Robbie Williams
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** Le Cortex &nbsp;|&nbsp; **Publisher:** Nordic Games Publishing &nbsp;|&nbsp; **Genre:** Music &nbsp;|&nbsp; **Released:** November 12, 2010
+
+[Wikipedia](https://en.wikipedia.org/wiki/We_Sing_Robbie_Williams)
 
 ---
 
@@ -2250,6 +3150,30 @@
 
 ---
 
+### Zangeki no Reginleiv
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** Sandlot &nbsp;|&nbsp; **Publisher:** Nintendo &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** February 11, 2010
+
+[Wikipedia](https://en.wikipedia.org/wiki/Zangeki_no_Reginleiv)
+
+---
+
+### Zombie Panic in Wonderland
+
+**Platforms:** Wii, Android &nbsp;|&nbsp; **Developer:** Akaoni Studio &nbsp;|&nbsp; **Publisher:** Akaoni Studio, Marvelous Entertainment, Arc System Works &nbsp;|&nbsp; **Genre:** Third-person shooter, shooting gallery &nbsp;|&nbsp; **Released:** March 16, 2010
+
+[Wikipedia](https://en.wikipedia.org/wiki/Zombie_Panic_in_Wonderland)
+
+---
+
+### Zumba Fitness
+
+**Platforms:** PlayStation 3, Wii, Xbox 360 &nbsp;|&nbsp; **Developer:** Pipeworks Software &nbsp;|&nbsp; **Publisher:** Majesco, 505 Games &nbsp;|&nbsp; **Genre:** Fitness game &nbsp;|&nbsp; **Released:** November 18, 2010
+
+[Wikipedia](https://en.wikipedia.org/wiki/Zumba_Fitness_(video_game))
+
+---
+
 ## 2009
 
 [Full 2009 page](../years/2009.md)
@@ -2262,6 +3186,14 @@
 
 ---
 
+### 5 Spots Party
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** Cosmonaut Games &nbsp;|&nbsp; **Publisher:** Cosmonaut Games &nbsp;|&nbsp; **Genre:** Puzzle &nbsp;|&nbsp; **Released:** July 10, 2009
+
+[Wikipedia](https://en.wikipedia.org/wiki/5_Spots_Party)
+
+---
+
 ### A Boy and His Blob
 
 **Platforms:** Wii &nbsp;|&nbsp; **Released:** October 13
@@ -2270,9 +3202,25 @@
 
 ---
 
+### Academy of Champions: Soccer
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** Ubisoft Vancouver &nbsp;|&nbsp; **Publisher:** Ubisoft &nbsp;|&nbsp; **Genre:** Sports &nbsp;|&nbsp; **Released:** September 3, 2009
+
+[Wikipedia](https://en.wikipedia.org/wiki/Academy_of_Champions:_Soccer)
+
+---
+
 ### Active Life: Extreme Challenge
 
 **Platforms:** Wii &nbsp;|&nbsp; **Released:** August 11
+
+---
+
+### Adventure Island: The Beginning
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** Hudson Soft &nbsp;|&nbsp; **Publisher:** Hudson Soft &nbsp;|&nbsp; **Genre:** Platform &nbsp;|&nbsp; **Released:** April 7, 2009
+
+[Wikipedia](https://en.wikipedia.org/wiki/Adventure_Island:_The_Beginning)
 
 ---
 
@@ -2287,6 +3235,22 @@
 **Platforms:** Windows, Nintendo DS, Wii &nbsp;|&nbsp; **Released:** June 23
 
 [Wikipedia](https://en.wikipedia.org/wiki/Anno_1404)
+
+---
+
+### Anno: Create A New World
+
+**Platforms:** Nintendo DS, Wii &nbsp;|&nbsp; **Developer:** Keen Games &nbsp;|&nbsp; **Publisher:** Ubisoft &nbsp;|&nbsp; **Genre:** City-building, Real-time strategy &nbsp;|&nbsp; **Released:** May 22, 2009
+
+[Wikipedia](https://en.wikipedia.org/wiki/Anno:_Create_A_New_World)
+
+---
+
+### Another Code: R – A Journey into Lost Memories
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** Cing &nbsp;|&nbsp; **Publisher:** Nintendo &nbsp;|&nbsp; **Genre:** Point-and-click adventure &nbsp;|&nbsp; **Released:** February 5, 2009
+
+[Wikipedia](https://en.wikipedia.org/wiki/Another_Code:_R_%E2%80%93_A_Journey_into_Lost_Memories)
 
 ---
 
@@ -2320,6 +3284,14 @@
 
 ---
 
+### Avatar: The Game
+
+**Platforms:** Windows, Nintendo DS, PlayStation 3, Wii, Xbox 360, PlayStation Portable, iOS &nbsp;|&nbsp; **Developer:** Ubisoft Montreal, Gameloft Barcelona &nbsp;|&nbsp; **Publisher:** Ubisoft, Gameloft &nbsp;|&nbsp; **Genre:** action-adventure, Third-person shooter &nbsp;|&nbsp; **Released:** December 1, 2009
+
+[Wikipedia](https://en.wikipedia.org/wiki/Avatar:_The_Game)
+
+---
+
 ### Backyard Football '10
 
 **Platforms:** PlayStation 2, Wii, Xbox 360 &nbsp;|&nbsp; **Released:** October 20
@@ -2344,9 +3316,41 @@
 
 ---
 
+### Bass Pro Shops: The Strike
+
+**Platforms:** Wii, Windows, Xbox 360 &nbsp;|&nbsp; **Developer:** Piranha Games &nbsp;|&nbsp; **Publisher:** XS Games/Psyclone &nbsp;|&nbsp; **Released:** October 6, 2009
+
+[Wikipedia](https://en.wikipedia.org/wiki/Bass_Pro_Shops:_The_Strike)
+
+---
+
+### Battle Poker
+
+**Platforms:** Wii, PlayStation Portable &nbsp;|&nbsp; **Developer:** Left Field Productions &nbsp;|&nbsp; **Publisher:** Left Field Productions &nbsp;|&nbsp; **Genre:** Puzzle &nbsp;|&nbsp; **Released:** July 20, 2009
+
+[Wikipedia](https://en.wikipedia.org/wiki/Battle_Poker)
+
+---
+
 ### Ben 10 Alien Force: Vilgax Attacks
 
 **Platforms:** PlayStation 2, Xbox 360, PlayStation Portable, Wii, Nintendo DS &nbsp;|&nbsp; **Released:** October 27
+
+---
+
+### Birthday Party Bash
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** Cat Daddy Games &nbsp;|&nbsp; **Publisher:** 2K &nbsp;|&nbsp; **Genre:** Party &nbsp;|&nbsp; **Released:** June 19, 2009
+
+[Wikipedia](https://en.wikipedia.org/wiki/Birthday_Party_Bash)
+
+---
+
+### Bit Boy!!
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** Bplus &nbsp;|&nbsp; **Publisher:** Bplus, Marvelous Entertainment &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** July 3, 2009
+
+[Wikipedia](https://en.wikipedia.org/wiki/Bit_Boy!!)
 
 ---
 
@@ -2358,11 +3362,27 @@
 
 ---
 
+### Bit.Trip Core
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** Gaijin Games &nbsp;|&nbsp; **Publisher:** Aksys Games, Gaijin Games, QubicGames &nbsp;|&nbsp; **Genre:** Action, Music &nbsp;|&nbsp; **Released:** July 6, 2009
+
+[Wikipedia](https://en.wikipedia.org/wiki/Bit.Trip_Core)
+
+---
+
 ### Bit.Trip Void
 
 **Platforms:** Wii &nbsp;|&nbsp; **Released:** November 23
 
 [Wikipedia](https://en.wikipedia.org/wiki/Bit.Trip_Void)
+
+---
+
+### Bonsai Barber
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** Zoonami &nbsp;|&nbsp; **Publisher:** Nintendo &nbsp;|&nbsp; **Genre:** Simulation &nbsp;|&nbsp; **Released:** March 30, 2009
+
+[Wikipedia](https://en.wikipedia.org/wiki/Bonsai_Barber)
 
 ---
 
@@ -2394,11 +3414,27 @@
 
 ---
 
+### Build 'n Race
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** Icon Games Entertainment &nbsp;|&nbsp; **Publisher:** Zoo Games &nbsp;|&nbsp; **Genre:** Racing &nbsp;|&nbsp; **Released:** August 4, 2009
+
+[Wikipedia](https://en.wikipedia.org/wiki/Build_'n_Race)
+
+---
+
 ### Cabela's Big Game Hunter 2010
 
 **Platforms:** PlayStation 3, Wii, Xbox 360 &nbsp;|&nbsp; **Released:** September 29
 
 [Wikipedia](https://en.wikipedia.org/wiki/Cabela%27s_Big_Game_Hunter_2010)
+
+---
+
+### Cabela's Outdoor Adventures
+
+**Platforms:** PlayStation 2, PlayStation 3, Wii, Xbox 360, Windows &nbsp;|&nbsp; **Developer:** Fun Labs &nbsp;|&nbsp; **Publisher:** Activision, Zoo Digital Publishing &nbsp;|&nbsp; **Genre:** Simulation &nbsp;|&nbsp; **Released:** September 8, 2009
+
+[Wikipedia](https://en.wikipedia.org/wiki/Cabela's_Outdoor_Adventures_(2009_video_game))
 
 ---
 
@@ -2430,6 +3466,22 @@
 
 ---
 
+### Christmas Clix
+
+**Platforms:** macOS, Wii, Windows &nbsp;|&nbsp; **Developer:** MunsieGames, JV Games &nbsp;|&nbsp; **Publisher:** JV Games &nbsp;|&nbsp; **Released:** November 30, 2009
+
+[Wikipedia](https://en.wikipedia.org/wiki/Christmas_Clix)
+
+---
+
+### CID The Dummy
+
+**Platforms:** PlayStation 2, PlayStation Portable, Wii, Windows &nbsp;|&nbsp; **Developer:** Twelve Games &nbsp;|&nbsp; **Publisher:** Oxygen Games &nbsp;|&nbsp; **Genre:** Action-adventure, Platform &nbsp;|&nbsp; **Released:** April 17, 2009
+
+[Wikipedia](https://en.wikipedia.org/wiki/CID_The_Dummy)
+
+---
+
 ### Cloudy with a Chance of Meatballs
 
 **Platforms:** Wii, Nintendo DS, PlayStation 3, Xbox 360, PlayStation Portable &nbsp;|&nbsp; **Released:** September 15
@@ -2441,6 +3493,14 @@
 ### Colin McRae: Dirt 2
 
 **Platforms:** Windows, Xbox 360, PlayStation 3, PlayStation Portable, Wii, Nintendo DS &nbsp;|&nbsp; **Publisher:** Codemasters &nbsp;|&nbsp; **Released:** December 4, 2009
+
+---
+
+### ColorZ
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** Exkee &nbsp;|&nbsp; **Publisher:** Exkee &nbsp;|&nbsp; **Genre:** Action, Puzzle &nbsp;|&nbsp; **Released:** July 24, 2009
+
+[Wikipedia](https://en.wikipedia.org/wiki/ColorZ)
 
 ---
 
@@ -2473,6 +3533,14 @@
 **Platforms:** Wii &nbsp;|&nbsp; **Released:** May 18
 
 [Wikipedia](https://en.wikipedia.org/wiki/Crystal_Defenders)
+
+---
+
+### CSI: Deadly Intent
+
+**Platforms:** Windows, Xbox 360, Nintendo DS, Wii &nbsp;|&nbsp; **Developer:** Telltale Games, Other Ocean Interactive &nbsp;|&nbsp; **Publisher:** Ubisoft &nbsp;|&nbsp; **Genre:** Adventure &nbsp;|&nbsp; **Released:** October 20, 2009
+
+[Wikipedia](https://en.wikipedia.org/wiki/CSI:_Deadly_Intent)
 
 ---
 
@@ -2528,6 +3596,22 @@
 
 ---
 
+### Deca Sports 2
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** Hudson Soft &nbsp;|&nbsp; **Publisher:** Hudson Soft &nbsp;|&nbsp; **Genre:** Sports &nbsp;|&nbsp; **Released:** April 16, 2009
+
+[Wikipedia](https://en.wikipedia.org/wiki/Deca_Sports_2)
+
+---
+
+### Diabolik: The Original Sin
+
+**Platforms:** PlayStation 2, Windows, PlayStation Portable, Wii, Nintendo DS &nbsp;|&nbsp; **Developer:** Artematica &nbsp;|&nbsp; **Publisher:** Black Bean Games &nbsp;|&nbsp; **Genre:** Adventure &nbsp;|&nbsp; **Released:** June 26, 2009
+
+[Wikipedia](https://en.wikipedia.org/wiki/Diabolik:_The_Original_Sin)
+
+---
+
 ### Disney Fairies: Tinker Bell and the Lost Treasure
 
 **Platforms:** Nintendo DS, Wii &nbsp;|&nbsp; **Released:** October 27
@@ -2540,11 +3624,27 @@
 
 ---
 
+### Disney Sing It: Pop Hits
+
+**Platforms:** PlayStation 2, PlayStation 3, Wii &nbsp;|&nbsp; **Developer:** Zoë Mode &nbsp;|&nbsp; **Publisher:** Disney Interactive Studios &nbsp;|&nbsp; **Genre:** Karaoke &nbsp;|&nbsp; **Released:** October 6, 2009
+
+[Wikipedia](https://en.wikipedia.org/wiki/Disney_Sing_It:_Pop_Hits)
+
+---
+
 ### DJ Hero
 
 **Platforms:** Xbox 360, PlayStation 3, PlayStation 2, Wii &nbsp;|&nbsp; **Released:** October 27
 
 [Wikipedia](https://en.wikipedia.org/wiki/DJ_Hero)
+
+---
+
+### Don King Boxing
+
+**Platforms:** Nintendo DS, Wii &nbsp;|&nbsp; **Developer:** 2K Shanghai &nbsp;|&nbsp; **Publisher:** 2K &nbsp;|&nbsp; **Genre:** Sports video game &nbsp;|&nbsp; **Released:** March 27, 2009
+
+[Wikipedia](https://en.wikipedia.org/wiki/Don_King_Boxing)
 
 ---
 
@@ -2576,6 +3676,14 @@
 
 ---
 
+### EA Sports Active
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** EA Canada &nbsp;|&nbsp; **Publisher:** EA Sports &nbsp;|&nbsp; **Genre:** Fitness game &nbsp;|&nbsp; **Released:** May 19, 2009
+
+[Wikipedia](https://en.wikipedia.org/wiki/EA_Sports_Active)
+
+---
+
 ### Eco Shooter: Plant 530
 
 **Platforms:** Wii &nbsp;|&nbsp; **Released:** December 21
@@ -2590,6 +3698,22 @@
 
 ---
 
+### Endless Ocean: Blue World
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** Arika &nbsp;|&nbsp; **Publisher:** Nintendo &nbsp;|&nbsp; **Genre:** Adventure, simulation &nbsp;|&nbsp; **Released:** September 17, 2009
+
+[Wikipedia](https://en.wikipedia.org/wiki/Endless_Ocean:_Blue_World)
+
+---
+
+### Equilibrio
+
+**Platforms:** Wii, iOS &nbsp;|&nbsp; **Developer:** DK Games, Fishing Cactus &nbsp;|&nbsp; **Publisher:** DK Games &nbsp;|&nbsp; **Genre:** Puzzle &nbsp;|&nbsp; **Released:** April 6, 2009
+
+[Wikipedia](https://en.wikipedia.org/wiki/Equilibrio)
+
+---
+
 ### Evasive Space
 
 **Platforms:** Wii &nbsp;|&nbsp; **Released:** February 16
@@ -2598,9 +3722,65 @@
 
 ---
 
+### Excitebike: World Rally
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** Monster Games, Nintendo SPD &nbsp;|&nbsp; **Publisher:** Nintendo &nbsp;|&nbsp; **Genre:** Racing &nbsp;|&nbsp; **Released:** November 9, 2009
+
+[Wikipedia](https://en.wikipedia.org/wiki/Excitebike:_World_Rally)
+
+---
+
 ### Excitebots: Trick Racing
 
 **Platforms:** Wii &nbsp;|&nbsp; **Released:** April 20
+
+---
+
+### F1 2009
+
+**Platforms:** Wii, PlayStation Portable, iOS &nbsp;|&nbsp; **Developer:** Sumo Digital &nbsp;|&nbsp; **Publisher:** Codemasters &nbsp;|&nbsp; **Genre:** Sim racing &nbsp;|&nbsp; **Released:** November 16, 2009
+
+[Wikipedia](https://en.wikipedia.org/wiki/F1_2009_(video_game))
+
+---
+
+### Family & Friends Party
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** Gammick Entertainment &nbsp;|&nbsp; **Publisher:** Gammick Entertainment &nbsp;|&nbsp; **Genre:** Various &nbsp;|&nbsp; **Released:** March 2, 2009
+
+[Wikipedia](https://en.wikipedia.org/wiki/Family_&_Friends_Party)
+
+---
+
+### Family Card Games
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** Arc System Works &nbsp;|&nbsp; **Publisher:** Aksys Games &nbsp;|&nbsp; **Genre:** Party &nbsp;|&nbsp; **Released:** June 2, 2009
+
+[Wikipedia](https://en.wikipedia.org/wiki/Family_Card_Games)
+
+---
+
+### Family Mini Golf
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** Arc System Works &nbsp;|&nbsp; **Publisher:** Aksys Games &nbsp;|&nbsp; **Genre:** Sports &nbsp;|&nbsp; **Released:** March 10, 2009
+
+[Wikipedia](https://en.wikipedia.org/wiki/Family_Mini_Golf)
+
+---
+
+### Family Pirate Party
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** Arc System Works &nbsp;|&nbsp; **Publisher:** Aksys Games &nbsp;|&nbsp; **Genre:** Party &nbsp;|&nbsp; **Released:** January 17, 2009
+
+[Wikipedia](https://en.wikipedia.org/wiki/Family_Pirate_Party)
+
+---
+
+### Family Slot Car Racing
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** Arc System Works &nbsp;|&nbsp; **Publisher:** Aksys Games &nbsp;|&nbsp; **Genre:** Racing &nbsp;|&nbsp; **Released:** February 10, 2009
+
+[Wikipedia](https://en.wikipedia.org/wiki/Family_Slot_Car_Racing)
 
 ---
 
@@ -2622,6 +3802,22 @@
 
 ---
 
+### Fish'em All
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** Abylight &nbsp;|&nbsp; **Publisher:** Abylight &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** May 29, 2009
+
+[Wikipedia](https://en.wikipedia.org/wiki/Fish'em_All)
+
+---
+
+### Fizzball
+
+**Platforms:** Windows, macOS, Linux, Wii &nbsp;|&nbsp; **Developer:** Grubby Games, Steel Penny Games &nbsp;|&nbsp; **Publisher:** Grubby Games &nbsp;|&nbsp; **Genre:** Breakout &nbsp;|&nbsp; **Released:** October 21, 2009
+
+[Wikipedia](https://en.wikipedia.org/wiki/Fizzball)
+
+---
+
 ### Food Network: Cook or Be Cooked
 
 **Platforms:** Wii &nbsp;|&nbsp; **Released:** November 3
@@ -2636,11 +3832,27 @@
 
 ---
 
+### Fritz Chess
+
+**Platforms:** Nintendo DS, PlayStation 3, Wii, iOS &nbsp;|&nbsp; **Developer:** Freedom Factory Studios &nbsp;|&nbsp; **Publisher:** Deep Silver &nbsp;|&nbsp; **Genre:** Computer chess &nbsp;|&nbsp; **Released:** April 17, 2009
+
+[Wikipedia](https://en.wikipedia.org/wiki/Fritz_Chess)
+
+---
+
 ### Frogger Returns
 
 **Platforms:** Wii, PlayStation Network &nbsp;|&nbsp; **Released:** November 12
 
 [Wikipedia](https://en.wikipedia.org/wiki/Frogger_Returns)
+
+---
+
+### G-Force
+
+**Platforms:** Windows, Nintendo DS, PlayStation 2, PlayStation 3, PlayStation Portable, Wii, Xbox 360, iOS, Mobile phone &nbsp;|&nbsp; **Developer:** Eurocom, Keen Games, Disney Mobile &nbsp;|&nbsp; **Publisher:** Disney Interactive Studios &nbsp;|&nbsp; **Genre:** Action, platform &nbsp;|&nbsp; **Released:** July 21, 2009
+
+[Wikipedia](https://en.wikipedia.org/wiki/G-Force_(video_game))
 
 ---
 
@@ -2680,11 +3892,35 @@
 
 ---
 
+### Giana's Return
+
+**Platforms:** Dreamcast, GameCube, GP2X, Linux, macOS, PlayStation Portable, Mobile phone, Wii, Windows &nbsp;|&nbsp; **Developer:** Retroguru &nbsp;|&nbsp; **Genre:** Platform &nbsp;|&nbsp; **Released:** August 15, 2009
+
+[Wikipedia](https://en.wikipedia.org/wiki/Giana's_Return)
+
+---
+
 ### Gradius ReBirth
 
 **Platforms:** Wii &nbsp;|&nbsp; **Released:** March 9
 
 [Wikipedia](https://en.wikipedia.org/wiki/Gradius_ReBirth)
+
+---
+
+### Grand Slam Tennis
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** EA Canada &nbsp;|&nbsp; **Publisher:** EA Sports &nbsp;|&nbsp; **Genre:** Sports &nbsp;|&nbsp; **Released:** June 8, 2009
+
+[Wikipedia](https://en.wikipedia.org/wiki/Grand_Slam_Tennis)
+
+---
+
+### Gravitronix
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** Medaverse Studios &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** October 12, 2009
+
+[Wikipedia](https://en.wikipedia.org/wiki/Gravitronix)
 
 ---
 
@@ -2760,6 +3996,14 @@
 
 ---
 
+### Heron: Steam Machine
+
+**Platforms:** Wii, iOS &nbsp;|&nbsp; **Developer:** Triangle Studios &nbsp;|&nbsp; **Publisher:** Triangle Studios &nbsp;|&nbsp; **Genre:** Puzzle &nbsp;|&nbsp; **Released:** October 16, 2009
+
+[Wikipedia](https://en.wikipedia.org/wiki/Heron:_Steam_Machine)
+
+---
+
 ### High Voltage Hot Rod Show
 
 **Platforms:** Wii &nbsp;|&nbsp; **Released:** January 19
@@ -2768,11 +4012,35 @@
 
 ---
 
+### Horrible Histories: Ruthless Romans
+
+**Platforms:** Nintendo DS, Wii, Windows &nbsp;|&nbsp; **Developer:** Virtual Identity &nbsp;|&nbsp; **Publisher:** Slitherine Software &nbsp;|&nbsp; **Genre:** Adventure, educational &nbsp;|&nbsp; **Released:** August 7, 2009
+
+[Wikipedia](https://en.wikipedia.org/wiki/Horrible_Histories:_Ruthless_Romans_(video_game))
+
+---
+
 ### Hot Wheels Battle Force 5
 
 **Platforms:** Nintendo DS, PlayStation 3, Wii, Xbox 360 &nbsp;|&nbsp; **Released:** November 10
 
 [Wikipedia](https://en.wikipedia.org/wiki/Hot_Wheels_Battle_Force_5_(video_game))
+
+---
+
+### Hysteria Hospital: Emergency Ward
+
+**Platforms:** Nintendo DS, Windows, Wii &nbsp;|&nbsp; **Developer:** GameInvest, Camel Entertainment &nbsp;|&nbsp; **Publisher:** Oxygen Games &nbsp;|&nbsp; **Genre:** Strategy &nbsp;|&nbsp; **Released:** June 16, 2009
+
+[Wikipedia](https://en.wikipedia.org/wiki/Hysteria_Hospital:_Emergency_Ward)
+
+---
+
+### ICarly
+
+**Platforms:** Wii, Nintendo DS &nbsp;|&nbsp; **Developer:** Blitz Games, Human Soft &nbsp;|&nbsp; **Publisher:** Activision &nbsp;|&nbsp; **Genre:** Party &nbsp;|&nbsp; **Released:** October 20, 2009
+
+[Wikipedia](https://en.wikipedia.org/wiki/ICarly_(video_game))
 
 ---
 
@@ -2785,6 +4053,14 @@
 ### Imagine Fashion Party
 
 **Platforms:** Wii &nbsp;|&nbsp; **Released:** January 20
+
+---
+
+### Incoming!
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** JV Games &nbsp;|&nbsp; **Publisher:** JV Games &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** July 13, 2009
+
+[Wikipedia](https://en.wikipedia.org/wiki/Incoming!_(2009_video_game))
 
 ---
 
@@ -2827,6 +4103,22 @@
 ### Kamen Rider: Dragon Knight
 
 **Platforms:** Nintendo DS, Wii &nbsp;|&nbsp; **Released:** November 17
+
+---
+
+### Karaoke Revolution
+
+**Platforms:** PlayStation 3, Wii, Xbox 360 &nbsp;|&nbsp; **Developer:** Blitz Games &nbsp;|&nbsp; **Publisher:** Konami &nbsp;|&nbsp; **Genre:** Music / Rhythm &nbsp;|&nbsp; **Released:** November 24, 2009
+
+[Wikipedia](https://en.wikipedia.org/wiki/Karaoke_Revolution_(2009_video_game))
+
+---
+
+### Karate Phants: Gloves of Glory
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** SnapDragon Games &nbsp;|&nbsp; **Publisher:** SnapDragon Games &nbsp;|&nbsp; **Genre:** Fighting &nbsp;|&nbsp; **Released:** July 10, 2009
+
+[Wikipedia](https://en.wikipedia.org/wiki/Karate_Phants:_Gloves_of_Glory)
 
 ---
 
@@ -2944,6 +4236,14 @@
 
 ---
 
+### Mart Racer
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** Joju Games &nbsp;|&nbsp; **Publisher:** Joju Games &nbsp;|&nbsp; **Genre:** Racing &nbsp;|&nbsp; **Released:** September 14, 2009
+
+[Wikipedia](https://en.wikipedia.org/wiki/Mart_Racer)
+
+---
+
 ### Marvel Super Hero Squad
 
 **Platforms:** Wii, PlayStation 2, PlayStation Portable, Nintendo DS &nbsp;|&nbsp; **Released:** October 20
@@ -2955,6 +4255,14 @@
 ### Marvel: Ultimate Alliance 2
 
 **Platforms:** Nintendo DS, PlayStation 3, PlayStation 2, Wii, Xbox 360, PlayStation Portable &nbsp;|&nbsp; **Released:** September 15
+
+---
+
+### Medieval Games
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** N-Fusion Interactive &nbsp;|&nbsp; **Publisher:** Vir2L Studios &nbsp;|&nbsp; **Genre:** Party &nbsp;|&nbsp; **Released:** October 20, 2009
+
+[Wikipedia](https://en.wikipedia.org/wiki/Medieval_Games)
 
 ---
 
@@ -2978,6 +4286,14 @@
 
 ---
 
+### Monsters vs. Aliens
+
+**Platforms:** Windows, Wii, PlayStation 2, PlayStation 3, Xbox 360, Nintendo DS &nbsp;|&nbsp; **Developer:** Beenox, Amaze Entertainment &nbsp;|&nbsp; **Publisher:** Activision &nbsp;|&nbsp; **Genre:** Action-adventure &nbsp;|&nbsp; **Released:** March 24, 2009
+
+[Wikipedia](https://en.wikipedia.org/wiki/Monsters_vs._Aliens_(video_game))
+
+---
+
 ### Mr. Driller W
 
 **Platforms:** Wii &nbsp;|&nbsp; **Released:** August 24
@@ -2989,6 +4305,14 @@
 ### Muramasa: The Demon Blade
 
 **Platforms:** Wii &nbsp;|&nbsp; **Released:** September 8
+
+---
+
+### Muscle March
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** Namco Bandai Games &nbsp;|&nbsp; **Publisher:** Namco Bandai Games &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** May 26, 2009
+
+[Wikipedia](https://en.wikipedia.org/wiki/Muscle_March)
 
 ---
 
@@ -3046,6 +4370,14 @@
 
 ---
 
+### Nerf N-Strike Elite
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** EA Salt Lake &nbsp;|&nbsp; **Publisher:** Electronic Arts &nbsp;|&nbsp; **Genre:** Rail shooter &nbsp;|&nbsp; **Released:** October 27, 2009
+
+[Wikipedia](https://en.wikipedia.org/wiki/Nerf_N-Strike_Elite)
+
+---
+
 ### New Play Control! Donkey Kong Jungle Beat
 
 **Platforms:** Wii &nbsp;|&nbsp; **Released:** May 4
@@ -3059,6 +4391,14 @@
 **Platforms:** Wii &nbsp;|&nbsp; **Publisher:** Nintendo &nbsp;|&nbsp; **Released:** November 11, 2009
 
 [Wikipedia](https://en.wikipedia.org/wiki/New_Super_Mario_Bros._Wii)
+
+---
+
+### NHK Kōhaku Quiz Gassen
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** Nintendo EAD &nbsp;|&nbsp; **Publisher:** Nintendo &nbsp;|&nbsp; **Genre:** Trivia &nbsp;|&nbsp; **Released:** December 17, 2009
+
+[Wikipedia](https://en.wikipedia.org/wiki/NHK_K%C5%8Dhaku_Quiz_Gassen)
 
 ---
 
@@ -3088,9 +4428,41 @@
 
 ---
 
+### Onslaught
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** Shade &nbsp;|&nbsp; **Publisher:** Hudson Soft &nbsp;|&nbsp; **Genre:** First-person shooter &nbsp;|&nbsp; **Released:** February 13, 2009
+
+[Wikipedia](https://en.wikipedia.org/wiki/Onslaught_(2009_video_game))
+
+---
+
 ### Overlord: Dark Legend
 
 **Platforms:** Wii &nbsp;|&nbsp; **Released:** June 23
+
+---
+
+### Pallurikio
+
+**Platforms:** Wii, PlayStation Portable, PlayStation 3 &nbsp;|&nbsp; **Developer:** Playstos Entertainment &nbsp;|&nbsp; **Publisher:** Playstos Entertainment &nbsp;|&nbsp; **Genre:** Action platformer &nbsp;|&nbsp; **Released:** December 11, 2009
+
+[Wikipedia](https://en.wikipedia.org/wiki/Pallurikio)
+
+---
+
+### PDC World Championship Darts 2009
+
+**Platforms:** Nintendo DS, Wii &nbsp;|&nbsp; **Developer:** Rebellion Developments &nbsp;|&nbsp; **Publisher:** Oxygen &nbsp;|&nbsp; **Genre:** Sports &nbsp;|&nbsp; **Released:** May 29, 2009
+
+[Wikipedia](https://en.wikipedia.org/wiki/PDC_World_Championship_Darts_2009)
+
+---
+
+### Penguins & Friends: Hey! That's My Fish!
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** Gammick Entertainment &nbsp;|&nbsp; **Publisher:** Gammick Entertainment &nbsp;|&nbsp; **Released:** May 4, 2009
+
+[Wikipedia](https://en.wikipedia.org/wiki/Penguins_&_Friends:_Hey!_That's_My_Fish!)
 
 ---
 
@@ -3099,6 +4471,14 @@
 **Platforms:** Wii &nbsp;|&nbsp; **Released:** August 14
 
 [Wikipedia](https://en.wikipedia.org/wiki/Phantom_Brave)
+
+---
+
+### PictureBook Games: Pop-Up Pursuit
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** Grounding Inc. &nbsp;|&nbsp; **Publisher:** Nintendo &nbsp;|&nbsp; **Genre:** Party &nbsp;|&nbsp; **Released:** March 26, 2009
+
+[Wikipedia](https://en.wikipedia.org/wiki/PictureBook_Games:_Pop-Up_Pursuit)
 
 ---
 
@@ -3115,6 +4495,22 @@
 **Platforms:** Wii &nbsp;|&nbsp; **Released:** November 16
 
 [Wikipedia](https://en.wikipedia.org/wiki/Pok%C3%A9mon_Rumble)
+
+---
+
+### Pole's Big Adventure
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** Sega, Mobile & Game Studio, Flat-Out &nbsp;|&nbsp; **Publisher:** Sega &nbsp;|&nbsp; **Genre:** Platform &nbsp;|&nbsp; **Released:** February 3, 2009
+
+[Wikipedia](https://en.wikipedia.org/wiki/Pole's_Big_Adventure)
+
+---
+
+### Pony Friends 2
+
+**Platforms:** Nintendo DS, Wii, Windows &nbsp;|&nbsp; **Developer:** Tantalus Media, Eidos Shanghai &nbsp;|&nbsp; **Publisher:** Eidos Interactive, Square Enix &nbsp;|&nbsp; **Genre:** Simulation &nbsp;|&nbsp; **Released:** November 20, 2009
+
+[Wikipedia](https://en.wikipedia.org/wiki/Pony_Friends_2)
 
 ---
 
@@ -3142,6 +4538,22 @@
 
 ---
 
+### Puzzle Bobble Plus!
+
+**Platforms:** Wii, Xbox 360 &nbsp;|&nbsp; **Developer:** Taito, Rencom, Dreams Inc. &nbsp;|&nbsp; **Publisher:** Taito, Square Enix &nbsp;|&nbsp; **Genre:** Puzzle &nbsp;|&nbsp; **Released:** April 7, 2009
+
+[Wikipedia](https://en.wikipedia.org/wiki/Puzzle_Bobble_Plus!)
+
+---
+
+### Puzzle Kingdoms
+
+**Platforms:** Nintendo DS, Wii, Windows &nbsp;|&nbsp; **Developer:** Infinite Interactive &nbsp;|&nbsp; **Publisher:** Zoo Games, Zushi Games &nbsp;|&nbsp; **Genre:** Puzzle, turn-based strategy &nbsp;|&nbsp; **Released:** April 16, 2009
+
+[Wikipedia](https://en.wikipedia.org/wiki/Puzzle_Kingdoms)
+
+---
+
 ### Rabbids Go Home
 
 **Platforms:** Wii, Nintendo DS &nbsp;|&nbsp; **Released:** November 1
@@ -3153,6 +4565,22 @@
 ### Rainbow Islands: Towering Adventure!
 
 **Platforms:** Wii, Xbox 360 &nbsp;|&nbsp; **Released:** June 15
+
+---
+
+### Ready 2 Rumble: Revolution
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** AKI Corporation USA &nbsp;|&nbsp; **Publisher:** Atari, Inc. &nbsp;|&nbsp; **Genre:** Sports &nbsp;|&nbsp; **Released:** March 17, 2009
+
+[Wikipedia](https://en.wikipedia.org/wiki/Ready_2_Rumble:_Revolution)
+
+---
+
+### Real Heroes: Firefighter
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** Epicenter Studios, Scientifically Proven Entertainment, Golem Entertainment, Ziggurat Interactive &nbsp;|&nbsp; **Publisher:** Conspiracy Entertainment, Zordix, Flying Tiger Entertainment, Golem Entertainment &nbsp;|&nbsp; **Genre:** First-person shooter &nbsp;|&nbsp; **Released:** August 4, 2009
+
+[Wikipedia](https://en.wikipedia.org/wiki/Real_Heroes:_Firefighter)
 
 ---
 
@@ -3186,6 +4614,14 @@
 
 ---
 
+### Rock N' Roll Climber
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** Vitei, Nintendo SPD Group No.3 &nbsp;|&nbsp; **Publisher:** Nintendo &nbsp;|&nbsp; **Genre:** Simulation &nbsp;|&nbsp; **Released:** August 10, 2009
+
+[Wikipedia](https://en.wikipedia.org/wiki/Rock_N'_Roll_Climber)
+
+---
+
 ### Rogue Trooper
 
 **Platforms:** Wii &nbsp;|&nbsp; **Released:** February 27
@@ -3208,11 +4644,27 @@
 
 ---
 
+### Samurai Shodown Anthology
+
+**Platforms:** PlayStation 2, PlayStation Portable, Wii &nbsp;|&nbsp; **Developer:** Terminal Reality &nbsp;|&nbsp; **Publisher:** SNK Playmore, Ignition Entertainment &nbsp;|&nbsp; **Genre:** Fighting &nbsp;|&nbsp; **Released:** March 24, 2009
+
+[Wikipedia](https://en.wikipedia.org/wiki/Samurai_Shodown_Anthology)
+
+---
+
 ### Sandy Beach
 
 **Platforms:** Wii &nbsp;|&nbsp; **Released:** January 5
 
 [Wikipedia](https://en.wikipedia.org/wiki/Sandy_Beach_(video_game))
+
+---
+
+### Scene It? Bright Lights! Big Screen!
+
+**Platforms:** Xbox 360, PlayStation 3, Wii &nbsp;|&nbsp; **Developer:** Artificial Mind and Movement &nbsp;|&nbsp; **Publisher:** Warner Bros. Interactive Entertainment &nbsp;|&nbsp; **Genre:** Trivia &nbsp;|&nbsp; **Released:** November 17, 2009
+
+[Wikipedia](https://en.wikipedia.org/wiki/Scene_It%3F_Bright_Lights!_Big_Screen!)
 
 ---
 
@@ -3278,6 +4730,14 @@
 
 ---
 
+### Snowboard Riot
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** Hudson Soft &nbsp;|&nbsp; **Publisher:** Hudson Soft &nbsp;|&nbsp; **Genre:** Snowboarding &nbsp;|&nbsp; **Released:** February 2, 2009
+
+[Wikipedia](https://en.wikipedia.org/wiki/Snowboard_Riot)
+
+---
+
 ### Sonic and the Black Knight
 
 **Platforms:** Wii &nbsp;|&nbsp; **Released:** March 3
@@ -3300,6 +4760,30 @@
 
 ---
 
+### SpeedZone
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** Awesome Play &nbsp;|&nbsp; **Publisher:** Detn8 Games, Bethesda Softworks &nbsp;|&nbsp; **Genre:** Racing &nbsp;|&nbsp; **Released:** August 18, 2009
+
+[Wikipedia](https://en.wikipedia.org/wiki/SpeedZone_(video_game))
+
+---
+
+### SpongeBob's Truth or Square
+
+**Platforms:** Wii, Nintendo DS, PlayStation Portable, Xbox 360 &nbsp;|&nbsp; **Developer:** Heavy Iron Studios, Barking Lizards Technologies, Altron &nbsp;|&nbsp; **Publisher:** THQ &nbsp;|&nbsp; **Genre:** Platform, Action-adventure &nbsp;|&nbsp; **Released:** October 26, 2009
+
+[Wikipedia](https://en.wikipedia.org/wiki/SpongeBob's_Truth_or_Square_(video_game))
+
+---
+
+### Spore Hero
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** EA Montreal &nbsp;|&nbsp; **Publisher:** Electronic Arts &nbsp;|&nbsp; **Genre:** Life simulation &nbsp;|&nbsp; **Released:** October 6, 2009
+
+[Wikipedia](https://en.wikipedia.org/wiki/Spore_Hero)
+
+---
+
 ### Spyborgs
 
 **Platforms:** Wii &nbsp;|&nbsp; **Released:** September 22
@@ -3314,6 +4798,30 @@
 
 ---
 
+### Sukeban Shachou Rena
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** Dearfield &nbsp;|&nbsp; **Publisher:** Jorudan &nbsp;|&nbsp; **Genre:** Action game &nbsp;|&nbsp; **Released:** October 22, 2009
+
+[Wikipedia](https://en.wikipedia.org/wiki/Sukeban_Shachou_Rena)
+
+---
+
+### Swords & Soldiers
+
+**Platforms:** Windows, macOS, Linux, Android, Wii, PlayStation 3, iOS &nbsp;|&nbsp; **Developer:** Ronimo Games, Two Tribes &nbsp;|&nbsp; **Publisher:** Ronimo Games &nbsp;|&nbsp; **Genre:** Real-time strategy &nbsp;|&nbsp; **Released:** May 15, 2009
+
+[Wikipedia](https://en.wikipedia.org/wiki/Swords_&_Soldiers)
+
+---
+
+### Tales of Graces
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** Namco Tales Studio &nbsp;|&nbsp; **Publisher:** Namco Bandai Games &nbsp;|&nbsp; **Genre:** Action role-playing &nbsp;|&nbsp; **Released:** December 10, 2009
+
+[Wikipedia](https://en.wikipedia.org/wiki/Tales_of_Graces)
+
+---
+
 ### Teenage Mutant Ninja Turtles: Smash-Up
 
 **Platforms:** Wii, PlayStation 2 &nbsp;|&nbsp; **Released:** September 22
@@ -3323,6 +4831,14 @@
 ### Tenchu: Shadow Assassins
 
 **Platforms:** Wii, PlayStation Portable &nbsp;|&nbsp; **Released:** February 3
+
+---
+
+### Texas Hold'em Tournament
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** Digital Leisure &nbsp;|&nbsp; **Publisher:** Digital Leisure &nbsp;|&nbsp; **Genre:** Simulation, Card Game &nbsp;|&nbsp; **Released:** March 27, 2009
+
+[Wikipedia](https://en.wikipedia.org/wiki/Texas_Hold'em_Tournament)
 
 ---
 
@@ -3416,6 +4932,14 @@
 
 ---
 
+### Tomena Sanner
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** Konami &nbsp;|&nbsp; **Publisher:** Konami &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** August 4, 2009
+
+[Wikipedia](https://en.wikipedia.org/wiki/Tomena_Sanner)
+
+---
+
 ### Tony Hawk: Ride
 
 **Platforms:** PlayStation 3, Wii, Xbox 360 &nbsp;|&nbsp; **Released:** November 17
@@ -3444,11 +4968,43 @@
 
 ---
 
+### U-Sing
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** Mindscape &nbsp;|&nbsp; **Publisher:** Mindscape &nbsp;|&nbsp; **Genre:** Karaoke &nbsp;|&nbsp; **Released:** November 6, 2009
+
+[Wikipedia](https://en.wikipedia.org/wiki/U-Sing)
+
+---
+
 ### Ultimate Shooting Collection
 
 **Platforms:** Wii &nbsp;|&nbsp; **Released:** February 3
 
 [Wikipedia](https://en.wikipedia.org/wiki/Ultimate_Shooting_Collection)
+
+---
+
+### Up
+
+**Platforms:** iOS, macOS, Windows, Nintendo DS, PlayStation 2, PlayStation 3, PlayStation Portable, Wii, Xbox 360 &nbsp;|&nbsp; **Developer:** Heavy Iron Studios, Asobo Studio, Altron &nbsp;|&nbsp; **Publisher:** THQ &nbsp;|&nbsp; **Genre:** Action-adventure &nbsp;|&nbsp; **Released:** May 26, 2009
+
+[Wikipedia](https://en.wikipedia.org/wiki/Up_(video_game))
+
+---
+
+### Valhalla Knights: Eldar Saga
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** K2 &nbsp;|&nbsp; **Publisher:** Marvelous Entertainment, Xseed Games, Rising Star Games &nbsp;|&nbsp; **Genre:** Action role-playing &nbsp;|&nbsp; **Released:** September 29, 2009
+
+[Wikipedia](https://en.wikipedia.org/wiki/Valhalla_Knights:_Eldar_Saga)
+
+---
+
+### Viral Survival
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** PeakVox &nbsp;|&nbsp; **Publisher:** Fun Unit Inc., NIS America, PeakVox &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** June 9, 2009
+
+[Wikipedia](https://en.wikipedia.org/wiki/Viral_Survival)
 
 ---
 
@@ -3460,11 +5016,43 @@
 
 ---
 
+### Wacky World of Sports
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** Tabot &nbsp;|&nbsp; **Publisher:** Sega &nbsp;|&nbsp; **Genre:** Sports, minigames &nbsp;|&nbsp; **Released:** September 17, 2009
+
+[Wikipedia](https://en.wikipedia.org/wiki/Wacky_World_of_Sports)
+
+---
+
+### Water Warfare
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** Hudson Soft &nbsp;|&nbsp; **Publisher:** Hudson Soft &nbsp;|&nbsp; **Genre:** First-person shooter &nbsp;|&nbsp; **Released:** June 23, 2009
+
+[Wikipedia](https://en.wikipedia.org/wiki/Water_Warfare)
+
+---
+
 ### We Cheer 2
 
 **Platforms:** Wii &nbsp;|&nbsp; **Released:** November 3
 
 [Wikipedia](https://en.wikipedia.org/wiki/We_Cheer_2)
+
+---
+
+### We Rock: Drum King
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** DEL &nbsp;|&nbsp; **Publisher:** 505 Games &nbsp;|&nbsp; **Genre:** Music &nbsp;|&nbsp; **Released:** April 9, 2009
+
+[Wikipedia](https://en.wikipedia.org/wiki/We_Rock:_Drum_King)
+
+---
+
+### We Sing
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** Le Cortex &nbsp;|&nbsp; **Publisher:** Nordic Games &nbsp;|&nbsp; **Genre:** Music video game &nbsp;|&nbsp; **Released:** November 12, 2009
+
+[Wikipedia](https://en.wikipedia.org/wiki/We_Sing)
 
 ---
 
@@ -3476,11 +5064,35 @@
 
 ---
 
+### Where the Wild Things Are
+
+**Platforms:** Nintendo DS, Wii, Xbox 360, PlayStation 3 &nbsp;|&nbsp; **Developer:** Griptonite Games, WayForward Technologies &nbsp;|&nbsp; **Publisher:** Warner Bros. Interactive Entertainment &nbsp;|&nbsp; **Genre:** Platform-adventure &nbsp;|&nbsp; **Released:** October 13, 2009
+
+[Wikipedia](https://en.wikipedia.org/wiki/Where_the_Wild_Things_Are_(video_game))
+
+---
+
+### Where's Waldo? The Fantastic Journey
+
+**Platforms:** Nintendo DS, Wii, Windows, iOS &nbsp;|&nbsp; **Developer:** Ludia &nbsp;|&nbsp; **Publisher:** Ubisoft, Microsoft Game Studios &nbsp;|&nbsp; **Genre:** Puzzle adventure &nbsp;|&nbsp; **Released:** September 22, 2009
+
+[Wikipedia](https://en.wikipedia.org/wiki/Where's_Waldo%3F_The_Fantastic_Journey_(video_game))
+
+---
+
 ### Wii Fit Plus
 
 **Platforms:** Wii &nbsp;|&nbsp; **Released:** October 4
 
 [Wikipedia](https://en.wikipedia.org/wiki/Wii_Fit_Plus)
+
+---
+
+### Wii no Ma
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** HAL Laboratory &nbsp;|&nbsp; **Publisher:** Nintendo &nbsp;|&nbsp; **Released:** May 1, 2009
+
+[Wikipedia](https://en.wikipedia.org/wiki/Wii_no_Ma)
 
 ---
 
@@ -3520,11 +5132,27 @@
 
 ---
 
+### Yoga Wii
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** Trine Games &nbsp;|&nbsp; **Publisher:** JoWooD Entertainment, DreamCatcher Interactive &nbsp;|&nbsp; **Genre:** Fitness game &nbsp;|&nbsp; **Released:** November 27, 2009
+
+[Wikipedia](https://en.wikipedia.org/wiki/Yoga_Wii)
+
+---
+
 ### You, Me, and the Cubes
 
 **Platforms:** Wii &nbsp;|&nbsp; **Released:** September 21
 
 [Wikipedia](https://en.wikipedia.org/wiki/Kenji_Eno#With_fyto)
+
+---
+
+### Your Shape
+
+**Platforms:** Wii, Windows &nbsp;|&nbsp; **Developer:** Ubisoft Barcelona &nbsp;|&nbsp; **Publisher:** Ubisoft &nbsp;|&nbsp; **Genre:** Exergaming, Aerobics &nbsp;|&nbsp; **Released:** November 24, 2009
+
+[Wikipedia](https://en.wikipedia.org/wiki/Your_Shape)
 
 ---
 
@@ -3538,9 +5166,25 @@
 
 [Full 2008 page](../years/2008.md)
 
+### 007: Quantum of Solace
+
+**Platforms:** Nintendo DS, PlayStation 2, PlayStation 3, Wii, Windows, Xbox 360 &nbsp;|&nbsp; **Developer:** Treyarch, Eurocom, Vicarious Visions &nbsp;|&nbsp; **Publisher:** Activision &nbsp;|&nbsp; **Genre:** First-person shooter, Third-person shooter &nbsp;|&nbsp; **Released:** October 31, 2008
+
+[Wikipedia](https://en.wikipedia.org/wiki/007:_Quantum_of_Solace)
+
+---
+
 ### 428: Shibuya Scramble
 
 **Platforms:** Wii &nbsp;|&nbsp; **Released:** December 4
+
+---
+
+### Active Life: Outdoor Challenge
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** h.a.n.d. &nbsp;|&nbsp; **Publisher:** Namco Bandai Games &nbsp;|&nbsp; **Released:** May 29, 2008
+
+[Wikipedia](https://en.wikipedia.org/wiki/Active_Life:_Outdoor_Challenge)
 
 ---
 
@@ -3580,6 +5224,14 @@
 
 ---
 
+### AMF Bowling World Lanes
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** Frontline Studios &nbsp;|&nbsp; **Publisher:** Vir2L Studios &nbsp;|&nbsp; **Genre:** Sports &nbsp;|&nbsp; **Released:** November 18, 2008
+
+[Wikipedia](https://en.wikipedia.org/wiki/AMF_Bowling_World_Lanes)
+
+---
+
 ### Animal Crossing: City Folk
 
 **Platforms:** Wii &nbsp;|&nbsp; **Released:** November 16
@@ -3592,11 +5244,27 @@
 
 ---
 
+### Bang Attack
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** Engine Software &nbsp;|&nbsp; **Genre:** Puzzle game &nbsp;|&nbsp; **Released:** December 5, 2008
+
+[Wikipedia](https://en.wikipedia.org/wiki/Bang_Attack)
+
+---
+
 ### Baroque
 
 **Platforms:** PlayStation 2, Wii &nbsp;|&nbsp; **Released:** April 8
 
 [Wikipedia](https://en.wikipedia.org/wiki/Baroque_(video_game))
+
+---
+
+### Battle of the Bands
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** Planet Moon Studios &nbsp;|&nbsp; **Publisher:** THQ &nbsp;|&nbsp; **Genre:** Rhythm game &nbsp;|&nbsp; **Released:** April 21, 2008
+
+[Wikipedia](https://en.wikipedia.org/wiki/Battle_of_the_Bands_(video_game))
 
 ---
 
@@ -3622,9 +5290,25 @@
 
 ---
 
+### Blast Works
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** Budcat Creations &nbsp;|&nbsp; **Publisher:** Majesco &nbsp;|&nbsp; **Genre:** Scrolling shooter &nbsp;|&nbsp; **Released:** June 10, 2008
+
+[Wikipedia](https://en.wikipedia.org/wiki/Blast_Works)
+
+---
+
 ### Blast Works: Build, Trade, Destroy
 
 **Platforms:** Wii &nbsp;|&nbsp; **Released:** June 10
+
+---
+
+### Boingz
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** NinjaBee &nbsp;|&nbsp; **Publisher:** RealNetworks &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** November 24, 2008
+
+[Wikipedia](https://en.wikipedia.org/wiki/Boingz)
 
 ---
 
@@ -3639,6 +5323,14 @@
 > _Synopsis source: Steam_
 
 [Wikipedia](https://en.wikipedia.org/wiki/Bolt_(video_game)) · [Steam](https://store.steampowered.com/app/3856030)
+
+---
+
+### Bomberman Blast
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** Hudson Soft &nbsp;|&nbsp; **Publisher:** Hudson Soft &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** September 12, 2008
+
+[Wikipedia](https://en.wikipedia.org/wiki/Bomberman_Blast)
 
 ---
 
@@ -3678,6 +5370,14 @@
 
 ---
 
+### Bruiser and Scratch
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** Steel Penny Games &nbsp;|&nbsp; **Publisher:** Steel Penny Games &nbsp;|&nbsp; **Genre:** Puzzle, adventure &nbsp;|&nbsp; **Released:** December 8, 2008
+
+[Wikipedia](https://en.wikipedia.org/wiki/Bruiser_and_Scratch)
+
+---
+
 ### Bully: Scholarship Edition
 
 <img src="../images/steam-12200.jpg" alt="Bully: Scholarship Edition cover" width="200">
@@ -3689,6 +5389,14 @@
 > _Synopsis source: Steam_
 
 [Wikipedia](https://en.wikipedia.org/wiki/Bully_(video_game)) · [Steam](https://store.steampowered.com/app/12200)
+
+---
+
+### Cabela's Dangerous Hunts 2009
+
+**Platforms:** PlayStation 2, PlayStation 3, Wii, Xbox 360 &nbsp;|&nbsp; **Developer:** Fun Labs, Magic Wand Productions, Sand Grain Studios &nbsp;|&nbsp; **Publisher:** Activision &nbsp;|&nbsp; **Genre:** Sports &nbsp;|&nbsp; **Released:** September 23, 2008
+
+[Wikipedia](https://en.wikipedia.org/wiki/Cabela's_Dangerous_Hunts_2009)
 
 ---
 
@@ -3706,11 +5414,27 @@
 
 ---
 
+### Calvin Tucker's Redneck Jamboree
+
+**Platforms:** Wii, Windows &nbsp;|&nbsp; **Developer:** Humagade &nbsp;|&nbsp; **Publisher:** Zoo Games &nbsp;|&nbsp; **Genre:** Various &nbsp;|&nbsp; **Released:** December 19, 2008
+
+[Wikipedia](https://en.wikipedia.org/wiki/Calvin_Tucker's_Redneck_Jamboree)
+
+---
+
 ### Captain Rainbow
 
 **Platforms:** Wii &nbsp;|&nbsp; **Released:** August 28
 
 [Wikipedia](https://en.wikipedia.org/wiki/Captain_Rainbow)
+
+---
+
+### Carnival Games: Mini-Golf
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** Cat Daddy Games &nbsp;|&nbsp; **Publisher:** 2K Play &nbsp;|&nbsp; **Genre:** Sports &nbsp;|&nbsp; **Released:** October 21, 2008
+
+[Wikipedia](https://en.wikipedia.org/wiki/Carnival_Games:_Mini-Golf)
 
 ---
 
@@ -3735,6 +5459,22 @@
 **Platforms:** Wii &nbsp;|&nbsp; **Released:** October 20
 
 [Wikipedia](https://en.wikipedia.org/wiki/Celebrity_Sports_Showdown)
+
+---
+
+### Chrysler Classic Racing
+
+**Platforms:** Wii, Nintendo DS &nbsp;|&nbsp; **Developer:** Extra Mile Studios &nbsp;|&nbsp; **Publisher:** Zoo Entertainment &nbsp;|&nbsp; **Genre:** Racing &nbsp;|&nbsp; **Released:** November 18, 2008
+
+[Wikipedia](https://en.wikipedia.org/wiki/Chrysler_Classic_Racing)
+
+---
+
+### Classic British Motor Racing
+
+**Platforms:** Wii, PlayStation 2, Windows &nbsp;|&nbsp; **Developer:** Data Design Interactive &nbsp;|&nbsp; **Publisher:** Metro3D Europe, Data Design Interactive, Bold Games &nbsp;|&nbsp; **Genre:** Racing &nbsp;|&nbsp; **Released:** January 2, 2008
+
+[Wikipedia](https://en.wikipedia.org/wiki/Classic_British_Motor_Racing)
 
 ---
 
@@ -3780,6 +5520,14 @@
 
 ---
 
+### Dancing with the Stars: We Dance!
+
+**Platforms:** Wii, Nintendo DS &nbsp;|&nbsp; **Developer:** Zoë Mode, Jet Black Games &nbsp;|&nbsp; **Publisher:** Activision &nbsp;|&nbsp; **Genre:** Rhythm &nbsp;|&nbsp; **Released:** October 21, 2008
+
+[Wikipedia](https://en.wikipedia.org/wiki/Dancing_with_the_Stars:_We_Dance!)
+
+---
+
 ### De Blob
 
 <img src="../images/steam-532320.jpg" alt="De Blob cover" width="200">
@@ -3805,6 +5553,14 @@
 **Platforms:** Wii &nbsp;|&nbsp; **Released:** March 19
 
 [Wikipedia](https://en.wikipedia.org/wiki/Deca_Sports)
+
+---
+
+### Defend Your Castle
+
+**Platforms:** Browser, Wii, Android &nbsp;|&nbsp; **Developer:** XGen Studios &nbsp;|&nbsp; **Publisher:** XGen Studios &nbsp;|&nbsp; **Genre:** Arcade &nbsp;|&nbsp; **Released:** May 12, 2008
+
+[Wikipedia](https://en.wikipedia.org/wiki/Defend_Your_Castle)
 
 ---
 
@@ -3835,6 +5591,14 @@
 ### Disaster: Day of Crisis
 
 **Platforms:** Wii &nbsp;|&nbsp; **Released:** September 25
+
+---
+
+### Disney Sing It
+
+**Platforms:** PlayStation 2, PlayStation 3, Wii, Xbox 360, Windows &nbsp;|&nbsp; **Developer:** Zoë Mode &nbsp;|&nbsp; **Publisher:** Disney Interactive Studios &nbsp;|&nbsp; **Genre:** Karaoke &nbsp;|&nbsp; **Released:** October 21, 2008
+
+[Wikipedia](https://en.wikipedia.org/wiki/Disney_Sing_It)
 
 ---
 
@@ -3876,11 +5640,43 @@
 
 ---
 
+### Emergency Mayhem
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** Supersonic Software &nbsp;|&nbsp; **Publisher:** Codemasters &nbsp;|&nbsp; **Genre:** Racing, action &nbsp;|&nbsp; **Released:** April 15, 2008
+
+[Wikipedia](https://en.wikipedia.org/wiki/Emergency_Mayhem)
+
+---
+
+### Eternity's Child
+
+**Platforms:** Wii, Steam &nbsp;|&nbsp; **Developer:** Luc Bernard, Silver Sphere Studios &nbsp;|&nbsp; **Publisher:** Alten8, Silver Sphere Studios &nbsp;|&nbsp; **Genre:** Platform &nbsp;|&nbsp; **Released:** July 31, 2008
+
+[Wikipedia](https://en.wikipedia.org/wiki/Eternity's_Child)
+
+---
+
 ### FaceBreaker
 
 **Platforms:** PlayStation 3, Xbox 360, Wii &nbsp;|&nbsp; **Released:** September 5
 
 [Wikipedia](https://en.wikipedia.org/wiki/FaceBreaker)
+
+---
+
+### Family Glide Hockey
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** Arc System Works &nbsp;|&nbsp; **Publisher:** Aksys Games &nbsp;|&nbsp; **Genre:** Sports &nbsp;|&nbsp; **Released:** October 21, 2008
+
+[Wikipedia](https://en.wikipedia.org/wiki/Family_Glide_Hockey)
+
+---
+
+### Family Table Tennis
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** Arc System Works &nbsp;|&nbsp; **Publisher:** Aksys Games &nbsp;|&nbsp; **Genre:** Sports &nbsp;|&nbsp; **Released:** March 25, 2008
+
+[Wikipedia](https://en.wikipedia.org/wiki/Family_Table_Tennis)
 
 ---
 
@@ -3892,6 +5688,22 @@
 
 ---
 
+### Fatal Frame: Mask of the Lunar Eclipse
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** Tecmo, Nintendo SPD, Grasshopper Manufacture &nbsp;|&nbsp; **Publisher:** Nintendo, Koei Tecmo &nbsp;|&nbsp; **Genre:** Survival horror &nbsp;|&nbsp; **Released:** July 31, 2008
+
+[Wikipedia](https://en.wikipedia.org/wiki/Fatal_Frame:_Mask_of_the_Lunar_Eclipse)
+
+---
+
+### Ferrari Challenge: Trofeo Pirelli
+
+**Platforms:** PlayStation 3, PlayStation 2, Wii, Nintendo DS &nbsp;|&nbsp; **Developer:** Eutechnyx, Firebrand Games &nbsp;|&nbsp; **Publisher:** System 3 &nbsp;|&nbsp; **Genre:** Racing &nbsp;|&nbsp; **Released:** July 4, 2008
+
+[Wikipedia](https://en.wikipedia.org/wiki/Ferrari_Challenge:_Trofeo_Pirelli)
+
+---
+
 ### FIFA 09
 
 **Platforms:** Mobile phone, Nintendo DS, PlayStation 2, PlayStation 3, PlayStation Portable, Wii, Windows, Xbox 360 &nbsp;|&nbsp; **Released:** October 14
@@ -3900,9 +5712,25 @@
 
 ---
 
+### Final Fantasy Crystal Chronicles: My Life as a King
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** Square Enix &nbsp;|&nbsp; **Publisher:** Square Enix &nbsp;|&nbsp; **Genre:** City-building &nbsp;|&nbsp; **Released:** March 25, 2008
+
+[Wikipedia](https://en.wikipedia.org/wiki/Final_Fantasy_Crystal_Chronicles:_My_Life_as_a_King)
+
+---
+
 ### Final Fantasy Fables: Chocobo's Dungeon
 
 **Platforms:** Wii &nbsp;|&nbsp; **Released:** July 8
+
+---
+
+### Fun! Fun! Minigolf
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** Shin'en Multimedia &nbsp;|&nbsp; **Publisher:** Shin'en Multimedia &nbsp;|&nbsp; **Genre:** Sports &nbsp;|&nbsp; **Released:** December 22, 2008
+
+[Wikipedia](https://en.wikipedia.org/wiki/Fun!_Fun!_Minigolf)
 
 ---
 
@@ -3938,11 +5766,27 @@
 
 ---
 
+### Gold's Gym: Cardio Workout
+
+**Platforms:** Wii &nbsp;|&nbsp; **Publisher:** Ubisoft, Rocket Company &nbsp;|&nbsp; **Genre:** Fitness game &nbsp;|&nbsp; **Released:** October 30, 2008
+
+[Wikipedia](https://en.wikipedia.org/wiki/Gold's_Gym:_Cardio_Workout)
+
+---
+
 ### Goosebumps HorrorLand
 
 **Platforms:** Nintendo DS, PlayStation 2, Wii &nbsp;|&nbsp; **Released:** October 28
 
 [Wikipedia](https://en.wikipedia.org/wiki/Goosebumps_HorrorLand_Video_Game)
+
+---
+
+### Groovin' Blocks
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** Empty Clip Studios &nbsp;|&nbsp; **Publisher:** Zoo Publishing, Sony Online Entertainment &nbsp;|&nbsp; **Genre:** Puzzle &nbsp;|&nbsp; **Released:** September 8, 2008
+
+[Wikipedia](https://en.wikipedia.org/wiki/Groovin'_Blocks)
 
 ---
 
@@ -3994,6 +5838,14 @@
 
 ---
 
+### High School Musical 3: Senior Year Dance
+
+**Platforms:** Windows, PlayStation 2, Wii, Xbox 360 &nbsp;|&nbsp; **Developer:** Page 44 Studios &nbsp;|&nbsp; **Publisher:** Disney Interactive Studios &nbsp;|&nbsp; **Genre:** Music video game, Adventure, Rhythm &nbsp;|&nbsp; **Released:** October 21, 2008
+
+[Wikipedia](https://en.wikipedia.org/wiki/High_School_Musical_3:_Senior_Year_Dance)
+
+---
+
 ### Hockey Allstar Shootout
 
 **Platforms:** Wii &nbsp;|&nbsp; **Released:** December 8
@@ -4024,6 +5876,22 @@
 
 ---
 
+### Jawa: Mammoth to Himitsu no Ishi
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** Spike &nbsp;|&nbsp; **Publisher:** Spike &nbsp;|&nbsp; **Genre:** Action adventure &nbsp;|&nbsp; **Released:** July 3, 2008
+
+[Wikipedia](https://en.wikipedia.org/wiki/Jawa:_Mammoth_to_Himitsu_no_Ishi)
+
+---
+
+### Jeep Thrills
+
+**Platforms:** PlayStation 2, Wii &nbsp;|&nbsp; **Developer:** Game Sauce &nbsp;|&nbsp; **Publisher:** DSI Games, Zoo Digital Publishing &nbsp;|&nbsp; **Genre:** Racing &nbsp;|&nbsp; **Released:** August 5, 2008
+
+[Wikipedia](https://en.wikipedia.org/wiki/Jeep_Thrills)
+
+---
+
 ### Jillian Michaels' Fitness Ultimatum 2009
 
 **Platforms:** Wii &nbsp;|&nbsp; **Released:** October 21
@@ -4035,6 +5903,22 @@
 ### Jumper: Griffin's Story
 
 **Platforms:** PlayStation 2, PlayStation 3, Wii, Xbox 360 &nbsp;|&nbsp; **Released:** February 12
+
+---
+
+### Karaoke Joysound
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** Xing &nbsp;|&nbsp; **Publisher:** Hudson Soft, Konami, Namco Bandai Games, Nintendo &nbsp;|&nbsp; **Genre:** Music &nbsp;|&nbsp; **Released:** December 18, 2008
+
+[Wikipedia](https://en.wikipedia.org/wiki/Karaoke_Joysound)
+
+---
+
+### Kawasaki Jet Ski
+
+**Platforms:** Wii, Windows &nbsp;|&nbsp; **Developer:** Data Design Interactive &nbsp;|&nbsp; **Publisher:** Data Design Interactive, Bold Games &nbsp;|&nbsp; **Genre:** Racing &nbsp;|&nbsp; **Released:** January 22, 2008
+
+[Wikipedia](https://en.wikipedia.org/wiki/Kawasaki_Jet_Ski_(video_game))
 
 ---
 
@@ -4080,11 +5964,51 @@
 
 ---
 
+### Let's Catch
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** Prope &nbsp;|&nbsp; **Publisher:** Sega &nbsp;|&nbsp; **Released:** December 16, 2008
+
+[Wikipedia](https://en.wikipedia.org/wiki/Let's_Catch)
+
+---
+
+### Let's Tap
+
+**Platforms:** Wii, iOS &nbsp;|&nbsp; **Developer:** Prope &nbsp;|&nbsp; **Publisher:** Sega &nbsp;|&nbsp; **Genre:** Rhythm, Minigames &nbsp;|&nbsp; **Released:** December 18, 2008
+
+[Wikipedia](https://en.wikipedia.org/wiki/Let's_Tap)
+
+---
+
+### Littlest Pet Shop
+
+**Platforms:** Windows, Wii &nbsp;|&nbsp; **Developer:** EA Salt Lake, Full Fat &nbsp;|&nbsp; **Publisher:** Electronic Arts &nbsp;|&nbsp; **Genre:** Simulation &nbsp;|&nbsp; **Released:** October 14, 2008
+
+[Wikipedia](https://en.wikipedia.org/wiki/Littlest_Pet_Shop_(video_game))
+
+---
+
+### Lost in Blue: Shipwrecked
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** Hudson Soft &nbsp;|&nbsp; **Publisher:** Konami &nbsp;|&nbsp; **Genre:** Survival &nbsp;|&nbsp; **Released:** August 7, 2008
+
+[Wikipedia](https://en.wikipedia.org/wiki/Lost_in_Blue:_Shipwrecked)
+
+---
+
 ### LostWinds
 
 **Platforms:** Wii &nbsp;|&nbsp; **Released:** May 12
 
 [Wikipedia](https://en.wikipedia.org/wiki/LostWinds)
+
+---
+
+### M&M's Adventure
+
+**Platforms:** Nintendo DS, Wii &nbsp;|&nbsp; **Developer:** Nikitova Games &nbsp;|&nbsp; **Publisher:** Zoo Games &nbsp;|&nbsp; **Genre:** action-adventure video game &nbsp;|&nbsp; **Released:** April 25, 2008
+
+[Wikipedia](https://en.wikipedia.org/wiki/M&M's_Adventure_(2008_video_game))
 
 ---
 
@@ -4105,6 +6029,14 @@
 **Platforms:** Nintendo DS, PlayStation 2, PlayStation 3, PlayStation Portable, Wii, Xbox 360, Xbox &nbsp;|&nbsp; **Released:** August 13
 
 [Wikipedia](https://en.wikipedia.org/wiki/Madden_NFL_09)
+
+---
+
+### MadStone
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** Riverman Media &nbsp;|&nbsp; **Genre:** Puzzle &nbsp;|&nbsp; **Released:** October 6, 2008
+
+[Wikipedia](https://en.wikipedia.org/wiki/MadStone)
 
 ---
 
@@ -4162,6 +6094,30 @@
 
 ---
 
+### MLB Superstars
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** Deep Fried Entertainment &nbsp;|&nbsp; **Publisher:** 2K &nbsp;|&nbsp; **Genre:** Sports &nbsp;|&nbsp; **Released:** November 10, 2008
+
+[Wikipedia](https://en.wikipedia.org/wiki/MLB_Superstars)
+
+---
+
+### Monster Lab
+
+**Platforms:** Wii, PlayStation 2, Nintendo DS &nbsp;|&nbsp; **Developer:** Backbone Entertainment &nbsp;|&nbsp; **Publisher:** Eidos &nbsp;|&nbsp; **Genre:** Action role-playing &nbsp;|&nbsp; **Released:** November 4, 2008
+
+[Wikipedia](https://en.wikipedia.org/wiki/Monster_Lab)
+
+---
+
+### MotoGP '08
+
+**Platforms:** PlayStation 3, Windows, PlayStation 2, Wii, Xbox 360 &nbsp;|&nbsp; **Developer:** Milestone &nbsp;|&nbsp; **Publisher:** Capcom &nbsp;|&nbsp; **Genre:** Racing, sports &nbsp;|&nbsp; **Released:** October 24, 2008
+
+[Wikipedia](https://en.wikipedia.org/wiki/MotoGP_'08)
+
+---
+
 ### Mushroom Men: The Spore Wars
 
 **Platforms:** Wii &nbsp;|&nbsp; **Released:** December 2
@@ -4173,6 +6129,22 @@
 ### MX vs. ATV: Untamed
 
 **Platforms:** Wii &nbsp;|&nbsp; **Released:** February 18
+
+---
+
+### My Aquarium
+
+**Platforms:** Wii, PlayStation 3 &nbsp;|&nbsp; **Developer:** Hudson Soft &nbsp;|&nbsp; **Genre:** Virtual pet simulation &nbsp;|&nbsp; **Released:** June 24, 2008
+
+[Wikipedia](https://en.wikipedia.org/wiki/My_Aquarium)
+
+---
+
+### My Horse & Me 2
+
+**Platforms:** Xbox 360, PlayStation 2, Wii, Windows, Nintendo DS &nbsp;|&nbsp; **Developer:** Tate Interactive, Mistic Software &nbsp;|&nbsp; **Publisher:** Atari Europe &nbsp;|&nbsp; **Genre:** Racing &nbsp;|&nbsp; **Released:** October 31, 2008
+
+[Wikipedia](https://en.wikipedia.org/wiki/My_Horse_&_Me_2)
 
 ---
 
@@ -4234,6 +6206,14 @@
 
 ---
 
+### Nerf N-Strike
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** EA Salt Lake &nbsp;|&nbsp; **Publisher:** Electronic Arts &nbsp;|&nbsp; **Genre:** Rail shooter &nbsp;|&nbsp; **Released:** October 28, 2008
+
+[Wikipedia](https://en.wikipedia.org/wiki/Nerf_N-Strike)
+
+---
+
 ### NHL 09
 
 **Platforms:** Xbox 360, PlayStation 3, Wii, Windows &nbsp;|&nbsp; **Publisher:** EA Sports &nbsp;|&nbsp; **Released:** September 9, 2008
@@ -4247,6 +6227,14 @@
 **Platforms:** PlayStation 2, PlayStation 3, Wii, Xbox 360 &nbsp;|&nbsp; **Released:** September 8
 
 [Wikipedia](https://en.wikipedia.org/wiki/NHL_2K9)
+
+---
+
+### Niki – Rock 'n' Ball
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** Bplus &nbsp;|&nbsp; **Publisher:** Bplus &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** December 19, 2008
+
+[Wikipedia](https://en.wikipedia.org/wiki/Niki_%E2%80%93_Rock_'n'_Ball)
 
 ---
 
@@ -4274,11 +6262,35 @@
 
 ---
 
+### NPPL Championship Paintball 2009
+
+**Platforms:** PlayStation 2, PlayStation 3, Xbox 360, Wii &nbsp;|&nbsp; **Developer:** Sand Grain Studios &nbsp;|&nbsp; **Publisher:** Activision &nbsp;|&nbsp; **Genre:** First-person shooter, Sports &nbsp;|&nbsp; **Released:** November 18, 2008
+
+[Wikipedia](https://en.wikipedia.org/wiki/NPPL_Championship_Paintball_2009)
+
+---
+
 ### ObsCure II
 
 **Platforms:** Wii &nbsp;|&nbsp; **Released:** March 25
 
 [Wikipedia](https://en.wikipedia.org/wiki/ObsCure_II)
+
+---
+
+### Off Road
+
+**Platforms:** Windows, PlayStation 2, PlayStation Portable, Wii &nbsp;|&nbsp; **Developer:** Razorworks &nbsp;|&nbsp; **Publisher:** Empire Interactive &nbsp;|&nbsp; **Genre:** Racing &nbsp;|&nbsp; **Released:** March 20, 2008
+
+[Wikipedia](https://en.wikipedia.org/wiki/Off_Road_(video_game))
+
+---
+
+### One Piece: Unlimited Cruise
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** Ganbarion &nbsp;|&nbsp; **Publisher:** Bandai Namco Games &nbsp;|&nbsp; **Genre:** Action-adventure &nbsp;|&nbsp; **Released:** September 11, 2008
+
+[Wikipedia](https://en.wikipedia.org/wiki/One_Piece:_Unlimited_Cruise)
 
 ---
 
@@ -4296,6 +6308,54 @@
 
 ---
 
+### Order Up!
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** SuperVillain Studios &nbsp;|&nbsp; **Publisher:** Zoo Games, Ignition Entertainment, Chillingo, Nicalis, Funbox Media &nbsp;|&nbsp; **Genre:** Cooking simulation &nbsp;|&nbsp; **Released:** July 22, 2008
+
+[Wikipedia](https://en.wikipedia.org/wiki/Order_Up!)
+
+---
+
+### Overturn
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** Studio Zan &nbsp;|&nbsp; **Publisher:** Studio Zan, Gamebridge &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** December 2, 2008
+
+[Wikipedia](https://en.wikipedia.org/wiki/Overturn)
+
+---
+
+### PDC World Championship Darts 2008
+
+**Platforms:** PlayStation 2, Windows, PlayStation Portable, Wii, Xbox 360 &nbsp;|&nbsp; **Developer:** Mere Mortals &nbsp;|&nbsp; **Publisher:** Oxygen Games, Red Ant Enterprises &nbsp;|&nbsp; **Genre:** Sports &nbsp;|&nbsp; **Released:** January 25, 2008
+
+[Wikipedia](https://en.wikipedia.org/wiki/PDC_World_Championship_Darts_2008)
+
+---
+
+### Penny Racers Party: Turbo Q Speedway
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** Barnhouse Effect &nbsp;|&nbsp; **Publisher:** Takara Tomy, Tomy &nbsp;|&nbsp; **Genre:** Racing &nbsp;|&nbsp; **Released:** February 28, 2008
+
+[Wikipedia](https://en.wikipedia.org/wiki/Penny_Racers_Party:_Turbo_Q_Speedway)
+
+---
+
+### Petz Sports: Dog Playground
+
+**Platforms:** Wii, macOS, Windows &nbsp;|&nbsp; **Developer:** Ubisoft Montreal &nbsp;|&nbsp; **Publisher:** Ubisoft &nbsp;|&nbsp; **Genre:** Virtual life
+
+[Wikipedia](https://en.wikipedia.org/wiki/Petz_Sports:_Dog_Playground)
+
+---
+
+### Petz: Crazy Monkeyz
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** Y'sK &nbsp;|&nbsp; **Publisher:** Ubisoft &nbsp;|&nbsp; **Genre:** Virtual life &nbsp;|&nbsp; **Released:** November 18, 2008
+
+[Wikipedia](https://en.wikipedia.org/wiki/Petz:_Crazy_Monkeyz)
+
+---
+
 ### Pimp My Ride
 
 **Platforms:** Wii &nbsp;|&nbsp; **Released:** February 19
@@ -4310,11 +6370,67 @@
 
 ---
 
+### Pirates: The Key of Dreams
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** Oxygen Studios &nbsp;|&nbsp; **Publisher:** Oxygen Games &nbsp;|&nbsp; **Genre:** Shoot 'em up &nbsp;|&nbsp; **Released:** July 18, 2008
+
+[Wikipedia](https://en.wikipedia.org/wiki/Pirates:_The_Key_of_Dreams)
+
+---
+
+### Pit Crew Panic!
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** Hudson Soft &nbsp;|&nbsp; **Publisher:** Hudson Soft &nbsp;|&nbsp; **Genre:** Puzzle &nbsp;|&nbsp; **Released:** December 1, 2008
+
+[Wikipedia](https://en.wikipedia.org/wiki/Pit_Crew_Panic!)
+
+---
+
+### Plättchen Twist 'n' Paint
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** Bplus &nbsp;|&nbsp; **Publisher:** Bplus &nbsp;|&nbsp; **Genre:** Puzzle &nbsp;|&nbsp; **Released:** September 12, 2008
+
+[Wikipedia](https://en.wikipedia.org/wiki/Pl%C3%A4ttchen_Twist_'n'_Paint)
+
+---
+
 ### Pong Toss! Frat Party Games
 
 **Platforms:** Wii &nbsp;|&nbsp; **Released:** July 28
 
 [Wikipedia](https://en.wikipedia.org/wiki/Pong_Toss!_Frat_Party_Games)
+
+---
+
+### Pool Revolution: Cue Sports
+
+**Platforms:** Wii &nbsp;|&nbsp; **Publisher:** Hudson Soft &nbsp;|&nbsp; **Genre:** Sports simulation – cue sports &nbsp;|&nbsp; **Released:** November 18, 2008
+
+[Wikipedia](https://en.wikipedia.org/wiki/Pool_Revolution:_Cue_Sports)
+
+---
+
+### Pop
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** Nnooo &nbsp;|&nbsp; **Publisher:** Nnooo, Electronic Arts &nbsp;|&nbsp; **Genre:** Puzzle game &nbsp;|&nbsp; **Released:** May 12, 2008
+
+[Wikipedia](https://en.wikipedia.org/wiki/Pop_(video_game))
+
+---
+
+### PopStar Guitar
+
+**Platforms:** Wii, PlayStation 2 &nbsp;|&nbsp; **Developer:** Broadsword Interactive &nbsp;|&nbsp; **Publisher:** XS Games &nbsp;|&nbsp; **Genre:** Music game &nbsp;|&nbsp; **Released:** November 18, 2008
+
+[Wikipedia](https://en.wikipedia.org/wiki/PopStar_Guitar)
+
+---
+
+### Potpourrii
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** Abstraction Games &nbsp;|&nbsp; **Publisher:** Abstraction Games &nbsp;|&nbsp; **Genre:** Puzzle &nbsp;|&nbsp; **Released:** September 15, 2008
+
+[Wikipedia](https://en.wikipedia.org/wiki/Potpourrii)
 
 ---
 
@@ -4331,6 +6447,14 @@
 **Platforms:** PlayStation 2, PlayStation 3, PlayStation Portable, Wii, Windows, Xbox 360 &nbsp;|&nbsp; **Released:** November 12
 
 [Wikipedia](https://en.wikipedia.org/wiki/Pro_Evolution_Soccer_2009)
+
+---
+
+### Professor Heinz Wolff's Gravity
+
+**Platforms:** Nintendo DS, Wii, Windows &nbsp;|&nbsp; **Developer:** Extra Mile Studios &nbsp;|&nbsp; **Publisher:** Deep Silver, Namco Networks &nbsp;|&nbsp; **Genre:** Puzzle &nbsp;|&nbsp; **Released:** November 28, 2008
+
+[Wikipedia](https://en.wikipedia.org/wiki/Professor_Heinz_Wolff's_Gravity)
 
 ---
 
@@ -4380,6 +6504,14 @@
 
 ---
 
+### Rubik's Puzzle World
+
+**Platforms:** Nintendo DS, Wii &nbsp;|&nbsp; **Developer:** Two Tribes &nbsp;|&nbsp; **Publisher:** The Game Factory &nbsp;|&nbsp; **Genre:** Puzzle &nbsp;|&nbsp; **Released:** October 28, 2008
+
+[Wikipedia](https://en.wikipedia.org/wiki/Rubik's_Puzzle_World)
+
+---
+
 ### Rune Factory Frontier
 
 **Platforms:** Wii &nbsp;|&nbsp; **Released:** November 27
@@ -4422,6 +6554,30 @@
 
 ---
 
+### Shrek's Carnival Craze
+
+**Platforms:** Wii, PlayStation 2, Windows, Nintendo DS &nbsp;|&nbsp; **Developer:** Ivolgamus &nbsp;|&nbsp; **Publisher:** Activision &nbsp;|&nbsp; **Genre:** Party &nbsp;|&nbsp; **Released:** October 28, 2008
+
+[Wikipedia](https://en.wikipedia.org/wiki/Shrek's_Carnival_Craze)
+
+---
+
+### Silver Star Chess
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** Agetec &nbsp;|&nbsp; **Publisher:** Agetec, Electronic Arts &nbsp;|&nbsp; **Genre:** Traditional game &nbsp;|&nbsp; **Released:** August 5, 2008
+
+[Wikipedia](https://en.wikipedia.org/wiki/Silver_Star_Chess)
+
+---
+
+### Silver Star Reversi
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** Agetec &nbsp;|&nbsp; **Publisher:** Agetec, Electronic Arts &nbsp;|&nbsp; **Genre:** Traditional game &nbsp;|&nbsp; **Released:** September 2, 2008
+
+[Wikipedia](https://en.wikipedia.org/wiki/Silver_Star_Reversi)
+
+---
+
 ### SimCity Creator
 
 **Platforms:** Wii &nbsp;|&nbsp; **Released:** September 22
@@ -4435,6 +6591,14 @@
 **Platforms:** Nintendo DS, Wii &nbsp;|&nbsp; **Released:** November 17
 
 [Wikipedia](https://en.wikipedia.org/wiki/Skate_It)
+
+---
+
+### SNK Arcade Classics Vol. 1
+
+**Platforms:** PlayStation 2, PlayStation Portable, Wii &nbsp;|&nbsp; **Developer:** Terminal Reality, Alpha Denshi, SNK &nbsp;|&nbsp; **Publisher:** SNK Playmore &nbsp;|&nbsp; **Genre:** Various &nbsp;|&nbsp; **Released:** April 29, 2008
+
+[Wikipedia](https://en.wikipedia.org/wiki/SNK_Arcade_Classics_Vol._1)
 
 ---
 
@@ -4496,11 +6660,27 @@
 
 ---
 
+### Spray
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** Eko Software &nbsp;|&nbsp; **Publisher:** Tecmo &nbsp;|&nbsp; **Genre:** Action-adventure &nbsp;|&nbsp; **Released:** December 3, 2008
+
+[Wikipedia](https://en.wikipedia.org/wiki/Spray_(video_game))
+
+---
+
 ### Spy Fox in "Dry Cereal"
 
 **Platforms:** Wii &nbsp;|&nbsp; **Released:** August 29
 
 [Wikipedia](https://en.wikipedia.org/wiki/Spy_Fox_in_%22Dry_Cereal%22)
+
+---
+
+### Star Soldier R
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** Hudson Soft &nbsp;|&nbsp; **Publisher:** Hudson Soft &nbsp;|&nbsp; **Genre:** Scrolling shooter &nbsp;|&nbsp; **Released:** March 25, 2008
+
+[Wikipedia](https://en.wikipedia.org/wiki/Star_Soldier_R)
 
 ---
 
@@ -4516,11 +6696,43 @@
 
 ---
 
+### Sudoku Challenge!
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** Digital Leisure &nbsp;|&nbsp; **Publisher:** Digital Leisure &nbsp;|&nbsp; **Genre:** Puzzle &nbsp;|&nbsp; **Released:** November 24, 2008
+
+[Wikipedia](https://en.wikipedia.org/wiki/Sudoku_Challenge!)
+
+---
+
+### Summer Athletics
+
+**Platforms:** Wii, Xbox 360, PlayStation 2, Windows &nbsp;|&nbsp; **Developer:** 49Games &nbsp;|&nbsp; **Publisher:** dtp entertainment &nbsp;|&nbsp; **Genre:** Sports &nbsp;|&nbsp; **Released:** August 4, 2008
+
+[Wikipedia](https://en.wikipedia.org/wiki/Summer_Athletics)
+
+---
+
+### Summer Sports: Paradise Island
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** Digital Embryo &nbsp;|&nbsp; **Publisher:** Destineer, Ubisoft &nbsp;|&nbsp; **Genre:** Sports &nbsp;|&nbsp; **Released:** April 15, 2008
+
+[Wikipedia](https://en.wikipedia.org/wiki/Summer_Sports:_Paradise_Island)
+
+---
+
 ### Super Smash Bros. Brawl
 
 **Platforms:** Wii &nbsp;|&nbsp; **Publisher:** Nintendo &nbsp;|&nbsp; **Released:** January 31, 2008 (JP/NA)
 
 [Wikipedia](https://en.wikipedia.org/wiki/Super_Smash_Bros._Brawl)
+
+---
+
+### Tak and the Guardians of Gross
+
+**Platforms:** PlayStation 2, Wii &nbsp;|&nbsp; **Developer:** Blitz Games &nbsp;|&nbsp; **Publisher:** THQ &nbsp;|&nbsp; **Genre:** Action-adventure, platformer &nbsp;|&nbsp; **Released:** October 13, 2008
+
+[Wikipedia](https://en.wikipedia.org/wiki/Tak_and_the_Guardians_of_Gross)
 
 ---
 
@@ -4533,6 +6745,30 @@
 ### Target: Terror
 
 **Platforms:** Wii &nbsp;|&nbsp; **Released:** March 18
+
+---
+
+### Tatsunoko vs. Capcom
+
+**Platforms:** Arcade, Wii &nbsp;|&nbsp; **Developer:** Eighting &nbsp;|&nbsp; **Publisher:** Capcom &nbsp;|&nbsp; **Genre:** Fighting &nbsp;|&nbsp; **Released:** December 11, 2008
+
+[Wikipedia](https://en.wikipedia.org/wiki/Tatsunoko_vs._Capcom)
+
+---
+
+### Tenshi no Solitaire
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** G-Mode &nbsp;|&nbsp; **Publisher:** G-Mode &nbsp;|&nbsp; **Genre:** Traditional &nbsp;|&nbsp; **Released:** March 25, 2008
+
+[Wikipedia](https://en.wikipedia.org/wiki/Tenshi_no_Solitaire)
+
+---
+
+### Tetris Party
+
+**Platforms:** Nintendo DS, Wii &nbsp;|&nbsp; **Developer:** Blue Planet Software &nbsp;|&nbsp; **Publisher:** Hudson Soft, Tetris Online, Inc. &nbsp;|&nbsp; **Genre:** Puzzle &nbsp;|&nbsp; **Released:** October 14, 2008
+
+[Wikipedia](https://en.wikipedia.org/wiki/Tetris_Party)
 
 ---
 
@@ -4550,6 +6786,14 @@
 
 ---
 
+### The Hardy Boys: The Hidden Theft
+
+**Platforms:** Windows, Wii &nbsp;|&nbsp; **Developer:** XPEC Entertainment &nbsp;|&nbsp; **Publisher:** The Adventure Company &nbsp;|&nbsp; **Genre:** Adventure &nbsp;|&nbsp; **Released:** September 30, 2008
+
+[Wikipedia](https://en.wikipedia.org/wiki/The_Hardy_Boys:_The_Hidden_Theft)
+
+---
+
 ### The House of the Dead 2 & 3 Return
 
 **Platforms:** Wii &nbsp;|&nbsp; **Released:** March 11
@@ -4563,6 +6807,14 @@
 **Platforms:** Nintendo DS, PlayStation 2, PlayStation 3, Wii, Xbox 360, Windows &nbsp;|&nbsp; **Released:** June 5
 
 [Wikipedia](https://en.wikipedia.org/wiki/The_Incredible_Hulk_(2008_video_game))
+
+---
+
+### The Incredible Maze
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** Digital Leisure &nbsp;|&nbsp; **Publisher:** Digital Leisure, Gameloft &nbsp;|&nbsp; **Genre:** Puzzle &nbsp;|&nbsp; **Released:** October 20, 2008
+
+[Wikipedia](https://en.wikipedia.org/wiki/The_Incredible_Maze)
 
 ---
 
@@ -4586,6 +6838,30 @@
 
 ---
 
+### The Sky Crawlers: Innocent Aces
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** Project Aces, Access Games &nbsp;|&nbsp; **Publisher:** Namco Bandai Games, Xseed Games &nbsp;|&nbsp; **Genre:** Air combat simulation &nbsp;|&nbsp; **Released:** October 16, 2008
+
+[Wikipedia](https://en.wikipedia.org/wiki/The_Sky_Crawlers:_Innocent_Aces)
+
+---
+
+### The Spiderwick Chronicles
+
+**Platforms:** Windows, Nintendo DS, PlayStation 2, Wii, Xbox 360 &nbsp;|&nbsp; **Developer:** Stormfront Studios &nbsp;|&nbsp; **Publisher:** Vivendi Games &nbsp;|&nbsp; **Genre:** Action-adventure &nbsp;|&nbsp; **Released:** February 5, 2008
+
+[Wikipedia](https://en.wikipedia.org/wiki/The_Spiderwick_Chronicles_(video_game))
+
+---
+
+### The Tale of Despereaux
+
+**Platforms:** Nintendo DS, Wii, PlayStation 2, Windows &nbsp;|&nbsp; **Developer:** Sensory Sweep Studios, The Fizz Factor &nbsp;|&nbsp; **Publisher:** Atari, Universal Pictures Digital Platforms Group, Warner Bros. Interactive Entertainment &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** December 2, 2008
+
+[Wikipedia](https://en.wikipedia.org/wiki/The_Tale_of_Despereaux_(video_game))
+
+---
+
 ### Tiger Woods PGA Tour 09
 
 **Platforms:** PlayStation 2, PlayStation 3, PlayStation Portable, Wii, Xbox 360 &nbsp;|&nbsp; **Released:** August 26
@@ -4594,11 +6870,27 @@
 
 ---
 
+### Tiki Towers
+
+**Platforms:** Wii, iOS &nbsp;|&nbsp; **Developer:** Mock Science &nbsp;|&nbsp; **Publisher:** RealNetworks GameHouse &nbsp;|&nbsp; **Genre:** Puzzle &nbsp;|&nbsp; **Released:** December 3, 2008
+
+[Wikipedia](https://en.wikipedia.org/wiki/Tiki_Towers)
+
+---
+
 ### TNA iMPACT!
 
 **Platforms:** PlayStation 2, PlayStation 3, Wii, Xbox 360 &nbsp;|&nbsp; **Released:** September 9
 
 [Wikipedia](https://en.wikipedia.org/wiki/TNA_Impact!_(video_game))
+
+---
+
+### Tokyo City Nights
+
+**Platforms:** Mobile phone, Wii &nbsp;|&nbsp; **Developer:** Gameloft Japan &nbsp;|&nbsp; **Publisher:** Gameloft &nbsp;|&nbsp; **Genre:** Life simulation &nbsp;|&nbsp; **Released:** November 2008
+
+[Wikipedia](https://en.wikipedia.org/wiki/Tokyo_City_Nights)
 
 ---
 
@@ -4624,11 +6916,51 @@
 
 ---
 
+### Top Trumps: Doctor Who
+
+**Platforms:** Mobile phone, Nintendo DS, PlayStation 2, Windows, Wii &nbsp;|&nbsp; **Developer:** Team 3 Games, Rockpool Games &nbsp;|&nbsp; **Publisher:** Eidos Interactive &nbsp;|&nbsp; **Genre:** Card game &nbsp;|&nbsp; **Released:** May 16, 2008
+
+[Wikipedia](https://en.wikipedia.org/wiki/Top_Trumps:_Doctor_Who)
+
+---
+
+### TV Show King
+
+**Platforms:** Wii, iOS, PlayStation 3, PlayStation Network &nbsp;|&nbsp; **Developer:** Gameloft Montreal &nbsp;|&nbsp; **Publisher:** Gameloft &nbsp;|&nbsp; **Genre:** Quiz &nbsp;|&nbsp; **Released:** May 12, 2008
+
+[Wikipedia](https://en.wikipedia.org/wiki/TV_Show_King)
+
+---
+
+### TV Show King Party
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** Gameloft Montreal &nbsp;|&nbsp; **Publisher:** Gameloft &nbsp;|&nbsp; **Genre:** Quiz &nbsp;|&nbsp; **Released:** October 28, 2008
+
+[Wikipedia](https://en.wikipedia.org/wiki/TV_Show_King_Party)
+
+---
+
 ### Ultimate Band
 
 **Platforms:** Nintendo DS, Wii &nbsp;|&nbsp; **Released:** November 18
 
 [Wikipedia](https://en.wikipedia.org/wiki/Ultimate_Band)
+
+---
+
+### Ultimate I Spy
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** Gusto Games &nbsp;|&nbsp; **Publisher:** Scholastic &nbsp;|&nbsp; **Genre:** Puzzle &nbsp;|&nbsp; **Released:** October 29, 2008
+
+[Wikipedia](https://en.wikipedia.org/wiki/Ultimate_I_Spy)
+
+---
+
+### V.I.P. Casino: Blackjack
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** High Voltage Software &nbsp;|&nbsp; **Publisher:** High Voltage Software &nbsp;|&nbsp; **Released:** May 12, 2008
+
+[Wikipedia](https://en.wikipedia.org/wiki/V.I.P._Casino:_Blackjack)
 
 ---
 
@@ -4646,9 +6978,25 @@
 
 ---
 
+### Wario Land: Shake It!
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** Good-Feel &nbsp;|&nbsp; **Publisher:** Nintendo &nbsp;|&nbsp; **Genre:** Platform &nbsp;|&nbsp; **Released:** July 24, 2008
+
+[Wikipedia](https://en.wikipedia.org/wiki/Wario_Land:_Shake_It!)
+
+---
+
 ### Wario Land: The Shake Dimension
 
 **Platforms:** Wii &nbsp;|&nbsp; **Released:** July 24
+
+---
+
+### We Cheer
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** Machatin &nbsp;|&nbsp; **Publisher:** Namco Bandai Games, 505 Games &nbsp;|&nbsp; **Genre:** Dance game &nbsp;|&nbsp; **Released:** September 30, 2008
+
+[Wikipedia](https://en.wikipedia.org/wiki/We_Cheer)
 
 ---
 
@@ -4665,6 +7013,22 @@
 **Platforms:** Wii &nbsp;|&nbsp; **Released:** January 31
 
 [Wikipedia](https://en.wikipedia.org/wiki/We_Ski)
+
+---
+
+### We Ski & Snowboard
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** Namco Bandai Games &nbsp;|&nbsp; **Publisher:** Namco Bandai Games &nbsp;|&nbsp; **Genre:** Sports &nbsp;|&nbsp; **Released:** November 13, 2008
+
+[Wikipedia](https://en.wikipedia.org/wiki/We_Ski_&_Snowboard)
+
+---
+
+### Wii Chess
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** Nintendo SPD, Lancarse &nbsp;|&nbsp; **Publisher:** Nintendo &nbsp;|&nbsp; **Genre:** Computer chess &nbsp;|&nbsp; **Released:** January 18, 2008
+
+[Wikipedia](https://en.wikipedia.org/wiki/Wii_Chess)
 
 ---
 
@@ -4692,9 +7056,25 @@
 
 ---
 
+### Winning Post 7 Maximum 2008
+
+**Platforms:** PlayStation 3, PlayStation 2, Wii, Windows &nbsp;|&nbsp; **Developer:** Koei &nbsp;|&nbsp; **Publisher:** Koei &nbsp;|&nbsp; **Genre:** Horse racing &nbsp;|&nbsp; **Released:** March 13, 2008
+
+[Wikipedia](https://en.wikipedia.org/wiki/Winning_Post_7_Maximum_2008)
+
+---
+
 ### Winter Sports 2: The Next Challenge
 
 **Platforms:** Nintendo DS, PlayStation 2, Wii, Xbox 360 &nbsp;|&nbsp; **Released:** November 25
+
+---
+
+### Wonder World Amusement Park
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** Majesco Studios Santa Monica, Coyote Console, Kabloom Games &nbsp;|&nbsp; **Publisher:** Majesco &nbsp;|&nbsp; **Genre:** Party &nbsp;|&nbsp; **Released:** July 8, 2008
+
+[Wikipedia](https://en.wikipedia.org/wiki/Wonder_World_Amusement_Park)
 
 ---
 
@@ -4718,11 +7098,35 @@
 
 ---
 
+### WSC Real 08: World Snooker Championship
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** Blade Interactive &nbsp;|&nbsp; **Publisher:** Blade Interactive, Koch Media &nbsp;|&nbsp; **Genre:** Sports &nbsp;|&nbsp; **Released:** November 14, 2008
+
+[Wikipedia](https://en.wikipedia.org/wiki/WSC_Real_08:_World_Snooker_Championship)
+
+---
+
 ### WWE SmackDown vs. Raw 2009
 
 **Platforms:** Mobile phone, Nintendo DS, PlayStation 2, PlayStation 3, PlayStation Portable, Wii, Xbox 360 &nbsp;|&nbsp; **Released:** November 11
 
 [Wikipedia](https://en.wikipedia.org/wiki/WWE_SmackDown_vs._Raw_2009)
+
+---
+
+### WWII Aces
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** Arcade Moon &nbsp;|&nbsp; **Publisher:** Destineer &nbsp;|&nbsp; **Genre:** Flight simulation &nbsp;|&nbsp; **Released:** March 21, 2008
+
+[Wikipedia](https://en.wikipedia.org/wiki/WWII_Aces)
+
+---
+
+### Yummy Yummy Cooking Jam
+
+**Platforms:** Wii &nbsp;|&nbsp; **Publisher:** Virtual Toys &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** November 10, 2008
+
+[Wikipedia](https://en.wikipedia.org/wiki/Yummy_Yummy_Cooking_Jam)
 
 ---
 
@@ -4754,6 +7158,14 @@
 
 ---
 
+### AMF Bowling Pinbusters!
+
+**Platforms:** Wii, N-Gage &nbsp;|&nbsp; **Developer:** Atomic Planet Entertainment &nbsp;|&nbsp; **Publisher:** Mud Duck Productions, Vir2L Studios &nbsp;|&nbsp; **Genre:** Sports &nbsp;|&nbsp; **Released:** November 20, 2007
+
+[Wikipedia](https://en.wikipedia.org/wiki/AMF_Bowling_Pinbusters!)
+
+---
+
 ### Anubis II
 
 **Platforms:** Wii &nbsp;|&nbsp; **Released:** September 25
@@ -4762,9 +7174,33 @@
 
 ---
 
+### Arctic Tale
+
+**Platforms:** Wii, Nintendo DS, Game Boy Advance &nbsp;|&nbsp; **Developer:** Atomic Planet Entertainment &nbsp;|&nbsp; **Publisher:** DSI Games, Zoo Digital Publishing &nbsp;|&nbsp; **Genre:** Adventure &nbsp;|&nbsp; **Released:** October 10, 2007
+
+[Wikipedia](https://en.wikipedia.org/wiki/Arctic_Tale_(video_game))
+
+---
+
+### Asterix at the Olympic Games
+
+**Platforms:** Windows, Wii, PlayStation 2, Nintendo DS &nbsp;|&nbsp; **Developer:** Étranges Libellules &nbsp;|&nbsp; **Publisher:** Atari &nbsp;|&nbsp; **Genre:** Sports, platform, adventure, action &nbsp;|&nbsp; **Released:** November 9, 2007
+
+[Wikipedia](https://en.wikipedia.org/wiki/Asterix_at_the_Olympic_Games_(video_game))
+
+---
+
 ### Avatar: The Last Airbender – The Burning Earth
 
 **Platforms:** PlayStation 2, Wii, Game Boy Advance, Nintendo DS, Xbox 360 &nbsp;|&nbsp; **Released:** October 17
+
+---
+
+### Balloon Pop
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** Dreams Co., Ltd. &nbsp;|&nbsp; **Publisher:** UFO Interactive Games, 505 Games, Interchannel &nbsp;|&nbsp; **Genre:** Puzzle &nbsp;|&nbsp; **Released:** October 23, 2007
+
+[Wikipedia](https://en.wikipedia.org/wiki/Balloon_Pop)
 
 ---
 
@@ -4830,6 +7266,14 @@
 
 ---
 
+### Bomberman Land (Wii)
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** Racjin &nbsp;|&nbsp; **Publisher:** Hudson Soft, Rising Star Games &nbsp;|&nbsp; **Genre:** Action, puzzle &nbsp;|&nbsp; **Released:** March 8, 2007
+
+[Wikipedia](https://en.wikipedia.org/wiki/Bomberman_Land_(Wii))
+
+---
+
 ### Brunswick Pro Bowling
 
 **Platforms:** PlayStation 2, PlayStation Portable, Wii &nbsp;|&nbsp; **Released:** August 28
@@ -4843,6 +7287,14 @@
 **Platforms:** Wii &nbsp;|&nbsp; **Released:** April 17
 
 [Wikipedia](https://en.wikipedia.org/wiki/Bust-A-Move_Bash!)
+
+---
+
+### Cabela's Trophy Bucks
+
+**Platforms:** Windows, PlayStation 2, Wii, Xbox 360 &nbsp;|&nbsp; **Developer:** Fun Labs, Magic Wand Productions, Sand Grain Studios &nbsp;|&nbsp; **Publisher:** Activision Value &nbsp;|&nbsp; **Genre:** Sports, first-person shooter &nbsp;|&nbsp; **Released:** September 25, 2007
+
+[Wikipedia](https://en.wikipedia.org/wiki/Cabela's_Trophy_Bucks)
 
 ---
 
@@ -4862,6 +7314,22 @@
 
 ---
 
+### Case Closed: The Mirapolis Investigation
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** Imageepoch &nbsp;|&nbsp; **Publisher:** Marvelous Interactive, Nobilis &nbsp;|&nbsp; **Genre:** Adventure &nbsp;|&nbsp; **Released:** May 17, 2007
+
+[Wikipedia](https://en.wikipedia.org/wiki/Case_Closed:_The_Mirapolis_Investigation)
+
+---
+
+### Cheggers Party Quiz
+
+**Platforms:** PlayStation 2, Windows, Wii &nbsp;|&nbsp; **Developer:** Oxygen Games &nbsp;|&nbsp; **Publisher:** Oxygen Games &nbsp;|&nbsp; **Genre:** Party &nbsp;|&nbsp; **Released:** October 26, 2007
+
+[Wikipedia](https://en.wikipedia.org/wiki/Cheggers_Party_Quiz)
+
+---
+
 ### Code Lyoko: Quest for Infinity
 
 **Platforms:** Wii &nbsp;|&nbsp; **Released:** November 16
@@ -4871,6 +7339,14 @@
 ### Cooking Mama: Cook Off
 
 **Platforms:** Wii &nbsp;|&nbsp; **Released:** March 20
+
+---
+
+### Cosmic Family
+
+**Platforms:** Wii, iOS &nbsp;|&nbsp; **Developer:** Ubisoft Barcelona &nbsp;|&nbsp; **Publisher:** Ubisoft &nbsp;|&nbsp; **Genre:** Edutainment &nbsp;|&nbsp; **Released:** August 31, 2007
+
+[Wikipedia](https://en.wikipedia.org/wiki/Cosmic_Family)
 
 ---
 
@@ -4896,6 +7372,14 @@
 
 ---
 
+### Dancing with the Stars
+
+**Platforms:** PlayStation 2, Wii, Windows, Mobile phone &nbsp;|&nbsp; **Developer:** Zoë Mode, Aurona, n-Space, Donut Publishing Ltd &nbsp;|&nbsp; **Publisher:** Activision, THQ and Valusoft &nbsp;|&nbsp; **Genre:** Music video game &nbsp;|&nbsp; **Released:** October 23, 2007
+
+[Wikipedia](https://en.wikipedia.org/wiki/Dancing_with_the_Stars_(video_game))
+
+---
+
 ### Dave Mirra BMX Challenge
 
 **Platforms:** Wii &nbsp;|&nbsp; **Released:** September 25
@@ -4909,6 +7393,14 @@
 **Platforms:** Wii &nbsp;|&nbsp; **Released:** September 18
 
 [Wikipedia](https://en.wikipedia.org/wiki/Dewy%27s_Adventure)
+
+---
+
+### Disney Princess: Enchanted Journey
+
+**Platforms:** PlayStation 2, Wii, Windows &nbsp;|&nbsp; **Developer:** Papaya Studio &nbsp;|&nbsp; **Publisher:** Disney Interactive Studios &nbsp;|&nbsp; **Genre:** Action-adventure &nbsp;|&nbsp; **Released:** October 16, 2007
+
+[Wikipedia](https://en.wikipedia.org/wiki/Disney_Princess:_Enchanted_Journey)
 
 ---
 
@@ -4936,11 +7428,27 @@
 
 ---
 
+### Doraemon Wii
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** Eighting &nbsp;|&nbsp; **Publisher:** Sega &nbsp;|&nbsp; **Genre:** Party &nbsp;|&nbsp; **Released:** December 6, 2007
+
+[Wikipedia](https://en.wikipedia.org/wiki/Doraemon_Wii)
+
+---
+
 ### Dragon Ball Z Budokai Tenkaichi 3
 
 **Platforms:** PlayStation 2, Wii &nbsp;|&nbsp; **Released:** November 13
 
 [Wikipedia](https://en.wikipedia.org/wiki/Dragon_Ball_Z_Budokai_Tenkaichi_3)
+
+---
+
+### Dragon Ball Z: Budokai Tenkaichi
+
+**Platforms:** PlayStation 2, Wii, PlayStation Portable, Windows &nbsp;|&nbsp; **Developer:** Spike, Spike Chunsoft &nbsp;|&nbsp; **Publisher:** Bandai Namco Entertainment, Atari &nbsp;|&nbsp; **Genre:** Fighting game
+
+[Wikipedia](https://en.wikipedia.org/wiki/Dragon_Ball_Z:_Budokai_Tenkaichi)
 
 ---
 
@@ -4950,9 +7458,41 @@
 
 ---
 
+### Dragon Quest Swords
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** Genius Sonority, Eighting &nbsp;|&nbsp; **Publisher:** Square Enix &nbsp;|&nbsp; **Genre:** Role-playing first person &nbsp;|&nbsp; **Released:** July 12, 2007
+
+[Wikipedia](https://en.wikipedia.org/wiki/Dragon_Quest_Swords)
+
+---
+
+### Dragon Quest: Monster Battle Road
+
+**Platforms:** Arcade, Wii &nbsp;|&nbsp; **Developer:** Rocket Studio, Eighting &nbsp;|&nbsp; **Publisher:** Square Enix &nbsp;|&nbsp; **Genre:** Card battle game &nbsp;|&nbsp; **Released:** June 2007
+
+[Wikipedia](https://en.wikipedia.org/wiki/Dragon_Quest:_Monster_Battle_Road)
+
+---
+
 ### Drake & Josh: Talent Showdown
 
 **Platforms:** Nintendo DS, PlayStation 2, PlayStation 3, Wii, Xbox 360 &nbsp;|&nbsp; **Released:** July 30
+
+---
+
+### EA Playground
+
+**Platforms:** Nintendo DS, Wii &nbsp;|&nbsp; **Developer:** EA Canada &nbsp;|&nbsp; **Publisher:** Electronic Arts &nbsp;|&nbsp; **Genre:** Sports game &nbsp;|&nbsp; **Released:** October 23, 2007
+
+[Wikipedia](https://en.wikipedia.org/wiki/EA_Playground)
+
+---
+
+### Endless Ocean
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** Arika &nbsp;|&nbsp; **Publisher:** Nintendo &nbsp;|&nbsp; **Genre:** Adventure &nbsp;|&nbsp; **Released:** August 2, 2007
+
+[Wikipedia](https://en.wikipedia.org/wiki/Endless_Ocean)
 
 ---
 
@@ -4961,6 +7501,14 @@
 **Platforms:** Wii &nbsp;|&nbsp; **Released:** July 25
 
 [Wikipedia](https://en.wikipedia.org/wiki/Escape_from_Bug_Island)
+
+---
+
+### Fantastic Four: Rise of the Silver Surfer
+
+**Platforms:** Mobile phone, PlayStation 2, PlayStation 3, Wii, Xbox 360, Nintendo DS &nbsp;|&nbsp; **Developer:** 7 Studios, Visual Concepts, Hands-On Mobile &nbsp;|&nbsp; **Publisher:** 2K &nbsp;|&nbsp; **Genre:** Third-person action-adventure game &nbsp;|&nbsp; **Released:** June 12, 2007
+
+[Wikipedia](https://en.wikipedia.org/wiki/Fantastic_Four:_Rise_of_the_Silver_Surfer_(video_game))
 
 ---
 
@@ -4978,11 +7526,35 @@
 
 ---
 
+### Fishing Master
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** Hudson Soft &nbsp;|&nbsp; **Publisher:** Hudson Soft &nbsp;|&nbsp; **Genre:** Fishing &nbsp;|&nbsp; **Released:** March 29, 2007
+
+[Wikipedia](https://en.wikipedia.org/wiki/Fishing_Master)
+
+---
+
 ### Foster's Home for Imaginary Friends: Imagination Invaders
 
 **Platforms:** Nintendo DS, PlayStation 2, Wii &nbsp;|&nbsp; **Released:** November 12
 
 [Wikipedia](https://en.wikipedia.org/wiki/Foster%27s_Home_for_Imaginary_Friends)
+
+---
+
+### Furu Furu Park
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** Taito &nbsp;|&nbsp; **Publisher:** Taito, Majesco &nbsp;|&nbsp; **Genre:** Mini-games &nbsp;|&nbsp; **Released:** April 19, 2007
+
+[Wikipedia](https://en.wikipedia.org/wiki/Furu_Furu_Park)
+
+---
+
+### Game Party
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** FarSight Studios &nbsp;|&nbsp; **Publisher:** Midway Games &nbsp;|&nbsp; **Genre:** Party &nbsp;|&nbsp; **Released:** November 27, 2007
+
+[Wikipedia](https://en.wikipedia.org/wiki/Game_Party)
 
 ---
 
@@ -5036,11 +7608,35 @@
 
 ---
 
+### Harvest Moon: Tree of Tranquility
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** Marvelous Interactive &nbsp;|&nbsp; **Publisher:** Marvelous Interactive, Natsume Inc., Rising Star Games &nbsp;|&nbsp; **Genre:** Construction and management simulation, role-playing &nbsp;|&nbsp; **Released:** June 7, 2007
+
+[Wikipedia](https://en.wikipedia.org/wiki/Harvest_Moon:_Tree_of_Tranquility)
+
+---
+
 ### Heatseeker
 
 **Platforms:** PlayStation 2, Wii, PlayStation Portable &nbsp;|&nbsp; **Released:** May 1
 
 [Wikipedia](https://en.wikipedia.org/wiki/Heatseeker_(video_game))
+
+---
+
+### Heavenly Guardian
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** Starfish SD &nbsp;|&nbsp; **Publisher:** Starfish SD, UFO Interactive Games, 505 Games, Joyfulstar &nbsp;|&nbsp; **Genre:** Scrolling shooter &nbsp;|&nbsp; **Released:** December 20, 2007
+
+[Wikipedia](https://en.wikipedia.org/wiki/Heavenly_Guardian)
+
+---
+
+### High School Musical: Sing It!
+
+**Platforms:** PlayStation 2, Wii &nbsp;|&nbsp; **Developer:** Artificial Mind and Movement &nbsp;|&nbsp; **Publisher:** Disney Interactive Studios &nbsp;|&nbsp; **Genre:** Music video game &nbsp;|&nbsp; **Released:** October 26, 2007
+
+[Wikipedia](https://en.wikipedia.org/wiki/High_School_Musical:_Sing_It!)
 
 ---
 
@@ -5071,6 +7667,14 @@
 **Platforms:** Nintendo DS, Wii &nbsp;|&nbsp; **Released:** November 13
 
 [Wikipedia](https://en.wikipedia.org/wiki/Jenga_World_Tour)
+
+---
+
+### Kawasaki Quad Bikes
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** Data Design Interactive &nbsp;|&nbsp; **Publisher:** Data Design Interactive, Bold Games &nbsp;|&nbsp; **Genre:** Racing &nbsp;|&nbsp; **Released:** October 26, 2007
+
+[Wikipedia](https://en.wikipedia.org/wiki/Kawasaki_Quad_Bikes)
 
 ---
 
@@ -5176,9 +7780,57 @@
 
 ---
 
+### Minon: Everyday Hero
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** Red Entertainment &nbsp;|&nbsp; **Publisher:** Success, Nordcurrent, UFO Interactive Games &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** June 21, 2007
+
+[Wikipedia](https://en.wikipedia.org/wiki/Minon:_Everyday_Hero)
+
+---
+
+### MLB Power Pros
+
+**Platforms:** PlayStation 2, Wii &nbsp;|&nbsp; **Developer:** Baseball Contents Production &nbsp;|&nbsp; **Publisher:** 2K, Konami &nbsp;|&nbsp; **Genre:** Sports &nbsp;|&nbsp; **Released:** October 1, 2007
+
+[Wikipedia](https://en.wikipedia.org/wiki/MLB_Power_Pros)
+
+---
+
+### Mobile Suit Gundam: MS Sensen 0079
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** BEC &nbsp;|&nbsp; **Publisher:** Namco Bandai Games &nbsp;|&nbsp; **Genre:** First-person shooter, Mecha simulation &nbsp;|&nbsp; **Released:** July 26, 2007
+
+[Wikipedia](https://en.wikipedia.org/wiki/Mobile_Suit_Gundam:_MS_Sensen_0079)
+
+---
+
 ### Mortal Kombat: Armageddon
 
 **Platforms:** Wii &nbsp;|&nbsp; **Released:** May 29
+
+---
+
+### My French Coach and My Spanish Coach
+
+**Platforms:** Nintendo DS, Wii &nbsp;|&nbsp; **Developer:** Sensory Sweep Studios &nbsp;|&nbsp; **Publisher:** Ubisoft &nbsp;|&nbsp; **Genre:** Educational, puzzle &nbsp;|&nbsp; **Released:** November 6, 2007
+
+[Wikipedia](https://en.wikipedia.org/wiki/My_French_Coach_and_My_Spanish_Coach)
+
+---
+
+### My Horse & Me
+
+**Platforms:** Wii, Nintendo DS, Windows &nbsp;|&nbsp; **Developer:** Woedend! Games &nbsp;|&nbsp; **Publisher:** Atari Europe &nbsp;|&nbsp; **Genre:** Simulation &nbsp;|&nbsp; **Released:** November 23, 2007
+
+[Wikipedia](https://en.wikipedia.org/wiki/My_Horse_&_Me)
+
+---
+
+### My Word Coach
+
+**Platforms:** Nintendo DS, Wii &nbsp;|&nbsp; **Developer:** Ubisoft Montreal / Ubisoft Quebec &nbsp;|&nbsp; **Publisher:** Ubisoft &nbsp;|&nbsp; **Genre:** Self improvement, Education &nbsp;|&nbsp; **Released:** November 6, 2007
+
+[Wikipedia](https://en.wikipedia.org/wiki/My_Word_Coach)
 
 ---
 
@@ -5187,6 +7839,14 @@
 **Platforms:** Nintendo DS, Wii &nbsp;|&nbsp; **Released:** September 18
 
 [Wikipedia](https://en.wikipedia.org/wiki/MySims)
+
+---
+
+### Namco Museum Remix
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** Namco Bandai Games &nbsp;|&nbsp; **Publisher:** Namco Bandai Games, Atari Europe &nbsp;|&nbsp; **Genre:** Various &nbsp;|&nbsp; **Released:** October 23, 2007
+
+[Wikipedia](https://en.wikipedia.org/wiki/Namco_Museum_Remix)
 
 ---
 
@@ -5246,11 +7906,35 @@
 
 ---
 
+### Octomania
+
+**Platforms:** Wii, Arcade &nbsp;|&nbsp; **Developer:** Compile Heart, Idea Factory, Hyper-Devbox Japan &nbsp;|&nbsp; **Publisher:** Idea Factory, Conspiracy Entertainment &nbsp;|&nbsp; **Genre:** Puzzle &nbsp;|&nbsp; **Released:** August 23, 2007
+
+[Wikipedia](https://en.wikipedia.org/wiki/Octomania)
+
+---
+
+### One Piece: Unlimited Adventure
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** Ganbarion &nbsp;|&nbsp; **Publisher:** Namco Bandai Games &nbsp;|&nbsp; **Genre:** Action-adventure &nbsp;|&nbsp; **Released:** April 26, 2007
+
+[Wikipedia](https://en.wikipedia.org/wiki/One_Piece:_Unlimited_Adventure)
+
+---
+
 ### Pac 'n Roll
 
 **Platforms:** Wii &nbsp;|&nbsp; **Released:** October 23
 
 [Wikipedia](https://en.wikipedia.org/wiki/Pac_%27n_Roll)
+
+---
+
+### Petz: Dogz 2 and Catz 2
+
+**Platforms:** PlayStation 2, Wii &nbsp;|&nbsp; **Developer:** Yuke's &nbsp;|&nbsp; **Publisher:** Ubisoft &nbsp;|&nbsp; **Genre:** Adventure, Role playing
+
+[Wikipedia](https://en.wikipedia.org/wiki/Petz:_Dogz_2_and_Catz_2_(adventure_games))
 
 ---
 
@@ -5265,6 +7949,14 @@
 **Platforms:** Wii &nbsp;|&nbsp; **Released:** June 25
 
 [Wikipedia](https://en.wikipedia.org/wiki/Pok%C3%A9mon_Battle_Revolution)
+
+---
+
+### Pool Party
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** HyperDevbox Japan &nbsp;|&nbsp; **Publisher:** SouthPeak Games &nbsp;|&nbsp; **Genre:** sports simulation – pool & snooker &nbsp;|&nbsp; **Released:** September 5, 2007
+
+[Wikipedia](https://en.wikipedia.org/wiki/Pool_Party_(video_game))
 
 ---
 
@@ -5338,6 +8030,14 @@
 
 ---
 
+### Shrek the Third
+
+**Platforms:** Windows, Wii, Xbox 360, PlayStation 2, PlayStation Portable, Game Boy Advance, Nintendo DS &nbsp;|&nbsp; **Developer:** Amaze Entertainment, Vicarious Visions &nbsp;|&nbsp; **Publisher:** Activision &nbsp;|&nbsp; **Genre:** Action-adventure, platform &nbsp;|&nbsp; **Released:** May 15, 2007
+
+[Wikipedia](https://en.wikipedia.org/wiki/Shrek_the_Third_(video_game))
+
+---
+
 ### Smarty Pants
 
 **Platforms:** Wii &nbsp;|&nbsp; **Released:** November 13
@@ -5381,6 +8081,14 @@
 **Platforms:** PlayStation 2, Game Boy Advance, Nintendo DS, Wii &nbsp;|&nbsp; **Released:** October 23
 
 [Wikipedia](https://en.wikipedia.org/wiki/SpongeBob%27s_Atlantis_SquarePantis_(video_game))
+
+---
+
+### Spy Games: Elevator Mission
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** Dreams Co., Ltd. &nbsp;|&nbsp; **Publisher:** UFO Interactive Games &nbsp;|&nbsp; **Genre:** Shoot 'em up &nbsp;|&nbsp; **Released:** November 16, 2007
+
+[Wikipedia](https://en.wikipedia.org/wiki/Spy_Games:_Elevator_Mission)
 
 ---
 
@@ -5434,6 +8142,30 @@
 
 ---
 
+### Tennis Master
+
+**Platforms:** Wii, Nintendo DS &nbsp;|&nbsp; **Developer:** System 3 &nbsp;|&nbsp; **Publisher:** System 3 &nbsp;|&nbsp; **Genre:** Sports
+
+[Wikipedia](https://en.wikipedia.org/wiki/Tennis_Master)
+
+---
+
+### The Bigs
+
+**Platforms:** Xbox 360, PlayStation 3, PlayStation 2, Wii, PlayStation Portable &nbsp;|&nbsp; **Developer:** Blue Castle Games &nbsp;|&nbsp; **Publisher:** 2K &nbsp;|&nbsp; **Genre:** Sports, baseball &nbsp;|&nbsp; **Released:** June 25, 2007
+
+[Wikipedia](https://en.wikipedia.org/wiki/The_Bigs)
+
+---
+
+### The Dog Island
+
+**Platforms:** Wii, PlayStation 2 &nbsp;|&nbsp; **Developer:** Yuke's &nbsp;|&nbsp; **Publisher:** Yuke's, Ubisoft &nbsp;|&nbsp; **Genre:** Adventure &nbsp;|&nbsp; **Released:** April 26, 2007
+
+[Wikipedia](https://en.wikipedia.org/wiki/The_Dog_Island)
+
+---
+
 ### The Godfather
 
 **Platforms:** PlayStation 3, Wii &nbsp;|&nbsp; **Released:** March 20
@@ -5481,6 +8213,14 @@
 > _Synopsis source: Steam_
 
 [Steam](https://store.steampowered.com/app/6080)
+
+---
+
+### Tiger Woods PGA Tour 08
+
+**Platforms:** Windows, Nintendo DS, PlayStation 2, Wii, Xbox 360, PlayStation 3, PlayStation Portable, macOS &nbsp;|&nbsp; **Developer:** EA Tiburon, Exient Entertainment &nbsp;|&nbsp; **Publisher:** EA Sports &nbsp;|&nbsp; **Genre:** Sports &nbsp;|&nbsp; **Released:** August 28, 2007
+
+[Wikipedia](https://en.wikipedia.org/wiki/Tiger_Woods_PGA_Tour_08)
 
 ---
 
@@ -5678,6 +8418,14 @@
 
 ---
 
+### Crayon Shin-chan: Saikyou Kazoku Kasukabe King Wii
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** Banpresto &nbsp;|&nbsp; **Publisher:** Banpresto, 505 Games &nbsp;|&nbsp; **Genre:** Party &nbsp;|&nbsp; **Released:** December 2, 2006
+
+[Wikipedia](https://en.wikipedia.org/wiki/Crayon_Shin-chan:_Saikyou_Kazoku_Kasukabe_King_Wii)
+
+---
+
 ### Disney's Chicken Little: Ace in Action
 
 **Platforms:** PlayStation 2, Nintendo DS, Windows, Wii &nbsp;|&nbsp; **Released:** November 9
@@ -5724,6 +8472,14 @@
 
 ---
 
+### Ennichi no Tatsujin
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** Namco Bandai Games &nbsp;|&nbsp; **Publisher:** Namco Bandai Games &nbsp;|&nbsp; **Genre:** Mini-games &nbsp;|&nbsp; **Released:** December 2, 2006
+
+[Wikipedia](https://en.wikipedia.org/wiki/Ennichi_no_Tatsujin)
+
+---
+
 ### Excite Truck (USA)
 
 **Platforms:** Wii &nbsp;|&nbsp; **Released:** November 19
@@ -5740,11 +8496,35 @@
 
 ---
 
+### Far Cry Vengeance
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** Ubisoft Montreal &nbsp;|&nbsp; **Publisher:** Ubisoft &nbsp;|&nbsp; **Genre:** First-person shooter &nbsp;|&nbsp; **Released:** December 12, 2006
+
+[Wikipedia](https://en.wikipedia.org/wiki/Far_Cry_Vengeance)
+
+---
+
+### Fizzball
+
+**Platforms:** Windows, macOS, Linux, Wii &nbsp;|&nbsp; **Developer:** Grubby Games, Steel Penny Games &nbsp;|&nbsp; **Publisher:** Grubby Games &nbsp;|&nbsp; **Genre:** Breakout &nbsp;|&nbsp; **Released:** November 2006
+
+[Wikipedia](https://en.wikipedia.org/wiki/Fizzball)
+
+---
+
 ### Golden Axe (Genesis)
 
 **Platforms:** Wii &nbsp;|&nbsp; **Released:** November 28
 
 [Wikipedia](https://en.wikipedia.org/wiki/Golden_Axe_(video_game))
+
+---
+
+### GT Pro Series
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** MTO &nbsp;|&nbsp; **Publisher:** MTO, Ubisoft &nbsp;|&nbsp; **Genre:** Racing &nbsp;|&nbsp; **Released:** November 19, 2006
+
+[Wikipedia](https://en.wikipedia.org/wiki/GT_Pro_Series)
 
 ---
 
@@ -5790,6 +8570,22 @@
 
 ---
 
+### Karous
+
+**Platforms:** Arcade, Wii, Windows &nbsp;|&nbsp; **Developer:** MileStone Inc. &nbsp;|&nbsp; **Publisher:** Sega, MileStone Inc. &nbsp;|&nbsp; **Genre:** Vertical-scrolling shooter &nbsp;|&nbsp; **Released:** November 15, 2006
+
+[Wikipedia](https://en.wikipedia.org/wiki/Karous)
+
+---
+
+### Madden NFL 07
+
+**Platforms:** PlayStation 2, PlayStation 3, PlayStation Portable, Xbox, Xbox 360, Windows, Nintendo DS, Game Boy Advance, Wii, GameCube, Mobile phone &nbsp;|&nbsp; **Developer:** EA Tiburon, EA Canada, HB Studios, Exient Entertainment &nbsp;|&nbsp; **Publisher:** EA Sports &nbsp;|&nbsp; **Genre:** Sports &nbsp;|&nbsp; **Released:** August 22, 2006
+
+[Wikipedia](https://en.wikipedia.org/wiki/Madden_NFL_07)
+
+---
+
 ### Mario Bros. (NES)
 
 **Platforms:** Wii &nbsp;|&nbsp; **Released:** November 19
@@ -5812,6 +8608,14 @@
 
 ---
 
+### Monster 4x4: World Circuit
+
+**Platforms:** Xbox, Wii &nbsp;|&nbsp; **Developer:** Ubisoft Barcelona &nbsp;|&nbsp; **Publisher:** Ubisoft &nbsp;|&nbsp; **Genre:** Racing &nbsp;|&nbsp; **Released:** March 23, 2006
+
+[Wikipedia](https://en.wikipedia.org/wiki/Monster_4x4:_World_Circuit)
+
+---
+
 ### Open Season
 
 **Platforms:** Windows, GameCube, PlayStation 2, Xbox, Xbox 360, Game Boy Advance, Nintendo DS, PlayStation Portable, Wii &nbsp;|&nbsp; **Released:** October 6 (EU/AU)
@@ -5831,6 +8635,22 @@
 **Platforms:** Wii &nbsp;|&nbsp; **Released:** November 19
 
 [Wikipedia](https://en.wikipedia.org/wiki/Pinball_(1984_video_game))
+
+---
+
+### Puppy Luv
+
+**Platforms:** Wii, Windows &nbsp;|&nbsp; **Developer:** Gogii Games, Blue Monkey Studios &nbsp;|&nbsp; **Publisher:** GameMill Publishing, Activision &nbsp;|&nbsp; **Genre:** Virtual Life
+
+[Wikipedia](https://en.wikipedia.org/wiki/Puppy_Luv)
+
+---
+
+### Puzzle Challenge: Crosswords and More
+
+**Platforms:** PlayStation 2, PlayStation Portable, Wii &nbsp;|&nbsp; **Developer:** Supersonic Software &nbsp;|&nbsp; **Publisher:** Crave Entertainment &nbsp;|&nbsp; **Genre:** Puzzle &nbsp;|&nbsp; **Released:** June 9, 2006
+
+[Wikipedia](https://en.wikipedia.org/wiki/Puzzle_Challenge:_Crosswords_and_More)
 
 ---
 
@@ -5883,6 +8703,14 @@
 **Platforms:** Wii &nbsp;|&nbsp; **Released:** December 4
 
 [Wikipedia](https://en.wikipedia.org/wiki/Ristar)
+
+---
+
+### SD Gundam: Scad Hammers
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** Bandai &nbsp;|&nbsp; **Publisher:** Namco Bandai Games &nbsp;|&nbsp; **Genre:** Action-adventure &nbsp;|&nbsp; **Released:** December 2, 2006
+
+[Wikipedia](https://en.wikipedia.org/wiki/SD_Gundam:_Scad_Hammers)
 
 ---
 
@@ -5954,6 +8782,14 @@
 
 ---
 
+### Super Fruit Fall
+
+**Platforms:** Wii, PlayStation 2, PlayStation Portable, Nintendo DS &nbsp;|&nbsp; **Developer:** Nissimo, SLAM Productions, Aqua Pacific &nbsp;|&nbsp; **Publisher:** Codemasters, System 3 &nbsp;|&nbsp; **Genre:** Puzzle &nbsp;|&nbsp; **Released:** December 8, 2006
+
+[Wikipedia](https://en.wikipedia.org/wiki/Super_Fruit_Fall)
+
+---
+
 ### Super Mario 64
 
 **Platforms:** Wii &nbsp;|&nbsp; **Released:** November 19
@@ -5967,6 +8803,14 @@
 **Platforms:** Wii &nbsp;|&nbsp; **Released:** December 25
 
 [Wikipedia](https://en.wikipedia.org/wiki/Super_Mario_Bros.)
+
+---
+
+### Super Monkey Ball: Banana Blitz
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** New Entertainment R&D Dept. &nbsp;|&nbsp; **Publisher:** Sega &nbsp;|&nbsp; **Genre:** Platform, party &nbsp;|&nbsp; **Released:** November 19, 2006
+
+[Wikipedia](https://en.wikipedia.org/wiki/Super_Monkey_Ball:_Banana_Blitz)
 
 ---
 
@@ -5984,11 +8828,35 @@
 
 ---
 
+### Super Swing Golf
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** Ntreev Soft &nbsp;|&nbsp; **Publisher:** Tecmo, Nintendo &nbsp;|&nbsp; **Genre:** Golf &nbsp;|&nbsp; **Released:** December 2, 2006
+
+[Wikipedia](https://en.wikipedia.org/wiki/Super_Swing_Golf)
+
+---
+
+### Tamagotchi: Party On!
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** h.a.n.d. &nbsp;|&nbsp; **Publisher:** Namco Bandai Games &nbsp;|&nbsp; **Genre:** Party &nbsp;|&nbsp; **Released:** December 2, 2006
+
+[Wikipedia](https://en.wikipedia.org/wiki/Tamagotchi:_Party_On!)
+
+---
+
 ### Tennis (NES)
 
 **Platforms:** Wii &nbsp;|&nbsp; **Released:** December 18
 
 [Wikipedia](https://en.wikipedia.org/wiki/Tennis_(1984_video_game))
+
+---
+
+### The Ant Bully
+
+**Platforms:** PlayStation 2, GameCube, Game Boy Advance, Windows, Wii &nbsp;|&nbsp; **Developer:** Artificial Mind and Movement &nbsp;|&nbsp; **Publisher:** Midway &nbsp;|&nbsp; **Genre:** Action-adventure &nbsp;|&nbsp; **Released:** July 24, 2006
+
+[Wikipedia](https://en.wikipedia.org/wiki/The_Ant_Bully_(video_game))
 
 ---
 
@@ -6042,9 +8910,33 @@
 
 ---
 
+### Tony Hawk's Downhill Jam
+
+**Platforms:** Nintendo DS, Game Boy Advance, Wii &nbsp;|&nbsp; **Developer:** Vicarious Visions, Visual Impact, Toys for Bob &nbsp;|&nbsp; **Publisher:** Activision &nbsp;|&nbsp; **Genre:** Sports, racing &nbsp;|&nbsp; **Released:** October 24, 2006
+
+[Wikipedia](https://en.wikipedia.org/wiki/Tony_Hawk's_Downhill_Jam)
+
+---
+
+### Trauma Center: Second Opinion
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** Atlus &nbsp;|&nbsp; **Publisher:** Atlus USA, Atlus, Nintendo &nbsp;|&nbsp; **Genre:** Simulation, visual novel &nbsp;|&nbsp; **Released:** November 19, 2006
+
+[Wikipedia](https://en.wikipedia.org/wiki/Trauma_Center:_Second_Opinion)
+
+---
+
 ### Trauma Center: Second Opinion (USA)
 
 **Platforms:** Wii &nbsp;|&nbsp; **Released:** November 19
+
+---
+
+### Ultimate Board Game Collection
+
+**Platforms:** Wii, PlayStation 2, PlayStation 3 &nbsp;|&nbsp; **Developer:** Mere Mortals &nbsp;|&nbsp; **Publisher:** Valcon Games &nbsp;|&nbsp; **Released:** July 5, 2006
+
+[Wikipedia](https://en.wikipedia.org/wiki/Ultimate_Board_Game_Collection)
 
 ---
 
@@ -6069,5 +8961,41 @@
 **Platforms:** Wii &nbsp;|&nbsp; **Released:** November 19
 
 [Wikipedia](https://en.wikipedia.org/wiki/Wii_Sports)
+
+---
+
+### World Series of Poker: Tournament of Champions
+
+**Platforms:** Xbox 360, PlayStation 2, Wii, PlayStation Portable, Windows &nbsp;|&nbsp; **Developer:** Left Field Productions &nbsp;|&nbsp; **Publisher:** Activision &nbsp;|&nbsp; **Genre:** Card game &nbsp;|&nbsp; **Released:** September 21, 2006
+
+[Wikipedia](https://en.wikipedia.org/wiki/World_Series_of_Poker:_Tournament_of_Champions)
+
+---
+
+## 2005
+
+[Full 2005 page](../years/2005.md)
+
+### Dragon Ball Z: Budokai Tenkaichi
+
+**Platforms:** PlayStation 2, Wii, PlayStation Portable, Windows &nbsp;|&nbsp; **Developer:** Spike, Spike Chunsoft &nbsp;|&nbsp; **Publisher:** Bandai Namco Entertainment, Atari &nbsp;|&nbsp; **Genre:** Fighting game
+
+[Wikipedia](https://en.wikipedia.org/wiki/Dragon_Ball_Z:_Budokai_Tenkaichi)
+
+---
+
+### Luxor
+
+**Platforms:** macOS, Windows, Wii, PlayStation Portable &nbsp;|&nbsp; **Developer:** MumboJumbo, Absolutist &nbsp;|&nbsp; **Publisher:** MumboJumbo &nbsp;|&nbsp; **Genre:** Puzzle &nbsp;|&nbsp; **Released:** May 30, 2005
+
+[Wikipedia](https://en.wikipedia.org/wiki/Luxor_(video_game))
+
+---
+
+### Tumblebugs
+
+**Platforms:** macOS, Windows, Wii &nbsp;|&nbsp; **Developer:** Wildfire Studios &nbsp;|&nbsp; **Publisher:** GameHouse, Big Fish Games &nbsp;|&nbsp; **Genre:** Puzzle &nbsp;|&nbsp; **Released:** May 18, 2005
+
+[Wikipedia](https://en.wikipedia.org/wiki/Tumblebugs)
 
 ---

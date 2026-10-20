@@ -2,7 +2,39 @@
 
 [← Back to index](../README.md)
 
-60 titles across 4 years in this archive.
+75 titles across 6 years in this archive.
+
+## 2023
+
+[Full 2023 page](../years/2023.md)
+
+### Breachers VR
+
+**Platforms:** Meta Quest, PICO 4, Windows, PlayStation VR, PlayStation 5 &nbsp;|&nbsp; **Developer:** Triangle Factory &nbsp;|&nbsp; **Publisher:** Triangle Factory &nbsp;|&nbsp; **Genre:** Tactical shooter &nbsp;|&nbsp; **Released:** April 13, 2023
+
+[Wikipedia](https://en.wikipedia.org/wiki/Breachers_VR)
+
+---
+
+## 2021
+
+[Full 2021 page](../years/2021.md)
+
+### Arashi: Castles of Sin
+
+**Platforms:** PlayStation VR, Meta Quest, Windows &nbsp;|&nbsp; **Developer:** Endeavor One &nbsp;|&nbsp; **Publisher:** Prep Games, Skydance Interactive &nbsp;|&nbsp; **Genre:** Action-adventure, Stealth &nbsp;|&nbsp; **Released:** August 10, 2021
+
+[Wikipedia](https://en.wikipedia.org/wiki/Arashi:_Castles_of_Sin)
+
+---
+
+### Star Wars Pinball VR
+
+**Platforms:** Meta Quest, Windows, PlayStation VR &nbsp;|&nbsp; **Developer:** Zen Studios &nbsp;|&nbsp; **Publisher:** Zen Studios &nbsp;|&nbsp; **Genre:** Pinball &nbsp;|&nbsp; **Released:** April 29, 2021
+
+[Wikipedia](https://en.wikipedia.org/wiki/Star_Wars_Pinball_VR)
+
+---
 
 ## 2019
 
@@ -16,6 +48,38 @@
 
 ---
 
+### Death Horizon: Reloaded
+
+**Platforms:** Meta Quest, Oculus Rift, SteamVR, PlayStation VR &nbsp;|&nbsp; **Developer:** Dream Dev Studio VR &nbsp;|&nbsp; **Genre:** First-person shooter &nbsp;|&nbsp; **Released:** September 26, 2019
+
+[Wikipedia](https://en.wikipedia.org/wiki/Death_Horizon:_Reloaded)
+
+---
+
+### Ghost Giant
+
+**Platforms:** PlayStation 4, PlayStation VR &nbsp;|&nbsp; **Developer:** Zoink &nbsp;|&nbsp; **Publisher:** Zoink &nbsp;|&nbsp; **Genre:** Puzzle, adventure &nbsp;|&nbsp; **Released:** April 19, 2019
+
+[Wikipedia](https://en.wikipedia.org/wiki/Ghost_Giant)
+
+---
+
+### OhShape
+
+**Platforms:** Windows, Meta Quest, PlayStation VR &nbsp;|&nbsp; **Developer:** Odders Lab &nbsp;|&nbsp; **Publisher:** Odders Lab &nbsp;|&nbsp; **Genre:** Rhythm &nbsp;|&nbsp; **Released:** December 13, 2019
+
+[Wikipedia](https://en.wikipedia.org/wiki/OhShape)
+
+---
+
+### Synth Riders
+
+**Platforms:** SteamVR, Oculus Rift, Meta Quest, PlayStation 4, PlayStation 5, PlayStation VR, Windows, Android &nbsp;|&nbsp; **Developer:** Kluge Interactive &nbsp;|&nbsp; **Publisher:** Kluge Interactive &nbsp;|&nbsp; **Genre:** Rhythm &nbsp;|&nbsp; **Released:** May 21, 2019
+
+[Wikipedia](https://en.wikipedia.org/wiki/Synth_Riders)
+
+---
+
 ### Table of Tales: The Crooked Crown
 
 **Platforms:** PlayStation VR &nbsp;|&nbsp; **Publisher:** Tin Man Games &nbsp;|&nbsp; **Genre:** Digital tabletop , RPG &nbsp;|&nbsp; **Released:** April 16
@@ -25,6 +89,30 @@
 ## 2018
 
 [Full 2018 page](../years/2018.md)
+
+### Ark Park
+
+**Platforms:** PlayStation VR, Oculus Rift, SteamVR, Windows Mixed Reality &nbsp;|&nbsp; **Developer:** Snail Games, Studio Wildcard &nbsp;|&nbsp; **Genre:** Virtual reality &nbsp;|&nbsp; **Released:** March 22, 2018
+
+[Wikipedia](https://en.wikipedia.org/wiki/Ark_Park)
+
+---
+
+### Budget Cuts
+
+**Platforms:** Windows, PlayStation VR, Meta Quest &nbsp;|&nbsp; **Developer:** Neat Corporation &nbsp;|&nbsp; **Publisher:** Neat Corporation &nbsp;|&nbsp; **Genre:** Stealth, action &nbsp;|&nbsp; **Released:** June 14, 2018
+
+[Wikipedia](https://en.wikipedia.org/wiki/Budget_Cuts)
+
+---
+
+### Creed: Rise to Glory
+
+**Platforms:** Windows, Meta Quest, PlayStation VR &nbsp;|&nbsp; **Developer:** Survios &nbsp;|&nbsp; **Publisher:** Survios &nbsp;|&nbsp; **Genre:** Fighting &nbsp;|&nbsp; **Released:** September 25, 2018
+
+[Wikipedia](https://en.wikipedia.org/wiki/Creed:_Rise_to_Glory)
+
+---
 
 ### Déraciné
 
@@ -40,9 +128,33 @@
 
 ---
 
+### Red Matter
+
+**Platforms:** SteamVR, Oculus Rift, Windows Mixed Reality, PlayStation VR &nbsp;|&nbsp; **Developer:** Vertical Robot &nbsp;|&nbsp; **Genre:** Puzzle &nbsp;|&nbsp; **Released:** May 24, 2018
+
+[Wikipedia](https://en.wikipedia.org/wiki/Red_Matter_(video_game))
+
+---
+
+### Torn
+
+**Platforms:** Windows, Steam, PlayStation VR, Oculus VR, SteamVR &nbsp;|&nbsp; **Developer:** Aspyr Media &nbsp;|&nbsp; **Publisher:** Aspyr Media &nbsp;|&nbsp; **Released:** August 28, 2018
+
+[Wikipedia](https://en.wikipedia.org/wiki/Torn_(2018_video_game))
+
+---
+
 ## 2017
 
 [Full 2017 page](../years/2017.md)
+
+### Archangel
+
+**Platforms:** Oculus Rift, Windows, PlayStation VR &nbsp;|&nbsp; **Developer:** Skydance Interactive &nbsp;|&nbsp; **Publisher:** Skydance Interactive &nbsp;|&nbsp; **Genre:** First-person shooter &nbsp;|&nbsp; **Released:** July 18, 2017
+
+[Wikipedia](https://en.wikipedia.org/wiki/Archangel_(2017_video_game))
+
+---
 
 ### Dino Frontier
 
@@ -61,20 +173,6 @@
 **Platforms:** PlayStation VR &nbsp;|&nbsp; **Genre:** FPS &nbsp;|&nbsp; **Released:** May 16
 
 [Wikipedia](https://en.wikipedia.org/wiki/Farpoint_(video_game))
-
----
-
-### Gang Beasts
-
-<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co24is.jpg" alt="Gang Beasts cover" width="200">
-
-**Platforms:** Linux, PlayStation 4, macOS, PlayStation VR, Windows &nbsp;|&nbsp; **Developer:** Boneloaf &nbsp;|&nbsp; **Publisher:** Double Fine Productions &nbsp;|&nbsp; **Genre:** Fighting, Indie &nbsp;|&nbsp; **Released:** December 12, 2017
-
-> Gang Beasts is a silly multiplayer party game with surly gelatinous characters, brutal slapstick fight sequences, and absurd hazardous environments, set in the mean streets of Beef City.
->
-> _Synopsis source: IGDB_
-
-[IGDB](https://www.igdb.com/games/gang-beasts)
 
 ---
 
@@ -145,6 +243,14 @@
 ### Polybius
 
 **Platforms:** PlayStation VR &nbsp;|&nbsp; **Released:** May 9
+
+---
+
+### Rick and Morty: Virtual Rick-ality
+
+**Platforms:** SteamVR, PlayStation VR, Oculus Rift, Windows &nbsp;|&nbsp; **Developer:** Owlchemy Labs &nbsp;|&nbsp; **Publisher:** Adult Swim Games &nbsp;|&nbsp; **Genre:** Adventure game &nbsp;|&nbsp; **Released:** April 20, 2017
+
+[Wikipedia](https://en.wikipedia.org/wiki/Rick_and_Morty:_Virtual_Rick-ality)
 
 ---
 
@@ -364,6 +470,14 @@
 
 ---
 
+### Radial-G: Racing Revolved
+
+**Platforms:** Oculus Rift, SteamVR, PlayStation 4, PlayStation VR, Gear VR &nbsp;|&nbsp; **Developer:** Tammeka Games &nbsp;|&nbsp; **Publisher:** Tammeka Games &nbsp;|&nbsp; **Genre:** Racing
+
+[Wikipedia](https://en.wikipedia.org/wiki/Radial-G:_Racing_Revolved)
+
+---
+
 ### Rez Infinite
 
 **Platforms:** PlayStation 4, PlayStation VR &nbsp;|&nbsp; **Genre:** Shoot 'em up (rail), Music &nbsp;|&nbsp; **Released:** October 13
@@ -387,6 +501,14 @@
 ### Rollercoaster Dreams
 
 **Platforms:** PlayStation 4, PlayStation VR &nbsp;|&nbsp; **Released:** December 22
+
+---
+
+### Sairento VR
+
+**Platforms:** Windows, PlayStation VR &nbsp;|&nbsp; **Developer:** Mixed Realms and Swag Soft &nbsp;|&nbsp; **Publisher:** Mixed Realms Pte Ltd &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** December 21, 2016
+
+[Wikipedia](https://en.wikipedia.org/wiki/Sairento_VR)
 
 ---
 

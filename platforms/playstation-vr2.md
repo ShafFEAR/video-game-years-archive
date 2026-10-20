@@ -2,40 +2,64 @@
 
 [← Back to index](../README.md)
 
-2 titles across 2 years in this archive.
+6 titles across 3 years in this archive.
 
-## 2025
+## 2026
 
-[Full 2025 page](../years/2025.md)
+[Full 2026 page](../years/2026.md)
 
-### The Midnight Walk
+### Little Nightmares VR: Altered Echoes
 
-<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co8ur3.jpg" alt="The Midnight Walk cover" width="200">
+**Platforms:** Meta Quest, PlayStation VR2, Windows &nbsp;|&nbsp; **Developer:** Iconik &nbsp;|&nbsp; **Publisher:** Bandai Namco Entertainment &nbsp;|&nbsp; **Genre:** Adventure, puzzle, horror &nbsp;|&nbsp; **Released:** April 24, 2026
 
-**Platforms:** Windows, PlayStation VR2, PlayStation 5, SteamVR &nbsp;|&nbsp; **Developer:** MoonHood &nbsp;|&nbsp; **Publisher:** Fast Travel Games &nbsp;|&nbsp; **Genre:** Puzzle, Adventure, Indie &nbsp;|&nbsp; **Released:** May 8, 2025
-
-> The Midnight Walk is a first-person dark fantasy adventure game developed by MoonHood and published by Fast Travel Games. It follows the Burnt One, who travels through a hostile world alongside Potboy, a small lantern creature whose flame is used to illuminate the environment and interact with threats encountered along the journey. The story is structured around five interconnected tales.  Gameplay combines exploration, environmental puzzle-solving, and evasion. Potboy's flame can be used to distract creatures while the player hides from or avoids them. The game's environments and characters were first sculpted in clay, then 3D-scanned and presented in a stop-motion visual style. It can be played in both standard flatscreen mode and VR.
->
-> _Synopsis source: IGDB_
-
-[IGDB](https://www.igdb.com/games/the-midnight-walk)
+[Wikipedia](https://en.wikipedia.org/wiki/Little_Nightmares_VR:_Altered_Echoes)
 
 ---
 
-## 2023
+## 2024
 
-[Full 2023 page](../years/2023.md)
+[Full 2024 page](../years/2024.md)
 
-### Humanity
+### Ghosts of Tabor
 
-<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co66z7.jpg" alt="Humanity cover" width="200">
+**Platforms:** Meta Quest, PICO 4, PlayStation VR2 &nbsp;|&nbsp; **Developer:** Combat Waffle Studios &nbsp;|&nbsp; **Publisher:** Beyond Frames Entertainment, Neem Interactive &nbsp;|&nbsp; **Genre:** Extraction shooter &nbsp;|&nbsp; **Released:** February 8, 2024
 
-**Platforms:** Windows, PlayStation 5, PlayStation 4, PlayStation VR, PlayStation VR2 &nbsp;|&nbsp; **Developer:** tha ltd. &nbsp;|&nbsp; **Publisher:** Enhance &nbsp;|&nbsp; **Genre:** Platform, Puzzle, Adventure, Indie &nbsp;|&nbsp; **Released:** May 15, 2023
+[Wikipedia](https://en.wikipedia.org/wiki/Ghosts_of_Tabor)
 
-> A unique blend of puzzle-solving and action-platforming. Play a lone Shiba Inu charged with commanding massive, marching crowds to the goal in Story Mode, or browse a wide array of user-made levels crafted via the in-game Stage Creator!
->
-> _Synopsis source: IGDB_
+---
 
-[IGDB](https://www.igdb.com/games/humanity)
+### Maestro
+
+**Platforms:** Meta Quest, Nintendo Switch, Nintendo Switch 2, PICO 4, PlayStation 5, PlayStation VR2 &nbsp;|&nbsp; **Developer:** Double Jack &nbsp;|&nbsp; **Publisher:** Double Jack &nbsp;|&nbsp; **Genre:** Rhythm &nbsp;|&nbsp; **Released:** October 17, 2024
+
+[Wikipedia](https://en.wikipedia.org/wiki/Maestro_(2024_video_game))
+
+---
+
+### Metro Awakening
+
+**Platforms:** Meta Quest, PlayStation VR2, Windows &nbsp;|&nbsp; **Developer:** Vertigo Games &nbsp;|&nbsp; **Publisher:** Deep Silver &nbsp;|&nbsp; **Genre:** First-person shooter &nbsp;|&nbsp; **Released:** November 7, 2024
+
+[Wikipedia](https://en.wikipedia.org/wiki/Metro_Awakening)
+
+---
+
+### Skydance's Behemoth
+
+**Platforms:** Meta Quest, PlayStation VR2, SteamVR &nbsp;|&nbsp; **Developer:** Skydance Interactive &nbsp;|&nbsp; **Publisher:** Skydance Interactive &nbsp;|&nbsp; **Genre:** Action-adventure &nbsp;|&nbsp; **Released:** December 5, 2024
+
+[Wikipedia](https://en.wikipedia.org/wiki/Skydance's_Behemoth)
+
+---
+
+## 2022
+
+[Full 2022 page](../years/2022.md)
+
+### Drums Rock
+
+**Platforms:** Meta Quest, Windows, PlayStation 5, PlayStation VR2 &nbsp;|&nbsp; **Developer:** Garage 51 &nbsp;|&nbsp; **Publisher:** Garage 51 &nbsp;|&nbsp; **Genre:** Rhythm &nbsp;|&nbsp; **Released:** February 17, 2022
+
+[Wikipedia](https://en.wikipedia.org/wiki/Drums_Rock)
 
 ---

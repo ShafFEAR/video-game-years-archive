@@ -2,7 +2,7 @@
 
 [← Back to index](../README.md)
 
-4 titles across 2 years in this archive.
+18 titles across 5 years in this archive.
 
 ## 2020
 
@@ -22,9 +22,117 @@
 
 ---
 
+## 2019
+
+[Full 2019 page](../years/2019.md)
+
+### Death Horizon: Reloaded
+
+**Platforms:** Meta Quest, Oculus Rift, SteamVR, PlayStation VR &nbsp;|&nbsp; **Developer:** Dream Dev Studio VR &nbsp;|&nbsp; **Genre:** First-person shooter &nbsp;|&nbsp; **Released:** September 26, 2019
+
+[Wikipedia](https://en.wikipedia.org/wiki/Death_Horizon:_Reloaded)
+
+---
+
+### Synth Riders
+
+**Platforms:** SteamVR, Oculus Rift, Meta Quest, PlayStation 4, PlayStation 5, PlayStation VR, Windows, Android &nbsp;|&nbsp; **Developer:** Kluge Interactive &nbsp;|&nbsp; **Publisher:** Kluge Interactive &nbsp;|&nbsp; **Genre:** Rhythm &nbsp;|&nbsp; **Released:** May 21, 2019
+
+[Wikipedia](https://en.wikipedia.org/wiki/Synth_Riders)
+
+---
+
+### The Under Presents
+
+**Platforms:** Oculus Rift, Meta Quest &nbsp;|&nbsp; **Developer:** Tender Claws &nbsp;|&nbsp; **Publisher:** Tender Claws &nbsp;|&nbsp; **Genre:** Magic system, interactive film, artgame, cooperative video game &nbsp;|&nbsp; **Released:** November 19, 2019
+
+[Wikipedia](https://en.wikipedia.org/wiki/The_Under_Presents)
+
+---
+
+### Vader Immortal: A Star Wars VR Series
+
+**Platforms:** Oculus Rift, Meta Quest &nbsp;|&nbsp; **Released:** May 21, 2019
+
+[Wikipedia](https://en.wikipedia.org/wiki/Vader_Immortal:_A_Star_Wars_VR_Series)
+
+---
+
+## 2018
+
+[Full 2018 page](../years/2018.md)
+
+### Ark Park
+
+**Platforms:** PlayStation VR, Oculus Rift, SteamVR, Windows Mixed Reality &nbsp;|&nbsp; **Developer:** Snail Games, Studio Wildcard &nbsp;|&nbsp; **Genre:** Virtual reality &nbsp;|&nbsp; **Released:** March 22, 2018
+
+[Wikipedia](https://en.wikipedia.org/wiki/Ark_Park)
+
+---
+
+### Cold Iron
+
+**Platforms:** SteamVR, PlayStation 4, Oculus Rift, Windows &nbsp;|&nbsp; **Developer:** Catch & Release &nbsp;|&nbsp; **Publisher:** Catch & Release &nbsp;|&nbsp; **Genre:** Shooter &nbsp;|&nbsp; **Released:** January 30, 2018
+
+[Wikipedia](https://en.wikipedia.org/wiki/Cold_Iron_(video_game))
+
+---
+
+### Red Matter
+
+**Platforms:** SteamVR, Oculus Rift, Windows Mixed Reality, PlayStation VR &nbsp;|&nbsp; **Developer:** Vertical Robot &nbsp;|&nbsp; **Genre:** Puzzle &nbsp;|&nbsp; **Released:** May 24, 2018
+
+[Wikipedia](https://en.wikipedia.org/wiki/Red_Matter_(video_game))
+
+---
+
+## 2017
+
+[Full 2017 page](../years/2017.md)
+
+### Archangel
+
+**Platforms:** Oculus Rift, Windows, PlayStation VR &nbsp;|&nbsp; **Developer:** Skydance Interactive &nbsp;|&nbsp; **Publisher:** Skydance Interactive &nbsp;|&nbsp; **Genre:** First-person shooter &nbsp;|&nbsp; **Released:** July 18, 2017
+
+[Wikipedia](https://en.wikipedia.org/wiki/Archangel_(2017_video_game))
+
+---
+
+### Drunk or Dead
+
+**Platforms:** SteamVR, Oculus Rift &nbsp;|&nbsp; **Developer:** 4 I Lab &nbsp;|&nbsp; **Publisher:** 4 I Lab &nbsp;|&nbsp; **Genre:** First-person shooter &nbsp;|&nbsp; **Released:** January 10, 2017
+
+[Wikipedia](https://en.wikipedia.org/wiki/Drunk_or_Dead)
+
+---
+
+### Rick and Morty: Virtual Rick-ality
+
+**Platforms:** SteamVR, PlayStation VR, Oculus Rift, Windows &nbsp;|&nbsp; **Developer:** Owlchemy Labs &nbsp;|&nbsp; **Publisher:** Adult Swim Games &nbsp;|&nbsp; **Genre:** Adventure game &nbsp;|&nbsp; **Released:** April 20, 2017
+
+[Wikipedia](https://en.wikipedia.org/wiki/Rick_and_Morty:_Virtual_Rick-ality)
+
+---
+
+### The Mage's Tale
+
+**Platforms:** Windows, Oculus Rift &nbsp;|&nbsp; **Developer:** inXile Entertainment &nbsp;|&nbsp; **Publisher:** inXile Entertainment &nbsp;|&nbsp; **Genre:** Role-playing &nbsp;|&nbsp; **Released:** June 20, 2017
+
+[Wikipedia](https://en.wikipedia.org/wiki/The_Mage's_Tale)
+
+---
+
 ## 2016
 
 [Full 2016 page](../years/2016.md)
+
+### Holodance
+
+**Platforms:** SteamVR, Oculus Rift &nbsp;|&nbsp; **Developer:** Narayana games &nbsp;|&nbsp; **Publisher:** Narayana games &nbsp;|&nbsp; **Genre:** Music / rhythm &nbsp;|&nbsp; **Released:** April 5, 2016
+
+[Wikipedia](https://en.wikipedia.org/wiki/Holodance)
+
+---
 
 ### Job Simulator: The 2050 Archives
 
@@ -40,17 +148,33 @@
 
 ---
 
+### New Retro Arcade: Neon
+
+**Platforms:** SteamVR, Oculus Rift &nbsp;|&nbsp; **Developer:** Digital Cybercherries &nbsp;|&nbsp; **Publisher:** Digital Cybercherries &nbsp;|&nbsp; **Genre:** Simulation &nbsp;|&nbsp; **Released:** August 1, 2016
+
+[Wikipedia](https://en.wikipedia.org/wiki/New_Retro_Arcade:_Neon)
+
+---
+
+### Radial-G: Racing Revolved
+
+**Platforms:** Oculus Rift, SteamVR, PlayStation 4, PlayStation VR, Gear VR &nbsp;|&nbsp; **Developer:** Tammeka Games &nbsp;|&nbsp; **Publisher:** Tammeka Games &nbsp;|&nbsp; **Genre:** Racing
+
+[Wikipedia](https://en.wikipedia.org/wiki/Radial-G:_Racing_Revolved)
+
+---
+
 ### Rec Room
 
 <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/cocbki.jpg" alt="Rec Room cover" width="200">
 
-**Platforms:** Oculus Rift, Windows, SteamVR &nbsp;|&nbsp; **Developer:** Against Gravity &nbsp;|&nbsp; **Publisher:** Against Gravity &nbsp;|&nbsp; **Genre:** Fighting, Shooter, Music, Platform, Role-playing (RPG), Simulator, Sport, Strategy, Adventure, Arcade &nbsp;|&nbsp; **Released:** June 28, 2016
+**Platforms:** Oculus Rift, Windows, SteamVR &nbsp;|&nbsp; **Genre:** Fighting, Shooter, Music, Platform, Role-playing (RPG), Simulator, Sport, Strategy, Adventure, Arcade
 
 > Rec Room is a virtual reality online game platform to build and play games together. Party up with friends from all around the world to chat, hang out, explore millions of player-created rooms, or build something new and amazing to share with us all.  On June 1, 2026, following financial issues within the Rec Room Inc. company, Rec Room officially ceased operations and shut down all game servers.
 >
 > _Synopsis source: IGDB_
 
-[IGDB](https://www.igdb.com/games/rec-room)
+[Wikipedia](https://en.wikipedia.org/wiki/Rec_Room_(video_game)) · [IGDB](https://www.igdb.com/games/rec-room)
 
 ---
 

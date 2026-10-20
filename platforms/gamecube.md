@@ -2,7 +2,19 @@
 
 [← Back to index](../README.md)
 
-321 titles across 7 years in this archive.
+480 titles across 8 years in this archive.
+
+## 2009
+
+[Full 2009 page](../years/2009.md)
+
+### Giana's Return
+
+**Platforms:** Dreamcast, GameCube, GP2X, Linux, macOS, PlayStation Portable, Mobile phone, Wii, Windows &nbsp;|&nbsp; **Developer:** Retroguru &nbsp;|&nbsp; **Genre:** Platform &nbsp;|&nbsp; **Released:** August 15, 2009
+
+[Wikipedia](https://en.wikipedia.org/wiki/Giana's_Return)
+
+---
 
 ## 2007
 
@@ -96,6 +108,14 @@
 
 [Full 2006 page](../years/2006.md)
 
+### 2006 FIFA World Cup
+
+**Platforms:** Windows, PlayStation 2, PlayStation Portable, Xbox, Xbox 360, Nintendo DS, Game Boy Advance, GameCube, Mobile phone &nbsp;|&nbsp; **Developer:** EA Canada, Exient Entertainment &nbsp;|&nbsp; **Publisher:** EA Sports &nbsp;|&nbsp; **Genre:** Sports &nbsp;|&nbsp; **Released:** April 24, 2006
+
+[Wikipedia](https://en.wikipedia.org/wiki/2006_FIFA_World_Cup_(video_game))
+
+---
+
 ### 24: The Game
 
 **Platforms:** Windows, GameCube, PlayStation 2, Xbox 360, Nintendo DS &nbsp;|&nbsp; **Released:** March 17
@@ -124,6 +144,14 @@
 
 ---
 
+### Battle Stadium D.O.N
+
+**Platforms:** GameCube, PlayStation 2 &nbsp;|&nbsp; **Developer:** Eighting, Q Entertainment &nbsp;|&nbsp; **Publisher:** Namco Bandai Games &nbsp;|&nbsp; **Genre:** Fighting &nbsp;|&nbsp; **Released:** July 20, 2006
+
+[Wikipedia](https://en.wikipedia.org/wiki/Battle_Stadium_D.O.N)
+
+---
+
 ### Bionicle Heroes
 
 **Platforms:** Windows, GameCube, PlayStation 2, Xbox 360, Game Boy Advance, Nintendo DS &nbsp;|&nbsp; **Released:** November 14
@@ -143,6 +171,46 @@
 **Platforms:** Windows, PlayStation 2, Xbox, GameCube, Game Boy Advance, Nintendo DS, PlayStation Portable, Xbox 360, Wii &nbsp;|&nbsp; **Released:** June 6
 
 [Wikipedia](https://en.wikipedia.org/wiki/Cars_(video_game))
+
+---
+
+### Cocoto Magic Circus
+
+**Platforms:** PlayStation 2, GameCube, Windows &nbsp;|&nbsp; **Developer:** Neko Entertainment &nbsp;|&nbsp; **Publisher:** Conspiracy Entertainment, BigBen Interactive &nbsp;|&nbsp; **Genre:** Shoot 'em up &nbsp;|&nbsp; **Released:** April 7, 2006
+
+[Wikipedia](https://en.wikipedia.org/wiki/Cocoto_Magic_Circus)
+
+---
+
+### Curious George
+
+**Platforms:** Xbox, GameCube, Game Boy Advance, PlayStation 2, Windows &nbsp;|&nbsp; **Developer:** Vicious Cycle Software, Torus Games &nbsp;|&nbsp; **Publisher:** Namco Hometek, Electronic Arts &nbsp;|&nbsp; **Genre:** Platform &nbsp;|&nbsp; **Released:** February 1, 2006
+
+[Wikipedia](https://en.wikipedia.org/wiki/Curious_George_(video_game))
+
+---
+
+### FIFA 07
+
+**Platforms:** GameCube, PlayStation 2, Windows, Xbox, Xbox 360, PlayStation Portable, Nintendo DS, Game Boy Advance, Mobile phone &nbsp;|&nbsp; **Developer:** EA Canada, Team Fusion, Exient Entertainment, Distinctive Developments &nbsp;|&nbsp; **Publisher:** Electronic Arts &nbsp;|&nbsp; **Genre:** Sports &nbsp;|&nbsp; **Released:** September 28, 2006
+
+[Wikipedia](https://en.wikipedia.org/wiki/FIFA_07)
+
+---
+
+### FIFA Street 2
+
+**Platforms:** GameCube, PlayStation 2, Xbox, Nintendo DS, PlayStation Portable, Mobile phone &nbsp;|&nbsp; **Developer:** EA Canada, HB Studios, Exient Entertainment, Distinctive Developments &nbsp;|&nbsp; **Publisher:** EA Sports BIG &nbsp;|&nbsp; **Genre:** Sports &nbsp;|&nbsp; **Released:** February 28, 2006
+
+[Wikipedia](https://en.wikipedia.org/wiki/FIFA_Street_2)
+
+---
+
+### Flushed Away
+
+**Platforms:** PlayStation 2, GameCube, Game Boy Advance, Nintendo DS &nbsp;|&nbsp; **Developer:** Vicious Cycle Software, Art Co., Ltd, Altron &nbsp;|&nbsp; **Publisher:** D3 Publisher &nbsp;|&nbsp; **Genre:** Action-adventure &nbsp;|&nbsp; **Released:** October 24, 2006
+
+[Wikipedia](https://en.wikipedia.org/wiki/Flushed_Away_(video_game))
 
 ---
 
@@ -181,6 +249,14 @@
 ### LEGO Star Wars II: The Original Trilogy
 
 **Platforms:** Windows, PlayStation 2, Xbox, GameCube, Xbox 360, Nintendo DS, PlayStation Portable &nbsp;|&nbsp; **Released:** September 12
+
+---
+
+### Madden NFL 07
+
+**Platforms:** PlayStation 2, PlayStation 3, PlayStation Portable, Xbox, Xbox 360, Windows, Nintendo DS, Game Boy Advance, Wii, GameCube, Mobile phone &nbsp;|&nbsp; **Developer:** EA Tiburon, EA Canada, HB Studios, Exient Entertainment &nbsp;|&nbsp; **Publisher:** EA Sports &nbsp;|&nbsp; **Genre:** Sports &nbsp;|&nbsp; **Released:** August 22, 2006
+
+[Wikipedia](https://en.wikipedia.org/wiki/Madden_NFL_07)
 
 ---
 
@@ -306,6 +382,14 @@
 
 ---
 
+### The Ant Bully
+
+**Platforms:** PlayStation 2, GameCube, Game Boy Advance, Windows, Wii &nbsp;|&nbsp; **Developer:** Artificial Mind and Movement &nbsp;|&nbsp; **Publisher:** Midway &nbsp;|&nbsp; **Genre:** Action-adventure &nbsp;|&nbsp; **Released:** July 24, 2006
+
+[Wikipedia](https://en.wikipedia.org/wiki/The_Ant_Bully_(video_game))
+
+---
+
 ### The Grim Adventures of Billy & Mandy
 
 **Platforms:** GameCube, PlayStation 2, Game Boy Advance, Wii &nbsp;|&nbsp; **Released:** September 25 (NA)
@@ -386,6 +470,14 @@
 
 ---
 
+### Animaniacs: The Great Edgar Hunt
+
+**Platforms:** GameCube, Xbox, PlayStation 2 &nbsp;|&nbsp; **Developer:** Warthog Games &nbsp;|&nbsp; **Publisher:** Ignition Entertainment &nbsp;|&nbsp; **Genre:** Action-adventure &nbsp;|&nbsp; **Released:** May 27, 2005
+
+[Wikipedia](https://en.wikipedia.org/wiki/Animaniacs:_The_Great_Edgar_Hunt)
+
+---
+
 ### Batman Begins
 
 **Platforms:** GameCube, PlayStation 2, Xbox, Game Boy Advance &nbsp;|&nbsp; **Released:** June 14
@@ -416,6 +508,14 @@
 
 ---
 
+### Cabela's Outdoor Adventures
+
+**Platforms:** PlayStation 2, Xbox, GameCube &nbsp;|&nbsp; **Developer:** Sand Grain Studios, Fun Labs, Magic Wand Productions &nbsp;|&nbsp; **Publisher:** Activision Value, Zoo Digital Publishing &nbsp;|&nbsp; **Genre:** Simulation &nbsp;|&nbsp; **Released:** September 13, 2005
+
+[Wikipedia](https://en.wikipedia.org/wiki/Cabela's_Outdoor_Adventures_(2005_video_game))
+
+---
+
 ### Call of Duty 2: Big Red One
 
 **Platforms:** PlayStation 2, Xbox, GameCube &nbsp;|&nbsp; **Released:** November 1
@@ -438,11 +538,27 @@
 
 ---
 
+### Chibi-Robo!
+
+**Platforms:** GameCube &nbsp;|&nbsp; **Developer:** Skip Ltd. &nbsp;|&nbsp; **Publisher:** Nintendo &nbsp;|&nbsp; **Genre:** Platform, adventure &nbsp;|&nbsp; **Released:** June 23, 2005
+
+[Wikipedia](https://en.wikipedia.org/wiki/Chibi-Robo!_(video_game))
+
+---
+
 ### Chicken Little
 
 **Platforms:** GameCube, PlayStation 2, Xbox, Windows &nbsp;|&nbsp; **Released:** October 18
 
 [Wikipedia](https://en.wikipedia.org/wiki/Chicken_Little_(video_game))
+
+---
+
+### Cocoto Kart Racer
+
+**Platforms:** PlayStation 2, GameCube &nbsp;|&nbsp; **Developer:** Neko Entertainment &nbsp;|&nbsp; **Publisher:** Conspiracy Entertainment, BigBen Interactive &nbsp;|&nbsp; **Genre:** Racing &nbsp;|&nbsp; **Released:** March 2, 2005
+
+[Wikipedia](https://en.wikipedia.org/wiki/Cocoto_Kart_Racer)
 
 ---
 
@@ -487,6 +603,14 @@
 ### Donkey Konga 2: Hit Song Parade!
 
 **Platforms:** GameCube &nbsp;|&nbsp; **Released:** May 9
+
+---
+
+### Dora the Explorer: Journey to the Purple Planet
+
+**Platforms:** GameCube, PlayStation 2 &nbsp;|&nbsp; **Developer:** Vicious Cycle Software &nbsp;|&nbsp; **Publisher:** Global Star Software &nbsp;|&nbsp; **Genre:** Action-adventure &nbsp;|&nbsp; **Released:** October 13, 2005
+
+[Wikipedia](https://en.wikipedia.org/wiki/Dora_the_Explorer:_Journey_to_the_Purple_Planet)
 
 ---
 
@@ -576,6 +700,14 @@
 
 ---
 
+### Homeland
+
+**Platforms:** GameCube &nbsp;|&nbsp; **Developer:** Chunsoft &nbsp;|&nbsp; **Publisher:** Chunsoft &nbsp;|&nbsp; **Genre:** Role-playing &nbsp;|&nbsp; **Released:** April 29, 2005
+
+[Wikipedia](https://en.wikipedia.org/wiki/Homeland_(video_game))
+
+---
+
 ### Judge Dredd: Dredd vs. Death
 
 <img src="../images/steam-3710.jpg" alt="Judge Dredd: Dredd vs. Death cover" width="200">
@@ -595,6 +727,14 @@
 **Platforms:** PlayStation 2, GameCube &nbsp;|&nbsp; **Released:** July 7
 
 [Wikipedia](https://en.wikipedia.org/wiki/Killer7)
+
+---
+
+### King Kong
+
+**Platforms:** Mobile phone, GameCube, PlayStation 2, Windows, Xbox, Xbox 360, Game Boy Advance, Nintendo DS, PlayStation Portable &nbsp;|&nbsp; **Developer:** Ubisoft Montpellier, Ubisoft Casablanca, Ubisoft Montreal, Gameloft &nbsp;|&nbsp; **Publisher:** Ubisoft &nbsp;|&nbsp; **Genre:** First-person shooter, action-adventure &nbsp;|&nbsp; **Released:** November 14, 2005
+
+[Wikipedia](https://en.wikipedia.org/wiki/King_Kong_(2005_video_game))
 
 ---
 
@@ -648,6 +788,14 @@
 
 ---
 
+### Midway Arcade Treasures 3
+
+**Platforms:** GameCube, PlayStation 2, Xbox &nbsp;|&nbsp; **Developer:** Digital Eclipse, Gamestar, Midway Studios San Diego &nbsp;|&nbsp; **Publisher:** Midway &nbsp;|&nbsp; **Genre:** Racing &nbsp;|&nbsp; **Released:** September 26, 2005
+
+[Wikipedia](https://en.wikipedia.org/wiki/Midway_Arcade_Treasures_3)
+
+---
+
 ### Mortal Kombat: Deception
 
 **Platforms:** GameCube &nbsp;|&nbsp; **Released:** March 1
@@ -659,6 +807,30 @@
 **Platforms:** Windows, GameCube, PlayStation 2, Xbox &nbsp;|&nbsp; **Released:** February 22
 
 [Wikipedia](https://en.wikipedia.org/wiki/MVP_Baseball_2005)
+
+---
+
+### Namco Museum: 50th Anniversary
+
+**Platforms:** Game Boy Advance, PlayStation 2, Xbox, GameCube, Windows &nbsp;|&nbsp; **Developer:** Digital Eclipse &nbsp;|&nbsp; **Publisher:** Namco, Namco Hometek, Electronic Arts &nbsp;|&nbsp; **Genre:** Various &nbsp;|&nbsp; **Released:** August 30, 2005
+
+[Wikipedia](https://en.wikipedia.org/wiki/Namco_Museum:_50th_Anniversary)
+
+---
+
+### NBA Live 06
+
+**Platforms:** GameCube, PlayStation 2, Windows, Xbox, Xbox 360, PlayStation Portable, Mobile phone &nbsp;|&nbsp; **Developer:** EA Canada &nbsp;|&nbsp; **Publisher:** EA Sports &nbsp;|&nbsp; **Genre:** Sports &nbsp;|&nbsp; **Released:** September 26, 2005
+
+[Wikipedia](https://en.wikipedia.org/wiki/NBA_Live_06)
+
+---
+
+### NBA Street V3
+
+**Platforms:** GameCube, PlayStation 2, Xbox &nbsp;|&nbsp; **Developer:** EA Canada &nbsp;|&nbsp; **Publisher:** EA Sports BIG &nbsp;|&nbsp; **Genre:** Sports &nbsp;|&nbsp; **Released:** February 8, 2005
+
+[Wikipedia](https://en.wikipedia.org/wiki/NBA_Street_V3)
 
 ---
 
@@ -676,9 +848,33 @@
 
 ---
 
+### NHL 06
+
+**Platforms:** PlayStation 2, GameCube, Windows, Xbox &nbsp;|&nbsp; **Developer:** EA Canada &nbsp;|&nbsp; **Publisher:** EA Sports &nbsp;|&nbsp; **Genre:** Sports &nbsp;|&nbsp; **Released:** September 6, 2005
+
+[Wikipedia](https://en.wikipedia.org/wiki/NHL_06)
+
+---
+
+### One Piece: Grand Battle!
+
+**Platforms:** GameCube, PlayStation 2 &nbsp;|&nbsp; **Developer:** Ganbarion &nbsp;|&nbsp; **Publisher:** Bandai &nbsp;|&nbsp; **Genre:** Fighting &nbsp;|&nbsp; **Released:** March 17, 2005
+
+[Wikipedia](https://en.wikipedia.org/wiki/One_Piece:_Grand_Battle!)
+
+---
+
 ### One Piece: Grand Battle! Rush
 
 **Platforms:** GameCube, PlayStation 2 &nbsp;|&nbsp; **Released:** September 7
+
+---
+
+### One Piece: Pirates' Carnival
+
+**Platforms:** PlayStation 2, GameCube &nbsp;|&nbsp; **Developer:** h.a.n.d. &nbsp;|&nbsp; **Publisher:** Bandai, Namco Bandai Games &nbsp;|&nbsp; **Genre:** Party &nbsp;|&nbsp; **Released:** November 23, 2005
+
+[Wikipedia](https://en.wikipedia.org/wiki/One_Piece:_Pirates'_Carnival)
 
 ---
 
@@ -732,6 +928,14 @@
 
 ---
 
+### Robots
+
+**Platforms:** Game Boy Advance, GameCube, Nintendo DS, PlayStation 2, Xbox, Windows &nbsp;|&nbsp; **Developer:** Eurocom, Griptonite Games &nbsp;|&nbsp; **Publisher:** Vivendi Universal Games &nbsp;|&nbsp; **Genre:** Platform &nbsp;|&nbsp; **Released:** February 22, 2005
+
+[Wikipedia](https://en.wikipedia.org/wiki/Robots_(2005_video_game))
+
+---
+
 ### Scooby-Doo! Unmasked
 
 **Platforms:** PlayStation 2, GameCube, Xbox, Game Boy Advance, Nintendo DS &nbsp;|&nbsp; **Released:** September 13
@@ -761,6 +965,30 @@
 **Platforms:** Windows, GameCube, PlayStation 2, Xbox, Game Boy Advance, Nintendo DS &nbsp;|&nbsp; **Released:** October 25
 
 [Wikipedia](https://en.wikipedia.org/wiki/Shrek_SuperSlam)
+
+---
+
+### Sonic Gems Collection
+
+**Platforms:** GameCube, PlayStation 2 &nbsp;|&nbsp; **Developer:** Sonic Team &nbsp;|&nbsp; **Publisher:** Sega &nbsp;|&nbsp; **Genre:** Various &nbsp;|&nbsp; **Released:** August 11, 2005
+
+[Wikipedia](https://en.wikipedia.org/wiki/Sonic_Gems_Collection)
+
+---
+
+### Spartan: Total Warrior
+
+**Platforms:** GameCube, PlayStation 2, Xbox &nbsp;|&nbsp; **Developer:** Creative Assembly &nbsp;|&nbsp; **Publisher:** Sega &nbsp;|&nbsp; **Genre:** Hack and slash &nbsp;|&nbsp; **Released:** October 7, 2005
+
+[Wikipedia](https://en.wikipedia.org/wiki/Spartan:_Total_Warrior)
+
+---
+
+### SpongeBob SquarePants: Lights, Camera, Pants!
+
+**Platforms:** Xbox, PlayStation 2, GameCube, Game Boy Advance, Windows &nbsp;|&nbsp; **Developer:** THQ Studio Australia, WayForward Technologies, AWE Games &nbsp;|&nbsp; **Publisher:** THQ &nbsp;|&nbsp; **Genre:** Party &nbsp;|&nbsp; **Released:** October 19, 2005
+
+[Wikipedia](https://en.wikipedia.org/wiki/SpongeBob_SquarePants:_Lights,_Camera,_Pants!)
 
 ---
 
@@ -794,6 +1022,14 @@
 
 ---
 
+### Teenage Mutant Ninja Turtles 3: Mutant Nightmare
+
+**Platforms:** GameCube, PlayStation 2, Xbox, Nintendo DS &nbsp;|&nbsp; **Developer:** Konami Computer Entertainment Studios &nbsp;|&nbsp; **Publisher:** Konami Digital Entertainment &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** November 1, 2005
+
+[Wikipedia](https://en.wikipedia.org/wiki/Teenage_Mutant_Ninja_Turtles_3:_Mutant_Nightmare)
+
+---
+
 ### The Chronicles Of Narnia: The Lion, The Witch and The Wardrobe
 
 **Platforms:** Windows, PlayStation 2, Xbox, GameCube, Nintendo DS, Game Boy Advance &nbsp;|&nbsp; **Released:** November 14
@@ -818,6 +1054,14 @@
 
 ---
 
+### TMNT: Mutant Melee
+
+**Platforms:** GameCube, Windows, Xbox, PlayStation 2 &nbsp;|&nbsp; **Developer:** Konami Computer Entertainment Hawaii &nbsp;|&nbsp; **Publisher:** Konami &nbsp;|&nbsp; **Genre:** Fighting &nbsp;|&nbsp; **Released:** March 15, 2005
+
+[Wikipedia](https://en.wikipedia.org/wiki/TMNT:_Mutant_Melee)
+
+---
+
 ### Tom Clancy's Rainbow Six: Lockdown
 
 **Platforms:** GameCube &nbsp;|&nbsp; **Released:** September 27
@@ -835,6 +1079,14 @@
 > _Synopsis source: Steam_
 
 [Steam](https://store.steampowered.com/app/13570)
+
+---
+
+### Tony Hawk's American Wasteland
+
+**Platforms:** GameCube, PlayStation 2, Xbox, Xbox 360, Mobile phone &nbsp;|&nbsp; **Developer:** Neversoft &nbsp;|&nbsp; **Publisher:** Activision &nbsp;|&nbsp; **Genre:** Sports &nbsp;|&nbsp; **Released:** October 18, 2005
+
+[Wikipedia](https://en.wikipedia.org/wiki/Tony_Hawk's_American_Wasteland)
 
 ---
 
@@ -930,6 +1182,14 @@
 
 ---
 
+### Army Men: Sarge's War
+
+**Platforms:** Windows, Xbox, PlayStation 2, GameCube &nbsp;|&nbsp; **Developer:** Tactical Development &nbsp;|&nbsp; **Publisher:** Global Star Software &nbsp;|&nbsp; **Genre:** Third-person shooter &nbsp;|&nbsp; **Released:** July 20, 2004
+
+[Wikipedia](https://en.wikipedia.org/wiki/Army_Men:_Sarge's_War)
+
+---
+
 ### Bad Boys: Miami Takedown
 
 **Platforms:** GameCube, PlayStation 2, Xbox &nbsp;|&nbsp; **Released:** September 14
@@ -939,6 +1199,22 @@
 ### Baten Kaitos: Eternal Wings and the Lost Ocean
 
 **Platforms:** GameCube &nbsp;|&nbsp; **Released:** November 18
+
+---
+
+### Cabela's Big Game Hunter 2005 Adventures
+
+**Platforms:** Windows, Xbox, PlayStation 2, GameCube, Game Boy Advance &nbsp;|&nbsp; **Developer:** Magic Wand Productions, Torus Games &nbsp;|&nbsp; **Publisher:** Activision Value, Zoo Digital Publishing &nbsp;|&nbsp; **Genre:** First-person shooter, sports &nbsp;|&nbsp; **Released:** September 9, 2004
+
+[Wikipedia](https://en.wikipedia.org/wiki/Cabela's_Big_Game_Hunter_2005_Adventures)
+
+---
+
+### Call of Duty: Finest Hour
+
+**Platforms:** GameCube, PlayStation 2, Xbox &nbsp;|&nbsp; **Developer:** Spark Unlimited &nbsp;|&nbsp; **Publisher:** Activision &nbsp;|&nbsp; **Genre:** First-person shooter &nbsp;|&nbsp; **Released:** November 16, 2004
+
+[Wikipedia](https://en.wikipedia.org/wiki/Call_of_Duty:_Finest_Hour)
 
 ---
 
@@ -953,6 +1229,30 @@
 **Platforms:** Windows, GameCube, PlayStation 2, Xbox, Game Boy Advance &nbsp;|&nbsp; **Released:** July 20
 
 [Wikipedia](https://en.wikipedia.org/wiki/Catwoman_(video_game))
+
+---
+
+### Cocoto Platform Jumper
+
+**Platforms:** GameCube, PlayStation 2 &nbsp;|&nbsp; **Developer:** Neko Entertainment &nbsp;|&nbsp; **Publisher:** BigBen Interactive, Neko Entertainment &nbsp;|&nbsp; **Genre:** Platform &nbsp;|&nbsp; **Released:** July 9, 2004
+
+[Wikipedia](https://en.wikipedia.org/wiki/Cocoto_Platform_Jumper)
+
+---
+
+### Conan
+
+**Platforms:** Windows, Xbox, GameCube, PlayStation 2 &nbsp;|&nbsp; **Developer:** Cauldron &nbsp;|&nbsp; **Publisher:** TDK Mediactive Europe &nbsp;|&nbsp; **Genre:** Action-adventure, hack and slash &nbsp;|&nbsp; **Released:** April 7, 2004
+
+[Wikipedia](https://en.wikipedia.org/wiki/Conan_(2004_video_game))
+
+---
+
+### Custom Robo
+
+**Platforms:** GameCube &nbsp;|&nbsp; **Developer:** Noise, Studiofake &nbsp;|&nbsp; **Publisher:** Nintendo &nbsp;|&nbsp; **Genre:** Action role-playing &nbsp;|&nbsp; **Released:** March 4, 2004
+
+[Wikipedia](https://en.wikipedia.org/wiki/Custom_Robo_(2004_video_game))
 
 ---
 
@@ -1018,6 +1318,30 @@
 
 ---
 
+### Kidō Senshi Gundam: Senshitachi no Kiseki
+
+**Platforms:** GameCube &nbsp;|&nbsp; **Developer:** BEC &nbsp;|&nbsp; **Publisher:** Bandai &nbsp;|&nbsp; **Genre:** Third-person shooter &nbsp;|&nbsp; **Released:** March 18, 2004
+
+[Wikipedia](https://en.wikipedia.org/wiki/Kid%C5%8D_Senshi_Gundam:_Senshitachi_no_Kiseki)
+
+---
+
+### Knights of the Temple: Infernal Crusade
+
+**Platforms:** GameCube, Windows, Xbox, PlayStation 2 &nbsp;|&nbsp; **Developer:** Starbreeze Studios &nbsp;|&nbsp; **Publisher:** TDK Mediactive Europe &nbsp;|&nbsp; **Genre:** Action-adventure, hack and slash &nbsp;|&nbsp; **Released:** March 19, 2004
+
+[Wikipedia](https://en.wikipedia.org/wiki/Knights_of_the_Temple:_Infernal_Crusade)
+
+---
+
+### Kururin Squash!
+
+**Platforms:** GameCube &nbsp;|&nbsp; **Developer:** Eighting &nbsp;|&nbsp; **Publisher:** Nintendo &nbsp;|&nbsp; **Genre:** Puzzle, action &nbsp;|&nbsp; **Released:** October 14, 2004
+
+[Wikipedia](https://en.wikipedia.org/wiki/Kururin_Squash!)
+
+---
+
 ### Lemony Snicket's A Series of Unfortunate Events
 
 **Platforms:** Windows, GameCube, PlayStation 2, Xbox, Game Boy Advance, Nintendo DS &nbsp;|&nbsp; **Released:** November 10
@@ -1050,6 +1374,14 @@
 
 ---
 
+### MC Groovz Dance Craze
+
+**Platforms:** GameCube &nbsp;|&nbsp; **Developer:** Mad Catz &nbsp;|&nbsp; **Publisher:** Mad Catz &nbsp;|&nbsp; **Genre:** Music &nbsp;|&nbsp; **Released:** November 22, 2004
+
+[Wikipedia](https://en.wikipedia.org/wiki/MC_Groovz_Dance_Craze)
+
+---
+
 ### Mega Man Anniversary Collection
 
 **Platforms:** GameCube, PlayStation 2, Game Boy Advance &nbsp;|&nbsp; **Released:** June 23
@@ -1076,9 +1408,25 @@
 
 ---
 
+### Midway Arcade Treasures 2
+
+**Platforms:** PlayStation 2, Xbox, GameCube &nbsp;|&nbsp; **Developer:** Digital Eclipse &nbsp;|&nbsp; **Publisher:** Midway &nbsp;|&nbsp; **Genre:** Various &nbsp;|&nbsp; **Released:** October 11, 2004
+
+[Wikipedia](https://en.wikipedia.org/wiki/Midway_Arcade_Treasures_2)
+
+---
+
 ### Mission: Impossible – Operation Surma
 
 **Platforms:** GameCube &nbsp;|&nbsp; **Released:** March 23
+
+---
+
+### Mobile Suit Gundam: Gundam vs. Zeta Gundam
+
+**Platforms:** PlayStation 2, GameCube &nbsp;|&nbsp; **Developer:** Capcom &nbsp;|&nbsp; **Publisher:** Bandai &nbsp;|&nbsp; **Genre:** Action, Mecha simulation, Third-person shooter, Hack and slash, Air combat simulation and Naval combat simulation &nbsp;|&nbsp; **Released:** December 9, 2004
+
+[Wikipedia](https://en.wikipedia.org/wiki/Mobile_Suit_Gundam:_Gundam_vs._Zeta_Gundam)
 
 ---
 
@@ -1096,6 +1444,14 @@
 
 ---
 
+### NBA Live 2005
+
+**Platforms:** PlayStation 2, Xbox, GameCube, Windows &nbsp;|&nbsp; **Developer:** EA Canada &nbsp;|&nbsp; **Publisher:** Electronic Arts &nbsp;|&nbsp; **Genre:** Sports &nbsp;|&nbsp; **Released:** September 28, 2004
+
+[Wikipedia](https://en.wikipedia.org/wiki/NBA_Live_2005)
+
+---
+
 ### NCAA Football 2005
 
 **Platforms:** PlayStation 2, Xbox, GameCube &nbsp;|&nbsp; **Publisher:** EA Sports &nbsp;|&nbsp; **Released:** July 15, 2004
@@ -1110,11 +1466,27 @@
 
 ---
 
+### NFL Street
+
+**Platforms:** PlayStation 2, GameCube, Xbox &nbsp;|&nbsp; **Developer:** EA Tiburon &nbsp;|&nbsp; **Publisher:** EA Sports BIG &nbsp;|&nbsp; **Genre:** Sports &nbsp;|&nbsp; **Released:** January 13, 2004
+
+[Wikipedia](https://en.wikipedia.org/wiki/NFL_Street)
+
+---
+
 ### NFL Street 2
 
 **Platforms:** GameCube, PlayStation 2, Xbox &nbsp;|&nbsp; **Released:** December 22
 
 [Wikipedia](https://en.wikipedia.org/wiki/NFL_Street_2)
+
+---
+
+### NHL 2005
+
+**Platforms:** Windows, PlayStation 2, GameCube, Xbox &nbsp;|&nbsp; **Developer:** EA Black Box &nbsp;|&nbsp; **Publisher:** EA Sports &nbsp;|&nbsp; **Genre:** Sports &nbsp;|&nbsp; **Released:** September 14, 2004
+
+[Wikipedia](https://en.wikipedia.org/wiki/NHL_2005)
 
 ---
 
@@ -1129,6 +1501,30 @@
 **Platforms:** GameCube &nbsp;|&nbsp; **Publisher:** Nintendo &nbsp;|&nbsp; **Released:** April 29, 2004
 
 [Wikipedia](https://en.wikipedia.org/wiki/Pikmin_2)
+
+---
+
+### Pinball Hall of Fame: The Gottlieb Collection
+
+**Platforms:** PlayStation 2, GameCube, PlayStation Portable, Xbox &nbsp;|&nbsp; **Developer:** FarSight Studios &nbsp;|&nbsp; **Publisher:** Crave Entertainment, Play It &nbsp;|&nbsp; **Genre:** Pinball
+
+[Wikipedia](https://en.wikipedia.org/wiki/Pinball_Hall_of_Fame:_The_Gottlieb_Collection)
+
+---
+
+### Pitfall: The Lost Expedition
+
+**Platforms:** GameCube, PlayStation 2, Xbox, Game Boy Advance, Windows &nbsp;|&nbsp; **Developer:** Edge of Reality, Torus Games, Beenox &nbsp;|&nbsp; **Publisher:** Activision, Aspyr &nbsp;|&nbsp; **Genre:** Action, platform &nbsp;|&nbsp; **Released:** February 17, 2004
+
+[Wikipedia](https://en.wikipedia.org/wiki/Pitfall:_The_Lost_Expedition)
+
+---
+
+### Pool Paradise
+
+**Platforms:** Windows, PlayStation 2, GameCube &nbsp;|&nbsp; **Developer:** Awesome Studios &nbsp;|&nbsp; **Publisher:** Ignition Entertainment &nbsp;|&nbsp; **Genre:** Sports &nbsp;|&nbsp; **Released:** April 2, 2004
+
+[Wikipedia](https://en.wikipedia.org/wiki/Pool_Paradise)
 
 ---
 
@@ -1198,11 +1594,27 @@
 
 ---
 
+### Serious Sam: Next Encounter
+
+**Platforms:** GameCube, PlayStation 2 &nbsp;|&nbsp; **Developer:** Climax Solent &nbsp;|&nbsp; **Publisher:** Global Star Software &nbsp;|&nbsp; **Genre:** First-person shooter &nbsp;|&nbsp; **Released:** April 14, 2004
+
+[Wikipedia](https://en.wikipedia.org/wiki/Serious_Sam:_Next_Encounter)
+
+---
+
 ### Shark Tale
 
 **Platforms:** Windows, GameCube, PlayStation 2, Xbox, Game Boy Advance &nbsp;|&nbsp; **Released:** September 27
 
 [Wikipedia](https://en.wikipedia.org/wiki/Shark_Tale_(video_game))
+
+---
+
+### Shrek 2
+
+**Platforms:** GameCube, PlayStation 2, Xbox, Game Boy Advance, Windows, macOS, Mobile phone &nbsp;|&nbsp; **Developer:** Luxoflux, KnowWonder, Beenox, Aspyr &nbsp;|&nbsp; **Publisher:** Activision, Aspyr &nbsp;|&nbsp; **Genre:** Action-adventure, beat 'em up, platform &nbsp;|&nbsp; **Released:** May 4, 2004
+
+[Wikipedia](https://en.wikipedia.org/wiki/Shrek_2_(video_game))
 
 ---
 
@@ -1280,11 +1692,27 @@
 
 ---
 
+### The Polar Express
+
+**Platforms:** Game Boy Advance, GameCube, Windows, PlayStation 2 &nbsp;|&nbsp; **Developer:** Blue Tongue Entertainment, Tantalus Media &nbsp;|&nbsp; **Publisher:** THQ &nbsp;|&nbsp; **Genre:** Action-adventure &nbsp;|&nbsp; **Released:** November 2, 2004
+
+[Wikipedia](https://en.wikipedia.org/wiki/The_Polar_Express_(video_game))
+
+---
+
 ### The SpongeBob SquarePants Movie
 
 **Platforms:** Windows, GameCube, PlayStation 2, Xbox, Game Boy Advance &nbsp;|&nbsp; **Released:** October 27
 
 [Wikipedia](https://en.wikipedia.org/wiki/The_SpongeBob_SquarePants_Movie_(video_game))
+
+---
+
+### The Urbz: Sims in the City
+
+**Platforms:** Game Boy Advance, GameCube, Nintendo DS, PlayStation 2, Xbox &nbsp;|&nbsp; **Developer:** Maxis &nbsp;|&nbsp; **Publisher:** Electronic Arts &nbsp;|&nbsp; **Genre:** Life simulation &nbsp;|&nbsp; **Released:** November 5, 2004
+
+[Wikipedia](https://en.wikipedia.org/wiki/The_Urbz:_Sims_in_the_City)
 
 ---
 
@@ -1318,11 +1746,35 @@
 
 ---
 
+### Trigger Man
+
+**Platforms:** PlayStation 2, GameCube, Xbox &nbsp;|&nbsp; **Developer:** WNT Games &nbsp;|&nbsp; **Publisher:** Crave Entertainment, Play-It &nbsp;|&nbsp; **Genre:** Third-person shooter &nbsp;|&nbsp; **Released:** September 28, 2004
+
+[Wikipedia](https://en.wikipedia.org/wiki/Trigger_Man_(video_game))
+
+---
+
+### Ty the Tasmanian Tiger 2: Bush Rescue
+
+**Platforms:** Game Boy Advance, GameCube, PlayStation 2, Xbox &nbsp;|&nbsp; **Developer:** Krome Studios, Halfbrick Studios &nbsp;|&nbsp; **Publisher:** EA Games, Krome Studios &nbsp;|&nbsp; **Genre:** Platform &nbsp;|&nbsp; **Released:** October 12, 2004
+
+[Wikipedia](https://en.wikipedia.org/wiki/Ty_the_Tasmanian_Tiger_2:_Bush_Rescue)
+
+---
+
 ### WWE Day of Reckoning
 
 **Platforms:** GameCube &nbsp;|&nbsp; **Released:** August 30
 
 [Wikipedia](https://en.wikipedia.org/wiki/WWE_Day_of_Reckoning)
+
+---
+
+### X-Men Legends
+
+**Platforms:** GameCube, PlayStation 2, Xbox &nbsp;|&nbsp; **Developer:** Raven Software &nbsp;|&nbsp; **Publisher:** Activision &nbsp;|&nbsp; **Genre:** Action role-playing &nbsp;|&nbsp; **Released:** September 21, 2004
+
+[Wikipedia](https://en.wikipedia.org/wiki/X-Men_Legends)
 
 ---
 
@@ -1338,9 +1790,33 @@
 
 ---
 
+### All-Star Baseball 2004
+
+**Platforms:** GameCube, Xbox, PlayStation 2, Game Boy Advance &nbsp;|&nbsp; **Developer:** Acclaim Studios Austin, Acclaim Studios Manchester &nbsp;|&nbsp; **Publisher:** Acclaim Entertainment &nbsp;|&nbsp; **Genre:** Sports &nbsp;|&nbsp; **Released:** February 28, 2003
+
+[Wikipedia](https://en.wikipedia.org/wiki/All-Star_Baseball_2004)
+
+---
+
 ### Aquaman: Battle for Atlantis
 
 **Platforms:** GameCube, Xbox &nbsp;|&nbsp; **Publisher:** TDK Mediactive &nbsp;|&nbsp; **Released:** July 23, 2003
+
+---
+
+### ATV: Quad Power Racing 2
+
+**Platforms:** PlayStation 2, GameCube, Xbox &nbsp;|&nbsp; **Developer:** Climax Brighton &nbsp;|&nbsp; **Publisher:** Acclaim Entertainment &nbsp;|&nbsp; **Genre:** Racing &nbsp;|&nbsp; **Released:** January 14, 2003
+
+[Wikipedia](https://en.wikipedia.org/wiki/ATV:_Quad_Power_Racing_2)
+
+---
+
+### Backyard Baseball 2005
+
+**Platforms:** GameCube, Windows &nbsp;|&nbsp; **Developer:** Humongous Entertainment &nbsp;|&nbsp; **Publisher:** Infogrames/Atari &nbsp;|&nbsp; **Genre:** Sports &nbsp;|&nbsp; **Released:** April 2, 2003
+
+[Wikipedia](https://en.wikipedia.org/wiki/Backyard_Baseball_2005)
 
 ---
 
@@ -1350,11 +1826,35 @@
 
 ---
 
+### Batman: Rise of Sin Tzu
+
+**Platforms:** Xbox, PlayStation 2, Game Boy Advance, GameCube &nbsp;|&nbsp; **Developer:** Ubi Soft Montreal &nbsp;|&nbsp; **Publisher:** Ubi Soft &nbsp;|&nbsp; **Genre:** Action, beat 'em up &nbsp;|&nbsp; **Released:** October 16, 2003
+
+[Wikipedia](https://en.wikipedia.org/wiki/Batman:_Rise_of_Sin_Tzu)
+
+---
+
 ### Beyond Good & Evil
 
 **Platforms:** Xbox, GameCube, PlayStation 2, Windows &nbsp;|&nbsp; **Publisher:** Ubisoft &nbsp;|&nbsp; **Released:** December 2, 2003
 
 [Wikipedia](https://en.wikipedia.org/wiki/Beyond_Good_%26_Evil_(video_game))
+
+---
+
+### Billy Hatcher and the Giant Egg
+
+**Platforms:** GameCube &nbsp;|&nbsp; **Developer:** Sonic Team &nbsp;|&nbsp; **Publisher:** Sega &nbsp;|&nbsp; **Genre:** Platform &nbsp;|&nbsp; **Released:** September 23, 2003
+
+[Wikipedia](https://en.wikipedia.org/wiki/Billy_Hatcher_and_the_Giant_Egg)
+
+---
+
+### Bionicle
+
+**Platforms:** GameCube, Game Boy Advance, PlayStation 2, Xbox, Windows &nbsp;|&nbsp; **Developer:** Argonaut Games, Argonaut Sheffield, Möbius Entertainment &nbsp;|&nbsp; **Publisher:** Electronic Arts, Lego Interactive, THQ, Feral Interactive &nbsp;|&nbsp; **Genre:** Platform &nbsp;|&nbsp; **Released:** September 9, 2003
+
+[Wikipedia](https://en.wikipedia.org/wiki/Bionicle_(video_game))
 
 ---
 
@@ -1379,6 +1879,14 @@
 **Platforms:** GameCube, Xbox &nbsp;|&nbsp; **Released:** November 26
 
 [Wikipedia](https://en.wikipedia.org/wiki/BlowOut)
+
+---
+
+### Bomberman Land 2
+
+**Platforms:** PlayStation 2, GameCube &nbsp;|&nbsp; **Developer:** Racjin &nbsp;|&nbsp; **Publisher:** Hudson Soft &nbsp;|&nbsp; **Genre:** Party &nbsp;|&nbsp; **Released:** July 17, 2003
+
+[Wikipedia](https://en.wikipedia.org/wiki/Bomberman_Land_2)
 
 ---
 
@@ -1410,9 +1918,81 @@
 
 ---
 
+### Cubix Robots for Everyone: Showdown
+
+**Platforms:** GameCube, PlayStation 2 &nbsp;|&nbsp; **Developer:** Blitz Games &nbsp;|&nbsp; **Publisher:** The 3DO Company &nbsp;|&nbsp; **Genre:** Action-adventure, role-playing &nbsp;|&nbsp; **Released:** June 2, 2003
+
+[Wikipedia](https://en.wikipedia.org/wiki/Cubix_Robots_for_Everyone:_Showdown)
+
+---
+
+### Dakar 2: The World's Ultimate Rally
+
+**Platforms:** PlayStation 2, GameCube, Xbox &nbsp;|&nbsp; **Developer:** Acclaim Studios Cheltenham &nbsp;|&nbsp; **Publisher:** Acclaim Entertainment &nbsp;|&nbsp; **Genre:** Racing &nbsp;|&nbsp; **Released:** March 14, 2003
+
+[Wikipedia](https://en.wikipedia.org/wiki/Dakar_2:_The_World's_Ultimate_Rally)
+
+---
+
+### Def Jam Vendetta
+
+**Platforms:** GameCube, PlayStation 2 &nbsp;|&nbsp; **Developer:** AKI Corporation, EA Canada &nbsp;|&nbsp; **Publisher:** EA Sports BIG, EA Games &nbsp;|&nbsp; **Genre:** Sports, fighting &nbsp;|&nbsp; **Released:** April 1, 2003
+
+[Wikipedia](https://en.wikipedia.org/wiki/Def_Jam_Vendetta)
+
+---
+
+### Disney's Extreme Skate Adventure
+
+**Platforms:** PlayStation 2, GameCube, Xbox, Game Boy Advance &nbsp;|&nbsp; **Developer:** Toys for Bob, Vicarious Visions &nbsp;|&nbsp; **Publisher:** Activision &nbsp;|&nbsp; **Genre:** Sports &nbsp;|&nbsp; **Released:** September 2, 2003
+
+[Wikipedia](https://en.wikipedia.org/wiki/Disney's_Extreme_Skate_Adventure)
+
+---
+
+### Disney's Hide and Sneak
+
+**Platforms:** GameCube &nbsp;|&nbsp; **Developer:** Capcom &nbsp;|&nbsp; **Publisher:** Capcom &nbsp;|&nbsp; **Genre:** Action-adventure &nbsp;|&nbsp; **Released:** November 18, 2003
+
+[Wikipedia](https://en.wikipedia.org/wiki/Disney's_Hide_and_Sneak)
+
+---
+
+### Dokapon DX: Wataru Sekai wa Oni Darake
+
+**Platforms:** GameCube &nbsp;|&nbsp; **Developer:** Asmik Ace Entertainment &nbsp;|&nbsp; **Publisher:** Asmik Ace Entertainment &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** April 10, 2003
+
+[Wikipedia](https://en.wikipedia.org/wiki/Dokapon_DX:_Wataru_Sekai_wa_Oni_Darake)
+
+---
+
+### Donkey Konga
+
+**Platforms:** GameCube &nbsp;|&nbsp; **Developer:** Namco &nbsp;|&nbsp; **Publisher:** Nintendo &nbsp;|&nbsp; **Genre:** Rhythm &nbsp;|&nbsp; **Released:** December 12, 2003
+
+[Wikipedia](https://en.wikipedia.org/wiki/Donkey_Konga)
+
+---
+
+### Downtown Run
+
+**Platforms:** Windows, GameCube, Mobile phone, PlayStation 2 &nbsp;|&nbsp; **Developer:** Ubi Soft Bucharest, Com2uS &nbsp;|&nbsp; **Publisher:** Ubi Soft, Com2uS &nbsp;|&nbsp; **Genre:** Racing, vehicular combat &nbsp;|&nbsp; **Released:** March 27, 2003
+
+[Wikipedia](https://en.wikipedia.org/wiki/Downtown_Run)
+
+---
+
 ### Dragon Ball Z: Budokai
 
 **Platforms:** GameCube &nbsp;|&nbsp; **Released:** October 28
+
+---
+
+### DreamMix TV World Fighters
+
+**Platforms:** GameCube, PlayStation 2 &nbsp;|&nbsp; **Developer:** Bitstep &nbsp;|&nbsp; **Publisher:** Hudson Soft &nbsp;|&nbsp; **Genre:** Fighting &nbsp;|&nbsp; **Released:** December 18, 2003
+
+[Wikipedia](https://en.wikipedia.org/wiki/DreamMix_TV_World_Fighters)
 
 ---
 
@@ -1429,6 +2009,22 @@
 **Platforms:** GameCube &nbsp;|&nbsp; **Publisher:** Nintendo &nbsp;|&nbsp; **Released:** July 25, 2003
 
 [Wikipedia](https://en.wikipedia.org/wiki/F-Zero_GX)
+
+---
+
+### F1 Career Challenge
+
+**Platforms:** GameCube, Windows, PlayStation 2, Xbox &nbsp;|&nbsp; **Developer:** Visual Science, Image Space Incorporated &nbsp;|&nbsp; **Publisher:** EA Sports &nbsp;|&nbsp; **Genre:** Racing &nbsp;|&nbsp; **Released:** June 23, 2003
+
+[Wikipedia](https://en.wikipedia.org/wiki/F1_Career_Challenge)
+
+---
+
+### FIFA Football 2004
+
+**Platforms:** Windows, PlayStation, PlayStation 2, GameCube, Xbox, Game Boy Advance, N-Gage &nbsp;|&nbsp; **Developer:** EA Canada, Exient Entertainment &nbsp;|&nbsp; **Publisher:** EA Sports &nbsp;|&nbsp; **Genre:** Sports &nbsp;|&nbsp; **Released:** October 24, 2003
+
+[Wikipedia](https://en.wikipedia.org/wiki/FIFA_Football_2004)
 
 ---
 
@@ -1462,11 +2058,51 @@
 
 ---
 
+### Freestyle MetalX
+
+**Platforms:** PlayStation 2, GameCube, Xbox &nbsp;|&nbsp; **Developer:** Deibus Studios &nbsp;|&nbsp; **Publisher:** Midway Sports Asylum &nbsp;|&nbsp; **Genre:** Sports &nbsp;|&nbsp; **Released:** June 24, 2003
+
+[Wikipedia](https://en.wikipedia.org/wiki/Freestyle_MetalX)
+
+---
+
+### Frogger's Adventures: The Rescue
+
+**Platforms:** GameCube, PlayStation 2, Windows &nbsp;|&nbsp; **Developer:** Hudson Soft &nbsp;|&nbsp; **Publisher:** Konami &nbsp;|&nbsp; **Genre:** Action-adventure &nbsp;|&nbsp; **Released:** October 28, 2003
+
+[Wikipedia](https://en.wikipedia.org/wiki/Frogger's_Adventures:_The_Rescue)
+
+---
+
+### Giftpia
+
+**Platforms:** GameCube &nbsp;|&nbsp; **Developer:** Skip Ltd. &nbsp;|&nbsp; **Publisher:** Nintendo &nbsp;|&nbsp; **Genre:** Adventure &nbsp;|&nbsp; **Released:** April 25, 2003
+
+[Wikipedia](https://en.wikipedia.org/wiki/Giftpia)
+
+---
+
+### Gladius
+
+**Platforms:** GameCube, PlayStation 2, Xbox &nbsp;|&nbsp; **Developer:** LucasArts &nbsp;|&nbsp; **Publisher:** LucasArts &nbsp;|&nbsp; **Genre:** Tactical role-playing &nbsp;|&nbsp; **Released:** October 28, 2003
+
+[Wikipedia](https://en.wikipedia.org/wiki/Gladius_(video_game))
+
+---
+
 ### Go! Go! Hypergrind
 
 **Platforms:** GameCube &nbsp;|&nbsp; **Released:** November 18
 
 [Wikipedia](https://en.wikipedia.org/wiki/Go!_Go!_Hypergrind)
+
+---
+
+### Goblin Commander: Unleash the Horde
+
+**Platforms:** PlayStation 2, Xbox, GameCube &nbsp;|&nbsp; **Developer:** Jaleco Entertainment &nbsp;|&nbsp; **Publisher:** Jaleco Entertainment &nbsp;|&nbsp; **Genre:** Action, real-time strategy &nbsp;|&nbsp; **Released:** November 11, 2003
+
+[Wikipedia](https://en.wikipedia.org/wiki/Goblin_Commander:_Unleash_the_Horde)
 
 ---
 
@@ -1478,9 +2114,49 @@
 
 ---
 
+### Grooverider: Slot Car Thunder
+
+**Platforms:** GameCube, Xbox &nbsp;|&nbsp; **Developer:** King of the Jungle &nbsp;|&nbsp; **Publisher:** Encore, Play It &nbsp;|&nbsp; **Genre:** Racing &nbsp;|&nbsp; **Released:** September 25, 2003
+
+[Wikipedia](https://en.wikipedia.org/wiki/Grooverider:_Slot_Car_Thunder)
+
+---
+
+### GT Cube
+
+**Platforms:** GameCube &nbsp;|&nbsp; **Developer:** MTO &nbsp;|&nbsp; **Publisher:** MTO &nbsp;|&nbsp; **Genre:** Racing &nbsp;|&nbsp; **Released:** June 20, 2003
+
+[Wikipedia](https://en.wikipedia.org/wiki/GT_Cube)
+
+---
+
+### Harry Potter and the Philosopher's Stone
+
+**Platforms:** GameCube, PlayStation 2, Xbox &nbsp;|&nbsp; **Developer:** Warthog Games &nbsp;|&nbsp; **Publisher:** Electronic Arts &nbsp;|&nbsp; **Genre:** Action-adventure &nbsp;|&nbsp; **Released:** December 12, 2003
+
+[Wikipedia](https://en.wikipedia.org/wiki/Harry_Potter_and_the_Philosopher's_Stone_(2003_video_game))
+
+---
+
 ### Harry Potter: Quidditch World Cup
 
 **Platforms:** Windows, GameCube, PlayStation 2, Xbox, Game Boy Advance &nbsp;|&nbsp; **Released:** October 28
+
+---
+
+### Harvest Moon: A Wonderful Life
+
+**Platforms:** GameCube &nbsp;|&nbsp; **Developer:** Marvelous Interactive &nbsp;|&nbsp; **Publisher:** Marvelous Interactive, Natsume Inc., 505 Game Street, Marvelous &nbsp;|&nbsp; **Genre:** Simulation, role-playing &nbsp;|&nbsp; **Released:** September 12, 2003
+
+[Wikipedia](https://en.wikipedia.org/wiki/Harvest_Moon:_A_Wonderful_Life)
+
+---
+
+### Hot Wheels: World Race
+
+**Platforms:** PlayStation 2, GameCube, Windows, Game Boy Advance &nbsp;|&nbsp; **Developer:** Climax Brighton &nbsp;|&nbsp; **Publisher:** THQ &nbsp;|&nbsp; **Genre:** Racing &nbsp;|&nbsp; **Released:** October 28, 2003
+
+[Wikipedia](https://en.wikipedia.org/wiki/Hot_Wheels:_World_Race_(video_game))
 
 ---
 
@@ -1492,11 +2168,27 @@
 
 ---
 
+### I-Ninja
+
+**Platforms:** PlayStation 2, GameCube, Xbox &nbsp;|&nbsp; **Developer:** Argonaut Games &nbsp;|&nbsp; **Publisher:** Namco Hometek, Sony Computer Entertainment, Zoo Digital Publishing &nbsp;|&nbsp; **Genre:** Platform &nbsp;|&nbsp; **Released:** November 18, 2003
+
+[Wikipedia](https://en.wikipedia.org/wiki/I-Ninja)
+
+---
+
 ### Ikaruga
 
 **Platforms:** GameCube &nbsp;|&nbsp; **Released:** April 15
 
 [Wikipedia](https://en.wikipedia.org/wiki/Ikaruga)
+
+---
+
+### International Superstar Soccer 3
+
+**Platforms:** PlayStation 2, GameCube, Windows &nbsp;|&nbsp; **Developer:** KCEO &nbsp;|&nbsp; **Publisher:** Konami &nbsp;|&nbsp; **Genre:** Sports &nbsp;|&nbsp; **Released:** March 28, 2003
+
+[Wikipedia](https://en.wikipedia.org/wiki/International_Superstar_Soccer_3)
 
 ---
 
@@ -1514,11 +2206,35 @@
 
 ---
 
+### Kao the Kangaroo: Round 2
+
+**Platforms:** Windows, GameCube, PlayStation 2, Xbox &nbsp;|&nbsp; **Developer:** Tate Interactive &nbsp;|&nbsp; **Publisher:** Cenega, JoWooD Productions, Atari &nbsp;|&nbsp; **Genre:** Action-adventure, platform &nbsp;|&nbsp; **Released:** November 4, 2003
+
+[Wikipedia](https://en.wikipedia.org/wiki/Kao_the_Kangaroo:_Round_2)
+
+---
+
+### Karaoke Revolution
+
+**Platforms:** PlayStation 2, Xbox, GameCube &nbsp;|&nbsp; **Developer:** Harmonix, Secret Level, Inc., Blitz Games, Hijinx Studios &nbsp;|&nbsp; **Publisher:** Konami &nbsp;|&nbsp; **Genre:** Rhythm
+
+[Wikipedia](https://en.wikipedia.org/wiki/Karaoke_Revolution)
+
+---
+
 ### Kirby Air Ride
 
 **Platforms:** GameCube &nbsp;|&nbsp; **Released:** October 13
 
 [Wikipedia](https://en.wikipedia.org/wiki/Kirby_Air_Ride)
+
+---
+
+### Lost Kingdoms II
+
+**Platforms:** GameCube &nbsp;|&nbsp; **Developer:** FromSoftware &nbsp;|&nbsp; **Publisher:** Activision, FromSoftware &nbsp;|&nbsp; **Genre:** Action role-playing &nbsp;|&nbsp; **Released:** May 22, 2003
+
+[Wikipedia](https://en.wikipedia.org/wiki/Lost_Kingdoms_II)
 
 ---
 
@@ -1578,11 +2294,43 @@
 
 ---
 
+### Midway Arcade Treasures
+
+**Platforms:** PlayStation 2, Xbox, GameCube &nbsp;|&nbsp; **Developer:** Digital Eclipse &nbsp;|&nbsp; **Publisher:** Midway &nbsp;|&nbsp; **Genre:** Various &nbsp;|&nbsp; **Released:** November 18, 2003
+
+[Wikipedia](https://en.wikipedia.org/wiki/Midway_Arcade_Treasures)
+
+---
+
+### MLB Slugfest 2004
+
+**Platforms:** GameCube, PlayStation 2, Xbox, Game Boy Advance &nbsp;|&nbsp; **Developer:** Point of View, Criterion Games, Handheld Games &nbsp;|&nbsp; **Publisher:** Midway Sports &nbsp;|&nbsp; **Genre:** Sports &nbsp;|&nbsp; **Released:** March 17, 2003
+
+[Wikipedia](https://en.wikipedia.org/wiki/MLB_Slugfest_2004)
+
+---
+
 ### Muppets Party Cruise
 
 **Platforms:** GameCube, PlayStation 2 &nbsp;|&nbsp; **Released:** November 11
 
 [Wikipedia](https://en.wikipedia.org/wiki/Muppets_Party_Cruise)
+
+---
+
+### Naruto: Clash of Ninja
+
+**Platforms:** GameCube &nbsp;|&nbsp; **Developer:** Eighting &nbsp;|&nbsp; **Publisher:** Tomy &nbsp;|&nbsp; **Genre:** Fighting &nbsp;|&nbsp; **Released:** April 11, 2003
+
+[Wikipedia](https://en.wikipedia.org/wiki/Naruto:_Clash_of_Ninja_(video_game))
+
+---
+
+### NBA Live 2004
+
+**Platforms:** PlayStation 2, Xbox, GameCube, Windows &nbsp;|&nbsp; **Developer:** EA Canada &nbsp;|&nbsp; **Publisher:** Electronic Arts &nbsp;|&nbsp; **Genre:** Sports &nbsp;|&nbsp; **Released:** October 14, 2003
+
+[Wikipedia](https://en.wikipedia.org/wiki/NBA_Live_2004)
 
 ---
 
@@ -1608,11 +2356,35 @@
 
 ---
 
+### NFL Blitz Pro
+
+**Platforms:** PlayStation 2, Xbox, GameCube &nbsp;|&nbsp; **Developer:** Midway Games &nbsp;|&nbsp; **Publisher:** Midway Sports &nbsp;|&nbsp; **Genre:** Sports &nbsp;|&nbsp; **Released:** October 27, 2003
+
+[Wikipedia](https://en.wikipedia.org/wiki/NFL_Blitz_Pro)
+
+---
+
 ### NHL 2004
 
 **Platforms:** Windows, GameCube, PlayStation 2, Xbox &nbsp;|&nbsp; **Released:** September 22
 
 [Wikipedia](https://en.wikipedia.org/wiki/NHL_2004)
+
+---
+
+### NHL Hitz Pro
+
+**Platforms:** GameCube, Xbox, PlayStation 2 &nbsp;|&nbsp; **Developer:** Next Level Games &nbsp;|&nbsp; **Publisher:** Midway Sports &nbsp;|&nbsp; **Genre:** Sports &nbsp;|&nbsp; **Released:** September 25, 2003
+
+[Wikipedia](https://en.wikipedia.org/wiki/NHL_Hitz_Pro)
+
+---
+
+### Nintendo Puzzle Collection
+
+**Platforms:** GameCube &nbsp;|&nbsp; **Developer:** Intelligent Systems &nbsp;|&nbsp; **Publisher:** Nintendo &nbsp;|&nbsp; **Genre:** Puzzle &nbsp;|&nbsp; **Released:** February 7, 2003
+
+[Wikipedia](https://en.wikipedia.org/wiki/Nintendo_Puzzle_Collection)
 
 ---
 
@@ -1632,6 +2404,30 @@
 
 ---
 
+### Phantasy Star Online Episode III: C.A.R.D. Revolution
+
+**Platforms:** GameCube &nbsp;|&nbsp; **Developer:** Sonic Team &nbsp;|&nbsp; **Publisher:** Sega &nbsp;|&nbsp; **Genre:** Role-playing &nbsp;|&nbsp; **Released:** November 27, 2003
+
+[Wikipedia](https://en.wikipedia.org/wiki/Phantasy_Star_Online_Episode_III:_C.A.R.D._Revolution)
+
+---
+
+### Pokémon Channel
+
+**Platforms:** GameCube &nbsp;|&nbsp; **Developer:** Ambrella &nbsp;|&nbsp; **Publisher:** The Pokémon Company, Nintendo &nbsp;|&nbsp; **Genre:** Adventure, virtual pet, simulation &nbsp;|&nbsp; **Released:** July 18, 2003
+
+[Wikipedia](https://en.wikipedia.org/wiki/Pok%C3%A9mon_Channel)
+
+---
+
+### Pokémon Colosseum
+
+**Platforms:** GameCube &nbsp;|&nbsp; **Developer:** Genius Sonority &nbsp;|&nbsp; **Publisher:** The Pokémon Company, Nintendo &nbsp;|&nbsp; **Genre:** Role-playing &nbsp;|&nbsp; **Released:** November 21, 2003
+
+[Wikipedia](https://en.wikipedia.org/wiki/Pok%C3%A9mon_Colosseum)
+
+---
+
 ### Prince of Persia: The Sands of Time
 
 <img src="../images/steam-13600.jpg" alt="Prince of Persia: The Sands of Time cover" width="200">
@@ -1646,9 +2442,41 @@
 
 ---
 
+### R: Racing Evolution
+
+**Platforms:** GameCube, PlayStation 2, Xbox &nbsp;|&nbsp; **Developer:** Namco &nbsp;|&nbsp; **Publisher:** Namco, Namco Hometek, Electronic Arts &nbsp;|&nbsp; **Genre:** Sim racing &nbsp;|&nbsp; **Released:** November 27, 2003
+
+[Wikipedia](https://en.wikipedia.org/wiki/R:_Racing_Evolution)
+
+---
+
 ### Rayman 3: Hoodlum Havoc
 
 **Platforms:** GameCube, Game Boy Advance, PlayStation 2, Xbox, Windows &nbsp;|&nbsp; **Released:** February 21
+
+---
+
+### Rei Fighter Gekitsui Senki
+
+**Platforms:** GameCube &nbsp;|&nbsp; **Developer:** Global A Entertainment &nbsp;|&nbsp; **Publisher:** Global A Entertainment &nbsp;|&nbsp; **Genre:** Combat flight simulation &nbsp;|&nbsp; **Released:** March 6, 2003
+
+[Wikipedia](https://en.wikipedia.org/wiki/Rei_Fighter_Gekitsui_Senki)
+
+---
+
+### RoadKill
+
+**Platforms:** Xbox, PlayStation 2, GameCube &nbsp;|&nbsp; **Developer:** Terminal Reality &nbsp;|&nbsp; **Publisher:** Midway &nbsp;|&nbsp; **Genre:** Vehicular combat &nbsp;|&nbsp; **Released:** October 13, 2003
+
+[Wikipedia](https://en.wikipedia.org/wiki/RoadKill_(video_game))
+
+---
+
+### Rogue Ops
+
+**Platforms:** GameCube, PlayStation 2, Xbox &nbsp;|&nbsp; **Developer:** Bits Studios &nbsp;|&nbsp; **Publisher:** Kemco &nbsp;|&nbsp; **Genre:** Stealth &nbsp;|&nbsp; **Released:** October 28, 2003
+
+[Wikipedia](https://en.wikipedia.org/wiki/Rogue_Ops)
 
 ---
 
@@ -1676,6 +2504,22 @@
 
 ---
 
+### Spawn: Armageddon
+
+**Platforms:** PlayStation 2, GameCube, Xbox &nbsp;|&nbsp; **Developer:** Point of View &nbsp;|&nbsp; **Publisher:** Namco Hometek, Electronic Arts, Namco &nbsp;|&nbsp; **Genre:** Action-adventure, hack and slash &nbsp;|&nbsp; **Released:** November 21, 2003
+
+[Wikipedia](https://en.wikipedia.org/wiki/Spawn:_Armageddon)
+
+---
+
+### Speed Kings
+
+**Platforms:** GameCube, PlayStation 2, Xbox &nbsp;|&nbsp; **Developer:** Climax London &nbsp;|&nbsp; **Publisher:** Acclaim Entertainment &nbsp;|&nbsp; **Genre:** Racing &nbsp;|&nbsp; **Released:** May 28, 2003
+
+[Wikipedia](https://en.wikipedia.org/wiki/Speed_Kings)
+
+---
+
 ### Sphinx and the Cursed Mummy
 
 **Platforms:** GameCube, PlayStation 2, Xbox &nbsp;|&nbsp; **Released:** November 10
@@ -1698,11 +2542,27 @@
 
 ---
 
+### Star Wars Rogue Squadron III: Rebel Strike
+
+**Platforms:** GameCube &nbsp;|&nbsp; **Developer:** Factor 5 &nbsp;|&nbsp; **Publisher:** LucasArts &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** October 21, 2003
+
+[Wikipedia](https://en.wikipedia.org/wiki/Star_Wars_Rogue_Squadron_III:_Rebel_Strike)
+
+---
+
 ### Super Bubble Pop
 
 **Platforms:** GameCube, Game Boy Advance &nbsp;|&nbsp; **Released:** January 3
 
 [Wikipedia](https://en.wikipedia.org/wiki/Super_Bubble_Pop)
+
+---
+
+### SX Superstar
+
+**Platforms:** GameCube, PlayStation 2, Xbox &nbsp;|&nbsp; **Developer:** Climax Solent &nbsp;|&nbsp; **Publisher:** Acclaim Entertainment &nbsp;|&nbsp; **Genre:** Racing &nbsp;|&nbsp; **Released:** June 30, 2003
+
+[Wikipedia](https://en.wikipedia.org/wiki/SX_Superstar)
 
 ---
 
@@ -1818,6 +2678,22 @@
 
 ---
 
+### Tube Slider
+
+**Platforms:** GameCube &nbsp;|&nbsp; **Developer:** NDcube &nbsp;|&nbsp; **Publisher:** NEC Interchannel &nbsp;|&nbsp; **Genre:** Racing &nbsp;|&nbsp; **Released:** April 15, 2003
+
+[Wikipedia](https://en.wikipedia.org/wiki/Tube_Slider)
+
+---
+
+### Vexx
+
+**Platforms:** GameCube, PlayStation 2, Xbox &nbsp;|&nbsp; **Developer:** Acclaim Studios Austin &nbsp;|&nbsp; **Publisher:** Acclaim Entertainment &nbsp;|&nbsp; **Genre:** Platform, action-adventure &nbsp;|&nbsp; **Released:** February 11, 2003
+
+[Wikipedia](https://en.wikipedia.org/wiki/Vexx)
+
+---
+
 ### Viewtiful Joe
 
 **Platforms:** GameCube &nbsp;|&nbsp; **Publisher:** Capcom &nbsp;|&nbsp; **Released:** June 26, 2003
@@ -1826,11 +2702,43 @@
 
 ---
 
+### Wallace & Gromit in Project Zoo
+
+**Platforms:** GameCube, PlayStation 2, Xbox, Windows &nbsp;|&nbsp; **Developer:** Frontier Developments &nbsp;|&nbsp; **Publisher:** BAM! Entertainment &nbsp;|&nbsp; **Genre:** Platform &nbsp;|&nbsp; **Released:** October 3, 2003
+
+[Wikipedia](https://en.wikipedia.org/wiki/Wallace_&_Gromit_in_Project_Zoo)
+
+---
+
 ### Wario World
 
 **Platforms:** GameCube &nbsp;|&nbsp; **Released:** June 24
 
 [Wikipedia](https://en.wikipedia.org/wiki/Wario_World)
+
+---
+
+### WarioWare, Inc.: Mega Party Games!
+
+**Platforms:** GameCube &nbsp;|&nbsp; **Developer:** Nintendo R&D1, Intelligent Systems &nbsp;|&nbsp; **Publisher:** Nintendo &nbsp;|&nbsp; **Genre:** Party game &nbsp;|&nbsp; **Released:** October 17, 2003
+
+[Wikipedia](https://en.wikipedia.org/wiki/WarioWare,_Inc.:_Mega_Party_Games!)
+
+---
+
+### World Championship Pool 2004
+
+**Platforms:** PlayStation 2, Xbox, Windows, GameCube &nbsp;|&nbsp; **Developer:** Blade Interactive &nbsp;|&nbsp; **Publisher:** Jaleco &nbsp;|&nbsp; **Genre:** Sports simulation &nbsp;|&nbsp; **Released:** December 8, 2003
+
+[Wikipedia](https://en.wikipedia.org/wiki/World_Championship_Pool_2004)
+
+---
+
+### Worms 3D
+
+**Platforms:** GameCube, Windows, PlayStation 2, Xbox &nbsp;|&nbsp; **Developer:** Team17 &nbsp;|&nbsp; **Publisher:** Sega, Acclaim Entertainment, Feral Interactive &nbsp;|&nbsp; **Genre:** Artillery, strategy &nbsp;|&nbsp; **Released:** October 31, 2003
+
+[Wikipedia](https://en.wikipedia.org/wiki/Worms_3D)
 
 ---
 
@@ -1847,6 +2755,22 @@
 **Platforms:** GameCube &nbsp;|&nbsp; **Released:** September 8
 
 [Wikipedia](https://en.wikipedia.org/wiki/WWE_WrestleMania_XIX_(video_game))
+
+---
+
+### X2: Wolverine's Revenge
+
+**Platforms:** PlayStation 2, GameCube, Xbox, Windows, Game Boy Advance, macOS &nbsp;|&nbsp; **Developer:** GenePool Software, Warthog Games, Vicarious Visions, LTI Gray Matter &nbsp;|&nbsp; **Publisher:** Activision, Aspyr &nbsp;|&nbsp; **Genre:** Action, Beat'em up &nbsp;|&nbsp; **Released:** April 15, 2003
+
+[Wikipedia](https://en.wikipedia.org/wiki/X2:_Wolverine's_Revenge)
+
+---
+
+### XGRA: Extreme-G Racing Association
+
+**Platforms:** PlayStation 2, Xbox, GameCube &nbsp;|&nbsp; **Developer:** Acclaim Studios Cheltenham &nbsp;|&nbsp; **Publisher:** Acclaim Entertainment &nbsp;|&nbsp; **Genre:** Racing &nbsp;|&nbsp; **Released:** September 10, 2003
+
+[Wikipedia](https://en.wikipedia.org/wiki/XGRA:_Extreme-G_Racing_Association)
 
 ---
 
@@ -1920,6 +2844,22 @@
 
 ---
 
+### Beyblade: Super Tournament Battle
+
+**Platforms:** GameCube &nbsp;|&nbsp; **Developer:** A.I. &nbsp;|&nbsp; **Publisher:** Takara, Atari Interactive &nbsp;|&nbsp; **Genre:** Action role-playing &nbsp;|&nbsp; **Released:** December 19, 2002
+
+[Wikipedia](https://en.wikipedia.org/wiki/Beyblade:_Super_Tournament_Battle)
+
+---
+
+### Big Air Freestyle
+
+**Platforms:** GameCube &nbsp;|&nbsp; **Developer:** Paradigm Entertainment &nbsp;|&nbsp; **Publisher:** Infogrames &nbsp;|&nbsp; **Genre:** Racing &nbsp;|&nbsp; **Released:** September 13, 2002
+
+[Wikipedia](https://en.wikipedia.org/wiki/Big_Air_Freestyle)
+
+---
+
 ### Bloody Roar 3
 
 **Platforms:** GameCube &nbsp;|&nbsp; **Released:** March 19
@@ -1928,11 +2868,35 @@
 
 ---
 
+### Bloody Roar Extreme
+
+**Platforms:** GameCube &nbsp;|&nbsp; **Developer:** Eighting &nbsp;|&nbsp; **Publisher:** Hudson Soft, Activision, Konami &nbsp;|&nbsp; **Genre:** Fighting &nbsp;|&nbsp; **Released:** March 19, 2002
+
+[Wikipedia](https://en.wikipedia.org/wiki/Bloody_Roar_Extreme)
+
+---
+
 ### BMX XXX
 
 **Platforms:** PlayStation 2, GameCube &nbsp;|&nbsp; **Released:** November 16
 
 [Wikipedia](https://en.wikipedia.org/wiki/BMX_XXX)
+
+---
+
+### Bomberman Generation
+
+**Platforms:** GameCube &nbsp;|&nbsp; **Developer:** Game Arts &nbsp;|&nbsp; **Publisher:** Majesco, Hudson Soft, Vivendi Universal Games &nbsp;|&nbsp; **Genre:** Action-adventure &nbsp;|&nbsp; **Released:** June 4, 2002
+
+[Wikipedia](https://en.wikipedia.org/wiki/Bomberman_Generation)
+
+---
+
+### Bomberman Jetters
+
+**Platforms:** PlayStation 2, GameCube &nbsp;|&nbsp; **Developer:** Hudson Soft, AI &nbsp;|&nbsp; **Publisher:** Hudson Soft, Majesco &nbsp;|&nbsp; **Genre:** Action-adventure &nbsp;|&nbsp; **Released:** December 19, 2002
+
+[Wikipedia](https://en.wikipedia.org/wiki/Bomberman_Jetters_(video_game))
 
 ---
 
@@ -1948,11 +2912,91 @@
 
 ---
 
+### Cubivore: Survival of the Fittest
+
+**Platforms:** GameCube &nbsp;|&nbsp; **Developer:** Saru Brunei, Intelligent Systems &nbsp;|&nbsp; **Publisher:** Nintendo, Atlus USA &nbsp;|&nbsp; **Genre:** Action-adventure &nbsp;|&nbsp; **Released:** February 21, 2002
+
+[Wikipedia](https://en.wikipedia.org/wiki/Cubivore:_Survival_of_the_Fittest)
+
+---
+
+### Darkened Skye
+
+**Platforms:** Windows, GameCube &nbsp;|&nbsp; **Developer:** Boston Animation &nbsp;|&nbsp; **Publisher:** Simon & Schuster Interactive, Oxygen Interactive, TDK Mediactive Europe &nbsp;|&nbsp; **Genre:** Third-person shooter, action-adventure &nbsp;|&nbsp; **Released:** January 28, 2002
+
+[Wikipedia](https://en.wikipedia.org/wiki/Darkened_Skye)
+
+---
+
+### Die Hard: Vendetta
+
+**Platforms:** GameCube &nbsp;|&nbsp; **Developer:** Bits Studios &nbsp;|&nbsp; **Publisher:** Vivendi Universal Games, Fox Interactive &nbsp;|&nbsp; **Genre:** First-person shooter &nbsp;|&nbsp; **Released:** November 15, 2002
+
+[Wikipedia](https://en.wikipedia.org/wiki/Die_Hard:_Vendetta)
+
+---
+
+### Disney Sports Basketball
+
+**Platforms:** Game Boy Advance, GameCube &nbsp;|&nbsp; **Developer:** Konami Computer Entertainment Osaka, Polygon Magic &nbsp;|&nbsp; **Publisher:** Konami &nbsp;|&nbsp; **Genre:** Sports &nbsp;|&nbsp; **Released:** November 25, 2002
+
+[Wikipedia](https://en.wikipedia.org/wiki/Disney_Sports_Basketball)
+
+---
+
+### Disney Sports Football
+
+**Platforms:** Game Boy Advance, GameCube &nbsp;|&nbsp; **Developer:** Konami Computer Entertainment Osaka &nbsp;|&nbsp; **Publisher:** Konami &nbsp;|&nbsp; **Genre:** Sports &nbsp;|&nbsp; **Released:** July 25, 2002
+
+[Wikipedia](https://en.wikipedia.org/wiki/Disney_Sports_Football)
+
+---
+
+### Disney Sports Soccer
+
+**Platforms:** Game Boy Advance, GameCube &nbsp;|&nbsp; **Developer:** Konami Computer Entertainment Osaka &nbsp;|&nbsp; **Publisher:** Konami &nbsp;|&nbsp; **Genre:** Sports &nbsp;|&nbsp; **Released:** July 18, 2002
+
+[Wikipedia](https://en.wikipedia.org/wiki/Disney_Sports_Soccer)
+
+---
+
+### Disney's Magical Mirror Starring Mickey Mouse
+
+**Platforms:** GameCube &nbsp;|&nbsp; **Developer:** Capcom &nbsp;|&nbsp; **Publisher:** Nintendo &nbsp;|&nbsp; **Genre:** Adventure &nbsp;|&nbsp; **Released:** August 9, 2002
+
+[Wikipedia](https://en.wikipedia.org/wiki/Disney's_Magical_Mirror_Starring_Mickey_Mouse)
+
+---
+
+### Disney's Party
+
+**Platforms:** GameCube &nbsp;|&nbsp; **Developer:** Neverland, Jupiter Corporation &nbsp;|&nbsp; **Publisher:** Hudson Soft, Tomy, Electronic Arts &nbsp;|&nbsp; **Genre:** Party &nbsp;|&nbsp; **Released:** August 1, 2002
+
+[Wikipedia](https://en.wikipedia.org/wiki/Disney's_Party)
+
+---
+
+### Egg Mania: Eggstreme Madness
+
+**Platforms:** PlayStation 2, Xbox, GameCube, Game Boy Advance &nbsp;|&nbsp; **Developer:** HotGen &nbsp;|&nbsp; **Publisher:** Kemco &nbsp;|&nbsp; **Genre:** Puzzle &nbsp;|&nbsp; **Released:** September 11, 2002
+
+[Wikipedia](https://en.wikipedia.org/wiki/Egg_Mania:_Eggstreme_Madness)
+
+---
+
 ### Eternal Darkness
 
 **Platforms:** GameCube &nbsp;|&nbsp; **Publisher:** Nintendo &nbsp;|&nbsp; **Released:** June 23, 2002
 
 [Wikipedia](https://en.wikipedia.org/wiki/Eternal_Darkness)
+
+---
+
+### Evolution Worlds
+
+**Platforms:** GameCube &nbsp;|&nbsp; **Developer:** Sting Entertainment &nbsp;|&nbsp; **Publisher:** Entertainment Software Publishing, Ubi Soft &nbsp;|&nbsp; **Genre:** Role-playing &nbsp;|&nbsp; **Released:** July 26, 2002
+
+[Wikipedia](https://en.wikipedia.org/wiki/Evolution_Worlds)
 
 ---
 
@@ -1978,6 +3022,38 @@
 
 ---
 
+### Home Run King
+
+**Platforms:** GameCube &nbsp;|&nbsp; **Developer:** WOW Entertainment &nbsp;|&nbsp; **Publisher:** Sega &nbsp;|&nbsp; **Genre:** Sports &nbsp;|&nbsp; **Released:** March 19, 2002
+
+[Wikipedia](https://en.wikipedia.org/wiki/Home_Run_King)
+
+---
+
+### Hunter: The Reckoning
+
+**Platforms:** Xbox, GameCube &nbsp;|&nbsp; **Developer:** High Voltage Software &nbsp;|&nbsp; **Publisher:** Interplay Entertainment &nbsp;|&nbsp; **Genre:** Hack and slash, third-person shooter &nbsp;|&nbsp; **Released:** May 21, 2002
+
+[Wikipedia](https://en.wikipedia.org/wiki/Hunter:_The_Reckoning_(video_game))
+
+---
+
+### International Superstar Soccer 2
+
+**Platforms:** GameCube, Xbox, PlayStation 2 &nbsp;|&nbsp; **Developer:** Konami &nbsp;|&nbsp; **Publisher:** Konami &nbsp;|&nbsp; **Genre:** Sports &nbsp;|&nbsp; **Released:** March 14, 2002
+
+[Wikipedia](https://en.wikipedia.org/wiki/International_Superstar_Soccer_2)
+
+---
+
+### James Bond 007: Nightfire
+
+**Platforms:** GameCube, PlayStation 2, Xbox, Windows &nbsp;|&nbsp; **Developer:** Eurocom, Gearbox Software, JV Games &nbsp;|&nbsp; **Publisher:** Electronic Arts &nbsp;|&nbsp; **Genre:** First-person shooter &nbsp;|&nbsp; **Released:** November 19, 2002
+
+[Wikipedia](https://en.wikipedia.org/wiki/James_Bond_007:_Nightfire)
+
+---
+
 ### Lost Kingdoms
 
 **Platforms:** GameCube &nbsp;|&nbsp; **Released:** May 27
@@ -1999,6 +3075,14 @@
 **Platforms:** GameCube &nbsp;|&nbsp; **Released:** October 21
 
 [Wikipedia](https://en.wikipedia.org/wiki/Mario_Party_4)
+
+---
+
+### Mary-Kate and Ashley: Sweet 16 – Licensed to Drive
+
+**Platforms:** Game Boy Advance, GameCube, PlayStation 2 &nbsp;|&nbsp; **Developer:** n-Space, Powerhead Games &nbsp;|&nbsp; **Publisher:** Acclaim Entertainment &nbsp;|&nbsp; **Genre:** Party &nbsp;|&nbsp; **Released:** October 2002
+
+[Wikipedia](https://en.wikipedia.org/wiki/Mary-Kate_and_Ashley:_Sweet_16_%E2%80%93_Licensed_to_Drive)
 
 ---
 
@@ -2036,6 +3120,22 @@
 
 ---
 
+### Mr. Driller Drill Land
+
+**Platforms:** GameCube &nbsp;|&nbsp; **Developer:** Namco &nbsp;|&nbsp; **Publisher:** Namco, Bandai Namco Entertainment &nbsp;|&nbsp; **Genre:** Puzzle &nbsp;|&nbsp; **Released:** December 20, 2002
+
+[Wikipedia](https://en.wikipedia.org/wiki/Mr._Driller_Drill_Land)
+
+---
+
+### Mutsu to Nohohon
+
+**Platforms:** GameCube &nbsp;|&nbsp; **Developer:** Tomy &nbsp;|&nbsp; **Publisher:** Tomy &nbsp;|&nbsp; **Genre:** Simulation &nbsp;|&nbsp; **Released:** July 19, 2002
+
+[Wikipedia](https://en.wikipedia.org/wiki/Mutsu_to_Nohohon)
+
+---
+
 ### Mystic Heroes
 
 **Platforms:** GameCube &nbsp;|&nbsp; **Released:** September 30
@@ -2049,6 +3149,14 @@
 **Platforms:** PlayStation, PlayStation 2, Xbox, GameCube &nbsp;|&nbsp; **Released:** September 18
 
 [Wikipedia](https://en.wikipedia.org/wiki/NASCAR_Thunder_2003)
+
+---
+
+### NASCAR: Dirt to Daytona
+
+**Platforms:** PlayStation 2, GameCube &nbsp;|&nbsp; **Developer:** Monster Games &nbsp;|&nbsp; **Publisher:** Infogrames &nbsp;|&nbsp; **Genre:** Sim racing &nbsp;|&nbsp; **Released:** November 12, 2002
+
+[Wikipedia](https://en.wikipedia.org/wiki/NASCAR:_Dirt_to_Daytona)
 
 ---
 
@@ -2073,6 +3181,22 @@
 **Platforms:** GameCube &nbsp;|&nbsp; **Publisher:** EA Sports &nbsp;|&nbsp; **Released:** February 5, 2002
 
 [Wikipedia](https://en.wikipedia.org/wiki/NBA_Street)
+
+---
+
+### NCAA College Basketball 2K3
+
+**Platforms:** PlayStation 2, GameCube, Xbox &nbsp;|&nbsp; **Developer:** Kush Games, Visual Concepts &nbsp;|&nbsp; **Publisher:** Sega &nbsp;|&nbsp; **Genre:** Sports &nbsp;|&nbsp; **Released:** December 3, 2002
+
+[Wikipedia](https://en.wikipedia.org/wiki/NCAA_College_Basketball_2K3)
+
+---
+
+### NCAA College Football 2K3
+
+**Platforms:** GameCube, PlayStation 2, Xbox &nbsp;|&nbsp; **Developer:** Visual Concepts, Avalanche Software &nbsp;|&nbsp; **Publisher:** Sega of America &nbsp;|&nbsp; **Genre:** Sports football &nbsp;|&nbsp; **Released:** August 6, 2002
+
+[Wikipedia](https://en.wikipedia.org/wiki/NCAA_College_Football_2K3)
 
 ---
 
@@ -2106,6 +3230,14 @@
 
 ---
 
+### Pac-Man Fever
+
+**Platforms:** GameCube, PlayStation 2 &nbsp;|&nbsp; **Developer:** Mass Media Inc. &nbsp;|&nbsp; **Publisher:** Namco Hometek &nbsp;|&nbsp; **Genre:** Party &nbsp;|&nbsp; **Released:** September 3, 2002
+
+[Wikipedia](https://en.wikipedia.org/wiki/Pac-Man_Fever_(video_game))
+
+---
+
 ### Pac-Man World 2
 
 **Platforms:** PlayStation 2, GameCube, Xbox &nbsp;|&nbsp; **Released:** February 26
@@ -2119,6 +3251,22 @@
 **Platforms:** GameCube &nbsp;|&nbsp; **Released:** October 29
 
 [Wikipedia](https://en.wikipedia.org/wiki/Phantasy_Star_Online_Episode_I_%26_II)
+
+---
+
+### PK: Out of the Shadows
+
+**Platforms:** GameCube, PlayStation 2 &nbsp;|&nbsp; **Developer:** Ubi Soft Casablanca &nbsp;|&nbsp; **Publisher:** Ubi Soft &nbsp;|&nbsp; **Genre:** Action-adventure, platformer &nbsp;|&nbsp; **Released:** October 4, 2002
+
+[Wikipedia](https://en.wikipedia.org/wiki/PK:_Out_of_the_Shadows)
+
+---
+
+### Pro Rally 2002
+
+**Platforms:** PlayStation 2, GameCube &nbsp;|&nbsp; **Developer:** Ubi Soft Barcelona &nbsp;|&nbsp; **Publisher:** Ubi Soft &nbsp;|&nbsp; **Genre:** Racing &nbsp;|&nbsp; **Released:** March 28, 2002
+
+[Wikipedia](https://en.wikipedia.org/wiki/Pro_Rally_2002)
 
 ---
 
@@ -2154,9 +3302,33 @@
 
 ---
 
+### Resident Evil Zero
+
+**Platforms:** GameCube &nbsp;|&nbsp; **Developer:** Capcom Production Studio 3 &nbsp;|&nbsp; **Publisher:** Capcom &nbsp;|&nbsp; **Genre:** Survival horror &nbsp;|&nbsp; **Released:** November 12, 2002
+
+[Wikipedia](https://en.wikipedia.org/wiki/Resident_Evil_Zero)
+
+---
+
+### Road Trip: The Arcade Edition
+
+**Platforms:** GameCube &nbsp;|&nbsp; **Developer:** Hudson Soft &nbsp;|&nbsp; **Publisher:** Takara, Zoo Digital Publishing, Conspiracy Entertainment &nbsp;|&nbsp; **Genre:** Racing &nbsp;|&nbsp; **Released:** December 19, 2002
+
+[Wikipedia](https://en.wikipedia.org/wiki/Road_Trip:_The_Arcade_Edition)
+
+---
+
 ### Rocket Power: Beach Bandits
 
 **Platforms:** PlayStation 2, GameCube &nbsp;|&nbsp; **Released:** September 20
+
+---
+
+### Rugrats: Royal Ransom
+
+**Platforms:** PlayStation 2, GameCube &nbsp;|&nbsp; **Developer:** Avalanche Software &nbsp;|&nbsp; **Publisher:** THQ &nbsp;|&nbsp; **Genre:** Action-adventure, platformer &nbsp;|&nbsp; **Released:** November 26, 2002
+
+[Wikipedia](https://en.wikipedia.org/wiki/Rugrats:_Royal_Ransom)
 
 ---
 
@@ -2179,6 +3351,22 @@
 **Platforms:** GameCube &nbsp;|&nbsp; **Released:** November 10
 
 [Wikipedia](https://en.wikipedia.org/wiki/Sonic_Mega_Collection)
+
+---
+
+### Speed Challenge: Jacques Villeneuve's Racing Vision
+
+**Platforms:** Windows, PlayStation 2, GameCube &nbsp;|&nbsp; **Developer:** Ubi Soft &nbsp;|&nbsp; **Publisher:** Ubi Soft &nbsp;|&nbsp; **Genre:** Racing &nbsp;|&nbsp; **Released:** October 3, 2002
+
+[Wikipedia](https://en.wikipedia.org/wiki/Speed_Challenge:_Jacques_Villeneuve's_Racing_Vision)
+
+---
+
+### SpongeBob SquarePants: Revenge of the Flying Dutchman
+
+**Platforms:** PlayStation 2, GameCube, Game Boy Advance &nbsp;|&nbsp; **Developer:** BigSky Interactive, Inc., Vicarious Visions &nbsp;|&nbsp; **Publisher:** THQ &nbsp;|&nbsp; **Genre:** Platform, action-adventure &nbsp;|&nbsp; **Released:** September 12, 2002
+
+[Wikipedia](https://en.wikipedia.org/wiki/SpongeBob_SquarePants:_Revenge_of_the_Flying_Dutchman)
 
 ---
 
@@ -2246,6 +3434,14 @@
 
 ---
 
+### Swingerz Golf
+
+**Platforms:** GameCube &nbsp;|&nbsp; **Developer:** Telenet Japan &nbsp;|&nbsp; **Publisher:** Eidos Interactive &nbsp;|&nbsp; **Genre:** Sports &nbsp;|&nbsp; **Released:** October 23, 2002
+
+[Wikipedia](https://en.wikipedia.org/wiki/Swingerz_Golf)
+
+---
+
 ### Taz: Wanted
 
 **Platforms:** PlayStation 2, Xbox, Windows, GameCube &nbsp;|&nbsp; **Released:** September 17
@@ -2267,6 +3463,22 @@
 ### The Lord of the Rings: The Two Towers
 
 **Platforms:** PlayStation 2, Game Boy Advance, Xbox, GameCube &nbsp;|&nbsp; **Released:** October 21
+
+---
+
+### The Powerpuff Girls: Relish Rampage
+
+**Platforms:** PlayStation 2, GameCube &nbsp;|&nbsp; **Developer:** VIS Entertainment &nbsp;|&nbsp; **Publisher:** BAM! Entertainment &nbsp;|&nbsp; **Genre:** Action-adventure &nbsp;|&nbsp; **Released:** November 25, 2002
+
+[Wikipedia](https://en.wikipedia.org/wiki/The_Powerpuff_Girls:_Relish_Rampage)
+
+---
+
+### The Sum of All Fears
+
+**Platforms:** Windows, Game Boy Advance, PlayStation 2, GameCube &nbsp;|&nbsp; **Developer:** Red Storm Entertainment, Ubi Soft Milan &nbsp;|&nbsp; **Publisher:** Ubi Soft &nbsp;|&nbsp; **Genre:** Tactical shooter &nbsp;|&nbsp; **Released:** May 28, 2002
+
+[Wikipedia](https://en.wikipedia.org/wiki/The_Sum_of_All_Fears_(video_game))
 
 ---
 
@@ -2308,11 +3520,27 @@
 
 ---
 
+### Ultimate Muscle: Legends vs. New Generation
+
+**Platforms:** GameCube &nbsp;|&nbsp; **Developer:** AKI Corporation &nbsp;|&nbsp; **Publisher:** Bandai &nbsp;|&nbsp; **Genre:** Fighting &nbsp;|&nbsp; **Released:** November 22, 2002
+
+[Wikipedia](https://en.wikipedia.org/wiki/Ultimate_Muscle:_Legends_vs._New_Generation)
+
+---
+
 ### Whirl Tour
 
 **Platforms:** GameCube &nbsp;|&nbsp; **Released:** November 12
 
 [Wikipedia](https://en.wikipedia.org/wiki/Whirl_Tour)
+
+---
+
+### Worms Blast
+
+**Platforms:** Windows, PlayStation 2, GameCube, Game Boy Advance &nbsp;|&nbsp; **Developer:** Team17 &nbsp;|&nbsp; **Publisher:** Ubi Soft, Feral Interactive &nbsp;|&nbsp; **Genre:** Puzzle &nbsp;|&nbsp; **Released:** March 22, 2002
+
+[Wikipedia](https://en.wikipedia.org/wiki/Worms_Blast)
 
 ---
 
@@ -2344,9 +3572,25 @@
 
 ---
 
+### ZooCube
+
+**Platforms:** GameCube, Game Boy Advance &nbsp;|&nbsp; **Developer:** PuzzleKings, Graphic State &nbsp;|&nbsp; **Publisher:** Acclaim Entertainment, Midas Interactive Entertainment &nbsp;|&nbsp; **Genre:** Puzzle &nbsp;|&nbsp; **Released:** May 30, 2002
+
+[Wikipedia](https://en.wikipedia.org/wiki/ZooCube)
+
+---
+
 ## 2001
 
 [Full 2001 page](../years/2001.md)
+
+### All-Star Baseball 2002
+
+**Platforms:** PlayStation 2, GameCube &nbsp;|&nbsp; **Developer:** Acclaim Studios Austin &nbsp;|&nbsp; **Publisher:** Acclaim Entertainment &nbsp;|&nbsp; **Genre:** Sports &nbsp;|&nbsp; **Released:** March 16, 2001
+
+[Wikipedia](https://en.wikipedia.org/wiki/All-Star_Baseball_2002)
+
+---
 
 ### Batman: Vengeance
 
@@ -2400,6 +3644,14 @@
 
 ---
 
+### NFL QB Club 2002
+
+**Platforms:** PlayStation 2, GameCube &nbsp;|&nbsp; **Developer:** Acclaim Studios Austin &nbsp;|&nbsp; **Publisher:** Acclaim Entertainment &nbsp;|&nbsp; **Genre:** Sports &nbsp;|&nbsp; **Released:** September 7, 2001
+
+[Wikipedia](https://en.wikipedia.org/wiki/NFL_QB_Club_2002)
+
+---
+
 ### NHL Hitz 2002
 
 **Platforms:** GameCube &nbsp;|&nbsp; **Released:** November 17
@@ -2446,6 +3698,22 @@
 
 ---
 
+### Tarzan: Untamed
+
+**Platforms:** PlayStation 2, GameCube &nbsp;|&nbsp; **Developer:** Ubi Soft Montreal &nbsp;|&nbsp; **Publisher:** Ubi Soft &nbsp;|&nbsp; **Genre:** Action-adventure &nbsp;|&nbsp; **Released:** November 14, 2001
+
+[Wikipedia](https://en.wikipedia.org/wiki/Tarzan:_Untamed)
+
+---
+
+### The Simpsons: Road Rage
+
+**Platforms:** PlayStation 2, Xbox, GameCube &nbsp;|&nbsp; **Developer:** Radical Entertainment &nbsp;|&nbsp; **Publisher:** Electronic Arts, Fox Interactive &nbsp;|&nbsp; **Genre:** Racing &nbsp;|&nbsp; **Released:** November 19, 2001
+
+[Wikipedia](https://en.wikipedia.org/wiki/The_Simpsons:_Road_Rage)
+
+---
+
 ### Tony Hawk's Pro Skater 3
 
 **Platforms:** PlayStation 2, GameCube, PlayStation &nbsp;|&nbsp; **Publisher:** Activision &nbsp;|&nbsp; **Released:** October 30, 2001
@@ -2459,5 +3727,13 @@
 **Platforms:** GameCube &nbsp;|&nbsp; **Released:** December 18
 
 [Wikipedia](https://en.wikipedia.org/wiki/Universal_Studios_Theme_Parks_Adventure)
+
+---
+
+### Wave Race: Blue Storm
+
+**Platforms:** GameCube &nbsp;|&nbsp; **Developer:** Nintendo Software Technology &nbsp;|&nbsp; **Publisher:** Nintendo &nbsp;|&nbsp; **Genre:** Racing &nbsp;|&nbsp; **Released:** September 14, 2001
+
+[Wikipedia](https://en.wikipedia.org/wiki/Wave_Race:_Blue_Storm)
 
 ---

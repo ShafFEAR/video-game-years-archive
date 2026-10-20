@@ -2,22 +2,56 @@
 
 [← Back to index](../README.md)
 
-1 titles across 1 years in this archive.
+5 titles across 3 years in this archive.
+
+## 2017
+
+[Full 2017 page](../years/2017.md)
+
+### Death Horizon
+
+**Platforms:** Gear VR &nbsp;|&nbsp; **Developer:** Dream Dev Studio VR &nbsp;|&nbsp; **Genre:** Shooter game &nbsp;|&nbsp; **Released:** September 21, 2017
+
+[Wikipedia](https://en.wikipedia.org/wiki/Death_Horizon)
+
+---
+
+### Rangi
+
+**Platforms:** Gear VR &nbsp;|&nbsp; **Developer:** Funsoft &nbsp;|&nbsp; **Publisher:** Digigo &nbsp;|&nbsp; **Genre:** Puzzle, virtual reality &nbsp;|&nbsp; **Released:** January 2017
+
+[Wikipedia](https://en.wikipedia.org/wiki/Rangi_(video_game))
+
+---
+
+## 2016
+
+[Full 2016 page](../years/2016.md)
+
+### Radial-G: Racing Revolved
+
+**Platforms:** Oculus Rift, SteamVR, PlayStation 4, PlayStation VR, Gear VR &nbsp;|&nbsp; **Developer:** Tammeka Games &nbsp;|&nbsp; **Publisher:** Tammeka Games &nbsp;|&nbsp; **Genre:** Racing
+
+[Wikipedia](https://en.wikipedia.org/wiki/Radial-G:_Racing_Revolved)
+
+---
+
+### Stern Pinball Arcade
+
+**Platforms:** Android, iOS, macOS, Windows, Gear VR, PlayStation 4, Xbox One &nbsp;|&nbsp; **Developer:** FarSight Studios, Stern Pinball Inc. &nbsp;|&nbsp; **Publisher:** Stern Pinball Inc., System 3 &nbsp;|&nbsp; **Released:** June 2, 2016
+
+[Wikipedia](https://en.wikipedia.org/wiki/Stern_Pinball_Arcade)
+
+---
 
 ## 2015
 
 [Full 2015 page](../years/2015.md)
 
-### Keep Talking and Nobody Explodes
+### Land's End
 
-<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/aykvlxlmax2rcvljwkqn.jpg" alt="Keep Talking and Nobody Explodes cover" width="200">
+**Platforms:** Gear VR &nbsp;|&nbsp; **Developer:** Ustwo Games &nbsp;|&nbsp; **Genre:** Puzzle &nbsp;|&nbsp; **Released:** September 21, 2015
 
-**Platforms:** SteamVR, Windows Mixed Reality, Daydream, macOS, Gear VR, Windows &nbsp;|&nbsp; **Developer:** Steel Crate Games &nbsp;|&nbsp; **Publisher:** Steel Crate Games &nbsp;|&nbsp; **Genre:** Puzzle, Simulator, Indie &nbsp;|&nbsp; **Released:** July 16, 2015
-
-> One player is trapped in a virtual room with a ticking time bomb they must defuse. The other players are the “Experts” who must give the instructions to defuse the bomb by deciphering the information found in the bomb defusal manual. But there’s a catch: the experts can’t see the bomb, so everyone will need to talk it out – fast!
->
-> _Synopsis source: IGDB_
-
-[IGDB](https://www.igdb.com/games/keep-talking-and-nobody-explodes)
+[Wikipedia](https://en.wikipedia.org/wiki/Land's_End_(video_game))
 
 ---

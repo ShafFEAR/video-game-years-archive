@@ -2,23 +2,25 @@
 
 [← Back to index](../README.md)
 
-3 titles across 2 years in this archive.
+4 titles across 2 years in this archive.
 
 ## 1997
 
 [Full 1997 page](../years/1997.md)
 
-### Arkanoid: Doh It Again
+### Cyber Citizen Shockman Zero
 
-<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2dgv.jpg" alt="Arkanoid: Doh It Again cover" width="200">
+**Platforms:** Satellaview &nbsp;|&nbsp; **Developer:** Masaya Games &nbsp;|&nbsp; **Publisher:** NCS Corporation, Columbus Circle, Ratalaika Games, Retro-Bit &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** March 20, 1997
 
-**Platforms:** Satellaview, Super Nintendo Entertainment System &nbsp;|&nbsp; **Developer:** Taito &nbsp;|&nbsp; **Publisher:** Nintendo, Unbalance Corporation, St. GIGA, Gradiente, Taito &nbsp;|&nbsp; **Genre:** Puzzle &nbsp;|&nbsp; **Released:** January 15, 1997
+[Wikipedia](https://en.wikipedia.org/wiki/Cyber_Citizen_Shockman_Zero)
 
-> Much like the game Breakout, the player controls the "Vaus", a space vessel that acts as the game's "paddle" which prevents a ball from falling from the playing field, attempting to bounce it against a number of bricks. The ball striking a brick causes the brick to disappear. When all the bricks are gone, the player goes to the next level, where another pattern of bricks appear. There are a number of variations (bricks that have to be hit multiple times, flying enemy ships, etc.) and power-up capsules to enhance the Vaus (expand the Vaus, multiply the number of balls, equip a laser cannon, break directly to the next level, etc.), but the gameplay remains the same.
->
-> _Synopsis source: IGDB_
+---
 
-[IGDB](https://www.igdb.com/games/arkanoid-doh-it-again)
+### Itoi Shigesato no Bass Tsuri No. 1
+
+**Platforms:** Satellaview, Super Nintendo Entertainment System &nbsp;|&nbsp; **Developer:** HAL Laboratory &nbsp;|&nbsp; **Publisher:** Nintendo &nbsp;|&nbsp; **Genre:** Fishing &nbsp;|&nbsp; **Released:** February 21, 1997
+
+[Wikipedia](https://en.wikipedia.org/wiki/Itoi_Shigesato_no_Bass_Tsuri_No._1)
 
 ---
 

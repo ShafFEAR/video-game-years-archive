@@ -2,7 +2,19 @@
 
 [← Back to index](../README.md)
 
-33 titles across 3 years in this archive.
+50 titles across 5 years in this archive.
+
+## 2016
+
+[Full 2016 page](../years/2016.md)
+
+### Party Golf
+
+**Platforms:** Windows, PlayStation 4, Ouya &nbsp;|&nbsp; **Developer:** Giant Margarita &nbsp;|&nbsp; **Publisher:** Giant Margarita &nbsp;|&nbsp; **Genre:** Party Game, Sports Game &nbsp;|&nbsp; **Released:** October 4, 2016
+
+[Wikipedia](https://en.wikipedia.org/wiki/Party_Golf)
+
+---
 
 ## 2015
 
@@ -38,19 +50,35 @@
 
 <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co4wex.jpg" alt="Duck Game cover" width="200">
 
-**Platforms:** Ouya &nbsp;|&nbsp; **Developer:** SuperJoeBob &nbsp;|&nbsp; **Publisher:** Adult Swim Games &nbsp;|&nbsp; **Genre:** Shooter, Platform, Indie, Arcade &nbsp;|&nbsp; **Released:** May 13, 2014
+**Platforms:** Ouya &nbsp;|&nbsp; **Developer:** Landon Podbielski &nbsp;|&nbsp; **Publisher:** Adult Swim Games, Corptron &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** May 13, 2014
 
 > Enter the futuristic year of 1984, an age where ducks run wild in a frantic battle for glory. Blast your friends with Shotguns, Net Guns, Mind Control Rays, Saxophones, Magnet Guns, and much, much more. This is DUCK GAME. Don't blink.
 >
 > _Synopsis source: IGDB_
 
-[IGDB](https://www.igdb.com/games/duck-game)
+[Wikipedia](https://en.wikipedia.org/wiki/Duck_Game) · [IGDB](https://www.igdb.com/games/duck-game)
+
+---
+
+### Elliot Quest
+
+**Platforms:** Windows, macOS, Linux, Ouya, Amazon Fire TV &nbsp;|&nbsp; **Developer:** Ansimuz Games &nbsp;|&nbsp; **Publisher:** Ansimuz Games &nbsp;|&nbsp; **Genre:** Platform, Metroidvania
+
+[Wikipedia](https://en.wikipedia.org/wiki/Elliot_Quest)
 
 ---
 
 ### Kaptain Brawe: A Brawe New World
 
 **Platforms:** Ouya &nbsp;|&nbsp; **Genre:** Adventure, Hidden object , Puzzle &nbsp;|&nbsp; **Released:** July 31
+
+---
+
+### MouseCraft
+
+**Platforms:** Ouya, PlayStation 3, PlayStation 4, PlayStation Vita, Windows &nbsp;|&nbsp; **Developer:** Crunching Koalas &nbsp;|&nbsp; **Publisher:** Crunching Koalas &nbsp;|&nbsp; **Genre:** Adventure &nbsp;|&nbsp; **Released:** July 8, 2014
+
+[Wikipedia](https://en.wikipedia.org/wiki/MouseCraft)
 
 ---
 
@@ -126,6 +154,14 @@
 
 [Full 2013 page](../years/2013.md)
 
+### AVP: Evolution
+
+**Platforms:** iOS, Android, Ouya &nbsp;|&nbsp; **Developer:** Angry Mob Games &nbsp;|&nbsp; **Publisher:** Fox Digital Entertainment &nbsp;|&nbsp; **Genre:** Third-person shooter &nbsp;|&nbsp; **Released:** February 28, 2013
+
+[Wikipedia](https://en.wikipedia.org/wiki/AVP:_Evolution)
+
+---
+
 ### Beast Boxing Turbo
 
 **Platforms:** Ouya &nbsp;|&nbsp; **Released:** June 27
@@ -156,6 +192,14 @@
 
 ---
 
+### Fester Mudd: Curse of the Gold
+
+**Platforms:** Linux, Windows, macOS, Ouya, Steam, iOS, Android &nbsp;|&nbsp; **Developer:** Prank Ltd. &nbsp;|&nbsp; **Publisher:** Replay Games &nbsp;|&nbsp; **Genre:** Point-and-click adventure game &nbsp;|&nbsp; **Released:** November 4, 2013
+
+[Wikipedia](https://en.wikipedia.org/wiki/Fester_Mudd:_Curse_of_the_Gold)
+
+---
+
 ### Final Fantasy III
 
 **Platforms:** Ouya, Windows Phone &nbsp;|&nbsp; **Genre:** RPG &nbsp;|&nbsp; **Type:** Port &nbsp;|&nbsp; **Released:** April 11
@@ -172,6 +216,22 @@
 
 ---
 
+### Gentlemen!
+
+**Platforms:** iOS, Ouya, Windows, macOS, Linux &nbsp;|&nbsp; **Developer:** Lucky Frame &nbsp;|&nbsp; **Publisher:** Lucky Frame &nbsp;|&nbsp; **Genre:** Platform &nbsp;|&nbsp; **Released:** July 16, 2013
+
+[Wikipedia](https://en.wikipedia.org/wiki/Gentlemen!)
+
+---
+
+### Gunslugs
+
+**Platforms:** iOS, Android, Ouya &nbsp;|&nbsp; **Developer:** OrangePixel &nbsp;|&nbsp; **Publisher:** OrangePixel &nbsp;|&nbsp; **Genre:** Action, 2D shooter &nbsp;|&nbsp; **Released:** January 17, 2013
+
+[Wikipedia](https://en.wikipedia.org/wiki/Gunslugs)
+
+---
+
 ### Hero of Many
 
 **Platforms:** Ouya &nbsp;|&nbsp; **Genre:** Action-adventure &nbsp;|&nbsp; **Released:** October 7
@@ -180,9 +240,57 @@
 
 ---
 
+### Ittle Dew
+
+**Platforms:** Ouya, Windows, iOS &nbsp;|&nbsp; **Developer:** Ludosity &nbsp;|&nbsp; **Publisher:** Ludosity &nbsp;|&nbsp; **Genre:** Action-Adventure, Indie &nbsp;|&nbsp; **Released:** July 7, 2013
+
+[Wikipedia](https://en.wikipedia.org/wiki/Ittle_Dew)
+
+---
+
 ### Killing Floor: Calamity
 
 **Platforms:** Ouya &nbsp;|&nbsp; **Released:** December 19
+
+---
+
+### Legend of Dungeon
+
+**Platforms:** Linux, Windows, macOS, Ouya &nbsp;|&nbsp; **Developer:** Robot Loves Kitty &nbsp;|&nbsp; **Genre:** Roguelike Action RPG &nbsp;|&nbsp; **Released:** September 13, 2013
+
+[Wikipedia](https://en.wikipedia.org/wiki/Legend_of_Dungeon)
+
+---
+
+### Luxuria Superbia
+
+**Platforms:** Windows, macOS, Linux, iOS, Android, Ouya &nbsp;|&nbsp; **Developer:** Tale of Tales &nbsp;|&nbsp; **Released:** November 5, 2013
+
+[Wikipedia](https://en.wikipedia.org/wiki/Luxuria_Superbia)
+
+---
+
+### MirrorMoon EP
+
+**Platforms:** Linux, macOS, Windows, Ouya, Amazon Fire TV &nbsp;|&nbsp; **Developer:** Santa Ragione &nbsp;|&nbsp; **Publisher:** Santa Ragione &nbsp;|&nbsp; **Genre:** Adventure &nbsp;|&nbsp; **Released:** September 4, 2013
+
+[Wikipedia](https://en.wikipedia.org/wiki/MirrorMoon_EP)
+
+---
+
+### Overkill 2
+
+**Platforms:** iOS, Android, Ouya &nbsp;|&nbsp; **Developer:** Craneballs Studio &nbsp;|&nbsp; **Genre:** Rail shooter, first-person shooter &nbsp;|&nbsp; **Released:** April 3, 2013
+
+[Wikipedia](https://en.wikipedia.org/wiki/Overkill_2)
+
+---
+
+### Reaper: Tale of a Pale Swordsman
+
+**Platforms:** Android, iOS, Windows Phone, Windows, macOS, BlackBerry OS, Ouya &nbsp;|&nbsp; **Developer:** Hexage &nbsp;|&nbsp; **Genre:** Action role-playing game &nbsp;|&nbsp; **Released:** September 9, 2013
+
+[Wikipedia](https://en.wikipedia.org/wiki/Reaper:_Tale_of_a_Pale_Swordsman)
 
 ---
 
@@ -268,6 +376,14 @@
 
 ---
 
+### Unearthed: Trail of Ibn Battuta
+
+**Platforms:** iOS, PlayStation 3, Ouya &nbsp;|&nbsp; **Developer:** Semaphore &nbsp;|&nbsp; **Publisher:** Semanoor International &nbsp;|&nbsp; **Genre:** Action-adventure &nbsp;|&nbsp; **Released:** May 29, 2013
+
+[Wikipedia](https://en.wikipedia.org/wiki/Unearthed:_Trail_of_Ibn_Battuta)
+
+---
+
 ### Wizorb
 
 **Platforms:** Ouya &nbsp;|&nbsp; **Genre:** Breakout clone &nbsp;|&nbsp; **Released:** March 28
@@ -281,5 +397,33 @@
 **Platforms:** Ouya &nbsp;|&nbsp; **Developer:** Jackbox Games &nbsp;|&nbsp; **Publisher:** Jackbox Games &nbsp;|&nbsp; **Genre:** Party &nbsp;|&nbsp; **Released:** June 11
 
 [Wikipedia](https://en.wikipedia.org/wiki/You_Don%27t_Know_Jack_(franchise)#Console)
+
+---
+
+## 2012
+
+[Full 2012 page](../years/2012.md)
+
+### God of Blades
+
+**Platforms:** Android, iOS, Ouya, macOS, Windows &nbsp;|&nbsp; **Developer:** White Whale Games &nbsp;|&nbsp; **Genre:** Side-scroller &nbsp;|&nbsp; **Released:** September 27, 2012
+
+[Wikipedia](https://en.wikipedia.org/wiki/God_of_Blades)
+
+---
+
+### Maldita Castilla
+
+**Platforms:** Windows, Linux, Ouya &nbsp;|&nbsp; **Developer:** Locomalito &nbsp;|&nbsp; **Genre:** Platform
+
+[Wikipedia](https://en.wikipedia.org/wiki/Maldita_Castilla)
+
+---
+
+### Rose and Time
+
+**Platforms:** iOS, Android, Ouya, Windows, macOS, Linux &nbsp;|&nbsp; **Developer:** Sophie Houlden &nbsp;|&nbsp; **Genre:** Puzzle-platform &nbsp;|&nbsp; **Released:** April 2012
+
+[Wikipedia](https://en.wikipedia.org/wiki/Rose_and_Time)
 
 ---

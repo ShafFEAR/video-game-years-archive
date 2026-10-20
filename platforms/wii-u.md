@@ -2,7 +2,7 @@
 
 [← Back to index](../README.md)
 
-246 titles across 7 years in this archive.
+278 titles across 8 years in this archive.
 
 ## 2018
 
@@ -58,13 +58,13 @@
 
 <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2gsu.jpg" alt="Shovel Knight: Specter of Torment cover" width="200">
 
-**Platforms:** macOS, Nintendo Switch, Xbox One, PlayStation Vita, Wii U, Windows, Linux, Nintendo 3DS, PlayStation 3, PlayStation 4 &nbsp;|&nbsp; **Developer:** Yacht Club Games &nbsp;|&nbsp; **Publisher:** Yacht Club Games &nbsp;|&nbsp; **Genre:** Platform, Adventure, Indie &nbsp;|&nbsp; **Released:** March 3, 2017
+**Platforms:** Nintendo Switch, Linux, macOS, Windows, Wii U, Nintendo 3DS, PlayStation 3, PlayStation 4, PlayStation Vita, Xbox One &nbsp;|&nbsp; **Developer:** Yacht Club Games &nbsp;|&nbsp; **Publisher:** Yacht Club Games &nbsp;|&nbsp; **Genre:** Platform &nbsp;|&nbsp; **Released:** March 3, 2017
 
 > This game is a free expansion included in the main game, Shovel Knight, and its updated title, Shovel Knight: Treasure Trove. The game will also be available as a standalone title on PC, PS4, Xbox One, and Nintendo Switch.
 >
 > _Synopsis source: IGDB_
 
-[IGDB](https://www.igdb.com/games/shovel-knight-specter-of-torment)
+[Wikipedia](https://en.wikipedia.org/wiki/Shovel_Knight:_Specter_of_Torment) · [IGDB](https://www.igdb.com/games/shovel-knight-specter-of-torment)
 
 ---
 
@@ -79,6 +79,14 @@
 > _Synopsis source: IGDB_
 
 [IGDB](https://www.igdb.com/games/the-legend-of-zelda-breath-of-the-wild)
+
+---
+
+### Use Your Words
+
+**Platforms:** Windows, macOS, PlayStation 4, Xbox One, Wii U, Nintendo Switch &nbsp;|&nbsp; **Developer:** Smiling Buddha Games &nbsp;|&nbsp; **Publisher:** Screenwave Media &nbsp;|&nbsp; **Genre:** Party &nbsp;|&nbsp; **Released:** April 4, 2017
+
+[Wikipedia](https://en.wikipedia.org/wiki/Use_Your_Words)
 
 ---
 
@@ -97,6 +105,14 @@
 > _Synopsis source: IGDB_
 
 [Wikipedia](https://en.wikipedia.org/wiki/Just_Dance_2017) · [IGDB](https://www.igdb.com/games/just-dance-2017)
+
+---
+
+### Kamen Rider: Battride War
+
+**Platforms:** PlayStation 3, PlayStation 4, PlayStation Vita, Wii U &nbsp;|&nbsp; **Developer:** Eighting, Bandai Namco Studios &nbsp;|&nbsp; **Publisher:** Bandai Namco Games &nbsp;|&nbsp; **Genre:** Action role-playing game, hack and slash
+
+[Wikipedia](https://en.wikipedia.org/wiki/Kamen_Rider:_Battride_War)
 
 ---
 
@@ -374,6 +390,14 @@
 
 ---
 
+### Cube Life: Island Survival
+
+**Platforms:** Wii U &nbsp;|&nbsp; **Developer:** Cypronia &nbsp;|&nbsp; **Publisher:** Cypronia &nbsp;|&nbsp; **Genre:** Open world, sandbox, survival &nbsp;|&nbsp; **Released:** June 4, 2015
+
+[Wikipedia](https://en.wikipedia.org/wiki/Cube_Life:_Island_Survival)
+
+---
+
 ### Devil's Third
 
 **Platforms:** Wii U &nbsp;|&nbsp; **Genre:** Action-adventure, Hack and slash, Shooter &nbsp;|&nbsp; **Released:** August 4 (JP)
@@ -409,6 +433,14 @@
 > _Synopsis source: IGDB_
 
 [IGDB](https://www.igdb.com/games/earthbound-beginnings)
+
+---
+
+### Fast Racing Neo
+
+**Platforms:** Wii U &nbsp;|&nbsp; **Developer:** Shin'en Multimedia &nbsp;|&nbsp; **Publisher:** Shin'en Multimedia, Arc System Works &nbsp;|&nbsp; **Genre:** Racing &nbsp;|&nbsp; **Released:** December 10, 2015
+
+[Wikipedia](https://en.wikipedia.org/wiki/Fast_Racing_Neo)
 
 ---
 
@@ -467,6 +499,14 @@
 **Platforms:** PlayStation 4, Xbox One, Wii U &nbsp;|&nbsp; **Genre:** Music, Rhythm &nbsp;|&nbsp; **Released:** October 20
 
 [Wikipedia](https://en.wikipedia.org/wiki/Just_Dance_Now)
+
+---
+
+### Just Dance: Disney Party 2
+
+**Platforms:** Xbox 360, Xbox One, Wii, Wii U &nbsp;|&nbsp; **Developer:** Ubisoft San Francisco &nbsp;|&nbsp; **Publisher:** Ubisoft &nbsp;|&nbsp; **Genre:** Music, rhythm, dance &nbsp;|&nbsp; **Released:** October 20, 2015
+
+[Wikipedia](https://en.wikipedia.org/wiki/Just_Dance:_Disney_Party_2)
 
 ---
 
@@ -582,6 +622,14 @@
 
 ---
 
+### Pumped BMX
+
+**Platforms:** Windows, PlayStation 4, PlayStation 3, PlayStation Vita, Wii U, Xbox One &nbsp;|&nbsp; **Developer:** Yeah Us! &nbsp;|&nbsp; **Publisher:** Curve Digital &nbsp;|&nbsp; **Genre:** Sport, Racing &nbsp;|&nbsp; **Released:** September 18, 2015
+
+[Wikipedia](https://en.wikipedia.org/wiki/Pumped_BMX)
+
+---
+
 ### Rodea the Sky Soldier
 
 **Platforms:** Wii, Wii U, Nintendo 3DS &nbsp;|&nbsp; **Genre:** Action-adventure &nbsp;|&nbsp; **Released:** April 2 (JP)
@@ -632,6 +680,14 @@
 
 ---
 
+### Temple of Yog
+
+**Platforms:** Wii U &nbsp;|&nbsp; **Developer:** ChudChud Industries &nbsp;|&nbsp; **Publisher:** ChudChud Industries &nbsp;|&nbsp; **Genre:** Action, Roguelike &nbsp;|&nbsp; **Released:** December 16, 2015
+
+[Wikipedia](https://en.wikipedia.org/wiki/Temple_of_Yog)
+
+---
+
 ### The Binding of Isaac: Rebirth
 
 **Platforms:** Xbox One, Nintendo 3DS, Wii U &nbsp;|&nbsp; **Genre:** Roguelike &nbsp;|&nbsp; **Released:** July 23
@@ -649,6 +705,14 @@
 **Platforms:** Wii U &nbsp;|&nbsp; **Genre:** Puzzle-platformer, Action-adventure &nbsp;|&nbsp; **Released:** March 12
 
 [Wikipedia](https://en.wikipedia.org/wiki/Trine_(video_game))
+
+---
+
+### Typoman
+
+**Platforms:** Steam, Wii U, Android &nbsp;|&nbsp; **Developer:** Brainseed Factory &nbsp;|&nbsp; **Publisher:** Brainseed Factory &nbsp;|&nbsp; **Genre:** Puzzle, platform &nbsp;|&nbsp; **Released:** November 19, 2015
+
+[Wikipedia](https://en.wikipedia.org/wiki/Typoman)
 
 ---
 
@@ -687,6 +751,14 @@
 **Platforms:** Wii U &nbsp;|&nbsp; **Genre:** Adventure &nbsp;|&nbsp; **Released:** September 17
 
 [Wikipedia](https://en.wikipedia.org/wiki/Year_Walk)
+
+---
+
+### Yo-kai Watch Dance: Just Dance Special Version
+
+**Platforms:** Wii U &nbsp;|&nbsp; **Developer:** Level-5, Ubisoft &nbsp;|&nbsp; **Publisher:** Level-5 &nbsp;|&nbsp; **Genre:** Dance &nbsp;|&nbsp; **Released:** December 5, 2015
+
+[Wikipedia](https://en.wikipedia.org/wiki/Yo-kai_Watch_Dance:_Just_Dance_Special_Version)
 
 ---
 
@@ -768,6 +840,14 @@
 
 ---
 
+### Cabela's Big Game Hunter: Pro Hunts
+
+**Platforms:** Windows, PlayStation 3, Wii U, Xbox 360 &nbsp;|&nbsp; **Developer:** Cauldron &nbsp;|&nbsp; **Publisher:** Activision &nbsp;|&nbsp; **Genre:** First-person shooter, sports &nbsp;|&nbsp; **Released:** March 25, 2014
+
+[Wikipedia](https://en.wikipedia.org/wiki/Cabela's_Big_Game_Hunter:_Pro_Hunts)
+
+---
+
 ### Captain Toad: Treasure Tracker
 
 <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co213z.jpg" alt="Captain Toad: Treasure Tracker cover" width="200">
@@ -813,6 +893,14 @@
 ### Cubemen 2
 
 **Platforms:** Wii U &nbsp;|&nbsp; **Released:** September 4
+
+---
+
+### Disney Infinity 2.0
+
+**Platforms:** iOS, Android, PlayStation 3, PlayStation 4, Wii U, Windows, Xbox 360, Xbox One &nbsp;|&nbsp; **Developer:** Avalanche Software, Heavy Iron Studios &nbsp;|&nbsp; **Publisher:** Disney Interactive Studios &nbsp;|&nbsp; **Genre:** Action-adventure &nbsp;|&nbsp; **Released:** September 18, 2014
+
+[Wikipedia](https://en.wikipedia.org/wiki/Disney_Infinity_2.0)
 
 ---
 
@@ -908,6 +996,14 @@
 
 ---
 
+### Just Dance Wii U
+
+**Platforms:** Wii U &nbsp;|&nbsp; **Developer:** Ubisoft &nbsp;|&nbsp; **Publisher:** Nintendo &nbsp;|&nbsp; **Genre:** Music, rhythm &nbsp;|&nbsp; **Released:** April 3, 2014
+
+[Wikipedia](https://en.wikipedia.org/wiki/Just_Dance_Wii_U)
+
+---
+
 ### KickBeat Special Edition
 
 **Platforms:** PlayStation 4, Wii U, Xbox One &nbsp;|&nbsp; **Genre:** Music, Rhythm &nbsp;|&nbsp; **Released:** September 16
@@ -985,6 +1081,14 @@
 **Platforms:** Wii U &nbsp;|&nbsp; **Genre:** Action, Platformer &nbsp;|&nbsp; **Released:** September 12
 
 [Wikipedia](https://en.wikipedia.org/wiki/Mega_Man_7)
+
+---
+
+### Meme Run
+
+**Platforms:** Wii U &nbsp;|&nbsp; **Developer:** Ninja Pig Studios &nbsp;|&nbsp; **Publisher:** Ninja Pig Studios &nbsp;|&nbsp; **Genre:** Endless runner &nbsp;|&nbsp; **Released:** December 18, 2014
+
+[Wikipedia](https://en.wikipedia.org/wiki/Meme_Run)
 
 ---
 
@@ -1086,13 +1190,13 @@
 
 <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co3vws.jpg" alt="Puyo Puyo Tetris cover" width="200">
 
-**Platforms:** PlayStation 4, Nintendo 3DS, PlayStation Vita, Wii U, Xbox One, PlayStation 3 &nbsp;|&nbsp; **Developer:** Sonic Team &nbsp;|&nbsp; **Publisher:** Sega &nbsp;|&nbsp; **Genre:** Puzzle, Strategy, Arcade &nbsp;|&nbsp; **Released:** February 6, 2014
+**Platforms:** Nintendo 3DS, PlayStation Vita, PlayStation 3, Wii U, Xbox One, PlayStation 4 &nbsp;|&nbsp; **Developer:** Sega CS2 &nbsp;|&nbsp; **Publisher:** Sega, Deep Silver &nbsp;|&nbsp; **Genre:** Puzzle &nbsp;|&nbsp; **Released:** February 6, 2014
 
 > "Two puzzle game juggernauts collide as Tetris, one of the largest-selling and recognized brands in gaming history, and Puyo Puyo from SEGA have combined to create a fun-to-play, fast-paced, competitive party game like no other! The game has tons of different styles of gameplay – from the single-player Adventure and Challenge modes to the ferocious competition of the up-to-four player Arcade modes. There's plenty of Tetris/Puyo variety, even an in-game Shop where players can unlock new characters, new skins for Puyos and Tetriminos, new backgrounds and more."
 >
 > _Synopsis source: IGDB_
 
-[IGDB](https://www.igdb.com/games/puyo-puyo-tetris)
+[Wikipedia](https://en.wikipedia.org/wiki/Puyo_Puyo_Tetris) · [IGDB](https://www.igdb.com/games/puyo-puyo-tetris)
 
 ---
 
@@ -1266,6 +1370,14 @@
 
 ---
 
+### The Letter
+
+**Platforms:** Wii U &nbsp;|&nbsp; **Developer:** TreeFall Studios &nbsp;|&nbsp; **Publisher:** TreeFall Studios &nbsp;|&nbsp; **Genre:** Adventure &nbsp;|&nbsp; **Released:** July 10, 2014
+
+[Wikipedia](https://en.wikipedia.org/wiki/The_Letter_(video_game))
+
+---
+
 ### The Swapper
 
 <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/coatev.jpg" alt="The Swapper cover" width="200">
@@ -1340,6 +1452,14 @@
 
 [Full 2013 page](../years/2013.md)
 
+### Adventure Time: Explore the Dungeon Because I Don't Know!
+
+**Platforms:** PlayStation 3, Xbox 360, Windows, Nintendo 3DS, Wii U &nbsp;|&nbsp; **Developer:** WayForward Technologies &nbsp;|&nbsp; **Publisher:** D3 Publisher, Namco Bandai Games &nbsp;|&nbsp; **Genre:** Action-adventure &nbsp;|&nbsp; **Released:** November 15, 2013
+
+[Wikipedia](https://en.wikipedia.org/wiki/Adventure_Time:_Explore_the_Dungeon_Because_I_Don't_Know!)
+
+---
+
 ### Angry Birds Star Wars
 
 **Platforms:** PlayStation 3, Xbox 360, Wii, Wii U, PlayStation Vita, Nintendo 3DS, PlayStation 4, Xbox One &nbsp;|&nbsp; **Genre:** Puzzle &nbsp;|&nbsp; **Type:** Port &nbsp;|&nbsp; **Released:** October 29
@@ -1353,6 +1473,14 @@
 **Platforms:** Wii U, Wii &nbsp;|&nbsp; **Genre:** Puzzle &nbsp;|&nbsp; **Type:** Compilation &nbsp;|&nbsp; **Released:** August 13
 
 [Wikipedia](https://en.wikipedia.org/wiki/Angry_Birds_Trilogy)
+
+---
+
+### Assassin's Creed III: The Tyranny of King Washington
+
+**Platforms:** PlayStation 3, Xbox 360, Wii U, Windows &nbsp;|&nbsp; **Developer:** Ubisoft Montreal &nbsp;|&nbsp; **Publisher:** Ubisoft &nbsp;|&nbsp; **Genre:** Action-adventure &nbsp;|&nbsp; **Released:** February 20, 2013
+
+[Wikipedia](https://en.wikipedia.org/wiki/Assassin's_Creed_III:_The_Tyranny_of_King_Washington)
 
 ---
 
@@ -1390,6 +1518,14 @@
 
 ---
 
+### Ben 10: Omniverse 2
+
+**Platforms:** Nintendo 3DS, PlayStation 3, Wii, Wii U, Xbox 360 &nbsp;|&nbsp; **Publisher:** D3 Publisher, Namco Bandai Games &nbsp;|&nbsp; **Genre:** Beat 'em up &nbsp;|&nbsp; **Released:** November 5, 2013
+
+[Wikipedia](https://en.wikipedia.org/wiki/Ben_10:_Omniverse_2)
+
+---
+
 ### Bit.Trip Presents... Runner2: Future Legend of Rhythm Alien
 
 <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co86be.jpg" alt="Bit.Trip Presents... Runner2: Future Legend of Rhythm Alien cover" width="200">
@@ -1401,6 +1537,14 @@
 > _Synopsis source: IGDB_
 
 [IGDB](https://www.igdb.com/games/bit-dot-trip-presents-dot-dot-dot-runner2-future-legend-of-rhythm-alien)
+
+---
+
+### Blek
+
+**Platforms:** iOS, Android, Wii U &nbsp;|&nbsp; **Developer:** kunabi brother &nbsp;|&nbsp; **Publisher:** kunabi brother &nbsp;|&nbsp; **Genre:** Puzzle &nbsp;|&nbsp; **Released:** December 2013
+
+[Wikipedia](https://en.wikipedia.org/wiki/Blek)
 
 ---
 
@@ -1526,6 +1670,14 @@
 
 ---
 
+### Forced
+
+**Platforms:** Windows, macOS, Linux, PlayStation 4, Wii U, Xbox One &nbsp;|&nbsp; **Developer:** BetaDwarf &nbsp;|&nbsp; **Publisher:** BetaDwarf &nbsp;|&nbsp; **Genre:** Action role-playing &nbsp;|&nbsp; **Released:** October 24, 2013
+
+[Wikipedia](https://en.wikipedia.org/wiki/Forced)
+
+---
+
 ### Game & Wario
 
 **Platforms:** Wii U &nbsp;|&nbsp; **Genre:** Party &nbsp;|&nbsp; **Released:** June 23
@@ -1565,6 +1717,22 @@
 > _Synopsis source: IGDB_
 
 [Wikipedia](https://en.wikipedia.org/wiki/Just_Dance_2014) · [IGDB](https://www.igdb.com/games/just-dance-2014)
+
+---
+
+### Just Dance Kids 2014
+
+**Platforms:** Wii, Wii U, Xbox 360 &nbsp;|&nbsp; **Developer:** Ubisoft Osaka &nbsp;|&nbsp; **Publisher:** Ubisoft &nbsp;|&nbsp; **Genre:** Music, Rhythm &nbsp;|&nbsp; **Released:** October 22, 2013
+
+[Wikipedia](https://en.wikipedia.org/wiki/Just_Dance_Kids_2014)
+
+---
+
+### Kamen Rider: Battride War
+
+**Platforms:** PlayStation 3, PlayStation 4, PlayStation Vita, Wii U &nbsp;|&nbsp; **Developer:** Eighting, Bandai Namco Studios &nbsp;|&nbsp; **Publisher:** Bandai Namco Games &nbsp;|&nbsp; **Genre:** Action role-playing game, hack and slash
+
+[Wikipedia](https://en.wikipedia.org/wiki/Kamen_Rider:_Battride_War)
 
 ---
 
@@ -1655,6 +1823,14 @@
 **Platforms:** Wii U, Nintendo 3DS &nbsp;|&nbsp; **Genre:** Action RPG &nbsp;|&nbsp; **Released:** March 19
 
 [Wikipedia](https://en.wikipedia.org/wiki/Monster_Hunter_3_Ultimate)
+
+---
+
+### Monster Hunter Frontier G
+
+**Platforms:** Windows, Xbox 360, PlayStation 3, Wii U &nbsp;|&nbsp; **Developer:** Capcom &nbsp;|&nbsp; **Publisher:** Capcom &nbsp;|&nbsp; **Genre:** Action role-playing &nbsp;|&nbsp; **Released:** April 17, 2013
+
+[Wikipedia](https://en.wikipedia.org/wiki/Monster_Hunter_Frontier_G)
 
 ---
 
@@ -1826,6 +2002,14 @@
 
 ---
 
+### Strength of the Sword 3
+
+**Platforms:** Wii U, PlayStation 3 &nbsp;|&nbsp; **Developer:** Ivent Games &nbsp;|&nbsp; **Publisher:** Ivent Games &nbsp;|&nbsp; **Genre:** Action, hack and slash &nbsp;|&nbsp; **Released:** June 5, 2013
+
+[Wikipedia](https://en.wikipedia.org/wiki/Strength_of_the_Sword_3)
+
+---
+
 ### Super Mario 3D World
 
 <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/cob8wi.jpg" alt="Super Mario 3D World cover" width="200">
@@ -1970,6 +2154,14 @@
 
 ---
 
+### Ultratron
+
+**Platforms:** Windows, macOS, Linux, PlayStation 3, PlayStation 4, PlayStation Vita, Wii U, Xbox One &nbsp;|&nbsp; **Developer:** Puppy Games &nbsp;|&nbsp; **Publisher:** Puppy Games, Curve Studios &nbsp;|&nbsp; **Genre:** Top-down shooter &nbsp;|&nbsp; **Released:** March 18, 2013
+
+[Wikipedia](https://en.wikipedia.org/wiki/Ultratron)
+
+---
+
 ### Wii Fit U
 
 **Platforms:** Wii U &nbsp;|&nbsp; **Genre:** Fitness &nbsp;|&nbsp; **Released:** November 1
@@ -2052,6 +2244,14 @@
 
 ---
 
+### Cabela's Dangerous Hunts 2013
+
+**Platforms:** Wii U, PlayStation 3, Xbox 360, Windows, Wii &nbsp;|&nbsp; **Developer:** Cauldron &nbsp;|&nbsp; **Publisher:** Activision &nbsp;|&nbsp; **Genre:** Hunting, action, simulation &nbsp;|&nbsp; **Released:** October 23, 2012
+
+[Wikipedia](https://en.wikipedia.org/wiki/Cabela's_Dangerous_Hunts_2013)
+
+---
+
 ### Call of Duty: Black Ops II
 
 <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co1wkv.jpg" alt="Call of Duty: Black Ops II cover" width="200">
@@ -2120,6 +2320,14 @@
 
 ---
 
+### Funky Barn
+
+**Platforms:** Nintendo 3DS, Wii U &nbsp;|&nbsp; **Developer:** Tantalus Media &nbsp;|&nbsp; **Publisher:** Ubisoft, 505 Games &nbsp;|&nbsp; **Genre:** Simulation &nbsp;|&nbsp; **Released:** April 3, 2012
+
+[Wikipedia](https://en.wikipedia.org/wiki/Funky_Barn)
+
+---
+
 ### Game Party Champions
 
 **Platforms:** Wii U &nbsp;|&nbsp; **Released:** November 18
@@ -2159,6 +2367,14 @@
 ### Marvel Avengers: Battle for Earth
 
 **Platforms:** Xbox 360, Wii U &nbsp;|&nbsp; **Released:** October 30
+
+---
+
+### Mass Effect 3: From Ashes
+
+**Platforms:** Windows, Xbox 360, PlayStation 3, Wii U &nbsp;|&nbsp; **Developer:** BioWare &nbsp;|&nbsp; **Publisher:** Electronic Arts &nbsp;|&nbsp; **Genre:** Action role-playing, third-person shooter &nbsp;|&nbsp; **Released:** March 6, 2012
+
+[Wikipedia](https://en.wikipedia.org/wiki/Mass_Effect_3:_From_Ashes)
 
 ---
 
@@ -2242,6 +2458,14 @@
 
 ---
 
+### Romance of the Three Kingdoms 12
+
+**Platforms:** Windows, PlayStation 3, PlayStation Vita, Wii U &nbsp;|&nbsp; **Developer:** Koei Tecmo &nbsp;|&nbsp; **Publisher:** Koei Tecmo &nbsp;|&nbsp; **Genre:** Strategy &nbsp;|&nbsp; **Released:** December 13, 2012
+
+[Wikipedia](https://en.wikipedia.org/wiki/Romance_of_the_Three_Kingdoms_12)
+
+---
+
 ### Scribblenauts Unlimited
 
 <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co1my3.jpg" alt="Scribblenauts Unlimited cover" width="200">
@@ -2292,6 +2516,14 @@
 
 ---
 
+### Sports Connection
+
+**Platforms:** Wii U &nbsp;|&nbsp; **Developer:** Ubisoft Barcelona, Longtail Studios &nbsp;|&nbsp; **Publisher:** Ubisoft &nbsp;|&nbsp; **Genre:** Sports &nbsp;|&nbsp; **Released:** November 18, 2012
+
+[Wikipedia](https://en.wikipedia.org/wiki/Sports_Connection)
+
+---
+
 ### Tank! Tank! Tank!
 
 **Platforms:** Wii U &nbsp;|&nbsp; **Released:** November 18
@@ -2336,6 +2568,14 @@
 
 ---
 
+### Wii Karaoke U
+
+**Platforms:** Wii U &nbsp;|&nbsp; **Developer:** Xing &nbsp;|&nbsp; **Publisher:** Nintendo &nbsp;|&nbsp; **Genre:** Rhythm &nbsp;|&nbsp; **Released:** December 8, 2012
+
+[Wikipedia](https://en.wikipedia.org/wiki/Wii_Karaoke_U)
+
+---
+
 ### Wipeout: The Game 3
 
 **Platforms:** Wii U &nbsp;|&nbsp; **Released:** November 18
@@ -2359,5 +2599,31 @@
 > _Synopsis source: IGDB_
 
 [Wikipedia](https://en.wikipedia.org/wiki/ZombiU) · [IGDB](https://www.igdb.com/games/zombiu)
+
+---
+
+## 2011
+
+[Full 2011 page](../years/2011.md)
+
+### Bridge Constructor
+
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co3c18.jpg" alt="Bridge Constructor cover" width="200">
+
+**Platforms:** Android, iOS, Linux, macOS, Windows, PlayStation Vita, Wii U, Windows Phone &nbsp;|&nbsp; **Developer:** ClockStone &nbsp;|&nbsp; **Publisher:** Headup Games, ClockStone, Joindots &nbsp;|&nbsp; **Genre:** Simulation, puzzle
+
+> Bridge Constructor put you into the role of an engineer in bridge building. In numerous different levels you'll design and create bridges over deep valleys, dangerous canyons, city streets and raging rivers. Once satisfied with your creation, send the trucks and cars to cross the bridge.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Bridge_Constructor) · [IGDB](https://www.igdb.com/games/bridge-constructor)
+
+---
+
+### Deus Ex: Human Revolution – The Missing Link
+
+**Platforms:** Windows, PlayStation 3, Xbox 360, macOS, Wii U &nbsp;|&nbsp; **Developer:** Eidos Montréal &nbsp;|&nbsp; **Publisher:** Square Enix &nbsp;|&nbsp; **Genre:** Action role-playing, first-person shooter, stealth &nbsp;|&nbsp; **Released:** October 18, 2011
+
+[Wikipedia](https://en.wikipedia.org/wiki/Deus_Ex:_Human_Revolution_%E2%80%93_The_Missing_Link)
 
 ---
