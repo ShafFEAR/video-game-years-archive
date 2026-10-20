@@ -144,3 +144,59 @@ def resolve_platform(token, legend, unknown_log=None):
 def slugify(name):
     slug = re.sub(r"[^a-z0-9]+", "-", name.lower()).strip("-")
     return slug or "unknown"
+
+
+# IGDB's own platform names -> the same canonical display names PLATFORM_NAMES
+# uses, so titles added from IGDB land in the same platform filter buckets as
+# the Wikipedia-sourced ones (e.g. "Windows", not a separate "PC (Microsoft
+# Windows)"). Matched case-insensitively; anything missing falls back to
+# IGDB's raw name and gets logged for later curation, same as resolve_platform.
+IGDB_PLATFORM_NAMES = {
+    # Computers / mobile / browser
+    "PC (Microsoft Windows)": "Windows", "Mac": "macOS", "Linux": "Linux", "DOS": "MS-DOS",
+    "iOS": "iOS", "Android": "Android", "Web browser": "Browser", "Windows Phone": "Windows Phone",
+    "Amiga": "Amiga", "Commodore C64/128/MAX": "Commodore 64", "Atari ST/STE": "Atari ST",
+    "Atari 8-bit": "Atari 8-bit", "Apple II": "Apple II", "MSX": "MSX", "ZX Spectrum": "ZX Spectrum",
+    "BBC Microcomputer System": "BBC Micro", "BlackBerry OS": "BlackBerry OS",
+    # Sony
+    "PlayStation 5": "PlayStation 5", "PlayStation 4": "PlayStation 4", "PlayStation 3": "PlayStation 3",
+    "PlayStation 2": "PlayStation 2", "PlayStation": "PlayStation",
+    "PlayStation Portable": "PlayStation Portable", "PlayStation Vita": "PlayStation Vita",
+    "PlayStation VR": "PlayStation VR", "PlayStation VR2": "PlayStation VR2",
+    # Microsoft
+    "Xbox Series X|S": "Xbox Series X/S", "Xbox One": "Xbox One", "Xbox 360": "Xbox 360", "Xbox": "Xbox",
+    # Nintendo
+    "Nintendo Switch 2": "Nintendo Switch 2", "Nintendo Switch": "Nintendo Switch",
+    "Wii U": "Wii U", "Wii": "Wii", "Nintendo GameCube": "GameCube", "Nintendo 64": "Nintendo 64",
+    "Super Nintendo Entertainment System": "Super Nintendo Entertainment System",
+    "Super Famicom": "Super Famicom", "Nintendo Entertainment System": "Nintendo Entertainment System",
+    "Family Computer": "Famicom", "Nintendo 3DS": "Nintendo 3DS", "New Nintendo 3DS": "Nintendo 3DS",
+    "Nintendo DS": "Nintendo DS", "Nintendo DSi": "Nintendo DS", "Game Boy Advance": "Game Boy Advance",
+    "Game Boy Color": "Game Boy Color", "Game Boy": "Game Boy", "Virtual Boy": "Virtual Boy",
+    # Sega / others
+    "Dreamcast": "Dreamcast", "Sega Saturn": "Sega Saturn", "Sega Mega Drive/Genesis": "Genesis / Mega Drive",
+    "Sega Master System/Mark III": "Sega Master System", "Sega Game Gear": "Game Gear",
+    "Sega CD": "Sega CD", "Sega 32X": "Sega 32X", "Arcade": "Arcade",
+    "Atari 2600": "Atari 2600", "Atari 5200": "Atari 5200", "Atari 7800": "Atari 7800",
+    "Atari Jaguar": "Atari Jaguar", "Atari Lynx": "Atari Lynx",
+    "3DO Interactive Multiplayer": "3DO Interactive Multiplayer", "Philips CD-i": "CD-i",
+    "Neo Geo CD": "Neo Geo CD", "Neo Geo Pocket Color": "Neo Geo Pocket Color",
+    "Neo Geo Pocket": "Neo Geo Pocket", "TurboGrafx-16/PC Engine": "PC Engine",
+    "WonderSwan": "WonderSwan", "WonderSwan Color": "WonderSwan Color", "N-Gage": "N-Gage",
+    "Ouya": "Ouya",
+    # Streaming / VR
+    "Google Stadia": "Stadia", "Stadia": "Stadia", "Amazon Luna": "Amazon Luna",
+    "Meta Quest 2": "Meta Quest", "Meta Quest 3": "Meta Quest", "Oculus Quest": "Meta Quest",
+    "Oculus Rift": "Oculus Rift",
+}
+_IGDB_PLATFORM_NAMES_CI = {k.lower(): v for k, v in IGDB_PLATFORM_NAMES.items()}
+
+
+def resolve_igdb_platform(name, unknown_log=None):
+    """An IGDB platform name -> canonical display name (raw name if uncurated)."""
+    resolved = _IGDB_PLATFORM_NAMES_CI.get(name.strip().lower())
+    if resolved:
+        return resolved
+    if unknown_log is not None:
+        unknown_log.add(name.strip())
+    return name.strip()

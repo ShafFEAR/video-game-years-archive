@@ -88,11 +88,13 @@ An archive of video games organized by year, built from Wikipedia's [List of yea
 ## Coverage notes
 
 - Wikipedia stopped maintaining an exhaustive month-by-month release table on most "X in video games" articles after **2011** -- the sheer volume of releases (digital storefronts, mobile, indies) made that impractical for editors to keep up by hand. For 2012 onward, this archive uses whatever curated release/score table each year's article still maintains (often a "best-reviewed games" chart), so per-year counts drop sharply after 2011 -- that's a real gap in the source data, not a scraper bug.
-- A handful of years (1990, 1991, 1993, and 2027-2028) have no structured release table on Wikipedia at all and so contribute no titles here.
+- A handful of years (1990, 1991, 1993, and 2027-2028) have no structured release table on Wikipedia at all and so contribute no Wikipedia titles here.
 - Platform tags come from each article's own abbreviation legend (e.g. "PS2", "WIN") plus a curated lookup table for consistency across years; see `scripts/platforms.py`.
 
 ## Attribution & licensing
 
 - Year-by-year title listings and platform tags are drawn from Wikipedia (text available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)).
-- This phase is Wikipedia-only: no cover art or synopses yet. `scripts/enrich_rawg.py` is ready to add both from [RAWG](https://rawg.io/apidocs)'s API once you supply a free API key (RAWG requires signing up for one; that step has to happen on your end). `scripts/enrich_steam.py` adds Steam store links via Steam's own public, key-free API for titles available on Steam.
-- This is an unofficial, non-commercial fan archive/index, not affiliated with Wikipedia, the Wikimedia Foundation, Valve/Steam, or RAWG.
+- Steam store links, cover art and descriptions for 566 titles come from Steam's own public Storefront API (`scripts/enrich_steam.py`). SteamDB's FAQ says it doesn't allow scraping, so Steam's API is used instead.
+- `scripts/fetch_igdb.py` can add notable titles for the years Wikipedia covers thinly from [IGDB](https://www.igdb.com) once free Twitch developer credentials are supplied (see the top of the script).
+- `scripts/enrich_rawg.py` can add cover art and synopses for every platform from [RAWG](https://rawg.io/apidocs) given a free API key. Creating the IGDB and RAWG accounts has to happen on the repo owner's end.
+- This is an unofficial, non-commercial fan archive/index, not affiliated with Wikipedia, the Wikimedia Foundation, Valve/Steam, IGDB/Twitch, or RAWG.
