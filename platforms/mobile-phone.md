@@ -2,7 +2,25 @@
 
 [← Back to index](../README.md)
 
-8 titles across 3 years in this archive.
+10 titles across 5 years in this archive.
+
+## 2017
+
+[Full 2017 page](../years/2017.md)
+
+### Fire Emblem Heroes
+
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co1rc1.jpg" alt="Fire Emblem Heroes cover" width="200">
+
+**Platforms:** Mobile phone, Android, iOS &nbsp;|&nbsp; **Developer:** Nintendo Entertainment Planning & Development, Intelligent Systems &nbsp;|&nbsp; **Publisher:** Nintendo &nbsp;|&nbsp; **Genre:** Role-playing (RPG), Simulator, Strategy, Turn-based strategy (TBS) &nbsp;|&nbsp; **Released:** February 2, 2017
+
+> "Take part in strategic turn-based battles streamlined for on-the-go play with maps that fit in the palm of your hand! Lead your army with easy touch and drag controls, including the ability to attack by simply swiping an ally over an enemy."
+>
+> _Synopsis source: IGDB_
+
+[IGDB](https://www.igdb.com/games/fire-emblem-heroes)
+
+---
 
 ## 2008
 
@@ -85,5 +103,23 @@
 ### Star Wars Episode III: Revenge of the Sith
 
 **Platforms:** PlayStation 2, Xbox, Game Boy Advance, Nintendo DS, Mobile phone &nbsp;|&nbsp; **Released:** May 5
+
+---
+
+## 1998
+
+[Full 1998 page](../years/1998.md)
+
+### Snake
+
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/cocbq1.jpg" alt="Snake cover" width="200">
+
+**Platforms:** Mobile phone &nbsp;|&nbsp; **Developer:** Nokia &nbsp;|&nbsp; **Publisher:** Nokia &nbsp;|&nbsp; **Genre:** Arcade &nbsp;|&nbsp; **Released:** March 31, 1998
+
+> "Snake" was one of the preloaded games featured on the Nokia 6110 "Ultra". Players control a snake that grows each time you collect orbs that randomly spawn across the screen. Collecting these orbs also increases player's score. You lose if you collide with a wall or with the body of the snake. It was possible to play a "two player" mode via infrared.
+>
+> _Synopsis source: IGDB_
+
+[IGDB](https://www.igdb.com/games/snake)
 
 ---

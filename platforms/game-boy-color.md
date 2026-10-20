@@ -2,7 +2,7 @@
 
 [← Back to index](../README.md)
 
-67 titles across 5 years in this archive.
+72 titles across 5 years in this archive.
 
 ## 2002
 
@@ -502,16 +502,100 @@
 
 [Full 1998 page](../years/1998.md)
 
+### Bomberman Quest
+
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co44e1.jpg" alt="Bomberman Quest cover" width="200">
+
+**Platforms:** Game Boy Color &nbsp;|&nbsp; **Developer:** Eleven &nbsp;|&nbsp; **Publisher:** Electro Brain, Virgin Interactive Entertainment, Hudson Soft &nbsp;|&nbsp; **Genre:** Adventure &nbsp;|&nbsp; **Released:** December 24, 1998
+
+> Bomberman is on his way home when the engines on his ship are stolen. As a result, he must make an emergency landing on a strange planet. However, Bomberman is not traveling alone he's got all of the monsters he has captured on his adventures with him. After a rough crash landing, the monsters escaped. You must help Bomberman recapture the monsters and find his engines in order to return home. You'll travel to four different regions of the planet collecting bombs, finding items, and getting hints for how to proceed on your adventure. Along with the main quest a Two-Player mode is also included, in which you try to trap your opponent by setting bombs; the first person to be victimized by a bomb loses.
+>
+> _Synopsis source: IGDB_
+
+[IGDB](https://www.igdb.com/games/bomberman-quest)
+
+---
+
+### Dragon Warrior Monsters
+
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co8ghx.jpg" alt="Dragon Warrior Monsters cover" width="200">
+
+**Platforms:** Game Boy Color &nbsp;|&nbsp; **Developer:** Tose, Armor Project, Bird Studio &nbsp;|&nbsp; **Publisher:** Eidos Interactive, Enix &nbsp;|&nbsp; **Genre:** Role-playing (RPG), Adventure &nbsp;|&nbsp; **Released:** September 25, 1998
+
+> Dragon Quest Monsters is a turn-based RPG that involves recruiting monsters to fight for you in random encounters. Two recruited monsters can be fused together for a better one and extra monsters can be stored on a farm while not in your party.  It was released in Japan for the Game Boy Color before the system was released.
+>
+> _Synopsis source: IGDB_
+
+[IGDB](https://www.igdb.com/games/dragon-warrior-monsters)
+
+---
+
+### Pokémon Trading Card Game
+
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2ojr.jpg" alt="Pokémon Trading Card Game cover" width="200">
+
+**Platforms:** Game Boy Color &nbsp;|&nbsp; **Developer:** Hudson Soft &nbsp;|&nbsp; **Publisher:** Gradiente, Nintendo &nbsp;|&nbsp; **Genre:** Adventure, Card & Board Game &nbsp;|&nbsp; **Released:** December 18, 1998
+
+> Your goal in life is to become a Pokemon Card Master. In order to do that, you must pick a deck from three starter packs of cards based on Charmander, Squirtle, and Bulbasaur and travel to the eight card clubs and defeat their leaders. Along the way, you will challenge many players to collect new cards and the helpful Professor Mason will aid you by giving you cards as well. While becoming a card master is a laudable accomplishment, the real goal of the game is to collect all of the cards over 200 in all. If you want to collect all of the cards, you must play human opponents in the Pop mode to get a chance to earn rare cards. All of the complexity of the real-world game has been captured here. Play Pokemon Trading Card Game and become a Pokemon Card Master.
+>
+> _Synopsis source: IGDB_
+
+[IGDB](https://www.igdb.com/games/pokemon-trading-card-game)
+
+---
+
+### Quest for Camelot
+
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co25vj.jpg" alt="Quest for Camelot cover" width="200">
+
+**Platforms:** Game Boy Color &nbsp;|&nbsp; **Developer:** Titus France &nbsp;|&nbsp; **Publisher:** Titus France, Gradiente &nbsp;|&nbsp; **Genre:** Role-playing (RPG), Adventure &nbsp;|&nbsp; **Released:** December 1, 1998
+
+> King Arthur has lost his legendary sword, Excalibur. Now the evil Sir Ruber is out to claim Camelot. Since the King is unable to fight, he trusts a young girl named Kayley to fight for him and save his Kingdom. You take the role of Kayley as you explore nine worlds and a total of 60 areas in search of Excalibur. Along the way, you will have to learn how to use several devices including a slingshot, snorkel, and grappling hook to perform tasks and solve puzzles. Naturally, Sir Ruber has henchmen out to stop you, but use your sword to dispatch them. As the game progresses, you will learn a powerful spin-attack as well as dart- and lunge-attacks. Will Kayley be able to save Camelot? Will finding Excalibur be enough to help King Arthur? Find the answers to these questions by playing QUEST FOR CAMELOT.
+>
+> _Synopsis source: IGDB_
+
+[IGDB](https://www.igdb.com/games/quest-for-camelot)
+
+---
+
+### Tetris DX
+
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co3a6u.jpg" alt="Tetris DX cover" width="200">
+
+**Platforms:** Game Boy Color &nbsp;|&nbsp; **Developer:** Nintendo &nbsp;|&nbsp; **Publisher:** Nintendo, Gradiente &nbsp;|&nbsp; **Genre:** Puzzle, Strategy &nbsp;|&nbsp; **Released:** October 21, 1998
+
+> Tetris DX has everything you need to satisfy your puzzle appetite. Play marathon, the classic Tetris game. Try your hand at ultra or 40 lines, two Tetris games with a twist. The vs. game will have you playing for hours!
+>
+> _Synopsis source: IGDB_
+
+[IGDB](https://www.igdb.com/games/tetris-dx)
+
+---
+
 ### The Legend of Zelda: Link's Awakening DX
 
-**Platforms:** Game Boy Color &nbsp;|&nbsp; **Publisher:** Nintendo &nbsp;|&nbsp; **Released:** December 12, 1998
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co4o47.jpg" alt="The Legend of Zelda: Link's Awakening DX cover" width="200">
+
+**Platforms:** Game Boy Color &nbsp;|&nbsp; **Publisher:** Nintendo &nbsp;|&nbsp; **Genre:** Puzzle, Adventure &nbsp;|&nbsp; **Released:** December 12, 1998
+
+> The Legend of Zelda: Link's Awakening DX is an updated re-release of Link's Awakening with several new additions, the most notable of which being the entire game is now in color.
+>
+> _Synopsis source: IGDB_
+
+[IGDB](https://www.igdb.com/games/the-legend-of-zelda-link-s-awakening-dx)
 
 ---
 
 ### Wario Land II
 
-**Platforms:** Game Boy Color &nbsp;|&nbsp; **Publisher:** Nintendo &nbsp;|&nbsp; **Released:** March 7, 1998
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co4qfz.jpg" alt="Wario Land II cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/Wario_Land_II)
+**Platforms:** Game Boy Color &nbsp;|&nbsp; **Publisher:** Nintendo &nbsp;|&nbsp; **Genre:** Platform, Adventure &nbsp;|&nbsp; **Released:** March 7, 1998
+
+> What kind of no-good ruffians would break into my castle and steal my treasures?! It's that rotten Captain Syrup and that Black Sugar Gang! I'm looking out for bad guys and scavenging for coins as I track down my treasures. If I don't get them all the first time, that's OK. I can go back again and again until I find them all. Captain Syrup doesn't stand a chance against me!
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Wario_Land_II) · [IGDB](https://www.igdb.com/games/wario-land-ii)
 
 ---

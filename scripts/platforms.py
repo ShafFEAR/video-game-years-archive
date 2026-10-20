@@ -169,8 +169,9 @@ IGDB_PLATFORM_NAMES = {
     "Nintendo Switch 2": "Nintendo Switch 2", "Nintendo Switch": "Nintendo Switch",
     "Wii U": "Wii U", "Wii": "Wii", "Nintendo GameCube": "GameCube", "Nintendo 64": "Nintendo 64",
     "Super Nintendo Entertainment System": "Super Nintendo Entertainment System",
-    "Super Famicom": "Super Famicom", "Nintendo Entertainment System": "Nintendo Entertainment System",
-    "Family Computer": "Famicom", "Nintendo 3DS": "Nintendo 3DS", "New Nintendo 3DS": "Nintendo 3DS",
+    # Regional names share a bucket, as in the Wikipedia legend ("Super NES / Super Famicom").
+    "Super Famicom": "Super Nintendo Entertainment System", "Nintendo Entertainment System": "Nintendo Entertainment System",
+    "Family Computer": "Nintendo Entertainment System", "Nintendo 3DS": "Nintendo 3DS", "New Nintendo 3DS": "Nintendo 3DS",
     "Nintendo DS": "Nintendo DS", "Nintendo DSi": "Nintendo DS", "Game Boy Advance": "Game Boy Advance",
     "Game Boy Color": "Game Boy Color", "Game Boy": "Game Boy", "Virtual Boy": "Virtual Boy",
     # Sega / others
@@ -187,7 +188,19 @@ IGDB_PLATFORM_NAMES = {
     # Streaming / VR
     "Google Stadia": "Stadia", "Stadia": "Stadia", "Amazon Luna": "Amazon Luna",
     "Meta Quest 2": "Meta Quest", "Meta Quest 3": "Meta Quest", "Oculus Quest": "Meta Quest",
-    "Oculus Rift": "Oculus Rift",
+    "Oculus Rift": "Oculus Rift", "SteamVR": "SteamVR", "Windows Mixed Reality": "Windows Mixed Reality",
+    "Oculus VR": "Oculus VR", "Gear VR": "Gear VR", "Daydream": "Daydream", "visionOS": "visionOS",
+    "Amazon Fire TV": "Amazon Fire TV", "Windows Mobile": "Windows Mobile",
+    "Legacy Mobile Device": "Mobile phone", "OnLive Game System": "OnLive", "Zeebo": "Zeebo",
+    # Japanese / European home computers and add-ons seen in older years
+    "Neo Geo AES": "Neo Geo AES", "Neo Geo MVS": "Arcade", "PC-FX": "PC-FX",
+    "PC-9800 Series": "PC-9800 series", "PC-8800 Series": "PC-8800 series",
+    "NEC PC-6000 Series": "NEC PC-6000", "Sharp X68000": "Sharp X68000", "Sharp X1": "Sharp X1",
+    "FM Towns": "FM Towns", "Amstrad CPC": "Amstrad CPC", "Acorn Archimedes": "Acorn Archimedes",
+    "Apple IIGS": "Apple IIGS", "MSX2": "MSX", "Amiga CD32": "Amiga CD32", "Commodore CDTV": "Amiga CDTV",
+    "Satellaview": "Satellaview", "Family Computer Disk System": "Famicom Disk System", "64DD": "Nintendo 64DD",
+    "Atari Jaguar CD": "Atari Jaguar CD", "LaserActive": "LaserActive",
+    "Turbografx-16/PC Engine CD": "PC Engine CD", "PC Engine SuperGrafx": "SuperGrafx",
 }
 _IGDB_PLATFORM_NAMES_CI = {k.lower(): v for k, v in IGDB_PLATFORM_NAMES.items()}
 

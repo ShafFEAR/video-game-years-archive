@@ -2,7 +2,25 @@
 
 [← Back to index](../README.md)
 
-479 titles across 9 years in this archive.
+480 titles across 10 years in this archive.
+
+## 2012
+
+[Full 2012 page](../years/2012.md)
+
+### Danganronpa 2: Goodbye Despair
+
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2h6j.jpg" alt="Danganronpa 2: Goodbye Despair cover" width="200">
+
+**Platforms:** PlayStation Portable &nbsp;|&nbsp; **Developer:** Spike Chunsoft &nbsp;|&nbsp; **Publisher:** NIS America, Spike Chunsoft &nbsp;|&nbsp; **Genre:** Adventure, Visual Novel &nbsp;|&nbsp; **Released:** July 26, 2012
+
+> The follow up to Danganronpa: Trigger Happy Havoc. The main character, Hajime Hinata, a new 'Ultimate' student at Hope's Peak Academy. On their first day, Hajime and all of his classmates are taken on a field trip to the mysterious Jabberwock island by their anthropomorphic rabbit teacher, Usami. Usami explains that on this island the students are to have fun together and become friends to gather Hope Fragments. Usami's field trip does not go as planned when Monokuma appears and begins a new Killing Game. Anyone that wants to leave the island must commit a murder and get away with it. If the murderer is successful, he/she is allowed to leave the island, while everyone else is killed. When a murder occurs, the player investigates. After the investigations, a trial commences to determine who the culprit is.
+>
+> _Synopsis source: IGDB_
+
+[IGDB](https://www.igdb.com/games/danganronpa-2-goodbye-despair)
+
+---
 
 ## 2011
 

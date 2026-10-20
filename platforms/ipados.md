@@ -18,6 +18,6 @@
 >
 > _Synopsis source: Steam_
 
-[Wikipedia](https://en.wikipedia.org/wiki/Resident_Evil_4_(2023_video_game)) · [Steam](https://store.steampowered.com/app/2050650)
+[Wikipedia](https://en.wikipedia.org/wiki/Resident_Evil_4_(2023_video_game)) · [Steam](https://store.steampowered.com/app/2050650) · [IGDB](https://www.igdb.com/games/resident-evil-4--1)
 
 ---

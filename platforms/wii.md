@@ -2,7 +2,163 @@
 
 [← Back to index](../README.md)
 
-732 titles across 6 years in this archive.
+742 titles across 10 years in this archive.
+
+## 2016
+
+[Full 2016 page](../years/2016.md)
+
+### Just Dance 2017
+
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co1xf2.jpg" alt="Just Dance 2017 cover" width="200">
+
+**Platforms:** Wii U, PlayStation 3, Windows, PlayStation 4, Xbox One, Xbox 360, Wii &nbsp;|&nbsp; **Developer:** Ubisoft Milan, Ubisoft Pune, Ubisoft Paris &nbsp;|&nbsp; **Publisher:** Ubisoft Entertainment &nbsp;|&nbsp; **Genre:** Music &nbsp;|&nbsp; **Released:** October 25, 2016
+
+> Grab your friends and family: it’s time to dance! Just Dance is back with over 40 new tracks, 6 games modes, and ever more songs through Just Dance Unlimited subscription service! Featuring the ultimate tracklist including Cheap Thrills by Sia Ft. Sean Paul, Sorry by Justin Bieber and many more!
+>
+> _Synopsis source: IGDB_
+
+[IGDB](https://www.igdb.com/games/just-dance-2017)
+
+---
+
+## 2014
+
+[Full 2014 page](../years/2014.md)
+
+### Skylanders: Trap Team
+
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co1ysd.jpg" alt="Skylanders: Trap Team cover" width="200">
+
+**Platforms:** Wii, Xbox 360, Wii U, Android, Xbox One, PlayStation 4, PlayStation 3, iOS &nbsp;|&nbsp; **Developer:** Toys for Bob &nbsp;|&nbsp; **Publisher:** Activision &nbsp;|&nbsp; **Genre:** Platform, Role-playing (RPG), Hack and slash/Beat 'em up, Adventure &nbsp;|&nbsp; **Released:** September 30, 2014
+
+> In Skylanders Trap Team, Kaos continues his ongoing quest to rule over Skylands. He has discovered the location of the legendary Cloudcracker Prison -- a fortress built entirely out of the magical substance Traptanium and home to Skylands’ most nefarious baddies. In an attempt to build his own army of foes, Kaos blows up the prison, releasing the most wanted villains and blasting shards of Traptanium to Earth in the form of Traps. Now it’s up to Portal Masters to recapture all of the escaped villains using powerful Traptanium Traps and defeat Kaos before it’s too late!
+>
+> _Synopsis source: IGDB_
+
+[IGDB](https://www.igdb.com/games/skylanders-trap-team)
+
+---
+
+## 2013
+
+[Full 2013 page](../years/2013.md)
+
+### Just Dance 2014
+
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co1xf3.jpg" alt="Just Dance 2014 cover" width="200">
+
+**Platforms:** Wii U, Wii, PlayStation 3, PlayStation 4, Xbox 360, Xbox One &nbsp;|&nbsp; **Developer:** Ubisoft Milan, Ubisoft Barcelona, Ubisoft Reflections, Ubisoft Paris, Ubisoft Bucharest, Ubisoft Pune, Ubisoft Montpellier &nbsp;|&nbsp; **Publisher:** Ubisoft Entertainment &nbsp;|&nbsp; **Genre:** Music &nbsp;|&nbsp; **Released:** October 1, 2013
+
+> Just Dance 2014 is a dance rhythm game that has you match the choreography of an on-screen dancer to earn points for accuracy, using your motion controller for real-time movement tracking. Beyond single-player routines, it expands the experience with online multiplayer via World Dance Floor, where you compete simultaneously with others, plus Wii U and Xbox-style second-screen support that helps you manage routines, playlists, and performance from a companion device. The update also adds spotlight-friendly On Stage modes, letting one player lead with others as backup dancers, along with AutoDance to record and share your gameplay and Karaoke for singing along to on-screen lyrics. For variety and fitness, it supports customized workout playlists, calorie tracking across modes, and more dances per track through alternate choreographies in categories like Just Sweat, Extreme, Battle, and Mash-Up.
+>
+> _Synopsis source: IGDB_
+
+[IGDB](https://www.igdb.com/games/just-dance-2014)
+
+---
+
+### Skylanders: Swap Force
+
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co1ysb.jpg" alt="Skylanders: Swap Force cover" width="200">
+
+**Platforms:** Wii, Xbox 360, Wii U, Xbox One, PlayStation 4, PlayStation 3 &nbsp;|&nbsp; **Developer:** Vicarious Visions &nbsp;|&nbsp; **Publisher:** Activision &nbsp;|&nbsp; **Genre:** Platform, Role-playing (RPG), Hack and slash/Beat 'em up, Adventure &nbsp;|&nbsp; **Released:** October 13, 2013
+
+> Skylanders: Swap Force is a platformer video game developed by Vicarious Visions and published by Activision. It is the third main game in the Skylanders video game and toy franchise, following 2012's Skylanders: Giants, which was a direct sequel to 2011's Skylanders: Spyro's Adventure (the spin-off of The Legend of Spyro series). It is the game before Skylanders: Trap Team and features the voices of John DiMaggio, Jess Harnell, Audrey Wasilewski, Richard Tatum, David Sobolov, Josh Keaton, Keythe Farley, Dave Wittenberg, Joey Camen, Gregg Berger, Troy Baker and Robin Atkin Downes.  It is the first Skylanders game to be released in North America before other regions, unlike the previous two games where Australia got the installments first. It is also the first Skylanders game not to be owned by Vivendi.
+>
+> _Synopsis source: IGDB_
+
+[IGDB](https://www.igdb.com/games/skylanders-swap-force)
+
+---
+
+## 2012
+
+[Full 2012 page](../years/2012.md)
+
+### Just Dance 4
+
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co1xf6.jpg" alt="Just Dance 4 cover" width="200">
+
+**Platforms:** Wii, Wii U, PlayStation 3, Xbox 360 &nbsp;|&nbsp; **Developer:** Ubisoft Paris &nbsp;|&nbsp; **Publisher:** Ubisoft Entertainment &nbsp;|&nbsp; **Genre:** Music &nbsp;|&nbsp; **Released:** October 2, 2012
+
+> Just Dance 4 features more than 40 new tracks, ranging from chart-topping Billboard hits to classic dance party tracks. Whether it's pop, Hip-Hop, rock, R&B, country or funk, there is something for everyone to dance to.
+>
+> _Synopsis source: IGDB_
+
+[IGDB](https://www.igdb.com/games/just-dance-4)
+
+---
+
+### LEGO Batman 2: DC Super Heroes
+
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2j0q.jpg" alt="LEGO Batman 2: DC Super Heroes cover" width="200">
+
+**Platforms:** PlayStation 3, Wii, macOS, Windows, Xbox 360 &nbsp;|&nbsp; **Developer:** Traveller's Tales &nbsp;|&nbsp; **Publisher:** Feral Interactive, WB Games &nbsp;|&nbsp; **Genre:** Platform, Hack and slash/Beat 'em up, Adventure &nbsp;|&nbsp; **Released:** June 19, 2012
+
+> The Dynamic Duo of Batman and Robin join other famous super heroes from the DC Universe including Superman, Wonder Woman and Green Lantern to save Gotham City from destruction at the hands of the notorious villains Lex Luthor and the Joker.
+>
+> _Synopsis source: IGDB_
+
+[IGDB](https://www.igdb.com/games/lego-batman-2-dc-super-heroes)
+
+---
+
+### LEGO The Lord of the Rings
+
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co20pp.jpg" alt="LEGO The Lord of the Rings cover" width="200">
+
+**Platforms:** Wii, Xbox 360, Windows, PlayStation 3 &nbsp;|&nbsp; **Developer:** Traveller's Tales &nbsp;|&nbsp; **Publisher:** Feral Interactive, WB Games &nbsp;|&nbsp; **Genre:** Adventure &nbsp;|&nbsp; **Released:** November 13, 2012
+
+> Based on The Lord of the Rings motion picture trilogy, LEGO The Lord of the Rings follows the original storylines of The Lord of the Rings: The Fellowship of the Ring, The Lord of the Rings: The Two Towers, and The Lord of the Rings: The Return of the King, taking players through the epic story events reimagined with the humor and endless variety of LEGO play.  Trusted with the dangerous task to destroy an ancient magical ring that threatens all that is good, Frodo is forced to leave his peaceful home. But the ring wants to be found and the road to Mount Doom, the only place where it can be destroyed, will be perilous and riddled with Orcs and fouler things.  To help Frodo, a Fellowship is formed —Aragorn the Ranger, Gandalf the Wizard, Legolas the Elf, Gimli the Dwarf, Boromir a Man of Gondor, and Frodo’s Hobbit friends Sam, Merry and Pippin. Players relive the legend through the LEGO minifigures, as they explore wonders, solve timeless riddles, and overcome endless foes in their quest to destroy the Ring.
+>
+> _Synopsis source: IGDB_
+
+[IGDB](https://www.igdb.com/games/lego-the-lord-of-the-rings)
+
+---
+
+### Mario Party 9
+
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2241.jpg" alt="Mario Party 9 cover" width="200">
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** NDCube &nbsp;|&nbsp; **Publisher:** Nintendo &nbsp;|&nbsp; **Genre:** Puzzle, Adventure, Card & Board Game &nbsp;|&nbsp; **Released:** March 2, 2012
+
+> Grab your friends and family and captain the crew to victory!  The party is back and bigger than ever in the Mario Party 9 game for Wii, featuring all-new ways to play! For the first time in the franchise, boss battles crash the party and challenge players to compete to defeat a common enemy. In addition, players now travel across stages together in a vehicle towards a common goal - overcoming obstacles, battling bosses, and collecting Mini Stars stolen by Bowser and his minions. Featuring 80 new minigames, adventurous new stages, and all-new ways to play that blend cooperative and competitive action for up to four players*, Mario Party 9 is the perfect way to get the party started.  -For the first time in the Mario Party franchise, each stage culminates in a Boss Battle. Collectively, players must combine their strength to defeat classic foes such as Bowser and King Boo while still playing competitively to boost their own individual scores.  -In another first for the series, players ride across stages together in special vehicles. Players take turns as Captain of the vehicle by hitting Dice Blocks to move the party forward, hoping to land on lucky spaces. The vehicles also help to streamline game play and keep everyone involved in the action.  -Unique Captain Events on each stage give players a new way to change the shape of the game.  -In Mario Party 9, each themed stage has a clear destination point but with multiple paths along the way, so no two games will play the same. From Toad Road to Boo’s Horror Castle, players will encounter a wide variety of familiar Mario franchise elements in new environments that can be enjoyed solo or with friends.  -Includes 80 outrageous new minigames that find players making pizzas, escaping haunted mansions, and racing snowmobiles.  -No time to play through an entire stage? New minigame modes let players enjoy the action in smaller chunks of time. They can hone their skills at any minigame in Free Play mode or try the Extras mode that includes Goomba Bowling and the puzzle-based Castle Clearout.  -Every time they play, players can earn Party Points that are used to unlock special items and features.  * Additional accessories are required for multiplayer game play and are sold separately.
+>
+> _Synopsis source: IGDB_
+
+[IGDB](https://www.igdb.com/games/mario-party-9)
+
+---
+
+### Skylanders: Giants
+
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co1ysh.jpg" alt="Skylanders: Giants cover" width="200">
+
+**Platforms:** Wii U, Wii, Xbox 360, PlayStation 3 &nbsp;|&nbsp; **Developer:** Toys for Bob &nbsp;|&nbsp; **Publisher:** Activision &nbsp;|&nbsp; **Genre:** Role-playing (RPG), Hack and slash/Beat 'em up, Adventure &nbsp;|&nbsp; **Released:** October 17, 2012
+
+> Skylanders: Giants is a 2012 video game in the Skylanders series, a direct sequel to the 2011 game Skylanders: Spyro's Adventure and features the voices of Kevin Michael Richardson, Greg Ellis, Peter Lurie, Steve Blum, Dave Wittenberg, Carlos Alazraqui, Kevin Sorbo, Bobcat Goldthwait, Patrick Seitz and Julie Nathanson. It is the game before Skylanders: Swap Force. As the title suggests, it features larger Skylanders known as "Giants", along with other new gameplay mechanics.
+>
+> _Synopsis source: IGDB_
+
+[IGDB](https://www.igdb.com/games/skylanders-giants)
+
+---
+
+### WWE '13
+
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2sjj.jpg" alt="WWE '13 cover" width="200">
+
+**Platforms:** Wii, Xbox 360, PlayStation 3 &nbsp;|&nbsp; **Developer:** Yuke's &nbsp;|&nbsp; **Publisher:** 2K Sports, THQ, 2K &nbsp;|&nbsp; **Genre:** Fighting, Platform, Sport, Strategy &nbsp;|&nbsp; **Released:** October 30, 2012
+
+> WWE ’13 transforms WWE gameplay through the introduction of WWE Live, completely changing the way players experience the videogame’s audio and presentation elements. Predator Technology returns to further implement critical gameplay improvements, while fan favourites in WWE Universe Mode and the franchise’s renowned Creation Suite offer the utmost in player freedom.  Furthermore, WWE ’13 focuses on the Attitude Era of the WWF, replacing its Road to WrestleMania Mode with an Attitude Era Mode where the player plays through the Attitude Era. The game gives such characters as Stone Cold Steve Austin and elements as the Monday Night Wars a more important role in the game than in any previous WWE game.
+>
+> _Synopsis source: IGDB_
+
+[IGDB](https://www.igdb.com/games/wwe-13)
+
+---
 
 ## 2011
 

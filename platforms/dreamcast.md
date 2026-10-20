@@ -2,7 +2,7 @@
 
 [← Back to index](../README.md)
 
-82 titles across 5 years in this archive.
+83 titles across 6 years in this archive.
 
 ## 2003
 
@@ -624,17 +624,29 @@
 
 ### Sonic Adventure
 
-**Platforms:** Dreamcast &nbsp;|&nbsp; **Released:** September 9
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co5jac.jpg" alt="Sonic Adventure cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/Sonic_Adventure)
+**Platforms:** Dreamcast &nbsp;|&nbsp; **Genre:** Platform, Adventure &nbsp;|&nbsp; **Released:** September 9
+
+> Sonic Adventure is a 3D platformer video game in the Sonic the Hedgehog series. The player can control six characters from the Sonic universe, each with their own gameplay and point of view of the story. The game is divided up into two types of levels: Action Stages and Adventure Fields. The division of Action Stages and Adventure Fields are a serious departure from all previous Sonic games. Adventure Fields are non-linear game stages that contain very few items, generally designed for puzzle solving, exploration and plot advancement. Action Stages are more speed based and have Rings scattered in them. Sonic Adventure was the top-selling Dreamcast game and received a sequel in 2001, marking the 10th anniversary of the Sonic the Hedgehog series.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Sonic_Adventure) · [IGDB](https://www.igdb.com/games/sonic-adventure)
 
 ---
 
 ### Soulcalibur
 
-**Platforms:** Dreamcast, Arcade &nbsp;|&nbsp; **Publisher:** Namco &nbsp;|&nbsp; **Released:** August 5, 1999
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co1x6g.jpg" alt="Soulcalibur cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/Soulcalibur_(video_game))
+**Platforms:** Dreamcast, Arcade &nbsp;|&nbsp; **Publisher:** Namco &nbsp;|&nbsp; **Genre:** Fighting, Arcade &nbsp;|&nbsp; **Released:** August 5, 1999
+
+> SoulCalibur is a weapon-based 3D fighting game developed by Project Soul and produced by Namco. It is the second game in the Soul series, preceded by Soul Edge (1996). Originally released in arcades in 1998, it ran on the Namco System 12 hardware. In 1999 it was ported to the Dreamcast with improved graphics and new features. The North American version was released in September 1999 as a launch title for the Dreamcast and was part of the successful launch of the new console. It became available as a downloadable title on Xbox 360's Xbox Live Marketplace in 2008. The title brought many innovations to the fighting game genre that include a heavy emphasis on weapons and a unique eight-way movement system. Soulcalibur is widely regarded as one of the best Dreamcast titles and is one of the most critically acclaimed fighting games of all time.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Soulcalibur_(video_game)) · [IGDB](https://www.igdb.com/games/soulcalibur)
 
 ---
 
@@ -657,5 +669,23 @@
 **Platforms:** Dreamcast &nbsp;|&nbsp; **Released:** December 31
 
 [Wikipedia](https://en.wikipedia.org/wiki/Zombie_Revenge)
+
+---
+
+## 1998
+
+[Full 1998 page](../years/1998.md)
+
+### Incoming: The Final Conflict
+
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/cobvet.jpg" alt="Incoming: The Final Conflict cover" width="200">
+
+**Platforms:** Dreamcast, Windows &nbsp;|&nbsp; **Developer:** Rage Software &nbsp;|&nbsp; **Publisher:** Xicat Interactive, Imagineer, Interplay, MacPlay, Funbox Media, Blue Moon Red Owl, Global VR, Rage Software, Buka Entertainment &nbsp;|&nbsp; **Genre:** Shooter, Real Time Strategy (RTS), Strategy, Arcade &nbsp;|&nbsp; **Released:** June 26, 1998
+
+> Set in the near-future of 2009, the game primarily revolves around controlling vehicles and turrets to fight alien invaders of Earth.
+>
+> _Synopsis source: IGDB_
+
+[IGDB](https://www.igdb.com/games/incoming-the-final-conflict)
 
 ---

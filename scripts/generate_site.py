@@ -12,6 +12,7 @@ fetch_igdb.py) is merged in at render time: titles Wikipedia doesn't have
 are added, and ones it does have gain IGDB's cover/summary.
 """
 import json
+import shutil
 import sys
 from collections import OrderedDict, defaultdict
 from pathlib import Path
@@ -27,6 +28,8 @@ ENRICHED_DIR = ROOT / "data" / "enriched"
 IGDB_DIR = ROOT / "data" / "igdb"
 YEARS_DIR = ROOT / "years"
 PLATFORMS_DIR = ROOT / "platforms"
+# GitHub stops rendering Markdown files somewhere around 512 KB; stay well under.
+PLATFORM_PAGE_LIMIT = 400_000
 
 
 def load_all_years():
@@ -44,6 +47,11 @@ def load_all_years():
 def igdb_entry(rec):
     """An IGDB title Wikipedia doesn't have, shaped like a Wikipedia-scraped
     entry so every renderer below treats the two alike."""
+    release_date = rec.get("release_date_text")
+    if rec.get("status") == "upcoming" and (rec.get("first_release_date") or "").endswith("-12-31"):
+        # IGDB files "sometime this year" under December 31; showing that as
+        # an exact date would claim precision it doesn't have.
+        release_date = f"{rec['year']} (date TBA)"
     return {
         "year": rec["year"],
         "section": "IGDB notable releases",
@@ -56,7 +64,8 @@ def igdb_entry(rec):
         "developer": rec.get("developer"),
         "publisher": rec.get("publisher"),
         "genre": ", ".join(rec["genres"]) or None,
-        "release_date": rec.get("release_date_text"),
+        "release_date": release_date,
+        "release_label": "Expected" if rec.get("status") == "upcoming" else "Released",
         "source": "igdb",
         "igdb": rec,
     }
@@ -142,7 +151,7 @@ def escape_md(text):
     return str(text).replace("|", "\\|").replace("\n", " ").strip()
 
 
-def render_entry(entry, show_year=False):
+def render_entry(entry, show_year=False, root="../"):
     lines = []
     title = entry.get("title") or "(untitled)"
     lines.append(f"### {escape_md(title)}")
@@ -150,13 +159,14 @@ def render_entry(entry, show_year=False):
 
     enrichment = get_enrichment(entry)
     if enrichment and enrichment["image_path"]:
-        # Both years/*.md and platforms/*.md live one level below the repo
-        # root, same as years/ did in the anime archive, so a local image
-        # under images/ is always "../" from here regardless of which page
-        # is rendering. IGDB covers are hotlinked absolute URLs instead.
+        # years/*.md and platforms/*.md live one level below the repo root
+        # (same as years/ did in the anime archive), so a local image under
+        # images/ is "../" from there; the per-year pages of a split
+        # platform sit one level deeper and pass root="../../". IGDB covers
+        # are hotlinked absolute URLs instead.
         src = enrichment["image_path"]
         if not src.startswith("http"):
-            src = "../" + src
+            src = root + src
         lines.append(f'<img src="{src}" alt="{escape_md(title)} cover" width="200">')
         lines.append("")
 
@@ -175,7 +185,7 @@ def render_entry(entry, show_year=False):
     if genre_text:
         meta_bits.append(f"**Genre:** {escape_md(genre_text)}")
     if entry.get("release_date"):
-        meta_bits.append(f"**Released:** {escape_md(entry['release_date'])}")
+        meta_bits.append(f"**{entry.get('release_label', 'Released')}:** {escape_md(entry['release_date'])}")
     if meta_bits:
         lines.append(" &nbsp;|&nbsp; ".join(meta_bits))
         lines.append("")
@@ -245,7 +255,41 @@ def generate_platform_pages(by_year):
             lines.append("")
             for entry in sorted(years[year], key=lambda e: e["title"].lower()):
                 lines.append(render_entry(entry))
-        (PLATFORMS_DIR / f"{slug}.md").write_text("\n".join(lines), encoding="utf-8")
+        page = "\n".join(lines)
+        page_path = PLATFORMS_DIR / f"{slug}.md"
+        year_dir = PLATFORMS_DIR / slug
+
+        if len(page.encode("utf-8")) <= PLATFORM_PAGE_LIMIT:
+            page_path.write_text(page, encoding="utf-8")
+            if year_dir.is_dir():  # left over from when this platform was big enough to split
+                shutil.rmtree(year_dir)
+            continue
+
+        # Too big for GitHub to render as one page: platforms/{slug}.md
+        # becomes an index of years (so existing links keep working) with
+        # one page per year under platforms/{slug}/.
+        index = lines[:4] + [
+            f"{total} titles across {len(years)} years in this archive. That's too many for one "
+            "page, so each year has its own.",
+            "",
+            "| Year | Titles |",
+            "|---|---|",
+        ]
+        year_dir.mkdir(exist_ok=True)
+        for year in sorted(years.keys(), reverse=True):
+            index.append(f"| [{year}]({slug}/{year}.md) | {len(years[year])} |")
+            year_lines = [
+                f"# {plat} — {year}",
+                "",
+                f"[← All {plat} years](../{slug}.md) · [Full {year} page](../../years/{year}.md)",
+                "",
+                f"{len(years[year])} {plat} titles in {year}.",
+                "",
+            ]
+            for entry in sorted(years[year], key=lambda e: e["title"].lower()):
+                year_lines.append(render_entry(entry, root="../../"))
+            (year_dir / f"{year}.md").write_text("\n".join(year_lines), encoding="utf-8")
+        page_path.write_text("\n".join(index) + "\n", encoding="utf-8")
     return platform_meta
 
 

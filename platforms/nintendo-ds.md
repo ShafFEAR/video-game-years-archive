@@ -2,7 +2,53 @@
 
 [← Back to index](../README.md)
 
-814 titles across 8 years in this archive.
+817 titles across 9 years in this archive.
+
+## 2012
+
+[Full 2012 page](../years/2012.md)
+
+### Pokémon Black Version 2
+
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co1z8d.jpg" alt="Pokémon Black Version 2 cover" width="200">
+
+**Platforms:** Nintendo DS &nbsp;|&nbsp; **Developer:** Game Freak &nbsp;|&nbsp; **Publisher:** Nintendo, The Pokémon Company &nbsp;|&nbsp; **Genre:** Role-playing (RPG), Turn-based strategy (TBS), Adventure &nbsp;|&nbsp; **Released:** June 23, 2012
+
+> Pokémon Black Version 2 and Pokémon White Version 2 are the second and final paired versions of Generation V and are the sequels of Pokémon Black and White, respectively. Both games were revealed on Pokémon Smash! by Junichi Masuda, and subsequently the official Japanese and international Pokémon websites, on February 26, 2012. They were released in Japan on June 23, 2012, in North America on October 7, 2012, in Australia on October 11, 2012, in Europe on October 12, 2012 and in South Korea on November 8, 2012. The games feature two new forms of Kyurem that serve as the game mascots of the games: Black Kyurem for Black 2 and White Kyurem for White 2.
+>
+> _Synopsis source: IGDB_
+
+[IGDB](https://www.igdb.com/games/pokemon-black-version-2)
+
+---
+
+### Pokémon Conquest
+
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2jxm.jpg" alt="Pokémon Conquest cover" width="200">
+
+**Platforms:** Nintendo DS &nbsp;|&nbsp; **Developer:** Koei Tecmo Games &nbsp;|&nbsp; **Publisher:** The Pokémon Company, Nintendo &nbsp;|&nbsp; **Genre:** Role-playing (RPG), Strategy, Turn-based strategy (TBS) &nbsp;|&nbsp; **Released:** March 17, 2012
+
+> Pokémon Conquest is a strategy game set in the Ransei region. You play as a Warlord of the Primus Kingdom, one of the 17 Kingdoms in the Ransei region. You are charged with the task of battling against a wide variety of powerful opponents, including the mighty Nobunaga, whose goal is to destroy the Ransei region!The 17 Kingdoms of the Ransei region possess a variety of Armies competing for control. The 17 Kingdoms are also deeply linked to a specific Pokémon type. Primus Kingdom, for example, has a strong connection with Normal-type Pokémon!
+>
+> _Synopsis source: IGDB_
+
+[IGDB](https://www.igdb.com/games/pokemon-conquest)
+
+---
+
+### Pokémon White Version 2
+
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co1z8e.jpg" alt="Pokémon White Version 2 cover" width="200">
+
+**Platforms:** Nintendo DS &nbsp;|&nbsp; **Developer:** Game Freak &nbsp;|&nbsp; **Publisher:** The Pokémon Company, Nintendo &nbsp;|&nbsp; **Genre:** Role-playing (RPG), Turn-based strategy (TBS), Adventure &nbsp;|&nbsp; **Released:** June 23, 2012
+
+> Pokémon White Version 2 and Pokémon Black Version 2 are the second and final paired versions of Generation V and are the sequels of Pokémon Black and White, respectively. Both games were revealed on Pokémon Smash! by Junichi Masuda, and subsequently the official Japanese and international Pokémon websites, on February 26, 2012. They were released in Japan on June 23, 2012, in North America on October 7, 2012, in Australia on October 11, 2012, in Europe on October 12, 2012 and in South Korea on November 8, 2012. The games feature two new forms of Kyurem that serve as the game mascots of the games: Black Kyurem for Black 2 and White Kyurem for White 2.
+>
+> _Synopsis source: IGDB_
+
+[IGDB](https://www.igdb.com/games/pokemon-white-version-2)
+
+---
 
 ## 2011
 
