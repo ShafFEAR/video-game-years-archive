@@ -2,7 +2,57 @@
 
 [← Back to index](../README.md)
 
-160 titles across 8 years in this archive.
+505 titles across 10 years in this archive.
+
+## 2022
+
+[Full 2022 page](../years/2022.md)
+
+### Andro Dunos II
+
+**Platforms:** Nintendo 3DS, Windows, Nintendo Switch, PlayStation 4 &nbsp;|&nbsp; **Developer:** Picorinne Soft &nbsp;|&nbsp; **Publisher:** Just For Games, PixelHeart &nbsp;|&nbsp; **Genre:** Shoot 'em up &nbsp;|&nbsp; **Released:** March 25
+
+[Wikipedia](https://en.wikipedia.org/wiki/Andro_Dunos_II)
+
+---
+
+## 2019
+
+[Full 2019 page](../years/2019.md)
+
+### Etrian Odyssey Nexus
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Publisher:** Atlus &nbsp;|&nbsp; **Genre:** RPG, Dungeon crawl &nbsp;|&nbsp; **Released:** February 5
+
+[Wikipedia](https://en.wikipedia.org/wiki/Etrian_Odyssey_Nexus)
+
+---
+
+### Kirby's Extra Epic Yarn
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Publisher:** Nintendo &nbsp;|&nbsp; **Genre:** Platformer &nbsp;|&nbsp; **Released:** March 8
+
+[Wikipedia](https://en.wikipedia.org/wiki/Kirby%27s_Extra_Epic_Yarn)
+
+---
+
+### Mario & Luigi: Bowser's Inside Story + Bowser Jr.'s Journey
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Publisher:** Nintendo &nbsp;|&nbsp; **Genre:** RPG &nbsp;|&nbsp; **Released:** January 11
+
+---
+
+### Persona Q2: New Cinema Labyrinth
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Publisher:** Atlus &nbsp;|&nbsp; **Genre:** Dungeon crawl, RPG &nbsp;|&nbsp; **Released:** June 4
+
+---
+
+### Shakedown: Hawaii
+
+**Platforms:** Windows, Nintendo Switch, PlayStation 4, PlayStation Vita, Nintendo 3DS &nbsp;|&nbsp; **Publisher:** Vblank Entertainment &nbsp;|&nbsp; **Genre:** Action-adventure &nbsp;|&nbsp; **Released:** May 7
+
+---
 
 ## 2018
 
@@ -12,7 +62,7 @@
 
 <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/cockca.jpg" alt="Bloodstained: Curse of the Moon cover" width="200">
 
-**Platforms:** Nintendo 3DS, Nintendo Switch, Windows, PlayStation Vita, Xbox One, PlayStation 4 &nbsp;|&nbsp; **Developer:** Inti Creates &nbsp;|&nbsp; **Publisher:** Inti Creates &nbsp;|&nbsp; **Genre:** Platform, Hack and slash/Beat 'em up, Indie &nbsp;|&nbsp; **Released:** May 23, 2018
+**Platforms:** Windows, Nintendo Switch, PlayStation 4, Xbox One, Nintendo 3DS, PlayStation Vita &nbsp;|&nbsp; **Publisher:** Inti Creates &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** May 24
 
 > “Bloodstained: Curse of the Moon” is packed with the retro charm that made the legendary 2D action games of the 80s so enjoyable.  Take control of one of four characters that can be interchanged at any time during gameplay: The sword-swinging exorcist Zangetsu, the whip-wielding heroine Miriam, the magic using alchemist Alfred, and Gebel, who can turn into a bat and take to the skies. Finally, you can experience multiple endings depending on how you interact with the characters you meet.  This project is the 8-bit style game promised as a stretch goal of the 2015 Kickstarter campaign for "Bloodstained: Ritual of the Night." Backers of the Kickstarter campaign are encouraged to check the Kickstarter page for updates.
 >
@@ -22,17 +72,87 @@
 
 ---
 
+### Captain Toad: Treasure Tracker
+
+**Platforms:** Nintendo Switch, Nintendo 3DS &nbsp;|&nbsp; **Publisher:** Nintendo &nbsp;|&nbsp; **Genre:** Puzzle-platformer &nbsp;|&nbsp; **Released:** July 13
+
+---
+
+### Detective Pikachu
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Publisher:** Nintendo &nbsp;|&nbsp; **Genre:** Adventure &nbsp;|&nbsp; **Released:** March 23
+
+[Wikipedia](https://en.wikipedia.org/wiki/Detective_Pikachu_(video_game))
+
+---
+
+### Dillon's Dead-Heat Breakers
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Publisher:** Nintendo &nbsp;|&nbsp; **Genre:** Action, Tower defense &nbsp;|&nbsp; **Released:** May 24
+
+[Wikipedia](https://en.wikipedia.org/wiki/Dillon%27s_Dead-Heat_Breakers)
+
+---
+
+### Jake Hunter Detective Story: Ghost of the Dusk
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Publisher:** Arc System Works &nbsp;|&nbsp; **Genre:** Visual novel &nbsp;|&nbsp; **Released:** September 28
+
+---
+
+### Kirby Battle Royale
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Publisher:** Nintendo &nbsp;|&nbsp; **Genre:** Brawler &nbsp;|&nbsp; **Released:** January 19
+
+[Wikipedia](https://en.wikipedia.org/wiki/Kirby_Battle_Royale)
+
+---
+
 ### Luigi's Mansion
 
 <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/cob8pr.jpg" alt="Luigi's Mansion cover" width="200">
 
-**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Developer:** Grezzo, Nintendo EPD Production Group No. 6 &nbsp;|&nbsp; **Publisher:** Nintendo of America, Nintendo &nbsp;|&nbsp; **Genre:** Adventure &nbsp;|&nbsp; **Released:** October 12, 2018
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Publisher:** Nintendo &nbsp;|&nbsp; **Genre:** Action-adventure &nbsp;|&nbsp; **Released:** October 12
 
 > G-g-ghosts! All this ghost-catching tomfoolery pays off! As you suck 'em up with your Poltergust 3000, you could also rake in millions in hidden, in-game riches for our hard-luck hero. Make sure to search every area using the Game Boy Horror's map on your touchscreen and activate its Boo Radar to track down every Boo in the mansion or spot ghosts' weak points. After beating and capturing boss ghosts, you can select their portraits from the gallery to best your own score in tense rematches—a new feature in the Nintendo 3DS version!
 >
 > _Synopsis source: IGDB_
 
-[IGDB](https://www.igdb.com/games/luigis-mansion)
+[Wikipedia](https://en.wikipedia.org/wiki/Luigi%27s_Mansion) · [IGDB](https://www.igdb.com/games/luigis-mansion)
+
+---
+
+### Persona Q2: New Cinema Labyrinth
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Publisher:** Atlus &nbsp;|&nbsp; **Genre:** RPG, Dungeon crawl &nbsp;|&nbsp; **Released:** November 29 (JP)
+
+---
+
+### Radiant Historia: Perfect Chronology
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Publisher:** Atlus &nbsp;|&nbsp; **Genre:** RPG &nbsp;|&nbsp; **Released:** February 13
+
+[Wikipedia](https://en.wikipedia.org/wiki/Radiant_Historia)
+
+---
+
+### Shin Megami Tensei: Strange Journey Redux
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Publisher:** Atlus &nbsp;|&nbsp; **Genre:** RPG &nbsp;|&nbsp; **Released:** May 15
+
+---
+
+### Sushi Striker: The Way of Sushido
+
+**Platforms:** Nintendo Switch, Nintendo 3DS &nbsp;|&nbsp; **Publisher:** Nintendo &nbsp;|&nbsp; **Genre:** Action, Puzzle &nbsp;|&nbsp; **Released:** June 8
+
+---
+
+### The Alliance Alive
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Publisher:** Atlus &nbsp;|&nbsp; **Genre:** RPG &nbsp;|&nbsp; **Released:** March 27
+
+[Wikipedia](https://en.wikipedia.org/wiki/The_Alliance_Alive)
 
 ---
 
@@ -40,19 +160,35 @@
 
 <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co1wmc.jpg" alt="WarioWare Gold cover" width="200">
 
-**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Developer:** Nintendo Entertainment Planning & Development, Intelligent Systems &nbsp;|&nbsp; **Publisher:** Nintendo of Europe, Nintendo of America, Nintendo &nbsp;|&nbsp; **Genre:** Arcade &nbsp;|&nbsp; **Released:** July 27, 2018
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Publisher:** Nintendo &nbsp;|&nbsp; **Genre:** Action, Rhythm &nbsp;|&nbsp; **Released:** August 3
 
 > The infamous schemer, Wario, is back!  Play his brand-new microgame collection, where you'll have seconds to complete 300 different microgames. Better think fast to succeed! You'll use the touchscreen, tilt the system, push buttons, and rock the mic as you laugh through fully voiced stories featuring new and classic characters!
 >
 > _Synopsis source: IGDB_
 
-[IGDB](https://www.igdb.com/games/warioware-gold)
+[Wikipedia](https://en.wikipedia.org/wiki/WarioWare_Gold) · [IGDB](https://www.igdb.com/games/warioware-gold)
+
+---
+
+### Yo-Kai Watch Blasters: Red Cat Corp and White Dog Squad
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Publisher:** Nintendo &nbsp;|&nbsp; **Genre:** RPG &nbsp;|&nbsp; **Released:** September 7
+
+[Wikipedia](https://en.wikipedia.org/wiki/Yo-kai_Watch_Blasters)
 
 ---
 
 ## 2017
 
 [Full 2017 page](../years/2017.md)
+
+### Attack on Titan: Escape from Certain Death
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Released:** March 30 (JP)
+
+[Wikipedia](https://en.wikipedia.org/wiki/Attack_on_Titan#Video_games)
+
+---
 
 ### Blaster Master Zero
 
@@ -68,11 +204,69 @@
 
 ---
 
+### Creeping Terror
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Released:** October 31
+
+---
+
+### Culdcept Revolt
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** TBS &nbsp;|&nbsp; **Released:** October 3
+
+[Wikipedia](https://en.wikipedia.org/wiki/Culdcept_Revolt)
+
+---
+
+### Dragon Quest VIII: Journey of the Cursed King
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** RPG &nbsp;|&nbsp; **Released:** January 20
+
+---
+
+### Dragon Quest XI
+
+**Platforms:** Nintendo 3DS, PlayStation 4 &nbsp;|&nbsp; **Genre:** RPG &nbsp;|&nbsp; **Released:** July 29 (JP)
+
+[Wikipedia](https://en.wikipedia.org/wiki/Dragon_Quest_XI)
+
+---
+
+### Elliot Quest
+
+**Platforms:** PlayStation 4, Nintendo 3DS, Xbox One &nbsp;|&nbsp; **Genre:** Platformer, Adventure, Metroidvania &nbsp;|&nbsp; **Released:** May 9
+
+[Wikipedia](https://en.wikipedia.org/wiki/Elliot_Quest)
+
+---
+
+### Etrian Odyssey V: Beyond the Myth
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** RPG, Dungeon crawl &nbsp;|&nbsp; **Released:** October 17
+
+---
+
+### Ever Oasis
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** Action-adventure, RPG &nbsp;|&nbsp; **Released:** June 23
+
+[Wikipedia](https://en.wikipedia.org/wiki/Ever_Oasis)
+
+---
+
+### Farming Simulator 18
+
+**Platforms:** Nintendo 3DS, PlayStation Vita &nbsp;|&nbsp; **Genre:** Simulation &nbsp;|&nbsp; **Released:** June 6
+
+[Wikipedia](https://en.wikipedia.org/wiki/Farming_Simulator)
+
+---
+
 ### Fire Emblem Echoes: Shadows of Valentia
 
 <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/coba3w.jpg" alt="Fire Emblem Echoes: Shadows of Valentia cover" width="200">
 
-**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Developer:** Intelligent Systems &nbsp;|&nbsp; **Publisher:** Nintendo &nbsp;|&nbsp; **Genre:** Role-playing (RPG), Turn-based strategy (TBS), Adventure &nbsp;|&nbsp; **Released:** April 20, 2017
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** Tactical RPG &nbsp;|&nbsp; **Released:** May 19
 
 > In 1992, the second game in the Fire Emblem series, Fire Emblem Gaiden, launched exclusively in Japan. Now, for the first time, fans outside of Japan will get a taste of this classic game on the Nintendo 3DS family of systems. Fire Emblem Echoes: Shadows of Valentia is inspired by the 1992 original, reimagined on a grander scale. Every aspect of the Fire Emblem Gaiden game's presentation has been updated, along with the game being fully voiced. Fire Emblem Echoes: Shadows of Valentia recreates classic Fire Emblem gameplay with a modern twist, mixing in exploration of dungeons crawling with enemies."
 >
@@ -86,13 +280,57 @@
 
 <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co24h8.jpg" alt="Fire Emblem Warriors cover" width="200">
 
-**Platforms:** Nintendo 3DS, Nintendo Switch &nbsp;|&nbsp; **Developer:** Omega Force, Team NINJA, Intelligent Systems &nbsp;|&nbsp; **Publisher:** Koei Tecmo Games, Nintendo &nbsp;|&nbsp; **Genre:** Role-playing (RPG), Simulator, Strategy, Tactical, Hack and slash/Beat 'em up &nbsp;|&nbsp; **Released:** September 28, 2017
+**Platforms:** Nintendo Switch, Nintendo 3DS &nbsp;|&nbsp; **Genre:** Hack and slash, RPG &nbsp;|&nbsp; **Released:** October 20
 
 > "Clash with legions of soldiers and fierce monsters as Marth, Xander, Corrin, and other Fire Emblem heroes unleashing over-the-top-powerful Dynasty Warriors-style moves. Take direct control of known and original Fire Emblem characters, issue them strategic commands in the midst of battle, pair up heroes to unleash stunning attacks, and more. Unlock new playable heroes, each with their own unique moves, special attacks, weapon types, and voiced dialogue in this large-scale action game from the Hyrule Warriors team."
 >
 > _Synopsis source: IGDB_
 
-[IGDB](https://www.igdb.com/games/fire-emblem-warriors)
+[Wikipedia](https://en.wikipedia.org/wiki/Fire_Emblem_Warriors) · [IGDB](https://www.igdb.com/games/fire-emblem-warriors)
+
+---
+
+### Hey! Pikmin
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** July 28
+
+[Wikipedia](https://en.wikipedia.org/wiki/Hey!_Pikmin)
+
+---
+
+### Kirby's Blowout Blast
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** Action, Platformer &nbsp;|&nbsp; **Released:** July 6
+
+[Wikipedia](https://en.wikipedia.org/wiki/Kirby%27s_Blowout_Blast)
+
+---
+
+### Layton's Mystery Journey
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** Puzzle, Adventure &nbsp;|&nbsp; **Released:** October 6
+
+[Wikipedia](https://en.wikipedia.org/wiki/Layton%27s_Mystery_Journey)
+
+---
+
+### Mario & Luigi: Superstar Saga + Bowser's Minions
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** RPG &nbsp;|&nbsp; **Released:** October 6
+
+---
+
+### Mario Party: The Top 100
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** Party &nbsp;|&nbsp; **Released:** November 10
+
+---
+
+### Mario Sports Superstars
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** Sports &nbsp;|&nbsp; **Released:** March 24
+
+[Wikipedia](https://en.wikipedia.org/wiki/Mario_Sports_Superstars)
 
 ---
 
@@ -100,7 +338,7 @@
 
 <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co3j82.jpg" alt="Metroid: Samus Returns cover" width="200">
 
-**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Developer:** Nintendo Entertainment Planning & Development, MercurySteam, Nintendo EPD Production Group No. 7 &nbsp;|&nbsp; **Publisher:** Nintendo &nbsp;|&nbsp; **Genre:** Platform, Adventure &nbsp;|&nbsp; **Released:** September 15, 2017
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** Action-adventure &nbsp;|&nbsp; **Released:** September 15
 
 > Metroid: Samus Returns is a remake of Metroid 2: Return of Samus. It uses a 3D graphic style with a side view camera that zooms in and changes for cutscenes. It also has new mechanics, items, and abilities.  "Brave the hostile terrain of an alien planet teeming with vicious life forms as legendary bounty hunter Samus Aran. Her mission? Terminate the Metroid menace in this masterful reimagining of her 1991 Game Boy adventure. Samus Aran’s arsenal has been enhanced with new moves and abilities that are sure to help her face the deadly surprises that await. This intense, side-scrolling action platformer is a great entry point into the Metroid franchise and perfect for returning fans as well, and it’s available only on the Nintendo 3DS family of systems."
 >
@@ -110,17 +348,25 @@
 
 ---
 
-### Monster Hunter Generations Ultimate
+### Miitopia
 
-<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/m0l4ma2qdh7z2m5o6m5l.jpg" alt="Monster Hunter Generations Ultimate cover" width="200">
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co6civ.jpg" alt="Miitopia cover" width="200">
 
-**Platforms:** Nintendo Switch, Nintendo 3DS &nbsp;|&nbsp; **Developer:** Capcom &nbsp;|&nbsp; **Publisher:** Capcom &nbsp;|&nbsp; **Genre:** Role-playing (RPG), Hack and slash/Beat 'em up &nbsp;|&nbsp; **Released:** March 18, 2017
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** RPG &nbsp;|&nbsp; **Released:** July 28
 
-> An enhanced version of Monster Hunter Generations. It features new monsters, hunting styles, and the more challenging G-Rank quests.  Game data from Monster Hunter Generations can be carried over, with a one way transfer, to Monster Hunter Generations Ultimate. Game data can also be moved between the 3DS and the Switch version of the game.
+> Since the dawn of ever, warriors have banded together to fight evil. Now… Mii characters based on your favorite people must unite to do turn-based battle and save Miitopia! Cast them in roles across the kingdom, manage friendships, and give them jobs with distinct stats, abilities, gear, and a custom look. Then behold as awesomeness unfolds! Guide your team of Mii characters on a quest to defeat the Dark Lord and restore the stolen faces of the citizens of Miitopia. As you watch with bated breath, Mii characters will mingle over food, camping, exercise, sleeping arrangements, and yes, combat! In these wild, yet traditional RPG battles, your party’s relationships affect the outcome. Enemies attack while you explore the world map, which is littered with hidden paths and treasures. Talk about a win-win!
 >
 > _Synopsis source: IGDB_
 
-[IGDB](https://www.igdb.com/games/monster-hunter-generations-ultimate)
+[Wikipedia](https://en.wikipedia.org/wiki/Miitopia) · [IGDB](https://www.igdb.com/games/miitopia)
+
+---
+
+### Monster Hunter Stories
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** RPG &nbsp;|&nbsp; **Released:** September 8
+
+[Wikipedia](https://en.wikipedia.org/wiki/Monster_Hunter_Stories)
 
 ---
 
@@ -152,6 +398,22 @@
 
 ---
 
+### Pokémon Ultra Sun and Ultra Moon
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** RPG &nbsp;|&nbsp; **Released:** November 17
+
+[Wikipedia](https://en.wikipedia.org/wiki/Pok%C3%A9mon_Ultra_Sun_and_Ultra_Moon)
+
+---
+
+### Poochy & Yoshi's Woolly World
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** Platformer &nbsp;|&nbsp; **Released:** February 3
+
+[Wikipedia](https://en.wikipedia.org/wiki/Poochy_%26_Yoshi%27s_Woolly_World)
+
+---
+
 ### Shovel Knight: Specter of Torment
 
 <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2gsu.jpg" alt="Shovel Knight: Specter of Torment cover" width="200">
@@ -166,15 +428,171 @@
 
 ---
 
+### Story of Seasons: Trio of Towns
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** Farming , RPG &nbsp;|&nbsp; **Released:** February 28
+
+---
+
+### Style Savvy: Styling Star
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** Simulation &nbsp;|&nbsp; **Released:** December 25
+
+---
+
+### Team Kirby Clash Deluxe
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** Action, Platformer &nbsp;|&nbsp; **Released:** April 12
+
+[Wikipedia](https://en.wikipedia.org/wiki/Team_Kirby_Clash_Deluxe)
+
+---
+
+### The Alliance Alive
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** RPG &nbsp;|&nbsp; **Released:** March 30 (JP)
+
+[Wikipedia](https://en.wikipedia.org/wiki/The_Alliance_Alive)
+
+---
+
+### Yo-Kai Watch 2: Psychic Specters
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** RPG &nbsp;|&nbsp; **Released:** September 29
+
+[Wikipedia](https://en.wikipedia.org/wiki/Yo-kai_Watch_2)
+
+---
+
 ## 2016
 
 [Full 2016 page](../years/2016.md)
+
+### 7th Dragon III Code: VFD
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** RPG &nbsp;|&nbsp; **Released:** July 12
+
+[Wikipedia](https://en.wikipedia.org/wiki/7th_Dragon)
+
+---
+
+### Azure Striker Gunvolt 2
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** Action, Platformer &nbsp;|&nbsp; **Released:** September 30
+
+[Wikipedia](https://en.wikipedia.org/wiki/Azure_Striker_Gunvolt_2)
+
+---
+
+### BoxBoxBoy!
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** Puzzle-platformer &nbsp;|&nbsp; **Released:** June 30
+
+[Wikipedia](https://en.wikipedia.org/wiki/BoxBoxBoy!)
+
+---
+
+### Bravely Second: End Layer
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** RPG &nbsp;|&nbsp; **Released:** April 15
+
+---
+
+### Cartoon Network: Battle Crashers
+
+**Platforms:** PlayStation 4, Xbox One, Nintendo 3DS &nbsp;|&nbsp; **Genre:** Brawler &nbsp;|&nbsp; **Released:** November 8
+
+---
+
+### Corpse Party
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** Survival horror &nbsp;|&nbsp; **Released:** October 25
+
+[Wikipedia](https://en.wikipedia.org/wiki/Corpse_Party)
+
+---
+
+### Disney Art Academy
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** Educational &nbsp;|&nbsp; **Released:** May 13
+
+[Wikipedia](https://en.wikipedia.org/wiki/Disney_Art_Academy)
+
+---
+
+### Disney Magical World 2
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** Life sim &nbsp;|&nbsp; **Released:** October 14
+
+[Wikipedia](https://en.wikipedia.org/wiki/Disney_Magical_World_2)
+
+---
+
+### Dragon Ball Fusions
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** RPG &nbsp;|&nbsp; **Released:** November 22
+
+[Wikipedia](https://en.wikipedia.org/wiki/Dragon_Ball_Fusions)
+
+---
+
+### Dragon Quest VII: Fragments of the Forgotten Past
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** RPG &nbsp;|&nbsp; **Released:** September 16
+
+---
+
+### Etrian Odyssey V
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** RPG, Dungeon crawl &nbsp;|&nbsp; **Released:** August 4 (JP)
+
+[Wikipedia](https://en.wikipedia.org/wiki/Etrian_Odyssey_V)
+
+---
+
+### Final Fantasy Explorers
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** Action RPG &nbsp;|&nbsp; **Released:** January 26
+
+[Wikipedia](https://en.wikipedia.org/wiki/Final_Fantasy_Explorers)
+
+---
+
+### Fire Emblem Fates
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** Tactical RPG &nbsp;|&nbsp; **Released:** February 19
+
+[Wikipedia](https://en.wikipedia.org/wiki/Fire_Emblem_Fates)
+
+---
+
+### Great Detective Pikachu
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** Adventure &nbsp;|&nbsp; **Released:** February 3 (JP)
+
+[Wikipedia](https://en.wikipedia.org/wiki/Great_Detective_Pikachu)
+
+---
+
+### Harvest Moon: Skytree Village
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** Farming , RPG, Puzzle &nbsp;|&nbsp; **Released:** November 8
+
+---
+
+### Hyrule Warriors Legends
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** Hack and slash &nbsp;|&nbsp; **Released:** March 25
+
+[Wikipedia](https://en.wikipedia.org/wiki/Hyrule_Warriors_Legends)
+
+---
 
 ### Kirby: Planet Robobot
 
 <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/cobcm6.jpg" alt="Kirby: Planet Robobot cover" width="200">
 
-**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Developer:** HAL Laboratory &nbsp;|&nbsp; **Publisher:** Nintendo, Nintendo of Europe &nbsp;|&nbsp; **Genre:** Platform, Adventure &nbsp;|&nbsp; **Released:** April 28, 2016
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** Action, Platformer &nbsp;|&nbsp; **Released:** June 10
 
 > Harness the power of a mysterious mech to stop ruthless invaders from mechanizing Kirby's home world. Smash through tough obstacles, lift heavy objects with ease, and scan enemies to shape-shift into new Modes with powerful abilities in this supercharged action-platformer!  That's right—Kirby's Robobot Armor can shape-shift into different modes by scanning enemies to copy their moves—like the new Jet Mode. Not to mention, Kirby can copy abilities the old-fashioned way too—by inhaling them! After saving the world, team up with three friends to defeat foes in Team Kirby Clash, an RPG-styled 4-player brawl where you choose from varied roles and level them up.
 >
@@ -184,25 +602,25 @@
 
 ---
 
-### LEGO Marvel's Avengers
+### Lego Marvel's Avengers
 
-<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2bvz.jpg" alt="LEGO Marvel's Avengers cover" width="200">
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2bvz.jpg" alt="Lego Marvel's Avengers cover" width="200">
 
-**Platforms:** PlayStation 4, Xbox One, Nintendo 3DS, Windows, PlayStation 3, PlayStation Vita, Wii U, Xbox 360, macOS &nbsp;|&nbsp; **Developer:** Traveller's Tales &nbsp;|&nbsp; **Publisher:** Feral Interactive, WB Games &nbsp;|&nbsp; **Genre:** Platform, Puzzle, Hack and slash/Beat 'em up, Adventure &nbsp;|&nbsp; **Released:** January 26, 2016
+**Platforms:** Windows, Xbox 360, Xbox One, PlayStation 3, PlayStation 4, PlayStation Vita, Wii U, Nintendo 3DS &nbsp;|&nbsp; **Genre:** Action-adventure &nbsp;|&nbsp; **Released:** January 26
 
 > Lego Marvel's Avengers is a Lego-themed action-adventure video game developed by Traveller's Tales and published by Warner Bros. Interactive Entertainment. It is the spin-off to Lego Marvel Super Heroes and the second instalment of the Lego Marvel franchise. The game is based on the Marvel Cinematic Universe.
 >
 > _Synopsis source: IGDB_
 
-[IGDB](https://www.igdb.com/games/lego-marvels-avengers)
+[Wikipedia](https://en.wikipedia.org/wiki/Lego_Marvel%27s_Avengers) · [IGDB](https://www.igdb.com/games/lego-marvels-avengers)
 
 ---
 
-### LEGO Star Wars: The Force Awakens
+### Lego Star Wars: The Force Awakens
 
-<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co1wnc.jpg" alt="LEGO Star Wars: The Force Awakens cover" width="200">
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co1wnc.jpg" alt="Lego Star Wars: The Force Awakens cover" width="200">
 
-**Platforms:** PlayStation 3, Xbox One, Xbox 360, Wii U, PlayStation Vita, Windows, PlayStation 4, iOS, Android, macOS, Nintendo 3DS &nbsp;|&nbsp; **Developer:** Traveller's Tales &nbsp;|&nbsp; **Publisher:** WB Games &nbsp;|&nbsp; **Genre:** Platform, Puzzle, Hack and slash/Beat 'em up, Adventure &nbsp;|&nbsp; **Released:** June 27, 2016
+**Platforms:** Windows, Xbox 360, Xbox One, PlayStation 3, PlayStation 4, PlayStation Vita, Wii U, Nintendo 3DS &nbsp;|&nbsp; **Genre:** Action-adventure &nbsp;|&nbsp; **Released:** June 28
 
 > LEGO Star Wars: The Force Awakens takes players deeper into the new film than any other game with all of the heroic characters from the movie, including Rey, Finn, Poe Dameron, Han Solo, Chewbacca, C-3PO, and BB-8, as well as Kylo Ren, General Hux and Captain Phasma, while also exploring iconic Star Wars locales, such as Jakku and Starkiller Base.  This game introduces new gameplay features, including the enhanced “Multi-Builds” system, where players can choose from multiple building options to advance the game. Gamers will be able to engage in intense new Blaster Battles for the first time, utilizing surrounding environments to drive back the First Order. Fans can also experience the thrill of high-speed flight gameplay through arena-based battles and dogfights in space, while utilizing a multitude of vehicles along the way, including the legendary Millennium Falcon.
 >
@@ -212,31 +630,57 @@
 
 ---
 
-### Mighty No. 9
+### Mario & Luigi: Paper Jam
 
-<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2ia0.jpg" alt="Mighty No. 9 cover" width="200">
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co4ahr.jpg" alt="Mario & Luigi: Paper Jam cover" width="200">
 
-**Platforms:** Nintendo 3DS, PlayStation Vita, Linux, macOS, Windows, PlayStation 3, PlayStation 4, Wii U, Xbox 360, Xbox One &nbsp;|&nbsp; **Developer:** Inti Creates, Abstraction Games, Comcept &nbsp;|&nbsp; **Publisher:** Deep Silver &nbsp;|&nbsp; **Genre:** Shooter, Platform, Adventure, Arcade &nbsp;|&nbsp; **Released:** June 21, 2016
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** RPG &nbsp;|&nbsp; **Released:** January 22
 
-> Mighty No. 9 is a Japanese 2D Side-scrolling Action game that takes the best elements from 8 and 16-bit classics that you know and love and transforms them with modern tech, fresh mechanics, and fan input into something fresh and amazing!  You play as Beck, the 9th in a line of powerful robots, and the only one not infected by a mysterious computer virus that has caused mechanized creatures the world over to go berserk. Run, jump, blast, and transform your way through twelve stages using weapons and abilities stolen from your enemies to take down your fellow Mighty Number robots and confront the final evil that threatens the planet!
+> Paper Mario jumps out of a book and into the bizarre adventures of Mario & Luigi, resulting in hilarious, and dangerous, hijinks! Become the superstar team of Mario, Luigi and Paper Mario to take on quests, take down enemies, and untangle these two unique universes in this playful new entry in the Mario & Luigi series.
 >
 > _Synopsis source: IGDB_
 
-[IGDB](https://www.igdb.com/games/mighty-no-9)
+[IGDB](https://www.igdb.com/games/mario-and-luigi-paper-jam)
 
 ---
 
-### Miitopia
+### Mario & Sonic at the Rio 2016 Olympic Games
 
-<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co6civ.jpg" alt="Miitopia cover" width="200">
+**Platforms:** Nintendo 3DS, Wii U &nbsp;|&nbsp; **Genre:** Sports, Party &nbsp;|&nbsp; **Released:** March 18
 
-**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Developer:** Nintendo Entertainment Planning & Development &nbsp;|&nbsp; **Publisher:** Nintendo &nbsp;|&nbsp; **Genre:** Role-playing (RPG), Adventure &nbsp;|&nbsp; **Released:** December 8, 2016
+[Wikipedia](https://en.wikipedia.org/wiki/Mario_%26_Sonic_at_the_Rio_2016_Olympic_Games)
 
-> Since the dawn of ever, warriors have banded together to fight evil. Now… Mii characters based on your favorite people must unite to do turn-based battle and save Miitopia! Cast them in roles across the kingdom, manage friendships, and give them jobs with distinct stats, abilities, gear, and a custom look. Then behold as awesomeness unfolds! Guide your team of Mii characters on a quest to defeat the Dark Lord and restore the stolen faces of the citizens of Miitopia. As you watch with bated breath, Mii characters will mingle over food, camping, exercise, sleeping arrangements, and yes, combat! In these wild, yet traditional RPG battles, your party’s relationships affect the outcome. Enemies attack while you explore the world map, which is littered with hidden paths and treasures. Talk about a win-win!
+---
+
+### Mario Party: Star Rush
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** Party &nbsp;|&nbsp; **Released:** November 4
+
+---
+
+### Metroid Prime: Federation Force
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** FPS &nbsp;|&nbsp; **Released:** August 19
+
+---
+
+### Mini Mario & Friends: Amiibo Challenge
+
+**Platforms:** Nintendo 3DS, Wii U &nbsp;|&nbsp; **Genre:** Puzzle &nbsp;|&nbsp; **Released:** April 28
+
+---
+
+### Monster Hunter Generations
+
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co3xrh.jpg" alt="Monster Hunter Generations cover" width="200">
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** Action RPG &nbsp;|&nbsp; **Released:** July 15
+
+> The Monster Hunter series is just as dense as the giant hunks of meat its hunting heroes scarf down: every proverbial bite is chock full of rich combat and succulent character customization, making for a dense, thoroughly satisfying action RPG feast.
 >
 > _Synopsis source: IGDB_
 
-[IGDB](https://www.igdb.com/games/miitopia)
+[Wikipedia](https://en.wikipedia.org/wiki/Monster_Hunter_Generations) · [IGDB](https://www.igdb.com/games/monster-hunter-generations)
 
 ---
 
@@ -244,7 +688,7 @@
 
 <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co5z95.jpg" alt="Phoenix Wright: Ace Attorney - Spirit of Justice cover" width="200">
 
-**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Developer:** Capcom &nbsp;|&nbsp; **Publisher:** Capcom &nbsp;|&nbsp; **Genre:** Point-and-click, Puzzle, Role-playing (RPG), Adventure, Visual Novel &nbsp;|&nbsp; **Released:** June 9, 2016
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** Adventure, Visual novel &nbsp;|&nbsp; **Released:** September 8
 
 > Ace Attorney 6 continues the investigation and courtroom of its predecessors, in which players take the role of the defense attorneys; Phoenix Wright, Apollo Justice, and Athena Cykes, and try to defend their clients. The game continues the 3D navigation introduced in Phoenix Wright: Ace Attorney − Dual Destinies, allowing players to navigate environments from various angles. Along with returning gameplay elements, such as the Mood Matrix introduced in Dual Destinies, the game introduces Spirit Medium Vision, in which the players are shown the memories of victims moment before their deaths and must find contradictions in their five senses to determine what really happened.
 >
@@ -282,17 +726,27 @@
 
 ---
 
-### Severed
+### Pokémon Sun and Moon
 
-<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2h32.jpg" alt="Severed cover" width="200">
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** RPG &nbsp;|&nbsp; **Released:** November 18
 
-**Platforms:** iOS, PlayStation Vita, Nintendo 3DS, Wii U &nbsp;|&nbsp; **Developer:** Drinkbox Studios &nbsp;|&nbsp; **Publisher:** Drinkbox Studios &nbsp;|&nbsp; **Genre:** Role-playing (RPG), Hack and slash/Beat 'em up, Adventure, Indie &nbsp;|&nbsp; **Released:** April 26, 2016
+[Wikipedia](https://en.wikipedia.org/wiki/Pok%C3%A9mon_Sun_and_Moon)
 
-> Severed Is a first-person dungeon crawler that uses touch based combat mechanics. It has a loot and crafting system based on severing enemy body parts to create and upgrade armor.
->
-> _Synopsis source: IGDB_
+---
 
-[IGDB](https://www.igdb.com/games/severed)
+### Project X Zone 2
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** Tactical RPG &nbsp;|&nbsp; **Released:** February 16
+
+[Wikipedia](https://en.wikipedia.org/wiki/Project_X_Zone_2)
+
+---
+
+### Sega 3D Classics Collection
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Released:** April 26
+
+[Wikipedia](https://en.wikipedia.org/wiki/Sega_3D_Classics_Collection)
 
 ---
 
@@ -300,13 +754,41 @@
 
 <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2ufc.jpg" alt="Shin Megami Tensei IV: Apocalypse cover" width="200">
 
-**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Developer:** Atlus &nbsp;|&nbsp; **Publisher:** Atlus, Atlus USA &nbsp;|&nbsp; **Genre:** Role-playing (RPG), Adventure &nbsp;|&nbsp; **Released:** February 10, 2016
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** RPG &nbsp;|&nbsp; **Released:** February 10 (JP)
 
 > Shin Megami Tensei IV: Apocalypse is a post-apocalyptic role-playing video game developed and published by Atlus for the Nintendo 3DS. It is set in the same universe as Shin Megami Tensei IV and forms part of the Shin Megami Tensei series, the central series of the Megami Tensei franchise.
 >
 > _Synopsis source: IGDB_
 
 [IGDB](https://www.igdb.com/games/shin-megami-tensei-iv-apocalypse)
+
+---
+
+### Sonic Boom: Fire & Ice
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** Action-adventure, Platformer &nbsp;|&nbsp; **Released:** September 27
+
+---
+
+### Style Savvy: Fashion Forward
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** Simulation &nbsp;|&nbsp; **Released:** August 19
+
+---
+
+### Super Mario Maker for Nintendo 3DS
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** Level editor , Platformer &nbsp;|&nbsp; **Released:** December 2
+
+[Wikipedia](https://en.wikipedia.org/wiki/Super_Mario_Maker_for_Nintendo_3DS)
+
+---
+
+### Yo-kai Watch 2
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** RPG &nbsp;|&nbsp; **Released:** September 30
+
+[Wikipedia](https://en.wikipedia.org/wiki/Yo-kai_Watch_2)
 
 ---
 
@@ -324,21 +806,201 @@
 
 ---
 
+### Zero Time Dilemma
+
+**Platforms:** PlayStation Vita, Nintendo 3DS, Windows &nbsp;|&nbsp; **Genre:** Adventure &nbsp;|&nbsp; **Released:** June 28
+
+[Wikipedia](https://en.wikipedia.org/wiki/Zero_Time_Dilemma)
+
+---
+
 ## 2015
 
 [Full 2015 page](../years/2015.md)
+
+### 3D Fantasy Zone
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** Scrolling shooter (horizontal) &nbsp;|&nbsp; **Released:** February 12
+
+[Wikipedia](https://en.wikipedia.org/wiki/Fantasy_Zone)
+
+---
+
+### 3D Fantasy Zone II
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** Scrolling shooter (horizontal) &nbsp;|&nbsp; **Released:** April 16
+
+[Wikipedia](https://en.wikipedia.org/wiki/Fantasy_Zone_II)
+
+---
+
+### 3D Out Run
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** Racing (arcade) &nbsp;|&nbsp; **Released:** March 12
+
+[Wikipedia](https://en.wikipedia.org/wiki/Out_Run)
+
+---
+
+### 3D Thunder Blade
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** Vehicular combat (plane) &nbsp;|&nbsp; **Released:** May 14
+
+[Wikipedia](https://en.wikipedia.org/wiki/Thunder_Blade)
+
+---
+
+### 7th Dragon III Code:Ved
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Released:** October 15 (JP)
+
+---
+
+### A-Train: City Simulator
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** Vehicle sim (train) &nbsp;|&nbsp; **Released:** April 14
+
+[Wikipedia](https://en.wikipedia.org/wiki/A-Train#A-Train_3D)
+
+---
+
+### Ace Combat 3D: Cross Rumble +
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Released:** January 29 (JP)
+
+---
+
+### Ace Combat Assault Horizon Legacy+
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** February 13
+
+---
+
+### Adventure Time: Finn & Jake Investigations
+
+**Platforms:** Windows, PlayStation 3, PlayStation 4, Xbox 360, Xbox One, Wii U, Nintendo 3DS &nbsp;|&nbsp; **Genre:** Action-adventure, RPG &nbsp;|&nbsp; **Released:** October 20
+
+---
 
 ### Animal Crossing: Happy Home Designer
 
 <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co3wic.jpg" alt="Animal Crossing: Happy Home Designer cover" width="200">
 
-**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Developer:** Nintendo EAD Software Development Group No.2 &nbsp;|&nbsp; **Publisher:** Nintendo &nbsp;|&nbsp; **Genre:** Simulator &nbsp;|&nbsp; **Released:** July 30, 2015
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** Sandbox &nbsp;|&nbsp; **Released:** July 30 (JP)
 
 > Show off your style by designing homes for all of your favorite Animal Crossing villagers! Use your creativity to design the perfect houses—inside and out—for both old and new friends. With the new amiibo cards, you can call your favorite villagers into the game.
 >
 > _Synopsis source: IGDB_
 
 [IGDB](https://www.igdb.com/games/animal-crossing-happy-home-designer)
+
+---
+
+### Assassination Classroom: Grand Siege on Kuro-sensei
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Released:** March 12 (JP)
+
+[Wikipedia](https://en.wikipedia.org/wiki/Assassination_Classroom)
+
+---
+
+### Attack on Titan: Humanity in Chains
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Released:** May 12
+
+[Wikipedia](https://en.wikipedia.org/wiki/Attack_on_Titan)
+
+---
+
+### Box Boy!
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** Puzzle-platformer &nbsp;|&nbsp; **Released:** April 2
+
+[Wikipedia](https://en.wikipedia.org/wiki/Box_Boy!)
+
+---
+
+### Brave Tank Hero
+
+**Platforms:** Nintendo 3DS, Wii U &nbsp;|&nbsp; **Released:** August 11
+
+---
+
+### Bravely Second: End Layer
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Released:** April 23 (JP)
+
+---
+
+### Chibi-Robo! Zip Lash
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** Platformer, Adventure &nbsp;|&nbsp; **Released:** October 9
+
+[Wikipedia](https://en.wikipedia.org/wiki/Chibi-Robo!_Zip_Lash)
+
+---
+
+### Citizens of Earth
+
+**Platforms:** Windows, PlayStation 4, PlayStation Vita, Wii U, Nintendo 3DS &nbsp;|&nbsp; **Released:** January 20
+
+[Wikipedia](https://en.wikipedia.org/wiki/Citizens_of_Earth)
+
+---
+
+### Code Name: S.T.E.A.M.
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Released:** March 13
+
+---
+
+### Dai Gyakuten Saiban: Naruhodō Ryūnosuke no Bōken
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Released:** July 9 (JP)
+
+---
+
+### Dr. Mario 3DS
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Released:** May 31 (JP)
+
+[Wikipedia](https://en.wikipedia.org/wiki/Dr._Mario)
+
+---
+
+### Dr. Mario: Miracle Cure
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** Puzzle &nbsp;|&nbsp; **Released:** June 11
+
+[Wikipedia](https://en.wikipedia.org/wiki/Dr._Mario)
+
+---
+
+### Dragon Ball Z: Extreme Butōden
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Developer:** Arc System Works &nbsp;|&nbsp; **Publisher:** Bandai Namco Entertainment &nbsp;|&nbsp; **Genre:** Fighting &nbsp;|&nbsp; **Released:** June 11 (JP)
+
+---
+
+### Dragon Quest VIII: Journey of the Cursed King
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Released:** August 27 (JP)
+
+---
+
+### Etrian Mystery Dungeon
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** RPG &nbsp;|&nbsp; **Released:** March 5 (JP)
+
+[Wikipedia](https://en.wikipedia.org/wiki/Etrian_Mystery_Dungeon)
+
+---
+
+### Etrian Odyssey 2 Untold: The Fafnir Knight
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** RPG, Dungeon crawl &nbsp;|&nbsp; **Released:** August 4
+
+[Wikipedia](https://en.wikipedia.org/wiki/Etrian_Odyssey#Sequels)
 
 ---
 
@@ -370,45 +1032,193 @@
 
 ---
 
-### LEGO Jurassic World
+### Fire Emblem If
 
-<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co1mws.jpg" alt="LEGO Jurassic World cover" width="200">
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Released:** June 25 (JP)
 
-**Platforms:** macOS, Windows, Wii U, Xbox One, Nintendo 3DS, PlayStation 4, Xbox 360, PlayStation Vita, PlayStation 3 &nbsp;|&nbsp; **Developer:** TT Games &nbsp;|&nbsp; **Publisher:** WB Games, Warner Bros. Entertainment Inc., Feral Interactive &nbsp;|&nbsp; **Genre:** Puzzle, Adventure &nbsp;|&nbsp; **Released:** June 11, 2015
+[Wikipedia](https://en.wikipedia.org/wiki/Fire_Emblem_If)
+
+---
+
+### Fossil Fighters: Frontier
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** RPG &nbsp;|&nbsp; **Released:** March 20
+
+---
+
+### Garfield Kart
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Released:** August 11
+
+[Wikipedia](https://en.wikipedia.org/wiki/Koch_Media)
+
+---
+
+### Gravity Falls: Legend of the Gnome Gemulets
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** Platformer &nbsp;|&nbsp; **Released:** October 20
+
+---
+
+### Gunman Clive 2
+
+**Platforms:** Nintendo 3DS, Windows &nbsp;|&nbsp; **Genre:** Action, Platformer &nbsp;|&nbsp; **Released:** January 29
+
+[Wikipedia](https://en.wikipedia.org/wiki/Gunman_Clive_2)
+
+---
+
+### Hatsune Miku: Project Mirai DX
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** Rhythm &nbsp;|&nbsp; **Released:** September 8
+
+---
+
+### IronFall: Invasion
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** TPS &nbsp;|&nbsp; **Released:** February 13
+
+---
+
+### Karous
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** Scrolling shooter (vertical) &nbsp;|&nbsp; **Released:** April 30
+
+[Wikipedia](https://en.wikipedia.org/wiki/Karous)
+
+---
+
+### Kung Fu Panda: Showdown of Legendary Legends
+
+**Platforms:** Windows, PlayStation 3, PlayStation 4, Nintendo 3DS, Wii U, Xbox 360, Xbox One &nbsp;|&nbsp; **Genre:** Fighting &nbsp;|&nbsp; **Released:** December 1
+
+---
+
+### Langrisser Re:Incarnation -Tensei-
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Released:** July 23 (JP)
+
+---
+
+### Lego City Undercover: The Chase Begins
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Released:** March 5 (JP)
+
+---
+
+### Lego Jurassic World
+
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co1mws.jpg" alt="Lego Jurassic World cover" width="200">
+
+**Platforms:** Windows, PlayStation 3, PlayStation 4, PlayStation Vita, Xbox 360, Xbox One, Wii U, Nintendo 3DS &nbsp;|&nbsp; **Genre:** Action-adventure &nbsp;|&nbsp; **Released:** June 12
 
 > Following the epic storylines of Jurassic Park, The Lost World: Jurassic Park and Jurassic Park III, as well as Jurassic World, LEGO Jurassic World is the first videogame where players will be able to relive and experience all four Jurassic films.
 >
 > _Synopsis source: IGDB_
 
-[IGDB](https://www.igdb.com/games/lego-jurassic-world)
+[Wikipedia](https://en.wikipedia.org/wiki/Lego_Jurassic_World) · [IGDB](https://www.igdb.com/games/lego-jurassic-world)
 
 ---
 
-### Mario & Luigi: Paper Jam
+### Lego Ninjago: Shadow of Ronin
 
-<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co4ahr.jpg" alt="Mario & Luigi: Paper Jam cover" width="200">
-
-**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Developer:** AlphaDream &nbsp;|&nbsp; **Publisher:** Nintendo &nbsp;|&nbsp; **Genre:** Role-playing (RPG), Adventure &nbsp;|&nbsp; **Released:** December 3, 2015
-
-> Paper Mario jumps out of a book and into the bizarre adventures of Mario & Luigi, resulting in hilarious, and dangerous, hijinks! Become the superstar team of Mario, Luigi and Paper Mario to take on quests, take down enemies, and untangle these two unique universes in this playful new entry in the Mario & Luigi series.
->
-> _Synopsis source: IGDB_
-
-[IGDB](https://www.igdb.com/games/mario-and-luigi-paper-jam)
+**Platforms:** Nintendo 3DS, PlayStation Vita &nbsp;|&nbsp; **Released:** March 24
 
 ---
 
-### Monster Hunter Generations
+### Little Battlers eXperience: Baku Boost
 
-<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co3xrh.jpg" alt="Monster Hunter Generations cover" width="200">
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Released:** August 21
 
-**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Developer:** Capcom &nbsp;|&nbsp; **Publisher:** Capcom &nbsp;|&nbsp; **Genre:** Role-playing (RPG), Hack and slash/Beat 'em up, Adventure &nbsp;|&nbsp; **Released:** November 28, 2015
+[Wikipedia](https://en.wikipedia.org/wiki/Little_Battlers_Experience#Games)
 
-> The Monster Hunter series is just as dense as the giant hunks of meat its hunting heroes scarf down: every proverbial bite is chock full of rich combat and succulent character customization, making for a dense, thoroughly satisfying action RPG feast.
+---
+
+### Lord of Magna: Maiden Heaven
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** RPG &nbsp;|&nbsp; **Released:** June 2
+
+---
+
+### Mario vs. Donkey Kong: Tipping Stars
+
+**Platforms:** Nintendo 3DS, Wii U &nbsp;|&nbsp; **Genre:** Puzzle &nbsp;|&nbsp; **Released:** March 5 (JP)
+
+---
+
+### Monster Hunter 4 Ultimate
+
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2gkk.jpg" alt="Monster Hunter 4 Ultimate cover" width="200">
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** Action RPG &nbsp;|&nbsp; **Released:** February 13
+
+> Monster Hunter 4 Ultimate (called Monster Hunter 4G in Japan) is the newest installment in the popular Monster Hunter series, which has sold more than 28 million units worldwide to date. In Monster Hunter 4 Ultimate, players will take on the role of a hunter that joins up with a traveling caravan to explore new lands and towns along the way. This grand adventure will include hundreds of quests to take on a variety of extraordinary creatures that yield valuable resources used for weapons and equipment. Launching on Nintendo 3DS, Monster Hunter 4 Ultimate represents the biggest leap forward ever for the series with more new content and exciting features than ever before. Also, for the first time ever for the Monster Hunter series on a handheld system, players will be able to join up with friends over the internet via the Nintendo Wi-Fi Connection, as well as the previously available local wireless option.
 >
 > _Synopsis source: IGDB_
 
-[IGDB](https://www.igdb.com/games/monster-hunter-generations)
+[Wikipedia](https://en.wikipedia.org/wiki/Monster_Hunter_4_Ultimate) · [IGDB](https://www.igdb.com/games/monster-hunter-4-ultimate)
+
+---
+
+### Monster Hunter Diary: Poka Poka Airou Village DX
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Released:** September 10 (JP)
+
+---
+
+### Monster Hunter X
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Released:** November 28 (JP)
+
+[Wikipedia](https://en.wikipedia.org/wiki/Monster_Hunter_X)
+
+---
+
+### Moon Chronicles – Episode 2-4
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** FPS &nbsp;|&nbsp; **Released:** February 5
+
+[Wikipedia](https://en.wikipedia.org/wiki/Moon_(2009_video_game))
+
+---
+
+### Nintendo Badge Arcade
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Released:** November 10
+
+[Wikipedia](https://en.wikipedia.org/wiki/Nintendo_Badge_Arcade)
+
+---
+
+### OlliOlli
+
+**Platforms:** Wii U, Nintendo 3DS, Xbox One &nbsp;|&nbsp; **Genre:** Sports &nbsp;|&nbsp; **Released:** March 5
+
+[Wikipedia](https://en.wikipedia.org/wiki/OlliOlli)
+
+---
+
+### Paddington: Adventures in London
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Released:** August 11
+
+[Wikipedia](https://en.wikipedia.org/wiki/Koch_Media)
+
+---
+
+### Pokémon Picross
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Released:** December 3
+
+[Wikipedia](https://en.wikipedia.org/wiki/Pok%C3%A9mon_Picross)
+
+---
+
+### Pokémon Rumble World
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** Action RPG &nbsp;|&nbsp; **Released:** April 8
+
+[Wikipedia](https://en.wikipedia.org/wiki/Pok%C3%A9mon_Rumble_World)
 
 ---
 
@@ -416,13 +1226,13 @@
 
 <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co6i7h.jpg" alt="Pokémon Shuffle cover" width="200">
 
-**Platforms:** Android, iOS, Nintendo 3DS &nbsp;|&nbsp; **Developer:** Genius Sonority &nbsp;|&nbsp; **Publisher:** Nintendo, The Pokémon Company &nbsp;|&nbsp; **Genre:** Puzzle &nbsp;|&nbsp; **Released:** February 18, 2015
+**Platforms:** Nintendo 3DS, iOS, Android &nbsp;|&nbsp; **Genre:** Puzzle &nbsp;|&nbsp; **Released:** February 18
 
 > Each stage in Pokémon Shuffle provides you a limited number of opportunities in which to move your Pokémon around. There is no time limit, so you can take as long as you like to study the board. To clear each stage, you'll have to reduce the HP of the wild Pokémon you face to zero within a set number of moves. Use all the strategies and tactics available to you, and learn to read the board to spot future matches. Clearing Pokémon efficiently is the key to winning Pokémon Shuffle's many stages!  Pokémon all have a type of their own, and each has its strengths and weaknesses. Choosing a group of Pokémon that is right for each level is important. You'll also be able to raise the level of your Pokémon by using them multiple times, enabling them to deal more damage to foes. Collect many different Pokémon and raise them up so that you will be able to make your way through your battles against wild Pokémon with finesse.  Pokémon Shuffle also features Mega-Evolving Pokémon—when one of your Pokémon Mega Evolves, it can clear out a whole heap of Pokémon at once or cause other special effects!
 >
 > _Synopsis source: IGDB_
 
-[IGDB](https://www.igdb.com/games/pokemon-shuffle)
+[Wikipedia](https://en.wikipedia.org/wiki/Pok%C3%A9mon_Shuffle) · [IGDB](https://www.igdb.com/games/pokemon-shuffle)
 
 ---
 
@@ -430,13 +1240,149 @@
 
 <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co1zj4.jpg" alt="Pokémon Super Mystery Dungeon cover" width="200">
 
-**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Developer:** Spike Chunsoft &nbsp;|&nbsp; **Publisher:** Nintendo &nbsp;|&nbsp; **Genre:** Role-playing (RPG), Tactical, Adventure &nbsp;|&nbsp; **Released:** September 17, 2015
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** Roguelike &nbsp;|&nbsp; **Released:** September 17
 
 > Pokémon Super Mystery Dungeon is a roguelike video game in the Pokémon Mystery Dungeon series. Like its predecessors, players control a human who has awoken as a Pokémon in a world filled entirely by the series' eponymous creatures, and must travel through random-generated dungeons completing missions and battling enemies to unravel the story.
 >
 > _Synopsis source: IGDB_
 
-[IGDB](https://www.igdb.com/games/pokemon-super-mystery-dungeon--1)
+[Wikipedia](https://en.wikipedia.org/wiki/Pok%C3%A9mon_Super_Mystery_Dungeon) · [IGDB](https://www.igdb.com/games/pokemon-super-mystery-dungeon--1)
+
+---
+
+### Project X Zone 2: Brave New World
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Released:** November 12 (JP)
+
+---
+
+### Proun+
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Released:** March 5
+
+[Wikipedia](https://en.wikipedia.org/wiki/Proun%2B)
+
+---
+
+### Puzzle & Dragons Z + Super Mario Bros. Edition
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** RPG, Puzzle &nbsp;|&nbsp; **Released:** May 22
+
+[Wikipedia](https://en.wikipedia.org/wiki/Puzzle_%26_Dragons_Z_%2B_Super_Mario_Bros._Edition)
+
+---
+
+### Puzzle & Dragons: Super Mario Bros. Edition
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Released:** April 29 (JP)
+
+[Wikipedia](https://en.wikipedia.org/wiki/Puzzle_%26_Dragons)
+
+---
+
+### Rhythm Tengoku: The Best Plus
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Released:** June 11 (JP)
+
+---
+
+### Rodea the Sky Soldier
+
+**Platforms:** Wii, Wii U, Nintendo 3DS &nbsp;|&nbsp; **Genre:** Action-adventure &nbsp;|&nbsp; **Released:** April 2 (JP)
+
+[Wikipedia](https://en.wikipedia.org/wiki/Rodea_the_Sky_Soldier)
+
+---
+
+### Samurai Warriors Chronicles 3
+
+**Platforms:** Nintendo 3DS, PlayStation Vita &nbsp;|&nbsp; **Genre:** Hack and slash &nbsp;|&nbsp; **Released:** June 30
+
+---
+
+### Senran Kagura 2: Deep Crimson
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Released:** September 15
+
+---
+
+### Shin Megami Tensei: Devil Survivor 2 Record Breaker
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** Tactical RPG &nbsp;|&nbsp; **Released:** January 29 (JP)
+
+---
+
+### Skylanders: SuperChargers
+
+**Platforms:** PlayStation 3, PlayStation 4, Xbox 360, Xbox One, Wii, Wii U, Nintendo 3DS, iOS &nbsp;|&nbsp; **Genre:** RPG, Platformer, Racing &nbsp;|&nbsp; **Released:** September 20
+
+---
+
+### SpongeBob HeroPants
+
+**Platforms:** Nintendo 3DS, Xbox 360, PlayStation Vita &nbsp;|&nbsp; **Genre:** Action-adventure, Platformer &nbsp;|&nbsp; **Released:** February 3
+
+[Wikipedia](https://en.wikipedia.org/wiki/SpongeBob_HeroPants)
+
+---
+
+### SteamWorld Heist
+
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/cob1ue.jpg" alt="SteamWorld Heist cover" width="200">
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** Platformer, Action-adventure, Metroidvania &nbsp;|&nbsp; **Released:** December 10
+
+> Join Captain Piper Faraday, smuggler and occasional pirate, as she recruits a rag-tag team of steam-driven robots and sets out on a daring adventure. With your hearty crew you’ll board, loot and shoot your way through enemy spaceships. Overcome the challenges of the vast frontier by upgrading your robots with unique abilities, weapons – and even stylish hats!
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/SteamWorld_Dig) · [IGDB](https://www.igdb.com/games/steamworld-heist)
+
+---
+
+### Stella Glow
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** Tactical RPG &nbsp;|&nbsp; **Released:** June 4 (JP)
+
+[Wikipedia](https://en.wikipedia.org/wiki/Stella_Glow)
+
+---
+
+### Story of Seasons
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** Farming &nbsp;|&nbsp; **Released:** March 31
+
+[Wikipedia](https://en.wikipedia.org/wiki/Story_of_Seasons_(video_game))
+
+---
+
+### Stretchmo
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** Puzzle &nbsp;|&nbsp; **Released:** May 14
+
+[Wikipedia](https://en.wikipedia.org/wiki/Stretchmo)
+
+---
+
+### Terraria
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** Action-adventure, Sandbox &nbsp;|&nbsp; **Released:** December 10
+
+[Wikipedia](https://en.wikipedia.org/wiki/Terraria)
+
+---
+
+### The Binding of Isaac: Rebirth
+
+**Platforms:** Xbox One, Nintendo 3DS, Wii U &nbsp;|&nbsp; **Genre:** Roguelike &nbsp;|&nbsp; **Released:** July 23
+
+---
+
+### The Legend of Legacy
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** RPG &nbsp;|&nbsp; **Released:** October 13
+
+[Wikipedia](https://en.wikipedia.org/wiki/The_Legend_of_Legacy)
 
 ---
 
@@ -444,7 +1390,7 @@
 
 <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/cob9x9.jpg" alt="The Legend of Zelda: Majora's Mask 3D cover" width="200">
 
-**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Publisher:** Nintendo &nbsp;|&nbsp; **Genre:** Puzzle, Adventure &nbsp;|&nbsp; **Released:** February 13, 2015
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Publisher:** Nintendo &nbsp;|&nbsp; **Genre:** Action-adventure &nbsp;|&nbsp; **Released:** February 13, 2015 (JP)
 
 > The Legend of Zelda: Majora's Mask 3D is a remake of the original Nintendo 64 game with more up-to-date graphics, streamlined UI and different additional game modes. Most textures are significantly more detailed, and many models are more faithful to the game's concept and promotional art. In addition, the frame rate has been increased to 30 FPS compared to the original's 20 FPS.
 >
@@ -458,7 +1404,7 @@
 
 <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co3p1a.jpg" alt="The Legend of Zelda: Tri Force Heroes cover" width="200">
 
-**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Developer:** Grezzo, Nintendo EPD Production Group No. 3 &nbsp;|&nbsp; **Publisher:** Nintendo &nbsp;|&nbsp; **Genre:** Puzzle, Adventure &nbsp;|&nbsp; **Released:** October 22, 2015
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** Action-adventure &nbsp;|&nbsp; **Released:** October 23
 
 > The Legend of Zelda: Tri Force Heroes is the direct sequel to The Legend of Zelda: A Link Between Worlds. The game is similar to the Four Swords games in which Link is accompanied by two other Links in the game's multiplayer mode, but it also allows for a single-player mode in which the other Links are replaced by animated dolls that can be swapped out during the game. The three Link can cooperate in a variety of ways to solve puzzles and coordinate their attacks with the help of on-screen notifications that give clues on what to do.
 >
@@ -468,15 +1414,225 @@
 
 ---
 
+### The Peanuts Movie: Snoopy's Grand Adventure
+
+**Platforms:** PlayStation 4, Nintendo 3DS, Wii U, Xbox 360, Xbox One &nbsp;|&nbsp; **Genre:** Platformer &nbsp;|&nbsp; **Released:** November 6
+
+---
+
+### Theatrhythm Dragon Quest
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Released:** March 26 (JP)
+
+[Wikipedia](https://en.wikipedia.org/wiki/Dragon_Quest)
+
+---
+
+### Xenoblade Chronicles 3D
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** Action RPG &nbsp;|&nbsp; **Released:** April 2 (JP)
+
+[Wikipedia](https://en.wikipedia.org/wiki/Xenoblade_Chronicles_3D)
+
+---
+
+### Yo-Kai Watch
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** RPG &nbsp;|&nbsp; **Released:** November 6
+
+[Wikipedia](https://en.wikipedia.org/wiki/Yo-Kai_Watch_(video_game))
+
+---
+
 ## 2014
 
 [Full 2014 page](../years/2014.md)
+
+### 1001 Spikes
+
+**Platforms:** Windows, PlayStation 3, PlayStation 4, Xbox 360, Xbox One, Nintendo 3DS, Wii U &nbsp;|&nbsp; **Genre:** Platformer, Adventure &nbsp;|&nbsp; **Released:** June 3
+
+[Wikipedia](https://en.wikipedia.org/wiki/1001_Spikes)
+
+---
+
+### Adventure Time: The Secret of the Nameless Kingdom
+
+**Platforms:** Nintendo 3DS, PlayStation 3, PlayStation Vita, Windows, Xbox 360 &nbsp;|&nbsp; **Genre:** Action-adventure, RPG &nbsp;|&nbsp; **Released:** November 18
+
+---
+
+### AeternoBlade
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Released:** February 13
+
+---
+
+### AiRace Xeno
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Released:** June 12
+
+---
+
+### Azure Striker Gunvolt
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Released:** August 29
+
+[Wikipedia](https://en.wikipedia.org/wiki/Inti_Creates)
+
+---
+
+### Big Hero 6
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Released:** October 28
+
+[Wikipedia](https://en.wikipedia.org/wiki/Big_Hero_6_(film))
+
+---
+
+### Bike Rider DX2: Galaxy
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Released:** July 3
+
+---
+
+### Bit Boy!! Arcade
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** April 17
+
+[Wikipedia](https://en.wikipedia.org/wiki/Bit_Boy!!_Arcade)
+
+---
+
+### BlazBlue: Clone Phantasma
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** Fighting &nbsp;|&nbsp; **Released:** August 21
+
+---
+
+### Bravely Default
+
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co25nj.jpg" alt="Bravely Default cover" width="200">
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** RPG &nbsp;|&nbsp; **Released:** February 7
+
+> Bravely Default follows the story of main character Tiz, a humble shepherd and the lone survivor of a cataclysmic event, as he joins a group of loyal companions on a journey to restore balance to the world. The battle system is what differentiates Bravely Default from other RPGs. Here players can strategically choose when to initiate two complementary commands: Brave and Default. This innovative system encourages players to think carefully about strategy during every enemy encounter. Selecting "Brave" lets players increase the number of actions a character can take in a turn, while "Default" allows players to store actions for later use.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Bravely_Default) · [IGDB](https://www.igdb.com/games/bravely-default)
+
+---
+
+### Chibi-Robo! Photo Finder
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** Platformer &nbsp;|&nbsp; **Released:** January 9
+
+[Wikipedia](https://en.wikipedia.org/wiki/Chibi-Robo!_Photo_Finder)
+
+---
+
+### Conception II: Children of the Seven Stars
+
+**Platforms:** PlayStation Vita, Nintendo 3DS &nbsp;|&nbsp; **Genre:** RPG &nbsp;|&nbsp; **Released:** April 15
+
+---
+
+### Cooking Mama 5: Bon Appetit!
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** Simulation &nbsp;|&nbsp; **Released:** September 16
+
+---
+
+### Cut the Rope: Triple Treat
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** Puzzle &nbsp;|&nbsp; **Released:** March 25
+
+[Wikipedia](https://en.wikipedia.org/wiki/Cut_the_Rope)
+
+---
+
+### Dedede's Drum Dash Deluxe
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** Platformer &nbsp;|&nbsp; **Released:** August 29
+
+---
+
+### Disney Magical World
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** Life sim &nbsp;|&nbsp; **Released:** April 11
+
+[Wikipedia](https://en.wikipedia.org/wiki/Disney_Magical_World)
+
+---
+
+### Fantasy Life
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** RPG, Life sim &nbsp;|&nbsp; **Released:** October 24
+
+[Wikipedia](https://en.wikipedia.org/wiki/Fantasy_Life)
+
+---
+
+### FIFA 15
+
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co206w.jpg" alt="FIFA 15 cover" width="200">
+
+**Platforms:** Windows, PlayStation 3, PlayStation 4, Xbox 360, Xbox One, Wii, PlayStation Vita, Nintendo 3DS, Android &nbsp;|&nbsp; **Genre:** Sports &nbsp;|&nbsp; **Released:** September 23
+
+> FIFA 15 is a football simulation game developed by EA Canada and published by Electronic Arts. FIFA 15 is the first of the series to be developed for next generation (Xbox One and PS4) consoles and also features the new Ignite game engine.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/FIFA_15) · [IGDB](https://www.igdb.com/games/fifa-15)
+
+---
+
+### Gardening Mama 2: Forest Friends
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** Simulation &nbsp;|&nbsp; **Released:** April 29
+
+---
+
+### Harvest Moon: The Lost Valley
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** Farming , RPG &nbsp;|&nbsp; **Released:** November 4
+
+---
+
+### Hazumi
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Released:** December 11
+
+---
+
+### I Am An Air Traffic Controller Airport Hero Hawaii
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** Simulation &nbsp;|&nbsp; **Released:** March 27
+
+[Wikipedia](https://en.wikipedia.org/wiki/Air_Traffic_Controller_(series)#Airport_Hero_for_3DS)
+
+---
+
+### Inazuma Eleven
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Released:** February 13
+
+[Wikipedia](https://en.wikipedia.org/wiki/Inazuma_Eleven)
+
+---
+
+### Kirby Fighters Deluxe
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** Platformer &nbsp;|&nbsp; **Released:** August 29
+
+---
 
 ### Kirby: Triple Deluxe
 
 <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co1q9m.jpg" alt="Kirby: Triple Deluxe cover" width="200">
 
-**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Developer:** HAL Laboratory &nbsp;|&nbsp; **Publisher:** Nintendo &nbsp;|&nbsp; **Genre:** Platform, Adventure &nbsp;|&nbsp; **Released:** January 11, 2014
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Developer:** HAL Laboratory &nbsp;|&nbsp; **Publisher:** Nintendo &nbsp;|&nbsp; **Genre:** Platformer &nbsp;|&nbsp; **Released:** May 2
 
 > A side-scrolling installment in the beloved Kirby series, Kirby: Triple Deluxe uses the 3D features of the Nintendo 3DS to allow Kirby to move not only from left to right, but also from the foreground to the background. Kirby also gets an “inhale everything” ability that can be used in specific parts of each stage to help him clear anything blocking his path. As always, Kirby has the power to inhale his enemies and take on their abilities. Each copy ability can let him do a variety of actions and moves, depending on which buttons are pressed.  Kirby: Triple Deluxe includes a huge number of collectibles for players to find, from hidden 8-bit keychains to Sun Stones. The game takes advantage of 3DS StreetPass feature to deliver bonus items to players
 >
@@ -486,31 +1642,79 @@
 
 ---
 
-### LEGO The Hobbit
+### Lego Batman 3: Beyond Gotham
 
-<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/cocsb7.jpg" alt="LEGO The Hobbit cover" width="200">
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co3jk7.jpg" alt="Lego Batman 3: Beyond Gotham cover" width="200">
 
-**Platforms:** PlayStation Vita, PlayStation 3, macOS, Xbox One, Wii U, PlayStation 4, Windows, Nintendo 3DS, Xbox 360 &nbsp;|&nbsp; **Developer:** Traveller's Tales &nbsp;|&nbsp; **Publisher:** WB Games, MGM Interactive &nbsp;|&nbsp; **Genre:** Puzzle, Role-playing (RPG), Adventure &nbsp;|&nbsp; **Released:** April 8, 2014
+**Platforms:** Windows, PlayStation 3, PlayStation 4, Wii U, Xbox 360, Xbox One, Nintendo 3DS, PlayStation Vita &nbsp;|&nbsp; **Genre:** Action-adventure &nbsp;|&nbsp; **Released:** November 11
+
+> LEGO Batman 3: Beyond Gotham is an action-adventure game developed by TT Games and released in 2014. The game features Batman and other DC Comics characters traveling beyond Earth to stop the villain Brainiac. Players explore various locations, solve puzzles, and engage in combat while collecting LEGO studs and unlocking characters. The game includes a large roster of DC heroes and villains, each with unique abilities.
+>
+> _Synopsis source: IGDB_
+
+[IGDB](https://www.igdb.com/games/lego-batman-3-beyond-gotham)
+
+---
+
+### Lego Ninjago: Nindroids
+
+**Platforms:** Nintendo 3DS, PlayStation Vita &nbsp;|&nbsp; **Released:** July 29
+
+---
+
+### LEGO: The Hobbit
+
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/cocsb7.jpg" alt="LEGO: The Hobbit cover" width="200">
+
+**Platforms:** Windows, PlayStation 3, PlayStation 4, Wii U, Xbox 360, Xbox One, Nintendo 3DS, PlayStation Vita &nbsp;|&nbsp; **Genre:** Action-adventure &nbsp;|&nbsp; **Released:** April 8
 
 > Reclaim the Lost Kingdom brick by brick! Join Bilbo Baggins, Gandalf, Thorin and his company of Dwarves in an epic adventure across Middle-earth to recapture the Lonely Mountain in the most expansive LEGO game to date. Battle ravenous Trolls, dangerous Orcs and many more. Combine the Dwarves' unique abilities to solve puzzles - often with hilarious results! Explore iconic locations in Middle-earth, from the Shire to Goblin-town and beyond.
 >
 > _Synopsis source: IGDB_
 
-[IGDB](https://www.igdb.com/games/lego-the-hobbit)
+[Wikipedia](https://en.wikipedia.org/wiki/Lego_The_Hobbit_(video_game)) · [IGDB](https://www.igdb.com/games/lego-the-hobbit)
 
 ---
 
-### Monster Hunter 4 Ultimate
+### Mario Golf: World Tour
 
-<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2gkk.jpg" alt="Monster Hunter 4 Ultimate cover" width="200">
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** Sports &nbsp;|&nbsp; **Released:** May 2
 
-**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Developer:** Capcom &nbsp;|&nbsp; **Publisher:** Capcom &nbsp;|&nbsp; **Genre:** Role-playing (RPG), Hack and slash/Beat 'em up, Adventure &nbsp;|&nbsp; **Released:** October 11, 2014
+---
 
-> Monster Hunter 4 Ultimate (called Monster Hunter 4G in Japan) is the newest installment in the popular Monster Hunter series, which has sold more than 28 million units worldwide to date. In Monster Hunter 4 Ultimate, players will take on the role of a hunter that joins up with a traveling caravan to explore new lands and towns along the way. This grand adventure will include hundreds of quests to take on a variety of extraordinary creatures that yield valuable resources used for weapons and equipment. Launching on Nintendo 3DS, Monster Hunter 4 Ultimate represents the biggest leap forward ever for the series with more new content and exciting features than ever before. Also, for the first time ever for the Monster Hunter series on a handheld system, players will be able to join up with friends over the internet via the Nintendo Wi-Fi Connection, as well as the previously available local wireless option.
->
-> _Synopsis source: IGDB_
+### Mighty Gunvolt
 
-[IGDB](https://www.igdb.com/games/monster-hunter-4-ultimate)
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Released:** August 29
+
+[Wikipedia](https://en.wikipedia.org/wiki/Inti_Creates)
+
+---
+
+### One Piece: Romance Dawn
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** RPG &nbsp;|&nbsp; **Released:** February 11
+
+---
+
+### One Piece: Unlimited World RED
+
+**Platforms:** Nintendo 3DS, Wii U, PlayStation 3, PlayStation Vita &nbsp;|&nbsp; **Genre:** Action-adventure &nbsp;|&nbsp; **Released:** July 8
+
+---
+
+### Pac-Man and the Ghostly Adventures 2
+
+**Platforms:** Nintendo 3DS, PlayStation 3, Wii U, Xbox 360 &nbsp;|&nbsp; **Genre:** Platformer &nbsp;|&nbsp; **Released:** October 14
+
+[Wikipedia](https://en.wikipedia.org/wiki/Pac-Man_and_the_Ghostly_Adventures_2)
+
+---
+
+### Penguins of Madagascar
+
+**Platforms:** Nintendo 3DS, Wii U &nbsp;|&nbsp; **Released:** November 25
+
+[Wikipedia](https://en.wikipedia.org/wiki/Penguins_of_Madagascar)
 
 ---
 
@@ -518,13 +1722,63 @@
 
 <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co6jpi.jpg" alt="Persona Q: Shadow of the Labyrinth cover" width="200">
 
-**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Developer:** P Studio, Atlus &nbsp;|&nbsp; **Publisher:** NIS America, Atlus, Atlus USA, Sega &nbsp;|&nbsp; **Genre:** Role-playing (RPG) &nbsp;|&nbsp; **Released:** June 5, 2014
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** RPG, Dungeon crawl &nbsp;|&nbsp; **Released:** November 25
 
 > Persona Q is a crossover video game, containing characters from both Persona 3 and Persona 4 in a game based on Etrian Odyssey, with its perspective, play-style, and systems.  Persona Q's gameplay focuses further on being a dungeon crawler. Players choose to play from the perspective of either the Persona 3 protagonist or the Persona 4 protagonist, with each side featuring slight differences in the main story. The player's choices will also alter the flow of the game.
 >
 > _Synopsis source: IGDB_
 
 [IGDB](https://www.igdb.com/games/persona-q-shadow-of-the-labyrinth)
+
+---
+
+### Petz Beach
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** Virtual pet &nbsp;|&nbsp; **Released:** October 14
+
+[Wikipedia](https://en.wikipedia.org/wiki/Petz_Beach)
+
+---
+
+### Petz Countryside
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** Virtual pet &nbsp;|&nbsp; **Released:** October 14
+
+[Wikipedia](https://en.wikipedia.org/wiki/Petz_Countryside)
+
+---
+
+### Phineas and Ferb: Quest for Cool Stuff
+
+**Platforms:** Wii U, Wii, Nintendo 3DS, Nintendo DS, Xbox 360 &nbsp;|&nbsp; **Genre:** Platformer &nbsp;|&nbsp; **Released:** August 13
+
+---
+
+### Phoenix Wright: Ace Attorney Trilogy
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** Adventure, Visual novel &nbsp;|&nbsp; **Released:** December 9
+
+---
+
+### Picross e4
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Released:** May 1
+
+[Wikipedia](https://en.wikipedia.org/wiki/Jupiter_(company)#Nintendo_3DS)
+
+---
+
+### Picross e5
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Released:** November 13
+
+[Wikipedia](https://en.wikipedia.org/wiki/Jupiter_(company)#Nintendo_3DS)
+
+---
+
+### Planes: Fire & Rescue
+
+**Platforms:** Wii, Nintendo DS, Wii U, Nintendo 3DS &nbsp;|&nbsp; **Released:** November 4
 
 ---
 
@@ -542,6 +1796,22 @@
 
 ---
 
+### Pokémon Art Academy
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** Educational &nbsp;|&nbsp; **Released:** October 24
+
+[Wikipedia](https://en.wikipedia.org/wiki/Pok%C3%A9mon_Art_Academy)
+
+---
+
+### Pokémon Battle Trozei
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** Puzzle &nbsp;|&nbsp; **Released:** March 20
+
+[Wikipedia](https://en.wikipedia.org/wiki/Pok%C3%A9mon_Battle_Trozei)
+
+---
+
 ### Pokémon Omega Ruby
 
 <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/cocjdd.jpg" alt="Pokémon Omega Ruby cover" width="200">
@@ -553,6 +1823,58 @@
 > _Synopsis source: IGDB_
 
 [IGDB](https://www.igdb.com/games/pokemon-omega-ruby)
+
+---
+
+### Pokémon Omega Ruby and Alpha Sapphire
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** Monster tamer &nbsp;|&nbsp; **Released:** November 21
+
+[Wikipedia](https://en.wikipedia.org/wiki/Pok%C3%A9mon_Omega_Ruby_and_Alpha_Sapphire)
+
+---
+
+### Poptropica: Forgotten Islands
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** Educational, Adventure &nbsp;|&nbsp; **Released:** October 14
+
+[Wikipedia](https://en.wikipedia.org/wiki/Poptropica)
+
+---
+
+### Power Rangers Super Megaforce
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Released:** October 28
+
+[Wikipedia](https://en.wikipedia.org/wiki/Power_Rangers_Super_Megaforce)
+
+---
+
+### Professor Layton and the Azran Legacy
+
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/coba9q.jpg" alt="Professor Layton and the Azran Legacy cover" width="200">
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** Puzzle, Adventure &nbsp;|&nbsp; **Released:** February 28
+
+> Journey across the globe aboard the airship Bostonius while solving mind-bending brainteasers themed to their environments. Can you help Professor Layton and his assistants solve the greatest puzzle mankind has ever faced and uncover the mystery surrounding the ancient Azran civilization?  The Professor Layton series couples brilliant puzzle games with a fascinating story to create a riveting formula that has provided great entertainment for mystery fans and puzzle-solving gurus alike. And now, you can complete the Professor Layton storyline with this brand new puzzle-driven narrative from LEVEL-5. This fun adventure can either stand on its own, or act as the glue that connects the two Layton trilogies into one epic story.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Professor_Layton_and_the_Azran_Legacy) · [IGDB](https://www.igdb.com/games/professor-layton-and-the-azran-legacy)
+
+---
+
+### Professor Layton vs. Phoenix Wright: Ace Attorney
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** Adventure, Puzzle, Visual novel &nbsp;|&nbsp; **Released:** August 29
+
+---
+
+### Pure Chess
+
+**Platforms:** Nintendo 3DS, Wii U, PlayStation 4 &nbsp;|&nbsp; **Genre:** Digital tabletop &nbsp;|&nbsp; **Released:** March 20
+
+[Wikipedia](https://en.wikipedia.org/wiki/Pure_Chess)
 
 ---
 
@@ -570,17 +1892,47 @@
 
 ---
 
+### Pyramids 2
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Released:** October 16
+
+---
+
+### Quell Reflect
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Released:** February 20
+
+[Wikipedia](https://en.wikipedia.org/wiki/Quell_Reflect)
+
+---
+
+### Retro City Rampage DX
+
+**Platforms:** Nintendo 3DS, PlayStation 4 &nbsp;|&nbsp; **Genre:** Action-adventure &nbsp;|&nbsp; **Released:** February 6
+
+[Wikipedia](https://en.wikipedia.org/wiki/Retro_City_Rampage)
+
+---
+
+### Rusty's Real Deal Baseball
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** Sports &nbsp;|&nbsp; **Released:** April 3
+
+[Wikipedia](https://en.wikipedia.org/wiki/Rusty%27s_Real_Deal_Baseball)
+
+---
+
 ### Shantae and the Pirate's Curse
 
 <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co4b1u.jpg" alt="Shantae and the Pirate's Curse cover" width="200">
 
-**Platforms:** Nintendo 3DS, Wii U &nbsp;|&nbsp; **Developer:** WayForward &nbsp;|&nbsp; **Publisher:** Rising Star Games, Intergrow, WayForward &nbsp;|&nbsp; **Genre:** Platform, Adventure, Indie &nbsp;|&nbsp; **Released:** October 22, 2014
+**Platforms:** Nintendo 3DS, Wii U &nbsp;|&nbsp; **Genre:** Platformer, Metroidvania &nbsp;|&nbsp; **Released:** October 23
 
 > Embark on a brand new adventure with Shantae, the hair-whipping belly dancing genie. When she loses her magic, Shantae must team up with her nemesis, the nefarious pirate Risky Boots in order to save Sequin Land from an evil curse. As a pirate, Shantae gains new weapons to advance her quest, slay monsters, battle epic bosses…and hopefully get her magic back in the bargain! But can she really trust her deadliest enemy?  The third Shantae game is the biggest yet! Beyond Sequin Land lie cursed islands and labyrinths each hiding a new piece of Pirate Gear - Flintlock Pistol, Pirate Hat, Scimitar, Risky's Boots, and even a Cannon. Upgrade Shantae's hair and weapons or unlock advanced Fighter's Moves. Locate maps, return lost Heart Squids, collect rare loot, and laugh out loud at the weird, wild, and wonderfully humorous cast of characters. Incredible stereoscopic visuals, unlockable Pirate-Mode, multiple endings, and an unforgettable soundtrack make this one game you won't want to miss!
 >
 > _Synopsis source: IGDB_
 
-[IGDB](https://www.igdb.com/games/shantae-and-the-pirates-curse)
+[Wikipedia](https://en.wikipedia.org/wiki/Shantae_and_the_Pirate%27s_Curse) · [IGDB](https://www.igdb.com/games/shantae-and-the-pirates-curse)
 
 ---
 
@@ -588,7 +1940,7 @@
 
 <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/cobaa7.jpg" alt="Shovel Knight cover" width="200">
 
-**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Publisher:** Yacht Club Games &nbsp;|&nbsp; **Genre:** Platform, Adventure, Indie &nbsp;|&nbsp; **Released:** June 26, 2014
+**Platforms:** Nintendo 3DS, Wii U, Windows, macOS &nbsp;|&nbsp; **Publisher:** Yacht Club Games &nbsp;|&nbsp; **Genre:** Action, Platformer &nbsp;|&nbsp; **Released:** June 26, 2014
 
 > Shovel Knight is a sweeping classic action adventure game with awesome gameplay, memorable characters, and an 8-bit retro aesthetic. It's a hot mashup of new and old! You play as the eponymous Shovel Knight, a small knight with a huge quest. Shovel Knight has come to this land with two goals: to defeat the evil Enchantress and quest for his lost beloved. He wields a Shovel Blade: a multipurpose weapon whose techniques have now been lost to the ages. Always honest and helpful, Shovel Knight is a shining example of the code of Shovelry: Slash Mercilessly and Dig Tirelessly!  But, between Shovel Knight and his beloved stands a cadre of villainous knights. These terrible foes, known as The Order of No Quarter, have been dispatched to prevent Shovel Knight from reaching the Enchantress, and will pursue their mission at any cost. If you love games with perfect platforming, beautiful art, infectious music, crazy bosses, humor and levity, and real heart… Shovel Knight is for you!
 >
@@ -598,17 +1950,209 @@
 
 ---
 
+### Siesta Fiesta
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Released:** July 24
+
+---
+
+### Skylanders: Trap Team
+
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co1ysd.jpg" alt="Skylanders: Trap Team cover" width="200">
+
+**Platforms:** Nintendo 3DS, PlayStation 3, PlayStation 4, Wii, Wii U, Xbox 360, Xbox One &nbsp;|&nbsp; **Genre:** RPG, Platformer &nbsp;|&nbsp; **Released:** October 5
+
+> In Skylanders Trap Team, Kaos continues his ongoing quest to rule over Skylands. He has discovered the location of the legendary Cloudcracker Prison -- a fortress built entirely out of the magical substance Traptanium and home to Skylands’ most nefarious baddies. In an attempt to build his own army of foes, Kaos blows up the prison, releasing the most wanted villains and blasting shards of Traptanium to Earth in the form of Traps. Now it’s up to Portal Masters to recapture all of the escaped villains using powerful Traptanium Traps and defeat Kaos before it’s too late!
+>
+> _Synopsis source: IGDB_
+
+[IGDB](https://www.igdb.com/games/skylanders-trap-team)
+
+---
+
+### Smash Cat Heroes
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Released:** April 17
+
+---
+
+### Sonic Boom: Shattered Crystal
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** Action-adventure, Platformer &nbsp;|&nbsp; **Released:** November 11
+
+---
+
+### Squids Odyssey
+
+**Platforms:** Wii U, Nintendo 3DS &nbsp;|&nbsp; **Genre:** Tactical RPG &nbsp;|&nbsp; **Released:** May 22
+
+[Wikipedia](https://en.wikipedia.org/wiki/Squids_(video_game)#Squids_Odyssey)
+
+---
+
+### Steel Diver: Sub Wars
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** Vehicle sim (submarine) &nbsp;|&nbsp; **Released:** February 13
+
+---
+
+### Steel Empire
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** Shoot 'em up &nbsp;|&nbsp; **Released:** July 31
+
+[Wikipedia](https://en.wikipedia.org/wiki/Steel_Empire)
+
+---
+
 ### Super Smash Bros. for Nintendo 3DS
 
 <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co1wvk.jpg" alt="Super Smash Bros. for Nintendo 3DS cover" width="200">
 
-**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Developer:** Bandai Namco Games, Sora &nbsp;|&nbsp; **Publisher:** Nintendo &nbsp;|&nbsp; **Genre:** Fighting, Platform &nbsp;|&nbsp; **Released:** September 13, 2014
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** Fighting &nbsp;|&nbsp; **Released:** October 3
 
 > Super Smash Bros. for Nintendo 3DS is the first portable entry in the renowned series, in which game worlds collide. Up to four players battle each other locally or online using some of Nintendo’s most well-known and iconic characters across beautifully designed stages inspired by classic portable Nintendo games. It’s a genuine, massive Super Smash Bros. experience that’s available to play on the go, anytime, anywhere.
 >
 > _Synopsis source: IGDB_
 
-[IGDB](https://www.igdb.com/games/super-smash-bros-for-nintendo-3ds)
+[Wikipedia](https://en.wikipedia.org/wiki/Super_Smash_Bros._for_Nintendo_3DS_and_Wii_U) · [IGDB](https://www.igdb.com/games/super-smash-bros-for-nintendo-3ds)
+
+---
+
+### Tappingo
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Released:** February 27
+
+---
+
+### Tappingo 2
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Released:** September 4
+
+---
+
+### Teenage Mutant Ninja Turtles
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Released:** August 5
+
+[Wikipedia](https://en.wikipedia.org/wiki/Teenage_Mutant_Ninja_Turtles_(2014_video_game))
+
+---
+
+### Teenage Mutant Ninja Turtles: Danger of the Ooze
+
+**Platforms:** PlayStation 3, Xbox 360, Nintendo 3DS &nbsp;|&nbsp; **Released:** October 28
+
+[Wikipedia](https://en.wikipedia.org/wiki/WayForward)
+
+---
+
+### Tenkai Knights: Brave Battle
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** Fighting &nbsp;|&nbsp; **Released:** October 7
+
+---
+
+### Tetris Ultimate
+
+**Platforms:** Nintendo 3DS, PlayStation 4 &nbsp;|&nbsp; **Genre:** Puzzle &nbsp;|&nbsp; **Released:** November 11
+
+[Wikipedia](https://en.wikipedia.org/wiki/Tetris_Ultimate)
+
+---
+
+### The Amazing Spider-Man 2
+
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2l1p.jpg" alt="The Amazing Spider-Man 2 cover" width="200">
+
+**Platforms:** Windows, PlayStation 3, PlayStation 4, Wii U, Xbox 360, Nintendo 3DS, iOS, Android, Xbox One &nbsp;|&nbsp; **Genre:** Action-adventure &nbsp;|&nbsp; **Released:** April 29
+
+> The Amazing Spider-Man 2 is an open-world third-person action-adventure game set in a version of Manhattan. Players control Spider-Man, web-swinging and wall-crawling across the city while completing story missions and optional street-level activities such as stopping crimes and rescuing civilians. Combat uses a free-flowing style with counterattacks and gadgets, and a Web-Rush mechanic lets players plan movement and strikes. A Hero and Menace reputation system rewards responding to crimes and penalizes ignoring them, which affects how the city and its enforcers treat Spider-Man. It is based on the continuity of the 2012 game rather than the films.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/The_Amazing_Spider-Man_2_(2014_video_game)) · [IGDB](https://www.igdb.com/games/the-amazing-spider-man-2)
+
+---
+
+### The Denpa Men 3: The Rise of Digitoll
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** RPG &nbsp;|&nbsp; **Released:** May 8
+
+---
+
+### The Keep
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** RPG &nbsp;|&nbsp; **Released:** September 11
+
+[Wikipedia](https://en.wikipedia.org/wiki/The_Keep_(video_game))
+
+---
+
+### The Legend of Dark Witch
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Released:** October 16
+
+---
+
+### The Legend of Korra: A New Era Begins
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** Tactical RPG &nbsp;|&nbsp; **Released:** October 28
+
+---
+
+### Theatrhythm Final Fantasy: Curtain Call
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** Rhythm &nbsp;|&nbsp; **Released:** September 16
+
+---
+
+### Tomodachi Life
+
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co6tg3.jpg" alt="Tomodachi Life cover" width="200">
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** Life sim &nbsp;|&nbsp; **Released:** June 6
+
+> Tomodachi Life is a communication game for the 3DS in which players can convert their Miis into Tomodachis (or create new ones) and put them in a wide range of scenarios ranging from charming to utterly ridiculous. A key feature of the game is its text-to-speech tech which outputs user generated text as computerized speech in seven languages (EFIGS, Japanese and Korean).
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Tomodachi_Life_(video_game)) · [IGDB](https://www.igdb.com/games/tomodachi-life)
+
+---
+
+### Transformers: Rise of the Dark Spark
+
+**Platforms:** Windows, Xbox 360, Xbox One, PlayStation 4, PlayStation 3, Wii U, Nintendo 3DS &nbsp;|&nbsp; **Genre:** TPS, Strategy, RPG &nbsp;|&nbsp; **Released:** June 24
+
+---
+
+### Ultimate NES Remix
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** December 5
+
+[Wikipedia](https://en.wikipedia.org/wiki/NES_Remix)
+
+---
+
+### Weapon Shop De Omasse
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** RPG, Rhythm &nbsp;|&nbsp; **Released:** February 20
+
+---
+
+### Winx Club: Saving Alfea
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Released:** October 31
+
+[Wikipedia](https://en.wikipedia.org/wiki/Winx_Club)
+
+---
+
+### Woah Dave!
+
+**Platforms:** Nintendo 3DS, iOS, Windows &nbsp;|&nbsp; **Genre:** Platformer &nbsp;|&nbsp; **Released:** October 30
+
+[Wikipedia](https://en.wikipedia.org/wiki/Woah_Dave!)
 
 ---
 
@@ -616,13 +2160,21 @@
 
 <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2aby.jpg" alt="Xeodrifter cover" width="200">
 
-**Platforms:** Windows, Nintendo 3DS &nbsp;|&nbsp; **Developer:** Renegade Kid, Atooi &nbsp;|&nbsp; **Publisher:** Good Shepherd Entertainment, Atooi &nbsp;|&nbsp; **Genre:** Platform, Adventure, Indie &nbsp;|&nbsp; **Released:** December 11, 2014
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** Metroidvania &nbsp;|&nbsp; **Released:** December 11
 
 > Xeodrifter is an action-packed exploration game with a retro graphical style. Blast your way through alien landscapes, seek out valuable secrets, and defeat ancient guardians to unlock powers from a legendary supreme culture in this exciting journey of mystery and adventure.
 >
 > _Synopsis source: IGDB_
 
-[IGDB](https://www.igdb.com/games/xeodrifter)
+[Wikipedia](https://en.wikipedia.org/wiki/Xeodrifter) · [IGDB](https://www.igdb.com/games/xeodrifter)
+
+---
+
+### Xtreme Sports
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** Sports &nbsp;|&nbsp; **Released:** August 21
+
+[Wikipedia](https://en.wikipedia.org/wiki/Xtreme_Sports_(video_game))
 
 ---
 
@@ -630,13 +2182,37 @@
 
 <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/cob8pz.jpg" alt="Yoshi's New Island cover" width="200">
 
-**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Developer:** Arzest &nbsp;|&nbsp; **Publisher:** Nintendo &nbsp;|&nbsp; **Genre:** Platform, Adventure &nbsp;|&nbsp; **Released:** March 13, 2014
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** Platformer &nbsp;|&nbsp; **Released:** March 14
 
 > Yoshi and Baby Mario are back in Yoshi's New Island, the third installment in the beloved franchise. The series' fun game-play mechanics such as Yoshi's Flutter Jump, Ground Pound and Egg Throw return, but now Yoshi knows a ton of new tricks too. Yoshi gets to bash and thrash his environment by throwing around Mega Eggdozers and Metal Eggdozers. Yoshi also can transform into a variety of objects, such as a jackhammer or a submarine, both of which can be manipulated using the Nintendo 3DS gyro controls. A certain type of star even transforms him into Super Yoshi, giving him the ability to fly through the sky or run along walls and ceilings. Players who are having trouble completing a level might see the appearance of Flutter Wings, which let Yoshi fly through the air.
 >
 > _Synopsis source: IGDB_
 
-[IGDB](https://www.igdb.com/games/yoshi-s-new-island)
+[Wikipedia](https://en.wikipedia.org/wiki/Yoshi%27s_New_Island) · [IGDB](https://www.igdb.com/games/yoshi-s-new-island)
+
+---
+
+### Yu-Gi-Oh! ZEXAL World Duel Carnival
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Released:** September 25
+
+[Wikipedia](https://en.wikipedia.org/wiki/Yu-Gi-Oh!_Zexal)
+
+---
+
+### Yumi's Odd Odyssey
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** Platformer &nbsp;|&nbsp; **Released:** March 20
+
+[Wikipedia](https://en.wikipedia.org/wiki/Umihara_Kawase_(series)#Sayonara_Umihara_Kawase)
+
+---
+
+### Zombie Panic in Wonderland DX
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** TPS, Shooting gallery &nbsp;|&nbsp; **Released:** October 30
+
+[Wikipedia](https://en.wikipedia.org/wiki/Zombie_Panic_in_Wonderland)
 
 ---
 
@@ -644,11 +2220,115 @@
 
 [Full 2013 page](../years/2013.md)
 
+### 3D Altered Beast
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** Brawler &nbsp;|&nbsp; **Released:** December 5
+
+[Wikipedia](https://en.wikipedia.org/wiki/Altered_Beast)
+
+---
+
+### 3D Ecco the Dolphin
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** Action-adventure &nbsp;|&nbsp; **Released:** December 12
+
+[Wikipedia](https://en.wikipedia.org/wiki/Ecco_the_Dolphin)
+
+---
+
+### 3D Galaxy Force II
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** Shoot 'em up (rail) &nbsp;|&nbsp; **Released:** December 12
+
+[Wikipedia](https://en.wikipedia.org/wiki/Galaxy_Force_II)
+
+---
+
+### 3D Shinobi III: Return of the Ninja Master
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** Platformer &nbsp;|&nbsp; **Released:** December 19
+
+---
+
+### 3D Sonic the Hedgehog
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** Platformer &nbsp;|&nbsp; **Released:** December 5
+
+[Wikipedia](https://en.wikipedia.org/wiki/Sonic_the_Hedgehog_(1991_video_game))
+
+---
+
+### 3D Space Harrier
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** Shoot 'em up (rail) &nbsp;|&nbsp; **Released:** November 28
+
+[Wikipedia](https://en.wikipedia.org/wiki/Space_Harrier)
+
+---
+
+### 3D Streets of Rage
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Released:** December 19
+
+[Wikipedia](https://en.wikipedia.org/wiki/Streets_of_Rage)
+
+---
+
+### 3D Super Hang-On
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** Racing &nbsp;|&nbsp; **Released:** November 28
+
+[Wikipedia](https://en.wikipedia.org/wiki/Nintendo_3DS)
+
+---
+
+### Angry Birds Star Wars
+
+**Platforms:** PlayStation 3, Xbox 360, Wii, Wii U, PlayStation Vita, Nintendo 3DS, PlayStation 4, Xbox One &nbsp;|&nbsp; **Genre:** Puzzle &nbsp;|&nbsp; **Type:** Port &nbsp;|&nbsp; **Released:** October 29
+
+[Wikipedia](https://en.wikipedia.org/wiki/Angry_Birds_Star_Wars)
+
+---
+
+### Animal Crossing: New Leaf
+
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/cob8m6.jpg" alt="Animal Crossing: New Leaf cover" width="200">
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** Social sim &nbsp;|&nbsp; **Released:** June 9
+
+> The charming community-building franchise returns for with Animal Crossing: New Leaf. The Nintendo 3DS entry into this popular franchise introduces a number of options new to Animal Crossing, including the ability to become the head of the village and boost its development, a way to install certain items in the village to make its characteristics more personalized for each player, and the ability to view homes of other players who are tagged through StreetPass connections.
+>
+> _Synopsis source: IGDB_
+
+[IGDB](https://www.igdb.com/games/animal-crossing-new-leaf)
+
+---
+
+### Attack of the Friday Monsters!
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** Vehicular combat (tank), Survival horror, Life sim &nbsp;|&nbsp; **Released:** July 18
+
+[Wikipedia](https://en.wikipedia.org/wiki/Guild_(video_game_series)#Guild02)
+
+---
+
+### Barbie Dreamhouse Party
+
+**Platforms:** Nintendo 3DS, Nintendo DS, Wii, Wii U &nbsp;|&nbsp; **Released:** November 12
+
+---
+
+### Barbie: Groom and Glam Pups
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Released:** August 15
+
+---
+
 ### Batman: Arkham Origins Blackgate
 
 <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2hzg.jpg" alt="Batman: Arkham Origins Blackgate cover" width="200">
 
-**Platforms:** Nintendo 3DS, PlayStation Vita &nbsp;|&nbsp; **Developer:** Armature Studio &nbsp;|&nbsp; **Publisher:** WB Games, Warner Bros. Entertainment Inc. &nbsp;|&nbsp; **Genre:** Shooter, Hack and slash/Beat 'em up, Adventure &nbsp;|&nbsp; **Released:** October 25, 2013
+**Platforms:** PlayStation Vita, Nintendo 3DS &nbsp;|&nbsp; **Genre:** Action-adventure, Brawler, Stealth, Metroidvania &nbsp;|&nbsp; **Released:** October 25
 
 > Batman: Arkham Origins features an expanded Gotham City and introduces an original prequel storyline occurring several years before the events of Batman: Arkham Asylum and Batman: Arkham City. Taking place before the rise of Gotham City's most dangerous villains and assassins, the game showcases a young, raw, unrefined Batman as he faces a defining moment in his early career as a crime fighter that sets his path to becoming the Dark Knight. As the story unfolds, witness identities being formed and key relationships being forged.
 >
@@ -658,31 +2338,97 @@
 
 ---
 
-### Bravely Default
+### Beyblade Evolution
 
-<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co25nj.jpg" alt="Bravely Default cover" width="200">
-
-**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Developer:** Silicon Studio, Square Enix Product Development Division 7 &nbsp;|&nbsp; **Publisher:** Nintendo, Square Enix &nbsp;|&nbsp; **Genre:** Role-playing (RPG), Adventure &nbsp;|&nbsp; **Released:** December 5, 2013
-
-> Bravely Default follows the story of main character Tiz, a humble shepherd and the lone survivor of a cataclysmic event, as he joins a group of loyal companions on a journey to restore balance to the world. The battle system is what differentiates Bravely Default from other RPGs. Here players can strategically choose when to initiate two complementary commands: Brave and Default. This innovative system encourages players to think carefully about strategy during every enemy encounter. Selecting "Brave" lets players increase the number of actions a character can take in a turn, while "Default" allows players to store actions for later use.
->
-> _Synopsis source: IGDB_
-
-[IGDB](https://www.igdb.com/games/bravely-default)
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Released:** October 22
 
 ---
 
-### Castlevania: Lords of Shadow - Mirror of Fate
+### Bike Rider DX
 
-<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co1pat.jpg" alt="Castlevania: Lords of Shadow - Mirror of Fate cover" width="200">
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Released:** August 1
 
-**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Developer:** MercurySteam &nbsp;|&nbsp; **Publisher:** Konami Digital Entertainment &nbsp;|&nbsp; **Genre:** Platform, Adventure &nbsp;|&nbsp; **Released:** March 5, 2013
+---
+
+### Brain Age: Concentration Training
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** Puzzle, Educational &nbsp;|&nbsp; **Released:** February 10
+
+---
+
+### Bugs vs. Tanks!
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** Vehicle sim (tank), Survival horror, Life sim &nbsp;|&nbsp; **Released:** June 20
+
+[Wikipedia](https://en.wikipedia.org/wiki/Guild_(video_game_series)#Guild02)
+
+---
+
+### Castlevania: Lords of Shadow – Mirror of Fate
+
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co1pat.jpg" alt="Castlevania: Lords of Shadow – Mirror of Fate cover" width="200">
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** Action-adventure, Hack and slash &nbsp;|&nbsp; **Released:** March 5
 
 > Initially set 25 years after the events of Castlevania: Lords of Shadow, Mirror of Fate will reveal the story of Gabriel's descendants, as they battle their own destiny in each era only to discover their true, shocking fate.  Trevor Belmont, a knight of the Brotherhood of Light sets out to avenge the death of his mother, at the hands of his own father, who has now returned from years of exile to take up residence in a mysterious castle. What was once Gabriel Belmont now stands a powerful vampire called Dracula. Dracula has declared war upon the Brotherhood and thus the scene is set for a cataclysmic showdown between Father and Son!
 >
 > _Synopsis source: IGDB_
 
 [IGDB](https://www.igdb.com/games/castlevania-lords-of-shadow-mirror-of-fate)
+
+---
+
+### Cloudy with a Chance of Meatballs 2
+
+**Platforms:** Nintendo 3DS, Nintendo DS &nbsp;|&nbsp; **Released:** September 24
+
+[Wikipedia](https://en.wikipedia.org/wiki/Cloudy_with_a_Chance_of_Meatballs_2)
+
+---
+
+### Code of Princess
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** Action RPG, Hack and slash &nbsp;|&nbsp; **Released:** January 3
+
+[Wikipedia](https://en.wikipedia.org/wiki/Code_of_Princess)
+
+---
+
+### Disney Infinity
+
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co1psn.jpg" alt="Disney Infinity cover" width="200">
+
+**Platforms:** Wii U, Wii, PlayStation 3, Xbox 360, Nintendo 3DS &nbsp;|&nbsp; **Genre:** Action-adventure &nbsp;|&nbsp; **Released:** August 18
+
+> DISNEY INFINITY unlocks the freedom to play with some of your favorite Disney and Disney/Pixar worlds like never before! You can experience adventures in the worlds of Pirates of the Caribbean, The Incredibles and Monsters University - take on the role of Sulley, the naturally gifted ‘scarer’; become Captain Jack Sparrow, the sword-wielding pirate; or transform yourself into Mr. Incredible, one of the world's greatest crime-fighters. Battle enemies, solve puzzles, overcome obstacles and complete a variety of other unique quests. Or create your own world! Unlock virtual toys, characters, buildings, weapons, gadgets and more – and bring them into the Disney Infinity ‘Toy Box’ where you can mix them all up to create your own game. In the Disney Infinity Toy Box, there are no rules and you can create any adventure you want. Share your creations with your friends with up to 4-player co-op play. The more you play, the more you unlock so the story never ends. It’s up to you and your imagination – infinite possibilities, infinite ways to inspire your imagination!
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Disney_Infinity_(video_game)) · [IGDB](https://www.igdb.com/games/disney-infinity)
+
+---
+
+### Disney's Planes
+
+**Platforms:** Wii U, Wii, Nintendo 3DS, Nintendo DS &nbsp;|&nbsp; **Released:** August 6
+
+[Wikipedia](https://en.wikipedia.org/wiki/Planes_(film)#Video_game)
+
+---
+
+### Donkey Kong Country Returns 3D
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** Platformer &nbsp;|&nbsp; **Type:** Port &nbsp;|&nbsp; **Released:** May 24
+
+[Wikipedia](https://en.wikipedia.org/wiki/Donkey_Kong_Country_Returns)
+
+---
+
+### Doodle Jump Adventures
+
+**Platforms:** Nintendo 3DS, Nintendo DS &nbsp;|&nbsp; **Genre:** Platformer &nbsp;|&nbsp; **Released:** October 29
+
+[Wikipedia](https://en.wikipedia.org/wiki/Doodle_Jump)
 
 ---
 
@@ -700,11 +2446,141 @@
 
 ---
 
+### Etrian Odyssey IV: Legends of the Titan
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** RPG, Dungeon crawl &nbsp;|&nbsp; **Released:** February 26
+
+---
+
+### Etrian Odyssey Untold: The Millennium Girl
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** RPG &nbsp;|&nbsp; **Released:** October 1
+
+---
+
+### Fast & Furious: Showdown
+
+**Platforms:** Windows, PlayStation 3, Xbox 360, Wii U, Nintendo 3DS &nbsp;|&nbsp; **Released:** May 21
+
+[Wikipedia](https://en.wikipedia.org/wiki/Fast_%26_Furious_6#Video_games)
+
+---
+
+### FIFA 14
+
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co206x.jpg" alt="FIFA 14 cover" width="200">
+
+**Platforms:** iOS, Android, Windows, PlayStation 3, Xbox 360, Wii, PlayStation 2, PlayStation Vita, Nintendo 3DS, PlayStation Portable, PlayStation 4, Xbox One &nbsp;|&nbsp; **Genre:** Sports &nbsp;|&nbsp; **Released:** September 23
+
+> FIFA 14 is a 2013 sports association football simulation video game developed by EA Canada and published by Electronic Arts.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/FIFA_14) · [IGDB](https://www.igdb.com/games/fifa-14)
+
+---
+
+### Fire Emblem Awakening
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** Tactical RPG &nbsp;|&nbsp; **Released:** February 4
+
+[Wikipedia](https://en.wikipedia.org/wiki/Fire_Emblem_Awakening)
+
+---
+
+### Frozen: Olaf's Quest
+
+**Platforms:** Nintendo 3DS, Nintendo DS &nbsp;|&nbsp; **Genre:** Platformer &nbsp;|&nbsp; **Released:** November 12
+
+---
+
+### Gunman Clive
+
+**Platforms:** Nintendo 3DS, iOS &nbsp;|&nbsp; **Developer:** Hörberg Productions &nbsp;|&nbsp; **Publisher:** Hörberg Productions &nbsp;|&nbsp; **Genre:** Platformer &nbsp;|&nbsp; **Released:** January 3
+
+[Wikipedia](https://en.wikipedia.org/wiki/Gunman_Clive)
+
+---
+
+### Hakuoki: Memories of the Shinsengumi
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Released:** September 19
+
+[Wikipedia](https://en.wikipedia.org/wiki/Haku%C5%8Dki#Video_games)
+
+---
+
+### HarmoKnight
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** Rhythm, Platformer &nbsp;|&nbsp; **Released:** March 28
+
+[Wikipedia](https://en.wikipedia.org/wiki/HarmoKnight)
+
+---
+
+### Heavy Fire: Black Arms
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** Shoot 'em up (rail) &nbsp;|&nbsp; **Released:** August 15
+
+---
+
+### Hometown Story
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** Simulation, RPG &nbsp;|&nbsp; **Released:** October 22
+
+[Wikipedia](https://en.wikipedia.org/wiki/Hometown_Story_(video_game))
+
+---
+
+### Jett Rocket II: The Wrath of Taikai
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** Platformer &nbsp;|&nbsp; **Released:** November 13
+
+[Wikipedia](https://en.wikipedia.org/wiki/Jett_Rocket#Sequel)
+
+---
+
+### Kersploosh!
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** Puzzle &nbsp;|&nbsp; **Released:** March 7
+
+[Wikipedia](https://en.wikipedia.org/wiki/Kersploosh!)
+
+---
+
+### Kokuga
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** Shoot 'em up &nbsp;|&nbsp; **Released:** June 27
+
+[Wikipedia](https://en.wikipedia.org/wiki/Kokuga)
+
+---
+
+### Lego City Undercover: The Chase Begins
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** Action-adventure &nbsp;|&nbsp; **Released:** April 21
+
+---
+
+### LEGO Marvel Super Heroes
+
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co5bze.jpg" alt="LEGO Marvel Super Heroes cover" width="200">
+
+**Platforms:** Windows, Wii U, Xbox 360, PlayStation 3, Nintendo 3DS, Nintendo DS, PlayStation 4, Xbox One &nbsp;|&nbsp; **Genre:** Action-adventure &nbsp;|&nbsp; **Released:** October 22
+
+> Lego Marvel Super Heroes is a 2013 Lego-themed action-adventure video game developed by Traveller's Tales and published by Warner Bros. Interactive Entertainment. The game features gameplay similar to other Lego titles, alternating between various action-adventure sequences and puzzle-solving scenarios.  The game's storyline sees various heroes from the Marvel Universe joining forces to foil the schemes of Doctor Doom and Loki, who have also recruited several villains to aid them, and seek to conquer the Earth using the Doom Ray of Doom, a device built from the shards of the Silver Surfer's board called "Cosmic Bricks".
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/LEGO_Marvel_Super_Heroes) · [IGDB](https://www.igdb.com/games/lego-marvel-super-heroes)
+
+---
+
 ### Luigi's Mansion: Dark Moon
 
 <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co3vjj.jpg" alt="Luigi's Mansion: Dark Moon cover" width="200">
 
-**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Developer:** Next Level Games, Nintendo SPD &nbsp;|&nbsp; **Publisher:** Nintendo &nbsp;|&nbsp; **Genre:** Puzzle, Adventure &nbsp;|&nbsp; **Released:** March 20, 2013
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** Action-adventure &nbsp;|&nbsp; **Released:** March 24
 
 > Luigi is back on a mission to remove a bunch of stubborn ghosts from some spooky mansions. Armed with his trusty Poltergust ghost-sucking vacuum cleaner, Mario's brother takes center stage to capture these pesky phantoms. Luigi's Mansion 2: Dark Moon gives players multiple mansions to explore, a variety of puzzles to solve and new ghosts to capture. Armed with the Poltergust 5000, a ghost-sucking, vacuum-like invention, Luigi must complete a number of missions assigned to him by Professor E. Gadd.
 >
@@ -718,7 +2594,7 @@
 
 <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co4ahq.jpg" alt="Mario & Luigi: Dream Team cover" width="200">
 
-**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Developer:** AlphaDream, Good-Feel &nbsp;|&nbsp; **Publisher:** Nintendo &nbsp;|&nbsp; **Genre:** Platform, Puzzle, Role-playing (RPG), Adventure &nbsp;|&nbsp; **Released:** July 12, 2013
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** RPG &nbsp;|&nbsp; **Released:** August 11
 
 > Mario and Luigi embark on the adventure of their dreams in a hilarious action RPG that combines the resort world of Pi’illo Island with the wild landscapes of Luigi’s imagination, where anything can happen. Meet a host of hilarious characters as you strive to rescue Princess Peach and help Prince Dreambert free his petrified Pi’illo people from the bat-king Antasma’s curse.
 >
@@ -728,17 +2604,129 @@
 
 ---
 
+### Mario and Donkey Kong: Minis on the Move
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** Puzzle &nbsp;|&nbsp; **Released:** May 9
+
+---
+
+### Mario Party: Island Tour
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** Party &nbsp;|&nbsp; **Released:** November 22
+
+---
+
+### Mega Man 4
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** Action, Platformer &nbsp;|&nbsp; **Released:** April 25
+
+[Wikipedia](https://en.wikipedia.org/wiki/Mega_Man_4)
+
+---
+
+### Mega Man 5
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** Action, Platformer &nbsp;|&nbsp; **Type:** Port &nbsp;|&nbsp; **Released:** May 16
+
+[Wikipedia](https://en.wikipedia.org/wiki/Mega_Man_5)
+
+---
+
+### Mighty Switch Force! 2
+
+**Platforms:** Nintendo 3DS, Wii U &nbsp;|&nbsp; **Genre:** Action, Puzzle-platformer &nbsp;|&nbsp; **Released:** June 13
+
+[Wikipedia](https://en.wikipedia.org/wiki/Mighty_Switch_Force!_2)
+
+---
+
+### Monster High: 13 Wishes
+
+**Platforms:** Nintendo 3DS, Nintendo DS, Wii, Wii U &nbsp;|&nbsp; **Released:** October 24
+
+[Wikipedia](https://en.wikipedia.org/wiki/Monster_High)
+
+---
+
+### Monster Hunter 3 Ultimate
+
+**Platforms:** Wii U, Nintendo 3DS &nbsp;|&nbsp; **Genre:** Action RPG &nbsp;|&nbsp; **Released:** March 19
+
+[Wikipedia](https://en.wikipedia.org/wiki/Monster_Hunter_3_Ultimate)
+
+---
+
+### Nickelodeon Teenage Mutant Ninja Turtles
+
+**Platforms:** Nintendo 3DS, Wii, Xbox 360 &nbsp;|&nbsp; **Released:** October 22
+
+[Wikipedia](https://en.wikipedia.org/wiki/Teenage_Mutant_Ninja_Turtles_(2013_video_game))
+
+---
+
+### Pac-Man and the Ghostly Adventures
+
+**Platforms:** Windows, PlayStation 3, Xbox 360, Wii U, Nintendo 3DS &nbsp;|&nbsp; **Genre:** Platformer &nbsp;|&nbsp; **Released:** October 29
+
+[Wikipedia](https://en.wikipedia.org/wiki/Pac-Man_and_the_Ghostly_Adventures#Video_games)
+
+---
+
+### Phineas and Ferb: Quest for Cool Stuff
+
+**Platforms:** Nintendo 3DS, Nintendo DS, Wii, Wii U, Xbox 360 &nbsp;|&nbsp; **Genre:** Platformer &nbsp;|&nbsp; **Released:** August 13
+
+---
+
 ### Phoenix Wright: Ace Attorney - Dual Destinies
 
 <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co5z8o.jpg" alt="Phoenix Wright: Ace Attorney - Dual Destinies cover" width="200">
 
-**Platforms:** Nintendo 3DS, iOS &nbsp;|&nbsp; **Developer:** Capcom &nbsp;|&nbsp; **Publisher:** Capcom &nbsp;|&nbsp; **Genre:** Puzzle, Role-playing (RPG), Simulator, Adventure, Visual Novel &nbsp;|&nbsp; **Released:** July 25, 2013
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** Adventure, Visual novel &nbsp;|&nbsp; **Released:** October 24
 
 > Dual Destinies continues the style of gameplay from previous installments, in which the player must utilize evidence and find contradictions in witness statements to prove their client innocent. Like previous installments, gameplay is split up between Investigations, in which players find evidence and question witnesses, and Trials, where they must use the evidence to expose contradictions. The game now features full 3D graphics and character models, allowing more dynamic camera angles during gameplay, such as quickly panning around the courtroom in the moments before a dramatic reveal. The 3D camera also allows investigation sequences to take place in 3D spaces, permitting greater investigative depth, such as being able to rotate around a room to look for clues.
 >
 > _Synopsis source: IGDB_
 
 [IGDB](https://www.igdb.com/games/phoenix-wright-ace-attorney-dual-destinies)
+
+---
+
+### Picross e
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Released:** June 13
+
+[Wikipedia](https://en.wikipedia.org/wiki/Jupiter_(company)#Nintendo_3DS)
+
+---
+
+### Picross e2
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Released:** July 25
+
+[Wikipedia](https://en.wikipedia.org/wiki/Jupiter_(company)#Nintendo_3DS)
+
+---
+
+### Picross e3
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Released:** October 3
+
+[Wikipedia](https://en.wikipedia.org/wiki/Jupiter_(company)#Nintendo_3DS)
+
+---
+
+### Pokémon Mystery Dungeon: Gates to Infinity
+
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co1z4z.jpg" alt="Pokémon Mystery Dungeon: Gates to Infinity cover" width="200">
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** Roguelike &nbsp;|&nbsp; **Released:** March 24
+
+> Discover the incredible 3D world of Pokemon Mystery Dungeon: Gates to Infinity, where Pokemon speak and amazing adventures are always nearby! What's more, you will become a Pokemon yourself! You'll meet all kinds of Pokemon throughout the game, both in the towns you'll visit and the Mystery Dungeons you'll explore.
+>
+> _Synopsis source: IGDB_
+
+[IGDB](https://www.igdb.com/games/pokemon-mystery-dungeon-gates-to-infinity)
 
 ---
 
@@ -756,6 +2744,14 @@
 
 ---
 
+### Pokémon X and Y
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** RPG &nbsp;|&nbsp; **Released:** October 12
+
+[Wikipedia](https://en.wikipedia.org/wiki/Pok%C3%A9mon_X_and_Y)
+
+---
+
 ### Pokémon Y
 
 <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co1z9m.jpg" alt="Pokémon Y cover" width="200">
@@ -770,25 +2766,61 @@
 
 ---
 
-### Professor Layton and the Azran Legacy
+### Pro Evolution Soccer 2013
 
-<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/coba9q.jpg" alt="Professor Layton and the Azran Legacy cover" width="200">
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** Sports &nbsp;|&nbsp; **Released:** February 12
 
-**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Developer:** LEVEL-5 &nbsp;|&nbsp; **Publisher:** Nintendo &nbsp;|&nbsp; **Genre:** Point-and-click, Puzzle, Visual Novel &nbsp;|&nbsp; **Released:** February 28, 2013
+[Wikipedia](https://en.wikipedia.org/wiki/Pro_Evolution_Soccer_2013)
 
-> Journey across the globe aboard the airship Bostonius while solving mind-bending brainteasers themed to their environments. Can you help Professor Layton and his assistants solve the greatest puzzle mankind has ever faced and uncover the mystery surrounding the ancient Azran civilization?  The Professor Layton series couples brilliant puzzle games with a fascinating story to create a riveting formula that has provided great entertainment for mystery fans and puzzle-solving gurus alike. And now, you can complete the Professor Layton storyline with this brand new puzzle-driven narrative from LEVEL-5. This fun adventure can either stand on its own, or act as the glue that connects the two Layton trilogies into one epic story.
+---
+
+### Pro Evolution Soccer 2014
+
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co1ugw.jpg" alt="Pro Evolution Soccer 2014 cover" width="200">
+
+**Platforms:** Windows, PlayStation 3, Xbox 360, PlayStation 2, Nintendo 3DS, PlayStation Portable &nbsp;|&nbsp; **Genre:** Sports &nbsp;|&nbsp; **Released:** September 24
+
+> Pro Evolution Soccer 2014 (PES 2014) is a football simulation game developed by Konami. Released in 2013, it is part of the long-running Pro Evolution Soccer series and introduces a new engine, updated mechanics, and expanded features across multiple platforms.  PES 2014 centers gameplay around realistic ball physics, player motion, and team dynamics. It introduces the Motion Animation Stability System (M.A.S.S.) to enhance physical interactions between players, making tackles, collisions, and positioning more lifelike. The game also features a morale system where crowd influence and individual performances affect team behavior on the pitch.  The Player ID system, first introduced in PES 2013, is expanded to cover more star players and now replicates full squad behaviors to reflect real-world playing styles. A new Combination Plan allows users to coordinate tactical plays among three or more players, enabling more diverse and strategic attacking options.  Additional features include the ability to switch clubs or coach national teams in Master League, create third and fourth kits (with some official options), and play the UEFA Europa League in a dedicated mode.
 >
 > _Synopsis source: IGDB_
 
-[IGDB](https://www.igdb.com/games/professor-layton-and-the-azran-legacy)
+[Wikipedia](https://en.wikipedia.org/wiki/Pro_Evolution_Soccer_2014) · [IGDB](https://www.igdb.com/games/pro-evolution-soccer-2014)
+
+---
+
+### Project X Zone
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** Tactical RPG &nbsp;|&nbsp; **Released:** June 25
+
+[Wikipedia](https://en.wikipedia.org/wiki/Project_X_Zone)
 
 ---
 
 ### Rage of the Gladiator
 
-**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Publisher:** Gamelion Studios &nbsp;|&nbsp; **Released:** September 19, 2013
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Publisher:** Gamelion Studios &nbsp;|&nbsp; **Genre:** Fighting &nbsp;|&nbsp; **Released:** September 19, 2013
 
 [Wikipedia](https://en.wikipedia.org/wiki/Rage_of_the_Gladiator)
+
+---
+
+### Regular Show: Mordecai and Rigby in 8-Bit Land
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** Action-adventure, Platformer, Shoot 'em up &nbsp;|&nbsp; **Released:** October 29
+
+---
+
+### Rune Factory 4
+
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2xko.jpg" alt="Rune Factory 4 cover" width="200">
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** RPG &nbsp;|&nbsp; **Released:** October 1
+
+> Rune Factory 4 marks the return of the popular Harvest Moon spinoff that combines farming with dungeon adventuring. For the first time in the series, the player can select to play as a male or female hero, and potential suitors of either gender are also available in order to pursue love, marriage, and possibly a child. As the newly-appointed prince or princess, you can fulfill your royal duties of protecting the town from invaders, or take a more rural approach to governing by raising your own fruits and vegetables and helping townsfolk. Should some dungeon adventuring be on the days itinerary, you can select from the castles vast armament of swords, spears, and staffs along with magic for battle against dangerous foes, or even bring along a companion or friendly monster to aid you during your travels.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Rune_Factory_4) · [IGDB](https://www.igdb.com/games/rune-factory-4)
 
 ---
 
@@ -796,7 +2828,7 @@
 
 <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co1ns6.jpg" alt="Scribblenauts Unmasked: A DC Comics Adventure cover" width="200">
 
-**Platforms:** Nintendo 3DS, Windows, Wii U &nbsp;|&nbsp; **Developer:** 5th Cell &nbsp;|&nbsp; **Publisher:** WB Games, Shiver Entertainment &nbsp;|&nbsp; **Genre:** Puzzle, Strategy, Adventure &nbsp;|&nbsp; **Released:** September 24, 2013
+**Platforms:** Wii U, Nintendo 3DS, Windows &nbsp;|&nbsp; **Genre:** Puzzle, Action &nbsp;|&nbsp; **Released:** September 24
 
 > Scribblenauts Unmasked: A DC Comics Adventure is a puzzle video game developed by 5th Cell and published by Warner Bros. Interactive Entertainment. It is the fifth game in the Scribblenauts series of games and the first based on a licensed property. The game combines the series' traditional gameplay of bringing up words and objects to solve puzzles with characters and settings from the DC Comics universe (DC Universe).
 >
@@ -806,17 +2838,67 @@
 
 ---
 
+### Senran Kagura Burst
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Released:** November 14
+
+[Wikipedia](https://en.wikipedia.org/wiki/Senran_Kagura)
+
+---
+
+### Shantae
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** Platformer, Metroidvania &nbsp;|&nbsp; **Type:** Port &nbsp;|&nbsp; **Released:** July 18
+
+[Wikipedia](https://en.wikipedia.org/wiki/Shantae_(video_game))
+
+---
+
 ### Shin Megami Tensei IV
 
 <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co1n26.jpg" alt="Shin Megami Tensei IV cover" width="200">
 
-**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Developer:** Atlus &nbsp;|&nbsp; **Publisher:** Nintendo, Atlus, Sega &nbsp;|&nbsp; **Genre:** Role-playing (RPG), Turn-based strategy (TBS), Adventure &nbsp;|&nbsp; **Released:** May 23, 2013
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** RPG &nbsp;|&nbsp; **Released:** July 16
 
 > Building on the styles of ATLUS' Persona, Devil Summoner, and Devil Survivor titles, SMTIV is the first true successor to 2004's Shin Megami Tensei: Nocturne. The story of SMTIV revolves around the Samurai, the sacred protectors of the Eastern Kingdom of Mikado. As a newly appointed Samurai, players will struggle with factions that have nefarious designs on the world as they defend their home kingdom from a growing army of demons. Decisions players make throughout the course of the story will have lasting repercussions, as the fate of the world hangs in the balance.
 >
 > _Synopsis source: IGDB_
 
-[IGDB](https://www.igdb.com/games/shin-megami-tensei-iv)
+[Wikipedia](https://en.wikipedia.org/wiki/Shin_Megami_Tensei_IV) · [IGDB](https://www.igdb.com/games/shin-megami-tensei-iv)
+
+---
+
+### Shin Megami Tensei: Devil Summoner: Soul Hackers
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** RPG &nbsp;|&nbsp; **Released:** April 16
+
+---
+
+### Sonic & All-Stars Racing Transformed
+
+**Platforms:** Windows, Nintendo 3DS &nbsp;|&nbsp; **Genre:** Racing &nbsp;|&nbsp; **Type:** Port &nbsp;|&nbsp; **Released:** January 31
+
+[Wikipedia](https://en.wikipedia.org/wiki/Sonic_%26_All-Stars_Racing_Transformed)
+
+---
+
+### Sonic Lost World
+
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co1tzk.jpg" alt="Sonic Lost World cover" width="200">
+
+**Platforms:** Wii U, Nintendo 3DS &nbsp;|&nbsp; **Genre:** Action, Platformer &nbsp;|&nbsp; **Released:** October 29
+
+> When the Deadly Six threaten to destroy his world, Sonic’s new moves & power-ups are the only way to defeat them before it’s too late!  This is the first out of the three titles of Sega and Nintendo's exclusive collaboration, the others being Mario & Sonic at the Sochi 2014 Olympic Winter Games and Sonic Boom: Rise of Lyric/Sonic Boom: Shattered Crystal.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Sonic_Lost_World) · [IGDB](https://www.igdb.com/games/sonic-lost-world)
+
+---
+
+### SpongeBob SquarePants: Plankton's Robotic Revenge
+
+**Platforms:** Wii U, Nintendo 3DS, Xbox 360, PlayStation 3, Wii, Nintendo DS &nbsp;|&nbsp; **Genre:** Action-adventure, Platformer, TPS &nbsp;|&nbsp; **Released:** October 22
 
 ---
 
@@ -824,13 +2906,39 @@
 
 <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/cob1ud.jpg" alt="SteamWorld Dig cover" width="200">
 
-**Platforms:** macOS, Linux, Windows, Nintendo 3DS &nbsp;|&nbsp; **Developer:** Image & Form &nbsp;|&nbsp; **Publisher:** Image & Form &nbsp;|&nbsp; **Genre:** Platform, Puzzle, Adventure, Indie &nbsp;|&nbsp; **Released:** August 7, 2013
+**Platforms:** Nintendo 3DS, Windows &nbsp;|&nbsp; **Genre:** Platformer, Action-adventure, Metroidvania &nbsp;|&nbsp; **Released:** August 8
 
 > SteamWorld Dig is 2D a platform game that revolves around mining for resources and ores. The objective of the game is to investigate the mines underneath the old Western town Tumbleton in order to unearth the secrets lurking below. The player controls Rusty who is equipped with a pickaxe but the player is given options to upgrade the tools used for digging as progression is made in the game. Besides health, the player also needs coal for light, and water for special abilities. SteamWorld Dig has platform elements in that the player runs, jumps and encounter foes, but the main objective is mining. That means that the player builds – or rather deconstructs – the game world and creates platforms that way. The player collects resources and other hidden resources which can be brought back to the surface and exchanged for cash. When the player progress in the game new abilities are unlocked. Each playthrough, the mines are randomized, making items and treasure appear in different locations. If the player gets stuck there is a self destruct function, but the players can also buy ladders in the store at the surface to get out of tricky situations. When progressing deeper down in the cave, the player encounters various enemies with different attack patterns and weak spots. The game features multiple worlds, each with a completely different environment. Dying results in a reparation penalty fee, and the player respawns back on the surface. All the loot that has been accumulated when the player dies can be picked up again.
 >
 > _Synopsis source: IGDB_
 
-[IGDB](https://www.igdb.com/games/steamworld-dig)
+[Wikipedia](https://en.wikipedia.org/wiki/SteamWorld_Dig) · [IGDB](https://www.igdb.com/games/steamworld-dig)
+
+---
+
+### Super Little Acorns 3D Turbo
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Released:** April 18
+
+---
+
+### Swords & Soldiers 3D
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** RTS &nbsp;|&nbsp; **Released:** May 16
+
+[Wikipedia](https://en.wikipedia.org/wiki/Swords_%26_Soldiers)
+
+---
+
+### The Croods: Prehistoric Party!
+
+**Platforms:** Wii U, Wii, Nintendo 3DS, Nintendo DS &nbsp;|&nbsp; **Released:** March 19
+
+---
+
+### The Denpa Men 2: Beyond the Waves
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** RPG &nbsp;|&nbsp; **Released:** May 30
 
 ---
 
@@ -838,7 +2946,7 @@
 
 <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co3p0j.jpg" alt="The Legend of Zelda: A Link Between Worlds cover" width="200">
 
-**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Publisher:** Nintendo &nbsp;|&nbsp; **Genre:** Puzzle, Adventure &nbsp;|&nbsp; **Released:** November 22, 2013
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Publisher:** Nintendo &nbsp;|&nbsp; **Genre:** Action-adventure &nbsp;|&nbsp; **Released:** November 22, 2013
 
 > The Legend of Zelda: A Link Between Worlds is the first Zelda game made exclusively for the Nintendo 3DS. It is an indirect sequel to A Link to the Past with the same version of Hyrule but with new characters and gameplay elements. Unlike the series' tradition, many areas of the world are accessible from the beginning of the game and the dungeons can be visited in any order. Puzzles are encountered not only in dungeons but also in the open world, a part of them revolves around the game's 3D visual effect. The 3DS touch-screen display shows the world, dungeon or map depending on where you are.
 >
@@ -848,17 +2956,55 @@
 
 ---
 
-### Tomodachi Life
+### The Legend of Zelda: Oracle of Seasons and Oracle of Ages
 
-<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co6tg3.jpg" alt="Tomodachi Life cover" width="200">
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** Action-adventure &nbsp;|&nbsp; **Released:** May 30
 
-**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Developer:** Nintendo SPD Production Group No. 1 &nbsp;|&nbsp; **Publisher:** Nintendo &nbsp;|&nbsp; **Genre:** Simulator, Adventure &nbsp;|&nbsp; **Released:** April 18, 2013
+---
 
-> Tomodachi Life is a communication game for the 3DS in which players can convert their Miis into Tomodachis (or create new ones) and put them in a wide range of scenarios ranging from charming to utterly ridiculous. A key feature of the game is its text-to-speech tech which outputs user generated text as computerized speech in seven languages (EFIGS, Japanese and Korean).
->
-> _Synopsis source: IGDB_
+### The Mysterious Cities of Gold: Secret Paths
 
-[IGDB](https://www.igdb.com/games/tomodachi-life)
+**Platforms:** Nintendo 3DS, Android, iOS, Wii U, Windows &nbsp;|&nbsp; **Genre:** Puzzle, Stealth &nbsp;|&nbsp; **Released:** November 21
+
+---
+
+### The Starship Damrey
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** Vehicle sim (tank), Survival horror, Life sim &nbsp;|&nbsp; **Released:** May 16
+
+[Wikipedia](https://en.wikipedia.org/wiki/Guild_(video_game_series)#The_Starship_Damrey)
+
+---
+
+### Tokyo Crash Mobs
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** Puzzle &nbsp;|&nbsp; **Released:** January 17
+
+[Wikipedia](https://en.wikipedia.org/wiki/Tokyo_Crash_Mobs)
+
+---
+
+### Turbo: Super Stunt Squad
+
+**Platforms:** Wii U, Wii, PlayStation 3, Xbox 360, Nintendo 3DS, Nintendo DS &nbsp;|&nbsp; **Released:** July 16
+
+[Wikipedia](https://en.wikipedia.org/wiki/Turbo_(2013_film)#Video_games)
+
+---
+
+### Unchained Blades
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** RPG &nbsp;|&nbsp; **Released:** January 3
+
+[Wikipedia](https://en.wikipedia.org/wiki/Unchained_Blades)
+
+---
+
+### Urban Trial Freestyle
+
+**Platforms:** PlayStation 3, PlayStation Vita, Nintendo 3DS, Windows &nbsp;|&nbsp; **Genre:** Racing &nbsp;|&nbsp; **Released:** February 19
+
+[Wikipedia](https://en.wikipedia.org/wiki/Urban_Trial_Freestyle)
 
 ---
 
@@ -876,21 +3022,85 @@
 
 ---
 
+### Young Justice: Legacy
+
+**Platforms:** Windows, PlayStation 3, Xbox 360, Nintendo 3DS &nbsp;|&nbsp; **Genre:** Action-adventure, Action RPG &nbsp;|&nbsp; **Released:** November 19
+
+---
+
 ## 2012
 
 [Full 2012 page](../years/2012.md)
 
-### Animal Crossing: New Leaf
+### 3D Classics: Kid Icarus
 
-<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/cob8m6.jpg" alt="Animal Crossing: New Leaf cover" width="200">
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Released:** April 19
 
-**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Developer:** Nintendo EAD Software Development Group No.2 &nbsp;|&nbsp; **Publisher:** Nintendo &nbsp;|&nbsp; **Genre:** Simulator &nbsp;|&nbsp; **Released:** November 8, 2012
+[Wikipedia](https://en.wikipedia.org/wiki/Kid_Icarus)
 
-> The charming community-building franchise returns for with Animal Crossing: New Leaf. The Nintendo 3DS entry into this popular franchise introduces a number of options new to Animal Crossing, including the ability to become the head of the village and boost its development, a way to install certain items in the village to make its characteristics more personalized for each player, and the ability to view homes of other players who are tagged through StreetPass connections.
->
-> _Synopsis source: IGDB_
+---
 
-[IGDB](https://www.igdb.com/games/animal-crossing-new-leaf)
+### Adventure Time: Hey Ice King! Why'd You Steal Our Garbage?!
+
+**Platforms:** Nintendo 3DS, Nintendo DS &nbsp;|&nbsp; **Released:** November 20
+
+---
+
+### Aero Porter
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Released:** November 29
+
+[Wikipedia](https://en.wikipedia.org/wiki/Guild_(video_game_series))
+
+---
+
+### American Mensa Academy
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Released:** November 27
+
+---
+
+### Angry Birds Trilogy
+
+**Platforms:** Xbox 360, PlayStation 3, Nintendo 3DS &nbsp;|&nbsp; **Type:** Compilation &nbsp;|&nbsp; **Released:** September 25
+
+[Wikipedia](https://en.wikipedia.org/wiki/Angry_Birds_Trilogy)
+
+---
+
+### Art Academy: Lessons for Everyone!
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Released:** October 1
+
+---
+
+### Art of Balance Touch!
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Released:** June 7
+
+[Wikipedia](https://en.wikipedia.org/wiki/Shin%27en_Multimedia)
+
+---
+
+### Battleship
+
+**Platforms:** PlayStation 3, Xbox 360, Nintendo DS, Nintendo 3DS &nbsp;|&nbsp; **Released:** May 15
+
+[Wikipedia](https://en.wikipedia.org/wiki/Battleship_(2012_video_game))
+
+---
+
+### Bratz: Fashion Boutique
+
+**Platforms:** Nintendo 3DS, Nintendo DS &nbsp;|&nbsp; **Released:** October 30
+
+---
+
+### Brave
+
+**Platforms:** Windows, PlayStation 3, Xbox 360, Wii, PlayStation Vita, Nintendo DS, Nintendo 3DS &nbsp;|&nbsp; **Released:** June 19
+
+[Wikipedia](https://en.wikipedia.org/wiki/Brave_(2012_video_game))
 
 ---
 
@@ -899,6 +3109,82 @@
 **Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Publisher:** Nicalis &nbsp;|&nbsp; **Released:** October 4, 2012
 
 [Wikipedia](https://en.wikipedia.org/wiki/Cave_Story)
+
+---
+
+### Code of Princess
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Released:** October 9
+
+[Wikipedia](https://en.wikipedia.org/wiki/Code_of_Princess)
+
+---
+
+### Colors! 3D
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Released:** April 5
+
+[Wikipedia](https://en.wikipedia.org/wiki/Colors!_3D)
+
+---
+
+### Crashmo
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Released:** November 22
+
+[Wikipedia](https://en.wikipedia.org/wiki/Crashmo)
+
+---
+
+### Crimson Shroud
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Developer:** Level-5 , Nex Entertainment &nbsp;|&nbsp; **Publisher:** Level-5 &nbsp;|&nbsp; **Genre:** RPG &nbsp;|&nbsp; **Released:** December 13 (NA)
+
+[Wikipedia](https://en.wikipedia.org/wiki/Crimson_Shroud)
+
+---
+
+### Crosswords Plus
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Released:** October 1
+
+[Wikipedia](https://en.wikipedia.org/wiki/Crosswords_Plus)
+
+---
+
+### Crush 3D
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Released:** March 6
+
+[Wikipedia](https://en.wikipedia.org/wiki/Crush_3D)
+
+---
+
+### Deer Drive Legends
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Released:** May 27
+
+[Wikipedia](https://en.wikipedia.org/wiki/Deer_Drive_Legends)
+
+---
+
+### Dillon's Rolling Western
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Released:** February 22
+
+[Wikipedia](https://en.wikipedia.org/wiki/Dillon%27s_Rolling_Western)
+
+---
+
+### Disney Princess: My Fairytale Adventure
+
+**Platforms:** Nintendo 3DS, Wii, Windows &nbsp;|&nbsp; **Released:** September 14
+
+---
+
+### Epic Mickey: Power of Illusion
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Released:** November 18
 
 ---
 
@@ -916,6 +3202,12 @@
 
 ---
 
+### Finding Nemo: Escape to the Big Blue Special Edition
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Released:** September 11
+
+---
+
 ### Fire Emblem Awakening
 
 <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/cobcko.jpg" alt="Fire Emblem Awakening cover" width="200">
@@ -930,11 +3222,61 @@
 
 ---
 
+### Fluidity: Spin Cycle
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Released:** December 27
+
+---
+
+### Fractured Soul
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Released:** September 13
+
+---
+
+### Fun! Fun! Minigolf TOUCH!
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Released:** March 8
+
+[Wikipedia](https://en.wikipedia.org/wiki/Fun!_Fun!_Minigolf)
+
+---
+
+### Harvest Moon: A New Beginning
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Released:** November 6
+
+---
+
+### Heroes of Ruin
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Released:** June 17
+
+[Wikipedia](https://en.wikipedia.org/wiki/Heroes_of_Ruin)
+
+---
+
+### Hotel Transylvania
+
+**Platforms:** Nintendo 3DS, Nintendo DS &nbsp;|&nbsp; **Released:** September 18
+
+[Wikipedia](https://en.wikipedia.org/wiki/Hotel_Transylvania)
+
+---
+
+### Ketzal's Corridors
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Released:** April 12
+
+[Wikipedia](https://en.wikipedia.org/wiki/Ketzal%27s_Corridors)
+
+---
+
 ### Kid Icarus: Uprising
 
 <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/cob9me.jpg" alt="Kid Icarus: Uprising cover" width="200">
 
-**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Developer:** Sora, Project Sora &nbsp;|&nbsp; **Publisher:** Nintendo &nbsp;|&nbsp; **Genre:** Shooter, Hack and slash/Beat 'em up &nbsp;|&nbsp; **Released:** March 22, 2012
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** Shooter, Hack and slash/Beat 'em up &nbsp;|&nbsp; **Released:** March 23
 
 > One of the most beloved franchises in Nintendos long history makes its glorious return in spectacular 3D! Pit of Kid Icarus fame is back in a new game designed specifically for the Nintendo 3DS system, by Masahiro Sakurai, creator of the Kirby and Super Smash Bros. franchises, and his development team at Project Sora.  Kid Icarus: Uprising is a fast-paced and action-packed blend of aerial and ground-based shooting built on elegantly intuitive and streamlined play control. This follow-up to the original Kid Icarus released for the Nintendo Entertainment System in 1987 has been at the top of gamers wish lists for years.  Boasting gameplay that is easy to pick up but incredibly deep, the game is sure to satisfy novice gamers as well as fans who have been clamouring for a new installment in the franchise.  The hero, Pit, teams up with Palutena, the goddess of light, who bestows on him the miracle of flight for limited stretches. With this gift, Pit soars through the skies, shooting down swarms of enemies, then alights and engages in frantic ground-based battles against Medusas underworld army.  Find and collect numerous weapons and items that offer bonuses and ability boosts. Players can choose weapons before they send Pit into battle, giving them countless layers of strategies in each level.  Players can choose between a basic Blade, basic Claws and a basic Orbitar weapon. Blades are well-balanced, Claws have limited reach but increase running speed and the Orbitars can shoot two shots that grow in power over distance.
 >
@@ -948,7 +3290,7 @@
 
 <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co318g.jpg" alt="Kingdom Hearts 3D: Dream Drop Distance cover" width="200">
 
-**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Developer:** Square Enix 1st Production Department &nbsp;|&nbsp; **Publisher:** Square Enix, Nintendo &nbsp;|&nbsp; **Genre:** Role-playing (RPG) &nbsp;|&nbsp; **Released:** March 29, 2012
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** Role-playing (RPG) &nbsp;|&nbsp; **Released:** July 31
 
 > Kingdom Hearts 3D: Dream Drop Distance is the seventh game in the Kingdom Hearts series. It was originally developed for the Nintendo 3DS hand-held system. It is a direct sequel to Kingdom Hearts II, Kingdom Hearts coded, and the epilogue of Kingdom Hearts Birth by Sleep.  Utilizing the 3DS's high-spec graphics processing, the game's graphics are near on-par with those of the PS2 titles, and make use of the system's 3D technology to add immersion when falling from high places and flying far distances. The 3D effect is used more for "going into the screen" rather than things popping out.
 >
@@ -958,17 +3300,115 @@
 
 ---
 
+### Lalaloopsy: Carnival of Friends
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Released:** September 25
+
+[Wikipedia](https://en.wikipedia.org/wiki/Lalaloopsy)
+
+---
+
+### Lego Batman 2: DC Super Heroes
+
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2j0q.jpg" alt="Lego Batman 2: DC Super Heroes cover" width="200">
+
+**Platforms:** Windows, PlayStation 3, Xbox 360, Wii, PlayStation Vita, Nintendo 3DS &nbsp;|&nbsp; **Genre:** Platform, Hack and slash/Beat 'em up, Adventure &nbsp;|&nbsp; **Released:** June 19
+
+> The Dynamic Duo of Batman and Robin join other famous super heroes from the DC Universe including Superman, Wonder Woman and Green Lantern to save Gotham City from destruction at the hands of the notorious villains Lex Luthor and the Joker.
+>
+> _Synopsis source: IGDB_
+
+[IGDB](https://www.igdb.com/games/lego-batman-2-dc-super-heroes)
+
+---
+
+### LEGO The Lord of the Rings: The Video Game
+
+**Platforms:** PlayStation Vita, Nintendo 3DS, Nintendo DS, Windows, PlayStation 3, Xbox 360, Wii &nbsp;|&nbsp; **Released:** October 30
+
+[Wikipedia](https://en.wikipedia.org/wiki/Lego_The_Lord_of_the_Rings_(video_game))
+
+---
+
+### Liberation Maiden
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Released:** October 25
+
+[Wikipedia](https://en.wikipedia.org/wiki/Guild_(video_game_series))
+
+---
+
+### Madagascar 3: The Video Game
+
+**Platforms:** Nintendo 3DS, Nintendo DS, PlayStation 3, Wii, Xbox 360 &nbsp;|&nbsp; **Released:** June 5
+
+---
+
+### Mario & Sonic at the London 2012 Olympic Games
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Released:** February 14
+
+[Wikipedia](https://en.wikipedia.org/wiki/Mario_%26_Sonic_at_the_London_2012_Olympic_Games)
+
+---
+
+### Mario Tennis Open
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Released:** May 20
+
+[Wikipedia](https://en.wikipedia.org/wiki/Mario_Tennis_Open)
+
+---
+
+### Metal Gear Solid: Snake Eater 3D
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Publisher:** Konami &nbsp;|&nbsp; **Type:** Port &nbsp;|&nbsp; **Released:** February 21
+
+---
+
+### Mutant Mudds
+
+**Platforms:** Nintendo 3DS, Windows, iOS &nbsp;|&nbsp; **Released:** January 26
+
+[Wikipedia](https://en.wikipedia.org/wiki/Mutant_Mudds)
+
+---
+
 ### New Super Mario Bros. 2
 
 <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/cobaah.jpg" alt="New Super Mario Bros. 2 cover" width="200">
 
-**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Developer:** Nintendo Entertainment Analysis & Development &nbsp;|&nbsp; **Publisher:** Nintendo &nbsp;|&nbsp; **Genre:** Platform, Adventure &nbsp;|&nbsp; **Released:** July 28, 2012
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** Platform, Adventure &nbsp;|&nbsp; **Released:** August 19
 
 > New Super Mario Bros. 2 is a side-scrolling 2.5D action-adventure platform game for the Nintendo 3DS. As the direct sequel to New Super Mario Bros., it is an indirect follow-up to New Super Mario Bros. Wii. The game's main focus is on coins, with the primary goal being to collect one million. To reach the goal, the game includes many new items to aid the player, such as the Gold Flower, which turns Mario into Gold Mario.
 >
 > _Synopsis source: IGDB_
 
-[IGDB](https://www.igdb.com/games/new-super-mario-bros-2)
+[Wikipedia](https://en.wikipedia.org/wiki/New_Super_Mario_Bros._2) · [IGDB](https://www.igdb.com/games/new-super-mario-bros-2)
+
+---
+
+### Nicktoons MLB 3D
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Released:** March 6
+
+[Wikipedia](https://en.wikipedia.org/wiki/Nicktoons_MLB)
+
+---
+
+### NightSky
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Released:** October 25
+
+[Wikipedia](https://en.wikipedia.org/wiki/Nicklas_Nygren#NightSky)
+
+---
+
+### Order Up!!
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Released:** June 12
+
+[Wikipedia](https://en.wikipedia.org/wiki/Order_Up!)
 
 ---
 
@@ -976,7 +3416,7 @@
 
 <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co1tfp.jpg" alt="Paper Mario: Sticker Star cover" width="200">
 
-**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Developer:** Vanpool, Nintendo, Intelligent Systems &nbsp;|&nbsp; **Publisher:** Nintendo &nbsp;|&nbsp; **Genre:** Puzzle, Role-playing (RPG), Adventure &nbsp;|&nbsp; **Released:** November 10, 2012
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** Puzzle, Role-playing (RPG), Adventure &nbsp;|&nbsp; **Released:** November 11
 
 > A sticky situation has never been so fun! There's trouble afoot in the town of Decalburg, where the devious Bowser has disrupted the beloved Sticker Fest by causing the Sticker Comet to explode. Now Royal Stickers and pieces of the comet have been flung far and wide, and it's up to Mario and his ally Kersti to set things right by recovering them. This captivating hand-held adventure will have new and experienced fans of the Paper Mario series captivated as they navigate colorful 3D environments, defeat enemies, collect oodles of stickers and items and use them in a variety of fun ways.
 >
@@ -986,17 +3426,11 @@
 
 ---
 
-### Pokémon Mystery Dungeon: Gates to Infinity
+### Professor Layton and the Miracle Mask
 
-<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co1z4z.jpg" alt="Pokémon Mystery Dungeon: Gates to Infinity cover" width="200">
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Released:** October 28
 
-**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Developer:** Spike Chunsoft &nbsp;|&nbsp; **Publisher:** The Pokémon Company, Nintendo &nbsp;|&nbsp; **Genre:** Role-playing (RPG), Strategy, Tactical &nbsp;|&nbsp; **Released:** November 23, 2012
-
-> Discover the incredible 3D world of Pokemon Mystery Dungeon: Gates to Infinity, where Pokemon speak and amazing adventures are always nearby! What's more, you will become a Pokemon yourself! You'll meet all kinds of Pokemon throughout the game, both in the towns you'll visit and the Mystery Dungeons you'll explore.
->
-> _Synopsis source: IGDB_
-
-[IGDB](https://www.igdb.com/games/pokemon-mystery-dungeon-gates-to-infinity)
+[Wikipedia](https://en.wikipedia.org/wiki/Professor_Layton_and_the_Miracle_Mask)
 
 ---
 
@@ -1014,11 +3448,27 @@
 
 ---
 
+### Rabbids Rumble
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Released:** November 13
+
+[Wikipedia](https://en.wikipedia.org/wiki/Rabbids_Rumble)
+
+---
+
+### Rayman Origins
+
+**Platforms:** PlayStation Vita, Windows, Nintendo 3DS &nbsp;|&nbsp; **Type:** Port &nbsp;|&nbsp; **Released:** February 15
+
+[Wikipedia](https://en.wikipedia.org/wiki/Rayman_Origins)
+
+---
+
 ### Resident Evil: Revelations
 
 <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co54dy.jpg" alt="Resident Evil: Revelations cover" width="200">
 
-**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Developer:** Capcom &nbsp;|&nbsp; **Publisher:** Capcom &nbsp;|&nbsp; **Genre:** Shooter, Adventure &nbsp;|&nbsp; **Released:** January 26, 2012
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** Shooter, Adventure &nbsp;|&nbsp; **Released:** February 7
 
 > Resident Evil: Revelations is a survival horror game that restores elements of the series' nature, as opposed to the survival action of Resident Evil 5. The game features a single-player mode where the player must complete a series of episodes that involve solving puzzles and defeating enemies, and a multiplayer mode where players may fight their way through altered single-player scenarios.
 >
@@ -1028,17 +3478,31 @@
 
 ---
 
-### Rune Factory 4
+### Rhythm Thief & the Emperor's Treasure
 
-<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2xko.jpg" alt="Rune Factory 4 cover" width="200">
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Released:** July 10
 
-**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Developer:** Neverland &nbsp;|&nbsp; **Publisher:** XSEED Games, Marvelous AQL &nbsp;|&nbsp; **Genre:** Role-playing (RPG), Simulator &nbsp;|&nbsp; **Released:** July 19, 2012
+[Wikipedia](https://en.wikipedia.org/wiki/Rhythm_Thief_%26_the_Emperor%27s_Treasure)
 
-> Rune Factory 4 marks the return of the popular Harvest Moon spinoff that combines farming with dungeon adventuring. For the first time in the series, the player can select to play as a male or female hero, and potential suitors of either gender are also available in order to pursue love, marriage, and possibly a child. As the newly-appointed prince or princess, you can fulfill your royal duties of protecting the town from invaders, or take a more rural approach to governing by raising your own fruits and vegetables and helping townsfolk. Should some dungeon adventuring be on the days itinerary, you can select from the castles vast armament of swords, spears, and staffs along with magic for battle against dangerous foes, or even bring along a companion or friendly monster to aid you during your travels.
->
-> _Synopsis source: IGDB_
+---
 
-[IGDB](https://www.igdb.com/games/rune-factory-4)
+### Rise of the Guardians: The Video Game
+
+**Platforms:** PlayStation 3, Xbox 360, Wii, Nintendo 3DS, Nintendo DS, Wii U &nbsp;|&nbsp; **Released:** November 20
+
+---
+
+### RollerCoaster Tycoon 3D
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Released:** October 16
+
+[Wikipedia](https://en.wikipedia.org/wiki/RollerCoaster_Tycoon_3D)
+
+---
+
+### Sakura Samurai: Art of the Sword
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Publisher:** Nintendo &nbsp;|&nbsp; **Released:** February 2
 
 ---
 
@@ -1046,13 +3510,97 @@
 
 <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co1my3.jpg" alt="Scribblenauts Unlimited cover" width="200">
 
-**Platforms:** Windows, Nintendo 3DS, Wii U, Android &nbsp;|&nbsp; **Developer:** 5th Cell &nbsp;|&nbsp; **Publisher:** WB Games, Warner Bros. Entertainment Inc. &nbsp;|&nbsp; **Genre:** Platform, Puzzle, Strategy, Adventure &nbsp;|&nbsp; **Released:** November 13, 2012
+**Platforms:** Nintendo 3DS, Wii U, Windows &nbsp;|&nbsp; **Genre:** Platform, Puzzle, Strategy, Adventure &nbsp;|&nbsp; **Released:** November 13
 
 > Venture into a wide-open world where the most powerful tool is your imagination. Help Maxwell solve robust puzzles in seamless, free-roaming levels by summoning any object you can think of. Create your own original objects, assign unique properties, and share them with friends online using Steam Workshop – to be used in game or further modified as you like!
 >
 > _Synopsis source: IGDB_
 
-[IGDB](https://www.igdb.com/games/scribblenauts-unlimited)
+[Wikipedia](https://en.wikipedia.org/wiki/Scribblenauts_Unlimited) · [IGDB](https://www.igdb.com/games/scribblenauts-unlimited)
+
+---
+
+### Shifting World
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Released:** April 24
+
+[Wikipedia](https://en.wikipedia.org/wiki/Shift_(game))
+
+---
+
+### Skylanders: Giants
+
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co1ysh.jpg" alt="Skylanders: Giants cover" width="200">
+
+**Platforms:** PlayStation 3, Xbox 360, Wii, Nintendo 3DS, Wii U &nbsp;|&nbsp; **Genre:** Role-playing (RPG), Hack and slash/Beat 'em up, Adventure &nbsp;|&nbsp; **Released:** October 21
+
+> Skylanders: Giants is a 2012 video game in the Skylanders series, a direct sequel to the 2011 game Skylanders: Spyro's Adventure and features the voices of Kevin Michael Richardson, Greg Ellis, Peter Lurie, Steve Blum, Dave Wittenberg, Carlos Alazraqui, Kevin Sorbo, Bobcat Goldthwait, Patrick Seitz and Julie Nathanson. It is the game before Skylanders: Swap Force. As the title suggests, it features larger Skylanders known as "Giants", along with other new gameplay mechanics.
+>
+> _Synopsis source: IGDB_
+
+[IGDB](https://www.igdb.com/games/skylanders-giants)
+
+---
+
+### Sliterlink by Nikoli
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Released:** June 21
+
+[Wikipedia](https://en.wikipedia.org/wiki/Hamster_Corporation)
+
+---
+
+### Spirit Camera: The Cursed Memoir
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Released:** April 13
+
+---
+
+### Spy Hunter
+
+**Platforms:** Nintendo 3DS, PlayStation Vita &nbsp;|&nbsp; **Released:** October 9
+
+[Wikipedia](https://en.wikipedia.org/wiki/Spy_Hunter)
+
+---
+
+### Style Savvy: Trendsetters
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Released:** October 21
+
+---
+
+### Tales of the Abyss
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Released:** February 14
+
+[Wikipedia](https://en.wikipedia.org/wiki/Tales_of_the_Abyss)
+
+---
+
+### Tekken 3D: Prime Edition
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Released:** February 14
+
+---
+
+### The Amazing Spider-Man
+
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2l1s.jpg" alt="The Amazing Spider-Man cover" width="200">
+
+**Platforms:** Nintendo DS, PlayStation 3, Xbox 360, Wii, Nintendo 3DS, Android, iOS, Windows &nbsp;|&nbsp; **Genre:** Hack and slash/Beat 'em up, Adventure &nbsp;|&nbsp; **Released:** June 26
+
+> The Amazing Spider-Man is an action-adventure video game released in 2012, developed by Beenox and published by Activision. The game serves as a tie-in to the 2012 film of the same name, though it features its original storyline that continues after the movie's events. Players control Spider-Man as he swings through an open-world version of New York City, battling criminals and iconic villains like the Lizard and Rhino while facing Oscorp's mutated creatures.  The game focuses on Spider-Man's web-slinging, combat, and exploration abilities. It has a mix of main missions and side activities. The gameplay includes stealth, brawler-style combat, and environmental puzzles.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/The_Amazing_Spider-Man_(2012_video_game)) · [IGDB](https://www.igdb.com/games/the-amazing-spider-man)
+
+---
+
+### The Denpa Men: They Came By Wave
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Released:** September 27
 
 ---
 
@@ -1060,13 +3608,33 @@
 
 <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2x5n.jpg" alt="Theatrhythm Final Fantasy cover" width="200">
 
-**Platforms:** Nintendo 3DS, iOS &nbsp;|&nbsp; **Developer:** indieszero Co., Ltd., Square Enix 1st Production Department &nbsp;|&nbsp; **Publisher:** Square Enix &nbsp;|&nbsp; **Genre:** Music, Role-playing (RPG) &nbsp;|&nbsp; **Released:** February 16, 2012
+**Platforms:** Nintendo 3DS, iOS &nbsp;|&nbsp; **Genre:** Music, Role-playing (RPG) &nbsp;|&nbsp; **Released:** July 3
 
 > Theatrhythm Final Fantasy features a hybrid of music rhythm gameplay with RPG elements. Adorably re-designed heroes from the catalogue of FINAL FANTASY titles will set out on an adventure to combat memorable villains with the rhythmic taps of the player's stylus.
 >
 > _Synopsis source: IGDB_
 
-[IGDB](https://www.igdb.com/games/theatrhythm-final-fantasy)
+[Wikipedia](https://en.wikipedia.org/wiki/Theatrhythm_Final_Fantasy) · [IGDB](https://www.igdb.com/games/theatrhythm-final-fantasy)
+
+---
+
+### Top Trumps: NBA All Stars
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Released:** October 7
+
+---
+
+### Transformers: Prime – The Game
+
+**Platforms:** Wii, Nintendo DS, Nintendo 3DS, Wii U &nbsp;|&nbsp; **Released:** October 30
+
+---
+
+### Zen Pinball 3D
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Released:** January 12
+
+[Wikipedia](https://en.wikipedia.org/wiki/Zen_Pinball)
 
 ---
 
@@ -1074,7 +3642,7 @@
 
 <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co260l.jpg" alt="Zero Escape: Virtue's Last Reward cover" width="200">
 
-**Platforms:** Nintendo 3DS, PlayStation Vita &nbsp;|&nbsp; **Developer:** Chunsoft &nbsp;|&nbsp; **Publisher:** Rising Star Games, Spike Chunsoft, Chunsoft, Aksys Games &nbsp;|&nbsp; **Genre:** Point-and-click, Puzzle, Adventure, Visual Novel &nbsp;|&nbsp; **Released:** February 16, 2012
+**Platforms:** Nintendo 3DS, PlayStation Vita &nbsp;|&nbsp; **Genre:** Point-and-click, Puzzle, Adventure, Visual Novel &nbsp;|&nbsp; **Released:** October 23
 
 > The second game in the Zero Escape series. Zero Escape: Virtue's Last Reward is a mystery/thriller visual novel. It is story focused with multiple endings that use player choices and puzzle rooms to progress.  Additions to the game include an 'auto-advance text' mode, so players can listen to the voice acting without clicking through dialog, a memo function that allows players to note anything they feel is useful, and a flow chart that shows how alternate choices unfold. The in-game calculator has been removed.
 >

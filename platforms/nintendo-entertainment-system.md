@@ -2,7 +2,31 @@
 
 [← Back to index](../README.md)
 
-139 titles across 6 years in this archive.
+141 titles across 8 years in this archive.
+
+## 2025
+
+[Full 2025 page](../years/2025.md)
+
+### Angry Video Game Nerd 8-bit
+
+**Platforms:** Windows, Nintendo Switch, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S, Nintendo Entertainment System &nbsp;|&nbsp; **Developer:** Mega Cat Studios &nbsp;|&nbsp; **Publisher:** Retroware &nbsp;|&nbsp; **Genre:** Platformer, Action-adventure &nbsp;|&nbsp; **Released:** October 23
+
+[Wikipedia](https://en.wikipedia.org/wiki/Angry_Video_Game_Nerd#Video_games)
+
+---
+
+## 2024
+
+[Full 2024 page](../years/2024.md)
+
+### Changeable Guardian Estique
+
+**Platforms:** Nintendo Entertainment System &nbsp;|&nbsp; **Developer:** Cat Hui Trading &nbsp;|&nbsp; **Publisher:** Broke Studio &nbsp;|&nbsp; **Genre:** Scrolling shooter (horizontal) &nbsp;|&nbsp; **Released:** December 16
+
+[Wikipedia](https://en.wikipedia.org/wiki/Changeable_Guardian_Estique)
+
+---
 
 ## 1995
 
@@ -58,7 +82,7 @@
 
 <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co1wqb.jpg" alt="Wario's Woods cover" width="200">
 
-**Platforms:** Nintendo Entertainment System &nbsp;|&nbsp; **Developer/Publisher:** Nintendo &nbsp;|&nbsp; **Genre:** Puzzle, Strategy &nbsp;|&nbsp; **Released:** December 10
+**Platforms:** Nintendo Entertainment System &nbsp;|&nbsp; **Developer/Publisher:** Nintendo &nbsp;|&nbsp; **Genre:** Puzzle &nbsp;|&nbsp; **Released:** December 10
 
 > Wario's Woods is a puzzle game similar to Tetris or Columns, but with a twist. Instead of directly controlling the monsters and bombs that are falling down, the player controls Toad who has to carry around stacks of monsters and bombs and to combine them in the right way. One bomb plus at least two monsters of the same color have to be combined to make them disappear. If five or more objects are cleared at the same time, a diamond will appear. Destroying the diamond will clear all monsters of the diamond's color.
 >

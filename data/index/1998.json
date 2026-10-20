@@ -116,8 +116,8 @@
     "redlink": false,
     "publisher": "Capcom",
     "release_date": "December 23, 1998",
-    "mc score": "93/100 [ 26 ]",
-    "gr score": "90.28% [ 27 ]",
+    "mc score": "93/100",
+    "gr score": "90.28%",
     "platform_breakdown": {
       "platform": "PS1"
     },
@@ -259,7 +259,7 @@
     "wiki_url": null,
     "redlink": null,
     "publisher": "Sony Computer Entertainment",
-    "release_date": "October 31, 1998",
+    "release_date": "November 3, 1998",
     "mc score": "91/100",
     "gr score": "89.07%",
     "platform_breakdown": {
@@ -478,8 +478,8 @@
     "redlink": null,
     "publisher": "Namco",
     "release_date": "December 3, 1998",
-    "mc score": "88/100 [ 26 ]",
-    "gr score": "88.16% [ 27 ]",
+    "mc score": "88/100",
+    "gr score": "88.16%",
     "platform_breakdown": {
       "platform": "PS1"
     },
@@ -515,7 +515,7 @@
     "publisher": "Nintendo",
     "release_date": "March 7, 1998",
     "mc score": "— N/a",
-    "gr score": "88.04% [ 27 ]",
+    "gr score": "88.04%",
     "platform_breakdown": {
       "platform": "GBC"
     },

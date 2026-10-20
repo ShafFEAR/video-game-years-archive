@@ -2,7 +2,7 @@
 
 [← Back to index](../README.md)
 
-442 titles across 8 years in this archive.
+430 titles across 8 years in this archive.
 
 ## 2008
 
@@ -120,15 +120,9 @@
 
 ---
 
-### Call of Duty 3 (AU)
+### Call of Duty 3
 
-**Platforms:** Xbox 360, PlayStation 2, Xbox &nbsp;|&nbsp; **Released:** November 15
-
----
-
-### Call of Duty 3 (EU)
-
-**Platforms:** Xbox, Xbox 360, PlayStation 2 &nbsp;|&nbsp; **Released:** November 10
+**Platforms:** Xbox, Xbox 360, PlayStation 3, PlayStation 2 &nbsp;|&nbsp; **Released:** November 10 (EU/AU)
 
 ---
 
@@ -140,15 +134,9 @@
 
 ---
 
-### Cars (AU)
+### Cars
 
-**Platforms:** Windows, PlayStation 2, Xbox, GameCube, Game Boy Advance, Nintendo DS, PlayStation Portable, Xbox 360, Wii &nbsp;|&nbsp; **Released:** June 8
-
----
-
-### Cars (EU)
-
-**Platforms:** Windows, PlayStation 2, Xbox, GameCube, Game Boy Advance, Nintendo DS, PlayStation Portable, Xbox 360, Wii &nbsp;|&nbsp; **Released:** July 14
+**Platforms:** Windows, PlayStation 2, Xbox, GameCube, Game Boy Advance, Nintendo DS, PlayStation Portable, Xbox 360, Wii &nbsp;|&nbsp; **Released:** June 8 (AU/EU)
 
 ---
 
@@ -196,21 +184,9 @@
 
 ---
 
-### Family Guy Video Game! (AU)
+### Family Guy Video Game!
 
-**Platforms:** PlayStation 2, Xbox, PlayStation Portable &nbsp;|&nbsp; **Released:** November 3
-
----
-
-### Family Guy Video Game! (EU)
-
-**Platforms:** PlayStation 2, Xbox, PlayStation Portable &nbsp;|&nbsp; **Released:** October 26
-
----
-
-### Family Guy Video Game! (NA)
-
-**Platforms:** PlayStation 2, Xbox, PlayStation Portable &nbsp;|&nbsp; **Released:** October 17
+**Platforms:** PlayStation 2, Xbox, PlayStation Portable &nbsp;|&nbsp; **Released:** October 17 (NA/EU/AU)
 
 [Wikipedia](https://en.wikipedia.org/wiki/Family_Guy_Video_Game!)
 
@@ -222,17 +198,9 @@
 
 ---
 
-### Flatout 2 (EU)
+### Flatout 2
 
-**Platforms:** Windows, Xbox &nbsp;|&nbsp; **Released:** June 30
-
-[Wikipedia](https://en.wikipedia.org/wiki/Flatout_2)
-
----
-
-### Flatout 2 (NA)
-
-**Platforms:** Windows, Xbox &nbsp;|&nbsp; **Released:** August 1
+**Platforms:** Windows, Xbox, Steam &nbsp;|&nbsp; **Released:** June 30 (EU/NA)
 
 [Wikipedia](https://en.wikipedia.org/wiki/Flatout_2)
 
@@ -252,15 +220,9 @@
 
 ---
 
-### Ice Age 2: The Meltdown (EU)
+### Ice Age 2: The Meltdown
 
-**Platforms:** Windows, PlayStation 2, Xbox, GameCube, Game Boy Advance, Nintendo DS, Wii &nbsp;|&nbsp; **Released:** March 31
-
----
-
-### Ice Age 2: The Meltdown (JP)
-
-**Platforms:** Windows, PlayStation 2, Xbox, GameCube, Game Boy Advance, Nintendo DS &nbsp;|&nbsp; **Released:** October 6
+**Platforms:** Windows, PlayStation 2, Xbox, GameCube, Game Boy Advance, Nintendo DS, Wii &nbsp;|&nbsp; **Released:** March 31 (EU/JP)
 
 ---
 
@@ -272,7 +234,7 @@
 
 ### Jaws: Unleashed
 
-**Platforms:** PlayStation 2, Xbox &nbsp;|&nbsp; **Released:** May 23
+**Platforms:** PlayStation 2, Xbox, Windows &nbsp;|&nbsp; **Released:** May 23 (EU/AU)
 
 ---
 
@@ -368,15 +330,9 @@
 
 ---
 
-### Open Season (AU)
+### Open Season
 
-**Platforms:** Windows, GameCube, PlayStation 2, Xbox, Xbox 360, Game Boy Advance, Nintendo DS, PlayStation Portable &nbsp;|&nbsp; **Released:** November 30
-
----
-
-### Open Season (EU)
-
-**Platforms:** Windows, GameCube, PlayStation 2, Xbox, Xbox 360, Game Boy Advance, Nintendo DS, PlayStation Portable, Wii &nbsp;|&nbsp; **Released:** October 6
+**Platforms:** Windows, GameCube, PlayStation 2, Xbox, Xbox 360, Game Boy Advance, Nintendo DS, PlayStation Portable, Wii &nbsp;|&nbsp; **Released:** October 6 (EU/AU)
 
 ---
 
@@ -394,21 +350,9 @@
 
 ---
 
-### Over the Hedge (AU)
+### Over the Hedge
 
-**Platforms:** Windows, PlayStation 2, Xbox, GameCube, Game Boy Advance &nbsp;|&nbsp; **Released:** June 14
-
----
-
-### Over the Hedge (EU)
-
-**Platforms:** Windows, PlayStation 2, Xbox, GameCube, Game Boy Advance &nbsp;|&nbsp; **Released:** June 8
-
----
-
-### Over the Hedge (NA)
-
-**Platforms:** Windows, PlayStation 2, Xbox, GameCube, Game Boy Advance &nbsp;|&nbsp; **Released:** May 9
+**Platforms:** Windows, PlayStation 2, Xbox, GameCube, Game Boy Advance &nbsp;|&nbsp; **Released:** May 9 (NA/EU/AU)
 
 [Wikipedia](https://en.wikipedia.org/wiki/Over_the_Hedge_(video_game))
 
@@ -498,21 +442,9 @@
 
 ---
 
-### The Legend of Spyro: A New Beginning (AU)
+### The Legend of Spyro: A New Beginning
 
-**Platforms:** PlayStation 2, Xbox, GameCube, Game Boy Advance, Nintendo DS &nbsp;|&nbsp; **Released:** November 2
-
----
-
-### The Legend of Spyro: A New Beginning (EU)
-
-**Platforms:** PlayStation 2, Xbox, GameCube, Game Boy Advance, Nintendo DS &nbsp;|&nbsp; **Released:** October 27
-
----
-
-### The Legend of Spyro: A New Beginning (NA)
-
-**Platforms:** PlayStation 2, Xbox, GameCube, Game Boy Advance, Nintendo DS &nbsp;|&nbsp; **Released:** October 10
+**Platforms:** PlayStation 2, Xbox, GameCube, Game Boy Advance, Nintendo DS &nbsp;|&nbsp; **Released:** October 10 (NA/EU/AU)
 
 ---
 
@@ -962,9 +894,9 @@
 
 ---
 
-### FlatOut (North America)
+### FlatOut
 
-**Platforms:** Windows, Xbox &nbsp;|&nbsp; **Released:** July 12
+**Platforms:** Windows, Xbox, PlayStation 2 &nbsp;|&nbsp; **Released:** July 12 (NA/JP)
 
 [Wikipedia](https://en.wikipedia.org/wiki/FlatOut_(video_game))
 
@@ -1120,9 +1052,9 @@
 
 ---
 
-### Mortal Kombat: Shaolin Monks (EU)
+### Mortal Kombat: Shaolin Monks
 
-**Platforms:** PlayStation 2, Xbox &nbsp;|&nbsp; **Released:** September 30
+**Platforms:** PlayStation 2, Xbox &nbsp;|&nbsp; **Released:** September 30 (EU)
 
 ---
 
@@ -1166,7 +1098,7 @@
 
 <img src="../images/steam-1262560.jpg" alt="Need for Speed: Most Wanted cover" width="200">
 
-**Platforms:** Windows, PlayStation 2, Xbox, GameCube, Game Boy Advance, Nintendo DS, PlayStation Portable, Xbox 360 &nbsp;|&nbsp; **Genre:** Action, Adventure, Racing &nbsp;|&nbsp; **Released:** November 16
+**Platforms:** Windows, PlayStation 2, Xbox, GameCube, Game Boy Advance, Nintendo DS, PlayStation Portable, Xbox 360 &nbsp;|&nbsp; **Genre:** Action, Adventure, Racing &nbsp;|&nbsp; **Released:** November 15
 
 > The open-world action in Need for Speed Most Wanted gives you the freedom to drive your way. Hit jumps and shortcuts, switch cars, lie low or head for terrain that plays to your vehicle’s unique strengths. Fight your way past cops and rivals using skill, high-end car tech and tons of nitrous.
 >
@@ -1700,9 +1632,9 @@
 
 ---
 
-### FlatOut (EU)
+### FlatOut
 
-**Platforms:** Windows, Xbox &nbsp;|&nbsp; **Released:** November 5
+**Platforms:** Windows, Xbox &nbsp;|&nbsp; **Released:** November 5 (EU)
 
 [Wikipedia](https://en.wikipedia.org/wiki/FlatOut_(video_game))
 
@@ -1756,17 +1688,9 @@
 
 ---
 
-### Headhunter Redemption (EU)
+### Headhunter Redemption
 
-**Platforms:** PlayStation 2, Xbox &nbsp;|&nbsp; **Released:** August 27
-
-[Wikipedia](https://en.wikipedia.org/wiki/Headhunter_Redemption)
-
----
-
-### Headhunter Redemption (NA)
-
-**Platforms:** PlayStation 2, Xbox &nbsp;|&nbsp; **Released:** September 21
+**Platforms:** PlayStation 2, Xbox &nbsp;|&nbsp; **Released:** August 27 (EU/NA)
 
 [Wikipedia](https://en.wikipedia.org/wiki/Headhunter_Redemption)
 
@@ -2266,7 +2190,7 @@
 
 ---
 
-### Broken Sword: The Sleeping Dragon [ 46 ]
+### Broken Sword: The Sleeping Dragon
 
 **Platforms:** Windows, PlayStation 2, Xbox &nbsp;|&nbsp; **Released:** November 14
 
@@ -2310,15 +2234,7 @@
 
 ### Counter-Strike
 
-**Platforms:** Xbox &nbsp;|&nbsp; **Released:** November 18
-
-[Wikipedia](https://en.wikipedia.org/wiki/Counter-Strike_(video_game))
-
----
-
-### Counter-Strike (EU)
-
-**Platforms:** Xbox &nbsp;|&nbsp; **Released:** December 5
+**Platforms:** Windows, Xbox &nbsp;|&nbsp; **Released:** September 9 (EU)
 
 [Wikipedia](https://en.wikipedia.org/wiki/Counter-Strike_(video_game))
 
@@ -2482,9 +2398,15 @@
 
 ### Grand Theft Auto III
 
-**Platforms:** Xbox &nbsp;|&nbsp; **Released:** October 31
+**Platforms:** Xbox &nbsp;|&nbsp; **Released:** November 4
 
 [Wikipedia](https://en.wikipedia.org/wiki/Grand_Theft_Auto_III)
+
+---
+
+### Grand Theft Auto: Vice City
+
+**Platforms:** Windows, Xbox &nbsp;|&nbsp; **Publisher:** Rockstar Games &nbsp;|&nbsp; **Released:** May 12, 2003
 
 ---
 
@@ -2504,7 +2426,7 @@
 
 ### Indiana Jones and the Emperor's Tomb
 
-**Platforms:** Xbox &nbsp;|&nbsp; **Released:** February 24
+**Platforms:** Xbox, Windows, PlayStation 2 &nbsp;|&nbsp; **Released:** February 24
 
 [Wikipedia](https://en.wikipedia.org/wiki/Indiana_Jones_and_the_Emperor%27s_Tomb)
 
@@ -2520,7 +2442,7 @@
 
 <img src="../images/steam-3710.jpg" alt="Judge Dredd: Dredd vs. Death cover" width="200">
 
-**Platforms:** Windows, GameCube, PlayStation 2, Xbox &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** October 17
+**Platforms:** Windows, PlayStation 2, Xbox, GameCube &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** October 17 (EU)
 
 > Welcome to Mega-City One, a city of over 400 million people - every one of them a potential criminal. It is the third decade of the 22nd Century, unemployment is widespread, boredom is universal and only the Judges can prevent total anarchy. Empowered to dispense instant justice, they are Judge, Jury and Executioner all in one.
 >
@@ -2542,7 +2464,7 @@
 
 ---
 
-### Mace Griffin: Bounty Hunter [ 42 ]
+### Mace Griffin: Bounty Hunter
 
 **Platforms:** Windows, PlayStation 2, Xbox &nbsp;|&nbsp; **Released:** June 19
 
@@ -2632,9 +2554,9 @@
 
 ---
 
-### Need for Speed: Underground (North America)
+### Need for Speed: Underground
 
-**Platforms:** Windows, GameCube, PlayStation 2, Xbox &nbsp;|&nbsp; **Released:** November 17
+**Platforms:** Windows, GameCube, PlayStation 2, Xbox &nbsp;|&nbsp; **Released:** November 17 (NA)
 
 ---
 
@@ -2725,14 +2647,6 @@
 **Platforms:** PlayStation 2, Xbox, GameCube &nbsp;|&nbsp; **Released:** December 4
 
 [Wikipedia](https://en.wikipedia.org/wiki/Sonic_Heroes)
-
----
-
-### Soul Calibur II
-
-**Platforms:** PlayStation 2, Xbox, GameCube &nbsp;|&nbsp; **Released:** August 27
-
-[Wikipedia](https://en.wikipedia.org/wiki/Soul_Calibur_II)
 
 ---
 
@@ -3013,6 +2927,14 @@
 **Platforms:** Xbox, PlayStation 2, Game Boy Advance &nbsp;|&nbsp; **Publisher:** Electronic Arts &nbsp;|&nbsp; **Released:** November 1, 2002
 
 [Wikipedia](https://en.wikipedia.org/wiki/FIFA_Football_2003)
+
+---
+
+### Frogger Beyond
+
+**Platforms:** GameCube, Xbox &nbsp;|&nbsp; **Released:** December 10
+
+[Wikipedia](https://en.wikipedia.org/wiki/Frogger_Beyond)
 
 ---
 
@@ -3468,7 +3390,7 @@
 
 ---
 
-### Star Wars: Obi-Wan [ 60 ]
+### Star Wars: Obi-Wan
 
 **Platforms:** Xbox &nbsp;|&nbsp; **Released:** December 19
 

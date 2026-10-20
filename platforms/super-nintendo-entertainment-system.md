@@ -2,7 +2,31 @@
 
 [← Back to index](../README.md)
 
-273 titles across 9 years in this archive.
+275 titles across 11 years in this archive.
+
+## 2018
+
+[Full 2018 page](../years/2018.md)
+
+### Return of Double Dragon
+
+**Platforms:** Super Nintendo Entertainment System &nbsp;|&nbsp; **Publisher:** Retroism &nbsp;|&nbsp; **Genre:** Brawler &nbsp;|&nbsp; **Released:** August 21
+
+[Wikipedia](https://en.wikipedia.org/wiki/Return_of_Double_Dragon)
+
+---
+
+## 2017
+
+[Full 2017 page](../years/2017.md)
+
+### Star Fox 2
+
+**Platforms:** Super Nintendo Entertainment System &nbsp;|&nbsp; **Genre:** Shoot 'em up, RTS &nbsp;|&nbsp; **Released:** September 29
+
+[Wikipedia](https://en.wikipedia.org/wiki/Star_Fox_2)
+
+---
 
 ## 1998
 
@@ -1298,7 +1322,7 @@
 
 <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co70qn.jpg" alt="Donkey Kong Country cover" width="200">
 
-**Platforms:** Super Nintendo Entertainment System &nbsp;|&nbsp; **Developer/Publisher:** Rare/Nintendo &nbsp;|&nbsp; **Genre:** Platform &nbsp;|&nbsp; **Released:** November 21
+**Platforms:** Super Nintendo Entertainment System &nbsp;|&nbsp; **Developer/Publisher:** Rare/Nintendo &nbsp;|&nbsp; **Genre:** Platformer &nbsp;|&nbsp; **Released:** November 21
 
 > Donkey Kong Country is a side scrolling platformer by British developers Rare in 1994. It featured revolutionary pre-rendered 3D graphics that give the game a very unique look compared to most other games on consoles at the time. The two playable characters featured in the game are the titular character, Donkey Kong and his nephew, Diddy Kong. Together the two swing, climb, jump, swim, cartwheel, ride animals, and blast out of barrels on their way to recover their stolen bannanas from the evil King K. Rool and his Kremling army. The adventure takes you through a variety of different environments and levels that continually change up gameplay. Donkey Kong Country also provides plenty of opportunities for exploration with almost every level having a multitude of collectible, shortcuts, and hidden bonus areas.
 >
@@ -1368,7 +1392,7 @@
 
 <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co20g8.jpg" alt="Earthworm Jim cover" width="200">
 
-**Platforms:** Super Nintendo Entertainment System, Genesis / Mega Drive &nbsp;|&nbsp; **Developer/Publisher:** Shiny Entertainment &nbsp;|&nbsp; **Genre:** Shooter, Platform &nbsp;|&nbsp; **Released:** August 2
+**Platforms:** Super Nintendo Entertainment System, Genesis / Mega Drive &nbsp;|&nbsp; **Developer/Publisher:** Shiny Entertainment &nbsp;|&nbsp; **Genre:** Platformer &nbsp;|&nbsp; **Released:** August 2
 
 > A crow is chasing a worm named Jim while in outer space Psy-Crow is chasing a renegade ship. The ship's captain has stolen an ultra-high-tech-indestructible-super-space-cyber-suit and Queen Slug-for-a-Butt has ordered Psy-Crow to get it, since it can make her more beautiful than Princess-What's-Her-Name. Psy-Crow blasts the captain and the suit falls to Planet Earth.  Back on earth Jim wonders if he is finally safe when an ultra-high-tech-indestructible-super-space-cyber-suit lands on him. Luckily Jim rests in the neck ring of the suit. Then the space particles begin interacting with Jim, causing a light-speed evolution. Jim soon realizes he is in control of the suit.  Jim overhears the Queen's plans for the suit and decides to meet this Princess...
 >

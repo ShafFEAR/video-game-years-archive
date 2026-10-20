@@ -12,6 +12,7 @@ fetch_igdb.py) is merged in at render time: titles Wikipedia doesn't have
 are added, and ones it does have gain IGDB's cover/summary.
 """
 import json
+import re
 import shutil
 import sys
 from collections import OrderedDict, defaultdict
@@ -19,26 +20,23 @@ from pathlib import Path
 
 sys.stdout.reconfigure(encoding="utf-8", errors="replace")
 sys.path.insert(0, str(Path(__file__).resolve().parent))
+import sources
 from platforms import slugify
 from titles import norm_title
 
 ROOT = Path(__file__).resolve().parent.parent
-INDEX_DIR = ROOT / "data" / "index"
-ENRICHED_DIR = ROOT / "data" / "enriched"
 IGDB_DIR = ROOT / "data" / "igdb"
 YEARS_DIR = ROOT / "years"
 PLATFORMS_DIR = ROOT / "platforms"
 # GitHub stops rendering Markdown files somewhere around 512 KB; stay well under.
 PLATFORM_PAGE_LIMIT = 400_000
+YEAR_PAGE_LIMIT = 400_000
 
 
 def load_all_years():
     by_year = OrderedDict()
-    years = {int(p.stem) for p in INDEX_DIR.glob("*.json")} | {int(p.stem) for p in ENRICHED_DIR.glob("*.json")}
-    for year in sorted(years):
-        enriched_path = ENRICHED_DIR / f"{year}.json"
-        source = enriched_path if enriched_path.exists() else INDEX_DIR / f"{year}.json"
-        by_year[year] = json.loads(source.read_text(encoding="utf-8"))
+    for year in sources.available_years():
+        by_year[year] = sources.load_year(year)
         for entry in by_year[year]:
             entry["source"] = "wikipedia"
     return by_year
@@ -184,8 +182,13 @@ def render_entry(entry, show_year=False, root="../"):
     genre_text = entry.get("genre") or (", ".join(enrichment["genres"]) if enrichment and enrichment["genres"] else None)
     if genre_text:
         meta_bits.append(f"**Genre:** {escape_md(genre_text)}")
+    if entry.get("type") and entry["type"] not in ("Original", "Full release"):
+        meta_bits.append(f"**Type:** {escape_md(entry['type'])}")
     if entry.get("release_date"):
-        meta_bits.append(f"**{entry.get('release_label', 'Released')}:** {escape_md(entry['release_date'])}")
+        when = escape_md(entry["release_date"])
+        if entry.get("region"):
+            when += f" ({escape_md(entry['region'])})"
+        meta_bits.append(f"**{entry.get('release_label', 'Released')}:** {when}")
     if meta_bits:
         lines.append(" &nbsp;|&nbsp; ".join(meta_bits))
         lines.append("")
@@ -209,22 +212,62 @@ def render_entry(entry, show_year=False, root="../"):
     return "\n".join(lines)
 
 
+QUARTERS = {1: "January–March", 2: "April–June", 3: "July–September", 4: "October–December"}
+_MONTHS = {m: i for i, m in enumerate(["jan", "feb", "mar", "apr", "may", "jun", "jul", "aug", "sep", "oct", "nov", "dec"], 1)}
+
+
+def entry_quarter(entry):
+    """1-4 from the release date text ("January 2", "March 4, 2014"), or None
+    when it has no month ("2028 (date TBA)", "Q3", blank)."""
+    match = re.match(r"\s*([A-Za-z]{3})", entry.get("release_date") or "")
+    month = _MONTHS.get(match.group(1).lower()) if match else None
+    return (month - 1) // 3 + 1 if month else None
+
+
 def generate_year_page(year, entries):
     from_igdb = sum(1 for e in entries if e.get("source") == "igdb")
-    lines = [
-        f"# {year} in Video Games",
-        "",
-        "[← Back to index](../README.md)",
-        "",
+    sources_line = f"[source](https://en.wikipedia.org/wiki/{year}_in_video_games)"
+    if (sources.LISTS_DIR / f"{year}.json").exists():
+        sources_line += f" · [release list](https://en.wikipedia.org/wiki/List_of_video_games_released_in_{year})"
+    intro = (
         f"{len(entries)} titles"
         + (f" ({from_igdb} added from [IGDB](https://www.igdb.com))" if from_igdb else "")
-        + f" · [source](https://en.wikipedia.org/wiki/{year}_in_video_games)",
-        "",
-    ]
-    for entry in sorted(entries, key=lambda e: e["title"].lower()):
-        lines.append(render_entry(entry))
+        + f" · {sources_line}"
+    )
+    ordered = sorted(entries, key=lambda e: e["title"].lower())
+    lines = [f"# {year} in Video Games", "", "[← Back to index](../README.md)", "", intro, ""]
+    lines += [render_entry(entry) for entry in ordered]
+    page = "\n".join(lines)
+
     YEARS_DIR.mkdir(parents=True, exist_ok=True)
-    (YEARS_DIR / f"{year}.md").write_text("\n".join(lines), encoding="utf-8")
+    page_path = YEARS_DIR / f"{year}.md"
+    year_dir = YEARS_DIR / str(year)
+    if len(page.encode("utf-8")) <= YEAR_PAGE_LIMIT:
+        page_path.write_text(page, encoding="utf-8")
+        if year_dir.is_dir():  # left over from when this year was big enough to split
+            shutil.rmtree(year_dir)
+        return
+
+    # Too big for GitHub to render as one page: years/{year}.md becomes an
+    # index (so existing links keep working) with one page per quarter.
+    groups = defaultdict(list)
+    for entry in ordered:
+        groups[entry_quarter(entry)].append(entry)
+    index = lines[:4] + [intro, "", "That's too many titles for one page, so it's split by release quarter.", "",
+                         "| Release period | Titles |", "|---|---|"]
+    year_dir.mkdir(exist_ok=True)
+    for quarter in (1, 2, 3, 4, None):
+        if not groups.get(quarter):
+            continue
+        name = QUARTERS.get(quarter, "No release month listed")
+        stem = f"q{quarter}" if quarter else "undated"
+        index.append(f"| [{name}]({year}/{stem}.md) | {len(groups[quarter])} |")
+        page_lines = [f"# {year} in Video Games — {name}", "",
+                      f"[← All of {year}](../{year}.md) · [Back to index](../../README.md)", "",
+                      f"{len(groups[quarter])} titles.", ""]
+        page_lines += [render_entry(entry, root="../../") for entry in groups[quarter]]
+        (year_dir / f"{stem}.md").write_text("\n".join(page_lines), encoding="utf-8")
+    page_path.write_text("\n".join(index) + "\n", encoding="utf-8")
 
 
 def generate_platform_pages(by_year):
@@ -344,32 +387,45 @@ def generate_readme(by_year, platform_meta):
         lines.append(f"| [{plat}](platforms/{meta['slug']}.md) | {meta['count']} |")
     lines.append("")
 
-    gap_note = (
-        "- Wikipedia stopped maintaining an exhaustive month-by-month release "
-        "table on most \"X in video games\" articles after **2011** -- the "
-        "sheer volume of releases (digital storefronts, mobile, indies) made "
-        "that impractical for editors to keep up by hand. For 2012 onward, "
-        "this archive uses whatever curated release/score table each year's "
-        "article still maintains (often a \"best-reviewed games\" chart), so "
-        "per-year counts drop sharply after 2011 -- that's a real gap in the "
-        "source data, not a scraper bug."
-    )
+    list_years = sorted(int(p.stem) for p in sources.LISTS_DIR.glob("*.json"))
+    if list_years:
+        gap_note = (
+            "- Wikipedia's \"X in video games\" articles carry an exhaustive "
+            "month-by-month release table only through **2011**. From "
+            f"{list_years[0]} on those lists live in separate \"List of video "
+            "games released in X\" articles, which this archive scrapes too "
+            "(`scripts/scrape_lists.py`), so those years have hundreds of "
+            "titles each. Earlier years rely on the original articles' "
+            "tables, which are thinner -- especially in the early 1990s."
+        )
+    else:
+        gap_note = (
+            "- Wikipedia stopped maintaining an exhaustive month-by-month release "
+            "table on most \"X in video games\" articles after **2011**, so "
+            "per-year counts drop sharply after that -- a real gap in the "
+            "source data, not a scraper bug."
+        )
     if from_igdb:
         gap_note += (
-            " Those thin years are topped up with the most-rated titles IGDB "
-            "has for them, so their counts reflect notability, not a "
-            "complete release list."
+            " Years that are still thin are topped up with the most-rated "
+            "titles IGDB has for them, so their counts reflect notability, "
+            "not a complete release list."
         )
-    empty_years_note = (
-        "- A handful of years (1990, 1991, 1993, and 2027-2028) have no "
-        "structured release table on Wikipedia at all and so contribute no "
-        "Wikipedia titles"
-        + (" (any titles in those years come from IGDB)." if from_igdb else " here.")
-    )
+    no_wiki_years = [y for y in years if not any(e.get("source") == "wikipedia" for e in by_year[y])]
+    empty_years_note = None
+    if no_wiki_years:
+        empty_years_note = (
+            f"- {', '.join(str(y) for y in no_wiki_years)} "
+            f"{'has' if len(no_wiki_years) == 1 else 'have'} no structured release "
+            "table on Wikipedia at all and so contribute no Wikipedia titles"
+            + (" (any titles in those years come from IGDB)." if from_igdb else " here.")
+        )
 
     attribution = [
         "- Year-by-year title listings and platform tags are drawn from "
-        "Wikipedia (text available under "
+        "Wikipedia's \"X in video games\" articles"
+        + (" and, from " + str(list_years[0]) + " on, its \"List of video games released in X\" articles" if list_years else "")
+        + " (text available under "
         "[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)).",
     ]
     if from_steam:
@@ -411,7 +467,7 @@ def generate_readme(by_year, platform_meta):
         "## Coverage notes",
         "",
         gap_note,
-        empty_years_note,
+        *([empty_years_note] if empty_years_note else []),
         "- Platform tags come from each article's own abbreviation legend "
         "(e.g. \"PS2\", \"WIN\") plus a curated lookup table for consistency "
         "across years; see `scripts/platforms.py`.",
@@ -534,6 +590,12 @@ HTML_TEMPLATE = """<!doctype html>
     padding: 2px 9px; font-size: 0.75rem;
   }}
   .empty {{ color: var(--muted); text-align: center; padding: 48px 0; }}
+  .more {{ text-align: center; padding: 20px 0 0; }}
+  .more button {{
+    padding: 9px 18px; border-radius: 8px; border: 1px solid var(--border);
+    background: var(--panel); color: var(--text); font-size: 0.95rem; cursor: pointer;
+  }}
+  .more button:hover {{ border-color: var(--accent); color: var(--accent); }}
   .foot {{ max-width: 1000px; margin: 0 auto; padding: 0 24px 32px; color: var(--muted); font-size: 0.8rem; }}
   .foot a {{ color: var(--accent); }}
 </style>
@@ -548,7 +610,7 @@ HTML_TEMPLATE = """<!doctype html>
   <select id="platform"><option value="">All platforms</option>{platform_options}</select>
   <span class="count" id="count"></span>
 </div>
-<main><div class="grid" id="grid"></div></main>
+<main><div class="grid" id="grid"></div><div class="more" id="more"></div></main>
 {footer}
 <script>
 const DATA = {data_json};
@@ -557,20 +619,45 @@ const platSel = document.getElementById('platform');
 const grid = document.getElementById('grid');
 const countEl = document.getElementById('count');
 
+const CHUNK = 200;
+const moreEl = document.getElementById('more');
+let current = [];
+let shown = 0;
+
 function render() {{
   const y = yearSel.value;
   const p = platSel.value;
-  const filtered = DATA.filter(function(e) {{
+  current = DATA.filter(function(e) {{
     if (y && String(e.year) !== y) return false;
     if (p && e.platforms.indexOf(p) === -1) return false;
     return true;
   }});
-  countEl.textContent = filtered.length + ' title' + (filtered.length === 1 ? '' : 's');
-  if (!filtered.length) {{
+  countEl.textContent = current.length + ' title' + (current.length === 1 ? '' : 's');
+  if (!current.length) {{
     grid.innerHTML = '<div class="empty">No titles match that combination.</div>';
+    moreEl.innerHTML = '';
     return;
   }}
-  grid.innerHTML = filtered.map(function(e) {{
+  grid.innerHTML = '';
+  shown = 0;
+  showMore();
+}}
+
+function showMore() {{
+  const next = Math.min(current.length, shown + CHUNK);
+  grid.insertAdjacentHTML('beforeend', current.slice(shown, next).map(cardHtml).join(''));
+  shown = next;
+  const remaining = current.length - shown;
+  moreEl.innerHTML = remaining > 0
+    ? '<button type="button" id="more-btn">Show ' + Math.min(CHUNK, remaining) + ' more (' + remaining + ' not shown yet)</button>'
+    : '';
+}}
+
+moreEl.addEventListener('click', function(ev) {{
+  if (ev.target && ev.target.id === 'more-btn') showMore();
+}});
+
+function cardHtml(e) {{
     const titleHtml = e.url
       ? '<a href="' + e.url + '" target="_blank" rel="noopener">' + escapeHtml(e.title) + '</a>'
       : escapeHtml(e.title);
@@ -591,7 +678,6 @@ function render() {{
       '<div class="meta">' + metaBits.join(' &middot; ') + '</div>' +
       desc +
       '<div class="tags">' + tags + '</div></div></div>';
-  }}).join('');
 }}
 
 function escapeHtml(s) {{
@@ -621,6 +707,11 @@ def main():
     generate_interactive_page(by_year)
     print(f"\nREADME.md, {len(by_year)} year pages, {len(platform_meta)} platform pages, "
           f"data/all_games.json, and index.html generated.")
+    for directory in (YEARS_DIR, PLATFORMS_DIR):
+        for page in sorted(directory.rglob("*.md")):
+            if page.stat().st_size > 450_000:
+                print(f"WARNING: {page.relative_to(ROOT)} is {page.stat().st_size // 1024} KB; "
+                      "GitHub may not render Markdown files this large.")
 
 
 if __name__ == "__main__":

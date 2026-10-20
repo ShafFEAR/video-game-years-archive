@@ -1,7 +1,7 @@
 [
   {
     "year": 2006,
-    "section": "Critically acclaimed titles",
+    "section": "Critically acclaimed games",
     "title": "The Legend of Zelda: Twilight Princess",
     "wiki_title": null,
     "wiki_url": null,
@@ -20,7 +20,7 @@
   },
   {
     "year": 2006,
-    "section": "Critically acclaimed titles",
+    "section": "Critically acclaimed games",
     "title": "Gears of War",
     "wiki_title": "Gears of War (video game)",
     "wiki_url": "https://en.wikipedia.org/wiki/Gears_of_War_(video_game)",
@@ -38,7 +38,7 @@
   },
   {
     "year": 2006,
-    "section": "Critically acclaimed titles",
+    "section": "Critically acclaimed games",
     "title": "The Elder Scrolls IV: Oblivion",
     "wiki_title": null,
     "wiki_url": null,
@@ -57,7 +57,7 @@
   },
   {
     "year": 2006,
-    "section": "Critically acclaimed titles",
+    "section": "Critically acclaimed games",
     "title": "Company of Heroes",
     "wiki_title": "Company of Heroes",
     "wiki_url": "https://en.wikipedia.org/wiki/Company_of_Heroes",
@@ -75,7 +75,7 @@
   },
   {
     "year": 2006,
-    "section": "Critically acclaimed titles",
+    "section": "Critically acclaimed games",
     "title": "Ōkami",
     "wiki_title": "Ōkami",
     "wiki_url": "https://en.wikipedia.org/wiki/%C5%8Ckami",
@@ -93,7 +93,7 @@
   },
   {
     "year": 2006,
-    "section": "Critically acclaimed titles",
+    "section": "Critically acclaimed games",
     "title": "Guitar Hero II",
     "wiki_title": "Guitar Hero II",
     "wiki_url": "https://en.wikipedia.org/wiki/Guitar_Hero_II",
@@ -111,25 +111,26 @@
   },
   {
     "year": 2006,
-    "section": "Critically acclaimed titles",
+    "section": "Critically acclaimed games",
     "title": "Final Fantasy VI Advance",
     "wiki_title": "Final Fantasy VI#Nintendo consoles",
     "wiki_url": "https://en.wikipedia.org/wiki/Final_Fantasy_VI#Nintendo_consoles",
     "redlink": false,
     "publisher": "Square Enix",
     "release_date": "November 30, 2006",
-    "mc score": "92/100 [ 3 ]",
-    "gr score": "91.02% [ 4 ]",
+    "mc score": "92/100",
+    "gr score": "91.02%",
     "platform_breakdown": {
       "platform": "GBA"
     },
     "platforms": [
       "Game Boy Advance"
-    ]
+    ],
+    "region": "JP"
   },
   {
     "year": 2006,
-    "section": "Critically acclaimed titles",
+    "section": "Critically acclaimed games",
     "title": "Final Fantasy XII",
     "wiki_title": "Final Fantasy XII",
     "wiki_url": "https://en.wikipedia.org/wiki/Final_Fantasy_XII",
@@ -143,11 +144,12 @@
     },
     "platforms": [
       "PlayStation 2"
-    ]
+    ],
+    "region": "JP"
   },
   {
     "year": 2006,
-    "section": "Critically acclaimed titles",
+    "section": "Critically acclaimed games",
     "title": "Tom Clancy's Ghost Recon Advanced Warfighter",
     "wiki_title": "Tom Clancy's Ghost Recon Advanced Warfighter",
     "wiki_url": "https://en.wikipedia.org/wiki/Tom_Clancy%27s_Ghost_Recon_Advanced_Warfighter",
@@ -168,7 +170,7 @@
   },
   {
     "year": 2006,
-    "section": "Critically acclaimed titles",
+    "section": "Critically acclaimed games",
     "title": "GTR 2 – FIA GT Racing Game",
     "wiki_title": "GTR 2 – FIA GT Racing Game",
     "wiki_url": "https://en.wikipedia.org/wiki/GTR_2_%E2%80%93_FIA_GT_Racing_Game",
@@ -186,7 +188,7 @@
   },
   {
     "year": 2006,
-    "section": "Critically acclaimed titles",
+    "section": "Critically acclaimed games",
     "title": "Tom Clancy's Rainbow Six: Vegas",
     "wiki_title": null,
     "wiki_url": null,
@@ -204,7 +206,7 @@
   },
   {
     "year": 2006,
-    "section": "Critically acclaimed titles",
+    "section": "Critically acclaimed games",
     "title": "Tom Clancy's Splinter Cell: Double Agent",
     "wiki_title": null,
     "wiki_url": null,
@@ -227,7 +229,7 @@
   },
   {
     "year": 2006,
-    "section": "Critically acclaimed titles",
+    "section": "Critically acclaimed games",
     "title": "New Super Mario Bros.",
     "wiki_title": "New Super Mario Bros.",
     "wiki_url": "https://en.wikipedia.org/wiki/New_Super_Mario_Bros.",
@@ -245,7 +247,7 @@
   },
   {
     "year": 2006,
-    "section": "Critically acclaimed titles",
+    "section": "Critically acclaimed games",
     "title": "Burnout Revenge",
     "wiki_title": "Burnout Revenge",
     "wiki_url": "https://en.wikipedia.org/wiki/Burnout_Revenge",
@@ -263,7 +265,7 @@
   },
   {
     "year": 2006,
-    "section": "Critically acclaimed titles",
+    "section": "Critically acclaimed games",
     "title": "Armadillo Run",
     "wiki_title": "Armadillo Run",
     "wiki_url": "https://en.wikipedia.org/wiki/Armadillo_Run",
@@ -271,7 +273,7 @@
     "publisher": "Peter Stock",
     "release_date": "April 22, 2006",
     "mc score": "88/100",
-    "gr score": "89% [ 5 ]",
+    "gr score": "89%",
     "platform_breakdown": {
       "platform": "WIN"
     },
@@ -281,7 +283,7 @@
   },
   {
     "year": 2006,
-    "section": "Critically acclaimed titles",
+    "section": "Critically acclaimed games",
     "title": "Elite Beat Agents",
     "wiki_title": "Elite Beat Agents",
     "wiki_url": "https://en.wikipedia.org/wiki/Elite_Beat_Agents",
@@ -299,7 +301,7 @@
   },
   {
     "year": 2006,
-    "section": "Critically acclaimed titles",
+    "section": "Critically acclaimed games",
     "title": "Tekken 5: Dark Resurrection",
     "wiki_title": null,
     "wiki_url": null,
@@ -317,7 +319,7 @@
   },
   {
     "year": 2006,
-    "section": "Critically acclaimed titles",
+    "section": "Critically acclaimed games",
     "title": "NCAA Football 07",
     "wiki_title": "NCAA Football 07",
     "wiki_url": "https://en.wikipedia.org/wiki/NCAA_Football_07",
@@ -338,7 +340,7 @@
   },
   {
     "year": 2006,
-    "section": "Critically acclaimed titles",
+    "section": "Critically acclaimed games",
     "title": "Devil May Cry 3: Special Edition",
     "wiki_title": null,
     "wiki_url": null,
@@ -356,7 +358,7 @@
   },
   {
     "year": 2006,
-    "section": "Critically acclaimed titles",
+    "section": "Critically acclaimed games",
     "title": "Medieval II: Total War",
     "wiki_title": null,
     "wiki_url": null,
@@ -374,15 +376,15 @@
   },
   {
     "year": 2006,
-    "section": "Critically acclaimed titles",
+    "section": "Critically acclaimed games",
     "title": "Disgaea: Afternoon of Darkness",
     "wiki_title": null,
     "wiki_url": null,
     "redlink": null,
     "publisher": "Nippon Ichi Software",
     "release_date": "November 30, 2006",
-    "mc score": "87/100 [ 3 ]",
-    "gr score": "87.77% [ 4 ]",
+    "mc score": "87/100",
+    "gr score": "87.77%",
     "platform_breakdown": {
       "platform": "PSP"
     },
@@ -621,10 +623,11 @@
   {
     "year": 2006,
     "section": "Games released in 2006",
-    "title": "Siren 2 (JP)",
+    "title": "Siren 2",
     "wiki_title": "Forbidden Siren 2",
     "wiki_url": "https://en.wikipedia.org/wiki/Forbidden_Siren_2",
     "redlink": false,
+    "region": "JP",
     "release_date": "February 9",
     "platform_breakdown": {
       "platform": "PS2"
@@ -1222,21 +1225,6 @@
   {
     "year": 2006,
     "section": "Games released in 2006",
-    "title": "Final Fantasy XII (JP)",
-    "wiki_title": "Final Fantasy XII",
-    "wiki_url": "https://en.wikipedia.org/wiki/Final_Fantasy_XII",
-    "redlink": false,
-    "release_date": "March 16",
-    "platform_breakdown": {
-      "platform": "PS2"
-    },
-    "platforms": [
-      "PlayStation 2"
-    ]
-  },
-  {
-    "year": 2006,
-    "section": "Games released in 2006",
     "title": "24: The Game",
     "wiki_title": null,
     "wiki_url": null,
@@ -1256,10 +1244,11 @@
   {
     "year": 2006,
     "section": "Games released in 2006",
-    "title": "Call of Cthulhu: Dark Corners of the Earth (EU)",
+    "title": "Call of Cthulhu: Dark Corners of the Earth",
     "wiki_title": null,
     "wiki_url": null,
     "redlink": null,
+    "region": "EU",
     "release_date": "March 17",
     "platform_breakdown": {
       "platform": "WIN"
@@ -1271,10 +1260,11 @@
   {
     "year": 2006,
     "section": "Games released in 2006",
-    "title": "Keepsake (EU)",
+    "title": "Keepsake",
     "wiki_title": "Keepsake (video game)",
     "wiki_url": "https://en.wikipedia.org/wiki/Keepsake_(video_game)",
     "redlink": false,
+    "region": "EU",
     "release_date": "March 17",
     "platform_breakdown": {
       "platform": "WIN"
@@ -1595,10 +1585,11 @@
   {
     "year": 2006,
     "section": "Games released in 2006",
-    "title": "Animal Crossing: Wild World (EU)",
+    "title": "Animal Crossing: Wild World",
     "wiki_title": null,
     "wiki_url": null,
     "redlink": null,
+    "region": "EU",
     "release_date": "March 31",
     "platform_breakdown": {
       "platform": "DS"
@@ -1610,10 +1601,11 @@
   {
     "year": 2006,
     "section": "Games released in 2006",
-    "title": "Ice Age 2: The Meltdown (EU)",
+    "title": "Ice Age 2: The Meltdown",
     "wiki_title": null,
     "wiki_url": null,
     "redlink": null,
+    "region": "EU/JP",
     "release_date": "March 31",
     "platform_breakdown": {
       "platform": "Wii"
@@ -1880,10 +1872,11 @@
   {
     "year": 2006,
     "section": "Games released in 2006",
-    "title": "Mother 3 (JP)",
+    "title": "Mother 3",
     "wiki_title": "Mother 3",
     "wiki_url": "https://en.wikipedia.org/wiki/Mother_3",
     "redlink": false,
+    "region": "JP",
     "release_date": "April 20",
     "platform_breakdown": {
       "platform": "GBA"
@@ -2020,10 +2013,11 @@
   {
     "year": 2006,
     "section": "Games released in 2006",
-    "title": "KOF: Maximum Impact 2 (JP)",
+    "title": "KOF: Maximum Impact 2",
     "wiki_title": "King of Fighters Maximum Impact 2",
     "wiki_url": "https://en.wikipedia.org/wiki/King_of_Fighters_Maximum_Impact_2",
     "redlink": false,
+    "region": "JP",
     "release_date": "April 27",
     "platform_breakdown": {
       "platform": "PS2"
@@ -2095,10 +2089,11 @@
   {
     "year": 2006,
     "section": "Games released in 2006",
-    "title": "Over the Hedge (NA)",
+    "title": "Over the Hedge",
     "wiki_title": "Over the Hedge (video game)",
     "wiki_url": "https://en.wikipedia.org/wiki/Over_the_Hedge_(video_game)",
     "redlink": false,
+    "region": "NA/EU/AU",
     "release_date": "May 9",
     "platform_breakdown": {
       "platform": "WIN, PS2, XB, GCN, GBA"
@@ -2114,10 +2109,11 @@
   {
     "year": 2006,
     "section": "Games released in 2006",
-    "title": "Over the Hedge (Nintendo DS) (NA)",
+    "title": "Over the Hedge (Nintendo DS)",
     "wiki_title": "Over the Hedge (Nintendo DS video game)",
     "wiki_url": "https://en.wikipedia.org/wiki/Over_the_Hedge_(Nintendo_DS_video_game)",
     "redlink": false,
+    "region": "NA/EU/AU",
     "release_date": "May 9",
     "platform_breakdown": {
       "platform": "DS"
@@ -2234,12 +2230,14 @@
     "redlink": null,
     "release_date": "May 23",
     "platform_breakdown": {
-      "platform": "PS2, XB"
+      "platform": "WIN"
     },
     "platforms": [
       "PlayStation 2",
-      "Xbox"
-    ]
+      "Xbox",
+      "Windows"
+    ],
+    "region": "EU/AU"
   },
   {
     "year": 2006,
@@ -2481,10 +2479,11 @@
   {
     "year": 2006,
     "section": "Games released in 2006",
-    "title": "Cars (AU)",
+    "title": "Cars",
     "wiki_title": null,
     "wiki_url": null,
     "redlink": null,
+    "region": "AU/EU",
     "release_date": "June 8",
     "platform_breakdown": {
       "platform": "Wii"
@@ -2499,40 +2498,6 @@
       "PlayStation Portable",
       "Xbox 360",
       "Wii"
-    ]
-  },
-  {
-    "year": 2006,
-    "section": "Games released in 2006",
-    "title": "Over the Hedge (EU)",
-    "wiki_title": null,
-    "wiki_url": null,
-    "redlink": null,
-    "release_date": "June 8",
-    "platform_breakdown": {
-      "platform": "WIN, PS2, XB, GCN, GBA"
-    },
-    "platforms": [
-      "Windows",
-      "PlayStation 2",
-      "Xbox",
-      "GameCube",
-      "Game Boy Advance"
-    ]
-  },
-  {
-    "year": 2006,
-    "section": "Games released in 2006",
-    "title": "Over the Hedge (Nintendo DS) (EU)",
-    "wiki_title": null,
-    "wiki_url": null,
-    "redlink": null,
-    "release_date": "June 9",
-    "platform_breakdown": {
-      "platform": "DS"
-    },
-    "platforms": [
-      "Nintendo DS"
     ]
   },
   {
@@ -2608,40 +2573,6 @@
     },
     "platforms": [
       "Game Boy Advance"
-    ]
-  },
-  {
-    "year": 2006,
-    "section": "Games released in 2006",
-    "title": "Over the Hedge (AU)",
-    "wiki_title": null,
-    "wiki_url": null,
-    "redlink": null,
-    "release_date": "June 14",
-    "platform_breakdown": {
-      "platform": "WIN, PS2, XB, GCN, GBA"
-    },
-    "platforms": [
-      "Windows",
-      "PlayStation 2",
-      "Xbox",
-      "GameCube",
-      "Game Boy Advance"
-    ]
-  },
-  {
-    "year": 2006,
-    "section": "Games released in 2006",
-    "title": "Over the Hedge (Nintendo DS) (AU)",
-    "wiki_title": null,
-    "wiki_url": null,
-    "redlink": null,
-    "release_date": "June 14",
-    "platform_breakdown": {
-      "platform": "DS"
-    },
-    "platforms": [
-      "Nintendo DS"
     ]
   },
   {
@@ -2891,17 +2822,19 @@
   {
     "year": 2006,
     "section": "Games released in 2006",
-    "title": "Flatout 2 (EU)",
+    "title": "Flatout 2",
     "wiki_title": "Flatout 2",
     "wiki_url": "https://en.wikipedia.org/wiki/Flatout_2",
     "redlink": false,
+    "region": "EU/NA",
     "release_date": "June 30",
     "platform_breakdown": {
-      "platform": "WIN, XB"
+      "platform": "Steam"
     },
     "platforms": [
       "Windows",
-      "Xbox"
+      "Xbox",
+      "Steam"
     ]
   },
   {
@@ -2938,39 +2871,17 @@
   {
     "year": 2006,
     "section": "Games released in 2006",
-    "title": "Persona 3 (JP)",
+    "title": "Persona 3",
     "wiki_title": "Persona 3",
     "wiki_url": "https://en.wikipedia.org/wiki/Persona_3",
     "redlink": false,
+    "region": "JP",
     "release_date": "July 13",
     "platform_breakdown": {
       "platform": "PS2"
     },
     "platforms": [
       "PlayStation 2"
-    ]
-  },
-  {
-    "year": 2006,
-    "section": "Games released in 2006",
-    "title": "Cars (EU)",
-    "wiki_title": null,
-    "wiki_url": null,
-    "redlink": null,
-    "release_date": "July 14",
-    "platform_breakdown": {
-      "platform": "Wii"
-    },
-    "platforms": [
-      "Windows",
-      "PlayStation 2",
-      "Xbox",
-      "GameCube",
-      "Game Boy Advance",
-      "Nintendo DS",
-      "PlayStation Portable",
-      "Xbox 360",
-      "Wii"
     ]
   },
   {
@@ -3006,10 +2917,11 @@
   {
     "year": 2006,
     "section": "Games released in 2006",
-    "title": "Monster House (NA)",
+    "title": "Monster House",
     "wiki_title": "Monster House (video game)",
     "wiki_url": "https://en.wikipedia.org/wiki/Monster_House_(video_game)",
     "redlink": false,
+    "region": "NA/EU/AU",
     "release_date": "July 18",
     "platform_breakdown": {
       "platform": "PS2, GCN, GBA, DS"
@@ -3175,35 +3087,21 @@
   {
     "year": 2006,
     "section": "Games released in 2006",
-    "title": "Barnyard (NA)",
+    "title": "Barnyard",
     "wiki_title": "Barnyard (video game)",
     "wiki_url": "https://en.wikipedia.org/wiki/Barnyard_(video_game)",
     "redlink": false,
+    "region": "NA/AU/PAL",
     "release_date": "August 1",
     "platform_breakdown": {
-      "platform": "WIN, PS2, GCN, GBA"
+      "platform": "Wii"
     },
     "platforms": [
       "Windows",
       "PlayStation 2",
       "GameCube",
-      "Game Boy Advance"
-    ]
-  },
-  {
-    "year": 2006,
-    "section": "Games released in 2006",
-    "title": "Flatout 2 (NA)",
-    "wiki_title": "Flatout 2",
-    "wiki_url": "https://en.wikipedia.org/wiki/Flatout_2",
-    "redlink": false,
-    "release_date": "August 1",
-    "platform_breakdown": {
-      "platform": "WIN, XB"
-    },
-    "platforms": [
-      "Windows",
-      "Xbox"
+      "Game Boy Advance",
+      "Wii"
     ]
   },
   {
@@ -3287,24 +3185,6 @@
   {
     "year": 2006,
     "section": "Games released in 2006",
-    "title": "Monster House (EU)",
-    "wiki_title": null,
-    "wiki_url": null,
-    "redlink": null,
-    "release_date": "August 4",
-    "platform_breakdown": {
-      "platform": "PS2, GCN, GBA, DS"
-    },
-    "platforms": [
-      "PlayStation 2",
-      "GameCube",
-      "Game Boy Advance",
-      "Nintendo DS"
-    ]
-  },
-  {
-    "year": 2006,
-    "section": "Games released in 2006",
     "title": "Dead Rising",
     "wiki_title": "Dead Rising (video game)",
     "wiki_url": "https://en.wikipedia.org/wiki/Dead_Rising_(video_game)",
@@ -3356,11 +3236,17 @@
     "redlink": null,
     "release_date": "August 15",
     "platform_breakdown": {
-      "platform": "WIN"
+      "platform": "Wii"
     },
     "platforms": [
-      "Windows"
-    ]
+      "Windows",
+      "PlayStation 2",
+      "GameCube",
+      "Game Boy Advance",
+      "Nintendo DS",
+      "Wii"
+    ],
+    "region": "AU/EU"
   },
   {
     "year": 2006,
@@ -3380,10 +3266,11 @@
   {
     "year": 2006,
     "section": "Games released in 2006",
-    "title": "Pathologic (UK)",
+    "title": "Pathologic",
     "wiki_title": "Pathologic",
     "wiki_url": "https://en.wikipedia.org/wiki/Pathologic",
     "redlink": false,
+    "region": "UK",
     "release_date": "August 18",
     "platform_breakdown": {
       "platform": "WIN"
@@ -3685,24 +3572,6 @@
   {
     "year": 2006,
     "section": "Games released in 2006",
-    "title": "Monster House (AU)",
-    "wiki_title": null,
-    "wiki_url": null,
-    "redlink": null,
-    "release_date": "September 7",
-    "platform_breakdown": {
-      "platform": "PS2, GCN, GBA, DS"
-    },
-    "platforms": [
-      "PlayStation 2",
-      "GameCube",
-      "Game Boy Advance",
-      "Nintendo DS"
-    ]
-  },
-  {
-    "year": 2006,
-    "section": "Games released in 2006",
     "title": "Bomberman PSP",
     "wiki_title": "Bomberman PSP",
     "wiki_url": "https://en.wikipedia.org/wiki/Bomberman_PSP",
@@ -3848,23 +3717,6 @@
   {
     "year": 2006,
     "section": "Games released in 2006",
-    "title": "Barnyard (AU)",
-    "wiki_title": null,
-    "wiki_url": null,
-    "redlink": null,
-    "release_date": "September 14",
-    "platform_breakdown": {
-      "platform": "WIN, PS2, GBA"
-    },
-    "platforms": [
-      "Windows",
-      "PlayStation 2",
-      "Game Boy Advance"
-    ]
-  },
-  {
-    "year": 2006,
-    "section": "Games released in 2006",
     "title": "The Cheetah Girls",
     "wiki_title": "The Cheetah Girls (video game)",
     "wiki_url": "https://en.wikipedia.org/wiki/The_Cheetah_Girls_(video_game)",
@@ -3880,10 +3732,11 @@
   {
     "year": 2006,
     "section": "Games released in 2006",
-    "title": "Broken Sword: The Angel of Death (EU)",
+    "title": "Broken Sword: The Angel of Death",
     "wiki_title": null,
     "wiki_url": null,
     "redlink": null,
+    "region": "EU",
     "release_date": "September 15",
     "platform_breakdown": {
       "platform": "WIN"
@@ -4032,21 +3885,6 @@
   {
     "year": 2006,
     "section": "Games released in 2006",
-    "title": "Jaws: Unleashed (EU)",
-    "wiki_title": null,
-    "wiki_url": null,
-    "redlink": null,
-    "release_date": "September 22",
-    "platform_breakdown": {
-      "platform": "WIN"
-    },
-    "platforms": [
-      "Windows"
-    ]
-  },
-  {
-    "year": 2006,
-    "section": "Games released in 2006",
     "title": "Alex Rider: Stormbreaker",
     "wiki_title": null,
     "wiki_url": null,
@@ -4069,10 +3907,11 @@
   {
     "year": 2006,
     "section": "Games released in 2006",
-    "title": "Baten Kaitos Origins (NA)",
+    "title": "Baten Kaitos Origins",
     "wiki_title": "Baten Kaitos Origins",
     "wiki_url": "https://en.wikipedia.org/wiki/Baten_Kaitos_Origins",
     "redlink": false,
+    "region": "NA",
     "release_date": "September 25",
     "platform_breakdown": {
       "platform": "GCN"
@@ -4090,13 +3929,15 @@
     "redlink": false,
     "release_date": "September 25",
     "platform_breakdown": {
-      "platform": "GBA"
+      "platform": "Wii"
     },
     "platforms": [
       "GameCube",
       "PlayStation 2",
-      "Game Boy Advance"
-    ]
+      "Game Boy Advance",
+      "Wii"
+    ],
+    "region": "NA"
   },
   {
     "year": 2006,
@@ -4206,10 +4047,11 @@
   {
     "year": 2006,
     "section": "Games released in 2006",
-    "title": "Pokémon Diamond and Pearl (JP)",
+    "title": "Pokémon Diamond and Pearl",
     "wiki_title": "Pokémon Diamond and Pearl",
     "wiki_url": "https://en.wikipedia.org/wiki/Pok%C3%A9mon_Diamond_and_Pearl",
     "redlink": false,
+    "region": "JP",
     "release_date": "September 28",
     "platform_breakdown": {
       "platform": "DS"
@@ -4221,10 +4063,11 @@
   {
     "year": 2006,
     "section": "Games released in 2006",
-    "title": "Kingdom Hearts II (AU, EU)",
+    "title": "Kingdom Hearts II",
     "wiki_title": "Kingdom Hearts II",
     "wiki_url": "https://en.wikipedia.org/wiki/Kingdom_Hearts_II",
     "redlink": false,
+    "region": "AU/EU",
     "release_date": "September 28",
     "platform_breakdown": {
       "platform": "PS2"
@@ -4236,10 +4079,11 @@
   {
     "year": 2006,
     "section": "Games released in 2006",
-    "title": "DEFCON: Everybody Dies (EU)",
+    "title": "DEFCON: Everybody Dies",
     "wiki_title": null,
     "wiki_url": null,
     "redlink": null,
+    "region": "EU",
     "release_date": "September 29",
     "platform_breakdown": {
       "platform": "WIN"
@@ -4341,30 +4185,11 @@
   {
     "year": 2006,
     "section": "Games released in 2006",
-    "title": "Ice Age 2: The Meltdown (JP)",
+    "title": "Open Season",
     "wiki_title": null,
     "wiki_url": null,
     "redlink": null,
-    "release_date": "October 6",
-    "platform_breakdown": {
-      "platform": "WIN, PS2, XB, GCN, GBA, DS"
-    },
-    "platforms": [
-      "Windows",
-      "PlayStation 2",
-      "Xbox",
-      "GameCube",
-      "Game Boy Advance",
-      "Nintendo DS"
-    ]
-  },
-  {
-    "year": 2006,
-    "section": "Games released in 2006",
-    "title": "Open Season (EU)",
-    "wiki_title": null,
-    "wiki_url": null,
-    "redlink": null,
+    "region": "EU/AU",
     "release_date": "October 6",
     "platform_breakdown": {
       "platform": "Wii"
@@ -4491,10 +4316,11 @@
   {
     "year": 2006,
     "section": "Games released in 2006",
-    "title": "The Legend of Spyro: A New Beginning (NA)",
+    "title": "The Legend of Spyro: A New Beginning",
     "wiki_title": null,
     "wiki_url": null,
     "redlink": null,
+    "region": "NA/EU/AU",
     "release_date": "October 10",
     "platform_breakdown": {
       "platform": "PS2, XB, GCN, GBA, DS"
@@ -4566,24 +4392,6 @@
     },
     "platforms": [
       "Windows"
-    ]
-  },
-  {
-    "year": 2006,
-    "section": "Games released in 2006",
-    "title": "Barnyard (PAL)",
-    "wiki_title": null,
-    "wiki_url": null,
-    "redlink": null,
-    "release_date": "October 13",
-    "platform_breakdown": {
-      "platform": "WIN, PS2, GCN, GBA"
-    },
-    "platforms": [
-      "Windows",
-      "PlayStation 2",
-      "GameCube",
-      "Game Boy Advance"
     ]
   },
   {
@@ -4664,13 +4472,14 @@
   {
     "year": 2006,
     "section": "Games released in 2006",
-    "title": "Family Guy Video Game! (NA)",
+    "title": "Family Guy Video Game!",
     "wiki_title": "Family Guy Video Game!",
     "wiki_url": "https://en.wikipedia.org/wiki/Family_Guy_Video_Game!",
     "redlink": false,
+    "region": "NA/EU/AU",
     "release_date": "October 17",
     "platform_breakdown": {
-      "platform": "PS2, XB, PSP"
+      "platform": "PSP"
     },
     "platforms": [
       "PlayStation 2",
@@ -4714,10 +4523,11 @@
   {
     "year": 2006,
     "section": "Games released in 2006",
-    "title": "Sid Meier's Railroads! (NA)",
+    "title": "Sid Meier's Railroads!",
     "wiki_title": "Sid Meier's Railroads!",
     "wiki_url": "https://en.wikipedia.org/wiki/Sid_Meier%27s_Railroads!",
     "redlink": false,
+    "region": "NA",
     "release_date": "October 17",
     "platform_breakdown": {
       "platform": "WIN"
@@ -5168,42 +4978,10 @@
   {
     "year": 2006,
     "section": "Games released in 2006",
-    "title": "Family Guy Video Game! (EU)",
-    "wiki_title": null,
-    "wiki_url": null,
-    "redlink": null,
-    "release_date": "October 26",
-    "platform_breakdown": {
-      "platform": "PSP"
-    },
-    "platforms": [
-      "PlayStation 2",
-      "Xbox",
-      "PlayStation Portable"
-    ]
-  },
-  {
-    "year": 2006,
-    "section": "Games released in 2006",
     "title": "Guild Wars Nightfall",
     "wiki_title": "Guild Wars Nightfall",
     "wiki_url": "https://en.wikipedia.org/wiki/Guild_Wars_Nightfall",
     "redlink": false,
-    "release_date": "October 26",
-    "platform_breakdown": {
-      "platform": "WIN"
-    },
-    "platforms": [
-      "Windows"
-    ]
-  },
-  {
-    "year": 2006,
-    "section": "Games released in 2006",
-    "title": "Jaws: Unleashed (AU)",
-    "wiki_title": null,
-    "wiki_url": null,
-    "redlink": null,
     "release_date": "October 26",
     "platform_breakdown": {
       "platform": "WIN"
@@ -5230,25 +5008,6 @@
   {
     "year": 2006,
     "section": "Games released in 2006",
-    "title": "The Legend of Spyro: A New Beginning (EU)",
-    "wiki_title": null,
-    "wiki_url": null,
-    "redlink": null,
-    "release_date": "October 27",
-    "platform_breakdown": {
-      "platform": "PS2, XB, GCN, GBA, DS"
-    },
-    "platforms": [
-      "PlayStation 2",
-      "Xbox",
-      "GameCube",
-      "Game Boy Advance",
-      "Nintendo DS"
-    ]
-  },
-  {
-    "year": 2006,
-    "section": "Games released in 2006",
     "title": "Dungeon Siege: Thorne of Agony",
     "wiki_title": null,
     "wiki_url": null,
@@ -5264,10 +5023,11 @@
   {
     "year": 2006,
     "section": "Games released in 2006",
-    "title": "Pokémon Ranger (NA)",
+    "title": "Pokémon Ranger",
     "wiki_title": "Pokémon Ranger",
     "wiki_url": "https://en.wikipedia.org/wiki/Pok%C3%A9mon_Ranger",
     "redlink": false,
+    "region": "NA",
     "release_date": "October 30",
     "platform_breakdown": {
       "platform": "DS"
@@ -5466,71 +5226,17 @@
   {
     "year": 2006,
     "section": "Games released in 2006",
-    "title": "Kirby: Squeak Squad (NA)",
+    "title": "Kirby: Squeak Squad",
     "wiki_title": null,
     "wiki_url": null,
     "redlink": null,
+    "region": "NA/JP",
     "release_date": "November 2",
     "platform_breakdown": {
       "platform": "DS"
     },
     "platforms": [
       "Nintendo DS"
-    ]
-  },
-  {
-    "year": 2006,
-    "section": "Games released in 2006",
-    "title": "SpongeBob SquarePants: Creature from the Krusty Krab (AU)",
-    "wiki_title": null,
-    "wiki_url": null,
-    "redlink": null,
-    "release_date": "November 2",
-    "platform_breakdown": {
-      "platform": "Wii"
-    },
-    "platforms": [
-      "PlayStation 2",
-      "GameCube",
-      "Game Boy Advance",
-      "Nintendo DS",
-      "Wii"
-    ]
-  },
-  {
-    "year": 2006,
-    "section": "Games released in 2006",
-    "title": "The Legend of Spyro: A New Beginning (AU)",
-    "wiki_title": null,
-    "wiki_url": null,
-    "redlink": null,
-    "release_date": "November 2",
-    "platform_breakdown": {
-      "platform": "PS2, XB, GCN, GBA, DS"
-    },
-    "platforms": [
-      "PlayStation 2",
-      "Xbox",
-      "GameCube",
-      "Game Boy Advance",
-      "Nintendo DS"
-    ]
-  },
-  {
-    "year": 2006,
-    "section": "Games released in 2006",
-    "title": "Family Guy Video Game! (AU)",
-    "wiki_title": null,
-    "wiki_url": null,
-    "redlink": null,
-    "release_date": "November 3",
-    "platform_breakdown": {
-      "platform": "PS2, XB, PSP"
-    },
-    "platforms": [
-      "PlayStation 2",
-      "Xbox",
-      "PlayStation Portable"
     ]
   },
   {
@@ -5696,10 +5402,11 @@
   {
     "year": 2006,
     "section": "Games released in 2006",
-    "title": "Call of Duty 3 (EU)",
+    "title": "Call of Duty 3",
     "wiki_title": null,
     "wiki_url": null,
     "redlink": null,
+    "region": "EU/AU",
     "release_date": "November 10",
     "platform_breakdown": {
       "platform": "PS2"
@@ -5707,26 +5414,8 @@
     "platforms": [
       "Xbox",
       "Xbox 360",
+      "PlayStation 3",
       "PlayStation 2"
-    ]
-  },
-  {
-    "year": 2006,
-    "section": "Games released in 2006",
-    "title": "SpongeBob SquarePants: Creature from the Krusty Krab (EU)",
-    "wiki_title": null,
-    "wiki_url": null,
-    "redlink": null,
-    "release_date": "November 10",
-    "platform_breakdown": {
-      "platform": "Wii"
-    },
-    "platforms": [
-      "PlayStation 2",
-      "GameCube",
-      "Game Boy Advance",
-      "Nintendo DS",
-      "Wii"
     ]
   },
   {
@@ -5961,7 +5650,6 @@
     "wiki_url": "https://en.wikipedia.org/wiki/Happy_Feet_(video_game)",
     "redlink": false,
     "release_date": "November 14",
-    "genre": "[ 81 ]",
     "platform_breakdown": {
       "platform": "Wii"
     },
@@ -6007,10 +5695,11 @@
   {
     "year": 2006,
     "section": "Games released in 2006",
-    "title": "Rayman Raving Rabbids (handheld) (NA)",
+    "title": "Rayman Raving Rabbids (handheld)",
     "wiki_title": "Rayman Raving Rabbids (handheld game)",
     "wiki_url": "https://en.wikipedia.org/wiki/Rayman_Raving_Rabbids_(handheld_game)",
     "redlink": false,
+    "region": "NA/AU/EU",
     "release_date": "November 14",
     "platform_breakdown": {
       "platform": "GBA"
@@ -6082,23 +5771,6 @@
       "PlayStation 2",
       "Xbox 360",
       "PlayStation Portable"
-    ]
-  },
-  {
-    "year": 2006,
-    "section": "Games released in 2006",
-    "title": "Call of Duty 3 (AU)",
-    "wiki_title": null,
-    "wiki_url": null,
-    "redlink": null,
-    "release_date": "November 15",
-    "platform_breakdown": {
-      "platform": "PS2, XB"
-    },
-    "platforms": [
-      "Xbox 360",
-      "PlayStation 2",
-      "Xbox"
     ]
   },
   {
@@ -6180,21 +5852,6 @@
   {
     "year": 2006,
     "section": "Games released in 2006",
-    "title": "Call of Duty 3",
-    "wiki_title": null,
-    "wiki_url": null,
-    "redlink": null,
-    "release_date": "November 17",
-    "platform_breakdown": {
-      "platform": "PS3"
-    },
-    "platforms": [
-      "PlayStation 3"
-    ]
-  },
-  {
-    "year": 2006,
-    "section": "Games released in 2006",
     "title": "Cash Guns Chaos DLX",
     "wiki_title": "Cash Guns Chaos",
     "wiki_url": "https://en.wikipedia.org/wiki/Cash_Guns_Chaos",
@@ -6255,21 +5912,6 @@
   {
     "year": 2006,
     "section": "Games released in 2006",
-    "title": "The Grim Adventures of Billy & Mandy (NA)",
-    "wiki_title": null,
-    "wiki_url": null,
-    "redlink": null,
-    "release_date": "November 17",
-    "platform_breakdown": {
-      "platform": "Wii"
-    },
-    "platforms": [
-      "Wii"
-    ]
-  },
-  {
-    "year": 2006,
-    "section": "Games released in 2006",
     "title": "Totally Spies! 2: Undercover",
     "wiki_title": null,
     "wiki_url": null,
@@ -6302,21 +5944,6 @@
     "year": 2006,
     "section": "Games released in 2006",
     "title": "Avatar: The Last Airbender",
-    "wiki_title": null,
-    "wiki_url": null,
-    "redlink": null,
-    "release_date": "November 19",
-    "platform_breakdown": {
-      "platform": "Wii"
-    },
-    "platforms": [
-      "Wii"
-    ]
-  },
-  {
-    "year": 2006,
-    "section": "Games released in 2006",
-    "title": "Barnyard",
     "wiki_title": null,
     "wiki_url": null,
     "redlink": null,
@@ -6791,10 +6418,11 @@
   {
     "year": 2006,
     "section": "Games released in 2006",
-    "title": "Happy Feet (EU)",
+    "title": "Happy Feet",
     "wiki_title": null,
     "wiki_url": null,
     "redlink": null,
+    "region": "EU",
     "release_date": "November 24",
     "platform_breakdown": {
       "platform": "Wii"
@@ -6811,16 +6439,18 @@
   {
     "year": 2006,
     "section": "Games released in 2006",
-    "title": "Sonic the Hedgehog (2006) (PAL)",
+    "title": "Sonic the Hedgehog (2006)",
     "wiki_title": null,
     "wiki_url": null,
     "redlink": null,
+    "region": "PAL/JP",
     "release_date": "November 24",
     "platform_breakdown": {
-      "platform": "XB360"
+      "platform": "XB360, PS3"
     },
     "platforms": [
-      "Xbox 360"
+      "Xbox 360",
+      "PlayStation 3"
     ]
   },
   {
@@ -6916,43 +6546,6 @@
   {
     "year": 2006,
     "section": "Games released in 2006",
-    "title": "Final Fantasy VI Advance (JP)",
-    "wiki_title": "Final Fantasy VI",
-    "wiki_url": "https://en.wikipedia.org/wiki/Final_Fantasy_VI",
-    "redlink": false,
-    "release_date": "November 30",
-    "platform_breakdown": {
-      "platform": "GBA"
-    },
-    "platforms": [
-      "Game Boy Advance"
-    ]
-  },
-  {
-    "year": 2006,
-    "section": "Games released in 2006",
-    "title": "Open Season (AU)",
-    "wiki_title": null,
-    "wiki_url": null,
-    "redlink": null,
-    "release_date": "November 30",
-    "platform_breakdown": {
-      "platform": "DS, PSP"
-    },
-    "platforms": [
-      "Windows",
-      "GameCube",
-      "PlayStation 2",
-      "Xbox",
-      "Xbox 360",
-      "Game Boy Advance",
-      "Nintendo DS",
-      "PlayStation Portable"
-    ]
-  },
-  {
-    "year": 2006,
-    "section": "Games released in 2006",
     "title": "Cartoon Network Racing",
     "wiki_title": "Cartoon Network Racing",
     "wiki_url": "https://en.wikipedia.org/wiki/Cartoon_Network_Racing",
@@ -6994,21 +6587,6 @@
     },
     "platforms": [
       "Wii"
-    ]
-  },
-  {
-    "year": 2006,
-    "section": "Games released in 2006",
-    "title": "Kirby: Squeak Squad (JP)",
-    "wiki_title": null,
-    "wiki_url": null,
-    "redlink": null,
-    "release_date": "December 4",
-    "platform_breakdown": {
-      "platform": "DS"
-    },
-    "platforms": [
-      "Nintendo DS"
     ]
   },
   {
@@ -7119,10 +6697,11 @@
   {
     "year": 2006,
     "section": "Games released in 2006",
-    "title": "Rayman Raving Rabbids (AU)",
+    "title": "Rayman Raving Rabbids",
     "wiki_title": null,
     "wiki_url": null,
     "redlink": null,
+    "region": "AU/EU",
     "release_date": "December 7",
     "platform_breakdown": {
       "platform": "WIN, PS2, Wii"
@@ -7131,21 +6710,6 @@
       "Windows",
       "PlayStation 2",
       "Wii"
-    ]
-  },
-  {
-    "year": 2006,
-    "section": "Games released in 2006",
-    "title": "Rayman Raving Rabbids (handheld) (AU)",
-    "wiki_title": null,
-    "wiki_url": null,
-    "redlink": null,
-    "release_date": "December 7",
-    "platform_breakdown": {
-      "platform": "GBA"
-    },
-    "platforms": [
-      "Game Boy Advance"
     ]
   },
   {
@@ -7167,48 +6731,17 @@
   {
     "year": 2006,
     "section": "Games released in 2006",
-    "title": "Yakuza 2 (JP)",
+    "title": "Yakuza 2",
     "wiki_title": "Yakuza 2",
     "wiki_url": "https://en.wikipedia.org/wiki/Yakuza_2",
     "redlink": false,
+    "region": "JP",
     "release_date": "December 7",
     "platform_breakdown": {
       "platform": "PS2"
     },
     "platforms": [
       "PlayStation 2"
-    ]
-  },
-  {
-    "year": 2006,
-    "section": "Games released in 2006",
-    "title": "Rayman Raving Rabbids (EU)",
-    "wiki_title": null,
-    "wiki_url": null,
-    "redlink": null,
-    "release_date": "December 8",
-    "platform_breakdown": {
-      "platform": "WIN, PS2, Wii"
-    },
-    "platforms": [
-      "Windows",
-      "PlayStation 2",
-      "Wii"
-    ]
-  },
-  {
-    "year": 2006,
-    "section": "Games released in 2006",
-    "title": "Rayman Raving Rabbids (handheld) (EU)",
-    "wiki_title": null,
-    "wiki_url": null,
-    "redlink": null,
-    "release_date": "December 8",
-    "platform_breakdown": {
-      "platform": "GBA"
-    },
-    "platforms": [
-      "Game Boy Advance"
     ]
   },
   {
@@ -7420,37 +6953,6 @@
     },
     "platforms": [
       "Xbox 360"
-    ]
-  },
-  {
-    "year": 2006,
-    "section": "Games released in 2006",
-    "title": "FlatOut 2",
-    "wiki_title": "FlatOut 2",
-    "wiki_url": "https://en.wikipedia.org/wiki/FlatOut_2",
-    "redlink": false,
-    "release_date": "December 21",
-    "platform_breakdown": {
-      "platform": "Steam"
-    },
-    "platforms": [
-      "Steam"
-    ]
-  },
-  {
-    "year": 2006,
-    "section": "Games released in 2006",
-    "title": "Sonic the Hedgehog (2006) (JP)",
-    "wiki_title": null,
-    "wiki_url": null,
-    "redlink": null,
-    "release_date": "December 21",
-    "platform_breakdown": {
-      "platform": "XB360, PS3"
-    },
-    "platforms": [
-      "Xbox 360",
-      "PlayStation 3"
     ]
   },
   {

@@ -1,7 +1,7 @@
 [
   {
     "year": 2008,
-    "section": "Critically acclaimed titles",
+    "section": "Critically acclaimed games",
     "title": "Grand Theft Auto IV",
     "wiki_title": "Grand Theft Auto IV",
     "wiki_url": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_IV",
@@ -21,7 +21,7 @@
   },
   {
     "year": 2008,
-    "section": "Critically acclaimed titles",
+    "section": "Critically acclaimed games",
     "title": "LittleBigPlanet",
     "wiki_title": "LittleBigPlanet (2008 video game)",
     "wiki_url": "https://en.wikipedia.org/wiki/LittleBigPlanet_(2008_video_game)",
@@ -39,7 +39,7 @@
   },
   {
     "year": 2008,
-    "section": "Critically acclaimed titles",
+    "section": "Critically acclaimed games",
     "title": "World of Goo",
     "wiki_title": "World of Goo",
     "wiki_url": "https://en.wikipedia.org/wiki/World_of_Goo",
@@ -58,7 +58,7 @@
   },
   {
     "year": 2008,
-    "section": "Critically acclaimed titles",
+    "section": "Critically acclaimed games",
     "title": "BioShock",
     "wiki_title": "BioShock",
     "wiki_url": "https://en.wikipedia.org/wiki/BioShock",
@@ -76,7 +76,7 @@
   },
   {
     "year": 2008,
-    "section": "Critically acclaimed titles",
+    "section": "Critically acclaimed games",
     "title": "Metal Gear Solid 4: Guns of the Patriots",
     "wiki_title": null,
     "wiki_url": null,
@@ -94,7 +94,7 @@
   },
   {
     "year": 2008,
-    "section": "Critically acclaimed titles",
+    "section": "Critically acclaimed games",
     "title": "Gears of War 2",
     "wiki_title": "Gears of War 2",
     "wiki_url": "https://en.wikipedia.org/wiki/Gears_of_War_2",
@@ -112,7 +112,7 @@
   },
   {
     "year": 2008,
-    "section": "Critically acclaimed titles",
+    "section": "Critically acclaimed games",
     "title": "Fallout 3",
     "wiki_title": "Fallout 3",
     "wiki_url": "https://en.wikipedia.org/wiki/Fallout_3",
@@ -132,7 +132,7 @@
   },
   {
     "year": 2008,
-    "section": "Critically acclaimed titles",
+    "section": "Critically acclaimed games",
     "title": "Super Smash Bros. Brawl",
     "wiki_title": "Super Smash Bros. Brawl",
     "wiki_url": "https://en.wikipedia.org/wiki/Super_Smash_Bros._Brawl",
@@ -146,11 +146,12 @@
     },
     "platforms": [
       "Wii"
-    ]
+    ],
+    "region": "JP/NA"
   },
   {
     "year": 2008,
-    "section": "Critically acclaimed titles",
+    "section": "Critically acclaimed games",
     "title": "Braid",
     "wiki_title": "Braid (video game)",
     "wiki_url": "https://en.wikipedia.org/wiki/Braid_(video_game)",
@@ -168,15 +169,15 @@
   },
   {
     "year": 2008,
-    "section": "Critically acclaimed titles",
+    "section": "Critically acclaimed games",
     "title": "Flipnote Studio",
     "wiki_title": "Flipnote Studio",
     "wiki_url": "https://en.wikipedia.org/wiki/Flipnote_Studio",
     "redlink": false,
     "publisher": "Nintendo",
     "release_date": "December 24, 2008",
-    "mc score": "93/100 [ 29 ]",
-    "gr score": "91% [ 30 ]",
+    "mc score": "93/100",
+    "gr score": "91%",
     "platform_breakdown": {
       "platform": "DS"
     },
@@ -186,7 +187,7 @@
   },
   {
     "year": 2008,
-    "section": "Critically acclaimed titles",
+    "section": "Critically acclaimed games",
     "title": "World of Warcraft: Wrath of the Lich King",
     "wiki_title": null,
     "wiki_url": null,
@@ -205,7 +206,7 @@
   },
   {
     "year": 2008,
-    "section": "Critically acclaimed titles",
+    "section": "Critically acclaimed games",
     "title": "Galactic Civilizations II: Twilight of the Arnor",
     "wiki_title": null,
     "wiki_url": null,
@@ -223,7 +224,7 @@
   },
   {
     "year": 2008,
-    "section": "Critically acclaimed titles",
+    "section": "Critically acclaimed games",
     "title": "Persona 4",
     "wiki_title": "Persona 4",
     "wiki_url": "https://en.wikipedia.org/wiki/Persona_4",
@@ -241,7 +242,7 @@
   },
   {
     "year": 2008,
-    "section": "Critically acclaimed titles",
+    "section": "Critically acclaimed games",
     "title": "Rock Band 2",
     "wiki_title": "Rock Band 2",
     "wiki_url": "https://en.wikipedia.org/wiki/Rock_Band_2",
@@ -261,7 +262,7 @@
   },
   {
     "year": 2008,
-    "section": "Critically acclaimed titles",
+    "section": "Critically acclaimed games",
     "title": "Chrono Trigger",
     "wiki_title": "Chrono Trigger#Nintendo DS",
     "wiki_url": "https://en.wikipedia.org/wiki/Chrono_Trigger#Nintendo_DS",
@@ -279,7 +280,7 @@
   },
   {
     "year": 2008,
-    "section": "Critically acclaimed titles",
+    "section": "Critically acclaimed games",
     "title": "God of War: Chains of Olympus",
     "wiki_title": null,
     "wiki_url": null,
@@ -297,7 +298,7 @@
   },
   {
     "year": 2008,
-    "section": "Critically acclaimed titles",
+    "section": "Critically acclaimed games",
     "title": "Ōkami",
     "wiki_title": "Ōkami",
     "wiki_url": "https://en.wikipedia.org/wiki/%C5%8Ckami",
@@ -315,7 +316,7 @@
   },
   {
     "year": 2008,
-    "section": "Critically acclaimed titles",
+    "section": "Critically acclaimed games",
     "title": "Geometry Wars: Retro Evolved 2",
     "wiki_title": null,
     "wiki_url": null,
@@ -333,7 +334,7 @@
   },
   {
     "year": 2008,
-    "section": "Critically acclaimed titles",
+    "section": "Critically acclaimed games",
     "title": "Portal: Still Alive",
     "wiki_title": "Portal (video game)#Release",
     "wiki_url": "https://en.wikipedia.org/wiki/Portal_(video_game)#Release",
@@ -351,7 +352,7 @@
   },
   {
     "year": 2008,
-    "section": "Critically acclaimed titles",
+    "section": "Critically acclaimed games",
     "title": "Mass Effect",
     "wiki_title": "Mass Effect (video game)",
     "wiki_url": "https://en.wikipedia.org/wiki/Mass_Effect_(video_game)",
@@ -369,7 +370,7 @@
   },
   {
     "year": 2008,
-    "section": "Critically acclaimed titles",
+    "section": "Critically acclaimed games",
     "title": "Left 4 Dead",
     "wiki_title": "Left 4 Dead",
     "wiki_url": "https://en.wikipedia.org/wiki/Left_4_Dead",
@@ -388,7 +389,7 @@
   },
   {
     "year": 2008,
-    "section": "Critically acclaimed titles",
+    "section": "Critically acclaimed games",
     "title": "Dead Space",
     "wiki_title": "Dead Space (video game)",
     "wiki_url": "https://en.wikipedia.org/wiki/Dead_Space_(video_game)",
@@ -408,7 +409,7 @@
   },
   {
     "year": 2008,
-    "section": "Critically acclaimed titles",
+    "section": "Critically acclaimed games",
     "title": "Rez HD",
     "wiki_title": "Rez (video game)",
     "wiki_url": "https://en.wikipedia.org/wiki/Rez_(video_game)",
@@ -426,7 +427,7 @@
   },
   {
     "year": 2008,
-    "section": "Critically acclaimed titles",
+    "section": "Critically acclaimed games",
     "title": "Fable II",
     "wiki_title": "Fable II",
     "wiki_url": "https://en.wikipedia.org/wiki/Fable_II",
@@ -444,7 +445,7 @@
   },
   {
     "year": 2008,
-    "section": "Critically acclaimed titles",
+    "section": "Critically acclaimed games",
     "title": "Super Street Fighter II Turbo HD Remix",
     "wiki_title": "Super Street Fighter II Turbo HD Remix",
     "wiki_url": "https://en.wikipedia.org/wiki/Super_Street_Fighter_II_Turbo_HD_Remix",
@@ -463,7 +464,7 @@
   },
   {
     "year": 2008,
-    "section": "Critically acclaimed titles",
+    "section": "Critically acclaimed games",
     "title": "NHL 09",
     "wiki_title": "NHL 09",
     "wiki_url": "https://en.wikipedia.org/wiki/NHL_09",
@@ -484,7 +485,7 @@
   },
   {
     "year": 2008,
-    "section": "Critically acclaimed titles",
+    "section": "Critically acclaimed games",
     "title": "Burnout Paradise",
     "wiki_title": "Burnout Paradise",
     "wiki_url": "https://en.wikipedia.org/wiki/Burnout_Paradise",
@@ -503,7 +504,7 @@
   },
   {
     "year": 2008,
-    "section": "Critically acclaimed titles",
+    "section": "Critically acclaimed games",
     "title": "FIFA Soccer 09",
     "wiki_title": "FIFA Soccer 09",
     "wiki_url": "https://en.wikipedia.org/wiki/FIFA_Soccer_09",
@@ -521,7 +522,7 @@
   },
   {
     "year": 2008,
-    "section": "Critically acclaimed titles",
+    "section": "Critically acclaimed games",
     "title": "Bionic Commando Rearmed",
     "wiki_title": "Bionic Commando Rearmed",
     "wiki_url": "https://en.wikipedia.org/wiki/Bionic_Commando_Rearmed",
@@ -542,7 +543,7 @@
   },
   {
     "year": 2008,
-    "section": "Critically acclaimed titles",
+    "section": "Critically acclaimed games",
     "title": "Race Driver: Grid",
     "wiki_title": null,
     "wiki_url": null,
@@ -563,7 +564,7 @@
   },
   {
     "year": 2008,
-    "section": "Critically acclaimed titles",
+    "section": "Critically acclaimed games",
     "title": "Wipeout HD",
     "wiki_title": "Wipeout HD",
     "wiki_url": "https://en.wikipedia.org/wiki/Wipeout_HD",
@@ -582,7 +583,7 @@
   },
   {
     "year": 2008,
-    "section": "Critically acclaimed titles",
+    "section": "Critically acclaimed games",
     "title": "Sins of a Solar Empire",
     "wiki_title": "Sins of a Solar Empire",
     "wiki_url": "https://en.wikipedia.org/wiki/Sins_of_a_Solar_Empire",
@@ -930,21 +931,6 @@
     },
     "platforms": [
       "PlayStation 3"
-    ]
-  },
-  {
-    "year": 2008,
-    "section": "Games released in 2008",
-    "title": "Super Smash Bros. Brawl (JP)",
-    "wiki_title": "Super Smash Bros. Brawl",
-    "wiki_url": "https://en.wikipedia.org/wiki/Super_Smash_Bros._Brawl",
-    "redlink": false,
-    "release_date": "January 31",
-    "platform_breakdown": {
-      "platform": "Wii"
-    },
-    "platforms": [
-      "Wii"
     ]
   },
   {
@@ -1843,21 +1829,6 @@
   {
     "year": 2008,
     "section": "Games released in 2008",
-    "title": "Super Smash Bros. Brawl (NA)",
-    "wiki_title": "Super Smash Bros. Brawl",
-    "wiki_url": "https://en.wikipedia.org/wiki/Super_Smash_Bros._Brawl",
-    "redlink": false,
-    "release_date": "March 9",
-    "platform_breakdown": {
-      "platform": "Wii"
-    },
-    "platforms": [
-      "Wii"
-    ]
-  },
-  {
-    "year": 2008,
-    "section": "Games released in 2008",
     "title": "Worms: A Space Oddity",
     "wiki_title": null,
     "wiki_url": null,
@@ -2140,10 +2111,11 @@
   {
     "year": 2008,
     "section": "Games released in 2008",
-    "title": "Pokémon Ranger: Shadows of Almia (JP)",
+    "title": "Pokémon Ranger: Shadows of Almia",
     "wiki_title": null,
     "wiki_url": null,
     "redlink": null,
+    "region": "JP/NA",
     "release_date": "March 20",
     "platform_breakdown": {
       "platform": "DS"
@@ -2429,10 +2401,11 @@
   {
     "year": 2008,
     "section": "Games released in 2008",
-    "title": "Mario Kart Wii (JP)",
+    "title": "Mario Kart Wii",
     "wiki_title": "Mario Kart Wii",
     "wiki_url": "https://en.wikipedia.org/wiki/Mario_Kart_Wii",
     "redlink": false,
+    "region": "JP/NA",
     "release_date": "April 10",
     "platform_breakdown": {
       "platform": "Wii"
@@ -2604,21 +2577,6 @@
     },
     "platforms": [
       "Windows"
-    ]
-  },
-  {
-    "year": 2008,
-    "section": "Games released in 2008",
-    "title": "Mario Kart Wii (NA)",
-    "wiki_title": "Mario Kart Wii",
-    "wiki_url": "https://en.wikipedia.org/wiki/Mario_Kart_Wii",
-    "redlink": false,
-    "release_date": "April 27",
-    "platform_breakdown": {
-      "platform": "Wii"
-    },
-    "platforms": [
-      "Wii"
     ]
   },
   {
@@ -2927,10 +2885,11 @@
   {
     "year": 2008,
     "section": "Games released in 2008",
-    "title": "Wii Fit (NA)",
+    "title": "Wii Fit",
     "wiki_title": "Wii Fit",
     "wiki_url": "https://en.wikipedia.org/wiki/Wii_Fit",
     "redlink": false,
+    "region": "NA",
     "release_date": "May 21",
     "platform_breakdown": {
       "platform": "Wii"
@@ -3478,10 +3437,11 @@
   {
     "year": 2008,
     "section": "Games released in 2008",
-    "title": "Requiem: Memento Mori (NA)",
+    "title": "Requiem: Memento Mori",
     "wiki_title": null,
     "wiki_url": null,
     "redlink": null,
+    "region": "NA",
     "release_date": "June 19",
     "platform_breakdown": {
       "platform": "WIN"
@@ -4339,10 +4299,11 @@
   {
     "year": 2008,
     "section": "Games released in 2008",
-    "title": "Rhythm Heaven (JP)",
+    "title": "Rhythm Heaven",
     "wiki_title": "Rhythm Heaven",
     "wiki_url": "https://en.wikipedia.org/wiki/Rhythm_Heaven",
     "redlink": false,
+    "region": "JP",
     "release_date": "July 31",
     "platform_breakdown": {
       "platform": "DS"
@@ -5103,10 +5064,11 @@
   {
     "year": 2008,
     "section": "Games released in 2008",
-    "title": "Pokémon Platinum (JP)",
+    "title": "Pokémon Platinum",
     "wiki_title": "Pokémon Platinum",
     "wiki_url": "https://en.wikipedia.org/wiki/Pok%C3%A9mon_Platinum",
     "redlink": false,
+    "region": "JP",
     "release_date": "September 13",
     "platform_breakdown": {
       "platform": "DS"
@@ -7062,21 +7024,6 @@
   {
     "year": 2008,
     "section": "Games released in 2008",
-    "title": "Pokémon Ranger: Shadows of Almia (NA)",
-    "wiki_title": null,
-    "wiki_url": null,
-    "redlink": null,
-    "release_date": "November 10",
-    "platform_breakdown": {
-      "platform": "DS"
-    },
-    "platforms": [
-      "Nintendo DS"
-    ]
-  },
-  {
-    "year": 2008,
-    "section": "Games released in 2008",
     "title": "Banjo-Kazooie: Nuts & Bolts",
     "wiki_title": null,
     "wiki_url": null,
@@ -8274,10 +8221,11 @@
   {
     "year": 2008,
     "section": "Games released in 2008",
-    "title": "Shin Megami Tensei: Imagine (NA)",
+    "title": "Shin Megami Tensei: Imagine",
     "wiki_title": null,
     "wiki_url": null,
     "redlink": null,
+    "region": "NA",
     "release_date": "December 31",
     "platform_breakdown": {
       "platform": "WIN"

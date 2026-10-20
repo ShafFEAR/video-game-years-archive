@@ -57,7 +57,9 @@ PLATFORM_NAMES = {
     "ARC": "Arcade", "ARCADE": "Arcade", "GCN": "GameCube", "XB": "Xbox",
     "NEO": "Neo Geo AES", "NEOCD": "Neo Geo CD", "PC98": "PC-9800 series",
     "PCFX": "PC-FX", "RZ": "R-Zone", "STEAM": "Steam", "ATRST": "Atari ST",
-    "XBX/S": "Xbox Series X/S",
+    "XBX/S": "Xbox Series X/S", "XB1": "Xbox One", "TVOS": "tvOS", "WATCHOS": "watchOS",
+    "PICO4": "PICO 4", "SHIELD": "Nvidia Shield", "ATRVCS": "Atari VCS", "GS": "GameStick",
+    "FOS": "Fire OS",
 }
 
 # Any of these normalized column headers hold platform data (either a single
@@ -139,6 +141,33 @@ def resolve_platform(token, legend, unknown_log=None):
     if unknown_log is not None:
         unknown_log.add(f"{key} -> ? (no legend entry)")
     return token.strip()
+
+
+_REGION_LABELS = {"WW", "JP", "NA", "EU", "AS", "SA", "AU", "OC", "KR", "CN", "UK", "ROW", "INT"}
+
+
+def is_known_platform(token, legend):
+    key = token.strip().upper()
+    if key in PLATFORM_NAMES or key in legend:
+        return True
+    region_match = _REGION_SUFFIX_RE.match(key)
+    return bool(region_match) and (region_match.group(1) in PLATFORM_NAMES or region_match.group(1) in legend)
+
+
+def expand_platform_token(token, legend):
+    """One comma-separated token from a platform cell -> the platform codes it
+    really holds. The newer list articles put several codes into one cell,
+    mixed with region labels and footnote markers ("PS4 WW : WIN AS : NS",
+    "NS2 [ G ]", "PS5. XBX/S"). Such a token is split only when every
+    non-region piece is a recognized code; otherwise it's left whole so it
+    still falls back to the raw name and gets logged for curation."""
+    if is_known_platform(token, legend):
+        return [token]
+    cleaned = re.sub(r"\[[^\]]*\]", " ", token)
+    pieces = [p for p in re.split(r"[\s:.,;]+", cleaned) if p and p.upper() not in _REGION_LABELS]
+    if pieces and all(is_known_platform(p, legend) for p in pieces):
+        return pieces
+    return [token]
 
 
 def slugify(name):

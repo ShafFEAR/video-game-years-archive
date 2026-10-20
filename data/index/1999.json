@@ -31,14 +31,19 @@
     "redlink": false,
     "publisher": "Square",
     "release_date": "November 18, 1999",
-    "mc score": "94/100 [ 24 ]",
-    "gr score": "92.28% [ 25 ]",
+    "mc score": "94/100",
+    "gr score": "92.28%",
     "platform_breakdown": {
-      "platform(s)": "PS1"
+      "platform(s)": "PS1",
+      "computer releases": "— N/a",
+      "console releases": "PS1",
+      "handheld releases": "— N/a",
+      "other releases": "— N/a"
     },
     "platforms": [
       "PlayStation"
-    ]
+    ],
+    "region": "JP"
   },
   {
     "year": 1999,
@@ -306,7 +311,7 @@
     "publisher": "Nintendo",
     "release_date": "November 21, 1999",
     "mc score": "— N/a",
-    "gr score": "91.35% [ 25 ]",
+    "gr score": "91.35%",
     "platform_breakdown": {
       "platform(s)": "GBC"
     },
@@ -324,7 +329,7 @@
     "publisher": "Nintendo",
     "release_date": "November 21, 1999",
     "mc score": "— N/a",
-    "gr score": "91.35% [ 25 ]",
+    "gr score": "91.35%",
     "platform_breakdown": {
       "platform(s)": "GBC"
     },
@@ -588,7 +593,7 @@
     "publisher": "Sega",
     "release_date": "December 29, 1999",
     "mc score": "— N/a",
-    "gr score": "89.34% [ 25 ]",
+    "gr score": "89.34%",
     "platform_breakdown": {
       "platform(s)": "DC",
       "computer releases": "— N/a",
@@ -645,8 +650,8 @@
     "redlink": false,
     "publisher": "Interplay Entertainment",
     "release_date": "June 17, 1999",
-    "mc score": "89/100 [ 24 ]",
-    "gr score": "84.36% [ 25 ]",
+    "mc score": "89/100",
+    "gr score": "84.36%",
     "platform_breakdown": {
       "platform(s)": "WIN",
       "computer releases": "WIN, MAC",
@@ -1023,6 +1028,26 @@
   {
     "year": 1999,
     "section": "Notable releases",
+    "title": "Heroes of Might and Magic III",
+    "wiki_title": "Heroes of Might and Magic III",
+    "wiki_url": "https://en.wikipedia.org/wiki/Heroes_of_Might_and_Magic_III",
+    "redlink": false,
+    "release_date": "February 28",
+    "platform_breakdown": {
+      "computer releases": "WIN, MAC, LIN",
+      "console releases": "— N/a",
+      "handheld releases": "— N/a",
+      "other releases": "— N/a"
+    },
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Linux"
+    ]
+  },
+  {
+    "year": 1999,
+    "section": "Notable releases",
     "title": "MLB 2000",
     "wiki_title": "MLB 2000",
     "wiki_url": "https://en.wikipedia.org/wiki/MLB_2000",
@@ -1074,26 +1099,6 @@
       "PlayStation",
       "Nintendo 64",
       "Game Boy"
-    ]
-  },
-  {
-    "year": 1999,
-    "section": "Notable releases",
-    "title": "Heroes of Might and Magic III",
-    "wiki_title": "Heroes of Might and Magic III",
-    "wiki_url": "https://en.wikipedia.org/wiki/Heroes_of_Might_and_Magic_III",
-    "redlink": false,
-    "release_date": "March 3",
-    "platform_breakdown": {
-      "computer releases": "WIN, MAC, LIN",
-      "console releases": "— N/a",
-      "handheld releases": "— N/a",
-      "other releases": "— N/a"
-    },
-    "platforms": [
-      "Windows",
-      "macOS",
-      "Linux"
     ]
   },
   {
@@ -1244,7 +1249,7 @@
   {
     "year": 1999,
     "section": "Notable releases",
-    "title": "Requiem: Avenging Angel [ 52 ]",
+    "title": "Requiem: Avenging Angel",
     "wiki_title": null,
     "wiki_url": null,
     "redlink": null,
@@ -1371,10 +1376,11 @@
   {
     "year": 1999,
     "section": "Notable releases",
-    "title": "Pokémon Stadium (Japan)",
+    "title": "Pokémon Stadium",
     "wiki_title": "Pokémon Stadium",
     "wiki_url": "https://en.wikipedia.org/wiki/Pok%C3%A9mon_Stadium",
     "redlink": false,
+    "region": "JP",
     "release_date": "April 30",
     "platform_breakdown": {
       "computer releases": "— N/a",
@@ -1606,10 +1612,11 @@
   {
     "year": 1999,
     "section": "Notable releases",
-    "title": "Ogre Battle 64: Person of Lordly Caliber (Japan)",
+    "title": "Ogre Battle 64: Person of Lordly Caliber",
     "wiki_title": null,
     "wiki_url": null,
     "redlink": null,
+    "region": "JP",
     "release_date": "July 14",
     "platform_breakdown": {
       "computer releases": "— N/a",
@@ -2103,10 +2110,11 @@
   {
     "year": 1999,
     "section": "Notable releases",
-    "title": "Pokémon Yellow: Special Pikachu Edition (North America)",
+    "title": "Pokémon Yellow: Special Pikachu Edition",
     "wiki_title": "Pokémon Yellow",
     "wiki_url": "https://en.wikipedia.org/wiki/Pok%C3%A9mon_Yellow",
     "redlink": false,
+    "region": "NA",
     "release_date": "October 19",
     "platform_breakdown": {
       "computer releases": "— N/a",
@@ -2379,7 +2387,7 @@
   {
     "year": 1999,
     "section": "Notable releases",
-    "title": "Indiana Jones and the Infernal Machine [ 53 ]",
+    "title": "Indiana Jones and the Infernal Machine",
     "wiki_title": "Indiana Jones and the Infernal Machine",
     "wiki_url": "https://en.wikipedia.org/wiki/Indiana_Jones_and_the_Infernal_Machine",
     "redlink": false,
@@ -2434,24 +2442,6 @@
   {
     "year": 1999,
     "section": "Notable releases",
-    "title": "Chrono Cross (Japan)",
-    "wiki_title": "Chrono Cross",
-    "wiki_url": "https://en.wikipedia.org/wiki/Chrono_Cross",
-    "redlink": false,
-    "release_date": "November 18",
-    "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "PS1",
-      "handheld releases": "— N/a",
-      "other releases": "— N/a"
-    },
-    "platforms": [
-      "PlayStation"
-    ]
-  },
-  {
-    "year": 1999,
-    "section": "Notable releases",
     "title": "Gabriel Knight 3: Blood of the Sacred, Blood of the Damned",
     "wiki_title": null,
     "wiki_url": null,
@@ -2470,10 +2460,11 @@
   {
     "year": 1999,
     "section": "Notable releases",
-    "title": "Pokémon Gold and Silver (Japan)",
+    "title": "Pokémon Gold and Silver",
     "wiki_title": "Pokémon Gold and Silver",
     "wiki_url": "https://en.wikipedia.org/wiki/Pok%C3%A9mon_Gold_and_Silver",
     "redlink": false,
+    "region": "JP",
     "release_date": "November 21",
     "platform_breakdown": {
       "computer releases": "— N/a",
@@ -2598,10 +2589,11 @@
   {
     "year": 1999,
     "section": "Notable releases",
-    "title": "The Legend of Dragoon (Japan)",
+    "title": "The Legend of Dragoon",
     "wiki_title": "The Legend of Dragoon",
     "wiki_url": "https://en.wikipedia.org/wiki/The_Legend_of_Dragoon",
     "redlink": false,
+    "region": "JP",
     "release_date": "December 2",
     "platform_breakdown": {
       "computer releases": "— N/a",
@@ -2654,10 +2646,11 @@
   {
     "year": 1999,
     "section": "Notable releases",
-    "title": "Mario Party 2 (Japan)",
+    "title": "Mario Party 2",
     "wiki_title": "Mario Party 2",
     "wiki_url": "https://en.wikipedia.org/wiki/Mario_Party_2",
     "redlink": false,
+    "region": "JP",
     "release_date": "December 17",
     "platform_breakdown": {
       "computer releases": "— N/a",

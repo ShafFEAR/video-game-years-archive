@@ -14,9 +14,9 @@
 
 ---
 
-### Pokémon Yellow: Special Pikachu Edition (North America)
+### Pokémon Yellow: Special Pikachu Edition
 
-**Platforms:** Game Boy, Game Boy Color &nbsp;|&nbsp; **Released:** October 19
+**Platforms:** Game Boy, Game Boy Color &nbsp;|&nbsp; **Released:** October 19 (NA)
 
 [Wikipedia](https://en.wikipedia.org/wiki/Pok%C3%A9mon_Yellow)
 
@@ -146,13 +146,13 @@
 
 <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2dou.jpg" alt="Tamagotchi cover" width="200">
 
-**Platforms:** Game Boy &nbsp;|&nbsp; **Publisher:** Bandai &nbsp;|&nbsp; **Genre:** Simulator &nbsp;|&nbsp; **Released:** October 1, 1997
+**Platforms:** Game Boy &nbsp;|&nbsp; **Genre:** Simulator &nbsp;|&nbsp; **Released:** June 27
 
 > Tamagotchi is the name of a Game Boy game released in October 1997, also known as Game de Hakken!! Tamagotchi in Japan. It is very much like the original Tamagotchi, but with additional features such as music, contests, and more games.
 >
 > _Synopsis source: IGDB_
 
-[IGDB](https://www.igdb.com/games/tamagotchi)
+[Wikipedia](https://en.wikipedia.org/wiki/Tamagotchi_(Game_Boy_game)) · [IGDB](https://www.igdb.com/games/tamagotchi)
 
 ---
 
@@ -306,7 +306,7 @@
 
 <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co1wd9.jpg" alt="Donkey Kong cover" width="200">
 
-**Platforms:** Game Boy &nbsp;|&nbsp; **Developer/Publisher:** Nintendo &nbsp;|&nbsp; **Genre:** Platform, Puzzle, Arcade &nbsp;|&nbsp; **Released:** June 14
+**Platforms:** Game Boy &nbsp;|&nbsp; **Developer/Publisher:** Nintendo &nbsp;|&nbsp; **Genre:** Puzzle-platformer &nbsp;|&nbsp; **Released:** June 14
 
 > Donkey Kong is a Game Boy game which starts out with the premise of being a straight remake of the original Donkey Kong arcade game. Although at first it appears to be just a port, the familiar levels from the arcade game are just a prelude to the real platform jumping adventure. There are 97 levels spread out over 9 worlds. These levels are much more complex than the originals, featuring scrolling backgrounds, numerous objects to collect, and enemies to avoid. Along the way, you will encounter several boss style battles with Donkey Kong, as well. When played on a Super Game Boy, the game is colorized, digitized speech is added and the ending music takes advantage of the SNES sound chip.
 >

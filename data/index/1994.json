@@ -205,6 +205,7 @@
     "redlink": false,
     "release_date": "February 2",
     "developer_publisher": "Sega",
+    "genre": "Platformer",
     "platform_breakdown": {
       "platform": "GEN"
     },
@@ -221,6 +222,7 @@
     "redlink": null,
     "release_date": "March",
     "developer_publisher": "Mythos Games / MicroProse",
+    "genre": "Turn-based Strategy",
     "platform_breakdown": {
       "platform": "DOS"
     },
@@ -288,6 +290,7 @@
     "redlink": false,
     "release_date": "June 14",
     "developer_publisher": "Nintendo",
+    "genre": "Puzzle-platformer",
     "platform_breakdown": {
       "platform": "GB"
     },
@@ -304,6 +307,7 @@
     "redlink": null,
     "release_date": "July",
     "developer_publisher": "LucasArts",
+    "genre": "Space flight simulation",
     "platform_breakdown": {
       "platform": "DOS"
     },
@@ -320,6 +324,7 @@
     "redlink": false,
     "release_date": "August 2",
     "developer_publisher": "Shiny Entertainment",
+    "genre": "Platformer",
     "platform_breakdown": {
       "platform": "SNES, GEN"
     },
@@ -337,6 +342,7 @@
     "redlink": false,
     "release_date": "August 25",
     "developer_publisher": "SNK",
+    "genre": "Fighting",
     "platform_breakdown": {
       "platform": "NEO"
     },
@@ -370,6 +376,7 @@
     "redlink": false,
     "release_date": "September",
     "developer_publisher": "MicroProse",
+    "genre": "4X, Turn-based Strategy",
     "platform_breakdown": {
       "platform": "DOS"
     },
@@ -386,6 +393,7 @@
     "redlink": false,
     "release_date": "September 22",
     "developer_publisher": "Looking Glass Studios /Origin Systems",
+    "genre": "Action-adventure",
     "platform_breakdown": {
       "platform": "DOS"
     },
@@ -402,6 +410,7 @@
     "redlink": false,
     "release_date": "October 17",
     "developer_publisher": "Sega",
+    "genre": "Platformer",
     "platform_breakdown": {
       "platform": "GEN"
     },
@@ -418,6 +427,7 @@
     "redlink": false,
     "release_date": "October 28",
     "developer_publisher": "Rare",
+    "genre": "Fighting",
     "platform_breakdown": {
       "platform": "Arcade"
     },
@@ -434,6 +444,7 @@
     "redlink": null,
     "release_date": "November 15",
     "developer_publisher": "Blizzard Entertainment",
+    "genre": "Real-time Strategy",
     "platform_breakdown": {
       "platform": "DOS"
     },
@@ -468,6 +479,7 @@
     "redlink": false,
     "release_date": "November 21",
     "developer_publisher": "Rare/Nintendo",
+    "genre": "Platformer",
     "platform_breakdown": {
       "platform": "SNES"
     },
@@ -484,6 +496,7 @@
     "redlink": null,
     "release_date": "November 23",
     "developer_publisher": "Sierra On-Line",
+    "genre": "Adventure",
     "platform_breakdown": {
       "platform": "DOS"
     },
@@ -587,6 +600,7 @@
     "redlink": false,
     "release_date": "December 10",
     "developer_publisher": "Nintendo",
+    "genre": "Puzzle",
     "platform_breakdown": {
       "platform": "NES"
     },
@@ -637,6 +651,7 @@
     "redlink": false,
     "release_date": "December 27",
     "developer_publisher": "Raven Software /id Software",
+    "genre": "FPS",
     "platform_breakdown": {
       "platform": "DOS, MAC"
     },

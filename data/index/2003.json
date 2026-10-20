@@ -29,7 +29,8 @@
     "mc score": "95/100",
     "gr score": "92.17%",
     "platform_breakdown": {
-      "platform(s)": "GCN"
+      "platform(s)": "GCN",
+      "platform": "GCN"
     },
     "platforms": [
       "GameCube"
@@ -66,12 +67,11 @@
     "gr score": "94.39%",
     "platform_breakdown": {
       "platform(s)": "WIN",
-      "computer releases": "WIN",
-      "console releases": "— N/a",
-      "handheld releases": "— N/a"
+      "platform": "XB"
     },
     "platforms": [
-      "Windows"
+      "Windows",
+      "Xbox"
     ]
   },
   {
@@ -87,9 +87,7 @@
     "gr score": "94.21%",
     "platform_breakdown": {
       "platform(s)": "WIN",
-      "computer releases": "WIN",
-      "console releases": "— N/a",
-      "handheld releases": "— N/a"
+      "platform": "WIN"
     },
     "platforms": [
       "Xbox",
@@ -109,9 +107,7 @@
     "gr score": "93.27%",
     "platform_breakdown": {
       "platform(s)": "GCN",
-      "computer releases": "— N/a",
-      "console releases": "GCN, PS2, XB",
-      "handheld releases": "— N/a"
+      "platform": "GCN, PS2, XB"
     },
     "platforms": [
       "PlayStation 2",
@@ -132,9 +128,7 @@
     "gr score": "92.25%",
     "platform_breakdown": {
       "platform(s)": "GBA",
-      "computer releases": "— N/a",
-      "console releases": "— N/a",
-      "handheld releases": "GBA"
+      "platform": "GBA"
     },
     "platforms": [
       "Game Boy Advance"
@@ -170,8 +164,8 @@
     "redlink": false,
     "publisher": "Konami",
     "release_date": "October 17, 2003",
-    "mc score": "92/100 [ 27 ]",
-    "gr score": "93.33% [ 28 ]",
+    "mc score": "92/100",
+    "gr score": "93.33%",
     "platform_breakdown": {
       "platform(s)": "PS2"
     },
@@ -211,9 +205,7 @@
     "gr score": "92.28%",
     "platform_breakdown": {
       "platform(s)": "XB",
-      "computer releases": "— N/a",
-      "console releases": "— N/a",
-      "handheld releases": "GBA"
+      "platform": "GBA"
     },
     "platforms": [
       "PlayStation 2",
@@ -234,7 +226,8 @@
     "mc score": "93/100",
     "gr score": "92.23%",
     "platform_breakdown": {
-      "platform(s)": "PS2"
+      "platform(s)": "PS2",
+      "platform": "PS2, XB, GCN"
     },
     "platforms": [
       "GameCube",
@@ -255,9 +248,7 @@
     "gr score": "91.59%",
     "platform_breakdown": {
       "platform(s)": "PS2",
-      "computer releases": "— N/a",
-      "console releases": "PS2",
-      "handheld releases": "— N/a"
+      "platform": "PS2"
     },
     "platforms": [
       "PlayStation 2"
@@ -276,9 +267,7 @@
     "gr score": "91.19%",
     "platform_breakdown": {
       "platform(s)": "GCN",
-      "computer releases": "— N/a",
-      "console releases": "GCN",
-      "handheld releases": "— N/a"
+      "platform": "GCN"
     },
     "platforms": [
       "GameCube"
@@ -297,9 +286,7 @@
     "gr score": "92.67%",
     "platform_breakdown": {
       "platform(s)": "WIN",
-      "computer releases": "WIN",
-      "console releases": "— N/a",
-      "handheld releases": "— N/a"
+      "platform": "WIN"
     },
     "platforms": [
       "Xbox",
@@ -321,9 +308,7 @@
     "gr score": "91.52%",
     "platform_breakdown": {
       "platform(s)": "WIN",
-      "computer releases": "WIN",
-      "console releases": "— N/a",
-      "handheld releases": "— N/a"
+      "platform": "WIN"
     },
     "platforms": [
       "Windows"
@@ -342,9 +327,7 @@
     "gr score": "90.16%",
     "platform_breakdown": {
       "platform(s)": "GCN",
-      "computer releases": "WIN",
-      "console releases": "— N/a",
-      "handheld releases": "— N/a"
+      "platform": "WIN"
     },
     "platforms": [
       "Windows",
@@ -384,9 +367,7 @@
     "gr score": "87.9%",
     "platform_breakdown": {
       "platform(s)": "GBA",
-      "computer releases": "— N/a",
-      "console releases": "— N/a",
-      "handheld releases": "GBA"
+      "platform": "GBA"
     },
     "platforms": [
       "Game Boy Advance"
@@ -423,9 +404,7 @@
     "gr score": "90.98%",
     "platform_breakdown": {
       "platform(s)": "WIN",
-      "computer releases": "WIN",
-      "console releases": "— N/a",
-      "handheld releases": "— N/a"
+      "platform": "WIN"
     },
     "platforms": [
       "Windows"
@@ -444,9 +423,7 @@
     "gr score": "90.64%",
     "platform_breakdown": {
       "platform(s)": "PS2",
-      "computer releases": "— N/a",
-      "console releases": "PS2",
-      "handheld releases": "— N/a"
+      "platform": "PS2"
     },
     "platforms": [
       "PlayStation 2"
@@ -465,9 +442,7 @@
     "gr score": "90.58%",
     "platform_breakdown": {
       "platform(s)": "GCN",
-      "computer releases": "— N/a",
-      "console releases": "PS2, XB, GCN",
-      "handheld releases": "GBA"
+      "platform": "PS2, XB, GCN, GBA"
     },
     "platforms": [
       "PlayStation 2",
@@ -489,9 +464,7 @@
     "gr score": "90.41%",
     "platform_breakdown": {
       "platform(s)": "GBA",
-      "computer releases": "— N/a",
-      "console releases": "— N/a",
-      "handheld releases": "GBA"
+      "platform": "GBA"
     },
     "platforms": [
       "Game Boy Advance"
@@ -530,9 +503,7 @@
     "gr score": "90.16%",
     "platform_breakdown": {
       "platform(s)": "GBA",
-      "computer releases": "— N/a",
-      "console releases": "— N/a",
-      "handheld releases": "GBA"
+      "platform": "GBA"
     },
     "platforms": [
       "Game Boy Advance"
@@ -588,9 +559,7 @@
     "gr score": "89.78%",
     "platform_breakdown": {
       "platform(s)": "WIN",
-      "computer releases": "— N/a",
-      "console releases": "— N/a",
-      "handheld releases": "GBA"
+      "platform": "GBA"
     },
     "platforms": [
       "PlayStation 2",
@@ -613,9 +582,7 @@
     "gr score": "89.43%",
     "platform_breakdown": {
       "platform(s)": "XB",
-      "computer releases": "— N/a",
-      "console releases": "XB",
-      "handheld releases": "— N/a"
+      "platform": "XB"
     },
     "platforms": [
       "GameCube",
@@ -635,9 +602,7 @@
     "gr score": "89.26%",
     "platform_breakdown": {
       "platform(s)": "XB",
-      "computer releases": "— N/a",
-      "console releases": "XB",
-      "handheld releases": "— N/a"
+      "platform": "XB"
     },
     "platforms": [
       "Xbox"
@@ -674,9 +639,7 @@
     "gr score": "89.17%",
     "platform_breakdown": {
       "platform(s)": "WIN",
-      "computer releases": "WIN",
-      "console releases": "— N/a",
-      "handheld releases": "— N/a"
+      "platform": "WIN"
     },
     "platforms": [
       "Windows"
@@ -695,9 +658,7 @@
     "gr score": "89.12%",
     "platform_breakdown": {
       "platform(s)": "XB",
-      "computer releases": "— N/a",
-      "console releases": "PS2, XB",
-      "handheld releases": "— N/a"
+      "platform": "PS2, XB"
     },
     "platforms": [
       "Xbox",
@@ -717,9 +678,7 @@
     "gr score": "89.03%",
     "platform_breakdown": {
       "platform(s)": "GCN",
-      "computer releases": "— N/a",
-      "console releases": "GCN",
-      "handheld releases": "— N/a"
+      "platform": "GCN"
     },
     "platforms": [
       "GameCube"
@@ -756,9 +715,7 @@
     "gr score": "88.05%",
     "platform_breakdown": {
       "platform(s)": "XB",
-      "computer releases": "— N/a",
-      "console releases": "XB",
-      "handheld releases": "— N/a"
+      "platform": "XB"
     },
     "platforms": [
       "Xbox"
@@ -777,9 +734,7 @@
     "gr score": "86.13%",
     "platform_breakdown": {
       "platform(s)": "PS2",
-      "computer releases": "— N/a",
-      "console releases": "PS2, XB",
-      "handheld releases": "— N/a"
+      "platform": "PS2, XB"
     },
     "platforms": [
       "PlayStation 2",
@@ -799,9 +754,7 @@
     "gr score": "88.83%",
     "platform_breakdown": {
       "platform(s)": "GBA",
-      "computer releases": "— N/a",
-      "console releases": "— N/a",
-      "handheld releases": "GBA"
+      "platform": "GBA"
     },
     "platforms": [
       "Game Boy Advance"
@@ -820,9 +773,7 @@
     "gr score": "88.61%",
     "platform_breakdown": {
       "platform(s)": "GCN",
-      "computer releases": "— N/a",
-      "console releases": "GCN",
-      "handheld releases": "— N/a"
+      "platform": "GCN"
     },
     "platforms": [
       "Xbox",
@@ -844,9 +795,7 @@
     "gr score": "88.52%",
     "platform_breakdown": {
       "platform(s)": "WIN",
-      "computer releases": "— N/a",
-      "console releases": "PS2",
-      "handheld releases": "— N/a"
+      "platform": "PS2"
     },
     "platforms": [
       "Windows",
@@ -884,7 +833,8 @@
     "mc score": "88/100",
     "gr score": "87.64%",
     "platform_breakdown": {
-      "platform(s)": "WIN"
+      "platform(s)": "WIN",
+      "platform": "WIN"
     },
     "platforms": [
       "Windows"
@@ -921,9 +871,7 @@
     "gr score": "86.72%",
     "platform_breakdown": {
       "platform(s)": "PS2",
-      "computer releases": "WIN",
-      "console releases": "PS1, PS2, XB",
-      "handheld releases": "— N/a"
+      "platform": "WIN, PS1, PS2, XB"
     },
     "platforms": [
       "PlayStation 2",
@@ -945,9 +893,7 @@
     "gr score": "87.93%",
     "platform_breakdown": {
       "platform(s)": "PS2",
-      "computer releases": "— N/a",
-      "console releases": "PS2",
-      "handheld releases": "— N/a"
+      "platform": "PS2"
     },
     "platforms": [
       "PlayStation 2"
@@ -966,9 +912,7 @@
     "gr score": "87.64%",
     "platform_breakdown": {
       "platform(s)": "GBA",
-      "computer releases": "— N/a",
-      "console releases": "— N/a",
-      "handheld releases": "GBA"
+      "platform": "GBA"
     },
     "platforms": [
       "Game Boy Advance"
@@ -987,9 +931,7 @@
     "gr score": "3.83%",
     "platform_breakdown": {
       "platform(s)": "WIN",
-      "computer releases": "WIN",
-      "console releases": "— N/a",
-      "handheld releases": "— N/a"
+      "platform": "WIN"
     },
     "platforms": [
       "Windows"
@@ -1023,7 +965,7 @@
     "publisher": "Activision",
     "release_date": "March 1, 2003",
     "mc score": "19/100",
-    "gr score": "25.5% [ 32 ]",
+    "gr score": "25.5%",
     "platform_breakdown": {
       "platform(s)": "WIN"
     },
@@ -1044,9 +986,7 @@
     "gr score": "20.48%",
     "platform_breakdown": {
       "platform(s)": "XB",
-      "computer releases": "— N/a",
-      "console releases": "XB",
-      "handheld releases": "— N/a"
+      "platform": "XB"
     },
     "platforms": [
       "Xbox"
@@ -1065,9 +1005,7 @@
     "gr score": "23.74%",
     "platform_breakdown": {
       "platform(s)": "GCN",
-      "computer releases": "— N/a",
-      "console releases": "GCN, PS2",
-      "handheld releases": "— N/a"
+      "platform": "GCN, PS2"
     },
     "platforms": [
       "GameCube",
@@ -1105,9 +1043,7 @@
     "gr score": "24.06%",
     "platform_breakdown": {
       "platform(s)": "GCN",
-      "computer releases": "— N/a",
-      "console releases": "GCN",
-      "handheld releases": "— N/a"
+      "platform": "GCN"
     },
     "platforms": [
       "Xbox",
@@ -1145,9 +1081,7 @@
     "gr score": "25.1%",
     "platform_breakdown": {
       "platform(s)": "XB",
-      "computer releases": "— N/a",
-      "console releases": "XB",
-      "handheld releases": "— N/a"
+      "platform": "XB"
     },
     "platforms": [
       "GameCube",
@@ -1218,7 +1152,7 @@
     "publisher": "Global Star Software",
     "release_date": "September 16, 2003",
     "mc score": "27/100",
-    "gr score": "32.33% [ 33 ]",
+    "gr score": "32.33%",
     "platform_breakdown": {
       "platform(s)": "WIN"
     },
@@ -1292,7 +1226,7 @@
     "publisher": "Shrapnel Games",
     "release_date": "March 21, 2003",
     "mc score": "31/100",
-    "gr score": "29% [ 34 ]",
+    "gr score": "29%",
     "platform_breakdown": {
       "platform(s)": "WIN"
     },
@@ -1310,12 +1244,10 @@
     "publisher": "Titus Interactive",
     "release_date": "July 24, 2003",
     "mc score": "30/100",
-    "gr score": "40.75% [ 35 ]",
+    "gr score": "40.75%",
     "platform_breakdown": {
       "platform(s)": "XB",
-      "computer releases": "— N/a",
-      "console releases": "XB",
-      "handheld releases": "— N/a"
+      "platform": "XB"
     },
     "platforms": [
       "Xbox",
@@ -1371,9 +1303,7 @@
     "gr score": "39.67%",
     "platform_breakdown": {
       "platform(s)": "GBA",
-      "computer releases": "— N/a",
-      "console releases": "— N/a",
-      "handheld releases": "GBA"
+      "platform": "GBA"
     },
     "platforms": [
       "Game Boy Advance"
@@ -1392,9 +1322,7 @@
     "gr score": "33.17%",
     "platform_breakdown": {
       "platform(s)": "WIN",
-      "computer releases": "— N/a",
-      "console releases": "— N/a",
-      "handheld releases": "GBA"
+      "platform": "GBA"
     },
     "platforms": [
       "Windows",
@@ -1414,9 +1342,7 @@
     "gr score": "41.06%",
     "platform_breakdown": {
       "platform(s)": "XB",
-      "computer releases": "— N/a",
-      "console releases": "— N/a",
-      "handheld releases": "GBA"
+      "platform": "GBA"
     },
     "platforms": [
       "Xbox",
@@ -1490,9 +1416,7 @@
     "gr score": "37.4%",
     "platform_breakdown": {
       "platform(s)": "GBA",
-      "computer releases": "— N/a",
-      "console releases": "— N/a",
-      "handheld releases": "GBA"
+      "platform": "GBA"
     },
     "platforms": [
       "Game Boy Advance"
@@ -1500,16 +1424,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Super Bubble Pop",
     "wiki_title": "Super Bubble Pop",
     "wiki_url": "https://en.wikipedia.org/wiki/Super_Bubble_Pop",
     "redlink": false,
     "release_date": "January 3",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "GCN",
-      "handheld releases": "GBA"
+      "platform": "GCN, GBA"
     },
     "platforms": [
       "GameCube",
@@ -1518,16 +1440,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Crash Bandicoot 2: N-Tranced",
     "wiki_title": null,
     "wiki_url": null,
     "redlink": null,
     "release_date": "January 7",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "— N/a",
-      "handheld releases": "GBA"
+      "platform": "GBA"
     },
     "platforms": [
       "Game Boy Advance"
@@ -1535,16 +1455,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Dynasty Warriors 3: Xtreme Legends",
     "wiki_title": "Dynasty Warriors 3",
     "wiki_url": "https://en.wikipedia.org/wiki/Dynasty_Warriors_3",
     "redlink": false,
     "release_date": "January 11",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "PS2",
-      "handheld releases": "— N/a"
+      "platform": "PS2"
     },
     "platforms": [
       "PlayStation 2"
@@ -1552,16 +1470,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Panzer Dragoon Orta",
     "wiki_title": "Panzer Dragoon Orta",
     "wiki_url": "https://en.wikipedia.org/wiki/Panzer_Dragoon_Orta",
     "redlink": false,
     "release_date": "January 12",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "XB",
-      "handheld releases": "— N/a"
+      "platform": "XB"
     },
     "platforms": [
       "Xbox"
@@ -1569,16 +1485,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "SimCity 4",
     "wiki_title": "SimCity 4",
     "wiki_url": "https://en.wikipedia.org/wiki/SimCity_4",
     "redlink": false,
     "release_date": "January 14",
     "platform_breakdown": {
-      "computer releases": "WIN",
-      "console releases": "— N/a",
-      "handheld releases": "— N/a"
+      "platform": "WIN"
     },
     "platforms": [
       "Windows"
@@ -1586,16 +1500,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "The Getaway",
     "wiki_title": "The Getaway (video game)",
     "wiki_url": "https://en.wikipedia.org/wiki/The_Getaway_(video_game)",
     "redlink": false,
     "release_date": "January 19",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "PS2",
-      "handheld releases": "— N/a"
+      "platform": "PS2"
     },
     "platforms": [
       "PlayStation 2"
@@ -1603,16 +1515,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Battle Engine Aquila",
     "wiki_title": "Battle Engine Aquila",
     "wiki_url": "https://en.wikipedia.org/wiki/Battle_Engine_Aquila",
     "redlink": false,
     "release_date": "January 20",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "PS2, XB",
-      "handheld releases": "— N/a"
+      "platform": "PS2, XB"
     },
     "platforms": [
       "PlayStation 2",
@@ -1621,16 +1531,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Dead or Alive Xtreme Beach Volleyball",
     "wiki_title": "Dead or Alive Xtreme Beach Volleyball",
     "wiki_url": "https://en.wikipedia.org/wiki/Dead_or_Alive_Xtreme_Beach_Volleyball",
     "redlink": false,
     "release_date": "January 22",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "XB",
-      "handheld releases": "— N/a"
+      "platform": "XB"
     },
     "platforms": [
       "Xbox"
@@ -1638,16 +1546,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Devil May Cry 2",
     "wiki_title": "Devil May Cry 2",
     "wiki_url": "https://en.wikipedia.org/wiki/Devil_May_Cry_2",
     "redlink": false,
     "release_date": "January 25",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "PS2",
-      "handheld releases": "— N/a"
+      "platform": "PS2"
     },
     "platforms": [
       "PlayStation 2"
@@ -1655,16 +1561,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Black & Bruised",
     "wiki_title": "Black & Bruised",
     "wiki_url": "https://en.wikipedia.org/wiki/Black_%26_Bruised",
     "redlink": false,
     "release_date": "January 26",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "GCN, PS2",
-      "handheld releases": "— N/a"
+      "platform": "GCN, PS2"
     },
     "platforms": [
       "GameCube",
@@ -1673,16 +1577,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "HSX: Hypersonic.Xtreme",
     "wiki_title": "G-Surfers",
     "wiki_url": "https://en.wikipedia.org/wiki/G-Surfers",
     "redlink": false,
     "release_date": "January 26",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "PS2",
-      "handheld releases": "— N/a"
+      "platform": "PS2"
     },
     "platforms": [
       "PlayStation 2"
@@ -1690,16 +1592,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Unreal II: The Awakening",
     "wiki_title": null,
     "wiki_url": null,
     "redlink": null,
     "release_date": "February 3",
     "platform_breakdown": {
-      "computer releases": "WIN",
-      "console releases": "— N/a",
-      "handheld releases": "— N/a"
+      "platform": "WIN"
     },
     "platforms": [
       "Windows"
@@ -1707,16 +1607,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "GT Advance 3: Pro Concept Racing",
     "wiki_title": null,
     "wiki_url": null,
     "redlink": null,
     "release_date": "February 6",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "— N/a",
-      "handheld releases": "GBA"
+      "platform": "GBA"
     },
     "platforms": [
       "Game Boy Advance"
@@ -1724,16 +1622,15 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
-    "title": "Shadow of Memories (EU)",
+    "section": "Games released in 2003",
+    "title": "Shadow of Memories",
     "wiki_title": "Shadow of Memories",
     "wiki_url": "https://en.wikipedia.org/wiki/Shadow_of_Memories",
     "redlink": false,
+    "region": "EU",
     "release_date": "February 7",
     "platform_breakdown": {
-      "computer releases": "WIN",
-      "console releases": "— N/a",
-      "handheld releases": "— N/a"
+      "platform": "WIN"
     },
     "platforms": [
       "Windows"
@@ -1741,16 +1638,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Command & Conquer: Generals",
     "wiki_title": null,
     "wiki_url": null,
     "redlink": null,
     "release_date": "February 10",
     "platform_breakdown": {
-      "computer releases": "WIN",
-      "console releases": "— N/a",
-      "handheld releases": "— N/a"
+      "platform": "WIN"
     },
     "platforms": [
       "Windows"
@@ -1758,16 +1653,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": ".hack//Infection Part 1",
     "wiki_title": ".hack//INFECTION",
     "wiki_url": "https://en.wikipedia.org/wiki/.hack//INFECTION",
     "redlink": false,
     "release_date": "February 10",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "PS2",
-      "handheld releases": "— N/a"
+      "platform": "PS2"
     },
     "platforms": [
       "PlayStation 2"
@@ -1775,16 +1668,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Capcom vs. SNK EO",
     "wiki_title": "Capcom vs. SNK 2",
     "wiki_url": "https://en.wikipedia.org/wiki/Capcom_vs._SNK_2",
     "redlink": false,
     "release_date": "February 11",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "XB",
-      "handheld releases": "— N/a"
+      "platform": "XB"
     },
     "platforms": [
       "Xbox"
@@ -1792,16 +1683,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Knight Rider: The Game",
     "wiki_title": null,
     "wiki_url": null,
     "redlink": null,
     "release_date": "February 12",
     "platform_breakdown": {
-      "computer releases": "WIN",
-      "console releases": "PS2",
-      "handheld releases": "— N/a"
+      "platform": "WIN, PS2"
     },
     "platforms": [
       "Windows",
@@ -1810,16 +1699,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Yu-Gi-Oh! Dungeon Dice Monsters",
     "wiki_title": "Yu-Gi-Oh! Dungeon Dice Monsters",
     "wiki_url": "https://en.wikipedia.org/wiki/Yu-Gi-Oh!_Dungeon_Dice_Monsters",
     "redlink": false,
     "release_date": "February 12",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "— N/a",
-      "handheld releases": "GBA"
+      "platform": "GBA"
     },
     "platforms": [
       "Game Boy Advance"
@@ -1827,16 +1714,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Disaster Report",
     "wiki_title": "Disaster Report",
     "wiki_url": "https://en.wikipedia.org/wiki/Disaster_Report",
     "redlink": false,
     "release_date": "February 15",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "PS2",
-      "handheld releases": "— N/a"
+      "platform": "PS2"
     },
     "platforms": [
       "PlayStation 2"
@@ -1844,16 +1729,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
-    "title": "Space Station 13 [ 40 ]",
+    "section": "Games released in 2003",
+    "title": "Space Station 13",
     "wiki_title": "Space Station 13",
     "wiki_url": "https://en.wikipedia.org/wiki/Space_Station_13",
     "redlink": false,
     "release_date": "February 15",
     "platform_breakdown": {
-      "computer releases": "WIN",
-      "console releases": "— N/a",
-      "handheld releases": "— N/a"
+      "platform": "WIN"
     },
     "platforms": [
       "Windows"
@@ -1861,16 +1744,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Yu-Gi-Oh! The Duelists of the Roses",
     "wiki_title": "Yu-Gi-Oh! The Duelists of the Roses",
     "wiki_url": "https://en.wikipedia.org/wiki/Yu-Gi-Oh!_The_Duelists_of_the_Roses",
     "redlink": false,
     "release_date": "February 16",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "PS2",
-      "handheld releases": "— N/a"
+      "platform": "PS2"
     },
     "platforms": [
       "PlayStation 2"
@@ -1878,16 +1759,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Dark Cloud 2",
     "wiki_title": "Dark Chronicle",
     "wiki_url": "https://en.wikipedia.org/wiki/Dark_Chronicle",
     "redlink": false,
     "release_date": "February 17",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "PS2",
-      "handheld releases": "— N/a"
+      "platform": "PS2"
     },
     "platforms": [
       "PlayStation 2"
@@ -1895,16 +1774,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Shin Megami Tensei III: Nocturne",
     "wiki_title": null,
     "wiki_url": null,
     "redlink": null,
     "release_date": "February 20",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "PS2",
-      "handheld releases": "— N/a"
+      "platform": "PS2"
     },
     "platforms": [
       "PlayStation 2"
@@ -1912,16 +1789,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "I.G.I.-2: Covert Strike",
     "wiki_title": null,
     "wiki_url": null,
     "redlink": null,
     "release_date": "February 21",
     "platform_breakdown": {
-      "computer releases": "WIN",
-      "console releases": "— N/a",
-      "handheld releases": "— N/a"
+      "platform": "WIN"
     },
     "platforms": [
       "Windows"
@@ -1929,16 +1804,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Rayman 3: Hoodlum Havoc",
     "wiki_title": null,
     "wiki_url": null,
     "redlink": null,
     "release_date": "February 21",
     "platform_breakdown": {
-      "computer releases": "WIN",
-      "console releases": "— N/a",
-      "handheld releases": "— N/a"
+      "platform": "WIN"
     },
     "platforms": [
       "GameCube",
@@ -1950,16 +1823,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Everblue 2",
     "wiki_title": "Everblue 2",
     "wiki_url": "https://en.wikipedia.org/wiki/Everblue_2",
     "redlink": false,
     "release_date": "February 24",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "PS2",
-      "handheld releases": "— N/a"
+      "platform": "PS2"
     },
     "platforms": [
       "PlayStation 2"
@@ -1967,33 +1838,31 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Indiana Jones and the Emperor's Tomb",
     "wiki_title": "Indiana Jones and the Emperor's Tomb",
     "wiki_url": "https://en.wikipedia.org/wiki/Indiana_Jones_and_the_Emperor%27s_Tomb",
     "redlink": false,
     "release_date": "February 24",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "XB",
-      "handheld releases": "— N/a"
+      "platform": "PS2"
     },
     "platforms": [
-      "Xbox"
+      "Xbox",
+      "Windows",
+      "PlayStation 2"
     ]
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "EverQuest: The Legacy of Ykesha",
     "wiki_title": null,
     "wiki_url": null,
     "redlink": null,
     "release_date": "February 25",
     "platform_breakdown": {
-      "computer releases": "WIN",
-      "console releases": "— N/a",
-      "handheld releases": "— N/a"
+      "platform": "WIN"
     },
     "platforms": [
       "Windows"
@@ -2001,16 +1870,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Master of Orion III",
     "wiki_title": "Master of Orion III",
     "wiki_url": "https://en.wikipedia.org/wiki/Master_of_Orion_III",
     "redlink": false,
     "release_date": "February 25",
     "platform_breakdown": {
-      "computer releases": "WIN",
-      "console releases": "— N/a",
-      "handheld releases": "— N/a"
+      "platform": "WIN"
     },
     "platforms": [
       "Windows"
@@ -2018,16 +1885,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Xenosaga Episode I: Der Wille zur Macht",
     "wiki_title": null,
     "wiki_url": null,
     "redlink": null,
     "release_date": "February 26",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "PS2",
-      "handheld releases": "— N/a"
+      "platform": "PS2"
     },
     "platforms": [
       "PlayStation 2"
@@ -2035,16 +1900,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Men in Black II: Alien Escape",
     "wiki_title": null,
     "wiki_url": null,
     "redlink": null,
     "release_date": "February 27",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "GCN",
-      "handheld releases": "— N/a"
+      "platform": "GCN"
     },
     "platforms": [
       "GameCube"
@@ -2052,16 +1915,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Praetorians",
     "wiki_title": "Praetorians (video game)",
     "wiki_url": "https://en.wikipedia.org/wiki/Praetorians_(video_game)",
     "redlink": false,
     "release_date": "February 28",
     "platform_breakdown": {
-      "computer releases": "WIN",
-      "console releases": "— N/a",
-      "handheld releases": "— N/a"
+      "platform": "WIN"
     },
     "platforms": [
       "Windows"
@@ -2069,16 +1930,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Tenchu: Wrath of Heaven",
     "wiki_title": null,
     "wiki_url": null,
     "redlink": null,
     "release_date": "March 3",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "PS2",
-      "handheld releases": "— N/a"
+      "platform": "PS2"
     },
     "platforms": [
       "PlayStation 2"
@@ -2086,16 +1945,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Murakumo: Renegade Mech Pursuit",
     "wiki_title": null,
     "wiki_url": null,
     "redlink": null,
     "release_date": "March 4",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "XB",
-      "handheld releases": "— N/a"
+      "platform": "XB"
     },
     "platforms": [
       "Xbox"
@@ -2103,16 +1960,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Freelancer",
     "wiki_title": "Freelancer (video game)",
     "wiki_url": "https://en.wikipedia.org/wiki/Freelancer_(video_game)",
     "redlink": false,
     "release_date": "March 4",
     "platform_breakdown": {
-      "computer releases": "WIN",
-      "console releases": "— N/a",
-      "handheld releases": "— N/a"
+      "platform": "WIN"
     },
     "platforms": [
       "Windows"
@@ -2120,16 +1975,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Sonic Advance 2",
     "wiki_title": "Sonic Advance 2",
     "wiki_url": "https://en.wikipedia.org/wiki/Sonic_Advance_2",
     "redlink": false,
     "release_date": "March 9",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "— N/a",
-      "handheld releases": "GBA"
+      "platform": "GBA"
     },
     "platforms": [
       "Game Boy Advance"
@@ -2137,16 +1990,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Jurassic Park: Operation Genesis",
     "wiki_title": null,
     "wiki_url": null,
     "redlink": null,
     "release_date": "March 10",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "XB",
-      "handheld releases": "— N/a"
+      "platform": "XB"
     },
     "platforms": [
       "Windows",
@@ -2156,16 +2007,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "MLB 2004",
     "wiki_title": "MLB 2004",
     "wiki_url": "https://en.wikipedia.org/wiki/MLB_2004",
     "redlink": false,
     "release_date": "March 10",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "PS1",
-      "handheld releases": "— N/a"
+      "platform": "PS1"
     },
     "platforms": [
       "PlayStation 2",
@@ -2174,16 +2023,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Zone of the Enders: The Second Runner",
     "wiki_title": null,
     "wiki_url": null,
     "redlink": null,
     "release_date": "March 10",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "PS2",
-      "handheld releases": "— N/a"
+      "platform": "PS2"
     },
     "platforms": [
       "PlayStation 2"
@@ -2191,16 +2038,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Mega Man & Bass",
     "wiki_title": "Mega Man & Bass",
     "wiki_url": "https://en.wikipedia.org/wiki/Mega_Man_%26_Bass",
     "redlink": false,
     "release_date": "March 11",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "— N/a",
-      "handheld releases": "GBA"
+      "platform": "GBA"
     },
     "platforms": [
       "Game Boy Advance"
@@ -2208,16 +2053,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Piglet's Big Game",
     "wiki_title": "Piglet's Big Game",
     "wiki_url": "https://en.wikipedia.org/wiki/Piglet%27s_Big_Game",
     "redlink": false,
     "release_date": "March 11",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "— N/a",
-      "handheld releases": "GBA"
+      "platform": "GBA"
     },
     "platforms": [
       "Game Boy Advance"
@@ -2225,16 +2068,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Tom and Jerry in Infurnal Escape",
     "wiki_title": "Tom and Jerry in Infurnal Escape",
     "wiki_url": "https://en.wikipedia.org/wiki/Tom_and_Jerry_in_Infurnal_Escape",
     "redlink": false,
     "release_date": "March 14",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "— N/a",
-      "handheld releases": "GBA"
+      "platform": "GBA"
     },
     "platforms": [
       "Game Boy Advance"
@@ -2242,16 +2083,16 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
-    "title": "Pokémon Ruby and Sapphire (North America)",
+    "section": "Games released in 2003",
+    "title": "Pokémon Ruby and Sapphire",
     "wiki_title": "Pokémon Ruby and Sapphire",
     "wiki_url": "https://en.wikipedia.org/wiki/Pok%C3%A9mon_Ruby_and_Sapphire",
     "redlink": false,
+    "region": "NA",
     "release_date": "March 19",
+    "genre": "Monster tamer",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "— N/a",
-      "handheld releases": "GBA"
+      "platform": "GBA"
     },
     "platforms": [
       "Game Boy Advance"
@@ -2259,16 +2100,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "WWE Crush Hour",
     "wiki_title": "WWE Crush Hour",
     "wiki_url": "https://en.wikipedia.org/wiki/WWE_Crush_Hour",
     "redlink": false,
     "release_date": "March 17",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "GCN, PS2",
-      "handheld releases": "— N/a"
+      "platform": "GCN, PS2"
     },
     "platforms": [
       "GameCube",
@@ -2277,16 +2116,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Bloody Roar 3",
     "wiki_title": "Bloody Roar 3",
     "wiki_url": "https://en.wikipedia.org/wiki/Bloody_Roar_3",
     "redlink": false,
     "release_date": "March 19",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "GCN",
-      "handheld releases": "— N/a"
+      "platform": "GCN"
     },
     "platforms": [
       "GameCube"
@@ -2294,16 +2131,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Mobile Light Force 2",
     "wiki_title": "Shikigami no Shiro",
     "wiki_url": "https://en.wikipedia.org/wiki/Shikigami_no_Shiro",
     "redlink": false,
     "release_date": "March 19",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "PS2",
-      "handheld releases": "— N/a"
+      "platform": "PS2"
     },
     "platforms": [
       "PlayStation 2"
@@ -2311,16 +2146,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Tom Clancy's Rainbow Six 3: Raven Shield",
     "wiki_title": null,
     "wiki_url": null,
     "redlink": null,
     "release_date": "March 19",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "XB",
-      "handheld releases": "— N/a"
+      "platform": "XB"
     },
     "platforms": [
       "Windows",
@@ -2329,16 +2162,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Pride FC: Fighting Championships",
     "wiki_title": null,
     "wiki_url": null,
     "redlink": null,
     "release_date": "March 20",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "PS2",
-      "handheld releases": "— N/a"
+      "platform": "PS2"
     },
     "platforms": [
       "PlayStation 2"
@@ -2346,16 +2177,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Amplitude",
     "wiki_title": "Amplitude (game)",
     "wiki_url": "https://en.wikipedia.org/wiki/Amplitude_(game)",
     "redlink": false,
     "release_date": "March 24",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "PS2",
-      "handheld releases": "— N/a"
+      "platform": "PS2"
     },
     "platforms": [
       "PlayStation 2"
@@ -2363,16 +2192,15 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "The Legend of Zelda: The Wind Waker",
     "wiki_title": null,
     "wiki_url": null,
     "redlink": null,
+    "region": "NA",
     "release_date": "March 24",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "GCN (US)",
-      "handheld releases": "— N/a"
+      "platform": "GCN"
     },
     "platforms": [
       "GameCube"
@@ -2380,16 +2208,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Dragon Ball Z: Ultimate Battle 22",
     "wiki_title": null,
     "wiki_url": null,
     "redlink": null,
     "release_date": "March 25",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "PS1",
-      "handheld releases": "— N/a"
+      "platform": "PS1"
     },
     "platforms": [
       "PlayStation"
@@ -2397,16 +2223,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Dynasty Warriors 4",
     "wiki_title": "Dynasty Warriors 4",
     "wiki_url": "https://en.wikipedia.org/wiki/Dynasty_Warriors_4",
     "redlink": false,
     "release_date": "March 25",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "PS2",
-      "handheld releases": "— N/a"
+      "platform": "PS2"
     },
     "platforms": [
       "PlayStation 2"
@@ -2414,16 +2238,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Primal",
     "wiki_title": "Primal (video game)",
     "wiki_url": "https://en.wikipedia.org/wiki/Primal_(video_game)",
     "redlink": false,
     "release_date": "March 25",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "PS2",
-      "handheld releases": "— N/a"
+      "platform": "PS2"
     },
     "platforms": [
       "PlayStation 2"
@@ -2431,16 +2253,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Samurai Jack: The Amulet of Time",
     "wiki_title": null,
     "wiki_url": null,
     "redlink": null,
     "release_date": "March 25",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "— N/a",
-      "handheld releases": "GBA"
+      "platform": "GBA"
     },
     "platforms": [
       "Game Boy Advance"
@@ -2448,16 +2268,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Ed, Edd n Eddy: Jawbreakers!",
     "wiki_title": null,
     "wiki_url": null,
     "redlink": null,
     "release_date": "March 25",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "— N/a",
-      "handheld releases": "GBA"
+      "platform": "GBA"
     },
     "platforms": [
       "Game Boy Advance"
@@ -2465,16 +2283,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Galactic Civilizations",
     "wiki_title": "Galactic Civilizations",
     "wiki_url": "https://en.wikipedia.org/wiki/Galactic_Civilizations",
     "redlink": false,
     "release_date": "March 26",
     "platform_breakdown": {
-      "computer releases": "WIN",
-      "console releases": "— N/a",
-      "handheld releases": "— N/a"
+      "platform": "WIN"
     },
     "platforms": [
       "Windows"
@@ -2482,33 +2298,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
-    "title": "Indiana Jones and the Emperor's Tomb [ 41 ]",
-    "wiki_title": "Indiana Jones and the Emperor's Tomb",
-    "wiki_url": "https://en.wikipedia.org/wiki/Indiana_Jones_and_the_Emperor%27s_Tomb",
-    "redlink": false,
-    "release_date": "March 26",
-    "platform_breakdown": {
-      "computer releases": "WIN",
-      "console releases": "— N/a",
-      "handheld releases": "— N/a"
-    },
-    "platforms": [
-      "Windows"
-    ]
-  },
-  {
-    "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Superman: Countdown to Apokolips",
     "wiki_title": null,
     "wiki_url": null,
     "redlink": null,
     "release_date": "March 26",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "— N/a",
-      "handheld releases": "GBA"
+      "platform": "GBA"
     },
     "platforms": [
       "Game Boy Advance"
@@ -2516,16 +2313,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Metal Gear Solid 2: Substance",
     "wiki_title": null,
     "wiki_url": null,
     "redlink": null,
     "release_date": "March 27",
     "platform_breakdown": {
-      "computer releases": "WIN",
-      "console releases": "— N/a",
-      "handheld releases": "— N/a"
+      "platform": "WIN"
     },
     "platforms": [
       "Windows"
@@ -2533,16 +2328,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Marvel vs. Capcom 2: New Age of Heroes",
     "wiki_title": null,
     "wiki_url": null,
     "redlink": null,
     "release_date": "March 30",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "XB",
-      "handheld releases": "— N/a"
+      "platform": "XB"
     },
     "platforms": [
       "Xbox"
@@ -2550,16 +2343,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Midnight Club II",
     "wiki_title": "Midnight Club II",
     "wiki_url": "https://en.wikipedia.org/wiki/Midnight_Club_II",
     "redlink": false,
     "release_date": "April 8",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "XB",
-      "handheld releases": "— N/a"
+      "platform": "XB"
     },
     "platforms": [
       "Windows",
@@ -2569,16 +2360,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Crazy Taxi: Catch a Ride",
     "wiki_title": null,
     "wiki_url": null,
     "redlink": null,
     "release_date": "April 9",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "— N/a",
-      "handheld releases": "GBA"
+      "platform": "GBA"
     },
     "platforms": [
       "Game Boy Advance"
@@ -2586,16 +2375,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Evil Dead: Hail to the King",
     "wiki_title": null,
     "wiki_url": null,
     "redlink": null,
     "release_date": "April 9",
     "platform_breakdown": {
-      "computer releases": "WIN",
-      "console releases": "DC, PS1",
-      "handheld releases": "— N/a"
+      "platform": "WIN, DC, PS1"
     },
     "platforms": [
       "Windows",
@@ -2605,16 +2392,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Postal 2",
     "wiki_title": "Postal 2",
     "wiki_url": "https://en.wikipedia.org/wiki/Postal_2",
     "redlink": false,
     "release_date": "April 14",
     "platform_breakdown": {
-      "computer releases": "WIN",
-      "console releases": "— N/a",
-      "handheld releases": "— N/a"
+      "platform": "WIN"
     },
     "platforms": [
       "Windows"
@@ -2622,16 +2407,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Golden Sun: The Lost Age",
     "wiki_title": null,
     "wiki_url": null,
     "redlink": null,
     "release_date": "April 14",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "— N/a",
-      "handheld releases": "GBA"
+      "platform": "GBA"
     },
     "platforms": [
       "Game Boy Advance"
@@ -2639,16 +2422,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Ikaruga",
     "wiki_title": "Ikaruga",
     "wiki_url": "https://en.wikipedia.org/wiki/Ikaruga",
     "redlink": false,
     "release_date": "April 15",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "GCN",
-      "handheld releases": "— N/a"
+      "platform": "GCN"
     },
     "platforms": [
       "GameCube"
@@ -2656,16 +2437,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Godzilla: Destroy All Monsters Melee",
     "wiki_title": null,
     "wiki_url": null,
     "redlink": null,
     "release_date": "April 16",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "XB",
-      "handheld releases": "— N/a"
+      "platform": "XB"
     },
     "platforms": [
       "Xbox"
@@ -2673,16 +2452,15 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Final Fantasy XI: Rise of the Zilart",
     "wiki_title": "Final Fantasy XI",
     "wiki_url": "https://en.wikipedia.org/wiki/Final_Fantasy_XI",
     "redlink": false,
+    "region": "JP",
     "release_date": "April 17",
     "platform_breakdown": {
-      "computer releases": "WIN (JAP)",
-      "console releases": "PS2 (JAP)",
-      "handheld releases": "— N/a"
+      "platform": "WIN, PS2"
     },
     "platforms": [
       "Windows",
@@ -2691,16 +2469,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Pinobee: Wings of Adventure",
     "wiki_title": null,
     "wiki_url": null,
     "redlink": null,
     "release_date": "April 17",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "PS1",
-      "handheld releases": "— N/a"
+      "platform": "PS1"
     },
     "platforms": [
       "PlayStation"
@@ -2708,16 +2484,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Siren",
     "wiki_title": "Siren (video game)",
     "wiki_url": "https://en.wikipedia.org/wiki/Siren_(video_game)",
     "redlink": false,
     "release_date": "April 20",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "PS2",
-      "handheld releases": "— N/a"
+      "platform": "PS2"
     },
     "platforms": [
       "PlayStation 2"
@@ -2725,16 +2499,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Ninja Five-O",
     "wiki_title": "Ninja Five-O",
     "wiki_url": "https://en.wikipedia.org/wiki/Ninja_Five-O",
     "redlink": false,
     "release_date": "April 22",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "— N/a",
-      "handheld releases": "GBA"
+      "platform": "GBA"
     },
     "platforms": [
       "Game Boy Advance"
@@ -2742,16 +2514,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Day of Defeat",
     "wiki_title": "Day of Defeat",
     "wiki_url": "https://en.wikipedia.org/wiki/Day_of_Defeat",
     "redlink": false,
     "release_date": "May 6",
     "platform_breakdown": {
-      "computer releases": "WIN",
-      "console releases": "— N/a",
-      "handheld releases": "— N/a"
+      "platform": "WIN"
     },
     "platforms": [
       "Windows"
@@ -2759,16 +2529,15 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Eve Online",
     "wiki_title": "Eve Online",
     "wiki_url": "https://en.wikipedia.org/wiki/Eve_Online",
     "redlink": false,
+    "region": "JP",
     "release_date": "May 6",
     "platform_breakdown": {
-      "computer releases": "WIN (JAP)",
-      "console releases": "— N/a",
-      "handheld releases": "— N/a"
+      "platform": "WIN"
     },
     "platforms": [
       "Windows"
@@ -2776,16 +2545,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Finding Nemo",
     "wiki_title": "Finding Nemo (video game)",
     "wiki_url": "https://en.wikipedia.org/wiki/Finding_Nemo_(video_game)",
     "redlink": false,
     "release_date": "May 12",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "GCN, PS2, XB",
-      "handheld releases": "GBA"
+      "platform": "GCN, PS2, XB, GBA"
     },
     "platforms": [
       "GameCube",
@@ -2796,16 +2563,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Iridion II",
     "wiki_title": "Iridion II",
     "wiki_url": "https://en.wikipedia.org/wiki/Iridion_II",
     "redlink": false,
     "release_date": "May 12",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "— N/a",
-      "handheld releases": "GBA"
+      "platform": "GBA"
     },
     "platforms": [
       "Game Boy Advance"
@@ -2813,16 +2578,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "The Sims: Superstar",
     "wiki_title": null,
     "wiki_url": null,
     "redlink": null,
     "release_date": "May 12",
     "platform_breakdown": {
-      "computer releases": "WIN",
-      "console releases": "— N/a",
-      "handheld releases": "— N/a"
+      "platform": "WIN"
     },
     "platforms": [
       "Windows"
@@ -2830,16 +2593,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Enter The Matrix",
     "wiki_title": "Enter The Matrix",
     "wiki_url": "https://en.wikipedia.org/wiki/Enter_The_Matrix",
     "redlink": false,
     "release_date": "May 14",
     "platform_breakdown": {
-      "computer releases": "WIN",
-      "console releases": "GCN, PS2, XB",
-      "handheld releases": "— N/a"
+      "platform": "WIN, GCN, PS2, XB"
     },
     "platforms": [
       "Windows",
@@ -2850,16 +2611,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Inside Pitch 2003",
     "wiki_title": null,
     "wiki_url": null,
     "redlink": null,
     "release_date": "May 20",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "XB",
-      "handheld releases": "— N/a"
+      "platform": "XB"
     },
     "platforms": [
       "Xbox"
@@ -2867,16 +2626,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "PlanetSide",
     "wiki_title": "PlanetSide (video game)",
     "wiki_url": "https://en.wikipedia.org/wiki/PlanetSide_(video_game)",
     "redlink": false,
     "release_date": "May 20",
     "platform_breakdown": {
-      "computer releases": "WIN",
-      "console releases": "— N/a",
-      "handheld releases": "— N/a"
+      "platform": "WIN"
     },
     "platforms": [
       "Windows"
@@ -2884,16 +2641,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Silent Hill 3",
     "wiki_title": "Silent Hill 3",
     "wiki_url": "https://en.wikipedia.org/wiki/Silent_Hill_3",
     "redlink": false,
     "release_date": "May 23",
     "platform_breakdown": {
-      "computer releases": "WIN",
-      "console releases": "— N/a",
-      "handheld releases": "— N/a"
+      "platform": "WIN"
     },
     "platforms": [
       "PlayStation 2",
@@ -2902,16 +2657,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "WarioWare Inc.: Mega Microgame$",
     "wiki_title": null,
     "wiki_url": null,
     "redlink": null,
     "release_date": "May 21",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "— N/a",
-      "handheld releases": "GBA"
+      "platform": "GBA"
     },
     "platforms": [
       "Game Boy Advance"
@@ -2919,16 +2672,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Ghost Master",
     "wiki_title": "Ghost Master",
     "wiki_url": "https://en.wikipedia.org/wiki/Ghost_Master",
     "redlink": false,
     "release_date": "May 23",
     "platform_breakdown": {
-      "computer releases": "WIN",
-      "console releases": "— N/a",
-      "handheld releases": "— N/a"
+      "platform": "WIN"
     },
     "platforms": [
       "Windows"
@@ -2936,16 +2687,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Brute Force",
     "wiki_title": "Brute Force (video game)",
     "wiki_url": "https://en.wikipedia.org/wiki/Brute_Force_(video_game)",
     "redlink": false,
     "release_date": "May 27",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "XB",
-      "handheld releases": "— N/a"
+      "platform": "XB"
     },
     "platforms": [
       "Xbox"
@@ -2953,16 +2702,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Hulk",
     "wiki_title": "Hulk (video game)",
     "wiki_url": "https://en.wikipedia.org/wiki/Hulk_(video_game)",
     "redlink": false,
     "release_date": "May 28",
     "platform_breakdown": {
-      "computer releases": "WIN",
-      "console releases": "PS2, GCN, XB",
-      "handheld releases": "— N/a"
+      "platform": "WIN, PS2, GCN, XB"
     },
     "platforms": [
       "Windows",
@@ -2973,16 +2720,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "The Incredible Hulk",
     "wiki_title": "The Incredible Hulk (2003 video game)",
     "wiki_url": "https://en.wikipedia.org/wiki/The_Incredible_Hulk_(2003_video_game)",
     "redlink": false,
     "release_date": "May 28",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "— N/a",
-      "handheld releases": "GBA"
+      "platform": "GBA"
     },
     "platforms": [
       "Game Boy Advance"
@@ -2990,16 +2735,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Sonic Pinball Party",
     "wiki_title": "Sonic Pinball Party",
     "wiki_url": "https://en.wikipedia.org/wiki/Sonic_Pinball_Party",
     "redlink": false,
     "release_date": "June 1",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "— N/a",
-      "handheld releases": "GBA"
+      "platform": "GBA"
     },
     "platforms": [
       "Game Boy Advance"
@@ -3007,16 +2750,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Toontown Online",
     "wiki_title": "Toontown Online",
     "wiki_url": "https://en.wikipedia.org/wiki/Toontown_Online",
     "redlink": false,
     "release_date": "June 2",
     "platform_breakdown": {
-      "computer releases": "WIN",
-      "console releases": "— N/a",
-      "handheld releases": "— N/a"
+      "platform": "WIN"
     },
     "platforms": [
       "Windows"
@@ -3024,16 +2765,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Donkey Kong Country",
     "wiki_title": "Donkey Kong Country",
     "wiki_url": "https://en.wikipedia.org/wiki/Donkey_Kong_Country",
     "redlink": false,
     "release_date": "June 9",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "— N/a",
-      "handheld releases": "GBA"
+      "platform": "GBA"
     },
     "platforms": [
       "Game Boy Advance"
@@ -3041,16 +2780,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Mega Man Network Transmission",
     "wiki_title": "Mega Man Network Transmission",
     "wiki_url": "https://en.wikipedia.org/wiki/Mega_Man_Network_Transmission",
     "redlink": false,
     "release_date": "June 17",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "GCN",
-      "handheld releases": "— N/a"
+      "platform": "GCN"
     },
     "platforms": [
       "GameCube"
@@ -3058,16 +2795,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Space Channel 5: Ulala's Cosmic Attack",
     "wiki_title": "Space Channel 5",
     "wiki_url": "https://en.wikipedia.org/wiki/Space_Channel_5",
     "redlink": false,
     "release_date": "June 17",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "— N/a",
-      "handheld releases": "GBA"
+      "platform": "GBA"
     },
     "platforms": [
       "Game Boy Advance"
@@ -3075,16 +2810,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Unlimited Saga",
     "wiki_title": "Unlimited Saga",
     "wiki_url": "https://en.wikipedia.org/wiki/Unlimited_Saga",
     "redlink": false,
     "release_date": "June 17",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "PS2",
-      "handheld releases": "— N/a"
+      "platform": "PS2"
     },
     "platforms": [
       "PlayStation 2"
@@ -3092,16 +2825,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Sonic Adventure DX: Director's Cut",
     "wiki_title": "Sonic Adventure#Sonic Adventure DX",
     "wiki_url": "https://en.wikipedia.org/wiki/Sonic_Adventure#Sonic_Adventure_DX",
     "redlink": false,
     "release_date": "June 18",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "GCN",
-      "handheld releases": "— N/a"
+      "platform": "GCN"
     },
     "platforms": [
       "GameCube"
@@ -3109,16 +2840,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Drome Racers",
     "wiki_title": "Drome Racers",
     "wiki_url": "https://en.wikipedia.org/wiki/Drome_Racers",
     "redlink": false,
     "release_date": "June 19",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "— N/a",
-      "handheld releases": "GBA"
+      "platform": "GBA"
     },
     "platforms": [
       "Game Boy Advance"
@@ -3126,16 +2855,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
-    "title": "Mace Griffin: Bounty Hunter [ 42 ]",
+    "section": "Games released in 2003",
+    "title": "Mace Griffin: Bounty Hunter",
     "wiki_title": null,
     "wiki_url": null,
     "redlink": null,
     "release_date": "June 19",
     "platform_breakdown": {
-      "computer releases": "WIN",
-      "console releases": "PS2, XB",
-      "handheld releases": "— N/a"
+      "platform": "WIN, PS2, XB"
     },
     "platforms": [
       "Windows",
@@ -3145,16 +2872,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Neighbours from Hell",
     "wiki_title": "Neighbours from Hell",
     "wiki_url": "https://en.wikipedia.org/wiki/Neighbours_from_Hell",
     "redlink": false,
     "release_date": "June 20",
     "platform_breakdown": {
-      "computer releases": "WIN",
-      "console releases": "— N/a",
-      "handheld releases": "— N/a"
+      "platform": "WIN"
     },
     "platforms": [
       "Windows"
@@ -3162,16 +2887,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
-    "title": "Star Trek: Elite Force II [ 43 ]",
+    "section": "Games released in 2003",
+    "title": "Star Trek: Elite Force II",
     "wiki_title": null,
     "wiki_url": null,
     "redlink": null,
     "release_date": "June 20",
     "platform_breakdown": {
-      "computer releases": "WIN",
-      "console releases": "— N/a",
-      "handheld releases": "— N/a"
+      "platform": "WIN"
     },
     "platforms": [
       "Windows"
@@ -3179,16 +2902,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Tomb Raider: The Angel of Darkness",
     "wiki_title": null,
     "wiki_url": null,
     "redlink": null,
     "release_date": "June 20",
     "platform_breakdown": {
-      "computer releases": "WIN",
-      "console releases": "— N/a",
-      "handheld releases": "— N/a"
+      "platform": "WIN"
     },
     "platforms": [
       "PlayStation 2",
@@ -3197,16 +2918,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Rock 'N Roll Racing",
     "wiki_title": "Rock 'N Roll Racing",
     "wiki_url": "https://en.wikipedia.org/wiki/Rock_%27N_Roll_Racing",
     "redlink": false,
     "release_date": "June 23",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "— N/a",
-      "handheld releases": "GBA"
+      "platform": "GBA"
     },
     "platforms": [
       "Game Boy Advance"
@@ -3214,16 +2933,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Buffy the Vampire Slayer: Wrath of the Darkhul King",
     "wiki_title": null,
     "wiki_url": null,
     "redlink": null,
     "release_date": "June 24",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "— N/a",
-      "handheld releases": "GBA"
+      "platform": "GBA"
     },
     "platforms": [
       "Game Boy Advance"
@@ -3231,16 +2948,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Magic Pengel: The Quest for Color",
     "wiki_title": null,
     "wiki_url": null,
     "redlink": null,
     "release_date": "June 24",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "PS2",
-      "handheld releases": "— N/a"
+      "platform": "PS2"
     },
     "platforms": [
       "PlayStation 2"
@@ -3248,16 +2963,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Mega Man Battle Network 3",
     "wiki_title": "Mega Man Battle Network 3",
     "wiki_url": "https://en.wikipedia.org/wiki/Mega_Man_Battle_Network_3",
     "redlink": false,
     "release_date": "June 24",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "— N/a",
-      "handheld releases": "GBA"
+      "platform": "GBA"
     },
     "platforms": [
       "Game Boy Advance"
@@ -3265,16 +2978,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Stuntman",
     "wiki_title": "Stuntman (video game)",
     "wiki_url": "https://en.wikipedia.org/wiki/Stuntman_(video_game)",
     "redlink": false,
     "release_date": "June 24",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "— N/a",
-      "handheld releases": "GBA"
+      "platform": "GBA"
     },
     "platforms": [
       "Game Boy Advance"
@@ -3282,16 +2993,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Wario World",
     "wiki_title": "Wario World",
     "wiki_url": "https://en.wikipedia.org/wiki/Wario_World",
     "redlink": false,
     "release_date": "June 24",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "GCN",
-      "handheld releases": "— N/a"
+      "platform": "GCN"
     },
     "platforms": [
       "GameCube"
@@ -3299,16 +3008,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Arc the Lad: Twilight of the Spirits",
     "wiki_title": null,
     "wiki_url": null,
     "redlink": null,
     "release_date": "June 25",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "PS2",
-      "handheld releases": "— N/a"
+      "platform": "PS2"
     },
     "platforms": [
       "PlayStation 2"
@@ -3316,33 +3023,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
-    "title": "Indiana Jones and the Emperor's Tomb [ 44 ]",
-    "wiki_title": "Indiana Jones and the Emperor's Tomb",
-    "wiki_url": "https://en.wikipedia.org/wiki/Indiana_Jones_and_the_Emperor%27s_Tomb",
-    "redlink": false,
-    "release_date": "June 26",
-    "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "PS2",
-      "handheld releases": "— N/a"
-    },
-    "platforms": [
-      "PlayStation 2"
-    ]
-  },
-  {
-    "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Ape Escape 2",
     "wiki_title": "Ape Escape 2",
     "wiki_url": "https://en.wikipedia.org/wiki/Ape_Escape_2",
     "redlink": false,
     "release_date": "June 30",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "PS2",
-      "handheld releases": "— N/a"
+      "platform": "PS2"
     },
     "platforms": [
       "PlayStation 2"
@@ -3350,16 +3038,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "The Simpsons: Road Rage",
     "wiki_title": null,
     "wiki_url": null,
     "redlink": null,
     "release_date": "June 30",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "— N/a",
-      "handheld releases": "GBA"
+      "platform": "GBA"
     },
     "platforms": [
       "Game Boy Advance"
@@ -3367,16 +3053,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Pirates of the Caribbean",
     "wiki_title": "Pirates of the Caribbean (video game)",
     "wiki_url": "https://en.wikipedia.org/wiki/Pirates_of_the_Caribbean_(video_game)",
     "redlink": false,
     "release_date": "July 1",
     "platform_breakdown": {
-      "computer releases": "WIN",
-      "console releases": "— N/a",
-      "handheld releases": "— N/a"
+      "platform": "WIN"
     },
     "platforms": [
       "Xbox",
@@ -3385,16 +3069,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Star Wars Galaxies: An Empire Divided",
     "wiki_title": null,
     "wiki_url": null,
     "redlink": null,
     "release_date": "July 9",
     "platform_breakdown": {
-      "computer releases": "WIN",
-      "console releases": "— N/a",
-      "handheld releases": "— N/a"
+      "platform": "WIN"
     },
     "platforms": [
       "Windows"
@@ -3402,16 +3084,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "The Italian Job",
     "wiki_title": "The Italian Job (2003 video game)",
     "wiki_url": "https://en.wikipedia.org/wiki/The_Italian_Job_(2003_video_game)",
     "redlink": false,
     "release_date": "July 17",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "GCN",
-      "handheld releases": "— N/a"
+      "platform": "GCN"
     },
     "platforms": [
       "GameCube"
@@ -3419,16 +3099,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Dinotopia: The Sunstone Odyssey",
     "wiki_title": null,
     "wiki_url": null,
     "redlink": null,
     "release_date": "July 23",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "XB",
-      "handheld releases": "— N/a"
+      "platform": "XB"
     },
     "platforms": [
       "Xbox"
@@ -3436,16 +3114,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "The Great Escape",
     "wiki_title": "The Great Escape (2003 video game)",
     "wiki_url": "https://en.wikipedia.org/wiki/The_Great_Escape_(2003_video_game)",
     "redlink": false,
     "release_date": "July 23",
     "platform_breakdown": {
-      "computer releases": "WIN",
-      "console releases": "PS2, XB",
-      "handheld releases": "— N/a"
+      "platform": "WIN, PS2, XB"
     },
     "platforms": [
       "Windows",
@@ -3455,16 +3131,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Mario Golf: Toadstool Tour",
     "wiki_title": null,
     "wiki_url": null,
     "redlink": null,
     "release_date": "July 28",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "GCN",
-      "handheld releases": "— N/a"
+      "platform": "GCN"
     },
     "platforms": [
       "GameCube"
@@ -3472,16 +3146,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Shrek: Reekin' Havoc",
     "wiki_title": null,
     "wiki_url": null,
     "redlink": null,
     "release_date": "July 30",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "— N/a",
-      "handheld releases": "GBA"
+      "platform": "GBA"
     },
     "platforms": [
       "Game Boy Advance"
@@ -3489,16 +3161,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Butt-Ugly Martians: Zoom or Doom",
     "wiki_title": null,
     "wiki_url": null,
     "redlink": null,
     "release_date": "July 31",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "PS2",
-      "handheld releases": "— N/a"
+      "platform": "PS2"
     },
     "platforms": [
       "PlayStation 2"
@@ -3506,16 +3176,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Chaos Legion",
     "wiki_title": "Chaos Legion",
     "wiki_url": "https://en.wikipedia.org/wiki/Chaos_Legion",
     "redlink": false,
     "release_date": "August 5",
     "platform_breakdown": {
-      "computer releases": "WIN",
-      "console releases": "PS2",
-      "handheld releases": "— N/a"
+      "platform": "WIN, PS2"
     },
     "platforms": [
       "Windows",
@@ -3524,16 +3192,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Freaky Flyers",
     "wiki_title": "Freaky Flyers",
     "wiki_url": "https://en.wikipedia.org/wiki/Freaky_Flyers",
     "redlink": false,
     "release_date": "August 5",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "GCN",
-      "handheld releases": "— N/a"
+      "platform": "GCN"
     },
     "platforms": [
       "PlayStation 2",
@@ -3543,16 +3209,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "SplashDown: Rides Gone Wild",
     "wiki_title": null,
     "wiki_url": null,
     "redlink": null,
     "release_date": "August 6",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "PS2",
-      "handheld releases": "— N/a"
+      "platform": "PS2"
     },
     "platforms": [
       "PlayStation 2"
@@ -3560,16 +3224,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Futurama",
     "wiki_title": "Futurama (video game)",
     "wiki_url": "https://en.wikipedia.org/wiki/Futurama_(video_game)",
     "redlink": false,
     "release_date": "August 12",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "PS2, XB",
-      "handheld releases": "— N/a"
+      "platform": "PS2, XB"
     },
     "platforms": [
       "PlayStation 2",
@@ -3578,33 +3240,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
-    "title": "Tony Hawk's Pro Skater 4 [ 45 ]",
-    "wiki_title": "Tony Hawk's Pro Skater 4",
-    "wiki_url": "https://en.wikipedia.org/wiki/Tony_Hawk%27s_Pro_Skater_4",
-    "redlink": false,
-    "release_date": "August 14",
-    "platform_breakdown": {
-      "computer releases": "WIN",
-      "console releases": "— N/a",
-      "handheld releases": "— N/a"
-    },
-    "platforms": [
-      "Windows"
-    ]
-  },
-  {
-    "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Alter Echo",
     "wiki_title": "Alter Echo",
     "wiki_url": "https://en.wikipedia.org/wiki/Alter_Echo",
     "redlink": false,
     "release_date": "August 19",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "PS2, XB",
-      "handheld releases": "— N/a"
+      "platform": "PS2, XB"
     },
     "platforms": [
       "PlayStation 2",
@@ -3613,16 +3256,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Nancy Drew: The Haunted Carousel",
     "wiki_title": null,
     "wiki_url": null,
     "redlink": null,
     "release_date": "August 22",
     "platform_breakdown": {
-      "computer releases": "WIN",
-      "console releases": "— N/a",
-      "handheld releases": "— N/a"
+      "platform": "WIN"
     },
     "platforms": [
       "Windows"
@@ -3630,16 +3271,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Bombastic",
     "wiki_title": "Bombastic (video game)",
     "wiki_url": "https://en.wikipedia.org/wiki/Bombastic_(video_game)",
     "redlink": false,
     "release_date": "August 27",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "PS2",
-      "handheld releases": "— N/a"
+      "platform": "PS2"
     },
     "platforms": [
       "PlayStation 2"
@@ -3647,16 +3286,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Buffy the Vampire Slayer: Chaos Bleeds",
     "wiki_title": null,
     "wiki_url": null,
     "redlink": null,
     "release_date": "August 27",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "GCN",
-      "handheld releases": "— N/a"
+      "platform": "GCN"
     },
     "platforms": [
       "PlayStation 2",
@@ -3666,16 +3303,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Otogi: Myth of Demons",
     "wiki_title": "Otogi",
     "wiki_url": "https://en.wikipedia.org/wiki/Otogi",
     "redlink": false,
     "release_date": "August 27",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "XB",
-      "handheld releases": "— N/a"
+      "platform": "XB"
     },
     "platforms": [
       "Xbox"
@@ -3683,16 +3318,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Rescue Heroes: Billy Blazes",
     "wiki_title": "Rescue Heroes",
     "wiki_url": "https://en.wikipedia.org/wiki/Rescue_Heroes",
     "redlink": false,
     "release_date": "August 27",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "— N/a",
-      "handheld releases": "GBA"
+      "platform": "GBA"
     },
     "platforms": [
       "Game Boy Advance"
@@ -3700,35 +3333,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
-    "title": "Soul Calibur II",
-    "wiki_title": "Soul Calibur II",
-    "wiki_url": "https://en.wikipedia.org/wiki/Soul_Calibur_II",
-    "redlink": false,
-    "release_date": "August 27",
-    "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "PS2, XB, GCN",
-      "handheld releases": "— N/a"
-    },
-    "platforms": [
-      "PlayStation 2",
-      "Xbox",
-      "GameCube"
-    ]
-  },
-  {
-    "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Battlefield 1942: Secret Weapons of WWII",
     "wiki_title": "Battlefield 1942#Expansion packs",
     "wiki_url": "https://en.wikipedia.org/wiki/Battlefield_1942#Expansion_packs",
     "redlink": false,
     "release_date": "September 4",
     "platform_breakdown": {
-      "computer releases": "WIN",
-      "console releases": "— N/a",
-      "handheld releases": "— N/a"
+      "platform": "WIN"
     },
     "platforms": [
       "Windows"
@@ -3736,16 +3348,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Power Rangers: Ninja Storm",
     "wiki_title": null,
     "wiki_url": null,
     "redlink": null,
     "release_date": "September 5",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "— N/a",
-      "handheld releases": "GBA"
+      "platform": "GBA"
     },
     "platforms": [
       "Game Boy Advance"
@@ -3753,16 +3363,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Anarchy Online: The Shadowlands",
     "wiki_title": "Anarchy Online#The Shadowlands",
     "wiki_url": "https://en.wikipedia.org/wiki/Anarchy_Online#The_Shadowlands",
     "redlink": false,
     "release_date": "September 8",
     "platform_breakdown": {
-      "computer releases": "WIN",
-      "console releases": "— N/a",
-      "handheld releases": "— N/a"
+      "platform": "WIN"
     },
     "platforms": [
       "Windows"
@@ -3770,16 +3378,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "WWE WrestleMania XIX",
     "wiki_title": "WWE WrestleMania XIX (video game)",
     "wiki_url": "https://en.wikipedia.org/wiki/WWE_WrestleMania_XIX_(video_game)",
     "redlink": false,
     "release_date": "September 8",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "GCN",
-      "handheld releases": "— N/a"
+      "platform": "GCN"
     },
     "platforms": [
       "GameCube"
@@ -3787,33 +3393,31 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
-    "title": "Counter-Strike (Steam and Retail)",
+    "section": "Games released in 2003",
+    "title": "Counter-Strike",
     "wiki_title": "Counter-Strike (video game)",
     "wiki_url": "https://en.wikipedia.org/wiki/Counter-Strike_(video_game)",
     "redlink": false,
     "release_date": "September 9",
     "platform_breakdown": {
-      "computer releases": "WIN",
-      "console releases": "— N/a",
-      "handheld releases": "— N/a"
+      "platform": "XB"
     },
     "platforms": [
-      "Windows"
-    ]
+      "Windows",
+      "Xbox"
+    ],
+    "region": "EU"
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "EverQuest: Lost Dungeons of Norrath",
     "wiki_title": "Lost Dungeons of Norrath",
     "wiki_url": "https://en.wikipedia.org/wiki/Lost_Dungeons_of_Norrath",
     "redlink": false,
     "release_date": "September 9",
     "platform_breakdown": {
-      "computer releases": "WIN",
-      "console releases": "— N/a",
-      "handheld releases": "— N/a"
+      "platform": "WIN"
     },
     "platforms": [
       "Windows"
@@ -3821,16 +3425,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "P.N.03",
     "wiki_title": "P.N.03",
     "wiki_url": "https://en.wikipedia.org/wiki/P.N.03",
     "redlink": false,
     "release_date": "September 9",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "GCN",
-      "handheld releases": "— N/a"
+      "platform": "GCN"
     },
     "platforms": [
       "GameCube"
@@ -3838,16 +3440,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Banjo-Kazooie: Grunty's Revenge",
     "wiki_title": null,
     "wiki_url": null,
     "redlink": null,
     "release_date": "September 10",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "— N/a",
-      "handheld releases": "GBA"
+      "platform": "GBA"
     },
     "platforms": [
       "Game Boy Advance"
@@ -3855,16 +3455,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Road Rash: Jailbreak",
     "wiki_title": null,
     "wiki_url": null,
     "redlink": null,
     "release_date": "September 11",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "— N/a",
-      "handheld releases": "GBA"
+      "platform": "GBA"
     },
     "platforms": [
       "Game Boy Advance"
@@ -3872,16 +3470,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Starsky & Hutch",
     "wiki_title": "Starsky & Hutch (video game)",
     "wiki_url": "https://en.wikipedia.org/wiki/Starsky_%26_Hutch_(video_game)",
     "redlink": false,
     "release_date": "September 12",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "— N/a",
-      "handheld releases": "GBA"
+      "platform": "GBA"
     },
     "platforms": [
       "Game Boy Advance"
@@ -3889,16 +3485,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Asterix & Obelix: Kick Buttix",
     "wiki_title": "Asterix & Obelix XXL",
     "wiki_url": "https://en.wikipedia.org/wiki/Asterix_%26_Obelix_XXL",
     "redlink": false,
     "release_date": "September 14",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "PS2",
-      "handheld releases": "— N/a"
+      "platform": "PS2"
     },
     "platforms": [
       "PlayStation 2"
@@ -3906,16 +3500,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Boktai: The Sun Is in Your Hand",
     "wiki_title": null,
     "wiki_url": null,
     "redlink": null,
     "release_date": "September 16",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "— N/a",
-      "handheld releases": "GBA"
+      "platform": "GBA"
     },
     "platforms": [
       "Game Boy Advance"
@@ -3923,16 +3515,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Dino Crisis 3",
     "wiki_title": "Dino Crisis 3",
     "wiki_url": "https://en.wikipedia.org/wiki/Dino_Crisis_3",
     "redlink": false,
     "release_date": "September 16",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "XB",
-      "handheld releases": "— N/a"
+      "platform": "XB"
     },
     "platforms": [
       "Xbox"
@@ -3940,16 +3530,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Homeworld 2",
     "wiki_title": "Homeworld 2",
     "wiki_url": "https://en.wikipedia.org/wiki/Homeworld_2",
     "redlink": false,
     "release_date": "September 16",
     "platform_breakdown": {
-      "computer releases": "WIN",
-      "console releases": "— N/a",
-      "handheld releases": "— N/a"
+      "platform": "WIN"
     },
     "platforms": [
       "Windows"
@@ -3957,16 +3545,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "The Simpsons: Hit & Run",
     "wiki_title": null,
     "wiki_url": null,
     "redlink": null,
     "release_date": "September 16",
     "platform_breakdown": {
-      "computer releases": "WIN",
-      "console releases": "— N/a",
-      "handheld releases": "— N/a"
+      "platform": "WIN"
     },
     "platforms": [
       "PlayStation 2",
@@ -3977,16 +3563,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Dungeons & Dragons: Heroes",
     "wiki_title": null,
     "wiki_url": null,
     "redlink": null,
     "release_date": "September 17",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "XB",
-      "handheld releases": "— N/a"
+      "platform": "XB"
     },
     "platforms": [
       "Xbox"
@@ -3994,16 +3578,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Star Wars Jedi Knight: Jedi Academy",
     "wiki_title": null,
     "wiki_url": null,
     "redlink": null,
     "release_date": "September 17",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "XB",
-      "handheld releases": "— N/a"
+      "platform": "XB"
     },
     "platforms": [
       "Windows",
@@ -4012,16 +3594,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Command & Conquer: Generals – Zero Hour",
     "wiki_title": null,
     "wiki_url": null,
     "redlink": null,
     "release_date": "September 22",
     "platform_breakdown": {
-      "computer releases": "WIN",
-      "console releases": "— N/a",
-      "handheld releases": "— N/a"
+      "platform": "WIN"
     },
     "platforms": [
       "Windows"
@@ -4029,16 +3609,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "NHL 2004",
     "wiki_title": "NHL 2004",
     "wiki_url": "https://en.wikipedia.org/wiki/NHL_2004",
     "redlink": false,
     "release_date": "September 22",
     "platform_breakdown": {
-      "computer releases": "WIN",
-      "console releases": "GCN, PS2, XB",
-      "handheld releases": "— N/a"
+      "platform": "WIN, GCN, PS2, XB"
     },
     "platforms": [
       "Windows",
@@ -4049,16 +3627,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "DDRMAX2: Dance Dance Revolution",
     "wiki_title": null,
     "wiki_url": null,
     "redlink": null,
     "release_date": "September 23",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "PS2,",
-      "handheld releases": "— N/a"
+      "platform": "PS2,"
     },
     "platforms": [
       "PlayStation 2"
@@ -4066,16 +3642,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "The Adventures of Jimmy Neutron Boy Genius: Jet Fusion",
     "wiki_title": null,
     "wiki_url": null,
     "redlink": null,
     "release_date": "September 24",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "— N/a",
-      "handheld releases": "GBA"
+      "platform": "GBA"
     },
     "platforms": [
       "Game Boy Advance"
@@ -4083,16 +3657,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Digimon Battle Spirit 2",
     "wiki_title": "Digimon Battle Spirit 2",
     "wiki_url": "https://en.wikipedia.org/wiki/Digimon_Battle_Spirit_2",
     "redlink": false,
     "release_date": "September 24",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "— N/a",
-      "handheld releases": "GBA"
+      "platform": "GBA"
     },
     "platforms": [
       "Game Boy Advance"
@@ -4100,16 +3672,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Oddworld: Munch's Oddysee",
     "wiki_title": null,
     "wiki_url": null,
     "redlink": null,
     "release_date": "September 24",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "— N/a",
-      "handheld releases": "GBA"
+      "platform": "GBA"
     },
     "platforms": [
       "Game Boy Advance"
@@ -4117,16 +3687,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Etherlords II",
     "wiki_title": "Etherlords#Etherlords II",
     "wiki_url": "https://en.wikipedia.org/wiki/Etherlords#Etherlords_II",
     "redlink": false,
     "release_date": "October 1",
     "platform_breakdown": {
-      "computer releases": "WIN",
-      "console releases": "— N/a",
-      "handheld releases": "— N/a"
+      "platform": "WIN"
     },
     "platforms": [
       "Windows"
@@ -4134,16 +3702,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Freedom Fighters",
     "wiki_title": "Freedom Fighters (video game)",
     "wiki_url": "https://en.wikipedia.org/wiki/Freedom_Fighters_(video_game)",
     "redlink": false,
     "release_date": "October 1",
     "platform_breakdown": {
-      "computer releases": "WIN",
-      "console releases": "PS2, XB, GCN",
-      "handheld releases": "— N/a"
+      "platform": "WIN, PS2, XB, GCN"
     },
     "platforms": [
       "Windows",
@@ -4154,16 +3720,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Nancy Drew: Danger on Deception Island",
     "wiki_title": null,
     "wiki_url": null,
     "redlink": null,
     "release_date": "October 3",
     "platform_breakdown": {
-      "computer releases": "WIN",
-      "console releases": "— N/a",
-      "handheld releases": "— N/a"
+      "platform": "WIN"
     },
     "platforms": [
       "Windows"
@@ -4171,16 +3735,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "DemiKids: Light Version",
     "wiki_title": null,
     "wiki_url": null,
     "redlink": null,
     "release_date": "October 6",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "— N/a",
-      "handheld releases": "GBA"
+      "platform": "GBA"
     },
     "platforms": [
       "Game Boy Advance"
@@ -4188,16 +3750,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Backyard Wrestling: Don't Try This at Home",
     "wiki_title": null,
     "wiki_url": null,
     "redlink": null,
     "release_date": "October 7",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "PS2",
-      "handheld releases": "— N/a"
+      "platform": "PS2"
     },
     "platforms": [
       "PlayStation 2"
@@ -4205,16 +3765,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "DemiKids: Dark Version",
     "wiki_title": null,
     "wiki_url": null,
     "redlink": null,
     "release_date": "October 7",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "— N/a",
-      "handheld releases": "GBA"
+      "platform": "GBA"
     },
     "platforms": [
       "Game Boy Advance"
@@ -4222,16 +3780,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Sonic Advance",
     "wiki_title": "Sonic Advance",
     "wiki_url": "https://en.wikipedia.org/wiki/Sonic_Advance",
     "redlink": false,
     "release_date": "October 7",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "— N/a",
-      "handheld releases": "NGE"
+      "platform": "NGE"
     },
     "platforms": [
       "N-Gage"
@@ -4239,16 +3795,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Kirby Air Ride",
     "wiki_title": "Kirby Air Ride",
     "wiki_url": "https://en.wikipedia.org/wiki/Kirby_Air_Ride",
     "redlink": false,
     "release_date": "October 13",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "GCN",
-      "handheld releases": "— N/a"
+      "platform": "GCN"
     },
     "platforms": [
       "GameCube"
@@ -4256,16 +3810,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Cyber Troopers Virtual-On MARZ",
     "wiki_title": "Cyber Troopers Virtual-On Marz",
     "wiki_url": "https://en.wikipedia.org/wiki/Cyber_Troopers_Virtual-On_Marz",
     "redlink": false,
     "release_date": "October 14",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "PS2",
-      "handheld releases": "— N/a"
+      "platform": "PS2"
     },
     "platforms": [
       "PlayStation 2"
@@ -4273,16 +3825,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Mega Man X7",
     "wiki_title": "Mega Man X7",
     "wiki_url": "https://en.wikipedia.org/wiki/Mega_Man_X7",
     "redlink": false,
     "release_date": "October 14",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "PS2",
-      "handheld releases": "— N/a"
+      "platform": "PS2"
     },
     "platforms": [
       "PlayStation 2"
@@ -4290,16 +3840,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Mega Man Zero 2",
     "wiki_title": "Mega Man Zero 2",
     "wiki_url": "https://en.wikipedia.org/wiki/Mega_Man_Zero_2",
     "redlink": false,
     "release_date": "October 14",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "— N/a",
-      "handheld releases": "GBA"
+      "platform": "GBA"
     },
     "platforms": [
       "Game Boy Advance"
@@ -4307,16 +3855,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "The Haunted Mansion",
     "wiki_title": "The Haunted Mansion (video game)",
     "wiki_url": "https://en.wikipedia.org/wiki/The_Haunted_Mansion_(video_game)",
     "redlink": false,
     "release_date": "October 14",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "GCN, PS2, XB",
-      "handheld releases": "— N/a"
+      "platform": "GCN, PS2, XB"
     },
     "platforms": [
       "GameCube",
@@ -4326,16 +3872,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Tak and the Power of Juju",
     "wiki_title": "Tak and the Power of Juju",
     "wiki_url": "https://en.wikipedia.org/wiki/Tak_and_the_Power_of_Juju",
     "redlink": false,
     "release_date": "October 15",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "GCN, PS2",
-      "handheld releases": "GBA"
+      "platform": "GCN, PS2, GBA"
     },
     "platforms": [
       "GameCube",
@@ -4345,36 +3889,33 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Judge Dredd: Dredd vs. Death",
     "wiki_title": null,
     "wiki_url": null,
     "redlink": null,
+    "region": "EU",
     "release_date": "October 17",
     "platform_breakdown": {
-      "computer releases": "WIN (EU)",
-      "console releases": "GCN, PS2, XB",
-      "handheld releases": "— N/a"
+      "platform": "GCN"
     },
     "platforms": [
       "Windows",
-      "GameCube",
       "PlayStation 2",
-      "Xbox"
+      "Xbox",
+      "GameCube"
     ]
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Castlevania: Lament of Innocence",
     "wiki_title": null,
     "wiki_url": null,
     "redlink": null,
     "release_date": "October 21",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "PS2",
-      "handheld releases": "— N/a"
+      "platform": "PS2"
     },
     "platforms": [
       "PlayStation 2"
@@ -4382,16 +3923,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Teenage Mutant Ninja Turtles",
     "wiki_title": "Teenage Mutant Ninja Turtles (2003 video game)",
     "wiki_url": "https://en.wikipedia.org/wiki/Teenage_Mutant_Ninja_Turtles_(2003_video_game)",
     "redlink": false,
     "release_date": "October 21",
     "platform_breakdown": {
-      "computer releases": "WIN",
-      "console releases": "GCN, PS2, XB",
-      "handheld releases": "— N/a"
+      "platform": "WIN, GCN, PS2, XB"
     },
     "platforms": [
       "Windows",
@@ -4402,16 +3941,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Time Crisis 3",
     "wiki_title": "Time Crisis 3",
     "wiki_url": "https://en.wikipedia.org/wiki/Time_Crisis_3",
     "redlink": false,
     "release_date": "October 21",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "PS2",
-      "handheld releases": "— N/a"
+      "platform": "PS2"
     },
     "platforms": [
       "PlayStation 2"
@@ -4419,16 +3956,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "SeaWorld Adventure Parks Tycoon",
     "wiki_title": "SeaWorld Adventure Parks Tycoon",
     "wiki_url": "https://en.wikipedia.org/wiki/SeaWorld_Adventure_Parks_Tycoon",
     "redlink": false,
     "release_date": "October 22",
     "platform_breakdown": {
-      "computer releases": "WIN",
-      "console releases": "— N/a",
-      "handheld releases": "— N/a"
+      "platform": "WIN"
     },
     "platforms": [
       "Windows"
@@ -4436,16 +3971,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "The Hobbit",
     "wiki_title": "The Hobbit (2003 video game)",
     "wiki_url": "https://en.wikipedia.org/wiki/The_Hobbit_(2003_video_game)",
     "redlink": false,
     "release_date": "October 24",
     "platform_breakdown": {
-      "computer releases": "WIN",
-      "console releases": "GCN, PS2, XB",
-      "handheld releases": "— N/a"
+      "platform": "WIN, GCN, PS2, XB"
     },
     "platforms": [
       "Game Boy Advance",
@@ -4457,16 +3990,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Super Duper Sumos",
     "wiki_title": "Super Duper Sumos",
     "wiki_url": "https://en.wikipedia.org/wiki/Super_Duper_Sumos",
     "redlink": false,
     "release_date": "October 26",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "— N/a",
-      "handheld releases": "GBA"
+      "platform": "GBA"
     },
     "platforms": [
       "Game Boy Advance"
@@ -4474,16 +4005,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Spyro: Attack of the Rhynocs",
     "wiki_title": null,
     "wiki_url": null,
     "redlink": null,
     "release_date": "October 27",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "— N/a",
-      "handheld releases": "GBA"
+      "platform": "GBA"
     },
     "platforms": [
       "Game Boy Advance"
@@ -4491,16 +4020,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "WWE SmackDown! Here Comes the Pain",
     "wiki_title": "WWE SmackDown! Here Comes the Pain",
     "wiki_url": "https://en.wikipedia.org/wiki/WWE_SmackDown!_Here_Comes_the_Pain",
     "redlink": false,
     "release_date": "October 27",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "PS2",
-      "handheld releases": "— N/a"
+      "platform": "PS2"
     },
     "platforms": [
       "PlayStation 2"
@@ -4508,16 +4035,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Amped 2",
     "wiki_title": "Amped 2",
     "wiki_url": "https://en.wikipedia.org/wiki/Amped_2",
     "redlink": false,
     "release_date": "October 28",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "XB",
-      "handheld releases": "— N/a"
+      "platform": "XB"
     },
     "platforms": [
       "Xbox"
@@ -4525,16 +4050,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Dragon Ball Z: Budokai",
     "wiki_title": null,
     "wiki_url": null,
     "redlink": null,
     "release_date": "October 28",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "GCN",
-      "handheld releases": "— N/a"
+      "platform": "GCN"
     },
     "platforms": [
       "GameCube"
@@ -4542,16 +4065,15 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Final Fantasy XI",
     "wiki_title": "Final Fantasy XI",
     "wiki_url": "https://en.wikipedia.org/wiki/Final_Fantasy_XI",
     "redlink": false,
+    "region": "NA",
     "release_date": "October 28",
     "platform_breakdown": {
-      "computer releases": "WIN (US)",
-      "console releases": "— N/a",
-      "handheld releases": "— N/a"
+      "platform": "WIN"
     },
     "platforms": [
       "Windows"
@@ -4559,16 +4081,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Harry Potter: Quidditch World Cup",
     "wiki_title": null,
     "wiki_url": null,
     "redlink": null,
     "release_date": "October 28",
     "platform_breakdown": {
-      "computer releases": "WIN",
-      "console releases": "GCN, PS2, XB",
-      "handheld releases": "GBA"
+      "platform": "WIN, GCN, PS2, XB, GBA"
     },
     "platforms": [
       "Windows",
@@ -4580,16 +4100,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "SWAT: Global Strike Team",
     "wiki_title": null,
     "wiki_url": null,
     "redlink": null,
     "release_date": "October 28",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "PS2, XB",
-      "handheld releases": "— N/a"
+      "platform": "PS2, XB"
     },
     "platforms": [
       "PlayStation 2",
@@ -4598,16 +4116,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "SpongeBob SquarePants: Battle for Bikini Bottom",
     "wiki_title": null,
     "wiki_url": null,
     "redlink": null,
     "release_date": "October 29",
     "platform_breakdown": {
-      "computer releases": "WIN",
-      "console releases": "GCN, PS2, XB",
-      "handheld releases": "GBA"
+      "platform": "WIN, GCN, PS2, XB, GBA"
     },
     "platforms": [
       "Windows",
@@ -4619,33 +4135,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
-    "title": "Grand Theft Auto III",
-    "wiki_title": "Grand Theft Auto III",
-    "wiki_url": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_III",
-    "redlink": false,
-    "release_date": "October 31",
-    "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "XB",
-      "handheld releases": "— N/a"
-    },
-    "platforms": [
-      "Xbox"
-    ]
-  },
-  {
-    "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "The Lord of the Rings: The Return of the King",
     "wiki_title": null,
     "wiki_url": null,
     "redlink": null,
     "release_date": "November 3",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "GCN, XB",
-      "handheld releases": "GBA"
+      "platform": "GCN, XB, GBA"
     },
     "platforms": [
       "Windows",
@@ -4657,16 +4154,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "True Crime: Streets of LA",
     "wiki_title": null,
     "wiki_url": null,
     "redlink": null,
     "release_date": "November 3",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "PS2, XB, GCN",
-      "handheld releases": "— N/a"
+      "platform": "PS2, XB, GCN"
     },
     "platforms": [
       "PlayStation 2",
@@ -4676,16 +4171,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Civilization III: Conquests",
     "wiki_title": null,
     "wiki_url": null,
     "redlink": null,
     "release_date": "November 4",
     "platform_breakdown": {
-      "computer releases": "WIN",
-      "console releases": "— N/a",
-      "handheld releases": "— N/a"
+      "platform": "WIN"
     },
     "platforms": [
       "Windows"
@@ -4693,16 +4186,29 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
+    "title": "Grand Theft Auto III",
+    "wiki_title": "Grand Theft Auto III",
+    "wiki_url": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_III",
+    "redlink": false,
+    "release_date": "November 4",
+    "platform_breakdown": {
+      "platform": "XB"
+    },
+    "platforms": [
+      "Xbox"
+    ]
+  },
+  {
+    "year": 2003,
+    "section": "Games released in 2003",
     "title": "SOCOM II U.S. Navy SEALs",
     "wiki_title": "SOCOM II U.S. Navy SEALs",
     "wiki_url": "https://en.wikipedia.org/wiki/SOCOM_II_U.S._Navy_SEALs",
     "redlink": false,
     "release_date": "November 4",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "PS2",
-      "handheld releases": "— N/a"
+      "platform": "PS2"
     },
     "platforms": [
       "PlayStation 2"
@@ -4710,16 +4216,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Yu-Gi-Oh! The Falsebound Kingdom",
     "wiki_title": "Yu-Gi-Oh! The Falsebound Kingdom",
     "wiki_url": "https://en.wikipedia.org/wiki/Yu-Gi-Oh!_The_Falsebound_Kingdom",
     "redlink": false,
     "release_date": "November 4",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "GCN",
-      "handheld releases": "— N/a"
+      "platform": "GCN"
     },
     "platforms": [
       "GameCube"
@@ -4727,16 +4231,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Sphinx and the Cursed Mummy",
     "wiki_title": "Sphinx and the Cursed Mummy",
     "wiki_url": "https://en.wikipedia.org/wiki/Sphinx_and_the_Cursed_Mummy",
     "redlink": false,
     "release_date": "November 10",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "GCN, PS2, XB",
-      "handheld releases": "— N/a"
+      "platform": "GCN, PS2, XB"
     },
     "platforms": [
       "GameCube",
@@ -4746,16 +4248,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Looney Tunes: Back in Action",
     "wiki_title": null,
     "wiki_url": null,
     "redlink": null,
     "release_date": "November 11",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "— N/a",
-      "handheld releases": "GBA"
+      "platform": "GBA"
     },
     "platforms": [
       "Game Boy Advance"
@@ -4763,16 +4263,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Mario Party 5",
     "wiki_title": "Mario Party 5",
     "wiki_url": "https://en.wikipedia.org/wiki/Mario_Party_5",
     "redlink": false,
     "release_date": "November 11",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "GCN",
-      "handheld releases": "— N/a"
+      "platform": "GCN"
     },
     "platforms": [
       "GameCube"
@@ -4780,16 +4278,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Medal of Honor: Rising Sun",
     "wiki_title": null,
     "wiki_url": null,
     "redlink": null,
     "release_date": "November 11",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "PS2, XB, GCN",
-      "handheld releases": "— N/a"
+      "platform": "PS2, XB, GCN"
     },
     "platforms": [
       "PlayStation 2",
@@ -4799,16 +4295,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Muppets Party Cruise",
     "wiki_title": "Muppets Party Cruise",
     "wiki_url": "https://en.wikipedia.org/wiki/Muppets_Party_Cruise",
     "redlink": false,
     "release_date": "November 11",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "PS2",
-      "handheld releases": "— N/a"
+      "platform": "PS2"
     },
     "platforms": [
       "GameCube",
@@ -4817,16 +4311,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Onimusha Tactics",
     "wiki_title": "Onimusha Tactics",
     "wiki_url": "https://en.wikipedia.org/wiki/Onimusha_Tactics",
     "redlink": false,
     "release_date": "November 11",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "— N/a",
-      "handheld releases": "GBA"
+      "platform": "GBA"
     },
     "platforms": [
       "Game Boy Advance"
@@ -4834,16 +4326,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Uru: Ages Beyond Myst",
     "wiki_title": null,
     "wiki_url": null,
     "redlink": null,
     "release_date": "November 11",
     "platform_breakdown": {
-      "computer releases": "WIN",
-      "console releases": "— N/a",
-      "handheld releases": "— N/a"
+      "platform": "WIN"
     },
     "platforms": [
       "Windows"
@@ -4851,16 +4341,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Legacy of Kain: Defiance",
     "wiki_title": null,
     "wiki_url": null,
     "redlink": null,
     "release_date": "November 11",
     "platform_breakdown": {
-      "computer releases": "WIN",
-      "console releases": "PS2, XB",
-      "handheld releases": "— N/a"
+      "platform": "WIN, PS2, XB"
     },
     "platforms": [
       "Windows",
@@ -4870,16 +4358,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Disney's Magical Quest 2 Starring Mickey & Minnie",
     "wiki_title": "Disney's Magical Quest 2 Starring Mickey & Minnie",
     "wiki_url": "https://en.wikipedia.org/wiki/Disney%27s_Magical_Quest_2_Starring_Mickey_%26_Minnie",
     "redlink": false,
     "release_date": "November 12",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "— N/a",
-      "handheld releases": "GBA"
+      "platform": "GBA"
     },
     "platforms": [
       "Game Boy Advance"
@@ -4887,16 +4373,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Double Dragon Advance",
     "wiki_title": "Double Dragon Advance",
     "wiki_url": "https://en.wikipedia.org/wiki/Double_Dragon_Advance",
     "redlink": false,
     "release_date": "November 13",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "— N/a",
-      "handheld releases": "GBA"
+      "platform": "GBA"
     },
     "platforms": [
       "Game Boy Advance"
@@ -4904,16 +4388,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Monster Rancher 4",
     "wiki_title": "Monster Rancher 4",
     "wiki_url": "https://en.wikipedia.org/wiki/Monster_Rancher_4",
     "redlink": false,
     "release_date": "November 13",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "PS2",
-      "handheld releases": "— N/a"
+      "platform": "PS2"
     },
     "platforms": [
       "PlayStation 2"
@@ -4921,16 +4403,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
-    "title": "Broken Sword: The Sleeping Dragon [ 46 ]",
+    "section": "Games released in 2003",
+    "title": "Broken Sword: The Sleeping Dragon",
     "wiki_title": null,
     "wiki_url": null,
     "redlink": null,
     "release_date": "November 14",
     "platform_breakdown": {
-      "computer releases": "WIN",
-      "console releases": "PS2, XB",
-      "handheld releases": "— N/a"
+      "platform": "WIN, PS2, XB"
     },
     "platforms": [
       "Windows",
@@ -4940,16 +4420,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Crash Nitro Kart",
     "wiki_title": "Crash Nitro Kart",
     "wiki_url": "https://en.wikipedia.org/wiki/Crash_Nitro_Kart",
     "redlink": false,
     "release_date": "November 15",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "PS2, XB, GCN",
-      "handheld releases": "GBA, NGE"
+      "platform": "PS2, XB, GCN, GBA, NGE"
     },
     "platforms": [
       "PlayStation 2",
@@ -4961,16 +4439,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Harvest Moon: Friends of Mineral Town",
     "wiki_title": null,
     "wiki_url": null,
     "redlink": null,
     "release_date": "November 17",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "— N/a",
-      "handheld releases": "GBA"
+      "platform": "GBA"
     },
     "platforms": [
       "Game Boy Advance"
@@ -4978,33 +4454,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
-    "title": "The Legend of Zelda: Collector's Edition",
-    "wiki_title": null,
-    "wiki_url": null,
-    "redlink": null,
-    "release_date": "November 17",
-    "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "GCN",
-      "handheld releases": "— N/a"
-    },
-    "platforms": [
-      "GameCube"
-    ]
-  },
-  {
-    "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Mario Kart: Double Dash",
     "wiki_title": null,
     "wiki_url": null,
     "redlink": null,
     "release_date": "November 17",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "GCN",
-      "handheld releases": "— N/a"
+      "platform": "GCN"
     },
     "platforms": [
       "GameCube"
@@ -5012,16 +4469,15 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
-    "title": "Need for Speed: Underground (North America)",
+    "section": "Games released in 2003",
+    "title": "Need for Speed: Underground",
     "wiki_title": null,
     "wiki_url": null,
     "redlink": null,
+    "region": "NA",
     "release_date": "November 17",
     "platform_breakdown": {
-      "computer releases": "WIN",
-      "console releases": "GCN, PS2, XB",
-      "handheld releases": "— N/a"
+      "platform": "WIN, GCN, PS2, XB"
     },
     "platforms": [
       "Windows",
@@ -5032,16 +4488,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "America's 10 Most Wanted",
     "wiki_title": "America's 10 Most Wanted",
     "wiki_url": "https://en.wikipedia.org/wiki/America%27s_10_Most_Wanted",
     "redlink": false,
     "release_date": "November 18",
     "platform_breakdown": {
-      "computer releases": "WIN",
-      "console releases": "PS2",
-      "handheld releases": "— N/a"
+      "platform": "WIN, PS2"
     },
     "platforms": [
       "Windows",
@@ -5050,33 +4504,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
-    "title": "Counter-Strike",
-    "wiki_title": "Counter-Strike (video game)",
-    "wiki_url": "https://en.wikipedia.org/wiki/Counter-Strike_(video_game)",
-    "redlink": false,
-    "release_date": "November 18",
-    "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "XB",
-      "handheld releases": "— N/a"
-    },
-    "platforms": [
-      "Xbox"
-    ]
-  },
-  {
-    "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Go! Go! Hypergrind",
     "wiki_title": "Go! Go! Hypergrind",
     "wiki_url": "https://en.wikipedia.org/wiki/Go!_Go!_Hypergrind",
     "redlink": false,
     "release_date": "November 18",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "GCN",
-      "handheld releases": "— N/a"
+      "platform": "GCN"
     },
     "platforms": [
       "GameCube"
@@ -5084,16 +4519,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Kya: Dark Lineage",
     "wiki_title": null,
     "wiki_url": null,
     "redlink": null,
     "release_date": "November 18",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "PS2",
-      "handheld releases": "— N/a"
+      "platform": "PS2"
     },
     "platforms": [
       "PlayStation 2"
@@ -5101,16 +4534,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Final Fantasy X-2",
     "wiki_title": "Final Fantasy X-2",
     "wiki_url": "https://en.wikipedia.org/wiki/Final_Fantasy_X-2",
     "redlink": false,
     "release_date": "November 18",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "PS2",
-      "handheld releases": "— N/a"
+      "platform": "PS2"
     },
     "platforms": [
       "PlayStation 2"
@@ -5118,16 +4549,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Manhunt",
     "wiki_title": "Manhunt (video game)",
     "wiki_url": "https://en.wikipedia.org/wiki/Manhunt_(video_game)",
     "redlink": false,
     "release_date": "November 18",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "PS2",
-      "handheld releases": "— N/a"
+      "platform": "PS2"
     },
     "platforms": [
       "PlayStation 2"
@@ -5135,16 +4564,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Metal Arms: Glitch in the System",
     "wiki_title": null,
     "wiki_url": null,
     "redlink": null,
     "release_date": "November 18",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "PS2, XB",
-      "handheld releases": "— N/a"
+      "platform": "PS2, XB"
     },
     "platforms": [
       "PlayStation 2",
@@ -5153,16 +4580,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Space Channel 5 Special Edition",
     "wiki_title": "Space Channel 5",
     "wiki_url": "https://en.wikipedia.org/wiki/Space_Channel_5",
     "redlink": false,
     "release_date": "November 18",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "PS2",
-      "handheld releases": "— N/a"
+      "platform": "PS2"
     },
     "platforms": [
       "PlayStation 2"
@@ -5170,16 +4595,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Spy Muppets: License to Croak",
     "wiki_title": null,
     "wiki_url": null,
     "redlink": null,
     "release_date": "November 18",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "— N/a",
-      "handheld releases": "GBA"
+      "platform": "GBA"
     },
     "platforms": [
       "Game Boy Advance"
@@ -5187,16 +4610,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Star Wars: Flight of the Falcon",
     "wiki_title": null,
     "wiki_url": null,
     "redlink": null,
     "release_date": "November 18",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "— N/a",
-      "handheld releases": "GBA"
+      "platform": "GBA"
     },
     "platforms": [
       "Game Boy Advance"
@@ -5204,16 +4625,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "The Fairly OddParents: Breakin' da Rules",
     "wiki_title": null,
     "wiki_url": null,
     "redlink": null,
     "release_date": "November 18",
     "platform_breakdown": {
-      "computer releases": "WIN",
-      "console releases": "GCN, PS2, XB",
-      "handheld releases": "GBA"
+      "platform": "WIN, GCN, PS2, XB, GBA"
     },
     "platforms": [
       "Windows",
@@ -5225,16 +4644,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Tonka: Rescue Patrol",
     "wiki_title": null,
     "wiki_url": null,
     "redlink": null,
     "release_date": "November 18",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "GCN",
-      "handheld releases": "— N/a"
+      "platform": "GCN"
     },
     "platforms": [
       "GameCube"
@@ -5242,16 +4659,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Victoria: An Empire Under the Sun",
     "wiki_title": null,
     "wiki_url": null,
     "redlink": null,
     "release_date": "November 18",
     "platform_breakdown": {
-      "computer releases": "WIN",
-      "console releases": "— N/a",
-      "handheld releases": "— N/a"
+      "platform": "WIN"
     },
     "platforms": [
       "Windows"
@@ -5259,16 +4674,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Whiplash",
     "wiki_title": "Whiplash (video game)",
     "wiki_url": "https://en.wikipedia.org/wiki/Whiplash_(video_game)",
     "redlink": false,
     "release_date": "November 18",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "PS2, XB",
-      "handheld releases": "— N/a"
+      "platform": "PS2, XB"
     },
     "platforms": [
       "PlayStation 2",
@@ -5277,16 +4690,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "XIII",
     "wiki_title": "XIII (video game)",
     "wiki_url": "https://en.wikipedia.org/wiki/XIII_(video_game)",
     "redlink": false,
     "release_date": "November 18",
     "platform_breakdown": {
-      "computer releases": "WIN",
-      "console releases": "GCN, PS2, XB",
-      "handheld releases": "— N/a"
+      "platform": "WIN, GCN, PS2, XB"
     },
     "platforms": [
       "Windows",
@@ -5297,16 +4708,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Mysterious Journey II",
     "wiki_title": "Mysterious Journey II",
     "wiki_url": "https://en.wikipedia.org/wiki/Mysterious_Journey_II",
     "redlink": false,
     "release_date": "November 25",
     "platform_breakdown": {
-      "computer releases": "WIN",
-      "console releases": "— N/a",
-      "handheld releases": "— N/a"
+      "platform": "WIN"
     },
     "platforms": [
       "Windows"
@@ -5314,16 +4723,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "BlowOut",
     "wiki_title": "BlowOut",
     "wiki_url": "https://en.wikipedia.org/wiki/BlowOut",
     "redlink": false,
     "release_date": "November 26",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "GCN, XB",
-      "handheld releases": "— N/a"
+      "platform": "GCN, XB"
     },
     "platforms": [
       "GameCube",
@@ -5332,16 +4739,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
-    "title": "SpellForce: The Order of Dawn [ 47 ]",
+    "section": "Games released in 2003",
+    "title": "SpellForce: The Order of Dawn",
     "wiki_title": null,
     "wiki_url": null,
     "redlink": null,
     "release_date": "November 28",
     "platform_breakdown": {
-      "computer releases": "WIN",
-      "console releases": "— N/a",
-      "handheld releases": "— N/a"
+      "platform": "WIN"
     },
     "platforms": [
       "Windows"
@@ -5349,16 +4754,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "1080° Avalanche",
     "wiki_title": "1080° Avalanche",
     "wiki_url": "https://en.wikipedia.org/wiki/1080%C2%B0_Avalanche",
     "redlink": false,
     "release_date": "December 1",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "GCN",
-      "handheld releases": "— N/a"
+      "platform": "GCN"
     },
     "platforms": [
       "GameCube"
@@ -5366,16 +4769,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Armed and Dangerous",
     "wiki_title": "Armed and Dangerous (video game)",
     "wiki_url": "https://en.wikipedia.org/wiki/Armed_and_Dangerous_(video_game)",
     "redlink": false,
     "release_date": "December 2",
     "platform_breakdown": {
-      "computer releases": "WIN",
-      "console releases": "XB",
-      "handheld releases": "— N/a"
+      "platform": "WIN, XB"
     },
     "platforms": [
       "Windows",
@@ -5384,16 +4785,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Deus Ex: Invisible War",
     "wiki_title": null,
     "wiki_url": null,
     "redlink": null,
     "release_date": "December 2",
     "platform_breakdown": {
-      "computer releases": "WIN",
-      "console releases": "XB",
-      "handheld releases": "— N/a"
+      "platform": "WIN, XB"
     },
     "platforms": [
       "Windows",
@@ -5402,16 +4801,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Mission: Impossible – Operation Surma",
     "wiki_title": null,
     "wiki_url": null,
     "redlink": null,
     "release_date": "December 2",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "PS2",
-      "handheld releases": "— N/a"
+      "platform": "PS2"
     },
     "platforms": [
       "Xbox",
@@ -5421,16 +4818,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Pac-Man Vs.",
     "wiki_title": "Pac-Man Vs.",
     "wiki_url": "https://en.wikipedia.org/wiki/Pac-Man_Vs.",
     "redlink": false,
     "release_date": "December 2",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "GCN",
-      "handheld releases": "— N/a"
+      "platform": "GCN"
     },
     "platforms": [
       "GameCube"
@@ -5438,16 +4833,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "The Sims Bustin' Out",
     "wiki_title": "The Sims Bustin' Out",
     "wiki_url": "https://en.wikipedia.org/wiki/The_Sims_Bustin%27_Out",
     "redlink": false,
     "release_date": "December 2",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "— N/a",
-      "handheld releases": "GBA"
+      "platform": "GBA"
     },
     "platforms": [
       "Game Boy Advance"
@@ -5455,16 +4848,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Gotcha Force",
     "wiki_title": "Gotcha Force",
     "wiki_url": "https://en.wikipedia.org/wiki/Gotcha_Force",
     "redlink": false,
     "release_date": "December 3",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "GCN",
-      "handheld releases": "— N/a"
+      "platform": "GCN"
     },
     "platforms": [
       "GameCube"
@@ -5472,33 +4863,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
-    "title": "Counter-Strike (EU)",
-    "wiki_title": "Counter-Strike (video game)",
-    "wiki_url": "https://en.wikipedia.org/wiki/Counter-Strike_(video_game)",
-    "redlink": false,
-    "release_date": "December 5",
-    "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "XB",
-      "handheld releases": "— N/a"
-    },
-    "platforms": [
-      "Xbox"
-    ]
-  },
-  {
-    "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Sonic Heroes",
     "wiki_title": "Sonic Heroes",
     "wiki_url": "https://en.wikipedia.org/wiki/Sonic_Heroes",
     "redlink": false,
     "release_date": "December 4",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "PS2, XB, GCN",
-      "handheld releases": "— N/a"
+      "platform": "PS2, XB, GCN"
     },
     "platforms": [
       "PlayStation 2",
@@ -5508,16 +4880,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Crouching Tiger, Hidden Dragon",
     "wiki_title": "Crouching Tiger, Hidden Dragon (video game)",
     "wiki_url": "https://en.wikipedia.org/wiki/Crouching_Tiger,_Hidden_Dragon_(video_game)",
     "redlink": false,
     "release_date": "December 9",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "XB",
-      "handheld releases": "— N/a"
+      "platform": "XB"
     },
     "platforms": [
       "Xbox"
@@ -5525,16 +4895,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Fatal Frame II: Crimson Butterfly",
     "wiki_title": null,
     "wiki_url": null,
     "redlink": null,
     "release_date": "December 10",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "PS2",
-      "handheld releases": "— N/a"
+      "platform": "PS2"
     },
     "platforms": [
       "PlayStation 2"
@@ -5542,16 +4910,14 @@
   },
   {
     "year": 2003,
-    "section": "Notable releases",
+    "section": "Games released in 2003",
     "title": "Medabots Infinity",
     "wiki_title": "Medabots Infinity",
     "wiki_url": "https://en.wikipedia.org/wiki/Medabots_Infinity",
     "redlink": false,
     "release_date": "December 14",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "GCN",
-      "handheld releases": "— N/a"
+      "platform": "GCN"
     },
     "platforms": [
       "GameCube"

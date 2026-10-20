@@ -2,7 +2,7 @@
 
 [← Back to index](../README.md)
 
-43 titles across 17 years in this archive.
+42 titles across 16 years in this archive.
 
 ## 2026
 
@@ -117,20 +117,6 @@
 ## 2023
 
 [Full 2023 page](../years/2023.md)
-
-### Backpack Hero
-
-<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co7dfh.jpg" alt="Backpack Hero cover" width="200">
-
-**Platforms:** Nintendo Switch, Linux, macOS, Windows, Browser &nbsp;|&nbsp; **Developer:** TheJaspel &nbsp;|&nbsp; **Publisher:** TheJaspel, Different Tales, IndieArk &nbsp;|&nbsp; **Genre:** Fighting, Puzzle, Role-playing (RPG), Strategy, Turn-based strategy (TBS), Adventure, Indie, Card & Board Game &nbsp;|&nbsp; **Released:** November 14, 2023
-
-> Backpack Hero is the inventory management roguelike! Collect rare items, organize your bag, and vanquish your foes!
->
-> _Synopsis source: IGDB_
-
-[IGDB](https://www.igdb.com/games/backpack-hero)
-
----
 
 ### Loaded Lions: Mane City
 
@@ -291,6 +277,12 @@
 > _Synopsis source: IGDB_
 
 [IGDB](https://www.igdb.com/games/town-star)
+
+---
+
+### Vampire: The Masquerade – Night Road
+
+**Platforms:** Windows, macOS, Linux, iOS, Android, Browser &nbsp;|&nbsp; **Publisher:** Choice of Games &nbsp;|&nbsp; **Genre:** Interactive fiction &nbsp;|&nbsp; **Released:** September 24
 
 ---
 
@@ -560,17 +552,11 @@
 
 ---
 
-### Gods Will Be Watching
+### No One Has to Die
 
-<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2h1o.jpg" alt="Gods Will Be Watching cover" width="200">
+**Platforms:** Browser &nbsp;|&nbsp; **Genre:** Puzzle &nbsp;|&nbsp; **Released:** April 20
 
-**Platforms:** Browser &nbsp;|&nbsp; **Developer:** Deconstructeam &nbsp;|&nbsp; **Publisher:** Devolver Digital &nbsp;|&nbsp; **Genre:** Point-and-click, Puzzle, Strategy, Turn-based strategy (TBS), Adventure, Indie &nbsp;|&nbsp; **Released:** April 30, 2013
-
-> Gods Will Be Watching is a minimalistic “point and click thriller” centered on despair, commitment, and sacrifice as players face narrative puzzles and moral dilemmas that will affect both the lives of your team and the people you’re are sworn to protect.  Set against the backdrop of an interstellar struggle, Gods Will Be Watching follows Sgt. Burden and his crew in six tense chapters from hostage situations and wilderness survival to biological weapon prevention and agonizing torture scenarios. Each decision is crucial and players will need to choose between the lives of their team and the saving the world from genocide. There's no good or evil, just decisions, with only you and the gods as a judge to your actions.
->
-> _Synopsis source: IGDB_
-
-[IGDB](https://www.igdb.com/games/gods-will-be-watching)
+[Wikipedia](https://en.wikipedia.org/wiki/No_One_Has_to_Die)
 
 ---
 
@@ -585,24 +571,6 @@
 > _Synopsis source: IGDB_
 
 [IGDB](https://www.igdb.com/games/tagpro)
-
----
-
-## 2012
-
-[Full 2012 page](../years/2012.md)
-
-### Plague Inc.
-
-<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2qyq.jpg" alt="Plague Inc. cover" width="200">
-
-**Platforms:** Android, iOS, Browser &nbsp;|&nbsp; **Developer:** Ndemic Creations &nbsp;|&nbsp; **Publisher:** Ndemic Creations &nbsp;|&nbsp; **Genre:** Real Time Strategy (RTS), Simulator, Strategy, Tactical &nbsp;|&nbsp; **Released:** May 26, 2012
-
-> As a new disease, it is your job to destroy the entire human species by evolving to a deadly plague.
->
-> _Synopsis source: IGDB_
-
-[IGDB](https://www.igdb.com/games/plague-inc)
 
 ---
 

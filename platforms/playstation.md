@@ -90,6 +90,14 @@
 
 ---
 
+### Final Fantasy Origins
+
+**Platforms:** PlayStation &nbsp;|&nbsp; **Developer:** Squaresoft &nbsp;|&nbsp; **Publisher:** Square &nbsp;|&nbsp; **Genre:** Role-playing &nbsp;|&nbsp; **Released:** October 31
+
+[Wikipedia](https://en.wikipedia.org/wiki/Final_Fantasy_Origins)
+
+---
+
 ### Harry Potter and the Chamber of Secrets
 
 **Platforms:** Windows, PlayStation, PlayStation 2, Xbox, GameCube, Game Boy Color, Game Boy Advance &nbsp;|&nbsp; **Released:** November 15
@@ -172,7 +180,7 @@
 
 ### Final Fantasy IX
 
-**Platforms:** PlayStation &nbsp;|&nbsp; **Released:** February 16
+**Platforms:** PlayStation &nbsp;|&nbsp; **Released:** February 16 (EU)
 
 [Wikipedia](https://en.wikipedia.org/wiki/Final_Fantasy_IX)
 
@@ -228,7 +236,7 @@
 
 ### Mr. Driller G
 
-**Platforms:** PlayStation &nbsp;|&nbsp; **Released:** November 22
+**Platforms:** PlayStation &nbsp;|&nbsp; **Released:** November 22 (JP)
 
 [Wikipedia](https://en.wikipedia.org/wiki/Mr._Driller_G)
 
@@ -356,9 +364,9 @@
 
 ---
 
-### Dragon Quest VII (Japan)
+### Dragon Quest VII
 
-**Platforms:** PlayStation &nbsp;|&nbsp; **Released:** August 26
+**Platforms:** PlayStation &nbsp;|&nbsp; **Released:** August 26 (JP)
 
 [Wikipedia](https://en.wikipedia.org/wiki/Dragon_Quest_VII)
 
@@ -612,15 +620,7 @@
 
 ### Chrono Cross
 
-**Platforms:** PlayStation &nbsp;|&nbsp; **Publisher:** Square &nbsp;|&nbsp; **Released:** November 18, 1999
-
-[Wikipedia](https://en.wikipedia.org/wiki/Chrono_Cross)
-
----
-
-### Chrono Cross (Japan)
-
-**Platforms:** PlayStation &nbsp;|&nbsp; **Released:** November 18
+**Platforms:** PlayStation &nbsp;|&nbsp; **Publisher:** Square &nbsp;|&nbsp; **Released:** November 18, 1999 (JP)
 
 [Wikipedia](https://en.wikipedia.org/wiki/Chrono_Cross)
 
@@ -912,9 +912,9 @@
 
 ---
 
-### The Legend of Dragoon (Japan)
+### The Legend of Dragoon
 
-**Platforms:** PlayStation &nbsp;|&nbsp; **Released:** December 2
+**Platforms:** PlayStation &nbsp;|&nbsp; **Released:** December 2 (JP)
 
 [Wikipedia](https://en.wikipedia.org/wiki/The_Legend_of_Dragoon)
 
@@ -1252,7 +1252,7 @@
 
 <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co873w.jpg" alt="Crash Bandicoot: Warped cover" width="200">
 
-**Platforms:** PlayStation &nbsp;|&nbsp; **Publisher:** Sony Computer Entertainment &nbsp;|&nbsp; **Genre:** Platform, Adventure &nbsp;|&nbsp; **Released:** October 31, 1998
+**Platforms:** PlayStation &nbsp;|&nbsp; **Publisher:** Sony Computer Entertainment &nbsp;|&nbsp; **Genre:** Platform, Adventure &nbsp;|&nbsp; **Released:** November 3, 1998
 
 > Crash Bandicoot: Warped is the third game in the Crash Bandicoot series and the first to feature Coco as a playable character. The player takes control of Crash and Coco Bandicoot, who must travel back and forward in time and gather 25 crystals before Uka Uka and Doctor Neo Cortex can do so. Much of the game takes place in the Time Twister which acts as the hub area of the game. The Time-Twister is split up into five chambers, each chamber has five buttons that open portals to different levels. The goal in each level is to find and obtain the crystal hidden in the level. Crash Bandicoot: Warped was lauded by critics in many areas, and the game has been considered one of the best video games of all time.
 >

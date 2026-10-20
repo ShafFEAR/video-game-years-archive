@@ -12,10 +12,7 @@
     "gr score": "94.75%",
     "platform_breakdown": {
       "platform(s)": "WIN",
-      "computer releases": "WIN",
-      "console releases": "PS1, DC",
-      "handheld releases": "GBC",
-      "other releases": "— N/a"
+      "platform": "WIN, PS1, DC, GBC"
     },
     "platforms": [
       "PlayStation",
@@ -37,10 +34,7 @@
     "gr score": "94.55%",
     "platform_breakdown": {
       "platform(s)": "N64",
-      "computer releases": "— N/a",
-      "console releases": "N64",
-      "handheld releases": "— N/a",
-      "other releases": "— N/a"
+      "platform": "N64"
     },
     "platforms": [
       "Nintendo 64"
@@ -95,10 +89,7 @@
     "gr score": "93.97%",
     "platform_breakdown": {
       "platform(s)": "WIN",
-      "computer releases": "WIN",
-      "console releases": "— N/a",
-      "handheld releases": "— N/a",
-      "other releases": "— N/a"
+      "platform": "WIN"
     },
     "platforms": [
       "Windows"
@@ -117,10 +108,7 @@
     "gr score": "91.95%",
     "platform_breakdown": {
       "platform(s)": "N64",
-      "computer releases": "— N/a",
-      "console releases": "N64",
-      "handheld releases": "— N/a",
-      "other releases": "— N/a"
+      "platform": "N64"
     },
     "platforms": [
       "Nintendo 64"
@@ -139,10 +127,7 @@
     "gr score": "93.79%",
     "platform_breakdown": {
       "platform(s)": "DC",
-      "computer releases": "— N/a",
-      "console releases": "DC",
-      "handheld releases": "— N/a",
-      "other releases": "— N/a"
+      "platform": "DC"
     },
     "platforms": [
       "Dreamcast"
@@ -161,10 +146,7 @@
     "gr score": "92.72%",
     "platform_breakdown": {
       "platform(s)": "PS1",
-      "computer releases": "— N/a",
-      "console releases": "PS1",
-      "handheld releases": "— N/a",
-      "other releases": "— N/a"
+      "platform": "PS1"
     },
     "platforms": [
       "PlayStation"
@@ -183,10 +165,7 @@
     "gr score": "91.9%",
     "platform_breakdown": {
       "platform(s)": "DC",
-      "computer releases": "— N/a",
-      "console releases": "DC",
-      "handheld releases": "— N/a",
-      "other releases": "— N/a"
+      "platform": "DC"
     },
     "platforms": [
       "Dreamcast"
@@ -224,10 +203,7 @@
     "gr score": "93.05%",
     "platform_breakdown": {
       "platform(s)": "DC",
-      "computer releases": "— N/a",
-      "console releases": "DC",
-      "handheld releases": "— N/a",
-      "other releases": "— N/a"
+      "platform": "DC"
     },
     "platforms": [
       "Dreamcast"
@@ -246,10 +222,7 @@
     "gr score": "92.39%",
     "platform_breakdown": {
       "platform(s)": "PS2",
-      "computer releases": "— N/a",
-      "console releases": "PS2",
-      "handheld releases": "— N/a",
-      "other releases": "— N/a"
+      "platform": "PS2"
     },
     "platforms": [
       "PlayStation 2"
@@ -268,10 +241,7 @@
     "gr score": "90.59%",
     "platform_breakdown": {
       "platform(s)": "DC",
-      "computer releases": "— N/a",
-      "console releases": "DC",
-      "handheld releases": "— N/a",
-      "other releases": "— N/a"
+      "platform": "DC"
     },
     "platforms": [
       "Dreamcast"
@@ -322,8 +292,8 @@
     "redlink": false,
     "publisher": "Nintendo",
     "release_date": "August 11, 2000",
-    "mc score": "93/100 [ 42 ]",
-    "gr score": "88.81% [ 43 ]",
+    "mc score": "93/100",
+    "gr score": "88.81%",
     "platform_breakdown": {
       "platform(s)": "N64"
     },
@@ -344,10 +314,7 @@
     "gr score": "91.97%",
     "platform_breakdown": {
       "platform(s)": "PS1",
-      "computer releases": "— N/a",
-      "console releases": "PS1",
-      "handheld releases": "— N/a",
-      "other releases": "— N/a"
+      "platform": "PS1"
     },
     "platforms": [
       "PlayStation"
@@ -366,10 +333,7 @@
     "gr score": "89.74%",
     "platform_breakdown": {
       "platform(s)": "WIN, MAC",
-      "computer releases": "WIN, MAC",
-      "console releases": "— N/a",
-      "handheld releases": "— N/a",
-      "other releases": "— N/a"
+      "platform": "WIN, MAC"
     },
     "platforms": [
       "Windows",
@@ -389,10 +353,7 @@
     "gr score": "91.37%",
     "platform_breakdown": {
       "platform(s)": "DC",
-      "computer releases": "— N/a",
-      "console releases": "PS2",
-      "handheld releases": "— N/a",
-      "other releases": "— N/a"
+      "platform": "PS2"
     },
     "platforms": [
       "Dreamcast",
@@ -430,10 +391,7 @@
     "gr score": "91.31%",
     "platform_breakdown": {
       "platform(s)": "N64",
-      "computer releases": "— N/a",
-      "console releases": "N64",
-      "handheld releases": "— N/a",
-      "other releases": "— N/a"
+      "platform": "N64"
     },
     "platforms": [
       "Nintendo 64"
@@ -452,10 +410,7 @@
     "gr score": "91.03%",
     "platform_breakdown": {
       "platform(s)": "WIN, MAC",
-      "computer releases": "WIN, MAC",
-      "console releases": "— N/a",
-      "handheld releases": "— N/a",
-      "other releases": "— N/a"
+      "platform": "WIN, MAC"
     },
     "platforms": [
       "Windows",
@@ -475,10 +430,7 @@
     "gr score": "90.78%",
     "platform_breakdown": {
       "platform(s)": "N64",
-      "computer releases": "— N/a",
-      "console releases": "— N/a",
-      "handheld releases": "GBC",
-      "other releases": "— N/a"
+      "platform": "GBC"
     },
     "platforms": [
       "PlayStation 2",
@@ -500,10 +452,7 @@
     "gr score": "90.59%",
     "platform_breakdown": {
       "platform(s)": "PS1",
-      "computer releases": "— N/a",
-      "console releases": "PS1",
-      "handheld releases": "— N/a",
-      "other releases": "— N/a"
+      "platform": "PS1"
     },
     "platforms": [
       "PlayStation"
@@ -522,10 +471,7 @@
     "gr score": "88.34%",
     "platform_breakdown": {
       "platform(s)": "WIN",
-      "computer releases": "WIN",
-      "console releases": "— N/a",
-      "handheld releases": "— N/a",
-      "other releases": "— N/a"
+      "platform": "WIN"
     },
     "platforms": [
       "Windows"
@@ -543,7 +489,8 @@
     "mc score": "91/100",
     "gr score": "87.38%",
     "platform_breakdown": {
-      "platform(s)": "PS2"
+      "platform(s)": "PS2",
+      "platform": "PS2"
     },
     "platforms": [
       "PlayStation 2"
@@ -562,10 +509,7 @@
     "gr score": "87.32%",
     "platform_breakdown": {
       "platform(s)": "GBC",
-      "computer releases": "— N/a",
-      "console releases": "N64",
-      "handheld releases": "— N/a",
-      "other releases": "— N/a"
+      "platform": "N64"
     },
     "platforms": [
       "Nintendo 64",
@@ -603,10 +547,7 @@
     "gr score": "90.2%",
     "platform_breakdown": {
       "platform(s)": "GBC",
-      "computer releases": "— N/a",
-      "console releases": "— N/a",
-      "handheld releases": "GBC",
-      "other releases": "— N/a"
+      "platform": "GBC"
     },
     "platforms": [
       "Game Boy Color"
@@ -625,10 +566,7 @@
     "gr score": "90.19%",
     "platform_breakdown": {
       "platform(s)": "DC",
-      "computer releases": "— N/a",
-      "console releases": "DC",
-      "handheld releases": "— N/a",
-      "other releases": "— N/a"
+      "platform": "DC"
     },
     "platforms": [
       "Dreamcast"
@@ -683,10 +621,7 @@
     "gr score": "88.81%",
     "platform_breakdown": {
       "platform(s)": "DC",
-      "computer releases": "— N/a",
-      "console releases": "DC",
-      "handheld releases": "— N/a",
-      "other releases": "— N/a"
+      "platform": "DC"
     },
     "platforms": [
       "Dreamcast"
@@ -723,10 +658,7 @@
     "gr score": "86.75%",
     "platform_breakdown": {
       "platform(s)": "PS1",
-      "computer releases": "WIN",
-      "console releases": "PS2",
-      "handheld releases": "— N/a",
-      "other releases": "— N/a"
+      "platform": "WIN, PS2"
     },
     "platforms": [
       "Windows",
@@ -743,8 +675,8 @@
     "redlink": null,
     "publisher": "Ubisoft",
     "release_date": "December 22, 2000",
-    "mc score": "90/100 [ 42 ]",
-    "gr score": "85.17% [ 43 ]",
+    "mc score": "90/100",
+    "gr score": "85.17%",
     "platform_breakdown": {
       "platform(s)": "PS2"
     },
@@ -765,10 +697,7 @@
     "gr score": "84.27%",
     "platform_breakdown": {
       "platform(s)": "PS1",
-      "computer releases": "— N/a",
-      "console releases": "PS1",
-      "handheld releases": "— N/a",
-      "other releases": "— N/a"
+      "platform": "PS1"
     },
     "platforms": [
       "PlayStation"
@@ -787,10 +716,7 @@
     "gr score": "90%",
     "platform_breakdown": {
       "platform(s)": "GBC",
-      "computer releases": "— N/a",
-      "console releases": "— N/a",
-      "handheld releases": "GBC",
-      "other releases": "— N/a"
+      "platform": "GBC"
     },
     "platforms": [
       "Game Boy Color"
@@ -805,14 +731,16 @@
     "redlink": false,
     "publisher": "Sega",
     "release_date": "December 21, 2000",
-    "mc score": "89/100 [ 42 ]",
-    "gr score": "89.88% [ 43 ]",
+    "mc score": "89/100",
+    "gr score": "89.88%",
     "platform_breakdown": {
-      "platform(s)": "DC"
+      "platform(s)": "DC",
+      "platform": "DC"
     },
     "platforms": [
       "Dreamcast"
-    ]
+    ],
+    "region": "JP"
   },
   {
     "year": 2000,
@@ -827,10 +755,7 @@
     "gr score": "89.53%",
     "platform_breakdown": {
       "platform(s)": "WIN",
-      "computer releases": "WIN",
-      "console releases": "— N/a",
-      "handheld releases": "— N/a",
-      "other releases": "— N/a"
+      "platform": "WIN"
     },
     "platforms": [
       "Windows"
@@ -848,7 +773,8 @@
     "mc score": "88/100",
     "gr score": "89.2%",
     "platform_breakdown": {
-      "platform(s)": "WIN"
+      "platform(s)": "WIN",
+      "platform": "WIN"
     },
     "platforms": [
       "Windows"
@@ -885,10 +811,7 @@
     "gr score": "89.11%",
     "platform_breakdown": {
       "platform(s)": "WIN",
-      "computer releases": "WIN",
-      "console releases": "— N/a",
-      "handheld releases": "— N/a",
-      "other releases": "— N/a"
+      "platform": "WIN"
     },
     "platforms": [
       "Windows"
@@ -925,10 +848,7 @@
     "gr score": "89.07%",
     "platform_breakdown": {
       "platform(s)": "N64",
-      "computer releases": "— N/a",
-      "console releases": "N64",
-      "handheld releases": "— N/a",
-      "other releases": "— N/a"
+      "platform": "N64"
     },
     "platforms": [
       "Nintendo 64"
@@ -947,10 +867,7 @@
     "gr score": "88.64%",
     "platform_breakdown": {
       "platform(s)": "WIN",
-      "computer releases": "WIN",
-      "console releases": "— N/a",
-      "handheld releases": "— N/a",
-      "other releases": "— N/a"
+      "platform": "WIN"
     },
     "platforms": [
       "Windows"
@@ -987,10 +904,7 @@
     "gr score": "85.27%",
     "platform_breakdown": {
       "platform(s)": "N64",
-      "computer releases": "— N/a",
-      "console releases": "N64",
-      "handheld releases": "— N/a",
-      "other releases": "— N/a"
+      "platform": "N64"
     },
     "platforms": [
       "Nintendo 64"
@@ -1005,8 +919,8 @@
     "redlink": false,
     "publisher": "Sega",
     "release_date": "November 3, 2000",
-    "mc score": "87/100 [ 42 ]",
-    "gr score": "88.59% [ 43 ]",
+    "mc score": "87/100",
+    "gr score": "88.59%",
     "platform_breakdown": {
       "platform(s)": "DC"
     },
@@ -1027,10 +941,7 @@
     "gr score": "88.58%",
     "platform_breakdown": {
       "platform(s)": "WIN, MAC",
-      "computer releases": "WIN, MAC",
-      "console releases": "— N/a",
-      "handheld releases": "— N/a",
-      "other releases": "— N/a"
+      "platform": "WIN, MAC"
     },
     "platforms": [
       "Windows",
@@ -1050,10 +961,7 @@
     "gr score": "88.08%",
     "platform_breakdown": {
       "platform(s)": "DC",
-      "computer releases": "WIN",
-      "console releases": "DC",
-      "handheld releases": "— N/a",
-      "other releases": "— N/a"
+      "platform": "WIN, DC"
     },
     "platforms": [
       "Dreamcast",
@@ -1188,17 +1096,14 @@
   },
   {
     "year": 2000,
-    "section": "Notable releases",
+    "section": "Games released in 2000",
     "title": "Mario Party 2",
     "wiki_title": "Mario Party 2",
     "wiki_url": "https://en.wikipedia.org/wiki/Mario_Party_2",
     "redlink": false,
     "release_date": "January 24",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "N64",
-      "handheld releases": "— N/a",
-      "other releases": "— N/a"
+      "platform": "N64"
     },
     "platforms": [
       "Nintendo 64"
@@ -1206,17 +1111,14 @@
   },
   {
     "year": 2000,
-    "section": "Notable releases",
+    "section": "Games released in 2000",
     "title": "Dragon Warrior Monsters",
     "wiki_title": "Dragon Warrior Monsters",
     "wiki_url": "https://en.wikipedia.org/wiki/Dragon_Warrior_Monsters",
     "redlink": false,
     "release_date": "January 27",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "— N/a",
-      "handheld releases": "GBC",
-      "other releases": "— N/a"
+      "platform": "GBC"
     },
     "platforms": [
       "Game Boy Color"
@@ -1224,17 +1126,14 @@
   },
   {
     "year": 2000,
-    "section": "Notable releases",
+    "section": "Games released in 2000",
     "title": "Nox",
     "wiki_title": "Nox (video game)",
     "wiki_url": "https://en.wikipedia.org/wiki/Nox_(video_game)",
     "redlink": false,
     "release_date": "January 31",
     "platform_breakdown": {
-      "computer releases": "WIN",
-      "console releases": "— N/a",
-      "handheld releases": "— N/a",
-      "other releases": "— N/a"
+      "platform": "WIN"
     },
     "platforms": [
       "Windows"
@@ -1242,17 +1141,14 @@
   },
   {
     "year": 2000,
-    "section": "Notable releases",
+    "section": "Games released in 2000",
     "title": "SNK Gals' Fighters",
     "wiki_title": "SNK Gals' Fighters",
     "wiki_url": "https://en.wikipedia.org/wiki/SNK_Gals%27_Fighters",
     "redlink": false,
     "release_date": "February 19",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "— N/a",
-      "handheld releases": "NGPC",
-      "other releases": "— N/a"
+      "platform": "NGPC"
     },
     "platforms": [
       "Neo Geo Pocket Color"
@@ -1260,17 +1156,14 @@
   },
   {
     "year": 2000,
-    "section": "Notable releases",
+    "section": "Games released in 2000",
     "title": "BattleSphere",
     "wiki_title": "BattleSphere",
     "wiki_url": "https://en.wikipedia.org/wiki/BattleSphere",
     "redlink": false,
     "release_date": "February 29",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "JAG",
-      "handheld releases": "— N/a",
-      "other releases": "— N/a"
+      "platform": "JAG"
     },
     "platforms": [
       "Atari Jaguar"
@@ -1278,17 +1171,14 @@
   },
   {
     "year": 2000,
-    "section": "Notable releases",
+    "section": "Games released in 2000",
     "title": "Need for Speed: Porsche Unleashed",
     "wiki_title": null,
     "wiki_url": null,
     "redlink": null,
     "release_date": "February 29",
     "platform_breakdown": {
-      "computer releases": "WIN",
-      "console releases": "PS1",
-      "handheld releases": "— N/a",
-      "other releases": "— N/a"
+      "platform": "WIN, PS1"
     },
     "platforms": [
       "Windows",
@@ -1297,17 +1187,29 @@
   },
   {
     "year": 2000,
-    "section": "Notable releases",
+    "section": "Games released in 2000",
+    "title": "Pokémon Stadium",
+    "wiki_title": "Pokémon Stadium",
+    "wiki_url": "https://en.wikipedia.org/wiki/Pok%C3%A9mon_Stadium",
+    "redlink": false,
+    "release_date": "February 29",
+    "platform_breakdown": {
+      "platform": "N64"
+    },
+    "platforms": [
+      "Nintendo 64"
+    ]
+  },
+  {
+    "year": 2000,
+    "section": "Games released in 2000",
     "title": "Sword of the Berserk: Guts' Rage",
     "wiki_title": null,
     "wiki_url": null,
     "redlink": null,
     "release_date": "February 29",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "DC",
-      "handheld releases": "— N/a",
-      "other releases": "— N/a"
+      "platform": "DC"
     },
     "platforms": [
       "Dreamcast"
@@ -1315,35 +1217,14 @@
   },
   {
     "year": 2000,
-    "section": "Notable releases",
-    "title": "Pokémon Stadium [ 83 ]",
-    "wiki_title": "Pokémon Stadium",
-    "wiki_url": "https://en.wikipedia.org/wiki/Pok%C3%A9mon_Stadium",
-    "redlink": false,
-    "release_date": "February 29",
-    "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "N64",
-      "handheld releases": "— N/a",
-      "other releases": "— N/a"
-    },
-    "platforms": [
-      "Nintendo 64"
-    ]
-  },
-  {
-    "year": 2000,
-    "section": "Notable releases",
+    "section": "Games released in 2000",
     "title": "WWF SmackDown!",
     "wiki_title": "WWF SmackDown! (video game)",
     "wiki_url": "https://en.wikipedia.org/wiki/WWF_SmackDown!_(video_game)",
     "redlink": false,
     "release_date": "March 2",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "PS1",
-      "handheld releases": "— N/a",
-      "other releases": "— N/a"
+      "platform": "PS1"
     },
     "platforms": [
       "PlayStation"
@@ -1351,17 +1232,14 @@
   },
   {
     "year": 2000,
-    "section": "Notable releases",
+    "section": "Games released in 2000",
     "title": "Kessen",
     "wiki_title": "Kessen",
     "wiki_url": "https://en.wikipedia.org/wiki/Kessen",
     "redlink": false,
     "release_date": "March 4",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "PS2",
-      "handheld releases": "— N/a",
-      "other releases": "— N/a"
+      "platform": "PS2"
     },
     "platforms": [
       "PlayStation 2"
@@ -1369,17 +1247,14 @@
   },
   {
     "year": 2000,
-    "section": "Notable releases",
+    "section": "Games released in 2000",
     "title": "Thief II: The Metal Age",
     "wiki_title": null,
     "wiki_url": null,
     "redlink": null,
     "release_date": "March 23",
     "platform_breakdown": {
-      "computer releases": "WIN",
-      "console releases": "— N/a",
-      "handheld releases": "— N/a",
-      "other releases": "— N/a"
+      "platform": "WIN"
     },
     "platforms": [
       "Windows"
@@ -1387,17 +1262,14 @@
   },
   {
     "year": 2000,
-    "section": "Notable releases",
+    "section": "Games released in 2000",
     "title": "Kirby 64: The Crystal Shards",
     "wiki_title": null,
     "wiki_url": null,
     "redlink": null,
     "release_date": "March 24",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "N64",
-      "handheld releases": "— N/a",
-      "other releases": "— N/a"
+      "platform": "N64"
     },
     "platforms": [
       "Nintendo 64"
@@ -1405,17 +1277,14 @@
   },
   {
     "year": 2000,
-    "section": "Notable releases",
+    "section": "Games released in 2000",
     "title": "Soldier of Fortune",
     "wiki_title": "Soldier of Fortune (video game)",
     "wiki_url": "https://en.wikipedia.org/wiki/Soldier_of_Fortune_(video_game)",
     "redlink": false,
     "release_date": "March 27",
     "platform_breakdown": {
-      "computer releases": "WIN",
-      "console releases": "— N/a",
-      "handheld releases": "— N/a",
-      "other releases": "— N/a"
+      "platform": "WIN"
     },
     "platforms": [
       "Windows"
@@ -1423,17 +1292,14 @@
   },
   {
     "year": 2000,
-    "section": "Notable releases",
+    "section": "Games released in 2000",
     "title": "Final Fight Revenge",
     "wiki_title": "Final Fight Revenge",
     "wiki_url": "https://en.wikipedia.org/wiki/Final_Fight_Revenge",
     "redlink": false,
     "release_date": "March 30",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "SAT",
-      "handheld releases": "— N/a",
-      "other releases": "— N/a"
+      "platform": "SAT"
     },
     "platforms": [
       "Sega Saturn"
@@ -1441,17 +1307,14 @@
   },
   {
     "year": 2000,
-    "section": "Notable releases",
+    "section": "Games released in 2000",
     "title": "Tekken Tag Tournament",
     "wiki_title": "Tekken Tag Tournament",
     "wiki_url": "https://en.wikipedia.org/wiki/Tekken_Tag_Tournament",
     "redlink": false,
     "release_date": "March 30",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "PS2",
-      "handheld releases": "— N/a",
-      "other releases": "— N/a"
+      "platform": "PS2"
     },
     "platforms": [
       "PlayStation 2"
@@ -1459,35 +1322,14 @@
   },
   {
     "year": 2000,
-    "section": "Notable releases",
-    "title": "Tech Romancer",
-    "wiki_title": "Tech Romancer",
-    "wiki_url": "https://en.wikipedia.org/wiki/Tech_Romancer",
-    "redlink": false,
-    "release_date": "March 31",
-    "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "DC",
-      "handheld releases": "— N/a",
-      "other releases": "— N/a"
-    },
-    "platforms": [
-      "Dreamcast"
-    ]
-  },
-  {
-    "year": 2000,
-    "section": "Notable releases",
+    "section": "Games released in 2000",
     "title": "Starlancer",
     "wiki_title": "Starlancer",
     "wiki_url": "https://en.wikipedia.org/wiki/Starlancer",
     "redlink": false,
     "release_date": "March 31",
     "platform_breakdown": {
-      "computer releases": "WIN",
-      "console releases": "DC",
-      "handheld releases": "— N/a",
-      "other releases": "— N/a"
+      "platform": "WIN, DC"
     },
     "platforms": [
       "Windows",
@@ -1496,17 +1338,29 @@
   },
   {
     "year": 2000,
-    "section": "Notable releases",
+    "section": "Games released in 2000",
+    "title": "Tech Romancer",
+    "wiki_title": "Tech Romancer",
+    "wiki_url": "https://en.wikipedia.org/wiki/Tech_Romancer",
+    "redlink": false,
+    "release_date": "March 31",
+    "platform_breakdown": {
+      "platform": "DC"
+    },
+    "platforms": [
+      "Dreamcast"
+    ]
+  },
+  {
+    "year": 2000,
+    "section": "Games released in 2000",
     "title": "Star Wars Episode I: Racer",
     "wiki_title": null,
     "wiki_url": null,
     "redlink": null,
     "release_date": "April 4",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "DC",
-      "handheld releases": "— N/a",
-      "other releases": "— N/a"
+      "platform": "DC"
     },
     "platforms": [
       "Dreamcast"
@@ -1514,17 +1368,14 @@
   },
   {
     "year": 2000,
-    "section": "Notable releases",
+    "section": "Games released in 2000",
     "title": "Gundam Side Story 0079: Rise from the Ashes",
     "wiki_title": null,
     "wiki_url": null,
     "redlink": null,
     "release_date": "April 28",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "DC",
-      "handheld releases": "— N/a",
-      "other releases": "— N/a"
+      "platform": "DC"
     },
     "platforms": [
       "Dreamcast"
@@ -1532,17 +1383,14 @@
   },
   {
     "year": 2000,
-    "section": "Notable releases",
+    "section": "Games released in 2000",
     "title": "The Misadventures of Tron Bonne",
     "wiki_title": "The Misadventures of Tron Bonne",
     "wiki_url": "https://en.wikipedia.org/wiki/The_Misadventures_of_Tron_Bonne",
     "redlink": false,
     "release_date": "April 30",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "PS1",
-      "handheld releases": "— N/a",
-      "other releases": "— N/a"
+      "platform": "PS1"
     },
     "platforms": [
       "PlayStation"
@@ -1550,17 +1398,14 @@
   },
   {
     "year": 2000,
-    "section": "Notable releases",
+    "section": "Games released in 2000",
     "title": "Wild Arms 2",
     "wiki_title": "Wild Arms 2",
     "wiki_url": "https://en.wikipedia.org/wiki/Wild_Arms_2",
     "redlink": false,
     "release_date": "April 30",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "PS1",
-      "handheld releases": "— N/a",
-      "other releases": "— N/a"
+      "platform": "PS1"
     },
     "platforms": [
       "PlayStation"
@@ -1568,17 +1413,14 @@
   },
   {
     "year": 2000,
-    "section": "Notable releases",
+    "section": "Games released in 2000",
     "title": "4 Wheel Thunder",
     "wiki_title": "4 Wheel Thunder",
     "wiki_url": "https://en.wikipedia.org/wiki/4_Wheel_Thunder",
     "redlink": false,
     "release_date": "May 4",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "DC",
-      "handheld releases": "— N/a",
-      "other releases": "— N/a"
+      "platform": "DC"
     },
     "platforms": [
       "Dreamcast"
@@ -1586,17 +1428,14 @@
   },
   {
     "year": 2000,
-    "section": "Notable releases",
+    "section": "Games released in 2000",
     "title": "Metal Gear: Ghost Babel",
     "wiki_title": null,
     "wiki_url": null,
     "redlink": null,
     "release_date": "May 5",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "— N/a",
-      "handheld releases": "GBC",
-      "other releases": "— N/a"
+      "platform": "GBC"
     },
     "platforms": [
       "Game Boy Color"
@@ -1604,17 +1443,14 @@
   },
   {
     "year": 2000,
-    "section": "Notable releases",
+    "section": "Games released in 2000",
     "title": "Tom Clancy's Rainbow Six",
     "wiki_title": "Tom Clancy's Rainbow Six (video game)",
     "wiki_url": "https://en.wikipedia.org/wiki/Tom_Clancy%27s_Rainbow_Six_(video_game)",
     "redlink": false,
     "release_date": "May 9",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "DC",
-      "handheld releases": "— N/a",
-      "other releases": "— N/a"
+      "platform": "DC"
     },
     "platforms": [
       "Dreamcast"
@@ -1622,17 +1458,14 @@
   },
   {
     "year": 2000,
-    "section": "Notable releases",
+    "section": "Games released in 2000",
     "title": "Bomberman Max",
     "wiki_title": "Bomberman Max",
     "wiki_url": "https://en.wikipedia.org/wiki/Bomberman_Max",
     "redlink": false,
     "release_date": "May 14",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "— N/a",
-      "handheld releases": "GBC",
-      "other releases": "— N/a"
+      "platform": "GBC"
     },
     "platforms": [
       "Game Boy Color"
@@ -1640,17 +1473,14 @@
   },
   {
     "year": 2000,
-    "section": "Notable releases",
+    "section": "Games released in 2000",
     "title": "SimCity 3000 Unlimited",
     "wiki_title": "SimCity 3000 Unlimited",
     "wiki_url": "https://en.wikipedia.org/wiki/SimCity_3000_Unlimited",
     "redlink": false,
     "release_date": "May 16",
     "platform_breakdown": {
-      "computer releases": "WIN",
-      "console releases": "— N/a",
-      "handheld releases": "— N/a",
-      "other releases": "— N/a"
+      "platform": "WIN"
     },
     "platforms": [
       "Windows"
@@ -1658,17 +1488,14 @@
   },
   {
     "year": 2000,
-    "section": "Notable releases",
+    "section": "Games released in 2000",
     "title": "Earth 2150",
     "wiki_title": "Earth 2150",
     "wiki_url": "https://en.wikipedia.org/wiki/Earth_2150",
     "redlink": false,
     "release_date": "May 22",
     "platform_breakdown": {
-      "computer releases": "WIN",
-      "console releases": "— N/a",
-      "handheld releases": "— N/a",
-      "other releases": "— N/a"
+      "platform": "WIN"
     },
     "platforms": [
       "Windows"
@@ -1676,17 +1503,14 @@
   },
   {
     "year": 2000,
-    "section": "Notable releases",
+    "section": "Games released in 2000",
     "title": "Metal Slug 2nd Mission",
     "wiki_title": "Metal Slug 2nd Mission",
     "wiki_url": "https://en.wikipedia.org/wiki/Metal_Slug_2nd_Mission",
     "redlink": false,
     "release_date": "May 22",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "— N/a",
-      "handheld releases": "NGPC",
-      "other releases": "— N/a"
+      "platform": "NGPC"
     },
     "platforms": [
       "Neo Geo Pocket Color"
@@ -1694,17 +1518,14 @@
   },
   {
     "year": 2000,
-    "section": "Notable releases",
+    "section": "Games released in 2000",
     "title": "Daikatana",
     "wiki_title": "Daikatana",
     "wiki_url": "https://en.wikipedia.org/wiki/Daikatana",
     "redlink": false,
     "release_date": "May 24",
     "platform_breakdown": {
-      "computer releases": "WIN",
-      "console releases": "— N/a",
-      "handheld releases": "— N/a",
-      "other releases": "— N/a"
+      "platform": "WIN"
     },
     "platforms": [
       "Windows"
@@ -1712,17 +1533,14 @@
   },
   {
     "year": 2000,
-    "section": "Notable releases",
+    "section": "Games released in 2000",
     "title": "Bomberman 64: The Second Attack",
     "wiki_title": null,
     "wiki_url": null,
     "redlink": null,
     "release_date": "May 28",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "N64",
-      "handheld releases": "— N/a",
-      "other releases": "— N/a"
+      "platform": "N64"
     },
     "platforms": [
       "Nintendo 64"
@@ -1730,17 +1548,14 @@
   },
   {
     "year": 2000,
-    "section": "Notable releases",
+    "section": "Games released in 2000",
     "title": "Evolva",
     "wiki_title": "Evolva",
     "wiki_url": "https://en.wikipedia.org/wiki/Evolva",
     "redlink": false,
     "release_date": "June 1",
     "platform_breakdown": {
-      "computer releases": "WIN",
-      "console releases": "— N/a",
-      "handheld releases": "— N/a",
-      "other releases": "— N/a"
+      "platform": "WIN"
     },
     "platforms": [
       "Windows"
@@ -1748,17 +1563,14 @@
   },
   {
     "year": 2000,
-    "section": "Notable releases",
+    "section": "Games released in 2000",
     "title": "Ground Control",
     "wiki_title": "Ground Control (video game)",
     "wiki_url": "https://en.wikipedia.org/wiki/Ground_Control_(video_game)",
     "redlink": false,
     "release_date": "June 1",
     "platform_breakdown": {
-      "computer releases": "WIN",
-      "console releases": "— N/a",
-      "handheld releases": "— N/a",
-      "other releases": "— N/a"
+      "platform": "WIN"
     },
     "platforms": [
       "Windows"
@@ -1766,17 +1578,14 @@
   },
   {
     "year": 2000,
-    "section": "Notable releases",
+    "section": "Games released in 2000",
     "title": "Space Channel 5",
     "wiki_title": "Space Channel 5",
     "wiki_url": "https://en.wikipedia.org/wiki/Space_Channel_5",
     "redlink": false,
     "release_date": "June 4",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "DC",
-      "handheld releases": "— N/a",
-      "other releases": "— N/a"
+      "platform": "DC"
     },
     "platforms": [
       "Dreamcast"
@@ -1784,17 +1593,14 @@
   },
   {
     "year": 2000,
-    "section": "Notable releases",
+    "section": "Games released in 2000",
     "title": "Dracula: Resurrection",
     "wiki_title": null,
     "wiki_url": null,
     "redlink": null,
     "release_date": "June 7",
     "platform_breakdown": {
-      "computer releases": "WIN",
-      "console releases": "— N/a",
-      "handheld releases": "— N/a",
-      "other releases": "— N/a"
+      "platform": "WIN"
     },
     "platforms": [
       "Windows"
@@ -1802,17 +1608,14 @@
   },
   {
     "year": 2000,
-    "section": "Notable releases",
+    "section": "Games released in 2000",
     "title": "Vampire: The Masquerade - Redemption",
     "wiki_title": null,
     "wiki_url": null,
     "redlink": null,
     "release_date": "June 7",
     "platform_breakdown": {
-      "computer releases": "WIN",
-      "console releases": "— N/a",
-      "handheld releases": "— N/a",
-      "other releases": "— N/a"
+      "platform": "WIN"
     },
     "platforms": [
       "Windows"
@@ -1820,17 +1623,14 @@
   },
   {
     "year": 2000,
-    "section": "Notable releases",
+    "section": "Games released in 2000",
     "title": "Tomb Raider",
     "wiki_title": "Tomb Raider (Game Boy Color)",
     "wiki_url": "https://en.wikipedia.org/wiki/Tomb_Raider_(Game_Boy_Color)",
     "redlink": false,
     "release_date": "June 12",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "— N/a",
-      "handheld releases": "GBC",
-      "other releases": "— N/a"
+      "platform": "GBC"
     },
     "platforms": [
       "Game Boy Color"
@@ -1838,35 +1638,14 @@
   },
   {
     "year": 2000,
-    "section": "Notable releases",
-    "title": "Shogun: Total War",
-    "wiki_title": null,
-    "wiki_url": null,
-    "redlink": null,
-    "release_date": "June 13",
-    "platform_breakdown": {
-      "computer releases": "WIN",
-      "console releases": "— N/a",
-      "handheld releases": "— N/a",
-      "other releases": "— N/a"
-    },
-    "platforms": [
-      "Windows"
-    ]
-  },
-  {
-    "year": 2000,
-    "section": "Notable releases",
+    "section": "Games released in 2000",
     "title": "The Legend Of Dragoon",
     "wiki_title": "The Legend Of Dragoon",
     "wiki_url": "https://en.wikipedia.org/wiki/The_Legend_Of_Dragoon",
     "redlink": false,
     "release_date": "June 13",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "PS1",
-      "handheld releases": "— N/a",
-      "other releases": "— N/a"
+      "platform": "PS1"
     },
     "platforms": [
       "PlayStation"
@@ -1874,17 +1653,29 @@
   },
   {
     "year": 2000,
-    "section": "Notable releases",
+    "section": "Games released in 2000",
+    "title": "Shogun: Total War",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "release_date": "June 13",
+    "platform_breakdown": {
+      "platform": "WIN"
+    },
+    "platforms": [
+      "Windows"
+    ]
+  },
+  {
+    "year": 2000,
+    "section": "Games released in 2000",
     "title": "Draconus: Cult of the Wyrm",
     "wiki_title": null,
     "wiki_url": null,
     "redlink": null,
     "release_date": "June 22",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "DC",
-      "handheld releases": "— N/a",
-      "other releases": "— N/a"
+      "platform": "DC"
     },
     "platforms": [
       "Dreamcast"
@@ -1892,17 +1683,14 @@
   },
   {
     "year": 2000,
-    "section": "Notable releases",
+    "section": "Games released in 2000",
     "title": "Omikron: The Nomad Soul",
     "wiki_title": null,
     "wiki_url": null,
     "redlink": null,
     "release_date": "June 22",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "DC",
-      "handheld releases": "— N/a",
-      "other releases": "— N/a"
+      "platform": "DC"
     },
     "platforms": [
       "Dreamcast"
@@ -1910,17 +1698,14 @@
   },
   {
     "year": 2000,
-    "section": "Notable releases",
+    "section": "Games released in 2000",
     "title": "Xtreme Sports",
     "wiki_title": "Xtreme Sports (video game)",
     "wiki_url": "https://en.wikipedia.org/wiki/Xtreme_Sports_(video_game)",
     "redlink": false,
     "release_date": "June 28",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "— N/a",
-      "handheld releases": "GBC",
-      "other releases": "— N/a"
+      "platform": "GBC"
     },
     "platforms": [
       "Game Boy Color"
@@ -1928,17 +1713,44 @@
   },
   {
     "year": 2000,
-    "section": "Notable releases",
+    "section": "Games released in 2000",
+    "title": "Icewind Dale",
+    "wiki_title": "Icewind Dale",
+    "wiki_url": "https://en.wikipedia.org/wiki/Icewind_Dale",
+    "redlink": false,
+    "release_date": "June 29",
+    "platform_breakdown": {
+      "platform": "WIN"
+    },
+    "platforms": [
+      "Windows"
+    ]
+  },
+  {
+    "year": 2000,
+    "section": "Games released in 2000",
+    "title": "Marvel vs Capcom 2",
+    "wiki_title": "Marvel vs Capcom 2",
+    "wiki_url": "https://en.wikipedia.org/wiki/Marvel_vs_Capcom_2",
+    "redlink": false,
+    "release_date": "June 29",
+    "platform_breakdown": {
+      "platform": "DC"
+    },
+    "platforms": [
+      "Dreamcast"
+    ]
+  },
+  {
+    "year": 2000,
+    "section": "Games released in 2000",
     "title": "Persona 2: Eternal Punishment",
     "wiki_title": null,
     "wiki_url": null,
     "redlink": null,
     "release_date": "June 29",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "PSP",
-      "handheld releases": "— N/a",
-      "other releases": "— N/a"
+      "platform": "PSP"
     },
     "platforms": [
       "PlayStation Portable"
@@ -1946,53 +1758,14 @@
   },
   {
     "year": 2000,
-    "section": "Notable releases",
-    "title": "Icewind Dale",
-    "wiki_title": "Icewind Dale",
-    "wiki_url": "https://en.wikipedia.org/wiki/Icewind_Dale",
-    "redlink": false,
-    "release_date": "June 29",
-    "platform_breakdown": {
-      "computer releases": "WIN",
-      "console releases": "— N/a",
-      "handheld releases": "— N/a",
-      "other releases": "— N/a"
-    },
-    "platforms": [
-      "Windows"
-    ]
-  },
-  {
-    "year": 2000,
-    "section": "Notable releases",
-    "title": "Marvel vs Capcom 2",
-    "wiki_title": "Marvel vs Capcom 2",
-    "wiki_url": "https://en.wikipedia.org/wiki/Marvel_vs_Capcom_2",
-    "redlink": false,
-    "release_date": "June 29",
-    "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "DC",
-      "handheld releases": "— N/a",
-      "other releases": "— N/a"
-    },
-    "platforms": [
-      "Dreamcast"
-    ]
-  },
-  {
-    "year": 2000,
-    "section": "Notable releases",
+    "section": "Games released in 2000",
     "title": "Mortal Kombat: Special Forces",
     "wiki_title": null,
     "wiki_url": null,
     "redlink": null,
     "release_date": "June 30",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "PS1",
-      "handheld releases": "— N/a",
-      "other releases": "— N/a"
+      "platform": "PS1"
     },
     "platforms": [
       "PlayStation"
@@ -2000,17 +1773,14 @@
   },
   {
     "year": 2000,
-    "section": "Notable releases",
+    "section": "Games released in 2000",
     "title": "Dark Reign 2",
     "wiki_title": "Dark Reign 2",
     "wiki_url": "https://en.wikipedia.org/wiki/Dark_Reign_2",
     "redlink": false,
     "release_date": "July 3",
     "platform_breakdown": {
-      "computer releases": "WIN",
-      "console releases": "— N/a",
-      "handheld releases": "— N/a",
-      "other releases": "— N/a"
+      "platform": "WIN"
     },
     "platforms": [
       "Windows"
@@ -2018,17 +1788,14 @@
   },
   {
     "year": 2000,
-    "section": "Notable releases",
+    "section": "Games released in 2000",
     "title": "Guilty Gear X",
     "wiki_title": "Guilty Gear X",
     "wiki_url": "https://en.wikipedia.org/wiki/Guilty_Gear_X",
     "redlink": false,
     "release_date": "July 13",
     "platform_breakdown": {
-      "computer releases": "WIN",
-      "console releases": "— N/a",
-      "handheld releases": "— N/a",
-      "other releases": "Arcade"
+      "platform": "WIN, Arcade"
     },
     "platforms": [
       "Windows",
@@ -2037,17 +1804,14 @@
   },
   {
     "year": 2000,
-    "section": "Notable releases",
+    "section": "Games released in 2000",
     "title": "Threads of Fate",
     "wiki_title": "Threads of Fate",
     "wiki_url": "https://en.wikipedia.org/wiki/Threads_of_Fate",
     "redlink": false,
     "release_date": "July 18",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "PS1",
-      "handheld releases": "— N/a",
-      "other releases": "— N/a"
+      "platform": "PS1"
     },
     "platforms": [
       "PlayStation"
@@ -2055,17 +1819,14 @@
   },
   {
     "year": 2000,
-    "section": "Notable releases",
+    "section": "Games released in 2000",
     "title": "The King of Fighters 2000",
     "wiki_title": "The King of Fighters 2000",
     "wiki_url": "https://en.wikipedia.org/wiki/The_King_of_Fighters_2000",
     "redlink": false,
     "release_date": "July 26",
     "platform_breakdown": {
-      "computer releases": "WIN",
-      "console releases": "DC, PS2",
-      "handheld releases": "— N/a",
-      "other releases": "Arcade"
+      "platform": "WIN, DC, PS2, Arcade"
     },
     "platforms": [
       "Windows",
@@ -2076,17 +1837,14 @@
   },
   {
     "year": 2000,
-    "section": "Notable releases",
+    "section": "Games released in 2000",
     "title": "Strider 2",
     "wiki_title": "Strider 2 (1999 video game)",
     "wiki_url": "https://en.wikipedia.org/wiki/Strider_2_(1999_video_game)",
     "redlink": false,
     "release_date": "July 29",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "PS1",
-      "handheld releases": "— N/a",
-      "other releases": "— N/a"
+      "platform": "PS1"
     },
     "platforms": [
       "PlayStation"
@@ -2094,17 +1852,14 @@
   },
   {
     "year": 2000,
-    "section": "Notable releases",
+    "section": "Games released in 2000",
     "title": "Spirit of Speed 1937",
     "wiki_title": "Spirit of Speed 1937",
     "wiki_url": "https://en.wikipedia.org/wiki/Spirit_of_Speed_1937",
     "redlink": false,
     "release_date": "July 31",
     "platform_breakdown": {
-      "computer releases": "WIN",
-      "console releases": "DC",
-      "handheld releases": "— N/a",
-      "other releases": "— N/a"
+      "platform": "WIN, DC"
     },
     "platforms": [
       "Windows",
@@ -2113,17 +1868,14 @@
   },
   {
     "year": 2000,
-    "section": "Notable releases",
+    "section": "Games released in 2000",
     "title": "Arcatera: The Dark Brotherhood",
     "wiki_title": "Arcatera",
     "wiki_url": "https://en.wikipedia.org/wiki/Arcatera",
     "redlink": false,
     "release_date": "August 1",
     "platform_breakdown": {
-      "computer releases": "WIN",
-      "console releases": "— N/a",
-      "handheld releases": "— N/a",
-      "other releases": "— N/a"
+      "platform": "WIN"
     },
     "platforms": [
       "Windows"
@@ -2131,17 +1883,14 @@
   },
   {
     "year": 2000,
-    "section": "Notable releases",
+    "section": "Games released in 2000",
     "title": "Heavy Metal: F.A.K.K. 2",
     "wiki_title": null,
     "wiki_url": null,
     "redlink": null,
     "release_date": "August 1",
     "platform_breakdown": {
-      "computer releases": "WIN, MAC",
-      "console releases": "— N/a",
-      "handheld releases": "— N/a",
-      "other releases": "— N/a"
+      "platform": "WIN, MAC"
     },
     "platforms": [
       "Windows",
@@ -2150,17 +1899,15 @@
   },
   {
     "year": 2000,
-    "section": "Notable releases",
-    "title": "Shin Sangoku Musou (Japan)",
+    "section": "Games released in 2000",
+    "title": "Dynasty Warriors 2",
     "wiki_title": "Dynasty Warriors 2",
     "wiki_url": "https://en.wikipedia.org/wiki/Dynasty_Warriors_2",
     "redlink": false,
+    "region": "JP",
     "release_date": "August 3",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "PS2",
-      "handheld releases": "— N/a",
-      "other releases": "— N/a"
+      "platform": "PS2"
     },
     "platforms": [
       "PlayStation 2"
@@ -2168,17 +1915,14 @@
   },
   {
     "year": 2000,
-    "section": "Notable releases",
+    "section": "Games released in 2000",
     "title": "Chrono Cross",
     "wiki_title": "Chrono Cross",
     "wiki_url": "https://en.wikipedia.org/wiki/Chrono_Cross",
     "redlink": false,
     "release_date": "August 15",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "PS1",
-      "handheld releases": "— N/a",
-      "other releases": "— N/a"
+      "platform": "PS1"
     },
     "platforms": [
       "PlayStation"
@@ -2186,17 +1930,15 @@
   },
   {
     "year": 2000,
-    "section": "Notable releases",
-    "title": "Dragon Quest VII (Japan)",
+    "section": "Games released in 2000",
+    "title": "Dragon Quest VII",
     "wiki_title": "Dragon Quest VII",
     "wiki_url": "https://en.wikipedia.org/wiki/Dragon_Quest_VII",
     "redlink": false,
+    "region": "JP",
     "release_date": "August 26",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "PS1",
-      "handheld releases": "— N/a",
-      "other releases": "— N/a"
+      "platform": "PS1"
     },
     "platforms": [
       "PlayStation"
@@ -2204,17 +1946,14 @@
   },
   {
     "year": 2000,
-    "section": "Notable releases",
+    "section": "Games released in 2000",
     "title": "WWF Royal Rumble",
     "wiki_title": "WWF Royal Rumble (2000 video game)",
     "wiki_url": "https://en.wikipedia.org/wiki/WWF_Royal_Rumble_(2000_video_game)",
     "redlink": false,
     "release_date": "August 30",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "DC",
-      "handheld releases": "— N/a",
-      "other releases": "— N/a"
+      "platform": "DC"
     },
     "platforms": [
       "Dreamcast"
@@ -2222,17 +1961,14 @@
   },
   {
     "year": 2000,
-    "section": "Notable releases",
+    "section": "Games released in 2000",
     "title": "Spider-Man",
     "wiki_title": "Spider-Man (2000 video game)",
     "wiki_url": "https://en.wikipedia.org/wiki/Spider-Man_(2000_video_game)",
     "redlink": false,
     "release_date": "September 1",
     "platform_breakdown": {
-      "computer releases": "WIN",
-      "console releases": "PS1, GBC, N64",
-      "handheld releases": "— N/a",
-      "other releases": "— N/a"
+      "platform": "WIN, PS1, GBC, N64"
     },
     "platforms": [
       "Windows",
@@ -2243,17 +1979,14 @@
   },
   {
     "year": 2000,
-    "section": "Notable releases",
+    "section": "Games released in 2000",
     "title": "Parasite Eve II",
     "wiki_title": "Parasite Eve II",
     "wiki_url": "https://en.wikipedia.org/wiki/Parasite_Eve_II",
     "redlink": false,
     "release_date": "September 12",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "PS1",
-      "handheld releases": "— N/a",
-      "other releases": "— N/a"
+      "platform": "PS1"
     },
     "platforms": [
       "PlayStation"
@@ -2261,17 +1994,14 @@
   },
   {
     "year": 2000,
-    "section": "Notable releases",
+    "section": "Games released in 2000",
     "title": "Lego Stunt Rally",
     "wiki_title": "Lego Stunt Rally",
     "wiki_url": "https://en.wikipedia.org/wiki/Lego_Stunt_Rally",
     "redlink": false,
     "release_date": "September 13",
     "platform_breakdown": {
-      "computer releases": "WIN",
-      "console releases": "— N/a",
-      "handheld releases": "— N/a",
-      "other releases": "— N/a"
+      "platform": "WIN"
     },
     "platforms": [
       "Windows"
@@ -2279,17 +2009,14 @@
   },
   {
     "year": 2000,
-    "section": "Notable releases",
+    "section": "Games released in 2000",
     "title": "Star Trek: Voyager – Elite Force",
     "wiki_title": null,
     "wiki_url": null,
     "redlink": null,
     "release_date": "September 15",
     "platform_breakdown": {
-      "computer releases": "WIN",
-      "console releases": "— N/a",
-      "handheld releases": "— N/a",
-      "other releases": "— N/a"
+      "platform": "WIN"
     },
     "platforms": [
       "Windows"
@@ -2297,17 +2024,14 @@
   },
   {
     "year": 2000,
-    "section": "Notable releases",
+    "section": "Games released in 2000",
     "title": "The Little Mermaid 2: Pinball Frenzy",
     "wiki_title": null,
     "wiki_url": null,
     "redlink": null,
     "release_date": "September 24",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "— N/a",
-      "handheld releases": "GBC",
-      "other releases": "— N/a"
+      "platform": "GBC"
     },
     "platforms": [
       "Game Boy Color"
@@ -2315,17 +2039,14 @@
   },
   {
     "year": 2000,
-    "section": "Notable releases",
+    "section": "Games released in 2000",
     "title": "Buffy the Vampire Slayer",
     "wiki_title": "Buffy the Vampire Slayer (2000 video game)",
     "wiki_url": "https://en.wikipedia.org/wiki/Buffy_the_Vampire_Slayer_(2000_video_game)",
     "redlink": false,
     "release_date": "September 25",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "— N/a",
-      "handheld releases": "GBC",
-      "other releases": "— N/a"
+      "platform": "GBC"
     },
     "platforms": [
       "Game Boy Color"
@@ -2333,17 +2054,14 @@
   },
   {
     "year": 2000,
-    "section": "Notable releases",
+    "section": "Games released in 2000",
     "title": "Vampire Hunter D",
     "wiki_title": "Vampire Hunter D (video game)",
     "wiki_url": "https://en.wikipedia.org/wiki/Vampire_Hunter_D_(video_game)",
     "redlink": false,
     "release_date": "September 25",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "PS1",
-      "handheld releases": "— N/a",
-      "other releases": "— N/a"
+      "platform": "PS1"
     },
     "platforms": [
       "PlayStation"
@@ -2351,17 +2069,14 @@
   },
   {
     "year": 2000,
-    "section": "Notable releases",
+    "section": "Games released in 2000",
     "title": "Destruction Derby Raw",
     "wiki_title": "Destruction Derby Raw",
     "wiki_url": "https://en.wikipedia.org/wiki/Destruction_Derby_Raw",
     "redlink": false,
     "release_date": "September 26",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "PS1",
-      "handheld releases": "— N/a",
-      "other releases": "— N/a"
+      "platform": "PS1"
     },
     "platforms": [
       "PlayStation"
@@ -2369,17 +2084,14 @@
   },
   {
     "year": 2000,
-    "section": "Notable releases",
+    "section": "Games released in 2000",
     "title": "Dragon Warrior I & II",
     "wiki_title": "Dragon Quest",
     "wiki_url": "https://en.wikipedia.org/wiki/Dragon_Quest",
     "redlink": false,
     "release_date": "September 27",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "— N/a",
-      "handheld releases": "GBC",
-      "other releases": "— N/a"
+      "platform": "GBC"
     },
     "platforms": [
       "Game Boy Color"
@@ -2387,17 +2099,14 @@
   },
   {
     "year": 2000,
-    "section": "Notable releases",
+    "section": "Games released in 2000",
     "title": "F1 Championship Season 2000",
     "wiki_title": "F1 Championship Season 2000",
     "wiki_url": "https://en.wikipedia.org/wiki/F1_Championship_Season_2000",
     "redlink": false,
     "release_date": "September 28",
     "platform_breakdown": {
-      "computer releases": "WIN",
-      "console releases": "PS1, PS2",
-      "handheld releases": "GBC",
-      "other releases": "— N/a"
+      "platform": "WIN, PS1, PS2, GBC"
     },
     "platforms": [
       "Windows",
@@ -2408,35 +2117,14 @@
   },
   {
     "year": 2000,
-    "section": "Notable releases",
-    "title": "Zeus: Master of Olympus",
-    "wiki_title": null,
-    "wiki_url": null,
-    "redlink": null,
-    "release_date": "October",
-    "platform_breakdown": {
-      "computer releases": "WIN",
-      "console releases": "— N/a",
-      "handheld releases": "— N/a",
-      "other releases": "— N/a"
-    },
-    "platforms": [
-      "Windows"
-    ]
-  },
-  {
-    "year": 2000,
-    "section": "Notable releases",
+    "section": "Games released in 2000",
     "title": "Blair Witch Volume I: Rustin Parr",
     "wiki_title": null,
     "wiki_url": null,
     "redlink": null,
     "release_date": "October 4",
     "platform_breakdown": {
-      "computer releases": "WIN",
-      "console releases": "— N/a",
-      "handheld releases": "— N/a",
-      "other releases": "— N/a"
+      "platform": "WIN"
     },
     "platforms": [
       "Windows"
@@ -2444,17 +2132,14 @@
   },
   {
     "year": 2000,
-    "section": "Notable releases",
+    "section": "Games released in 2000",
     "title": "Pokémon Gold and Silver",
     "wiki_title": "Pokémon Gold and Silver",
     "wiki_url": "https://en.wikipedia.org/wiki/Pok%C3%A9mon_Gold_and_Silver",
     "redlink": false,
     "release_date": "October 15",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "— N/a",
-      "handheld releases": "GBC",
-      "other releases": "— N/a"
+      "platform": "GBC"
     },
     "platforms": [
       "Game Boy Color"
@@ -2462,17 +2147,30 @@
   },
   {
     "year": 2000,
-    "section": "Notable releases",
+    "section": "Games released in 2000",
+    "title": "Zeus: Master of Olympus",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "region": "NA/EU",
+    "release_date": "October 16",
+    "platform_breakdown": {
+      "platform": "WIN"
+    },
+    "platforms": [
+      "Windows"
+    ]
+  },
+  {
+    "year": 2000,
+    "section": "Games released in 2000",
     "title": "Donald Duck: Goin' Quackers",
     "wiki_title": null,
     "wiki_url": null,
     "redlink": null,
     "release_date": "October 19",
     "platform_breakdown": {
-      "computer releases": "WIN",
-      "console releases": "PS1, N64, PS2, DC",
-      "handheld releases": "GBC",
-      "other releases": "— N/a"
+      "platform": "WIN, PS1, N64, PS2, DC, GBC"
     },
     "platforms": [
       "Windows",
@@ -2485,17 +2183,14 @@
   },
   {
     "year": 2000,
-    "section": "Notable releases",
+    "section": "Games released in 2000",
     "title": "Quake III Arena",
     "wiki_title": "Quake III Arena",
     "wiki_url": "https://en.wikipedia.org/wiki/Quake_III_Arena",
     "redlink": false,
     "release_date": "October 22",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "DC",
-      "handheld releases": "— N/a",
-      "other releases": "— N/a"
+      "platform": "DC"
     },
     "platforms": [
       "Dreamcast"
@@ -2503,17 +2198,14 @@
   },
   {
     "year": 2000,
-    "section": "Notable releases",
+    "section": "Games released in 2000",
     "title": "Mega Man Legends 2",
     "wiki_title": "Mega Man Legends 2",
     "wiki_url": "https://en.wikipedia.org/wiki/Mega_Man_Legends_2",
     "redlink": false,
     "release_date": "October 24",
     "platform_breakdown": {
-      "computer releases": "WIN",
-      "console releases": "PS1",
-      "handheld releases": "— N/a",
-      "other releases": "— N/a"
+      "platform": "WIN, PS1"
     },
     "platforms": [
       "Windows",
@@ -2522,17 +2214,14 @@
   },
   {
     "year": 2000,
-    "section": "Notable releases",
+    "section": "Games released in 2000",
     "title": "Command & Conquer: Red Alert 2",
     "wiki_title": null,
     "wiki_url": null,
     "redlink": null,
     "release_date": "October 25",
     "platform_breakdown": {
-      "computer releases": "WIN",
-      "console releases": "— N/a",
-      "handheld releases": "— N/a",
-      "other releases": "— N/a"
+      "platform": "WIN"
     },
     "platforms": [
       "Windows"
@@ -2540,35 +2229,14 @@
   },
   {
     "year": 2000,
-    "section": "Notable releases",
-    "title": "DOA2 Hardcore",
-    "wiki_title": "Dead or Alive 2",
-    "wiki_url": "https://en.wikipedia.org/wiki/Dead_or_Alive_2",
-    "redlink": false,
-    "release_date": "October 26",
-    "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "PS2",
-      "handheld releases": "— N/a",
-      "other releases": "— N/a"
-    },
-    "platforms": [
-      "PlayStation 2"
-    ]
-  },
-  {
-    "year": 2000,
-    "section": "Notable releases",
+    "section": "Games released in 2000",
     "title": "FantaVision",
     "wiki_title": "Fantavision (video game)",
     "wiki_url": "https://en.wikipedia.org/wiki/Fantavision_(video_game)",
     "redlink": false,
     "release_date": "October 26",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "PS2",
-      "handheld releases": "— N/a",
-      "other releases": "— N/a"
+      "platform": "PS2"
     },
     "platforms": [
       "PlayStation 2"
@@ -2576,17 +2244,14 @@
   },
   {
     "year": 2000,
-    "section": "Notable releases",
+    "section": "Games released in 2000",
     "title": "Midnight Club: Street Racing",
     "wiki_title": null,
     "wiki_url": null,
     "redlink": null,
     "release_date": "October 26",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "PS2",
-      "handheld releases": "— N/a",
-      "other releases": "— N/a"
+      "platform": "PS2"
     },
     "platforms": [
       "PlayStation 2"
@@ -2594,17 +2259,14 @@
   },
   {
     "year": 2000,
-    "section": "Notable releases",
+    "section": "Games released in 2000",
     "title": "Ridge Racer V",
     "wiki_title": "Ridge Racer V",
     "wiki_url": "https://en.wikipedia.org/wiki/Ridge_Racer_V",
     "redlink": false,
     "release_date": "October 26",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "PS2",
-      "handheld releases": "— N/a",
-      "other releases": "— N/a"
+      "platform": "PS2"
     },
     "platforms": [
       "PlayStation 2"
@@ -2612,17 +2274,14 @@
   },
   {
     "year": 2000,
-    "section": "Notable releases",
+    "section": "Games released in 2000",
     "title": "TimeSplitters",
     "wiki_title": "TimeSplitters (video game)",
     "wiki_url": "https://en.wikipedia.org/wiki/TimeSplitters_(video_game)",
     "redlink": false,
     "release_date": "October 26",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "PS2",
-      "handheld releases": "— N/a",
-      "other releases": "— N/a"
+      "platform": "PS2"
     },
     "platforms": [
       "PlayStation 2"
@@ -2630,17 +2289,14 @@
   },
   {
     "year": 2000,
-    "section": "Notable releases",
+    "section": "Games released in 2000",
     "title": "Bust-a-Move Millennium",
     "wiki_title": "Bust-a-Move Millennium",
     "wiki_url": "https://en.wikipedia.org/wiki/Bust-a-Move_Millennium",
     "redlink": false,
     "release_date": "October 27",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "— N/a",
-      "handheld releases": "GBC",
-      "other releases": "— N/a"
+      "platform": "GBC"
     },
     "platforms": [
       "Game Boy Color"
@@ -2648,17 +2304,14 @@
   },
   {
     "year": 2000,
-    "section": "Notable releases",
+    "section": "Games released in 2000",
     "title": "Rune",
     "wiki_title": "Rune (video game)",
     "wiki_url": "https://en.wikipedia.org/wiki/Rune_(video_game)",
     "redlink": false,
     "release_date": "October 27",
     "platform_breakdown": {
-      "computer releases": "WIN, MAC, LIN",
-      "console releases": "PS2",
-      "handheld releases": "— N/a",
-      "other releases": "— N/a"
+      "platform": "WIN, MAC, LIN, PS2"
     },
     "platforms": [
       "Windows",
@@ -2669,17 +2322,14 @@
   },
   {
     "year": 2000,
-    "section": "Notable releases",
+    "section": "Games released in 2000",
     "title": "The Grinch",
     "wiki_title": "The Grinch (video game)",
     "wiki_url": "https://en.wikipedia.org/wiki/The_Grinch_(video_game)",
     "redlink": false,
     "release_date": "October 31",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "DC",
-      "handheld releases": "— N/a",
-      "other releases": "— N/a"
+      "platform": "DC"
     },
     "platforms": [
       "Dreamcast"
@@ -2687,17 +2337,14 @@
   },
   {
     "year": 2000,
-    "section": "Notable releases",
+    "section": "Games released in 2000",
     "title": "Capcom vs. SNK: Millennium Fight 2000",
     "wiki_title": null,
     "wiki_url": null,
     "redlink": null,
     "release_date": "November 6",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "DC",
-      "handheld releases": "— N/a",
-      "other releases": "— N/a"
+      "platform": "DC"
     },
     "platforms": [
       "Dreamcast"
@@ -2705,17 +2352,14 @@
   },
   {
     "year": 2000,
-    "section": "Notable releases",
+    "section": "Games released in 2000",
     "title": "Crash Bash",
     "wiki_title": "Crash Bash",
     "wiki_url": "https://en.wikipedia.org/wiki/Crash_Bash",
     "redlink": false,
     "release_date": "November 6",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "PS1",
-      "handheld releases": "— N/a",
-      "other releases": "— N/a"
+      "platform": "PS1"
     },
     "platforms": [
       "PlayStation"
@@ -2723,17 +2367,14 @@
   },
   {
     "year": 2000,
-    "section": "Notable releases",
+    "section": "Games released in 2000",
     "title": "Incredible Crisis",
     "wiki_title": "Incredible Crisis",
     "wiki_url": "https://en.wikipedia.org/wiki/Incredible_Crisis",
     "redlink": false,
     "release_date": "November 6",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "PS1",
-      "handheld releases": "— N/a",
-      "other releases": "— N/a"
+      "platform": "PS1"
     },
     "platforms": [
       "PlayStation"
@@ -2741,17 +2382,29 @@
   },
   {
     "year": 2000,
-    "section": "Notable releases",
+    "section": "Games released in 2000",
+    "title": "Shenmue",
+    "wiki_title": "Shenmue (video game)",
+    "wiki_url": "https://en.wikipedia.org/wiki/Shenmue_(video_game)",
+    "redlink": false,
+    "release_date": "November 6",
+    "platform_breakdown": {
+      "platform": "DC"
+    },
+    "platforms": [
+      "Dreamcast"
+    ]
+  },
+  {
+    "year": 2000,
+    "section": "Games released in 2000",
     "title": "The World Is Not Enough",
     "wiki_title": "The World Is Not Enough (PlayStation video game)",
     "wiki_url": "https://en.wikipedia.org/wiki/The_World_Is_Not_Enough_(PlayStation_video_game)",
     "redlink": false,
     "release_date": "November 6",
     "platform_breakdown": {
-      "computer releases": "WIN",
-      "console releases": "PS1, N64",
-      "handheld releases": "GBC",
-      "other releases": "— N/a"
+      "platform": "WIN, PS1, N64, GBC"
     },
     "platforms": [
       "Windows",
@@ -2762,35 +2415,14 @@
   },
   {
     "year": 2000,
-    "section": "Notable releases",
-    "title": "Shenmue",
-    "wiki_title": "Shenmue (video game)",
-    "wiki_url": "https://en.wikipedia.org/wiki/Shenmue_(video_game)",
-    "redlink": false,
-    "release_date": "November 6",
-    "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "DC",
-      "handheld releases": "— N/a",
-      "other releases": "— N/a"
-    },
-    "platforms": [
-      "Dreamcast"
-    ]
-  },
-  {
-    "year": 2000,
-    "section": "Notable releases",
+    "section": "Games released in 2000",
     "title": "Escape from Monkey Island",
     "wiki_title": "Escape from Monkey Island",
     "wiki_url": "https://en.wikipedia.org/wiki/Escape_from_Monkey_Island",
     "redlink": false,
     "release_date": "November 8",
     "platform_breakdown": {
-      "computer releases": "WIN",
-      "console releases": "— N/a",
-      "handheld releases": "— N/a",
-      "other releases": "— N/a"
+      "platform": "WIN"
     },
     "platforms": [
       "Windows"
@@ -2798,35 +2430,14 @@
   },
   {
     "year": 2000,
-    "section": "Notable releases",
-    "title": "Counter-Strike (video game)",
-    "wiki_title": "Counter-Strike (video game)",
-    "wiki_url": "https://en.wikipedia.org/wiki/Counter-Strike_(video_game)",
-    "redlink": false,
-    "release_date": "November 9",
-    "platform_breakdown": {
-      "computer releases": "WIN",
-      "console releases": "— N/a",
-      "handheld releases": "— N/a",
-      "other releases": "— N/a"
-    },
-    "platforms": [
-      "Windows"
-    ]
-  },
-  {
-    "year": 2000,
-    "section": "Notable releases",
+    "section": "Games released in 2000",
     "title": "Timeline",
     "wiki_title": "Timeline (video game)",
     "wiki_url": "https://en.wikipedia.org/wiki/Timeline_(video_game)",
     "redlink": false,
     "release_date": "November 10",
     "platform_breakdown": {
-      "computer releases": "WIN",
-      "console releases": "— N/a",
-      "handheld releases": "— N/a",
-      "other releases": "— N/a"
+      "platform": "WIN"
     },
     "platforms": [
       "Windows"
@@ -2834,17 +2445,14 @@
   },
   {
     "year": 2000,
-    "section": "Notable releases",
+    "section": "Games released in 2000",
     "title": "The Emperor's New Groove",
     "wiki_title": "The Emperor's New Groove (video game)",
     "wiki_url": "https://en.wikipedia.org/wiki/The_Emperor%27s_New_Groove_(video_game)",
     "redlink": false,
     "release_date": "November 13",
     "platform_breakdown": {
-      "computer releases": "WIN",
-      "console releases": "PS1",
-      "handheld releases": "GBC",
-      "other releases": "— N/a"
+      "platform": "WIN, PS1, GBC"
     },
     "platforms": [
       "Windows",
@@ -2854,17 +2462,14 @@
   },
   {
     "year": 2000,
-    "section": "Notable releases",
+    "section": "Games released in 2000",
     "title": "Dexter's Laboratory: Robot Rampage",
     "wiki_title": null,
     "wiki_url": null,
     "redlink": null,
     "release_date": "November 14",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "— N/a",
-      "handheld releases": "GBC",
-      "other releases": "— N/a"
+      "platform": "GBC"
     },
     "platforms": [
       "Game Boy Color"
@@ -2872,17 +2477,14 @@
   },
   {
     "year": 2000,
-    "section": "Notable releases",
+    "section": "Games released in 2000",
     "title": "The Powerpuff Girls: Bad Mojo Jojo",
     "wiki_title": "List of The Powerpuff Girls video games",
     "wiki_url": "https://en.wikipedia.org/wiki/List_of_The_Powerpuff_Girls_video_games",
     "redlink": false,
     "release_date": "November 14",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "— N/a",
-      "handheld releases": "GBC",
-      "other releases": "— N/a"
+      "platform": "GBC"
     },
     "platforms": [
       "Game Boy Color"
@@ -2890,17 +2492,14 @@
   },
   {
     "year": 2000,
-    "section": "Notable releases",
+    "section": "Games released in 2000",
     "title": "Sonic Shuffle",
     "wiki_title": "Sonic Shuffle",
     "wiki_url": "https://en.wikipedia.org/wiki/Sonic_Shuffle",
     "redlink": false,
     "release_date": "November 14",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "DC",
-      "handheld releases": "— N/a",
-      "other releases": "— N/a"
+      "platform": "DC"
     },
     "platforms": [
       "Dreamcast"
@@ -2908,17 +2507,14 @@
   },
   {
     "year": 2000,
-    "section": "Notable releases",
+    "section": "Games released in 2000",
     "title": "Blues Brothers 2000",
     "wiki_title": "Blues Brothers 2000 (video game)",
     "wiki_url": "https://en.wikipedia.org/wiki/Blues_Brothers_2000_(video_game)",
     "redlink": false,
     "release_date": "November 16",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "N64",
-      "handheld releases": "— N/a",
-      "other releases": "— N/a"
+      "platform": "N64"
     },
     "platforms": [
       "Nintendo 64"
@@ -2926,17 +2522,14 @@
   },
   {
     "year": 2000,
-    "section": "Notable releases",
+    "section": "Games released in 2000",
     "title": "Sky Odyssey",
     "wiki_title": "Sky Odyssey",
     "wiki_url": "https://en.wikipedia.org/wiki/Sky_Odyssey",
     "redlink": false,
     "release_date": "November 17",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "PS2",
-      "handheld releases": "— N/a",
-      "other releases": "— N/a"
+      "platform": "PS2"
     },
     "platforms": [
       "PlayStation 2"
@@ -2944,17 +2537,14 @@
   },
   {
     "year": 2000,
-    "section": "Notable releases",
+    "section": "Games released in 2000",
     "title": "Tomb Raider: Chronicles",
     "wiki_title": null,
     "wiki_url": null,
     "redlink": null,
     "release_date": "November 17",
     "platform_breakdown": {
-      "computer releases": "WIN",
-      "console releases": "PS1, DC",
-      "handheld releases": "— N/a",
-      "other releases": "— N/a"
+      "platform": "WIN, PS1, DC"
     },
     "platforms": [
       "Windows",
@@ -2964,17 +2554,14 @@
   },
   {
     "year": 2000,
-    "section": "Notable releases",
+    "section": "Games released in 2000",
     "title": "Hitman: Codename 47",
     "wiki_title": null,
     "wiki_url": null,
     "redlink": null,
     "release_date": "November 19",
     "platform_breakdown": {
-      "computer releases": "WIN",
-      "console releases": "— N/a",
-      "handheld releases": "— N/a",
-      "other releases": "— N/a"
+      "platform": "WIN"
     },
     "platforms": [
       "Windows"
@@ -2982,17 +2569,14 @@
   },
   {
     "year": 2000,
-    "section": "Notable releases",
+    "section": "Games released in 2000",
     "title": "007 Racing",
     "wiki_title": "007 Racing",
     "wiki_url": "https://en.wikipedia.org/wiki/007_Racing",
     "redlink": false,
     "release_date": "November 20",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "PS1",
-      "handheld releases": "— N/a",
-      "other releases": "— N/a"
+      "platform": "PS1"
     },
     "platforms": [
       "PlayStation"
@@ -3000,17 +2584,14 @@
   },
   {
     "year": 2000,
-    "section": "Notable releases",
+    "section": "Games released in 2000",
     "title": "Batman Beyond: Return of the Joker",
     "wiki_title": null,
     "wiki_url": null,
     "redlink": null,
     "release_date": "November 20",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "N64",
-      "handheld releases": "— N/a",
-      "other releases": "— N/a"
+      "platform": "N64"
     },
     "platforms": [
       "PlayStation",
@@ -3020,17 +2601,14 @@
   },
   {
     "year": 2000,
-    "section": "Notable releases",
+    "section": "Games released in 2000",
     "title": "Dave Mirra Freestyle BMX",
     "wiki_title": "Dave Mirra Freestyle BMX",
     "wiki_url": "https://en.wikipedia.org/wiki/Dave_Mirra_Freestyle_BMX",
     "redlink": false,
     "release_date": "November 20",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "DC",
-      "handheld releases": "— N/a",
-      "other releases": "— N/a"
+      "platform": "DC"
     },
     "platforms": [
       "Dreamcast"
@@ -3038,17 +2616,14 @@
   },
   {
     "year": 2000,
-    "section": "Notable releases",
+    "section": "Games released in 2000",
     "title": "Harvest Moon: Back to Nature",
     "wiki_title": null,
     "wiki_url": null,
     "redlink": null,
     "release_date": "November 22",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "PS1",
-      "handheld releases": "— N/a",
-      "other releases": "— N/a"
+      "platform": "PS1"
     },
     "platforms": [
       "PlayStation"
@@ -3056,17 +2631,14 @@
   },
   {
     "year": 2000,
-    "section": "Notable releases",
+    "section": "Games released in 2000",
     "title": "MechWarrior 4: Vengeance",
     "wiki_title": null,
     "wiki_url": null,
     "redlink": null,
     "release_date": "November 23",
     "platform_breakdown": {
-      "computer releases": "WIN",
-      "console releases": "— N/a",
-      "handheld releases": "— N/a",
-      "other releases": "Arcade"
+      "platform": "WIN, Arcade"
     },
     "platforms": [
       "Windows",
@@ -3075,17 +2647,14 @@
   },
   {
     "year": 2000,
-    "section": "Notable releases",
+    "section": "Games released in 2000",
     "title": "Star Trek: Deep Space Nine: The Fallen",
     "wiki_title": null,
     "wiki_url": null,
     "redlink": null,
     "release_date": "November 23",
     "platform_breakdown": {
-      "computer releases": "WIN",
-      "console releases": "— N/a",
-      "handheld releases": "— N/a",
-      "other releases": "— N/a"
+      "platform": "WIN"
     },
     "platforms": [
       "Windows"
@@ -3093,17 +2662,14 @@
   },
   {
     "year": 2000,
-    "section": "Notable releases",
+    "section": "Games released in 2000",
     "title": "Nancy Drew: Message in a Haunted Mansion",
     "wiki_title": null,
     "wiki_url": null,
     "redlink": null,
     "release_date": "November 24",
     "platform_breakdown": {
-      "computer releases": "WIN",
-      "console releases": "— N/a",
-      "handheld releases": "— N/a",
-      "other releases": "— N/a"
+      "platform": "WIN"
     },
     "platforms": [
       "Windows"
@@ -3111,17 +2677,14 @@
   },
   {
     "year": 2000,
-    "section": "Notable releases",
+    "section": "Games released in 2000",
     "title": "Godzilla: The Series: Monster Wars",
     "wiki_title": null,
     "wiki_url": null,
     "redlink": null,
     "release_date": "November 30",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "— N/a",
-      "handheld releases": "GBC",
-      "other releases": "— N/a"
+      "platform": "GBC"
     },
     "platforms": [
       "Game Boy Color"
@@ -3129,17 +2692,14 @@
   },
   {
     "year": 2000,
-    "section": "Notable releases",
+    "section": "Games released in 2000",
     "title": "Scooby-Doo! Classic Creep Capers",
     "wiki_title": "Scooby-Doo! Classic Creep Capers",
     "wiki_url": "https://en.wikipedia.org/wiki/Scooby-Doo!_Classic_Creep_Capers",
     "redlink": false,
     "release_date": "November 30",
     "platform_breakdown": {
-      "computer releases": "WIN",
-      "console releases": "N64",
-      "handheld releases": "— N/a",
-      "other releases": "— N/a"
+      "platform": "WIN, N64"
     },
     "platforms": [
       "Windows",
@@ -3148,17 +2708,14 @@
   },
   {
     "year": 2000,
-    "section": "Notable releases",
+    "section": "Games released in 2000",
     "title": "Crime Cities",
     "wiki_title": "Crime Cities",
     "wiki_url": "https://en.wikipedia.org/wiki/Crime_Cities",
     "redlink": false,
     "release_date": "December 1",
     "platform_breakdown": {
-      "computer releases": "WIN",
-      "console releases": "— N/a",
-      "handheld releases": "— N/a",
-      "other releases": "— N/a"
+      "platform": "WIN"
     },
     "platforms": [
       "Windows"
@@ -3166,17 +2723,14 @@
   },
   {
     "year": 2000,
-    "section": "Notable releases",
+    "section": "Games released in 2000",
     "title": "Disney's Aladdin in Nasira's Revenge",
     "wiki_title": "Disney's Aladdin in Nasira's Revenge",
     "wiki_url": "https://en.wikipedia.org/wiki/Disney%27s_Aladdin_in_Nasira%27s_Revenge",
     "redlink": false,
     "release_date": "December 1",
     "platform_breakdown": {
-      "computer releases": "WIN",
-      "console releases": "PS1",
-      "handheld releases": "— N/a",
-      "other releases": "— N/a"
+      "platform": "WIN, PS1"
     },
     "platforms": [
       "Windows",
@@ -3185,17 +2739,14 @@
   },
   {
     "year": 2000,
-    "section": "Notable releases",
+    "section": "Games released in 2000",
     "title": "Evil Dead: Hail to the King",
     "wiki_title": null,
     "wiki_url": null,
     "redlink": null,
     "release_date": "December 4",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "PS1",
-      "handheld releases": "— N/a",
-      "other releases": "— N/a"
+      "platform": "PS1"
     },
     "platforms": [
       "PlayStation"
@@ -3203,17 +2754,14 @@
   },
   {
     "year": 2000,
-    "section": "Notable releases",
+    "section": "Games released in 2000",
     "title": "American McGee's Alice",
     "wiki_title": "American McGee's Alice",
     "wiki_url": "https://en.wikipedia.org/wiki/American_McGee%27s_Alice",
     "redlink": false,
     "release_date": "December 6",
     "platform_breakdown": {
-      "computer releases": "WIN",
-      "console releases": "— N/a",
-      "handheld releases": "— N/a",
-      "other releases": "— N/a"
+      "platform": "WIN"
     },
     "platforms": [
       "Windows"
@@ -3221,17 +2769,14 @@
   },
   {
     "year": 2000,
-    "section": "Notable releases",
+    "section": "Games released in 2000",
     "title": "Giants: Citizen Kabuto",
     "wiki_title": null,
     "wiki_url": null,
     "redlink": null,
     "release_date": "December 7",
     "platform_breakdown": {
-      "computer releases": "WIN",
-      "console releases": "— N/a",
-      "handheld releases": "— N/a",
-      "other releases": "— N/a"
+      "platform": "WIN"
     },
     "platforms": [
       "Windows"
@@ -3239,17 +2784,15 @@
   },
   {
     "year": 2000,
-    "section": "Notable releases",
-    "title": "Mario Party 3 (Japan)",
+    "section": "Games released in 2000",
+    "title": "Mario Party 3",
     "wiki_title": "Mario Party 3",
     "wiki_url": "https://en.wikipedia.org/wiki/Mario_Party_3",
     "redlink": false,
+    "region": "JP",
     "release_date": "December 7",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "N64",
-      "handheld releases": "— N/a",
-      "other releases": "— N/a"
+      "platform": "N64"
     },
     "platforms": [
       "Nintendo 64"
@@ -3257,17 +2800,14 @@
   },
   {
     "year": 2000,
-    "section": "Notable releases",
+    "section": "Games released in 2000",
     "title": "Project Justice",
     "wiki_title": "Project Justice",
     "wiki_url": "https://en.wikipedia.org/wiki/Project_Justice",
     "redlink": false,
     "release_date": "December 7",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "DC",
-      "handheld releases": "— N/a",
-      "other releases": "Arcade"
+      "platform": "DC, Arcade"
     },
     "platforms": [
       "Dreamcast",
@@ -3276,17 +2816,14 @@
   },
   {
     "year": 2000,
-    "section": "Notable releases",
+    "section": "Games released in 2000",
     "title": "Monster Rancher Hop-A-Bout",
     "wiki_title": "Monster Rancher Hop-A-Bout",
     "wiki_url": "https://en.wikipedia.org/wiki/Monster_Rancher_Hop-A-Bout",
     "redlink": false,
     "release_date": "December 10",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "PS1",
-      "handheld releases": "— N/a",
-      "other releases": "— N/a"
+      "platform": "PS1"
     },
     "platforms": [
       "PlayStation"
@@ -3294,17 +2831,15 @@
   },
   {
     "year": 2000,
-    "section": "Notable releases",
-    "title": "Dark Cloud (Japan)",
+    "section": "Games released in 2000",
+    "title": "Dark Cloud",
     "wiki_title": "Dark Cloud",
     "wiki_url": "https://en.wikipedia.org/wiki/Dark_Cloud",
     "redlink": false,
+    "region": "JP",
     "release_date": "December 14",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "PS2",
-      "handheld releases": "— N/a",
-      "other releases": "— N/a"
+      "platform": "PS2"
     },
     "platforms": [
       "PlayStation 2"
@@ -3312,17 +2847,15 @@
   },
   {
     "year": 2000,
-    "section": "Notable releases",
-    "title": "Pokémon Crystal (Japan)",
+    "section": "Games released in 2000",
+    "title": "Pokémon Crystal",
     "wiki_title": "Pokémon Crystal",
     "wiki_url": "https://en.wikipedia.org/wiki/Pok%C3%A9mon_Crystal",
     "redlink": false,
+    "region": "JP",
     "release_date": "December 14",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "GBC",
-      "handheld releases": "— N/a",
-      "other releases": "— N/a"
+      "platform": "GBC"
     },
     "platforms": [
       "Game Boy Color"
@@ -3330,35 +2863,14 @@
   },
   {
     "year": 2000,
-    "section": "Notable releases",
-    "title": "Phantasy Star Online (Japan)",
-    "wiki_title": "Phantasy Star Online",
-    "wiki_url": "https://en.wikipedia.org/wiki/Phantasy_Star_Online",
-    "redlink": false,
-    "release_date": "December 21",
-    "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "DC",
-      "handheld releases": "— N/a",
-      "other releases": "— N/a"
-    },
-    "platforms": [
-      "Dreamcast"
-    ]
-  },
-  {
-    "year": 2000,
-    "section": "Notable releases",
+    "section": "Games released in 2000",
     "title": "ECW Anarchy Rulz",
     "wiki_title": "ECW Anarchy Rulz (video game)",
     "wiki_url": "https://en.wikipedia.org/wiki/ECW_Anarchy_Rulz_(video_game)",
     "redlink": false,
     "release_date": "December 30",
     "platform_breakdown": {
-      "computer releases": "— N/a",
-      "console releases": "DC",
-      "handheld releases": "— N/a",
-      "other releases": "— N/a"
+      "platform": "DC"
     },
     "platforms": [
       "Dreamcast"

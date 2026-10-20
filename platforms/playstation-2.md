@@ -2,7 +2,73 @@
 
 [← Back to index](../README.md)
 
-1050 titles across 12 years in this archive.
+1034 titles across 14 years in this archive.
+
+## 2013
+
+[Full 2013 page](../years/2013.md)
+
+### FIFA 14
+
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co206x.jpg" alt="FIFA 14 cover" width="200">
+
+**Platforms:** iOS, Android, Windows, PlayStation 3, Xbox 360, Wii, PlayStation 2, PlayStation Vita, Nintendo 3DS, PlayStation Portable, PlayStation 4, Xbox One &nbsp;|&nbsp; **Genre:** Sports &nbsp;|&nbsp; **Released:** September 23
+
+> FIFA 14 is a 2013 sports association football simulation video game developed by EA Canada and published by Electronic Arts.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/FIFA_14) · [IGDB](https://www.igdb.com/games/fifa-14)
+
+---
+
+### Pro Evolution Soccer 2014
+
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co1ugw.jpg" alt="Pro Evolution Soccer 2014 cover" width="200">
+
+**Platforms:** Windows, PlayStation 3, Xbox 360, PlayStation 2, Nintendo 3DS, PlayStation Portable &nbsp;|&nbsp; **Genre:** Sports &nbsp;|&nbsp; **Released:** September 24
+
+> Pro Evolution Soccer 2014 (PES 2014) is a football simulation game developed by Konami. Released in 2013, it is part of the long-running Pro Evolution Soccer series and introduces a new engine, updated mechanics, and expanded features across multiple platforms.  PES 2014 centers gameplay around realistic ball physics, player motion, and team dynamics. It introduces the Motion Animation Stability System (M.A.S.S.) to enhance physical interactions between players, making tackles, collisions, and positioning more lifelike. The game also features a morale system where crowd influence and individual performances affect team behavior on the pitch.  The Player ID system, first introduced in PES 2013, is expanded to cover more star players and now replicates full squad behaviors to reflect real-world playing styles. A new Combination Plan allows users to coordinate tactical plays among three or more players, enabling more diverse and strategic attacking options.  Additional features include the ability to switch clubs or coach national teams in Master League, create third and fourth kits (with some official options), and play the UEFA Europa League in a dedicated mode.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Pro_Evolution_Soccer_2014) · [IGDB](https://www.igdb.com/games/pro-evolution-soccer-2014)
+
+---
+
+## 2012
+
+[Full 2012 page](../years/2012.md)
+
+### FIFA 13
+
+**Platforms:** Xbox 360, Windows, PlayStation 3, Wii, PlayStation Vita, PlayStation Portable, PlayStation 2, iOS &nbsp;|&nbsp; **Publisher:** EA Sports &nbsp;|&nbsp; **Released:** September 25, 2012
+
+[Wikipedia](https://en.wikipedia.org/wiki/FIFA_13)
+
+---
+
+### Major League Baseball 2K12
+
+**Platforms:** Windows, PlayStation 3, Xbox 360, Wii, PlayStation 2, PlayStation Portable, Nintendo DS &nbsp;|&nbsp; **Released:** March 6
+
+[Wikipedia](https://en.wikipedia.org/wiki/Major_League_Baseball_2K12)
+
+---
+
+### Pro Evolution Soccer 2013
+
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/coarps.jpg" alt="Pro Evolution Soccer 2013 cover" width="200">
+
+**Platforms:** Windows, PlayStation 3, Xbox 360, Wii, PlayStation 2, PlayStation Portable &nbsp;|&nbsp; **Genre:** Simulator, Sport &nbsp;|&nbsp; **Released:** September 25
+
+> Pro Evolution Soccer 2013 (also known as World Soccer: Winning Eleven 2013 in Japan and South Korea) is an association football video game part of the Pro Evolution Soccer series, developed and published by Konami.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Pro_Evolution_Soccer_2013) · [IGDB](https://www.igdb.com/games/pro-evolution-soccer-2013)
+
+---
 
 ## 2011
 
@@ -1128,9 +1194,9 @@
 
 ---
 
-### Brian Lara International Cricket 2007 (EU)
+### Brian Lara International Cricket 2007
 
-**Platforms:** PlayStation 2, Xbox 360, Windows &nbsp;|&nbsp; **Released:** March 23
+**Platforms:** PlayStation 2, Xbox 360, Windows &nbsp;|&nbsp; **Released:** March 23 (EU)
 
 [Wikipedia](https://en.wikipedia.org/wiki/Brian_Lara_International_Cricket_2007)
 
@@ -1216,7 +1282,7 @@
 
 ### Dragon Ball Z Budokai Tenkaichi 3
 
-**Platforms:** PlayStation 2 &nbsp;|&nbsp; **Released:** November 13
+**Platforms:** PlayStation 2, Wii &nbsp;|&nbsp; **Released:** November 13
 
 [Wikipedia](https://en.wikipedia.org/wiki/Dragon_Ball_Z_Budokai_Tenkaichi_3)
 
@@ -1500,9 +1566,9 @@
 
 ---
 
-### Persona 3 (NA)
+### Persona 3
 
-**Platforms:** PlayStation 2 &nbsp;|&nbsp; **Released:** August 14
+**Platforms:** PlayStation 2 &nbsp;|&nbsp; **Released:** August 14 (NA)
 
 [Wikipedia](https://en.wikipedia.org/wiki/Persona_3)
 
@@ -1734,7 +1800,7 @@
 
 <img src="../images/steam-8000.jpg" alt="Tomb Raider: Anniversary cover" width="200">
 
-**Platforms:** PlayStation 2, Windows, PlayStation Portable, Xbox 360, Wii, Mobile phone &nbsp;|&nbsp; **Genre:** Action, Adventure &nbsp;|&nbsp; **Released:** June 5
+**Platforms:** PlayStation 2, Windows, PlayStation Portable, Xbox 360, Wii, Mobile phone &nbsp;|&nbsp; **Genre:** Action, Adventure &nbsp;|&nbsp; **Released:** June 5 (EU/AU)
 
 > Tomb Raider: Anniversary retraces Lara Croft's original genre-defining adventure  globe-trotting 3rd person action-adventure in pursuit of the legendary Scion artifact. Using an enhanced 'Tomb Raider: Legend' game engine, the graphics, technology and physics bring Lara's adventure and pursuit of a mystical artifact known only as the...
 >
@@ -1884,23 +1950,11 @@
 
 ---
 
-### Barnyard (AU)
+### Barnyard
 
-**Platforms:** Windows, PlayStation 2, Game Boy Advance &nbsp;|&nbsp; **Released:** September 14
-
----
-
-### Barnyard (NA)
-
-**Platforms:** Windows, PlayStation 2, GameCube, Game Boy Advance &nbsp;|&nbsp; **Released:** August 1
+**Platforms:** Windows, PlayStation 2, GameCube, Game Boy Advance, Wii &nbsp;|&nbsp; **Released:** August 1 (NA/AU/PAL)
 
 [Wikipedia](https://en.wikipedia.org/wiki/Barnyard_(video_game))
-
----
-
-### Barnyard (PAL)
-
-**Platforms:** Windows, PlayStation 2, GameCube, Game Boy Advance &nbsp;|&nbsp; **Released:** October 13
 
 ---
 
@@ -1928,15 +1982,9 @@
 
 ---
 
-### Call of Duty 3 (AU)
+### Call of Duty 3
 
-**Platforms:** Xbox 360, PlayStation 2, Xbox &nbsp;|&nbsp; **Released:** November 15
-
----
-
-### Call of Duty 3 (EU)
-
-**Platforms:** Xbox, Xbox 360, PlayStation 2 &nbsp;|&nbsp; **Released:** November 10
+**Platforms:** Xbox, Xbox 360, PlayStation 3, PlayStation 2 &nbsp;|&nbsp; **Released:** November 10 (EU/AU)
 
 ---
 
@@ -1948,15 +1996,9 @@
 
 ---
 
-### Cars (AU)
+### Cars
 
-**Platforms:** Windows, PlayStation 2, Xbox, GameCube, Game Boy Advance, Nintendo DS, PlayStation Portable, Xbox 360, Wii &nbsp;|&nbsp; **Released:** June 8
-
----
-
-### Cars (EU)
-
-**Platforms:** Windows, PlayStation 2, Xbox, GameCube, Game Boy Advance, Nintendo DS, PlayStation Portable, Xbox 360, Wii &nbsp;|&nbsp; **Released:** July 14
+**Platforms:** Windows, PlayStation 2, Xbox, GameCube, Game Boy Advance, Nintendo DS, PlayStation Portable, Xbox 360, Wii &nbsp;|&nbsp; **Released:** June 8 (AU/EU)
 
 ---
 
@@ -2062,21 +2104,9 @@
 
 ---
 
-### Family Guy Video Game! (AU)
+### Family Guy Video Game!
 
-**Platforms:** PlayStation 2, Xbox, PlayStation Portable &nbsp;|&nbsp; **Released:** November 3
-
----
-
-### Family Guy Video Game! (EU)
-
-**Platforms:** PlayStation 2, Xbox, PlayStation Portable &nbsp;|&nbsp; **Released:** October 26
-
----
-
-### Family Guy Video Game! (NA)
-
-**Platforms:** PlayStation 2, Xbox, PlayStation Portable &nbsp;|&nbsp; **Released:** October 17
+**Platforms:** PlayStation 2, Xbox, PlayStation Portable &nbsp;|&nbsp; **Released:** October 17 (NA/EU/AU)
 
 [Wikipedia](https://en.wikipedia.org/wiki/Family_Guy_Video_Game!)
 
@@ -2092,15 +2122,7 @@
 
 ### Final Fantasy XII
 
-**Platforms:** PlayStation 2 &nbsp;|&nbsp; **Publisher:** Square Enix &nbsp;|&nbsp; **Released:** March 16, 2006
-
-[Wikipedia](https://en.wikipedia.org/wiki/Final_Fantasy_XII)
-
----
-
-### Final Fantasy XII (JP)
-
-**Platforms:** PlayStation 2 &nbsp;|&nbsp; **Released:** March 16
+**Platforms:** PlayStation 2 &nbsp;|&nbsp; **Publisher:** Square Enix &nbsp;|&nbsp; **Released:** March 16, 2006 (JP)
 
 [Wikipedia](https://en.wikipedia.org/wiki/Final_Fantasy_XII)
 
@@ -2150,15 +2172,15 @@
 
 ---
 
-### Happy Feet (EU)
+### Happy Feet
 
-**Platforms:** Windows, PlayStation 2, GameCube, Game Boy Advance, Nintendo DS, Wii &nbsp;|&nbsp; **Released:** November 24
+**Platforms:** Windows, PlayStation 2, GameCube, Game Boy Advance, Nintendo DS, Wii &nbsp;|&nbsp; **Released:** November 24 (EU)
 
 ---
 
 ### Happy Feet (USA)
 
-**Platforms:** Windows, PlayStation 2, GameCube, Game Boy Advance, Nintendo DS, Wii &nbsp;|&nbsp; **Genre:** [ 81 ] &nbsp;|&nbsp; **Released:** November 14
+**Platforms:** Windows, PlayStation 2, GameCube, Game Boy Advance, Nintendo DS, Wii &nbsp;|&nbsp; **Released:** November 14
 
 [Wikipedia](https://en.wikipedia.org/wiki/Happy_Feet_(video_game))
 
@@ -2178,15 +2200,9 @@
 
 ---
 
-### Ice Age 2: The Meltdown (EU)
+### Ice Age 2: The Meltdown
 
-**Platforms:** Windows, PlayStation 2, Xbox, GameCube, Game Boy Advance, Nintendo DS, Wii &nbsp;|&nbsp; **Released:** March 31
-
----
-
-### Ice Age 2: The Meltdown (JP)
-
-**Platforms:** Windows, PlayStation 2, Xbox, GameCube, Game Boy Advance, Nintendo DS &nbsp;|&nbsp; **Released:** October 6
+**Platforms:** Windows, PlayStation 2, Xbox, GameCube, Game Boy Advance, Nintendo DS, Wii &nbsp;|&nbsp; **Released:** March 31 (EU/JP)
 
 ---
 
@@ -2204,7 +2220,7 @@
 
 ### Jaws: Unleashed
 
-**Platforms:** PlayStation 2, Xbox &nbsp;|&nbsp; **Released:** May 23
+**Platforms:** PlayStation 2, Xbox, Windows &nbsp;|&nbsp; **Released:** May 23 (EU/AU)
 
 ---
 
@@ -2238,9 +2254,9 @@
 
 ---
 
-### Kingdom Hearts II (AU, EU)
+### Kingdom Hearts II
 
-**Platforms:** PlayStation 2 &nbsp;|&nbsp; **Released:** September 28
+**Platforms:** PlayStation 2 &nbsp;|&nbsp; **Released:** September 28 (AU/EU)
 
 [Wikipedia](https://en.wikipedia.org/wiki/Kingdom_Hearts_II)
 
@@ -2254,9 +2270,9 @@
 
 ---
 
-### KOF: Maximum Impact 2 (JP)
+### KOF: Maximum Impact 2
 
-**Platforms:** PlayStation 2 &nbsp;|&nbsp; **Released:** April 27
+**Platforms:** PlayStation 2 &nbsp;|&nbsp; **Released:** April 27 (JP)
 
 [Wikipedia](https://en.wikipedia.org/wiki/King_of_Fighters_Maximum_Impact_2)
 
@@ -2318,21 +2334,9 @@
 
 ---
 
-### Monster House (AU)
+### Monster House
 
-**Platforms:** PlayStation 2, GameCube, Game Boy Advance, Nintendo DS &nbsp;|&nbsp; **Released:** September 7
-
----
-
-### Monster House (EU)
-
-**Platforms:** PlayStation 2, GameCube, Game Boy Advance, Nintendo DS &nbsp;|&nbsp; **Released:** August 4
-
----
-
-### Monster House (NA)
-
-**Platforms:** PlayStation 2, GameCube, Game Boy Advance, Nintendo DS &nbsp;|&nbsp; **Released:** July 18
+**Platforms:** PlayStation 2, GameCube, Game Boy Advance, Nintendo DS &nbsp;|&nbsp; **Released:** July 18 (NA/EU/AU)
 
 [Wikipedia](https://en.wikipedia.org/wiki/Monster_House_(video_game))
 
@@ -2398,15 +2402,9 @@
 
 ---
 
-### Open Season (AU)
+### Open Season
 
-**Platforms:** Windows, GameCube, PlayStation 2, Xbox, Xbox 360, Game Boy Advance, Nintendo DS, PlayStation Portable &nbsp;|&nbsp; **Released:** November 30
-
----
-
-### Open Season (EU)
-
-**Platforms:** Windows, GameCube, PlayStation 2, Xbox, Xbox 360, Game Boy Advance, Nintendo DS, PlayStation Portable, Wii &nbsp;|&nbsp; **Released:** October 6
+**Platforms:** Windows, GameCube, PlayStation 2, Xbox, Xbox 360, Game Boy Advance, Nintendo DS, PlayStation Portable, Wii &nbsp;|&nbsp; **Released:** October 6 (EU/AU)
 
 ---
 
@@ -2424,21 +2422,9 @@
 
 ---
 
-### Over the Hedge (AU)
+### Over the Hedge
 
-**Platforms:** Windows, PlayStation 2, Xbox, GameCube, Game Boy Advance &nbsp;|&nbsp; **Released:** June 14
-
----
-
-### Over the Hedge (EU)
-
-**Platforms:** Windows, PlayStation 2, Xbox, GameCube, Game Boy Advance &nbsp;|&nbsp; **Released:** June 8
-
----
-
-### Over the Hedge (NA)
-
-**Platforms:** Windows, PlayStation 2, Xbox, GameCube, Game Boy Advance &nbsp;|&nbsp; **Released:** May 9
+**Platforms:** Windows, PlayStation 2, Xbox, GameCube, Game Boy Advance &nbsp;|&nbsp; **Released:** May 9 (NA/EU/AU)
 
 [Wikipedia](https://en.wikipedia.org/wiki/Over_the_Hedge_(video_game))
 
@@ -2452,9 +2438,9 @@
 
 ---
 
-### Persona 3 (JP)
+### Persona 3
 
-**Platforms:** PlayStation 2 &nbsp;|&nbsp; **Released:** July 13
+**Platforms:** PlayStation 2 &nbsp;|&nbsp; **Released:** July 13 (JP)
 
 [Wikipedia](https://en.wikipedia.org/wiki/Persona_3)
 
@@ -2480,15 +2466,9 @@
 
 ---
 
-### Rayman Raving Rabbids (AU)
+### Rayman Raving Rabbids
 
-**Platforms:** Windows, PlayStation 2, Wii &nbsp;|&nbsp; **Released:** December 7
-
----
-
-### Rayman Raving Rabbids (EU)
-
-**Platforms:** Windows, PlayStation 2, Wii &nbsp;|&nbsp; **Released:** December 8
+**Platforms:** Windows, PlayStation 2, Wii &nbsp;|&nbsp; **Released:** December 7 (AU/EU)
 
 ---
 
@@ -2528,9 +2508,9 @@
 
 ---
 
-### Siren 2 (JP)
+### Siren 2
 
-**Platforms:** PlayStation 2 &nbsp;|&nbsp; **Released:** February 9
+**Platforms:** PlayStation 2 &nbsp;|&nbsp; **Released:** February 9 (JP)
 
 [Wikipedia](https://en.wikipedia.org/wiki/Forbidden_Siren_2)
 
@@ -2550,15 +2530,9 @@
 
 ---
 
-### SpongeBob SquarePants: Creature from the Krusty Krab (AU)
+### SpongeBob SquarePants: Creature from the Krusty Krab
 
-**Platforms:** PlayStation 2, GameCube, Game Boy Advance, Nintendo DS, Wii &nbsp;|&nbsp; **Released:** November 2
-
----
-
-### SpongeBob SquarePants: Creature from the Krusty Krab (EU)
-
-**Platforms:** PlayStation 2, GameCube, Game Boy Advance, Nintendo DS, Wii &nbsp;|&nbsp; **Released:** November 10
+**Platforms:** Windows, PlayStation 2, GameCube, Game Boy Advance, Nintendo DS, Wii &nbsp;|&nbsp; **Released:** August 15 (AU/EU)
 
 ---
 
@@ -2670,27 +2644,15 @@
 
 ### The Grim Adventures of Billy & Mandy
 
-**Platforms:** GameCube, PlayStation 2, Game Boy Advance &nbsp;|&nbsp; **Released:** September 25
+**Platforms:** GameCube, PlayStation 2, Game Boy Advance, Wii &nbsp;|&nbsp; **Released:** September 25 (NA)
 
 [Wikipedia](https://en.wikipedia.org/wiki/The_Grim_Adventures_of_Billy_%26_Mandy_(video_game))
 
 ---
 
-### The Legend of Spyro: A New Beginning (AU)
+### The Legend of Spyro: A New Beginning
 
-**Platforms:** PlayStation 2, Xbox, GameCube, Game Boy Advance, Nintendo DS &nbsp;|&nbsp; **Released:** November 2
-
----
-
-### The Legend of Spyro: A New Beginning (EU)
-
-**Platforms:** PlayStation 2, Xbox, GameCube, Game Boy Advance, Nintendo DS &nbsp;|&nbsp; **Released:** October 27
-
----
-
-### The Legend of Spyro: A New Beginning (NA)
-
-**Platforms:** PlayStation 2, Xbox, GameCube, Game Boy Advance, Nintendo DS &nbsp;|&nbsp; **Released:** October 10
+**Platforms:** PlayStation 2, Xbox, GameCube, Game Boy Advance, Nintendo DS &nbsp;|&nbsp; **Released:** October 10 (NA/EU/AU)
 
 ---
 
@@ -2836,9 +2798,9 @@
 
 ---
 
-### Yakuza 2 (JP)
+### Yakuza 2
 
-**Platforms:** PlayStation 2 &nbsp;|&nbsp; **Released:** December 7
+**Platforms:** PlayStation 2 &nbsp;|&nbsp; **Released:** December 7 (JP)
 
 [Wikipedia](https://en.wikipedia.org/wiki/Yakuza_2)
 
@@ -3126,9 +3088,9 @@
 
 ---
 
-### Dragon Quest VIII (NA)
+### Dragon Quest VIII
 
-**Platforms:** PlayStation 2 &nbsp;|&nbsp; **Released:** November 15
+**Platforms:** PlayStation 2 &nbsp;|&nbsp; **Released:** November 15 (NA)
 
 [Wikipedia](https://en.wikipedia.org/wiki/Dragon_Quest_VIII)
 
@@ -3234,9 +3196,9 @@
 
 ---
 
-### FlatOut (JP)
+### FlatOut
 
-**Platforms:** PlayStation 2 &nbsp;|&nbsp; **Released:** October 13
+**Platforms:** Windows, Xbox, PlayStation 2 &nbsp;|&nbsp; **Released:** July 12 (NA/JP)
 
 [Wikipedia](https://en.wikipedia.org/wiki/FlatOut_(video_game))
 
@@ -3372,9 +3334,9 @@
 
 ---
 
-### Kingdom Hearts II (JP)
+### Kingdom Hearts II
 
-**Platforms:** PlayStation 2 &nbsp;|&nbsp; **Released:** December 22
+**Platforms:** PlayStation 2 &nbsp;|&nbsp; **Released:** December 22 (JP)
 
 [Wikipedia](https://en.wikipedia.org/wiki/Kingdom_Hearts_II)
 
@@ -3468,9 +3430,9 @@
 
 ---
 
-### Mortal Kombat: Shaolin Monks (EU)
+### Mortal Kombat: Shaolin Monks
 
-**Platforms:** PlayStation 2, Xbox &nbsp;|&nbsp; **Released:** September 30
+**Platforms:** PlayStation 2, Xbox &nbsp;|&nbsp; **Released:** September 30 (EU)
 
 ---
 
@@ -3522,7 +3484,7 @@
 
 <img src="../images/steam-1262560.jpg" alt="Need for Speed: Most Wanted cover" width="200">
 
-**Platforms:** Windows, PlayStation 2, Xbox, GameCube, Game Boy Advance, Nintendo DS, PlayStation Portable, Xbox 360 &nbsp;|&nbsp; **Genre:** Action, Adventure, Racing &nbsp;|&nbsp; **Released:** November 16
+**Platforms:** Windows, PlayStation 2, Xbox, GameCube, Game Boy Advance, Nintendo DS, PlayStation Portable, Xbox 360 &nbsp;|&nbsp; **Genre:** Action, Adventure, Racing &nbsp;|&nbsp; **Released:** November 15
 
 > The open-world action in Need for Speed Most Wanted gives you the freedom to drive your way. Hit jumps and shortcuts, switch cars, lie low or head for terrain that plays to your vehicle’s unique strengths. Fight your way past cops and rivals using skill, high-end car tech and tons of nitrous.
 >
@@ -3962,9 +3924,9 @@
 
 ---
 
-### Yakuza (JP)
+### Yakuza
 
-**Platforms:** PlayStation 2 &nbsp;|&nbsp; **Released:** December 8
+**Platforms:** PlayStation 2 &nbsp;|&nbsp; **Released:** December 8 (JP)
 
 [Wikipedia](https://en.wikipedia.org/wiki/Yakuza_(video_game))
 
@@ -4320,17 +4282,9 @@
 
 ---
 
-### Headhunter Redemption (EU)
+### Headhunter Redemption
 
-**Platforms:** PlayStation 2, Xbox &nbsp;|&nbsp; **Released:** August 27
-
-[Wikipedia](https://en.wikipedia.org/wiki/Headhunter_Redemption)
-
----
-
-### Headhunter Redemption (NA)
-
-**Platforms:** PlayStation 2, Xbox &nbsp;|&nbsp; **Released:** September 21
+**Platforms:** PlayStation 2, Xbox &nbsp;|&nbsp; **Released:** August 27 (EU/NA)
 
 [Wikipedia](https://en.wikipedia.org/wiki/Headhunter_Redemption)
 
@@ -5028,7 +4982,7 @@
 
 ---
 
-### Broken Sword: The Sleeping Dragon [ 46 ]
+### Broken Sword: The Sleeping Dragon
 
 **Platforms:** Windows, PlayStation 2, Xbox &nbsp;|&nbsp; **Released:** November 14
 
@@ -5194,7 +5148,7 @@
 
 ### Final Fantasy XI: Rise of the Zilart
 
-**Platforms:** Windows, PlayStation 2 &nbsp;|&nbsp; **Released:** April 17
+**Platforms:** Windows, PlayStation 2 &nbsp;|&nbsp; **Released:** April 17 (JP)
 
 [Wikipedia](https://en.wikipedia.org/wiki/Final_Fantasy_XI)
 
@@ -5268,9 +5222,9 @@
 
 ---
 
-### Indiana Jones and the Emperor's Tomb [ 44 ]
+### Indiana Jones and the Emperor's Tomb
 
-**Platforms:** PlayStation 2 &nbsp;|&nbsp; **Released:** June 26
+**Platforms:** Xbox, Windows, PlayStation 2 &nbsp;|&nbsp; **Released:** February 24
 
 [Wikipedia](https://en.wikipedia.org/wiki/Indiana_Jones_and_the_Emperor%27s_Tomb)
 
@@ -5288,7 +5242,7 @@
 
 <img src="../images/steam-3710.jpg" alt="Judge Dredd: Dredd vs. Death cover" width="200">
 
-**Platforms:** Windows, GameCube, PlayStation 2, Xbox &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** October 17
+**Platforms:** Windows, PlayStation 2, Xbox, GameCube &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** October 17 (EU)
 
 > Welcome to Mega-City One, a city of over 400 million people - every one of them a potential criminal. It is the third decade of the 22nd Century, unemployment is widespread, boredom is universal and only the Judges can prevent total anarchy. Empowered to dispense instant justice, they are Judge, Jury and Executioner all in one.
 >
@@ -5322,7 +5276,7 @@
 
 ---
 
-### Mace Griffin: Bounty Hunter [ 42 ]
+### Mace Griffin: Bounty Hunter
 
 **Platforms:** Windows, PlayStation 2, Xbox &nbsp;|&nbsp; **Released:** June 19
 
@@ -5454,9 +5408,9 @@
 
 ---
 
-### Need for Speed: Underground (North America)
+### Need for Speed: Underground
 
-**Platforms:** Windows, GameCube, PlayStation 2, Xbox &nbsp;|&nbsp; **Released:** November 17
+**Platforms:** Windows, GameCube, PlayStation 2, Xbox &nbsp;|&nbsp; **Released:** November 17 (NA)
 
 ---
 
@@ -5551,14 +5505,6 @@
 **Platforms:** PlayStation 2, Xbox, GameCube &nbsp;|&nbsp; **Released:** December 4
 
 [Wikipedia](https://en.wikipedia.org/wiki/Sonic_Heroes)
-
----
-
-### Soul Calibur II
-
-**Platforms:** PlayStation 2, Xbox, GameCube &nbsp;|&nbsp; **Released:** August 27
-
-[Wikipedia](https://en.wikipedia.org/wiki/Soul_Calibur_II)
 
 ---
 
@@ -6176,7 +6122,7 @@
 
 ### Final Fantasy XI
 
-**Platforms:** PlayStation 2 &nbsp;|&nbsp; **Released:** May 16
+**Platforms:** PlayStation 2 &nbsp;|&nbsp; **Released:** May 16 (JP)
 
 [Wikipedia](https://en.wikipedia.org/wiki/Final_Fantasy_XI)
 
@@ -6914,7 +6860,7 @@
 
 ### Space Channel 5 Part 2
 
-**Platforms:** PlayStation 2 &nbsp;|&nbsp; **Released:** November 28
+**Platforms:** PlayStation 2 &nbsp;|&nbsp; **Released:** November 28 (PAL)
 
 [Wikipedia](https://en.wikipedia.org/wiki/Space_Channel_5_Part_2)
 
@@ -7035,12 +6981,6 @@
 ### Test Drive
 
 **Platforms:** PlayStation 2 &nbsp;|&nbsp; **Released:** May 27
-
----
-
-### The Clone Wars
-
-**Platforms:** PlayStation 2 &nbsp;|&nbsp; **Released:** December 10
 
 ---
 
@@ -7410,7 +7350,7 @@
 
 ### Evil Twin: Cyprien's Chronicles
 
-**Platforms:** PlayStation 2 &nbsp;|&nbsp; **Released:** December 7
+**Platforms:** PlayStation 2 &nbsp;|&nbsp; **Released:** December 7 (EU/PAL)
 
 ---
 
@@ -7432,13 +7372,13 @@
 
 ### Final Fantasy X
 
-**Platforms:** PlayStation 2 &nbsp;|&nbsp; **Publisher:** Square &nbsp;|&nbsp; **Released:** July 19, 2001
+**Platforms:** PlayStation 2 &nbsp;|&nbsp; **Publisher:** Square &nbsp;|&nbsp; **Released:** July 19, 2001 (JP/NA)
 
 [Wikipedia](https://en.wikipedia.org/wiki/Final_Fantasy_X)
 
 ---
 
-### Frank Herbert's Dune [ 57 ]
+### Frank Herbert's Dune
 
 **Platforms:** Windows, PlayStation 2 &nbsp;|&nbsp; **Released:** November 14
 
@@ -7622,7 +7562,7 @@
 
 ### Red Faction
 
-**Platforms:** PlayStation 2 &nbsp;|&nbsp; **Publisher:** THQ &nbsp;|&nbsp; **Released:** May 22, 2001
+**Platforms:** PlayStation 2, Windows &nbsp;|&nbsp; **Publisher:** THQ &nbsp;|&nbsp; **Released:** May 22, 2001
 
 [Wikipedia](https://en.wikipedia.org/wiki/Red_Faction_(video_game))
 
@@ -7660,7 +7600,7 @@
 
 ### Soul Reaver 2
 
-**Platforms:** PlayStation 2 &nbsp;|&nbsp; **Released:** October 31
+**Platforms:** PlayStation 2, Windows &nbsp;|&nbsp; **Released:** October 31
 
 [Wikipedia](https://en.wikipedia.org/wiki/Soul_Reaver_2)
 
@@ -7752,9 +7692,9 @@
 
 [Full 2000 page](../years/2000.md)
 
-### Dark Cloud (Japan)
+### Dark Cloud
 
-**Platforms:** PlayStation 2 &nbsp;|&nbsp; **Released:** December 14
+**Platforms:** PlayStation 2 &nbsp;|&nbsp; **Released:** December 14 (JP)
 
 [Wikipedia](https://en.wikipedia.org/wiki/Dark_Cloud)
 
@@ -7763,14 +7703,6 @@
 ### Dead or Alive 2
 
 **Platforms:** Dreamcast, PlayStation 2 &nbsp;|&nbsp; **Publisher:** Tecmo &nbsp;|&nbsp; **Released:** February 29, 2000
-
-[Wikipedia](https://en.wikipedia.org/wiki/Dead_or_Alive_2)
-
----
-
-### DOA2 Hardcore
-
-**Platforms:** PlayStation 2 &nbsp;|&nbsp; **Released:** October 26
 
 [Wikipedia](https://en.wikipedia.org/wiki/Dead_or_Alive_2)
 
@@ -7787,6 +7719,14 @@
 ### Donald Duck: Goin' Quackers
 
 **Platforms:** Windows, PlayStation, Nintendo 64, PlayStation 2, Dreamcast, Game Boy Color &nbsp;|&nbsp; **Released:** October 19
+
+---
+
+### Dynasty Warriors 2
+
+**Platforms:** PlayStation 2 &nbsp;|&nbsp; **Released:** August 3 (JP)
+
+[Wikipedia](https://en.wikipedia.org/wiki/Dynasty_Warriors_2)
 
 ---
 
@@ -7855,14 +7795,6 @@
 **Platforms:** Windows, macOS, Linux, PlayStation 2 &nbsp;|&nbsp; **Released:** October 27
 
 [Wikipedia](https://en.wikipedia.org/wiki/Rune_(video_game))
-
----
-
-### Shin Sangoku Musou (Japan)
-
-**Platforms:** PlayStation 2 &nbsp;|&nbsp; **Released:** August 3
-
-[Wikipedia](https://en.wikipedia.org/wiki/Dynasty_Warriors_2)
 
 ---
 

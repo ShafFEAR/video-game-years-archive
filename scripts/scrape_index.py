@@ -21,24 +21,17 @@ from collections import OrderedDict
 from pathlib import Path
 from urllib.parse import unquote
 
-import requests
 from bs4 import BeautifulSoup
 
 sys.stdout.reconfigure(encoding="utf-8", errors="replace")
 sys.path.insert(0, str(Path(__file__).resolve().parent))
-from platforms import is_platform_column, split_platform_cell, resolve_platform
+from platforms import is_platform_column, split_platform_cell, resolve_platform, expand_platform_token
+from titles import norm_title, split_region_tag, strip_footnotes, union_regions
+from wiki import fetch_page_html
 
 ROOT = Path(__file__).resolve().parent.parent
 OUT_DIR = ROOT / "data" / "index"
 LOG_DIR = ROOT / "logs"
-
-API_URL = "https://en.wikipedia.org/w/api.php"
-HEADERS = {
-    "User-Agent": "VideoGameYearsArchiveBot/1.0 (personal research/archival project)"
-}
-
-SESSION = requests.Session()
-SESSION.headers.update(HEADERS)
 
 START_YEAR = 1990
 END_YEAR = 2028
@@ -65,31 +58,14 @@ HEADER_MAP = {
 REF_HEADERS = {"ref", "ref.", "refs", "reference", "references"}
 
 
-def fetch_year_page(year, retries=4):
-    params = {
-        "action": "parse",
-        "page": f"{year} in video games",
-        "prop": "text",
-        "format": "json",
-        "redirects": 1,
-    }
-    for attempt in range(retries):
-        try:
-            resp = SESSION.get(API_URL, params=params, timeout=30)
-            data = resp.json()
-        except (requests.RequestException, ValueError):
-            time.sleep(3 * (attempt + 1))
-            continue
-        if "error" in data:
-            # "missingtitle" means the article genuinely doesn't exist --
-            # anything else (rate limiting, transient API hiccups) is worth
-            # retrying rather than logging the year as missing.
-            if data["error"].get("code") == "missingtitle":
-                return None
-            time.sleep(3 * (attempt + 1))
-            continue
-        return data["parse"]["text"]["*"]
-    return None
+def fetch_year_page(year):
+    """HTML of "<year> in video games", or None if the article doesn't exist.
+    Raises if Wikipedia kept erroring (e.g. rate limiting), so that isn't
+    mistaken for a missing article."""
+    html, status = fetch_page_html(f"{year} in video games")
+    if status == "failed":
+        raise RuntimeError("Wikipedia API kept failing (rate limited?)")
+    return html
 
 
 def expand_table(table):
@@ -138,9 +114,27 @@ def _safe_span(cell, attr):
 
 
 def cell_text(cell):
+    """A cell's text, minus footnote markers ("Pokémon Stadium [ 83 ]")."""
     if cell is None:
         return ""
-    return cell.get_text(" ", strip=True)
+    return strip_footnotes(cell.get_text(" ", strip=True))
+
+
+_REGION_LABEL_RE = re.compile(r"^\s*(?:WW|JP|NA|EU|AS|SA|AU|OC|KR|CN|UK|ROW)\s*:\s*")
+
+
+def field_text(cell):
+    """Like cell_text, but a cell holding a bullet list -- the newer list
+    articles give regional publishers as items labelled "WW:", "EU:" -- becomes
+    comma-separated names with the region labels dropped, instead of labels
+    and names running together as "WW : Numskull Games EU : PM Studios"."""
+    if cell is None:
+        return ""
+    items = cell.find_all("li")
+    if not items:
+        return cell_text(cell)
+    parts = [strip_footnotes(_REGION_LABEL_RE.sub("", li.get_text(" ", strip=True))) for li in items]
+    return ", ".join(dict.fromkeys(p for p in parts if p))
 
 
 def cell_link(cell):
@@ -196,6 +190,13 @@ def parse_year(year):
     html = fetch_year_page(year)
     if html is None:
         return None, None
+    return parse_html(year, html)
+
+
+def parse_html(year, html):
+    """Entries from one rendered article: every release-list table in it,
+    with platform codes decoded via the article's own Legend. Returns
+    (entries, found_release_table). Shared with scrape_lists.py."""
     soup = BeautifulSoup(html, "lxml")
     content = soup.find("div", class_="mw-parser-output") or soup
     elements = content.find_all(["h2", "h3", "h4", "table"])
@@ -231,7 +232,7 @@ def parse_year(year):
             if title_idx >= len(row):
                 continue
             title_cell = row[title_idx]
-            title_text = cell_text(title_cell)
+            title_text, region = split_region_tag(cell_text(title_cell))
             if not title_text:
                 continue
             link = cell_link(title_cell)
@@ -243,6 +244,8 @@ def parse_year(year):
                 "wiki_url": link["url"] if link else None,
                 "redlink": link["redlink"] if link else None,
             }
+            if region:
+                entry["region"] = region
             platform_breakdown = OrderedDict()
             platform_tokens = []
             for idx, field in enumerate(mapped):
@@ -251,7 +254,7 @@ def parse_year(year):
                 raw_header = raw_headers[idx]
                 if raw_header in REF_HEADERS:
                     continue
-                text = cell_text(row[idx])
+                text = field_text(row[idx]) if field in ("developer", "publisher", "developer_publisher") else cell_text(row[idx])
                 if field == "platform" or is_platform_column(raw_header):
                     platform_breakdown[raw_headers[idx]] = text
                     platform_tokens.extend(split_platform_cell(text))
@@ -262,9 +265,10 @@ def parse_year(year):
             entry["platform_breakdown"] = platform_breakdown
             entry["platforms"] = []
             for tok in platform_tokens:
-                name = resolve_platform(tok, legend, UNKNOWN_PLATFORM_CODES)
-                if name not in entry["platforms"]:
-                    entry["platforms"].append(name)
+                for code in expand_platform_token(tok, legend):
+                    name = resolve_platform(code, legend, UNKNOWN_PLATFORM_CODES)
+                    if name not in entry["platforms"]:
+                        entry["platforms"].append(name)
             entries.append(entry)
 
     return merge_duplicate_entries(entries), found_release_table
@@ -280,12 +284,13 @@ def merge_duplicate_entries(entries):
     the other's platform info."""
     merged = OrderedDict()
     for entry in entries:
-        # Keyed on the plain display title, not wiki_title: the same game
-        # can be wikilinked to different disambiguation suffixes from
-        # different tables (e.g. "Sacrifice (video game)" from one chart,
-        # "Sacrifice (computer game)" -- an old alternate title -- from
-        # another), which would otherwise defeat the merge entirely.
-        key = entry["title"].strip().lower()
+        # Keyed on the display title, not wiki_title: the same game can be
+        # wikilinked to different disambiguation suffixes from different
+        # tables (e.g. "Sacrifice (video game)" from one chart, "Sacrifice
+        # (computer game)" -- an old alternate title -- from another), which
+        # would otherwise defeat the merge entirely. Normalized, so
+        # "DOA2: Hardcore" and "DOA2 Hardcore" merge too.
+        key = norm_title(entry["title"])
         if key not in merged:
             merged[key] = entry
             continue
@@ -294,8 +299,11 @@ def merge_duplicate_entries(entries):
             if plat not in existing["platforms"]:
                 existing["platforms"].append(plat)
         existing["platform_breakdown"].update(entry["platform_breakdown"])
+        region = union_regions(existing.get("region"), entry.get("region"))
+        if region:
+            existing["region"] = region
         for field, value in entry.items():
-            if field in ("platforms", "platform_breakdown"):
+            if field in ("platforms", "platform_breakdown", "region"):
                 continue
             if not existing.get(field) and value:
                 existing[field] = value

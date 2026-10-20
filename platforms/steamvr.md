@@ -2,7 +2,7 @@
 
 [← Back to index](../README.md)
 
-25 titles across 11 years in this archive.
+12 titles across 7 years in this archive.
 
 ## 2026
 
@@ -19,56 +19,6 @@
 > _Synopsis source: IGDB_
 
 [IGDB](https://www.igdb.com/games/hot-dogs-horseshoes-and-hand-grenades)
-
----
-
-## 2025
-
-[Full 2025 page](../years/2025.md)
-
-### The Midnight Walk
-
-<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co8ur3.jpg" alt="The Midnight Walk cover" width="200">
-
-**Platforms:** Windows, PlayStation VR2, PlayStation 5, SteamVR &nbsp;|&nbsp; **Developer:** MoonHood &nbsp;|&nbsp; **Publisher:** Fast Travel Games &nbsp;|&nbsp; **Genre:** Puzzle, Adventure, Indie &nbsp;|&nbsp; **Released:** May 8, 2025
-
-> The Midnight Walk is a first-person dark fantasy adventure game developed by MoonHood and published by Fast Travel Games. It follows the Burnt One, who travels through a hostile world alongside Potboy, a small lantern creature whose flame is used to illuminate the environment and interact with threats encountered along the journey. The story is structured around five interconnected tales.  Gameplay combines exploration, environmental puzzle-solving, and evasion. Potboy's flame can be used to distract creatures while the player hides from or avoids them. The game's environments and characters were first sculpted in clay, then 3D-scanned and presented in a stop-motion visual style. It can be played in both standard flatscreen mode and VR.
->
-> _Synopsis source: IGDB_
-
-[IGDB](https://www.igdb.com/games/the-midnight-walk)
-
----
-
-## 2024
-
-[Full 2024 page](../years/2024.md)
-
-### Pools
-
-<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co7vy3.jpg" alt="Pools cover" width="200">
-
-**Platforms:** SteamVR, Windows, macOS &nbsp;|&nbsp; **Developer:** Tensori &nbsp;|&nbsp; **Publisher:** UNIKAT Label, Tensori &nbsp;|&nbsp; **Genre:** Simulator, Adventure, Indie &nbsp;|&nbsp; **Released:** April 26, 2024
-
-> Liminal space game with focus on eerie exploration and immersion instead of typical horror. Navigate through endless alike rooms. Explore, orient, get out.
->
-> _Synopsis source: IGDB_
-
-[IGDB](https://www.igdb.com/games/pools)
-
----
-
-### Riven
-
-<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co8y7n.jpg" alt="Riven cover" width="200">
-
-**Platforms:** macOS, SteamVR, Meta Quest, Windows &nbsp;|&nbsp; **Developer:** Cyan Worlds &nbsp;|&nbsp; **Publisher:** Cyan Worlds &nbsp;|&nbsp; **Genre:** Puzzle, Adventure, Indie &nbsp;|&nbsp; **Released:** June 25, 2024
-
-> The 1997 Riven: The Sequel to Myst remade from the ground up. The remake features a fully traversable 3D space in both Standard First-Person or in VR.
->
-> _Synopsis source: IGDB_
-
-[IGDB](https://www.igdb.com/games/riven)
 
 ---
 
@@ -140,52 +90,6 @@
 
 ---
 
-### Star Wars: Squadrons
-
-<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co3wlz.jpg" alt="Star Wars: Squadrons cover" width="200">
-
-**Platforms:** SteamVR, Oculus Rift, Windows, PlayStation VR, PlayStation 4, Windows Mixed Reality, Xbox One, Xbox Series X/S, PlayStation 5 &nbsp;|&nbsp; **Developer:** Motive Studios &nbsp;|&nbsp; **Publisher:** Electronic Arts &nbsp;|&nbsp; **Genre:** Shooter, Simulator &nbsp;|&nbsp; **Released:** October 1, 2020
-
-> Master the art of starfighter combat in the authentic piloting experience STAR WARS: Squadrons. Buckle up, feel the adrenaline of first-person multiplayer space dogfights alongside your squadron, and learn what it means to be a pilot in a thrilling STAR WARS single-player campaign.
->
-> _Synopsis source: IGDB_
-
-[IGDB](https://www.igdb.com/games/star-wars-squadrons)
-
----
-
-## 2019
-
-[Full 2019 page](../years/2019.md)
-
-### Dirt Rally 2.0
-
-<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co1sro.jpg" alt="Dirt Rally 2.0 cover" width="200">
-
-**Platforms:** Windows, Oculus VR, SteamVR, PlayStation 4, Xbox One &nbsp;|&nbsp; **Developer:** Codemasters &nbsp;|&nbsp; **Publisher:** Codemasters &nbsp;|&nbsp; **Genre:** Racing, Simulator, Sport, Strategy &nbsp;|&nbsp; **Released:** February 25, 2019
-
-> Dirt Rally 2.0 dares you to carve your way through a selection of iconic rally locations from across the globe, in the most powerful off-road vehicles ever made, knowing that the smallest mistake could end your stage.
->
-> _Synopsis source: IGDB_
-
-[IGDB](https://www.igdb.com/games/dirt-rally-2-dot-0)
-
----
-
-### Trover Saves the Universe
-
-<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co4v3y.jpg" alt="Trover Saves the Universe cover" width="200">
-
-**Platforms:** Nintendo Switch, Oculus Rift, PlayStation VR, Xbox One, SteamVR &nbsp;|&nbsp; **Developer:** Squanch Games &nbsp;|&nbsp; **Publisher:** Squanch Games &nbsp;|&nbsp; **Genre:** Platform, Puzzle, Adventure, Indie &nbsp;|&nbsp; **Released:** May 31, 2019
-
-> Wonderful. Your dogs have been dognapped by a beaked lunatic who stuffed them into his eye holes and is using their life essence to destroy the universe. Does that make any sense? You've partnered with Trover, a little purple eye hole monster to save them. Find power babies and plug them into his eye holes so that he can absorb their power, track down Glorkon, and save your dogs (and the Universe).
->
-> _Synopsis source: IGDB_
-
-[IGDB](https://www.igdb.com/games/trover-saves-the-universe)
-
----
-
 ## 2018
 
 [Full 2018 page](../years/2018.md)
@@ -204,48 +108,6 @@
 
 ---
 
-### Moss
-
-<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co1i1j.jpg" alt="Moss cover" width="200">
-
-**Platforms:** PlayStation VR, Oculus Rift, SteamVR, Windows Mixed Reality &nbsp;|&nbsp; **Developer:** Polyarc Games &nbsp;|&nbsp; **Publisher:** Polyarc Games &nbsp;|&nbsp; **Genre:** Platform, Puzzle, Adventure, Indie &nbsp;|&nbsp; **Released:** February 27, 2018
-
-> In Moss, players can reach out, touch, and interact with the environment while guiding Quill through her journey. As a character within the world, players will work together with Quill to solve puzzles, overcome obstacles, and conquer any danger that comes their way,” said Danny Bulla, co-founder and design director of Polyarc. “As gamers, we’ve been conditioned for years to hold a gamepad in our laps when playing games, letting our thumbs and fingers do the controlling. It has been a great experience to create an immersive game that encourages players to reach into and interact with a tactile world.
->
-> _Synopsis source: IGDB_
-
-[IGDB](https://www.igdb.com/games/moss)
-
----
-
-### Subnautica
-
-<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/coa938.jpg" alt="Subnautica cover" width="200">
-
-**Platforms:** PlayStation 4, SteamVR, Windows, Oculus Rift, macOS &nbsp;|&nbsp; **Developer:** Unknown Worlds &nbsp;|&nbsp; **Publisher:** Gearbox Publishing, Unknown Worlds &nbsp;|&nbsp; **Genre:** Adventure, Indie &nbsp;|&nbsp; **Released:** January 23, 2018
-
-> Descend into the depths of an alien underwater world filled with wonder and peril. Craft equipment, pilot submarines and out-smart wildlife to explore lush coral reefs, volcanoes, cave systems, and more, all while trying to survive.
->
-> _Synopsis source: IGDB_
-
-[IGDB](https://www.igdb.com/games/subnautica)
-
----
-
-### The Forest
-
-<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/cobyi6.jpg" alt="The Forest cover" width="200">
-
-**Platforms:** Windows, PlayStation 4, SteamVR &nbsp;|&nbsp; **Developer:** Endnight Games Ltd &nbsp;|&nbsp; **Publisher:** Endnight Games Ltd &nbsp;|&nbsp; **Genre:** Puzzle, Simulator, Adventure, Indie &nbsp;|&nbsp; **Released:** April 30, 2018
-
-> As the lone survivor of a passenger jet crash, you find yourself in a mysterious forest battling to stay alive against a society of cannibalistic mutants. Build, explore, survive in this terrifying first person survival horror simulator.
->
-> _Synopsis source: IGDB_
-
-[IGDB](https://www.igdb.com/games/the-forest)
-
----
-
 ## 2017
 
 [Full 2017 page](../years/2017.md)
@@ -261,20 +123,6 @@
 > _Synopsis source: IGDB_
 
 [IGDB](https://www.igdb.com/games/everspace)
-
----
-
-### Gnog
-
-<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co1uag.jpg" alt="Gnog cover" width="200">
-
-**Platforms:** PlayStation VR, PlayStation 4, SteamVR, iOS, macOS &nbsp;|&nbsp; **Developer:** KO_OP &nbsp;|&nbsp; **Publisher:** Double Fine Productions, KO_OP &nbsp;|&nbsp; **Genre:** Point-and-click, Music, Puzzle, Adventure, Indie &nbsp;|&nbsp; **Released:** May 2, 2017
-
-> From acclaimed indie studio KO_OP and in association with beloved game-making initiative Double Fine Presents, Gnog is a 3D puzzle game set in a tactile world of toys and secrets. Point, click, grab, poke, spin, pull, and play with uniquely charming monster heads, and explore the hidden worlds inside them from your couch, or face-to-face in stunning PlayStation VR. Filled with eye-catching designs, playful interactions, and a rich, reactive soundtrack, the hand-crafted heads come to life in your hands!  Inspired by real-world toy designs, every Gnog head is a miniature world to discover. Grab a bookcase and spin it to reveal a hidden pile of coins, slide levers to navigate a damaged ship through outer space, crank a wheel to cook a stew on the stove – each playful interaction generates lively feedback and surprising consequences. Set to a relaxing and dynamic soundtrack that evolves with each level, the surreal worlds and joyful puzzles of Gnog will have you turning heads!
->
-> _Synopsis source: IGDB_
-
-[IGDB](https://www.igdb.com/games/gnog)
 
 ---
 
@@ -338,20 +186,6 @@
 
 ---
 
-### Obduction
-
-<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co3wod.jpg" alt="Obduction cover" width="200">
-
-**Platforms:** Windows, macOS, Windows Mixed Reality, Oculus Rift, SteamVR &nbsp;|&nbsp; **Developer:** Cyan Worlds &nbsp;|&nbsp; **Publisher:** Cyan Worlds &nbsp;|&nbsp; **Genre:** Point-and-click, Puzzle, Adventure, Indie &nbsp;|&nbsp; **Released:** August 24, 2016
-
-> From Cyan, the indie studio that brought you Myst and Riven comes a whole new adventure that will become your world.  The new worlds of Obduction reveal their secrets only as you explore, coax, and consider them. And as you bask in the otherworldly beauty and explore through the enigmatic landscapes, remember that the choices you make will have substantial consequences. This is your story now.
->
-> _Synopsis source: IGDB_
-
-[IGDB](https://www.igdb.com/games/obduction)
-
----
-
 ### Rec Room
 
 <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/cocbki.jpg" alt="Rec Room cover" width="200">
@@ -363,37 +197,5 @@
 > _Synopsis source: IGDB_
 
 [IGDB](https://www.igdb.com/games/rec-room)
-
----
-
-### Thumper
-
-<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co1z4e.jpg" alt="Thumper cover" width="200">
-
-**Platforms:** Oculus Rift, PlayStation VR, Windows, PlayStation 4, SteamVR &nbsp;|&nbsp; **Developer:** Drool &nbsp;|&nbsp; **Publisher:** Drool &nbsp;|&nbsp; **Genre:** Music, Adventure, Indie, Arcade &nbsp;|&nbsp; **Released:** October 10, 2016
-
-> Thumper is a rhythm violence game. It combines classic rhythm-action with breakneck speed and brutal physicality. Thumper strips rhythm gaming down to its core. Classic rhythm-action is combined with breakneck speed and brutal physicality. With one analog stick and one button, you control a space beetle while hurtling through stunning and treacherous worlds. There's no blood or gore, but you'll feel the violence.
->
-> _Synopsis source: IGDB_
-
-[IGDB](https://www.igdb.com/games/thumper)
-
----
-
-## 2015
-
-[Full 2015 page](../years/2015.md)
-
-### Keep Talking and Nobody Explodes
-
-<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/aykvlxlmax2rcvljwkqn.jpg" alt="Keep Talking and Nobody Explodes cover" width="200">
-
-**Platforms:** SteamVR, Windows Mixed Reality, Daydream, macOS, Gear VR, Windows &nbsp;|&nbsp; **Developer:** Steel Crate Games &nbsp;|&nbsp; **Publisher:** Steel Crate Games &nbsp;|&nbsp; **Genre:** Puzzle, Simulator, Indie &nbsp;|&nbsp; **Released:** July 16, 2015
-
-> One player is trapped in a virtual room with a ticking time bomb they must defuse. The other players are the “Experts” who must give the instructions to defuse the bomb by deciphering the information found in the bomb defusal manual. But there’s a catch: the experts can’t see the bomb, so everyone will need to talk it out – fast!
->
-> _Synopsis source: IGDB_
-
-[IGDB](https://www.igdb.com/games/keep-talking-and-nobody-explodes)
 
 ---

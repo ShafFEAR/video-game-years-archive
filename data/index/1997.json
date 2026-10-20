@@ -8,8 +8,8 @@
     "redlink": false,
     "publisher": "Sony Computer Entertainment",
     "release_date": "December 23, 1997",
-    "mc score": "96/100 [ 29 ]",
-    "gr score": "94.95% [ 30 ]",
+    "mc score": "96/100",
+    "gr score": "94.95%",
     "platform_breakdown": {
       "platform(s)": "PS1",
       "platform": "PS1"
@@ -144,7 +144,7 @@
     "publisher": "Electronic Arts",
     "release_date": "October 14, 1997",
     "mc score": "92/100",
-    "gr score": "91% [ 31 ]",
+    "gr score": "91%",
     "platform_breakdown": {
       "platform(s)": "WIN / DOS"
     },
@@ -356,8 +356,8 @@
     "redlink": false,
     "publisher": "Square",
     "release_date": "November 20, 1997",
-    "mc score": "89/100 [ 29 ]",
-    "gr score": "85% [ 30 ]",
+    "mc score": "89/100",
+    "gr score": "85%",
     "platform_breakdown": {
       "platform(s)": "PS1"
     },
@@ -454,7 +454,7 @@
     "publisher": "EA Sports",
     "release_date": "August 26, 1997",
     "mc score": "— N/a",
-    "gr score": "87.90% [ 32 ]",
+    "gr score": "87.90%",
     "platform_breakdown": {
       "platform(s)": "SAT",
       "platform": "WIN / DOS, PS1, SAT"
@@ -616,10 +616,11 @@
   {
     "year": 1997,
     "section": "Notable releases in 1997",
-    "title": "Realms of the Haunting (NA)",
+    "title": "Realms of the Haunting",
     "wiki_title": "Realms of the Haunting",
     "wiki_url": "https://en.wikipedia.org/wiki/Realms_of_the_Haunting",
     "redlink": false,
+    "region": "NA",
     "release_date": "March 24",
     "platform_breakdown": {
       "platform": "WIN / DOS"
@@ -816,6 +817,21 @@
     },
     "platforms": [
       "PlayStation"
+    ]
+  },
+  {
+    "year": 1997,
+    "section": "Notable releases in 1997",
+    "title": "Tamagotchi",
+    "wiki_title": "Tamagotchi (Game Boy game)",
+    "wiki_url": "https://en.wikipedia.org/wiki/Tamagotchi_(Game_Boy_game)",
+    "redlink": false,
+    "release_date": "June 27",
+    "platform_breakdown": {
+      "platform": "GB"
+    },
+    "platforms": [
+      "Game Boy"
     ]
   },
   {

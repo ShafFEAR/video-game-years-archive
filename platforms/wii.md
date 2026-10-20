@@ -2,7 +2,43 @@
 
 [← Back to index](../README.md)
 
-742 titles across 10 years in this archive.
+789 titles across 14 years in this archive.
+
+## 2019
+
+[Full 2019 page](../years/2019.md)
+
+### Just Dance 2020
+
+**Platforms:** Wii, Nintendo Switch, PlayStation 4, Xbox One, Stadia &nbsp;|&nbsp; **Publisher:** Ubisoft &nbsp;|&nbsp; **Genre:** Rhythm &nbsp;|&nbsp; **Released:** November 5
+
+[Wikipedia](https://en.wikipedia.org/wiki/Just_Dance_2020)
+
+---
+
+## 2018
+
+[Full 2018 page](../years/2018.md)
+
+### Just Dance 2019
+
+**Platforms:** Nintendo Switch, PlayStation 4, Xbox One, Xbox 360, Wii U, Wii &nbsp;|&nbsp; **Publisher:** Ubisoft &nbsp;|&nbsp; **Genre:** Music &nbsp;|&nbsp; **Released:** October 23
+
+[Wikipedia](https://en.wikipedia.org/wiki/Just_Dance_2019)
+
+---
+
+## 2017
+
+[Full 2017 page](../years/2017.md)
+
+### Just Dance 2018
+
+**Platforms:** PlayStation 4, PlayStation 3, Xbox One, Xbox 360, Nintendo Switch, Wii U, Wii &nbsp;|&nbsp; **Genre:** Rhythm &nbsp;|&nbsp; **Released:** October 24
+
+[Wikipedia](https://en.wikipedia.org/wiki/Just_Dance_2018)
+
+---
 
 ## 2016
 
@@ -12,13 +48,39 @@
 
 <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co1xf2.jpg" alt="Just Dance 2017 cover" width="200">
 
-**Platforms:** Wii U, PlayStation 3, Windows, PlayStation 4, Xbox One, Xbox 360, Wii &nbsp;|&nbsp; **Developer:** Ubisoft Milan, Ubisoft Pune, Ubisoft Paris &nbsp;|&nbsp; **Publisher:** Ubisoft Entertainment &nbsp;|&nbsp; **Genre:** Music &nbsp;|&nbsp; **Released:** October 25, 2016
+**Platforms:** Windows, PlayStation 3, PlayStation 4, Wii, Wii U, Xbox 360, Xbox One &nbsp;|&nbsp; **Genre:** Music &nbsp;|&nbsp; **Released:** October 25
 
 > Grab your friends and family: it’s time to dance! Just Dance is back with over 40 new tracks, 6 games modes, and ever more songs through Just Dance Unlimited subscription service! Featuring the ultimate tracklist including Cheap Thrills by Sia Ft. Sean Paul, Sorry by Justin Bieber and many more!
 >
 > _Synopsis source: IGDB_
 
-[IGDB](https://www.igdb.com/games/just-dance-2017)
+[Wikipedia](https://en.wikipedia.org/wiki/Just_Dance_2017) · [IGDB](https://www.igdb.com/games/just-dance-2017)
+
+---
+
+## 2015
+
+[Full 2015 page](../years/2015.md)
+
+### Just Dance 2016
+
+**Platforms:** PlayStation 3, PlayStation 4, Xbox 360, Xbox One, Wii U, Wii &nbsp;|&nbsp; **Genre:** Music, Rhythm &nbsp;|&nbsp; **Released:** October 20
+
+[Wikipedia](https://en.wikipedia.org/wiki/Just_Dance_2016)
+
+---
+
+### Rodea the Sky Soldier
+
+**Platforms:** Wii, Wii U, Nintendo 3DS &nbsp;|&nbsp; **Genre:** Action-adventure &nbsp;|&nbsp; **Released:** April 2 (JP)
+
+[Wikipedia](https://en.wikipedia.org/wiki/Rodea_the_Sky_Soldier)
+
+---
+
+### Skylanders: SuperChargers
+
+**Platforms:** PlayStation 3, PlayStation 4, Xbox 360, Xbox One, Wii, Wii U, Nintendo 3DS, iOS &nbsp;|&nbsp; **Genre:** RPG, Platformer, Racing &nbsp;|&nbsp; **Released:** September 20
 
 ---
 
@@ -26,11 +88,45 @@
 
 [Full 2014 page](../years/2014.md)
 
+### FIFA 15
+
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co206w.jpg" alt="FIFA 15 cover" width="200">
+
+**Platforms:** Windows, PlayStation 3, PlayStation 4, Xbox 360, Xbox One, Wii, PlayStation Vita, Nintendo 3DS, Android &nbsp;|&nbsp; **Genre:** Sports &nbsp;|&nbsp; **Released:** September 23
+
+> FIFA 15 is a football simulation game developed by EA Canada and published by Electronic Arts. FIFA 15 is the first of the series to be developed for next generation (Xbox One and PS4) consoles and also features the new Ignite game engine.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/FIFA_15) · [IGDB](https://www.igdb.com/games/fifa-15)
+
+---
+
+### Just Dance 2015
+
+**Platforms:** PlayStation 3, PlayStation 4, Wii, Wii U, Xbox 360, Xbox One &nbsp;|&nbsp; **Genre:** Rhythm &nbsp;|&nbsp; **Released:** October 21
+
+[Wikipedia](https://en.wikipedia.org/wiki/Just_Dance_2015)
+
+---
+
+### Phineas and Ferb: Quest for Cool Stuff
+
+**Platforms:** Wii U, Wii, Nintendo 3DS, Nintendo DS, Xbox 360 &nbsp;|&nbsp; **Genre:** Platformer &nbsp;|&nbsp; **Released:** August 13
+
+---
+
+### Planes: Fire & Rescue
+
+**Platforms:** Wii, Nintendo DS, Wii U, Nintendo 3DS &nbsp;|&nbsp; **Released:** November 4
+
+---
+
 ### Skylanders: Trap Team
 
 <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co1ysd.jpg" alt="Skylanders: Trap Team cover" width="200">
 
-**Platforms:** Wii, Xbox 360, Wii U, Android, Xbox One, PlayStation 4, PlayStation 3, iOS &nbsp;|&nbsp; **Developer:** Toys for Bob &nbsp;|&nbsp; **Publisher:** Activision &nbsp;|&nbsp; **Genre:** Platform, Role-playing (RPG), Hack and slash/Beat 'em up, Adventure &nbsp;|&nbsp; **Released:** September 30, 2014
+**Platforms:** Nintendo 3DS, PlayStation 3, PlayStation 4, Wii, Wii U, Xbox 360, Xbox One &nbsp;|&nbsp; **Genre:** RPG, Platformer &nbsp;|&nbsp; **Released:** October 5
 
 > In Skylanders Trap Team, Kaos continues his ongoing quest to rule over Skylands. He has discovered the location of the legendary Cloudcracker Prison -- a fortress built entirely out of the magical substance Traptanium and home to Skylands’ most nefarious baddies. In an attempt to build his own army of foes, Kaos blows up the prison, releasing the most wanted villains and blasting shards of Traptanium to Earth in the form of Traps. Now it’s up to Portal Masters to recapture all of the escaped villains using powerful Traptanium Traps and defeat Kaos before it’s too late!
 >
@@ -40,21 +136,131 @@
 
 ---
 
+### The Voice: I Want You
+
+**Platforms:** PlayStation 3, Wii, Xbox 360, Wii U &nbsp;|&nbsp; **Released:** October 21
+
+---
+
 ## 2013
 
 [Full 2013 page](../years/2013.md)
+
+### Angry Birds Star Wars
+
+**Platforms:** PlayStation 3, Xbox 360, Wii, Wii U, PlayStation Vita, Nintendo 3DS, PlayStation 4, Xbox One &nbsp;|&nbsp; **Genre:** Puzzle &nbsp;|&nbsp; **Type:** Port &nbsp;|&nbsp; **Released:** October 29
+
+[Wikipedia](https://en.wikipedia.org/wiki/Angry_Birds_Star_Wars)
+
+---
+
+### Angry Birds Trilogy
+
+**Platforms:** Wii U, Wii &nbsp;|&nbsp; **Genre:** Puzzle &nbsp;|&nbsp; **Type:** Compilation &nbsp;|&nbsp; **Released:** August 13
+
+[Wikipedia](https://en.wikipedia.org/wiki/Angry_Birds_Trilogy)
+
+---
+
+### Barbie Dreamhouse Party
+
+**Platforms:** Nintendo 3DS, Nintendo DS, Wii, Wii U &nbsp;|&nbsp; **Released:** November 12
+
+---
+
+### Deer Drive Legends
+
+**Platforms:** Wii &nbsp;|&nbsp; **Genre:** Sports &nbsp;|&nbsp; **Released:** November 19
+
+[Wikipedia](https://en.wikipedia.org/wiki/Deer_Drive_Legends)
+
+---
+
+### Disney Infinity
+
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co1psn.jpg" alt="Disney Infinity cover" width="200">
+
+**Platforms:** Wii U, Wii, PlayStation 3, Xbox 360, Nintendo 3DS &nbsp;|&nbsp; **Genre:** Action-adventure &nbsp;|&nbsp; **Released:** August 18
+
+> DISNEY INFINITY unlocks the freedom to play with some of your favorite Disney and Disney/Pixar worlds like never before! You can experience adventures in the worlds of Pirates of the Caribbean, The Incredibles and Monsters University - take on the role of Sulley, the naturally gifted ‘scarer’; become Captain Jack Sparrow, the sword-wielding pirate; or transform yourself into Mr. Incredible, one of the world's greatest crime-fighters. Battle enemies, solve puzzles, overcome obstacles and complete a variety of other unique quests. Or create your own world! Unlock virtual toys, characters, buildings, weapons, gadgets and more – and bring them into the Disney Infinity ‘Toy Box’ where you can mix them all up to create your own game. In the Disney Infinity Toy Box, there are no rules and you can create any adventure you want. Share your creations with your friends with up to 4-player co-op play. The more you play, the more you unlock so the story never ends. It’s up to you and your imagination – infinite possibilities, infinite ways to inspire your imagination!
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Disney_Infinity_(video_game)) · [IGDB](https://www.igdb.com/games/disney-infinity)
+
+---
+
+### Disney's Planes
+
+**Platforms:** Wii U, Wii, Nintendo 3DS, Nintendo DS &nbsp;|&nbsp; **Released:** August 6
+
+[Wikipedia](https://en.wikipedia.org/wiki/Planes_(film)#Video_game)
+
+---
+
+### FIFA 14
+
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co206x.jpg" alt="FIFA 14 cover" width="200">
+
+**Platforms:** iOS, Android, Windows, PlayStation 3, Xbox 360, Wii, PlayStation 2, PlayStation Vita, Nintendo 3DS, PlayStation Portable, PlayStation 4, Xbox One &nbsp;|&nbsp; **Genre:** Sports &nbsp;|&nbsp; **Released:** September 23
+
+> FIFA 14 is a 2013 sports association football simulation video game developed by EA Canada and published by Electronic Arts.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/FIFA_14) · [IGDB](https://www.igdb.com/games/fifa-14)
+
+---
 
 ### Just Dance 2014
 
 <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co1xf3.jpg" alt="Just Dance 2014 cover" width="200">
 
-**Platforms:** Wii U, Wii, PlayStation 3, PlayStation 4, Xbox 360, Xbox One &nbsp;|&nbsp; **Developer:** Ubisoft Milan, Ubisoft Barcelona, Ubisoft Reflections, Ubisoft Paris, Ubisoft Bucharest, Ubisoft Pune, Ubisoft Montpellier &nbsp;|&nbsp; **Publisher:** Ubisoft Entertainment &nbsp;|&nbsp; **Genre:** Music &nbsp;|&nbsp; **Released:** October 1, 2013
+**Platforms:** Wii, Wii U, Xbox 360, PlayStation 3, PlayStation 4, Xbox One &nbsp;|&nbsp; **Genre:** Music &nbsp;|&nbsp; **Released:** October 8
 
 > Just Dance 2014 is a dance rhythm game that has you match the choreography of an on-screen dancer to earn points for accuracy, using your motion controller for real-time movement tracking. Beyond single-player routines, it expands the experience with online multiplayer via World Dance Floor, where you compete simultaneously with others, plus Wii U and Xbox-style second-screen support that helps you manage routines, playlists, and performance from a companion device. The update also adds spotlight-friendly On Stage modes, letting one player lead with others as backup dancers, along with AutoDance to record and share your gameplay and Karaoke for singing along to on-screen lyrics. For variety and fitness, it supports customized workout playlists, calorie tracking across modes, and more dances per track through alternate choreographies in categories like Just Sweat, Extreme, Battle, and Mash-Up.
 >
 > _Synopsis source: IGDB_
 
-[IGDB](https://www.igdb.com/games/just-dance-2014)
+[Wikipedia](https://en.wikipedia.org/wiki/Just_Dance_2014) · [IGDB](https://www.igdb.com/games/just-dance-2014)
+
+---
+
+### Monster High: 13 Wishes
+
+**Platforms:** Nintendo 3DS, Nintendo DS, Wii, Wii U &nbsp;|&nbsp; **Released:** October 24
+
+[Wikipedia](https://en.wikipedia.org/wiki/Monster_High)
+
+---
+
+### Nickelodeon Teenage Mutant Ninja Turtles
+
+**Platforms:** Nintendo 3DS, Wii, Xbox 360 &nbsp;|&nbsp; **Released:** October 22
+
+[Wikipedia](https://en.wikipedia.org/wiki/Teenage_Mutant_Ninja_Turtles_(2013_video_game))
+
+---
+
+### Pandora's Tower
+
+**Platforms:** Wii &nbsp;|&nbsp; **Genre:** Action RPG &nbsp;|&nbsp; **Released:** April 16
+
+[Wikipedia](https://en.wikipedia.org/wiki/Pandora%27s_Tower)
+
+---
+
+### Phineas and Ferb: Quest for Cool Stuff
+
+**Platforms:** Nintendo 3DS, Nintendo DS, Wii, Wii U, Xbox 360 &nbsp;|&nbsp; **Genre:** Platformer &nbsp;|&nbsp; **Released:** August 13
+
+---
+
+### Retro City Rampage
+
+**Platforms:** Xbox 360, Wii &nbsp;|&nbsp; **Genre:** Action-adventure &nbsp;|&nbsp; **Released:** January 2
+
+[Wikipedia](https://en.wikipedia.org/wiki/Retro_City_Rampage)
 
 ---
 
@@ -62,7 +268,7 @@
 
 <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co1ysb.jpg" alt="Skylanders: Swap Force cover" width="200">
 
-**Platforms:** Wii, Xbox 360, Wii U, Xbox One, PlayStation 4, PlayStation 3 &nbsp;|&nbsp; **Developer:** Vicarious Visions &nbsp;|&nbsp; **Publisher:** Activision &nbsp;|&nbsp; **Genre:** Platform, Role-playing (RPG), Hack and slash/Beat 'em up, Adventure &nbsp;|&nbsp; **Released:** October 13, 2013
+**Platforms:** Wii, Wii U, Xbox 360, PlayStation 3, PlayStation 4, Xbox One &nbsp;|&nbsp; **Genre:** RPG, Platformer &nbsp;|&nbsp; **Released:** October 13
 
 > Skylanders: Swap Force is a platformer video game developed by Vicarious Visions and published by Activision. It is the third main game in the Skylanders video game and toy franchise, following 2012's Skylanders: Giants, which was a direct sequel to 2011's Skylanders: Spyro's Adventure (the spin-off of The Legend of Spyro series). It is the game before Skylanders: Trap Team and features the voices of John DiMaggio, Jess Harnell, Audrey Wasilewski, Richard Tatum, David Sobolov, Josh Keaton, Keythe Farley, Dave Wittenberg, Joey Camen, Gregg Berger, Troy Baker and Robin Atkin Downes.  It is the first Skylanders game to be released in North America before other regions, unlike the previous two games where Australia got the installments first. It is also the first Skylanders game not to be owned by Vivendi.
 >
@@ -72,29 +278,129 @@
 
 ---
 
+### SpongeBob SquarePants: Plankton's Robotic Revenge
+
+**Platforms:** Wii U, Nintendo 3DS, Xbox 360, PlayStation 3, Wii, Nintendo DS &nbsp;|&nbsp; **Genre:** Action-adventure, Platformer, TPS &nbsp;|&nbsp; **Released:** October 22
+
+---
+
+### The Croods: Prehistoric Party!
+
+**Platforms:** Wii U, Wii, Nintendo 3DS, Nintendo DS &nbsp;|&nbsp; **Released:** March 19
+
+---
+
+### The Smurfs 2
+
+**Platforms:** Wii U, Wii, PlayStation 3, Xbox 360, Nintendo DS &nbsp;|&nbsp; **Released:** July 23
+
+[Wikipedia](https://en.wikipedia.org/wiki/The_Smurfs_2#Video_game)
+
+---
+
+### Turbo: Super Stunt Squad
+
+**Platforms:** Wii U, Wii, PlayStation 3, Xbox 360, Nintendo 3DS, Nintendo DS &nbsp;|&nbsp; **Released:** July 16
+
+[Wikipedia](https://en.wikipedia.org/wiki/Turbo_(2013_film)#Video_games)
+
+---
+
+### We Sing 80s
+
+**Platforms:** Wii &nbsp;|&nbsp; **Genre:** Music &nbsp;|&nbsp; **Released:** February 8
+
+[Wikipedia](https://en.wikipedia.org/wiki/We_Sing_80s)
+
+---
+
+### We Sing UK Hits
+
+**Platforms:** Wii &nbsp;|&nbsp; **Genre:** Music &nbsp;|&nbsp; **Released:** April 19
+
+[Wikipedia](https://en.wikipedia.org/wiki/We_Sing_UK_Hits)
+
+---
+
+### Zumba Fitness: World Party
+
+**Platforms:** Wii U, Wii, Xbox 360, Xbox One &nbsp;|&nbsp; **Genre:** Fitness &nbsp;|&nbsp; **Released:** November 5
+
+---
+
 ## 2012
 
 [Full 2012 page](../years/2012.md)
+
+### Brave
+
+**Platforms:** Windows, PlayStation 3, Xbox 360, Wii, PlayStation Vita, Nintendo DS, Nintendo 3DS &nbsp;|&nbsp; **Released:** June 19
+
+[Wikipedia](https://en.wikipedia.org/wiki/Brave_(2012_video_game))
+
+---
+
+### Disney Princess: My Fairytale Adventure
+
+**Platforms:** Nintendo 3DS, Wii, Windows &nbsp;|&nbsp; **Released:** September 14
+
+---
+
+### Epic Mickey 2: The Power of Two
+
+**Platforms:** PlayStation 3, Xbox 360, Wii, Wii U &nbsp;|&nbsp; **Released:** November 18
+
+---
+
+### FIFA 13
+
+**Platforms:** Xbox 360, Windows, PlayStation 3, Wii, PlayStation Vita, PlayStation Portable, PlayStation 2, iOS &nbsp;|&nbsp; **Publisher:** EA Sports &nbsp;|&nbsp; **Released:** September 25, 2012
+
+[Wikipedia](https://en.wikipedia.org/wiki/FIFA_13)
+
+---
 
 ### Just Dance 4
 
 <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co1xf6.jpg" alt="Just Dance 4 cover" width="200">
 
-**Platforms:** Wii, Wii U, PlayStation 3, Xbox 360 &nbsp;|&nbsp; **Developer:** Ubisoft Paris &nbsp;|&nbsp; **Publisher:** Ubisoft Entertainment &nbsp;|&nbsp; **Genre:** Music &nbsp;|&nbsp; **Released:** October 2, 2012
+**Platforms:** Wii, PlayStation 3, Xbox 360, Wii U &nbsp;|&nbsp; **Genre:** Music &nbsp;|&nbsp; **Released:** October 9
 
 > Just Dance 4 features more than 40 new tracks, ranging from chart-topping Billboard hits to classic dance party tracks. Whether it's pop, Hip-Hop, rock, R&B, country or funk, there is something for everyone to dance to.
 >
 > _Synopsis source: IGDB_
 
-[IGDB](https://www.igdb.com/games/just-dance-4)
+[Wikipedia](https://en.wikipedia.org/wiki/Just_Dance_4) · [IGDB](https://www.igdb.com/games/just-dance-4)
 
 ---
 
-### LEGO Batman 2: DC Super Heroes
+### Just Dance: Best Of
 
-<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2j0q.jpg" alt="LEGO Batman 2: DC Super Heroes cover" width="200">
+**Platforms:** Xbox 360, Wii &nbsp;|&nbsp; **Released:** June 26
 
-**Platforms:** PlayStation 3, Wii, macOS, Windows, Xbox 360 &nbsp;|&nbsp; **Developer:** Traveller's Tales &nbsp;|&nbsp; **Publisher:** Feral Interactive, WB Games &nbsp;|&nbsp; **Genre:** Platform, Hack and slash/Beat 'em up, Adventure &nbsp;|&nbsp; **Released:** June 19, 2012
+---
+
+### Kirby's Dream Collection: Special Edition
+
+**Platforms:** Wii &nbsp;|&nbsp; **Type:** Limited &nbsp;|&nbsp; **Released:** September 16
+
+[Wikipedia](https://en.wikipedia.org/wiki/Kirby%27s_Dream_Collection)
+
+---
+
+### La-Mulana
+
+**Platforms:** Windows, Wii &nbsp;|&nbsp; **Released:** July 13
+
+[Wikipedia](https://en.wikipedia.org/wiki/La-Mulana)
+
+---
+
+### Lego Batman 2: DC Super Heroes
+
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2j0q.jpg" alt="Lego Batman 2: DC Super Heroes cover" width="200">
+
+**Platforms:** Windows, PlayStation 3, Xbox 360, Wii, PlayStation Vita, Nintendo 3DS &nbsp;|&nbsp; **Genre:** Platform, Hack and slash/Beat 'em up, Adventure &nbsp;|&nbsp; **Released:** June 19
 
 > The Dynamic Duo of Batman and Robin join other famous super heroes from the DC Universe including Superman, Wonder Woman and Green Lantern to save Gotham City from destruction at the hands of the notorious villains Lex Luthor and the Joker.
 >
@@ -104,17 +410,33 @@
 
 ---
 
-### LEGO The Lord of the Rings
+### LEGO The Lord of the Rings: The Video Game
 
-<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co20pp.jpg" alt="LEGO The Lord of the Rings cover" width="200">
+**Platforms:** PlayStation Vita, Nintendo 3DS, Nintendo DS, Windows, PlayStation 3, Xbox 360, Wii &nbsp;|&nbsp; **Released:** October 30
 
-**Platforms:** Wii, Xbox 360, Windows, PlayStation 3 &nbsp;|&nbsp; **Developer:** Traveller's Tales &nbsp;|&nbsp; **Publisher:** Feral Interactive, WB Games &nbsp;|&nbsp; **Genre:** Adventure &nbsp;|&nbsp; **Released:** November 13, 2012
+[Wikipedia](https://en.wikipedia.org/wiki/Lego_The_Lord_of_the_Rings_(video_game))
 
-> Based on The Lord of the Rings motion picture trilogy, LEGO The Lord of the Rings follows the original storylines of The Lord of the Rings: The Fellowship of the Ring, The Lord of the Rings: The Two Towers, and The Lord of the Rings: The Return of the King, taking players through the epic story events reimagined with the humor and endless variety of LEGO play.  Trusted with the dangerous task to destroy an ancient magical ring that threatens all that is good, Frodo is forced to leave his peaceful home. But the ring wants to be found and the road to Mount Doom, the only place where it can be destroyed, will be perilous and riddled with Orcs and fouler things.  To help Frodo, a Fellowship is formed —Aragorn the Ranger, Gandalf the Wizard, Legolas the Elf, Gimli the Dwarf, Boromir a Man of Gondor, and Frodo’s Hobbit friends Sam, Merry and Pippin. Players relive the legend through the LEGO minifigures, as they explore wonders, solve timeless riddles, and overcome endless foes in their quest to destroy the Ring.
->
-> _Synopsis source: IGDB_
+---
 
-[IGDB](https://www.igdb.com/games/lego-the-lord-of-the-rings)
+### Madagascar 3: The Video Game
+
+**Platforms:** Nintendo 3DS, Nintendo DS, PlayStation 3, Wii, Xbox 360 &nbsp;|&nbsp; **Released:** June 5
+
+---
+
+### Madden NFL 13
+
+**Platforms:** PlayStation 3, Xbox 360, Wii, PlayStation Vita &nbsp;|&nbsp; **Released:** August 28
+
+[Wikipedia](https://en.wikipedia.org/wiki/Madden_NFL_13)
+
+---
+
+### Major League Baseball 2K12
+
+**Platforms:** Windows, PlayStation 3, Xbox 360, Wii, PlayStation 2, PlayStation Portable, Nintendo DS &nbsp;|&nbsp; **Released:** March 6
+
+[Wikipedia](https://en.wikipedia.org/wiki/Major_League_Baseball_2K12)
 
 ---
 
@@ -122,13 +444,81 @@
 
 <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2241.jpg" alt="Mario Party 9 cover" width="200">
 
-**Platforms:** Wii &nbsp;|&nbsp; **Developer:** NDCube &nbsp;|&nbsp; **Publisher:** Nintendo &nbsp;|&nbsp; **Genre:** Puzzle, Adventure, Card & Board Game &nbsp;|&nbsp; **Released:** March 2, 2012
+**Platforms:** Wii &nbsp;|&nbsp; **Genre:** Puzzle, Adventure, Card & Board Game &nbsp;|&nbsp; **Released:** March 11
 
 > Grab your friends and family and captain the crew to victory!  The party is back and bigger than ever in the Mario Party 9 game for Wii, featuring all-new ways to play! For the first time in the franchise, boss battles crash the party and challenge players to compete to defeat a common enemy. In addition, players now travel across stages together in a vehicle towards a common goal - overcoming obstacles, battling bosses, and collecting Mini Stars stolen by Bowser and his minions. Featuring 80 new minigames, adventurous new stages, and all-new ways to play that blend cooperative and competitive action for up to four players*, Mario Party 9 is the perfect way to get the party started.  -For the first time in the Mario Party franchise, each stage culminates in a Boss Battle. Collectively, players must combine their strength to defeat classic foes such as Bowser and King Boo while still playing competitively to boost their own individual scores.  -In another first for the series, players ride across stages together in special vehicles. Players take turns as Captain of the vehicle by hitting Dice Blocks to move the party forward, hoping to land on lucky spaces. The vehicles also help to streamline game play and keep everyone involved in the action.  -Unique Captain Events on each stage give players a new way to change the shape of the game.  -In Mario Party 9, each themed stage has a clear destination point but with multiple paths along the way, so no two games will play the same. From Toad Road to Boo’s Horror Castle, players will encounter a wide variety of familiar Mario franchise elements in new environments that can be enjoyed solo or with friends.  -Includes 80 outrageous new minigames that find players making pizzas, escaping haunted mansions, and racing snowmobiles.  -No time to play through an entire stage? New minigame modes let players enjoy the action in smaller chunks of time. They can hone their skills at any minigame in Free Play mode or try the Extras mode that includes Goomba Bowling and the puzzle-based Castle Clearout.  -Every time they play, players can earn Party Points that are used to unlock special items and features.  * Additional accessories are required for multiplayer game play and are sold separately.
 >
 > _Synopsis source: IGDB_
 
-[IGDB](https://www.igdb.com/games/mario-party-9)
+[Wikipedia](https://en.wikipedia.org/wiki/Mario_Party_9) · [IGDB](https://www.igdb.com/games/mario-party-9)
+
+---
+
+### MIB: Alien Crisis
+
+**Platforms:** PlayStation 3, Xbox 360, Wii &nbsp;|&nbsp; **Released:** May 22
+
+---
+
+### NASCAR The Game: Inside Line
+
+**Platforms:** PlayStation 3, Wii, Xbox 360 &nbsp;|&nbsp; **Released:** November 6
+
+---
+
+### NBA 2K13
+
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co22tj.jpg" alt="NBA 2K13 cover" width="200">
+
+**Platforms:** Windows, PlayStation 3, Xbox 360, PlayStation Portable, Wii &nbsp;|&nbsp; **Publisher:** 2K &nbsp;|&nbsp; **Genre:** Simulator, Sport, Strategy &nbsp;|&nbsp; **Released:** October 2, 2012
+
+> With more than 5 million copies sold worldwide and more than 25 Sports Game of the Year awards won, NBA 2K12 was another monster release for the biggest NBA video game simulation franchise in the world. This year, 2K Sports has joined forces with the legendary JAY Z as Executive Producer to transcend sports video games and take virtual hardwood to the next level. Featuring an enhanced MyCAREER mode and all-new gameplay features, NBA 2K13 will let gamers pit the best players in NBA history against the new dynasty of talent, including the much-debated matchup between the 2012 U.S. Men's National Team and the 1992 "Dream Team."
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/NBA_2K13) · [IGDB](https://www.igdb.com/games/nba-2k13)
+
+---
+
+### Pikmin 2
+
+**Platforms:** Wii &nbsp;|&nbsp; **Type:** Port &nbsp;|&nbsp; **Released:** June 10
+
+[Wikipedia](https://en.wikipedia.org/wiki/Pikmin_2)
+
+---
+
+### PokéPark 2: Wonders Beyond
+
+**Platforms:** Wii &nbsp;|&nbsp; **Released:** February 27
+
+---
+
+### Pro Evolution Soccer 2013
+
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/coarps.jpg" alt="Pro Evolution Soccer 2013 cover" width="200">
+
+**Platforms:** Windows, PlayStation 3, Xbox 360, Wii, PlayStation 2, PlayStation Portable &nbsp;|&nbsp; **Genre:** Simulator, Sport &nbsp;|&nbsp; **Released:** September 25
+
+> Pro Evolution Soccer 2013 (also known as World Soccer: Winning Eleven 2013 in Japan and South Korea) is an association football video game part of the Pro Evolution Soccer series, developed and published by Konami.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Pro_Evolution_Soccer_2013) · [IGDB](https://www.igdb.com/games/pro-evolution-soccer-2013)
+
+---
+
+### Rhythm Heaven Fever
+
+**Platforms:** Wii &nbsp;|&nbsp; **Released:** February 13
+
+[Wikipedia](https://en.wikipedia.org/wiki/Rhythm_Heaven_Fever)
+
+---
+
+### Rise of the Guardians: The Video Game
+
+**Platforms:** PlayStation 3, Xbox 360, Wii, Nintendo 3DS, Nintendo DS, Wii U &nbsp;|&nbsp; **Released:** November 20
 
 ---
 
@@ -136,7 +526,7 @@
 
 <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co1ysh.jpg" alt="Skylanders: Giants cover" width="200">
 
-**Platforms:** Wii U, Wii, Xbox 360, PlayStation 3 &nbsp;|&nbsp; **Developer:** Toys for Bob &nbsp;|&nbsp; **Publisher:** Activision &nbsp;|&nbsp; **Genre:** Role-playing (RPG), Hack and slash/Beat 'em up, Adventure &nbsp;|&nbsp; **Released:** October 17, 2012
+**Platforms:** PlayStation 3, Xbox 360, Wii, Nintendo 3DS, Wii U &nbsp;|&nbsp; **Genre:** Role-playing (RPG), Hack and slash/Beat 'em up, Adventure &nbsp;|&nbsp; **Released:** October 21
 
 > Skylanders: Giants is a 2012 video game in the Skylanders series, a direct sequel to the 2011 game Skylanders: Spyro's Adventure and features the voices of Kevin Michael Richardson, Greg Ellis, Peter Lurie, Steve Blum, Dave Wittenberg, Carlos Alazraqui, Kevin Sorbo, Bobcat Goldthwait, Patrick Seitz and Julie Nathanson. It is the game before Skylanders: Swap Force. As the title suggests, it features larger Skylanders known as "Giants", along with other new gameplay mechanics.
 >
@@ -146,17 +536,65 @@
 
 ---
 
+### Summer Stars 2012
+
+**Platforms:** PlayStation 3, Wii &nbsp;|&nbsp; **Released:** July 10
+
+---
+
+### The Amazing Spider-Man
+
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2l1s.jpg" alt="The Amazing Spider-Man cover" width="200">
+
+**Platforms:** Nintendo DS, PlayStation 3, Xbox 360, Wii, Nintendo 3DS, Android, iOS, Windows &nbsp;|&nbsp; **Genre:** Hack and slash/Beat 'em up, Adventure &nbsp;|&nbsp; **Released:** June 26
+
+> The Amazing Spider-Man is an action-adventure video game released in 2012, developed by Beenox and published by Activision. The game serves as a tie-in to the 2012 film of the same name, though it features its original storyline that continues after the movie's events. Players control Spider-Man as he swings through an open-world version of New York City, battling criminals and iconic villains like the Lizard and Rhino while facing Oscorp's mutated creatures.  The game focuses on Spider-Man's web-slinging, combat, and exploration abilities. It has a mix of main missions and side activities. The gameplay includes stealth, brawler-style combat, and environmental puzzles.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/The_Amazing_Spider-Man_(2012_video_game)) · [IGDB](https://www.igdb.com/games/the-amazing-spider-man)
+
+---
+
+### The Last Story
+
+**Platforms:** Wii &nbsp;|&nbsp; **Released:** August 14
+
+[Wikipedia](https://en.wikipedia.org/wiki/The_Last_Story)
+
+---
+
+### Transformers: Prime – The Game
+
+**Platforms:** Wii, Nintendo DS, Nintendo 3DS, Wii U &nbsp;|&nbsp; **Released:** October 30
+
+---
+
+### Victorious: Taking the Lead
+
+**Platforms:** Nintendo DS, Wii &nbsp;|&nbsp; **Released:** November 13
+
+---
+
 ### WWE '13
 
 <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2sjj.jpg" alt="WWE '13 cover" width="200">
 
-**Platforms:** Wii, Xbox 360, PlayStation 3 &nbsp;|&nbsp; **Developer:** Yuke's &nbsp;|&nbsp; **Publisher:** 2K Sports, THQ, 2K &nbsp;|&nbsp; **Genre:** Fighting, Platform, Sport, Strategy &nbsp;|&nbsp; **Released:** October 30, 2012
+**Platforms:** PlayStation 3, Xbox 360, Wii &nbsp;|&nbsp; **Genre:** Fighting, Platform, Sport, Strategy &nbsp;|&nbsp; **Released:** October 30
 
 > WWE ’13 transforms WWE gameplay through the introduction of WWE Live, completely changing the way players experience the videogame’s audio and presentation elements. Predator Technology returns to further implement critical gameplay improvements, while fan favourites in WWE Universe Mode and the franchise’s renowned Creation Suite offer the utmost in player freedom.  Furthermore, WWE ’13 focuses on the Attitude Era of the WWF, replacing its Road to WrestleMania Mode with an Attitude Era Mode where the player plays through the Attitude Era. The game gives such characters as Stone Cold Steve Austin and elements as the Monday Night Wars a more important role in the game than in any previous WWE game.
 >
 > _Synopsis source: IGDB_
 
-[IGDB](https://www.igdb.com/games/wwe-13)
+[Wikipedia](https://en.wikipedia.org/wiki/WWE_%2713) · [IGDB](https://www.igdb.com/games/wwe-13)
+
+---
+
+### Xenoblade Chronicles
+
+**Platforms:** Wii &nbsp;|&nbsp; **Developer:** MonolithSoft &nbsp;|&nbsp; **Publisher:** Nintendo &nbsp;|&nbsp; **Genre:** Action RPG &nbsp;|&nbsp; **Released:** April 6
+
+[Wikipedia](https://en.wikipedia.org/wiki/Xenoblade_Chronicles_(video_game))
 
 ---
 
@@ -3692,17 +4130,9 @@
 
 ---
 
-### Mario Kart Wii (JP)
+### Mario Kart Wii
 
-**Platforms:** Wii &nbsp;|&nbsp; **Released:** April 10
-
-[Wikipedia](https://en.wikipedia.org/wiki/Mario_Kart_Wii)
-
----
-
-### Mario Kart Wii (NA)
-
-**Platforms:** Wii &nbsp;|&nbsp; **Released:** April 27
+**Platforms:** Wii &nbsp;|&nbsp; **Released:** April 10 (JP/NA)
 
 [Wikipedia](https://en.wikipedia.org/wiki/Mario_Kart_Wii)
 
@@ -4088,23 +4518,7 @@
 
 ### Super Smash Bros. Brawl
 
-**Platforms:** Wii &nbsp;|&nbsp; **Publisher:** Nintendo &nbsp;|&nbsp; **Released:** January 31, 2008
-
-[Wikipedia](https://en.wikipedia.org/wiki/Super_Smash_Bros._Brawl)
-
----
-
-### Super Smash Bros. Brawl (JP)
-
-**Platforms:** Wii &nbsp;|&nbsp; **Released:** January 31
-
-[Wikipedia](https://en.wikipedia.org/wiki/Super_Smash_Bros._Brawl)
-
----
-
-### Super Smash Bros. Brawl (NA)
-
-**Platforms:** Wii &nbsp;|&nbsp; **Released:** March 9
+**Platforms:** Wii &nbsp;|&nbsp; **Publisher:** Nintendo &nbsp;|&nbsp; **Released:** January 31, 2008 (JP/NA)
 
 [Wikipedia](https://en.wikipedia.org/wiki/Super_Smash_Bros._Brawl)
 
@@ -4254,9 +4668,9 @@
 
 ---
 
-### Wii Fit (NA)
+### Wii Fit
 
-**Platforms:** Wii &nbsp;|&nbsp; **Released:** May 21
+**Platforms:** Wii &nbsp;|&nbsp; **Released:** May 21 (NA)
 
 [Wikipedia](https://en.wikipedia.org/wiki/Wii_Fit)
 
@@ -4522,9 +4936,11 @@
 
 ---
 
-### Dragon Ball Z: Budokai Tenkaichi 3
+### Dragon Ball Z Budokai Tenkaichi 3
 
-**Platforms:** Wii &nbsp;|&nbsp; **Released:** December 3
+**Platforms:** PlayStation 2, Wii &nbsp;|&nbsp; **Released:** November 13
+
+[Wikipedia](https://en.wikipedia.org/wiki/Dragon_Ball_Z_Budokai_Tenkaichi_3)
 
 ---
 
@@ -4674,15 +5090,9 @@
 
 ---
 
-### Lego Star Wars: The Complete Saga (EU)
+### Lego Star Wars: The Complete Saga
 
-**Platforms:** Wii, Nintendo DS &nbsp;|&nbsp; **Released:** November 16
-
----
-
-### Lego Star Wars: The Complete Saga (NA)
-
-**Platforms:** Xbox 360, PlayStation 3, Wii, Nintendo DS &nbsp;|&nbsp; **Released:** November 6
+**Platforms:** Xbox 360, PlayStation 3, Wii, Nintendo DS &nbsp;|&nbsp; **Released:** November 6 (NA/EU)
 
 ---
 
@@ -5086,7 +5496,7 @@
 
 <img src="../images/steam-8000.jpg" alt="Tomb Raider: Anniversary cover" width="200">
 
-**Platforms:** PlayStation 2, Windows, PlayStation Portable, Xbox 360, Wii, Mobile phone &nbsp;|&nbsp; **Genre:** Action, Adventure &nbsp;|&nbsp; **Released:** June 5
+**Platforms:** PlayStation 2, Windows, PlayStation Portable, Xbox 360, Wii, Mobile phone &nbsp;|&nbsp; **Genre:** Action, Adventure &nbsp;|&nbsp; **Released:** June 5 (EU/AU)
 
 > Tomb Raider: Anniversary retraces Lara Croft's original genre-defining adventure  globe-trotting 3rd person action-adventure in pursuit of the legendary Scion artifact. Using an enhanced 'Tomb Raider: Legend' game engine, the graphics, technology and physics bring Lara's adventure and pursuit of a mystical artifact known only as the...
 >
@@ -5216,7 +5626,9 @@
 
 ### Barnyard
 
-**Platforms:** Wii &nbsp;|&nbsp; **Released:** November 19
+**Platforms:** Windows, PlayStation 2, GameCube, Game Boy Advance, Wii &nbsp;|&nbsp; **Released:** August 1 (NA/AU/PAL)
+
+[Wikipedia](https://en.wikipedia.org/wiki/Barnyard_(video_game))
 
 ---
 
@@ -5244,15 +5656,9 @@
 
 ---
 
-### Cars (AU)
+### Cars
 
-**Platforms:** Windows, PlayStation 2, Xbox, GameCube, Game Boy Advance, Nintendo DS, PlayStation Portable, Xbox 360, Wii &nbsp;|&nbsp; **Released:** June 8
-
----
-
-### Cars (EU)
-
-**Platforms:** Windows, PlayStation 2, Xbox, GameCube, Game Boy Advance, Nintendo DS, PlayStation Portable, Xbox 360, Wii &nbsp;|&nbsp; **Released:** July 14
+**Platforms:** Windows, PlayStation 2, Xbox, GameCube, Game Boy Advance, Nintendo DS, PlayStation Portable, Xbox 360, Wii &nbsp;|&nbsp; **Released:** June 8 (AU/EU)
 
 ---
 
@@ -5350,23 +5756,23 @@
 
 ---
 
-### Happy Feet (EU)
+### Happy Feet
 
-**Platforms:** Windows, PlayStation 2, GameCube, Game Boy Advance, Nintendo DS, Wii &nbsp;|&nbsp; **Released:** November 24
+**Platforms:** Windows, PlayStation 2, GameCube, Game Boy Advance, Nintendo DS, Wii &nbsp;|&nbsp; **Released:** November 24 (EU)
 
 ---
 
 ### Happy Feet (USA)
 
-**Platforms:** Windows, PlayStation 2, GameCube, Game Boy Advance, Nintendo DS, Wii &nbsp;|&nbsp; **Genre:** [ 81 ] &nbsp;|&nbsp; **Released:** November 14
+**Platforms:** Windows, PlayStation 2, GameCube, Game Boy Advance, Nintendo DS, Wii &nbsp;|&nbsp; **Released:** November 14
 
 [Wikipedia](https://en.wikipedia.org/wiki/Happy_Feet_(video_game))
 
 ---
 
-### Ice Age 2: The Meltdown (EU)
+### Ice Age 2: The Meltdown
 
-**Platforms:** Windows, PlayStation 2, Xbox, GameCube, Game Boy Advance, Nintendo DS, Wii &nbsp;|&nbsp; **Released:** March 31
+**Platforms:** Windows, PlayStation 2, Xbox, GameCube, Game Boy Advance, Nintendo DS, Wii &nbsp;|&nbsp; **Released:** March 31 (EU/JP)
 
 ---
 
@@ -5406,9 +5812,9 @@
 
 ---
 
-### Open Season (EU)
+### Open Season
 
-**Platforms:** Windows, GameCube, PlayStation 2, Xbox, Xbox 360, Game Boy Advance, Nintendo DS, PlayStation Portable, Wii &nbsp;|&nbsp; **Released:** October 6
+**Platforms:** Windows, GameCube, PlayStation 2, Xbox, Xbox 360, Game Boy Advance, Nintendo DS, PlayStation Portable, Wii &nbsp;|&nbsp; **Released:** October 6 (EU/AU)
 
 ---
 
@@ -5450,15 +5856,9 @@
 
 ---
 
-### Rayman Raving Rabbids (AU)
+### Rayman Raving Rabbids
 
-**Platforms:** Windows, PlayStation 2, Wii &nbsp;|&nbsp; **Released:** December 7
-
----
-
-### Rayman Raving Rabbids (EU)
-
-**Platforms:** Windows, PlayStation 2, Wii &nbsp;|&nbsp; **Released:** December 8
+**Platforms:** Windows, PlayStation 2, Wii &nbsp;|&nbsp; **Released:** December 7 (AU/EU)
 
 ---
 
@@ -5526,15 +5926,9 @@
 
 ---
 
-### SpongeBob SquarePants: Creature from the Krusty Krab (AU)
+### SpongeBob SquarePants: Creature from the Krusty Krab
 
-**Platforms:** PlayStation 2, GameCube, Game Boy Advance, Nintendo DS, Wii &nbsp;|&nbsp; **Released:** November 2
-
----
-
-### SpongeBob SquarePants: Creature from the Krusty Krab (EU)
-
-**Platforms:** PlayStation 2, GameCube, Game Boy Advance, Nintendo DS, Wii &nbsp;|&nbsp; **Released:** November 10
+**Platforms:** Windows, PlayStation 2, GameCube, Game Boy Advance, Nintendo DS, Wii &nbsp;|&nbsp; **Released:** August 15 (AU/EU)
 
 ---
 
@@ -5598,9 +5992,11 @@
 
 ---
 
-### The Grim Adventures of Billy & Mandy (NA)
+### The Grim Adventures of Billy & Mandy
 
-**Platforms:** Wii &nbsp;|&nbsp; **Released:** November 17
+**Platforms:** GameCube, PlayStation 2, Game Boy Advance, Wii &nbsp;|&nbsp; **Released:** September 25 (NA)
+
+[Wikipedia](https://en.wikipedia.org/wiki/The_Grim_Adventures_of_Billy_%26_Mandy_(video_game))
 
 ---
 

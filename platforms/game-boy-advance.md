@@ -2,7 +2,17 @@
 
 [← Back to index](../README.md)
 
-487 titles across 7 years in this archive.
+450 titles across 8 years in this archive.
+
+## 2025
+
+[Full 2025 page](../years/2025.md)
+
+### Shantae Advance: Risky Revolution
+
+**Platforms:** Game Boy Advance, Windows, Nintendo Switch, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S &nbsp;|&nbsp; **Developer:** WayForward &nbsp;|&nbsp; **Publisher:** Limited Run Games &nbsp;|&nbsp; **Genre:** Metroidvania, Action-adventure &nbsp;|&nbsp; **Released:** April 21
+
+---
 
 ## 2007
 
@@ -174,23 +184,11 @@
 
 ---
 
-### Barnyard (AU)
+### Barnyard
 
-**Platforms:** Windows, PlayStation 2, Game Boy Advance &nbsp;|&nbsp; **Released:** September 14
-
----
-
-### Barnyard (NA)
-
-**Platforms:** Windows, PlayStation 2, GameCube, Game Boy Advance &nbsp;|&nbsp; **Released:** August 1
+**Platforms:** Windows, PlayStation 2, GameCube, Game Boy Advance, Wii &nbsp;|&nbsp; **Released:** August 1 (NA/AU/PAL)
 
 [Wikipedia](https://en.wikipedia.org/wiki/Barnyard_(video_game))
-
----
-
-### Barnyard (PAL)
-
-**Platforms:** Windows, PlayStation 2, GameCube, Game Boy Advance &nbsp;|&nbsp; **Released:** October 13
 
 ---
 
@@ -202,15 +200,9 @@
 
 ---
 
-### Cars (AU)
+### Cars
 
-**Platforms:** Windows, PlayStation 2, Xbox, GameCube, Game Boy Advance, Nintendo DS, PlayStation Portable, Xbox 360, Wii &nbsp;|&nbsp; **Released:** June 8
-
----
-
-### Cars (EU)
-
-**Platforms:** Windows, PlayStation 2, Xbox, GameCube, Game Boy Advance, Nintendo DS, PlayStation Portable, Xbox 360, Wii &nbsp;|&nbsp; **Released:** July 14
+**Platforms:** Windows, PlayStation 2, Xbox, GameCube, Game Boy Advance, Nintendo DS, PlayStation Portable, Xbox 360, Wii &nbsp;|&nbsp; **Released:** June 8 (AU/EU)
 
 ---
 
@@ -268,17 +260,9 @@
 
 ### Final Fantasy VI Advance
 
-**Platforms:** Game Boy Advance &nbsp;|&nbsp; **Publisher:** Square Enix &nbsp;|&nbsp; **Released:** November 30, 2006
+**Platforms:** Game Boy Advance &nbsp;|&nbsp; **Publisher:** Square Enix &nbsp;|&nbsp; **Released:** November 30, 2006 (JP)
 
 [Wikipedia](https://en.wikipedia.org/wiki/Final_Fantasy_VI#Nintendo_consoles)
-
----
-
-### Final Fantasy VI Advance (JP)
-
-**Platforms:** Game Boy Advance &nbsp;|&nbsp; **Released:** November 30
-
-[Wikipedia](https://en.wikipedia.org/wiki/Final_Fantasy_VI)
 
 ---
 
@@ -290,29 +274,23 @@
 
 ---
 
-### Happy Feet (EU)
+### Happy Feet
 
-**Platforms:** Windows, PlayStation 2, GameCube, Game Boy Advance, Nintendo DS, Wii &nbsp;|&nbsp; **Released:** November 24
+**Platforms:** Windows, PlayStation 2, GameCube, Game Boy Advance, Nintendo DS, Wii &nbsp;|&nbsp; **Released:** November 24 (EU)
 
 ---
 
 ### Happy Feet (USA)
 
-**Platforms:** Windows, PlayStation 2, GameCube, Game Boy Advance, Nintendo DS, Wii &nbsp;|&nbsp; **Genre:** [ 81 ] &nbsp;|&nbsp; **Released:** November 14
+**Platforms:** Windows, PlayStation 2, GameCube, Game Boy Advance, Nintendo DS, Wii &nbsp;|&nbsp; **Released:** November 14
 
 [Wikipedia](https://en.wikipedia.org/wiki/Happy_Feet_(video_game))
 
 ---
 
-### Ice Age 2: The Meltdown (EU)
+### Ice Age 2: The Meltdown
 
-**Platforms:** Windows, PlayStation 2, Xbox, GameCube, Game Boy Advance, Nintendo DS, Wii &nbsp;|&nbsp; **Released:** March 31
-
----
-
-### Ice Age 2: The Meltdown (JP)
-
-**Platforms:** Windows, PlayStation 2, Xbox, GameCube, Game Boy Advance, Nintendo DS &nbsp;|&nbsp; **Released:** October 6
+**Platforms:** Windows, PlayStation 2, Xbox, GameCube, Game Boy Advance, Nintendo DS, Wii &nbsp;|&nbsp; **Released:** March 31 (EU/JP)
 
 ---
 
@@ -350,29 +328,17 @@
 
 ---
 
-### Monster House (AU)
+### Monster House
 
-**Platforms:** PlayStation 2, GameCube, Game Boy Advance, Nintendo DS &nbsp;|&nbsp; **Released:** September 7
-
----
-
-### Monster House (EU)
-
-**Platforms:** PlayStation 2, GameCube, Game Boy Advance, Nintendo DS &nbsp;|&nbsp; **Released:** August 4
-
----
-
-### Monster House (NA)
-
-**Platforms:** PlayStation 2, GameCube, Game Boy Advance, Nintendo DS &nbsp;|&nbsp; **Released:** July 18
+**Platforms:** PlayStation 2, GameCube, Game Boy Advance, Nintendo DS &nbsp;|&nbsp; **Released:** July 18 (NA/EU/AU)
 
 [Wikipedia](https://en.wikipedia.org/wiki/Monster_House_(video_game))
 
 ---
 
-### Mother 3 (JP)
+### Mother 3
 
-**Platforms:** Game Boy Advance &nbsp;|&nbsp; **Released:** April 20
+**Platforms:** Game Boy Advance &nbsp;|&nbsp; **Released:** April 20 (JP)
 
 [Wikipedia](https://en.wikipedia.org/wiki/Mother_3)
 
@@ -390,15 +356,9 @@
 
 ---
 
-### Open Season (AU)
+### Open Season
 
-**Platforms:** Windows, GameCube, PlayStation 2, Xbox, Xbox 360, Game Boy Advance, Nintendo DS, PlayStation Portable &nbsp;|&nbsp; **Released:** November 30
-
----
-
-### Open Season (EU)
-
-**Platforms:** Windows, GameCube, PlayStation 2, Xbox, Xbox 360, Game Boy Advance, Nintendo DS, PlayStation Portable, Wii &nbsp;|&nbsp; **Released:** October 6
+**Platforms:** Windows, GameCube, PlayStation 2, Xbox, Xbox 360, Game Boy Advance, Nintendo DS, PlayStation Portable, Wii &nbsp;|&nbsp; **Released:** October 6 (EU/AU)
 
 ---
 
@@ -410,21 +370,9 @@
 
 ---
 
-### Over the Hedge (AU)
+### Over the Hedge
 
-**Platforms:** Windows, PlayStation 2, Xbox, GameCube, Game Boy Advance &nbsp;|&nbsp; **Released:** June 14
-
----
-
-### Over the Hedge (EU)
-
-**Platforms:** Windows, PlayStation 2, Xbox, GameCube, Game Boy Advance &nbsp;|&nbsp; **Released:** June 8
-
----
-
-### Over the Hedge (NA)
-
-**Platforms:** Windows, PlayStation 2, Xbox, GameCube, Game Boy Advance &nbsp;|&nbsp; **Released:** May 9
+**Platforms:** Windows, PlayStation 2, Xbox, GameCube, Game Boy Advance &nbsp;|&nbsp; **Released:** May 9 (NA/EU/AU)
 
 [Wikipedia](https://en.wikipedia.org/wiki/Over_the_Hedge_(video_game))
 
@@ -444,21 +392,9 @@
 
 ---
 
-### Rayman Raving Rabbids (handheld) (AU)
+### Rayman Raving Rabbids (handheld)
 
-**Platforms:** Game Boy Advance &nbsp;|&nbsp; **Released:** December 7
-
----
-
-### Rayman Raving Rabbids (handheld) (EU)
-
-**Platforms:** Game Boy Advance &nbsp;|&nbsp; **Released:** December 8
-
----
-
-### Rayman Raving Rabbids (handheld) (NA)
-
-**Platforms:** Game Boy Advance &nbsp;|&nbsp; **Released:** November 14
+**Platforms:** Game Boy Advance &nbsp;|&nbsp; **Released:** November 14 (NA/AU/EU)
 
 [Wikipedia](https://en.wikipedia.org/wiki/Rayman_Raving_Rabbids_(handheld_game))
 
@@ -486,15 +422,9 @@
 
 ---
 
-### SpongeBob SquarePants: Creature from the Krusty Krab (AU)
+### SpongeBob SquarePants: Creature from the Krusty Krab
 
-**Platforms:** PlayStation 2, GameCube, Game Boy Advance, Nintendo DS, Wii &nbsp;|&nbsp; **Released:** November 2
-
----
-
-### SpongeBob SquarePants: Creature from the Krusty Krab (EU)
-
-**Platforms:** PlayStation 2, GameCube, Game Boy Advance, Nintendo DS, Wii &nbsp;|&nbsp; **Released:** November 10
+**Platforms:** Windows, PlayStation 2, GameCube, Game Boy Advance, Nintendo DS, Wii &nbsp;|&nbsp; **Released:** August 15 (AU/EU)
 
 ---
 
@@ -534,27 +464,15 @@
 
 ### The Grim Adventures of Billy & Mandy
 
-**Platforms:** GameCube, PlayStation 2, Game Boy Advance &nbsp;|&nbsp; **Released:** September 25
+**Platforms:** GameCube, PlayStation 2, Game Boy Advance, Wii &nbsp;|&nbsp; **Released:** September 25 (NA)
 
 [Wikipedia](https://en.wikipedia.org/wiki/The_Grim_Adventures_of_Billy_%26_Mandy_(video_game))
 
 ---
 
-### The Legend of Spyro: A New Beginning (AU)
+### The Legend of Spyro: A New Beginning
 
-**Platforms:** PlayStation 2, Xbox, GameCube, Game Boy Advance, Nintendo DS &nbsp;|&nbsp; **Released:** November 2
-
----
-
-### The Legend of Spyro: A New Beginning (EU)
-
-**Platforms:** PlayStation 2, Xbox, GameCube, Game Boy Advance, Nintendo DS &nbsp;|&nbsp; **Released:** October 27
-
----
-
-### The Legend of Spyro: A New Beginning (NA)
-
-**Platforms:** PlayStation 2, Xbox, GameCube, Game Boy Advance, Nintendo DS &nbsp;|&nbsp; **Released:** October 10
+**Platforms:** PlayStation 2, Xbox, GameCube, Game Boy Advance, Nintendo DS &nbsp;|&nbsp; **Released:** October 10 (NA/EU/AU)
 
 ---
 
@@ -884,7 +802,7 @@
 
 <img src="../images/steam-1262560.jpg" alt="Need for Speed: Most Wanted cover" width="200">
 
-**Platforms:** Windows, PlayStation 2, Xbox, GameCube, Game Boy Advance, Nintendo DS, PlayStation Portable, Xbox 360 &nbsp;|&nbsp; **Genre:** Action, Adventure, Racing &nbsp;|&nbsp; **Released:** November 16
+**Platforms:** Windows, PlayStation 2, Xbox, GameCube, Game Boy Advance, Nintendo DS, PlayStation Portable, Xbox 360 &nbsp;|&nbsp; **Genre:** Action, Adventure, Racing &nbsp;|&nbsp; **Released:** November 15
 
 > The open-world action in Need for Speed Most Wanted gives you the freedom to drive your way. Hit jumps and shortcuts, switch cars, lie low or head for terrain that plays to your vehicle’s unique strengths. Fight your way past cops and rivals using skill, high-end car tech and tons of nitrous.
 >
@@ -910,9 +828,9 @@
 
 ---
 
-### Pokémon Emerald (North America)
+### Pokémon Emerald
 
-**Platforms:** Game Boy Advance &nbsp;|&nbsp; **Released:** May 1
+**Platforms:** Game Boy Advance &nbsp;|&nbsp; **Released:** May 1 (NA)
 
 [Wikipedia](https://en.wikipedia.org/wiki/Pok%C3%A9mon_Emerald)
 
@@ -1136,9 +1054,9 @@
 
 [Full 2004 page](../years/2004.md)
 
-### 2nd Super Robot Wars (JP) [ a ]
+### 2nd Super Robot Wars
 
-**Platforms:** Game Boy Advance &nbsp;|&nbsp; **Released:** December 16
+**Platforms:** Game Boy Advance &nbsp;|&nbsp; **Released:** December 16 (JP)
 
 [Wikipedia](https://en.wikipedia.org/wiki/2nd_Super_Robot_Wars)
 
@@ -1152,9 +1070,9 @@
 
 ---
 
-### Adventure Island (JP) [ a ]
+### Adventure Island
 
-**Platforms:** Game Boy Advance &nbsp;|&nbsp; **Released:** May 21
+**Platforms:** Game Boy Advance &nbsp;|&nbsp; **Released:** May 21 (JP)
 
 [Wikipedia](https://en.wikipedia.org/wiki/Adventure_Island_(video_game))
 
@@ -1180,9 +1098,9 @@
 
 ---
 
-### Balloon Fight (JP) [ a ]
+### Balloon Fight
 
-**Platforms:** Game Boy Advance &nbsp;|&nbsp; **Released:** May 21
+**Platforms:** Game Boy Advance &nbsp;|&nbsp; **Released:** May 21 (JP)
 
 [Wikipedia](https://en.wikipedia.org/wiki/Balloon_Fight)
 
@@ -1202,25 +1120,9 @@
 
 ---
 
-### Bomberman (JP) [ a ]
+### Bomberman
 
-**Platforms:** Game Boy Advance &nbsp;|&nbsp; **Released:** February 14
-
-[Wikipedia](https://en.wikipedia.org/wiki/Bomberman_(1983_video_game))
-
----
-
-### Bomberman (NA) [ a ]
-
-**Platforms:** Game Boy Advance &nbsp;|&nbsp; **Released:** June 7
-
-[Wikipedia](https://en.wikipedia.org/wiki/Bomberman_(1983_video_game))
-
----
-
-### Bomberman (PAL) [ a ]
-
-**Platforms:** Game Boy Advance &nbsp;|&nbsp; **Released:** July 9
+**Platforms:** Game Boy Advance &nbsp;|&nbsp; **Released:** February 14 (JP/NA/PAL)
 
 [Wikipedia](https://en.wikipedia.org/wiki/Bomberman_(1983_video_game))
 
@@ -1232,17 +1134,9 @@
 
 ---
 
-### Castlevania (JP) [ a ]
+### Castlevania
 
-**Platforms:** Game Boy Advance &nbsp;|&nbsp; **Released:** August 10
-
-[Wikipedia](https://en.wikipedia.org/wiki/Castlevania_(1986_video_game))
-
----
-
-### Castlevania (NA) [ a ]
-
-**Platforms:** Game Boy Advance &nbsp;|&nbsp; **Released:** October 25
+**Platforms:** Game Boy Advance &nbsp;|&nbsp; **Released:** August 10 (JP/NA)
 
 [Wikipedia](https://en.wikipedia.org/wiki/Castlevania_(1986_video_game))
 
@@ -1256,9 +1150,9 @@
 
 ---
 
-### Clu Clu Land (JP) [ a ]
+### Clu Clu Land
 
-**Platforms:** Game Boy Advance &nbsp;|&nbsp; **Released:** May 21
+**Platforms:** Game Boy Advance &nbsp;|&nbsp; **Released:** May 21 (JP)
 
 [Wikipedia](https://en.wikipedia.org/wiki/Clu_Clu_Land)
 
@@ -1276,9 +1170,9 @@
 
 ---
 
-### Dig Dug (JP) [ a ]
+### Dig Dug
 
-**Platforms:** Game Boy Advance &nbsp;|&nbsp; **Released:** May 21
+**Platforms:** Game Boy Advance &nbsp;|&nbsp; **Released:** May 21 (JP)
 
 [Wikipedia](https://en.wikipedia.org/wiki/Dig_Dug)
 
@@ -1300,25 +1194,9 @@
 
 ---
 
-### Donkey Kong (JP) [ a ]
+### Donkey Kong
 
-**Platforms:** Game Boy Advance &nbsp;|&nbsp; **Released:** February 14
-
-[Wikipedia](https://en.wikipedia.org/wiki/Donkey_Kong_(arcade_game))
-
----
-
-### Donkey Kong (NA) [ a ]
-
-**Platforms:** Game Boy Advance &nbsp;|&nbsp; **Released:** June 7
-
-[Wikipedia](https://en.wikipedia.org/wiki/Donkey_Kong_(arcade_game))
-
----
-
-### Donkey Kong (PAL) [ a ]
-
-**Platforms:** Game Boy Advance &nbsp;|&nbsp; **Released:** July 9
+**Platforms:** Game Boy Advance &nbsp;|&nbsp; **Released:** February 14 (JP/NA/PAL)
 
 [Wikipedia](https://en.wikipedia.org/wiki/Donkey_Kong_(arcade_game))
 
@@ -1330,17 +1208,9 @@
 
 ---
 
-### Dr. Mario (JP) [ a ]
+### Dr. Mario
 
-**Platforms:** Game Boy Advance &nbsp;|&nbsp; **Released:** May 21
-
-[Wikipedia](https://en.wikipedia.org/wiki/Dr._Mario)
-
----
-
-### Dr. Mario (NA) [ a ]
-
-**Platforms:** Game Boy Advance &nbsp;|&nbsp; **Released:** October 25
+**Platforms:** Game Boy Advance &nbsp;|&nbsp; **Released:** May 21 (JP/NA)
 
 [Wikipedia](https://en.wikipedia.org/wiki/Dr._Mario)
 
@@ -1358,25 +1228,9 @@
 
 ---
 
-### Excitebike (JP) [ a ]
+### Excitebike
 
-**Platforms:** Game Boy Advance &nbsp;|&nbsp; **Released:** February 14
-
-[Wikipedia](https://en.wikipedia.org/wiki/Excitebike)
-
----
-
-### Excitebike (NA) [ a ]
-
-**Platforms:** Game Boy Advance &nbsp;|&nbsp; **Released:** June 7
-
-[Wikipedia](https://en.wikipedia.org/wiki/Excitebike)
-
----
-
-### Excitebike (PAL) [ a ]
-
-**Platforms:** Game Boy Advance &nbsp;|&nbsp; **Released:** July 9
+**Platforms:** Game Boy Advance &nbsp;|&nbsp; **Released:** February 14 (JP/NA/PAL)
 
 [Wikipedia](https://en.wikipedia.org/wiki/Excitebike)
 
@@ -1388,17 +1242,17 @@
 
 ---
 
-### Famicom Detective Club: The Girl Who Stands Behind (JP) [ a ]
+### Famicom Detective Club: The Girl Who Stands Behind
 
-**Platforms:** Game Boy Advance &nbsp;|&nbsp; **Released:** August 10
+**Platforms:** Game Boy Advance &nbsp;|&nbsp; **Released:** August 10 (JP)
 
 [Wikipedia](https://en.wikipedia.org/wiki/Famicom_Detective_Club)
 
 ---
 
-### Famicom Detective Club: The Missing Heir (JP) [ a ]
+### Famicom Detective Club: The Missing Heir
 
-**Platforms:** Game Boy Advance &nbsp;|&nbsp; **Released:** August 10
+**Platforms:** Game Boy Advance &nbsp;|&nbsp; **Released:** August 10 (JP)
 
 [Wikipedia](https://en.wikipedia.org/wiki/Famicom_Detective_Club)
 
@@ -1420,17 +1274,17 @@
 
 ---
 
-### Ganbare Goemon! Karakuri Dōchū (JP) [ a ]
+### Ganbare Goemon! Karakuri Dōchū
 
-**Platforms:** Game Boy Advance &nbsp;|&nbsp; **Released:** May 21
+**Platforms:** Game Boy Advance &nbsp;|&nbsp; **Released:** May 21 (JP)
 
 [Wikipedia](https://en.wikipedia.org/wiki/Ganbare_Goemon!_Karakuri_D%C5%8Dch%C5%AB)
 
 ---
 
-### Ghosts 'n Goblins (JP) [ a ]
+### Ghosts 'n Goblins
 
-**Platforms:** Game Boy Advance &nbsp;|&nbsp; **Released:** May 21
+**Platforms:** Game Boy Advance &nbsp;|&nbsp; **Released:** May 21 (JP)
 
 [Wikipedia](https://en.wikipedia.org/wiki/Ghosts_%27n_Goblins_(video_game))
 
@@ -1458,25 +1312,9 @@
 
 ---
 
-### Ice Climber (JP) [ a ]
+### Ice Climber
 
-**Platforms:** Game Boy Advance &nbsp;|&nbsp; **Released:** February 14
-
-[Wikipedia](https://en.wikipedia.org/wiki/Ice_Climber_(video_game))
-
----
-
-### Ice Climber (NA) [ a ]
-
-**Platforms:** Game Boy Advance &nbsp;|&nbsp; **Released:** June 7
-
-[Wikipedia](https://en.wikipedia.org/wiki/Ice_Climber_(video_game))
-
----
-
-### Ice Climber (PAL) [ a ]
-
-**Platforms:** Game Boy Advance &nbsp;|&nbsp; **Released:** July 9
+**Platforms:** Game Boy Advance &nbsp;|&nbsp; **Released:** February 14 (JP/NA/PAL)
 
 [Wikipedia](https://en.wikipedia.org/wiki/Ice_Climber_(video_game))
 
@@ -1490,9 +1328,9 @@
 
 ---
 
-### Kid Icarus (JP) [ a ]
+### Kid Icarus
 
-**Platforms:** Game Boy Advance &nbsp;|&nbsp; **Released:** August 10
+**Platforms:** Game Boy Advance &nbsp;|&nbsp; **Released:** August 10 (JP)
 
 [Wikipedia](https://en.wikipedia.org/wiki/Kid_Icarus)
 
@@ -1528,17 +1366,17 @@
 
 ---
 
-### Mappy (JP) [ a ]
+### Mappy
 
-**Platforms:** Game Boy Advance &nbsp;|&nbsp; **Released:** February 14
+**Platforms:** Game Boy Advance &nbsp;|&nbsp; **Released:** February 14 (JP)
 
 [Wikipedia](https://en.wikipedia.org/wiki/Mappy)
 
 ---
 
-### Mario Bros. (JP) [ a ]
+### Mario Bros.
 
-**Platforms:** Game Boy Advance &nbsp;|&nbsp; **Released:** May 21
+**Platforms:** Game Boy Advance &nbsp;|&nbsp; **Released:** May 21 (JP)
 
 [Wikipedia](https://en.wikipedia.org/wiki/Mario_Bros.)
 
@@ -1584,17 +1422,9 @@
 
 ---
 
-### Metroid (JP) [ a ]
+### Metroid
 
-**Platforms:** Game Boy Advance &nbsp;|&nbsp; **Released:** August 10
-
-[Wikipedia](https://en.wikipedia.org/wiki/Metroid_(video_game))
-
----
-
-### Metroid (NA) [ a ]
-
-**Platforms:** Game Boy Advance &nbsp;|&nbsp; **Released:** October 25
+**Platforms:** Game Boy Advance &nbsp;|&nbsp; **Released:** August 10 (JP/NA)
 
 [Wikipedia](https://en.wikipedia.org/wiki/Metroid_(video_game))
 
@@ -1606,9 +1436,9 @@
 
 ---
 
-### Mobile Suit Z Gundam: Hot Scramble (JP) [ a ]
+### Mobile Suit Z Gundam: Hot Scramble
 
-**Platforms:** Game Boy Advance &nbsp;|&nbsp; **Released:** March 18
+**Platforms:** Game Boy Advance &nbsp;|&nbsp; **Released:** March 18 (JP)
 
 ---
 
@@ -1618,25 +1448,9 @@
 
 ---
 
-### Pac-Man (JP) [ a ]
+### Pac-Man
 
-**Platforms:** Game Boy Advance &nbsp;|&nbsp; **Released:** February 14
-
-[Wikipedia](https://en.wikipedia.org/wiki/Pac-Man)
-
----
-
-### Pac-Man (NA) [ a ]
-
-**Platforms:** Game Boy Advance &nbsp;|&nbsp; **Released:** June 7
-
-[Wikipedia](https://en.wikipedia.org/wiki/Pac-Man)
-
----
-
-### Pac-Man (PAL) [ a ]
-
-**Platforms:** Game Boy Advance &nbsp;|&nbsp; **Released:** July 9
+**Platforms:** Game Boy Advance &nbsp;|&nbsp; **Released:** February 14 (JP/NA/PAL)
 
 [Wikipedia](https://en.wikipedia.org/wiki/Pac-Man)
 
@@ -1650,25 +1464,17 @@
 
 ---
 
-### Pokémon Emerald (JP)
+### Pokémon Emerald
 
-**Platforms:** Game Boy Advance &nbsp;|&nbsp; **Released:** September 16
+**Platforms:** Game Boy Advance &nbsp;|&nbsp; **Released:** September 16 (JP)
 
 [Wikipedia](https://en.wikipedia.org/wiki/Pok%C3%A9mon_Emerald)
 
 ---
 
-### Pokémon FireRed and LeafGreen (JP)
+### Pokémon FireRed and LeafGreen
 
-**Platforms:** Game Boy Advance &nbsp;|&nbsp; **Released:** January 29
-
-[Wikipedia](https://en.wikipedia.org/wiki/Pok%C3%A9mon_FireRed_and_LeafGreen)
-
----
-
-### Pokémon FireRed and LeafGreen (NA)
-
-**Platforms:** Game Boy Advance &nbsp;|&nbsp; **Released:** September 9
+**Platforms:** Game Boy Advance &nbsp;|&nbsp; **Released:** January 29 (JP/NA)
 
 [Wikipedia](https://en.wikipedia.org/wiki/Pok%C3%A9mon_FireRed_and_LeafGreen)
 
@@ -1688,9 +1494,9 @@
 
 ---
 
-### SD Gundam World: Gachapon Senshi - Scramble Wars (JP) [ a ]
+### SD Gundam World: Gachapon Senshi - Scramble Wars
 
-**Platforms:** Game Boy Advance &nbsp;|&nbsp; **Released:** August 10
+**Platforms:** Game Boy Advance &nbsp;|&nbsp; **Released:** August 10 (JP)
 
 [Wikipedia](https://en.wikipedia.org/wiki/SD_Gundam_World_Gachapon_Senshi)
 
@@ -1718,9 +1524,9 @@
 
 ---
 
-### Shin Onigashima (JP) [ a ]
+### Shin Onigashima
 
-**Platforms:** Game Boy Advance &nbsp;|&nbsp; **Released:** August 10
+**Platforms:** Game Boy Advance &nbsp;|&nbsp; **Released:** August 10 (JP)
 
 [Wikipedia](https://en.wikipedia.org/wiki/Shin_Onigashima)
 
@@ -1742,9 +1548,9 @@
 
 ---
 
-### Star Soldier (JP) [ a ]
+### Star Soldier
 
-**Platforms:** Game Boy Advance &nbsp;|&nbsp; **Released:** February 14
+**Platforms:** Game Boy Advance &nbsp;|&nbsp; **Released:** February 14 (JP)
 
 [Wikipedia](https://en.wikipedia.org/wiki/Star_Soldier_(video_game))
 
@@ -1756,33 +1562,17 @@
 
 ---
 
-### Super Mario Bros. (JP) [ a ]
+### Super Mario Bros.
 
-**Platforms:** Game Boy Advance &nbsp;|&nbsp; **Released:** February 14
-
-[Wikipedia](https://en.wikipedia.org/wiki/Super_Mario_Bros.)
-
----
-
-### Super Mario Bros. (NA) [ a ]
-
-**Platforms:** Game Boy Advance &nbsp;|&nbsp; **Released:** June 7
+**Platforms:** Game Boy Advance &nbsp;|&nbsp; **Released:** February 14 (JP/NA/PAL)
 
 [Wikipedia](https://en.wikipedia.org/wiki/Super_Mario_Bros.)
 
 ---
 
-### Super Mario Bros. (PAL) [ a ]
+### Super Mario Bros.: The Lost Levels
 
-**Platforms:** Game Boy Advance &nbsp;|&nbsp; **Released:** July 9
-
-[Wikipedia](https://en.wikipedia.org/wiki/Super_Mario_Bros.)
-
----
-
-### Super Mario Bros.: The Lost Levels (JP) [ a ]
-
-**Platforms:** Game Boy Advance &nbsp;|&nbsp; **Released:** August 10
+**Platforms:** Game Boy Advance &nbsp;|&nbsp; **Released:** August 10 (JP)
 
 ---
 
@@ -1810,25 +1600,9 @@
 
 ---
 
-### The Legend of Zelda (JP) [ a ]
+### The Legend of Zelda
 
-**Platforms:** Game Boy Advance &nbsp;|&nbsp; **Released:** February 14
-
-[Wikipedia](https://en.wikipedia.org/wiki/The_Legend_of_Zelda_(video_game))
-
----
-
-### The Legend of Zelda (NA) [ a ]
-
-**Platforms:** Game Boy Advance &nbsp;|&nbsp; **Released:** June 7
-
-[Wikipedia](https://en.wikipedia.org/wiki/The_Legend_of_Zelda_(video_game))
-
----
-
-### The Legend of Zelda (PAL) [ a ]
-
-**Platforms:** Game Boy Advance &nbsp;|&nbsp; **Released:** July 9
+**Platforms:** Game Boy Advance &nbsp;|&nbsp; **Released:** February 14 (JP/NA/PAL)
 
 [Wikipedia](https://en.wikipedia.org/wiki/The_Legend_of_Zelda_(video_game))
 
@@ -1836,13 +1610,7 @@
 
 ### The Legend of Zelda: The Minish Cap
 
-**Platforms:** Game Boy Advance &nbsp;|&nbsp; **Publisher:** Nintendo &nbsp;|&nbsp; **Released:** November 4, 2004
-
----
-
-### The Legend of Zelda: The Minish Cap (JP)
-
-**Platforms:** Game Boy Advance &nbsp;|&nbsp; **Released:** November 4
+**Platforms:** Game Boy Advance &nbsp;|&nbsp; **Publisher:** Nintendo &nbsp;|&nbsp; **Released:** November 4, 2004 (JP)
 
 ---
 
@@ -1852,9 +1620,9 @@
 
 ---
 
-### The Mysterious Murasame Castle (JP) [ a ]
+### The Mysterious Murasame Castle
 
-**Platforms:** Game Boy Advance &nbsp;|&nbsp; **Released:** August 10
+**Platforms:** Game Boy Advance &nbsp;|&nbsp; **Released:** August 10 (JP)
 
 [Wikipedia](https://en.wikipedia.org/wiki/The_Mysterious_Murasame_Castle)
 
@@ -1890,9 +1658,9 @@
 
 ---
 
-### TwinBee (JP) [ a ]
+### TwinBee
 
-**Platforms:** Game Boy Advance &nbsp;|&nbsp; **Released:** May 21
+**Platforms:** Game Boy Advance &nbsp;|&nbsp; **Released:** May 21 (JP)
 
 [Wikipedia](https://en.wikipedia.org/wiki/TwinBee)
 
@@ -1912,33 +1680,17 @@
 
 ---
 
-### Wrecking Crew (JP) [ a ]
+### Wrecking Crew
 
-**Platforms:** Game Boy Advance &nbsp;|&nbsp; **Released:** May 21
+**Platforms:** Game Boy Advance &nbsp;|&nbsp; **Released:** May 21 (JP)
 
 [Wikipedia](https://en.wikipedia.org/wiki/Wrecking_Crew_(video_game))
 
 ---
 
-### Xevious (JP) [ a ]
+### Xevious
 
-**Platforms:** Game Boy Advance &nbsp;|&nbsp; **Released:** February 14
-
-[Wikipedia](https://en.wikipedia.org/wiki/Xevious)
-
----
-
-### Xevious (NA) [ a ]
-
-**Platforms:** Game Boy Advance &nbsp;|&nbsp; **Released:** June 7
-
-[Wikipedia](https://en.wikipedia.org/wiki/Xevious)
-
----
-
-### Xevious (PAL) [ a ]
-
-**Platforms:** Game Boy Advance &nbsp;|&nbsp; **Released:** July 9
+**Platforms:** Game Boy Advance &nbsp;|&nbsp; **Released:** February 14 (JP/NA/PAL)
 
 [Wikipedia](https://en.wikipedia.org/wiki/Xevious)
 
@@ -1966,15 +1718,9 @@
 
 ---
 
-### Zelda II: The Adventure of Link (JP) [ a ]
+### Zelda II: The Adventure of Link
 
-**Platforms:** Game Boy Advance &nbsp;|&nbsp; **Released:** August 10
-
----
-
-### Zelda II: The Adventure of Link (NA) [ a ]
-
-**Platforms:** Game Boy Advance &nbsp;|&nbsp; **Released:** October 25
+**Platforms:** Game Boy Advance &nbsp;|&nbsp; **Released:** August 10 (JP/NA)
 
 ---
 
@@ -2246,9 +1992,9 @@
 
 ---
 
-### Pokémon Ruby and Sapphire (North America)
+### Pokémon Ruby and Sapphire
 
-**Platforms:** Game Boy Advance &nbsp;|&nbsp; **Released:** March 19
+**Platforms:** Game Boy Advance &nbsp;|&nbsp; **Genre:** Monster tamer &nbsp;|&nbsp; **Released:** March 19 (NA)
 
 [Wikipedia](https://en.wikipedia.org/wiki/Pok%C3%A9mon_Ruby_and_Sapphire)
 
@@ -2872,7 +2618,7 @@
 
 ### Pokémon Ruby and Sapphire
 
-**Platforms:** Game Boy Advance &nbsp;|&nbsp; **Released:** November 21
+**Platforms:** Game Boy Advance &nbsp;|&nbsp; **Released:** November 21 (JP)
 
 [Wikipedia](https://en.wikipedia.org/wiki/Pok%C3%A9mon_Ruby_and_Sapphire)
 
@@ -3272,11 +3018,11 @@
 
 ---
 
-### Gradius Advance
+### Gradius Galaxies
 
 **Platforms:** Game Boy Advance &nbsp;|&nbsp; **Released:** November 12
 
-[Wikipedia](https://en.wikipedia.org/wiki/Gradius_Advance)
+[Wikipedia](https://en.wikipedia.org/wiki/Gradius_Galaxies)
 
 ---
 
@@ -3349,12 +3095,6 @@
 **Platforms:** Windows, PlayStation, Game Boy Color, Game Boy Advance &nbsp;|&nbsp; **Released:** March 1
 
 [Wikipedia](https://en.wikipedia.org/wiki/Lego_Island_2_The_Brickster%27s_Revenge)
-
----
-
-### Lego Island 2: The Brickster's Revenge
-
-**Platforms:** Game Boy Advance &nbsp;|&nbsp; **Released:** October 2
 
 ---
 
@@ -3552,7 +3292,7 @@
 
 ---
 
-### WWF Road to Wrestlemania
+### WWF Road to WrestleMania
 
 **Platforms:** Game Boy Advance &nbsp;|&nbsp; **Released:** November 18
 

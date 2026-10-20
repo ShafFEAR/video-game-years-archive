@@ -2,23 +2,59 @@
 
 [← Back to index](../README.md)
 
-15 titles across 7 years in this archive.
+31 titles across 7 years in this archive.
 
 ## 2015
 
 [Full 2015 page](../years/2015.md)
 
+### Dungeon Hunter 5
+
+**Platforms:** Android, iOS, Windows Phone &nbsp;|&nbsp; **Genre:** Action RPG, Hack and slash &nbsp;|&nbsp; **Released:** March 12
+
+[Wikipedia](https://en.wikipedia.org/wiki/Dungeon_Hunter_5)
+
+---
+
+### Halo: Spartan Strike
+
+**Platforms:** Windows, iOS, Windows Phone &nbsp;|&nbsp; **Genre:** Shoot 'em up (twin-stick) &nbsp;|&nbsp; **Released:** April 16
+
+---
+
+### Hitman Go
+
+**Platforms:** Windows, Windows Phone &nbsp;|&nbsp; **Genre:** Puzzle &nbsp;|&nbsp; **Released:** April 27
+
+[Wikipedia](https://en.wikipedia.org/wiki/Hitman_Go)
+
+---
+
 ### Lara Croft Go
 
 <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co1xo1.jpg" alt="Lara Croft Go cover" width="200">
 
-**Platforms:** Windows Phone, Windows, Android, iOS &nbsp;|&nbsp; **Developer:** Square Enix Montréal &nbsp;|&nbsp; **Publisher:** Square Enix, Crystal Dynamics, CDE Entertainment &nbsp;|&nbsp; **Genre:** Puzzle, Strategy, Turn-based strategy (TBS), Adventure &nbsp;|&nbsp; **Released:** August 27, 2015
+**Platforms:** iOS, Android, Windows Phone &nbsp;|&nbsp; **Genre:** Puzzle &nbsp;|&nbsp; **Released:** August 27
 
 > Lara Croft GO expands the turn-based puzzle gameplay and takes you on an adventure set in a long-forgotten world. Explore the ruins of an ancient civilization, discover hidden secrets and face deadly challenges as you uncover the myth of the Queen of Venom.  A never-before-seen take on the iconic franchise featuring challenging gameplay, gorgeous visuals and a mesmerizing soundtrack, all at your fingertips.
 >
 > _Synopsis source: IGDB_
 
-[IGDB](https://www.igdb.com/games/lara-croft-go)
+[Wikipedia](https://en.wikipedia.org/wiki/Lara_Croft_Go) · [IGDB](https://www.igdb.com/games/lara-croft-go)
+
+---
+
+### Lara Croft: Relic Run
+
+**Platforms:** iOS, Android, Windows Phone &nbsp;|&nbsp; **Genre:** Action-adventure, Endless runner &nbsp;|&nbsp; **Released:** May 28
+
+---
+
+### Monument Valley
+
+**Platforms:** Windows Phone &nbsp;|&nbsp; **Genre:** Puzzle &nbsp;|&nbsp; **Released:** May 1
+
+[Wikipedia](https://en.wikipedia.org/wiki/Monument_Valley_(video_game))
 
 ---
 
@@ -26,17 +62,67 @@
 
 [Full 2014 page](../years/2014.md)
 
-### Back to Bed
+### Age of Empires: Castle Siege
 
-<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co1klw.jpg" alt="Back to Bed cover" width="200">
+**Platforms:** Windows, Windows Phone &nbsp;|&nbsp; **Genre:** MMO, Tower defense &nbsp;|&nbsp; **Released:** September 17
 
-**Platforms:** Windows, Linux, Windows Phone, Android, macOS, Ouya, iOS &nbsp;|&nbsp; **Developer:** Bedtime Digital Games &nbsp;|&nbsp; **Publisher:** LOOT Interactive, Bedtime Digital Games, 2Awesome Studio &nbsp;|&nbsp; **Genre:** Platform, Puzzle, Strategy, Adventure, Indie &nbsp;|&nbsp; **Released:** August 6, 2014
+---
 
-> Back to Bed is an artistic 3D puzzle game with a surreal twist. It tells the story of Bob, an unlucky narcoleptic who has a tendency of falling asleep in his boring office and then proceeding to sleepwalk into the dangers of the big city. Luckily, Bob has a subconscious guardian named Subob, whom spawns from the mind of Bob and whose job it is to protect the sleepwalker from any danger and guide him back to the safety of his bed.  The ever vigilant Subob must guide the constantly sleepwalking Bob on a journey through a series of surreal painting-like cityscapes where the boundary between Bob's dreams and reality have vanished, as Subob is part of Bob's subconsciousness. The result is an artistic dream world that is recognizable, yet totally different from the real world, where many things are not what they seem and dangers to the sleepwalker lurks deeper in.
+### Angry Birds Stella
+
+**Platforms:** Windows Phone, iOS, Android &nbsp;|&nbsp; **Genre:** Puzzle &nbsp;|&nbsp; **Released:** September 4
+
+[Wikipedia](https://en.wikipedia.org/wiki/Angry_Birds_Stella)
+
+---
+
+### Angry Birds Transformers
+
+**Platforms:** iOS, Windows Phone, Android &nbsp;|&nbsp; **Genre:** Shoot 'em up &nbsp;|&nbsp; **Released:** October 15
+
+[Wikipedia](https://en.wikipedia.org/wiki/Angry_Birds_Transformers)
+
+---
+
+### Candy Crush Saga
+
+**Platforms:** Windows Phone &nbsp;|&nbsp; **Genre:** Puzzle &nbsp;|&nbsp; **Released:** December 11
+
+[Wikipedia](https://en.wikipedia.org/wiki/Candy_Crush_Saga)
+
+---
+
+### Five Nights at Freddy's
+
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co8efb.jpg" alt="Five Nights at Freddy's cover" width="200">
+
+**Platforms:** Windows, Android, iOS, Windows Phone &nbsp;|&nbsp; **Genre:** Survival horror, PCA &nbsp;|&nbsp; **Released:** August 8
+
+> Welcome to your new summer job at Freddy Fazbear's Pizza, where kids and parents alike come for entertainment and food as far as the eye can see! The main attraction is Freddy Fazbear, of course; and his two friends. They are animatronic robots, programmed to please the crowds! The robots' behavior has become somewhat unpredictable at night however, and it was much cheaper to hire you as a security guard than to find a repairman.  From your small office you must watch the security cameras carefully. You have a very limited amount of electricity that you're allowed to use per night (corporate budget cuts, you know). That means when you run out of power for the night- no more security doors and no more lights! If something isn't right- namely if Freddybear or his friends aren't in their proper places, you must find them on the monitors and protect yourself if needed!  Can you survive five nights at Freddy's?
 >
 > _Synopsis source: IGDB_
 
-[IGDB](https://www.igdb.com/games/back-to-bed)
+[Wikipedia](https://en.wikipedia.org/wiki/Five_Nights_at_Freddy%27s_(video_game)) · [IGDB](https://www.igdb.com/games/five-nights-at-freddys)
+
+---
+
+### Five Nights at Freddy's 2
+
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co8efd.jpg" alt="Five Nights at Freddy's 2 cover" width="200">
+
+**Platforms:** Windows, Android, iOS, Windows Phone &nbsp;|&nbsp; **Genre:** Survival horror &nbsp;|&nbsp; **Released:** November 11
+
+> Welcome back to the new and improved Freddy Fazbear's Pizza!  In Five Nights at Freddy's 2, the old and aging animatronics are joined by a new cast of characters. They are kid-friendly, updated with the latest in facial recognition technology, tied into local criminal databases, and promise to put on a safe and entertaining show for kids and grown-ups alike!  What could go wrong?  As the new security guard working nights, your job is to monitor cameras and make sure nothing goes wrong after-hours. The previous guard has complained about the characters trying to get into the office (he has since been moved to day-shift). So to make your job easier, you've been provided with your very own empty Freddy Fazbear head, which should fool the animatronic characters into leaving you alone if they should accidentally enter your office.  As always, Fazbear Entertainment is not responsible for death or dismemberment.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Five_Nights_at_Freddy%27s_2) · [IGDB](https://www.igdb.com/games/five-nights-at-freddys-2)
+
+---
+
+### Grand Theft Auto: San Andreas Mobile
+
+**Platforms:** Windows Phone &nbsp;|&nbsp; **Genre:** Action-adventure &nbsp;|&nbsp; **Released:** January 27
 
 ---
 
@@ -54,21 +140,57 @@
 
 ---
 
+### Minecraft
+
+**Platforms:** PlayStation 4, Xbox One, PlayStation Vita, Windows Phone &nbsp;|&nbsp; **Genre:** Sandbox, Survival &nbsp;|&nbsp; **Released:** September 4
+
+[Wikipedia](https://en.wikipedia.org/wiki/Minecraft)
+
+---
+
+### Terraria
+
+**Platforms:** Windows Phone, PlayStation 4, Xbox One &nbsp;|&nbsp; **Genre:** Action-adventure, Sandbox &nbsp;|&nbsp; **Released:** September 12
+
+[Wikipedia](https://en.wikipedia.org/wiki/Terraria)
+
+---
+
+### Wordament Snap Attack
+
+**Platforms:** Windows, Windows Phone &nbsp;|&nbsp; **Released:** May 6
+
+---
+
 ## 2013
 
 [Full 2013 page](../years/2013.md)
+
+### Angry Birds Go!
+
+**Platforms:** iOS, Android, Windows Phone &nbsp;|&nbsp; **Genre:** Racing &nbsp;|&nbsp; **Released:** December 11
+
+[Wikipedia](https://en.wikipedia.org/wiki/Angry_Birds_Go!)
+
+---
 
 ### Angry Birds Star Wars II
 
 <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2hr1.jpg" alt="Angry Birds Star Wars II cover" width="200">
 
-**Platforms:** Windows Phone, Windows, Android, iOS &nbsp;|&nbsp; **Developer:** Rovio Entertainment &nbsp;|&nbsp; **Publisher:** LucasArts &nbsp;|&nbsp; **Genre:** Puzzle, Strategy, Arcade &nbsp;|&nbsp; **Released:** September 18, 2013
+**Platforms:** iOS, Android, Windows Phone &nbsp;|&nbsp; **Genre:** Puzzle &nbsp;|&nbsp; **Released:** September 19
 
 > The Force is strong with this one. Get ready for Angry Birds Star Wars II – the epic follow-up to the #1 smash hit game! Based on the Star Wars movie prequels, use the Force for good against the greedy Pork Federation or choose a much darker path. That’s right; for the first time ever you can “Join the Pork Side” and play as the fearsome Darth Maul, Emperor Palpatine and many other favorites!
 >
 > _Synopsis source: IGDB_
 
-[IGDB](https://www.igdb.com/games/angry-birds-star-wars-ii)
+[Wikipedia](https://en.wikipedia.org/wiki/Angry_Birds_Star_Wars_II) · [IGDB](https://www.igdb.com/games/angry-birds-star-wars-ii)
+
+---
+
+### Asphalt 7: Heat
+
+**Platforms:** Windows Phone, Windows &nbsp;|&nbsp; **Genre:** Racing &nbsp;|&nbsp; **Released:** February 27
 
 ---
 
@@ -76,7 +198,7 @@
 
 <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co1v06.jpg" alt="Asphalt 8: Airborne cover" width="200">
 
-**Platforms:** Windows Phone, Windows, macOS, Android &nbsp;|&nbsp; **Developer:** Gameloft &nbsp;|&nbsp; **Publisher:** Gameloft &nbsp;|&nbsp; **Genre:** Racing, Arcade &nbsp;|&nbsp; **Released:** August 22, 2013
+**Platforms:** iOS, Android, Windows, Windows Phone &nbsp;|&nbsp; **Genre:** Racing &nbsp;|&nbsp; **Released:** August 22
 
 > With more than 120 million downloads, the best mobile arcade racing game series reaches a new turning point! Perform dynamic, high-speed aerial stunts with more than 90 licensed dream cars in an intense driving experience powered by a brand-new physics engine.
 >
@@ -86,17 +208,11 @@
 
 ---
 
-### Castle of Illusion Starring Mickey Mouse
+### Final Fantasy III
 
-<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co3wiq.jpg" alt="Castle of Illusion Starring Mickey Mouse cover" width="200">
+**Platforms:** Ouya, Windows Phone &nbsp;|&nbsp; **Genre:** RPG &nbsp;|&nbsp; **Type:** Port &nbsp;|&nbsp; **Released:** April 11
 
-**Platforms:** iOS, PlayStation 3, Android, Windows, Xbox 360, Windows Phone &nbsp;|&nbsp; **Developer:** Sega Studios Australia &nbsp;|&nbsp; **Publisher:** Disney Interactive, Feral Interactive, Sega &nbsp;|&nbsp; **Genre:** Platform, Adventure &nbsp;|&nbsp; **Released:** April 25, 2013
-
-> Castle of Illusion Starring Mickey Mouse is a 2.5D platform game developed by Sega Studios Australia and published by Sega. The game is a remake of the original 1990 Sega Genesis video game of the same name, which was the first title in the Illusion series of Mickey Mouse video games. The game was released on PlayStation Network on September 3, 2013, and on Xbox Live Arcade and Microsoft Windows the following day. It was released for Mac OS X by Feral Interactive on July 24, 2014.
->
-> _Synopsis source: IGDB_
-
-[IGDB](https://www.igdb.com/games/castle-of-illusion-starring-mickey-mouse--1)
+[Wikipedia](https://en.wikipedia.org/wiki/Final_Fantasy_III)
 
 ---
 
@@ -104,7 +220,7 @@
 
 <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co1xi3.jpg" alt="Halo: Spartan Assault cover" width="200">
 
-**Platforms:** Xbox One, Windows, Windows Phone &nbsp;|&nbsp; **Developer:** 343 Industries, Vanguard Entertainment &nbsp;|&nbsp; **Publisher:** Microsoft Studios &nbsp;|&nbsp; **Genre:** Shooter &nbsp;|&nbsp; **Released:** July 18, 2013
+**Platforms:** Windows, Windows Phone, Xbox One &nbsp;|&nbsp; **Genre:** Shoot 'em up &nbsp;|&nbsp; **Released:** July 18
 
 > A top-down twin-stick shooter set in the Halo universe. Players control Spartan supersoldiers and battle a splinter faction of the alien Covenant across a campaign of missions, using series weapons and vehicles. Console versions add a cooperative survival mode in which two players hold out against waves of enemies.
 >
@@ -114,65 +230,45 @@
 
 ---
 
+### Modern Combat 4: Zero Hour
+
+**Platforms:** Windows Phone &nbsp;|&nbsp; **Genre:** FPS &nbsp;|&nbsp; **Released:** April 10
+
+---
+
+### N.O.V.A. 3
+
+**Platforms:** Windows Phone &nbsp;|&nbsp; **Genre:** Action-adventure, FPS &nbsp;|&nbsp; **Released:** June 12
+
+[Wikipedia](https://en.wikipedia.org/wiki/N.O.V.A._3)
+
+---
+
+### Temple Run
+
+**Platforms:** Windows Phone &nbsp;|&nbsp; **Genre:** Endless runner &nbsp;|&nbsp; **Released:** March 27
+
+[Wikipedia](https://en.wikipedia.org/wiki/Temple_Run)
+
+---
+
 ### Temple Run 2
 
 <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2rk4.jpg" alt="Temple Run 2 cover" width="200">
 
-**Platforms:** Windows Phone, Android, iOS &nbsp;|&nbsp; **Developer:** Imangi Studios &nbsp;|&nbsp; **Publisher:** Imangi Studios &nbsp;|&nbsp; **Genre:** Platform, Adventure &nbsp;|&nbsp; **Released:** January 17, 2013
+**Platforms:** iOS, Android, Windows Phone &nbsp;|&nbsp; **Genre:** Endless runner &nbsp;|&nbsp; **Released:** January 17
 
 > The sequel to the smash hit phenomenon that took the world by storm! Navigate perilous cliffs, zip lines, mines and forests as you try to escape with the cursed idol. How far can you run?!
 >
 > _Synopsis source: IGDB_
 
-[IGDB](https://www.igdb.com/games/temple-run-2)
+[Wikipedia](https://en.wikipedia.org/wiki/Temple_Run_2) · [IGDB](https://www.igdb.com/games/temple-run-2)
 
 ---
 
 ## 2012
 
 [Full 2012 page](../years/2012.md)
-
-### Angry Birds Space
-
-<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co4cro.jpg" alt="Angry Birds Space cover" width="200">
-
-**Platforms:** Android, Windows Phone, iOS, macOS &nbsp;|&nbsp; **Developer:** Rovio Entertainment &nbsp;|&nbsp; **Publisher:** Rovio Entertainment, ak tronic, Focus Multimedia &nbsp;|&nbsp; **Genre:** Puzzle, Strategy, Arcade &nbsp;|&nbsp; **Released:** March 22, 2012
-
-> Play over 300 interstellar levels across 10 planets! Whether it’s the icy orbs of Cold Cuts, the volcanic explosiveness of Red Planet, Utopia – a planet made entirely of junk food, or the new Brass Hogs episode ruled by evil Hektor Porko, each episode offers intergalactic fun at every turn! And the low-gravity environment of space results in spectacular gameplay ranging from slow-motion puzzles to lightspeed destruction. With brand new birds, special abilities, and a whole galaxy to explore, the sky is no longer the limit!
->
-> _Synopsis source: IGDB_
-
-[IGDB](https://www.igdb.com/games/angry-birds-space)
-
----
-
-### Angry Birds Star Wars
-
-<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2hr4.jpg" alt="Angry Birds Star Wars cover" width="200">
-
-**Platforms:** Android, BlackBerry OS, iOS, macOS, Windows, Windows Phone &nbsp;|&nbsp; **Developer:** Rovio Entertainment &nbsp;|&nbsp; **Publisher:** LucasArts, Activision, Rovio Entertainment &nbsp;|&nbsp; **Genre:** Puzzle, Strategy, Arcade &nbsp;|&nbsp; **Released:** November 8, 2012
-
-> Join an epic adventure with the Angry Birds in the legendary Star Wars universe, re-mastered for gaming systems! Use the Force, wield your Lightsaber, and blast away Pigtroopers on an intergalactic journey from the deserts of Tatooine to the depths of the Pig Star! Can you become a Jedi Master and restore freedom to the galaxy?
->
-> _Synopsis source: IGDB_
-
-[IGDB](https://www.igdb.com/games/angry-birds-star-wars)
-
----
-
-### Sonic the Hedgehog 4: Episode II
-
-<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co1zvs.jpg" alt="Sonic the Hedgehog 4: Episode II cover" width="200">
-
-**Platforms:** Android, PlayStation 3, Xbox 360, Windows Phone, iOS, Windows &nbsp;|&nbsp; **Developer:** Dimps &nbsp;|&nbsp; **Publisher:** Sega &nbsp;|&nbsp; **Genre:** Platform, Adventure, Arcade &nbsp;|&nbsp; **Released:** May 15, 2012
-
-> The Sonic 4 Saga continues in Episode II with the return of a beloved side kick and fan-favorite villains! Following the events of Episode I, Metal Sonic has returned to form an alliance with Dr. Eggman! To face this new evil, Sonic will have to call upon an old friend to help him save the day!
->
-> _Synopsis source: IGDB_
-
-[IGDB](https://www.igdb.com/games/sonic-the-hedgehog-4-episode-ii)
-
----
 
 ### Subway Surfers
 

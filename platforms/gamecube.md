@@ -2,7 +2,7 @@
 
 [← Back to index](../README.md)
 
-334 titles across 7 years in this archive.
+321 titles across 7 years in this archive.
 
 ## 2007
 
@@ -108,23 +108,17 @@
 
 ---
 
-### Barnyard (NA)
+### Barnyard
 
-**Platforms:** Windows, PlayStation 2, GameCube, Game Boy Advance &nbsp;|&nbsp; **Released:** August 1
+**Platforms:** Windows, PlayStation 2, GameCube, Game Boy Advance, Wii &nbsp;|&nbsp; **Released:** August 1 (NA/AU/PAL)
 
 [Wikipedia](https://en.wikipedia.org/wiki/Barnyard_(video_game))
 
 ---
 
-### Barnyard (PAL)
+### Baten Kaitos Origins
 
-**Platforms:** Windows, PlayStation 2, GameCube, Game Boy Advance &nbsp;|&nbsp; **Released:** October 13
-
----
-
-### Baten Kaitos Origins (NA)
-
-**Platforms:** GameCube &nbsp;|&nbsp; **Released:** September 25
+**Platforms:** GameCube &nbsp;|&nbsp; **Released:** September 25 (NA)
 
 [Wikipedia](https://en.wikipedia.org/wiki/Baten_Kaitos_Origins)
 
@@ -138,15 +132,9 @@
 
 ---
 
-### Cars (AU)
+### Cars
 
-**Platforms:** Windows, PlayStation 2, Xbox, GameCube, Game Boy Advance, Nintendo DS, PlayStation Portable, Xbox 360, Wii &nbsp;|&nbsp; **Released:** June 8
-
----
-
-### Cars (EU)
-
-**Platforms:** Windows, PlayStation 2, Xbox, GameCube, Game Boy Advance, Nintendo DS, PlayStation Portable, Xbox 360, Wii &nbsp;|&nbsp; **Released:** July 14
+**Platforms:** Windows, PlayStation 2, Xbox, GameCube, Game Boy Advance, Nintendo DS, PlayStation Portable, Xbox 360, Wii &nbsp;|&nbsp; **Released:** June 8 (AU/EU)
 
 ---
 
@@ -158,15 +146,15 @@
 
 ---
 
-### Happy Feet (EU)
+### Happy Feet
 
-**Platforms:** Windows, PlayStation 2, GameCube, Game Boy Advance, Nintendo DS, Wii &nbsp;|&nbsp; **Released:** November 24
+**Platforms:** Windows, PlayStation 2, GameCube, Game Boy Advance, Nintendo DS, Wii &nbsp;|&nbsp; **Released:** November 24 (EU)
 
 ---
 
 ### Happy Feet (USA)
 
-**Platforms:** Windows, PlayStation 2, GameCube, Game Boy Advance, Nintendo DS, Wii &nbsp;|&nbsp; **Genre:** [ 81 ] &nbsp;|&nbsp; **Released:** November 14
+**Platforms:** Windows, PlayStation 2, GameCube, Game Boy Advance, Nintendo DS, Wii &nbsp;|&nbsp; **Released:** November 14
 
 [Wikipedia](https://en.wikipedia.org/wiki/Happy_Feet_(video_game))
 
@@ -178,15 +166,9 @@
 
 ---
 
-### Ice Age 2: The Meltdown (EU)
+### Ice Age 2: The Meltdown
 
-**Platforms:** Windows, PlayStation 2, Xbox, GameCube, Game Boy Advance, Nintendo DS, Wii &nbsp;|&nbsp; **Released:** March 31
-
----
-
-### Ice Age 2: The Meltdown (JP)
-
-**Platforms:** Windows, PlayStation 2, Xbox, GameCube, Game Boy Advance, Nintendo DS &nbsp;|&nbsp; **Released:** October 6
+**Platforms:** Windows, PlayStation 2, Xbox, GameCube, Game Boy Advance, Nintendo DS, Wii &nbsp;|&nbsp; **Released:** March 31 (EU/JP)
 
 ---
 
@@ -218,21 +200,9 @@
 
 ---
 
-### Monster House (AU)
+### Monster House
 
-**Platforms:** PlayStation 2, GameCube, Game Boy Advance, Nintendo DS &nbsp;|&nbsp; **Released:** September 7
-
----
-
-### Monster House (EU)
-
-**Platforms:** PlayStation 2, GameCube, Game Boy Advance, Nintendo DS &nbsp;|&nbsp; **Released:** August 4
-
----
-
-### Monster House (NA)
-
-**Platforms:** PlayStation 2, GameCube, Game Boy Advance, Nintendo DS &nbsp;|&nbsp; **Released:** July 18
+**Platforms:** PlayStation 2, GameCube, Game Boy Advance, Nintendo DS &nbsp;|&nbsp; **Released:** July 18 (NA/EU/AU)
 
 [Wikipedia](https://en.wikipedia.org/wiki/Monster_House_(video_game))
 
@@ -272,15 +242,9 @@
 
 ---
 
-### Open Season (AU)
+### Open Season
 
-**Platforms:** Windows, GameCube, PlayStation 2, Xbox, Xbox 360, Game Boy Advance, Nintendo DS, PlayStation Portable &nbsp;|&nbsp; **Released:** November 30
-
----
-
-### Open Season (EU)
-
-**Platforms:** Windows, GameCube, PlayStation 2, Xbox, Xbox 360, Game Boy Advance, Nintendo DS, PlayStation Portable, Wii &nbsp;|&nbsp; **Released:** October 6
+**Platforms:** Windows, GameCube, PlayStation 2, Xbox, Xbox 360, Game Boy Advance, Nintendo DS, PlayStation Portable, Wii &nbsp;|&nbsp; **Released:** October 6 (EU/AU)
 
 ---
 
@@ -292,21 +256,9 @@
 
 ---
 
-### Over the Hedge (AU)
+### Over the Hedge
 
-**Platforms:** Windows, PlayStation 2, Xbox, GameCube, Game Boy Advance &nbsp;|&nbsp; **Released:** June 14
-
----
-
-### Over the Hedge (EU)
-
-**Platforms:** Windows, PlayStation 2, Xbox, GameCube, Game Boy Advance &nbsp;|&nbsp; **Released:** June 8
-
----
-
-### Over the Hedge (NA)
-
-**Platforms:** Windows, PlayStation 2, Xbox, GameCube, Game Boy Advance &nbsp;|&nbsp; **Released:** May 9
+**Platforms:** Windows, PlayStation 2, Xbox, GameCube, Game Boy Advance &nbsp;|&nbsp; **Released:** May 9 (NA/EU/AU)
 
 [Wikipedia](https://en.wikipedia.org/wiki/Over_the_Hedge_(video_game))
 
@@ -334,15 +286,9 @@
 
 ---
 
-### SpongeBob SquarePants: Creature from the Krusty Krab (AU)
+### SpongeBob SquarePants: Creature from the Krusty Krab
 
-**Platforms:** PlayStation 2, GameCube, Game Boy Advance, Nintendo DS, Wii &nbsp;|&nbsp; **Released:** November 2
-
----
-
-### SpongeBob SquarePants: Creature from the Krusty Krab (EU)
-
-**Platforms:** PlayStation 2, GameCube, Game Boy Advance, Nintendo DS, Wii &nbsp;|&nbsp; **Released:** November 10
+**Platforms:** Windows, PlayStation 2, GameCube, Game Boy Advance, Nintendo DS, Wii &nbsp;|&nbsp; **Released:** August 15 (AU/EU)
 
 ---
 
@@ -362,27 +308,15 @@
 
 ### The Grim Adventures of Billy & Mandy
 
-**Platforms:** GameCube, PlayStation 2, Game Boy Advance &nbsp;|&nbsp; **Released:** September 25
+**Platforms:** GameCube, PlayStation 2, Game Boy Advance, Wii &nbsp;|&nbsp; **Released:** September 25 (NA)
 
 [Wikipedia](https://en.wikipedia.org/wiki/The_Grim_Adventures_of_Billy_%26_Mandy_(video_game))
 
 ---
 
-### The Legend of Spyro: A New Beginning (AU)
+### The Legend of Spyro: A New Beginning
 
-**Platforms:** PlayStation 2, Xbox, GameCube, Game Boy Advance, Nintendo DS &nbsp;|&nbsp; **Released:** November 2
-
----
-
-### The Legend of Spyro: A New Beginning (EU)
-
-**Platforms:** PlayStation 2, Xbox, GameCube, Game Boy Advance, Nintendo DS &nbsp;|&nbsp; **Released:** October 27
-
----
-
-### The Legend of Spyro: A New Beginning (NA)
-
-**Platforms:** PlayStation 2, Xbox, GameCube, Game Boy Advance, Nintendo DS &nbsp;|&nbsp; **Released:** October 10
+**Platforms:** PlayStation 2, Xbox, GameCube, Game Boy Advance, Nintendo DS &nbsp;|&nbsp; **Released:** October 10 (NA/EU/AU)
 
 ---
 
@@ -732,7 +666,7 @@
 
 <img src="../images/steam-1262560.jpg" alt="Need for Speed: Most Wanted cover" width="200">
 
-**Platforms:** Windows, PlayStation 2, Xbox, GameCube, Game Boy Advance, Nintendo DS, PlayStation Portable, Xbox 360 &nbsp;|&nbsp; **Genre:** Action, Adventure, Racing &nbsp;|&nbsp; **Released:** November 16
+**Platforms:** Windows, PlayStation 2, Xbox, GameCube, Game Boy Advance, Nintendo DS, PlayStation Portable, Xbox 360 &nbsp;|&nbsp; **Genre:** Action, Adventure, Racing &nbsp;|&nbsp; **Released:** November 15
 
 > The open-world action in Need for Speed Most Wanted gives you the freedom to drive your way. Hit jumps and shortcuts, switch cars, lie low or head for terrain that plays to your vehicle’s unique strengths. Fight your way past cops and rivals using skill, high-end car tech and tons of nitrous.
 >
@@ -1108,17 +1042,9 @@
 
 ---
 
-### Mario Power Tennis (JP)
+### Mario Power Tennis
 
-**Platforms:** GameCube &nbsp;|&nbsp; **Released:** October 28
-
-[Wikipedia](https://en.wikipedia.org/wiki/Mario_Power_Tennis)
-
----
-
-### Mario Power Tennis (NA)
-
-**Platforms:** GameCube &nbsp;|&nbsp; **Released:** November 8
+**Platforms:** GameCube &nbsp;|&nbsp; **Released:** October 28 (JP/NA)
 
 [Wikipedia](https://en.wikipedia.org/wiki/Mario_Power_Tennis)
 
@@ -1578,7 +1504,7 @@
 
 <img src="../images/steam-3710.jpg" alt="Judge Dredd: Dredd vs. Death cover" width="200">
 
-**Platforms:** Windows, GameCube, PlayStation 2, Xbox &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** October 17
+**Platforms:** Windows, PlayStation 2, Xbox, GameCube &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** October 17 (EU)
 
 > Welcome to Mega-City One, a city of over 400 million people - every one of them a potential criminal. It is the third decade of the 22nd Century, unemployment is widespread, boredom is universal and only the Judges can prevent total anarchy. Empowered to dispense instant justice, they are Judge, Jury and Executioner all in one.
 >
@@ -1676,9 +1602,9 @@
 
 ---
 
-### Need for Speed: Underground (North America)
+### Need for Speed: Underground
 
-**Platforms:** Windows, GameCube, PlayStation 2, Xbox &nbsp;|&nbsp; **Released:** November 17
+**Platforms:** Windows, GameCube, PlayStation 2, Xbox &nbsp;|&nbsp; **Released:** November 17 (NA)
 
 ---
 
@@ -1739,14 +1665,6 @@
 **Platforms:** PlayStation 2, Xbox, GameCube &nbsp;|&nbsp; **Released:** December 4
 
 [Wikipedia](https://en.wikipedia.org/wiki/Sonic_Heroes)
-
----
-
-### Soul Calibur II
-
-**Platforms:** PlayStation 2, Xbox, GameCube &nbsp;|&nbsp; **Released:** August 27
-
-[Wikipedia](https://en.wikipedia.org/wiki/Soul_Calibur_II)
 
 ---
 
@@ -1840,15 +1758,9 @@
 
 ---
 
-### The Legend of Zelda: Collector's Edition
-
-**Platforms:** GameCube &nbsp;|&nbsp; **Released:** November 17
-
----
-
 ### The Legend of Zelda: The Wind Waker
 
-**Platforms:** GameCube &nbsp;|&nbsp; **Released:** March 24
+**Platforms:** GameCube &nbsp;|&nbsp; **Released:** March 24 (NA)
 
 ---
 
@@ -2041,6 +1953,14 @@
 **Platforms:** GameCube &nbsp;|&nbsp; **Publisher:** Nintendo &nbsp;|&nbsp; **Released:** June 23, 2002
 
 [Wikipedia](https://en.wikipedia.org/wiki/Eternal_Darkness)
+
+---
+
+### Frogger Beyond
+
+**Platforms:** GameCube, Xbox &nbsp;|&nbsp; **Released:** December 10
+
+[Wikipedia](https://en.wikipedia.org/wiki/Frogger_Beyond)
 
 ---
 
@@ -2304,7 +2224,7 @@
 
 ### Super Mario Sunshine
 
-**Platforms:** GameCube &nbsp;|&nbsp; **Publisher:** Nintendo &nbsp;|&nbsp; **Released:** August 26, 2002
+**Platforms:** GameCube &nbsp;|&nbsp; **Publisher:** Nintendo &nbsp;|&nbsp; **Released:** August 26, 2002 (PAL)
 
 [Wikipedia](https://en.wikipedia.org/wiki/Super_Mario_Sunshine)
 
@@ -2320,7 +2240,7 @@
 
 ### Super Smash Bros. Melee
 
-**Platforms:** GameCube &nbsp;|&nbsp; **Released:** May 24
+**Platforms:** GameCube &nbsp;|&nbsp; **Released:** May 24 (PAL)
 
 [Wikipedia](https://en.wikipedia.org/wiki/Super_Smash_Bros._Melee)
 
@@ -2340,7 +2260,7 @@
 
 ### The Legend of Zelda: The Wind Waker
 
-**Platforms:** GameCube &nbsp;|&nbsp; **Publisher:** Nintendo &nbsp;|&nbsp; **Released:** December 13, 2002
+**Platforms:** GameCube &nbsp;|&nbsp; **Publisher:** Nintendo &nbsp;|&nbsp; **Released:** December 13, 2002 (JP)
 
 ---
 
@@ -2520,7 +2440,7 @@
 
 ### Super Smash Bros. Melee
 
-**Platforms:** GameCube &nbsp;|&nbsp; **Publisher:** Nintendo &nbsp;|&nbsp; **Released:** November 21, 2001
+**Platforms:** GameCube &nbsp;|&nbsp; **Publisher:** Nintendo &nbsp;|&nbsp; **Released:** November 21, 2001 (JP/NA)
 
 [Wikipedia](https://en.wikipedia.org/wiki/Super_Smash_Bros._Melee)
 

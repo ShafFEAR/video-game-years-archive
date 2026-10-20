@@ -2,37 +2,35 @@
 
 [← Back to index](../README.md)
 
-5 titles across 1 years in this archive.
+33 titles across 3 years in this archive.
+
+## 2015
+
+[Full 2015 page](../years/2015.md)
+
+### Miracle Fly
+
+**Platforms:** Ouya, Windows, macOS &nbsp;|&nbsp; **Genre:** Puzzle-platformer, Action-adventure &nbsp;|&nbsp; **Released:** January 8
+
+---
 
 ## 2014
 
 [Full 2014 page](../years/2014.md)
 
-### 2064: Read Only Memories
+### Age of Zombies
 
-<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co3wwn.jpg" alt="2064: Read Only Memories cover" width="200">
+**Platforms:** PlayStation Vita, Ouya &nbsp;|&nbsp; **Released:** January 14
 
-**Platforms:** Ouya &nbsp;|&nbsp; **Developer:** MidBoss &nbsp;|&nbsp; **Publisher:** MidBoss &nbsp;|&nbsp; **Genre:** Point-and-click, Role-playing (RPG), Adventure, Indie, Visual Novel &nbsp;|&nbsp; **Released:** July 13, 2014
-
-> In Neo-San Francisco, a vibrant city of low life and high tech, you will witness the world’s first sapient robot learning to grow and live as you become embroiled in the darkest scandal of 2064.
->
-> _Synopsis source: IGDB_
-
-[IGDB](https://www.igdb.com/games/2064-read-only-memories)
+[Wikipedia](https://en.wikipedia.org/wiki/Halfbrick_Studios#Games)
 
 ---
 
-### Back to Bed
+### Broken Age Act 1
 
-<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co1klw.jpg" alt="Back to Bed cover" width="200">
+**Platforms:** Windows, macOS, Linux, Ouya, iOS &nbsp;|&nbsp; **Genre:** PCA &nbsp;|&nbsp; **Released:** January 28
 
-**Platforms:** Windows, Linux, Windows Phone, Android, macOS, Ouya, iOS &nbsp;|&nbsp; **Developer:** Bedtime Digital Games &nbsp;|&nbsp; **Publisher:** LOOT Interactive, Bedtime Digital Games, 2Awesome Studio &nbsp;|&nbsp; **Genre:** Platform, Puzzle, Strategy, Adventure, Indie &nbsp;|&nbsp; **Released:** August 6, 2014
-
-> Back to Bed is an artistic 3D puzzle game with a surreal twist. It tells the story of Bob, an unlucky narcoleptic who has a tendency of falling asleep in his boring office and then proceeding to sleepwalk into the dangers of the big city. Luckily, Bob has a subconscious guardian named Subob, whom spawns from the mind of Bob and whose job it is to protect the sleepwalker from any danger and guide him back to the safety of his bed.  The ever vigilant Subob must guide the constantly sleepwalking Bob on a journey through a series of surreal painting-like cityscapes where the boundary between Bob's dreams and reality have vanished, as Subob is part of Bob's subconsciousness. The result is an artistic dream world that is recognizable, yet totally different from the real world, where many things are not what they seem and dangers to the sleepwalker lurks deeper in.
->
-> _Synopsis source: IGDB_
-
-[IGDB](https://www.igdb.com/games/back-to-bed)
+[Wikipedia](https://en.wikipedia.org/wiki/Broken_Age)
 
 ---
 
@@ -50,30 +48,238 @@
 
 ---
 
+### Kaptain Brawe: A Brawe New World
+
+**Platforms:** Ouya &nbsp;|&nbsp; **Genre:** Adventure, Hidden object , Puzzle &nbsp;|&nbsp; **Released:** July 31
+
+---
+
 ### Neverending Nightmares
 
 <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co1r2q.jpg" alt="Neverending Nightmares cover" width="200">
 
-**Platforms:** Windows, Ouya, macOS, Linux &nbsp;|&nbsp; **Developer:** Infinitap Games &nbsp;|&nbsp; **Publisher:** Infinitap Games &nbsp;|&nbsp; **Genre:** Adventure, Indie &nbsp;|&nbsp; **Released:** September 26, 2014
+**Platforms:** Windows, macOS, Linux, Ouya &nbsp;|&nbsp; **Genre:** Survival horror &nbsp;|&nbsp; **Released:** September 26
 
 > Neverending Nightmares is a psychological horror game inspired by the developer's actual battle with mental illness. In the game, you take on the role of Thomas who awakens from a terrible nightmare only to find that he is still dreaming. As he descends deeper through the layers of hellish dreamscapes, he must hide from horrifying apparitions and outrun his inner demons. He must discover which of the horrors he encounters are a manifestation of his own psychological state and figure out what reality will be when he finally wakes up.
 >
 > _Synopsis source: IGDB_
 
-[IGDB](https://www.igdb.com/games/neverending-nightmares)
+[Wikipedia](https://en.wikipedia.org/wiki/Neverending_Nightmares) · [IGDB](https://www.igdb.com/games/neverending-nightmares)
 
 ---
 
-### TowerFall Ascension
+### Pier Solar HD
 
-<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/cocaea.jpg" alt="TowerFall Ascension cover" width="200">
+**Platforms:** Windows, macOS, Linux, Ouya, PlayStation Network, PlayStation 4, Wii U, Xbox One &nbsp;|&nbsp; **Genre:** RPG &nbsp;|&nbsp; **Released:** September 30
 
-**Platforms:** Ouya, PlayStation 4, macOS, Linux, Windows &nbsp;|&nbsp; **Developer:** Maddy Makes Games &nbsp;|&nbsp; **Publisher:** Maddy Makes Games &nbsp;|&nbsp; **Genre:** Platform, Indie &nbsp;|&nbsp; **Released:** March 11, 2014
+[Wikipedia](https://en.wikipedia.org/wiki/Pier_Solar_and_the_Great_Architects#Pier_Solar_HD)
 
-> Enter the land of TowerFall with your friends and engage in the noble and brutal tradition of bow-and-arrow combat. TowerFall is an archery combat platformer for 1-4 players, with an arcade co-op mode and hilarious, intense versus matches. The core mechanics are simple and accessible, but combat is fast and fierce. The focus is on player mastery and friendly rivalry.  TowerFall Ascension is an enhanced version of the original Ouya release. TowerFall Ascension was initially released on PlayStation 4 and Windows, through Steam, in March 2014, with Mac and Linux versions available soon after. A Vita and Xbox One version have also been released.  The original Ouya game was eventually updated with Ascension's content in August 2014, according to the archived page, but the page's release date was later changed to November 2016.  A Nintendo Switch version of the game, under the original title of TowerFall, was released in 2018 with all the content from Acension and the Dark World expansion as well as some new exclusive features and updates.
+---
+
+### Shadow Blade
+
+**Platforms:** iOS, Ouya &nbsp;|&nbsp; **Genre:** Platformer &nbsp;|&nbsp; **Released:** January 16
+
+[Wikipedia](https://en.wikipedia.org/wiki/Shadow_Blade)
+
+---
+
+### Skulls of the Shogun
+
+**Platforms:** Android, Ouya &nbsp;|&nbsp; **Genre:** TBT &nbsp;|&nbsp; **Released:** May 28
+
+[Wikipedia](https://en.wikipedia.org/wiki/Skulls_of_the_Shogun)
+
+---
+
+### Soul Fjord
+
+**Platforms:** Ouya &nbsp;|&nbsp; **Genre:** Roguelike, Rhythm &nbsp;|&nbsp; **Released:** January 28
+
+[Wikipedia](https://en.wikipedia.org/wiki/Soul_Fjord)
+
+---
+
+### Tetris Battle Fusion
+
+**Platforms:** Ouya &nbsp;|&nbsp; **Released:** August 25
+
+---
+
+### VVVVVV
+
+**Platforms:** Ouya, Android, iOS &nbsp;|&nbsp; **Genre:** Puzzle-platformer &nbsp;|&nbsp; **Released:** June 11
+
+[Wikipedia](https://en.wikipedia.org/wiki/VVVVVV)
+
+---
+
+### Whispering Willows
+
+**Platforms:** Ouya, Windows &nbsp;|&nbsp; **Genre:** Adventure &nbsp;|&nbsp; **Released:** May 27
+
+[Wikipedia](https://en.wikipedia.org/wiki/Whispering_Willows)
+
+---
+
+## 2013
+
+[Full 2013 page](../years/2013.md)
+
+### Beast Boxing Turbo
+
+**Platforms:** Ouya &nbsp;|&nbsp; **Released:** June 27
+
+[Wikipedia](https://en.wikipedia.org/wiki/Beast_Boxing_Turbo)
+
+---
+
+### BombSquad
+
+**Platforms:** Ouya &nbsp;|&nbsp; **Released:** June 27
+
+---
+
+### Canabalt HD
+
+**Platforms:** Ouya &nbsp;|&nbsp; **Genre:** Endless runner &nbsp;|&nbsp; **Released:** March 28
+
+[Wikipedia](https://en.wikipedia.org/wiki/Canabalt)
+
+---
+
+### Dropchord
+
+**Platforms:** Windows, macOS, Ouya, iOS, Android &nbsp;|&nbsp; **Genre:** Music, Puzzle &nbsp;|&nbsp; **Released:** July 22
+
+[Wikipedia](https://en.wikipedia.org/wiki/Dropchord)
+
+---
+
+### Final Fantasy III
+
+**Platforms:** Ouya, Windows Phone &nbsp;|&nbsp; **Genre:** RPG &nbsp;|&nbsp; **Type:** Port &nbsp;|&nbsp; **Released:** April 11
+
+[Wikipedia](https://en.wikipedia.org/wiki/Final_Fantasy_III)
+
+---
+
+### Fist of Awesome
+
+**Platforms:** iOS, Android, Ouya &nbsp;|&nbsp; **Genre:** Brawler &nbsp;|&nbsp; **Released:** October 15
+
+[Wikipedia](https://en.wikipedia.org/wiki/Fist_of_Awesome)
+
+---
+
+### Hero of Many
+
+**Platforms:** Ouya &nbsp;|&nbsp; **Genre:** Action-adventure &nbsp;|&nbsp; **Released:** October 7
+
+[Wikipedia](https://en.wikipedia.org/wiki/Hero_of_Many)
+
+---
+
+### Killing Floor: Calamity
+
+**Platforms:** Ouya &nbsp;|&nbsp; **Released:** December 19
+
+---
+
+### Saturday Morning RPG
+
+**Platforms:** Ouya &nbsp;|&nbsp; **Genre:** RPG &nbsp;|&nbsp; **Released:** March 27
+
+[Wikipedia](https://en.wikipedia.org/wiki/Saturday_Morning_RPG)
+
+---
+
+### Shadowgun
+
+**Platforms:** Ouya, GameStick &nbsp;|&nbsp; **Genre:** TPS &nbsp;|&nbsp; **Released:** June 25
+
+[Wikipedia](https://en.wikipedia.org/wiki/Shadowgun)
+
+---
+
+### Sine Mora
+
+**Platforms:** iOS, Ouya &nbsp;|&nbsp; **Genre:** Shoot 'em up &nbsp;|&nbsp; **Released:** July 16
+
+[Wikipedia](https://en.wikipedia.org/wiki/Sine_Mora)
+
+---
+
+### Sonic the Hedgehog 4: Episode I
+
+**Platforms:** Ouya &nbsp;|&nbsp; **Genre:** Platformer &nbsp;|&nbsp; **Type:** Port &nbsp;|&nbsp; **Released:** July 8
+
+---
+
+### Sonic the Hedgehog 4: Episode II
+
+**Platforms:** Ouya, Nvidia Shield &nbsp;|&nbsp; **Genre:** Platformer &nbsp;|&nbsp; **Type:** Port &nbsp;|&nbsp; **Released:** July 8
+
+---
+
+### Sonic the Hedgehog CD
+
+**Platforms:** Ouya &nbsp;|&nbsp; **Genre:** Platformer &nbsp;|&nbsp; **Type:** Port &nbsp;|&nbsp; **Released:** August 1
+
+[Wikipedia](https://en.wikipedia.org/wiki/Sonic_the_Hedgehog_CD)
+
+---
+
+### Super Crate Box
+
+**Platforms:** Ouya &nbsp;|&nbsp; **Genre:** Shoot 'em up &nbsp;|&nbsp; **Released:** June 25
+
+[Wikipedia](https://en.wikipedia.org/wiki/Super_Crate_Box)
+
+---
+
+### The Cave
+
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co7aig.jpg" alt="The Cave cover" width="200">
+
+**Platforms:** PlayStation Network, Wii U, Xbox 360, Windows, macOS, iOS, Ouya, Android &nbsp;|&nbsp; **Genre:** Puzzle-platformer, Adventure &nbsp;|&nbsp; **Released:** January 22
+
+> SEGA of America Inc. and Double Fine Productions have joined forces with legendary game designer, Ron Gilbert, to create The Cave. In this 2D puzzle action and adventure game, players will assemble a team of three from seven unlikely adventurers, each with their own unique personalities and stories. From there, you will descend into the mysterious depths to explore locations including a subterranean amusement park and a medieval castle, not to mention a fully armed and ready-to-launch nuclear tipped ICBM. The Cave awaits.
 >
 > _Synopsis source: IGDB_
 
-[IGDB](https://www.igdb.com/games/towerfall-ascension)
+[Wikipedia](https://en.wikipedia.org/wiki/The_Cave_(video_game)) · [IGDB](https://www.igdb.com/games/the-cave)
+
+---
+
+### The Pinball Arcade
+
+**Platforms:** Ouya &nbsp;|&nbsp; **Genre:** Pinball &nbsp;|&nbsp; **Released:** June 25
+
+[Wikipedia](https://en.wikipedia.org/wiki/The_Pinball_Arcade)
+
+---
+
+### TowerFall
+
+**Platforms:** Ouya &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** June 25
+
+[Wikipedia](https://en.wikipedia.org/wiki/TowerFall)
+
+---
+
+### Wizorb
+
+**Platforms:** Ouya &nbsp;|&nbsp; **Genre:** Breakout clone &nbsp;|&nbsp; **Released:** March 28
+
+[Wikipedia](https://en.wikipedia.org/wiki/Wizorb)
+
+---
+
+### You Don't Know Jack
+
+**Platforms:** Ouya &nbsp;|&nbsp; **Developer:** Jackbox Games &nbsp;|&nbsp; **Publisher:** Jackbox Games &nbsp;|&nbsp; **Genre:** Party &nbsp;|&nbsp; **Released:** June 11
+
+[Wikipedia](https://en.wikipedia.org/wiki/You_Don%27t_Know_Jack_(franchise)#Console)
 
 ---

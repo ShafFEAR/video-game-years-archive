@@ -25,9 +25,10 @@ import requests
 
 sys.stdout.reconfigure(encoding="utf-8", errors="replace")
 
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+import sources
+
 ROOT = Path(__file__).resolve().parent.parent
-INDEX_DIR = ROOT / "data" / "index"
-ENRICHED_DIR = ROOT / "data" / "enriched"
 IMAGES_DIR = ROOT / "images"
 CACHE_PATH = ROOT / "data" / "steam_cache.json"
 LOG_DIR = ROOT / "logs"
@@ -188,7 +189,6 @@ def find_match(title, year, stats=None):
 
 
 def main(limit_years=None, platform_filter="Windows"):
-    ENRICHED_DIR.mkdir(parents=True, exist_ok=True)
     IMAGES_DIR.mkdir(parents=True, exist_ok=True)
     LOG_DIR.mkdir(parents=True, exist_ok=True)
     cache = load_cache()
@@ -196,15 +196,12 @@ def main(limit_years=None, platform_filter="Windows"):
     stats = {"queried": 0}
     total_candidates = 0
 
-    year_files = sorted(INDEX_DIR.glob("*.json"), key=lambda p: int(p.stem))
+    years = sources.available_years()
     if limit_years:
-        year_files = [p for p in year_files if int(p.stem) in limit_years]
+        years = [y for y in years if y in limit_years]
 
-    for yf in year_files:
-        year = int(yf.stem)
-        enriched_path = ENRICHED_DIR / f"{year}.json"
-        source = enriched_path if enriched_path.exists() else yf
-        entries = json.loads(source.read_text(encoding="utf-8"))
+    for year in years:
+        entries = sources.load_year(year)
         changed = False
         for entry in entries:
             if platform_filter and platform_filter not in entry.get("platforms", []):
@@ -226,7 +223,7 @@ def main(limit_years=None, platform_filter="Windows"):
             if not result:
                 unmatched.append({"year": year, "title": entry["title"]})
         if changed:
-            enriched_path.write_text(json.dumps(entries, indent=2, ensure_ascii=False), encoding="utf-8")
+            sources.save_enrichment(year, entries)
             matched = sum(1 for e in entries if e.get("steam"))
             print(f"{year}: {matched} titles matched to a Steam store page")
         save_cache(cache)
@@ -249,9 +246,8 @@ def revalidate():
     cache = load_cache()
     kept, fixed, reverted = 0, 0, 0
 
-    for yf in sorted(ENRICHED_DIR.glob("*.json"), key=lambda p: int(p.stem)):
-        year = int(yf.stem)
-        entries = json.loads(yf.read_text(encoding="utf-8"))
+    for year in sources.available_years():
+        entries = sources.load_year(year)
         changed = False
         for entry in entries:
             steam = entry.get("steam")
@@ -274,7 +270,7 @@ def revalidate():
                 reverted += 1
             changed = True
         if changed:
-            yf.write_text(json.dumps(entries, indent=2, ensure_ascii=False), encoding="utf-8")
+            sources.save_enrichment(year, entries)
             save_cache(cache)
             print(f"{year}: revalidated")
 

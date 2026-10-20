@@ -2,25 +2,7 @@
 
 [← Back to index](../README.md)
 
-10 titles across 5 years in this archive.
-
-## 2017
-
-[Full 2017 page](../years/2017.md)
-
-### Fire Emblem Heroes
-
-<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co1rc1.jpg" alt="Fire Emblem Heroes cover" width="200">
-
-**Platforms:** Mobile phone, Android, iOS &nbsp;|&nbsp; **Developer:** Nintendo Entertainment Planning & Development, Intelligent Systems &nbsp;|&nbsp; **Publisher:** Nintendo &nbsp;|&nbsp; **Genre:** Role-playing (RPG), Simulator, Strategy, Turn-based strategy (TBS) &nbsp;|&nbsp; **Released:** February 2, 2017
-
-> "Take part in strategic turn-based battles streamlined for on-the-go play with maps that fit in the palm of your hand! Lead your army with easy touch and drag controls, including the ability to attack by simply swiping an ally over an enemy."
->
-> _Synopsis source: IGDB_
-
-[IGDB](https://www.igdb.com/games/fire-emblem-heroes)
-
----
+9 titles across 4 years in this archive.
 
 ## 2008
 
@@ -78,7 +60,7 @@
 
 <img src="../images/steam-8000.jpg" alt="Tomb Raider: Anniversary cover" width="200">
 
-**Platforms:** PlayStation 2, Windows, PlayStation Portable, Xbox 360, Wii, Mobile phone &nbsp;|&nbsp; **Genre:** Action, Adventure &nbsp;|&nbsp; **Released:** June 5
+**Platforms:** PlayStation 2, Windows, PlayStation Portable, Xbox 360, Wii, Mobile phone &nbsp;|&nbsp; **Genre:** Action, Adventure &nbsp;|&nbsp; **Released:** June 5 (EU/AU)
 
 > Tomb Raider: Anniversary retraces Lara Croft's original genre-defining adventure  globe-trotting 3rd person action-adventure in pursuit of the legendary Scion artifact. Using an enhanced 'Tomb Raider: Legend' game engine, the graphics, technology and physics bring Lara's adventure and pursuit of a mystical artifact known only as the...
 >

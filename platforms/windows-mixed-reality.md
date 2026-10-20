@@ -2,7 +2,7 @@
 
 [← Back to index](../README.md)
 
-6 titles across 4 years in this archive.
+2 titles across 2 years in this archive.
 
 ## 2020
 
@@ -22,38 +22,6 @@
 
 ---
 
-### Star Wars: Squadrons
-
-<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co3wlz.jpg" alt="Star Wars: Squadrons cover" width="200">
-
-**Platforms:** SteamVR, Oculus Rift, Windows, PlayStation VR, PlayStation 4, Windows Mixed Reality, Xbox One, Xbox Series X/S, PlayStation 5 &nbsp;|&nbsp; **Developer:** Motive Studios &nbsp;|&nbsp; **Publisher:** Electronic Arts &nbsp;|&nbsp; **Genre:** Shooter, Simulator &nbsp;|&nbsp; **Released:** October 1, 2020
-
-> Master the art of starfighter combat in the authentic piloting experience STAR WARS: Squadrons. Buckle up, feel the adrenaline of first-person multiplayer space dogfights alongside your squadron, and learn what it means to be a pilot in a thrilling STAR WARS single-player campaign.
->
-> _Synopsis source: IGDB_
-
-[IGDB](https://www.igdb.com/games/star-wars-squadrons)
-
----
-
-## 2018
-
-[Full 2018 page](../years/2018.md)
-
-### Moss
-
-<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co1i1j.jpg" alt="Moss cover" width="200">
-
-**Platforms:** PlayStation VR, Oculus Rift, SteamVR, Windows Mixed Reality &nbsp;|&nbsp; **Developer:** Polyarc Games &nbsp;|&nbsp; **Publisher:** Polyarc Games &nbsp;|&nbsp; **Genre:** Platform, Puzzle, Adventure, Indie &nbsp;|&nbsp; **Released:** February 27, 2018
-
-> In Moss, players can reach out, touch, and interact with the environment while guiding Quill through her journey. As a character within the world, players will work together with Quill to solve puzzles, overcome obstacles, and conquer any danger that comes their way,” said Danny Bulla, co-founder and design director of Polyarc. “As gamers, we’ve been conditioned for years to hold a gamepad in our laps when playing games, letting our thumbs and fingers do the controlling. It has been a great experience to create an immersive game that encourages players to reach into and interact with a tactile world.
->
-> _Synopsis source: IGDB_
-
-[IGDB](https://www.igdb.com/games/moss)
-
----
-
 ## 2016
 
 [Full 2016 page](../years/2016.md)
@@ -69,37 +37,5 @@
 > _Synopsis source: IGDB_
 
 [IGDB](https://www.igdb.com/games/job-simulator-the-2050-archives)
-
----
-
-### Obduction
-
-<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co3wod.jpg" alt="Obduction cover" width="200">
-
-**Platforms:** Windows, macOS, Windows Mixed Reality, Oculus Rift, SteamVR &nbsp;|&nbsp; **Developer:** Cyan Worlds &nbsp;|&nbsp; **Publisher:** Cyan Worlds &nbsp;|&nbsp; **Genre:** Point-and-click, Puzzle, Adventure, Indie &nbsp;|&nbsp; **Released:** August 24, 2016
-
-> From Cyan, the indie studio that brought you Myst and Riven comes a whole new adventure that will become your world.  The new worlds of Obduction reveal their secrets only as you explore, coax, and consider them. And as you bask in the otherworldly beauty and explore through the enigmatic landscapes, remember that the choices you make will have substantial consequences. This is your story now.
->
-> _Synopsis source: IGDB_
-
-[IGDB](https://www.igdb.com/games/obduction)
-
----
-
-## 2015
-
-[Full 2015 page](../years/2015.md)
-
-### Keep Talking and Nobody Explodes
-
-<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/aykvlxlmax2rcvljwkqn.jpg" alt="Keep Talking and Nobody Explodes cover" width="200">
-
-**Platforms:** SteamVR, Windows Mixed Reality, Daydream, macOS, Gear VR, Windows &nbsp;|&nbsp; **Developer:** Steel Crate Games &nbsp;|&nbsp; **Publisher:** Steel Crate Games &nbsp;|&nbsp; **Genre:** Puzzle, Simulator, Indie &nbsp;|&nbsp; **Released:** July 16, 2015
-
-> One player is trapped in a virtual room with a ticking time bomb they must defuse. The other players are the “Experts” who must give the instructions to defuse the bomb by deciphering the information found in the bomb defusal manual. But there’s a catch: the experts can’t see the bomb, so everyone will need to talk it out – fast!
->
-> _Synopsis source: IGDB_
-
-[IGDB](https://www.igdb.com/games/keep-talking-and-nobody-explodes)
 
 ---

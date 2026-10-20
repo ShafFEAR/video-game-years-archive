@@ -2,6 +2,27 @@
   {
     "year": 2026,
     "section": "Critically acclaimed games",
+    "title": "The Witcher 3: Wild Hunt - Remastered",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "developer": "CD Projekt Red",
+    "publisher": "CD Projekt Red",
+    "release_date": "September 29, 2026",
+    "average score": "92",
+    "platform_breakdown": {
+      "platform(s)": "WIN , NS2 , PS5 , XBX/S"
+    },
+    "platforms": [
+      "Windows",
+      "Nintendo Switch 2",
+      "PlayStation 5",
+      "Xbox Series X/S"
+    ]
+  },
+  {
+    "year": 2026,
+    "section": "Critically acclaimed games",
     "title": "Big Walk",
     "wiki_title": "Big Walk",
     "wiki_url": "https://en.wikipedia.org/wiki/Big_Walk",
@@ -11,13 +32,13 @@
     "release_date": "August 4, 2026",
     "average score": "91",
     "platform_breakdown": {
-      "platform(s)": "macOS , PS5 , WIN , NS2"
+      "platform(s)": "WIN , OSX , NS2 , PS5"
     },
     "platforms": [
-      "macOS",
-      "PlayStation 5",
       "Windows",
-      "Nintendo Switch 2"
+      "macOS",
+      "Nintendo Switch 2",
+      "PlayStation 5"
     ]
   },
   {
@@ -32,11 +53,11 @@
     "release_date": "July 6, 2026",
     "average score": "91",
     "platform_breakdown": {
-      "platform(s)": "PS5 , WIN , XBX/S"
+      "platform(s)": "WIN , PS5 , XBX/S"
     },
     "platforms": [
-      "PlayStation 5",
       "Windows",
+      "PlayStation 5",
       "Xbox Series X/S"
     ]
   },
@@ -81,6 +102,27 @@
       "PlayStation 5",
       "Xbox One",
       "Xbox Series X/S"
+    ]
+  },
+  {
+    "year": 2026,
+    "section": "Critically acclaimed games",
+    "title": "Trails in the Sky 2nd Chapter",
+    "wiki_title": "Trails in the Sky 2nd Chapter",
+    "wiki_url": "https://en.wikipedia.org/wiki/Trails_in_the_Sky_2nd_Chapter",
+    "redlink": false,
+    "developer": "Nihon Falcom",
+    "publisher": "GungHo Online Entertainment",
+    "release_date": "September 17, 2026",
+    "average score": "90",
+    "platform_breakdown": {
+      "platform(s)": "WIN , NS , NS2 , PS5"
+    },
+    "platforms": [
+      "Windows",
+      "Nintendo Switch",
+      "Nintendo Switch 2",
+      "PlayStation 5"
     ]
   }
 ]

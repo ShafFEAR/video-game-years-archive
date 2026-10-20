@@ -534,9 +534,9 @@
 
 ---
 
-### Realms of the Haunting (NA)
+### Realms of the Haunting
 
-**Platforms:** Windows, MS-DOS &nbsp;|&nbsp; **Released:** March 24
+**Platforms:** Windows, MS-DOS &nbsp;|&nbsp; **Released:** March 24 (NA)
 
 [Wikipedia](https://en.wikipedia.org/wiki/Realms_of_the_Haunting)
 
@@ -1924,7 +1924,7 @@
 
 <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co1mwz.jpg" alt="Heretic cover" width="200">
 
-**Platforms:** MS-DOS, macOS &nbsp;|&nbsp; **Developer/Publisher:** Raven Software /id Software &nbsp;|&nbsp; **Genre:** Shooter &nbsp;|&nbsp; **Released:** December 27
+**Platforms:** MS-DOS, macOS &nbsp;|&nbsp; **Developer/Publisher:** Raven Software /id Software &nbsp;|&nbsp; **Genre:** FPS &nbsp;|&nbsp; **Released:** December 27
 
 > Three brothers, known as the Serpent Riders, have used their powerful magic to possess seven kings of Parthoris into mindless puppets and corrupt their armies. The Sidhe elves resist the Serpent Riders' magic. The Serpent Riders thus declared the Sidhe as heretics and waged war against them. The Sidhe are forced to take a drastic measure to sever the natural power of the kings destroying them and their armies, but at the cost of weakening the elves' power, giving the Serpent riders an advantage to slay the elders. While the Sidhe retreat, one elf, sets off on a quest of vengeance against the weakest of the three Serpent Riders, D'Sparil. He travels through the "City of the Damned", the ruined capital of the Sidhe, then past Hell's Maw and finally the Dome of D'Sparil.
 >
@@ -1966,7 +1966,7 @@
 
 <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co28rx.jpg" alt="King's Quest VII: The Princeless Bride cover" width="200">
 
-**Platforms:** MS-DOS &nbsp;|&nbsp; **Developer/Publisher:** Sierra On-Line &nbsp;|&nbsp; **Genre:** Point-and-click, Puzzle, Adventure &nbsp;|&nbsp; **Released:** November 23
+**Platforms:** MS-DOS &nbsp;|&nbsp; **Developer/Publisher:** Sierra On-Line &nbsp;|&nbsp; **Genre:** Adventure &nbsp;|&nbsp; **Released:** November 23
 
 > King's Quest VII: The Princeless Bride is an adventure game in the King's Quest series. The game features two playable characters: Queen Valanice and her daughter, Princess Rosella, who become separated in a magical realm called Eldritch. Players alternate between the two characters as they navigate through six chapters, each set in a distinct fantasy world. The story revolves around Rosella's unexpected journey to Eldritch and Valanice's quest to find her daughter, with both facing various challenges and encountering colorful characters along the way. King's Quest VII departs from the series' traditional art style, adopting a more cartoon-like aesthetic inspired by Disney animated films. The game incorporates point-and-click gameplay, puzzle-solving, and character interactions typical of the adventure genre, while expanding on the King's Quest universe with new locations and a focus on female protagonists.
 >
@@ -1994,7 +1994,7 @@
 
 <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co255e.jpg" alt="Master of Magic cover" width="200">
 
-**Platforms:** MS-DOS &nbsp;|&nbsp; **Developer/Publisher:** MicroProse &nbsp;|&nbsp; **Genre:** Strategy, Turn-based strategy (TBS) &nbsp;|&nbsp; **Released:** September
+**Platforms:** MS-DOS &nbsp;|&nbsp; **Developer/Publisher:** MicroProse &nbsp;|&nbsp; **Genre:** 4X, Turn-based Strategy &nbsp;|&nbsp; **Released:** September
 
 > You came to the world of Arcanus as a fledgling wizard. Sparsely equipped with but a spell or two, you begin as the ruler of a tiny hamlet and its people. With these raw materials, you must build a thriving city, explore the two worlds of Arcanus and Myrror, expand your empire and learn new spells. In time, you will meet other wizards, each rising from equally humble beginnings, each having the same goal as you, namely conquering the worlds.  How well you allocate resources, make use of your races’ potentials, seize opportunities and negotiate with other wizards determines your eventual success. In the end, though, there can be only one Master of Magic!
 >
@@ -2162,7 +2162,7 @@
 
 <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co4e44.jpg" alt="System Shock cover" width="200">
 
-**Platforms:** MS-DOS &nbsp;|&nbsp; **Developer/Publisher:** Looking Glass Studios /Origin Systems &nbsp;|&nbsp; **Genre:** Shooter, Role-playing (RPG) &nbsp;|&nbsp; **Released:** September 22
+**Platforms:** MS-DOS &nbsp;|&nbsp; **Developer/Publisher:** Looking Glass Studios /Origin Systems &nbsp;|&nbsp; **Genre:** Action-adventure &nbsp;|&nbsp; **Released:** September 22
 
 > A seminal cyberpunk first-person exploratory adventure game with RPG elements in which, waking up in the Citadel Space Station, a lone hacker has to survive corrupted enemies and collect audio logs and equipment from former station workers in order to shut down SHODAN, the station's artificial intelligence that has killed everyone on board and now intends to destroy the world.
 >
@@ -2272,7 +2272,7 @@
 
 ### TIE Fighter
 
-**Platforms:** MS-DOS &nbsp;|&nbsp; **Developer/Publisher:** LucasArts &nbsp;|&nbsp; **Released:** July
+**Platforms:** MS-DOS &nbsp;|&nbsp; **Developer/Publisher:** LucasArts &nbsp;|&nbsp; **Genre:** Space flight simulation &nbsp;|&nbsp; **Released:** July
 
 ---
 
@@ -2336,7 +2336,7 @@
 
 <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co1xup.jpg" alt="Warcraft: Orcs & Humans cover" width="200">
 
-**Platforms:** MS-DOS &nbsp;|&nbsp; **Developer/Publisher:** Blizzard Entertainment &nbsp;|&nbsp; **Genre:** Real Time Strategy (RTS), Strategy &nbsp;|&nbsp; **Released:** November 15
+**Platforms:** MS-DOS &nbsp;|&nbsp; **Developer/Publisher:** Blizzard Entertainment &nbsp;|&nbsp; **Genre:** Real-time Strategy &nbsp;|&nbsp; **Released:** November 15
 
 > Warcraft: Orcs & Humans is the first game in the Warcraft series developed by Blizzard Entertainment. The Orcish hordes are summoned through the dark portal to the peaceful human Kingdom of Azeroth. When the two races meet each other, a terrible war ensues. Only one race can dominate the land.  Players can choose to play as either the Humans or the Orcs. There are 12 scenarios for each race with mostly a single objective: destroy the enemy.  As with most RTS games of the same era, a lot of time is spent collecting resources and building structures to make/upgrade different types of units.
 >
@@ -2364,7 +2364,7 @@
 
 <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/cobqqd.jpg" alt="X-COM: UFO Defense cover" width="200">
 
-**Platforms:** MS-DOS &nbsp;|&nbsp; **Developer/Publisher:** Mythos Games / MicroProse &nbsp;|&nbsp; **Genre:** Strategy, Turn-based strategy (TBS), Tactical &nbsp;|&nbsp; **Released:** March
+**Platforms:** MS-DOS &nbsp;|&nbsp; **Developer/Publisher:** Mythos Games / MicroProse &nbsp;|&nbsp; **Genre:** Turn-based Strategy &nbsp;|&nbsp; **Released:** March
 
 > X-COM: UFO Defense is a strategy game that combines tactical combat with base management and global defense. Players lead an international organization tasked with defending Earth from an alien invasion. The game unfolds on two levels: a global view where players manage resources, research alien technology, and intercept UFOs, and a tactical combat mode where squad-based battles occur. Players recruit and train soldiers, build bases, and develop new weapons and equipment based on recovered alien technology. Missions involve turn-based combat against aliens in various environments, with permadeath adding tension to each engagement. As the alien threat escalates, players must balance research, defense, and offensive operations to protect Earth's nations from panic and alien infiltration. X-COM: UFO Defense's blend of strategic depth, tactical combat, and atmospheric tension creates a compelling gameplay experience in the face of a global alien threat.
 >

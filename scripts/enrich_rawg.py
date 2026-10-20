@@ -25,10 +25,10 @@ from pathlib import Path
 import requests
 
 sys.stdout.reconfigure(encoding="utf-8", errors="replace")
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+import sources
 
 ROOT = Path(__file__).resolve().parent.parent
-INDEX_DIR = ROOT / "data" / "index"
-ENRICHED_DIR = ROOT / "data" / "enriched"
 IMAGES_DIR = ROOT / "images"
 CACHE_PATH = ROOT / "data" / "rawg_cache.json"
 LOG_DIR = ROOT / "logs"
@@ -139,24 +139,20 @@ def download_image(url, rawg_id):
 
 def main(limit_years=None):
     key = api_key()
-    ENRICHED_DIR.mkdir(parents=True, exist_ok=True)
     IMAGES_DIR.mkdir(parents=True, exist_ok=True)
     LOG_DIR.mkdir(parents=True, exist_ok=True)
     cache = load_cache()
     unmatched = []
 
-    year_files = sorted(INDEX_DIR.glob("*.json"), key=lambda p: int(p.stem))
+    years = sources.available_years()
     if limit_years:
-        year_files = [p for p in year_files if int(p.stem) in limit_years]
+        years = [y for y in years if y in limit_years]
 
     total_entries = 0
     total_queried = 0
 
-    for yf in year_files:
-        year = int(yf.stem)
-        enriched_path = ENRICHED_DIR / f"{year}.json"
-        source = enriched_path if enriched_path.exists() else yf
-        entries = json.loads(source.read_text(encoding="utf-8"))
+    for year in years:
+        entries = sources.load_year(year)
         for entry in entries:
             total_entries += 1
             if entry.get("rawg"):
@@ -198,7 +194,7 @@ def main(limit_years=None):
                 "site_url": f"https://rawg.io/games/{best.get('slug')}" if best.get("slug") else None,
                 "year_match": year_match,
             }
-        enriched_path.write_text(json.dumps(entries, indent=2, ensure_ascii=False), encoding="utf-8")
+        sources.save_enrichment(year, entries)
         matched = sum(1 for e in entries if e.get("rawg"))
         print(f"{year}: wrote {len(entries)} enriched entries ({matched} with RAWG data)")
         save_cache(cache)

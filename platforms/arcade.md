@@ -2,7 +2,7 @@
 
 [← Back to index](../README.md)
 
-236 titles across 19 years in this archive.
+231 titles across 16 years in this archive.
 
 ## 2023
 
@@ -12,7 +12,7 @@
 
 <img src="../images/steam-1364780.jpg" alt="Street Fighter 6 cover" width="200">
 
-**Platforms:** Arcade, PlayStation 4, PlayStation 5, Windows, Xbox Series X/S &nbsp;|&nbsp; **Developer:** Capcom &nbsp;|&nbsp; **Publisher:** Capcom &nbsp;|&nbsp; **Genre:** Action, Adventure &nbsp;|&nbsp; **Released:** June 2, 2023
+**Platforms:** Arcade, PlayStation 4, PlayStation 5, Windows, Xbox Series X/S &nbsp;|&nbsp; **Developer:** Capcom &nbsp;|&nbsp; **Publisher:** Capcom &nbsp;|&nbsp; **Genre:** Fighting &nbsp;|&nbsp; **Released:** June 2, 2023
 
 > Here comes Capcom’s newest challenger! Street Fighter™ 6 launches worldwide on June 2nd, 2023 and represents the next evolution of the Street Fighter™ series! Street Fighter 6 spans three distinct game modes, including World Tour, Fighting Ground and Battle Hub.
 >
@@ -22,121 +22,31 @@
 
 ---
 
-## 2021
+## 2022
 
-[Full 2021 page](../years/2021.md)
+[Full 2022 page](../years/2022.md)
 
-### Guilty Gear: Strive
+### Dance Dance Revolution A3
 
-<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2lby.jpg" alt="Guilty Gear: Strive cover" width="200">
+**Platforms:** Arcade &nbsp;|&nbsp; **Developer:** Bemani &nbsp;|&nbsp; **Publisher:** Konami &nbsp;|&nbsp; **Genre:** Music, Fitness &nbsp;|&nbsp; **Released:** March 17
 
-**Platforms:** Arcade, PlayStation 5, Windows, PlayStation 4 &nbsp;|&nbsp; **Developer:** Arc System Works &nbsp;|&nbsp; **Publisher:** Arc System Works, Arc System Works America, Bandai Namco Entertainment Asia, Bandai Namco Entertainment Europe &nbsp;|&nbsp; **Genre:** Fighting &nbsp;|&nbsp; **Released:** June 11, 2021
-
-> Discover the Smell of the Game with Guilty Gear: Strive! Immerse yourself in new gameplay mechanics designed to be simple and welcoming for fighting game newcomers, yet deep and creative for veterans. Ride the Fire into a heavy metal inspired alternate future full of over-the-top action, style and fun!
->
-> _Synopsis source: IGDB_
-
-[IGDB](https://www.igdb.com/games/guilty-gear-strive)
+[Wikipedia](https://en.wikipedia.org/wiki/Dance_Dance_Revolution_A3)
 
 ---
 
-## 2019
+## 2020
 
-[Full 2019 page](../years/2019.md)
+[Full 2020 page](../years/2020.md)
 
-### Samurai Shodown
+### beatmania IIDX 27: Heroic Verse
 
-<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co1m9a.jpg" alt="Samurai Shodown cover" width="200">
-
-**Platforms:** Nintendo Switch, Stadia, Xbox One, PlayStation 4, Arcade &nbsp;|&nbsp; **Developer:** SNK &nbsp;|&nbsp; **Publisher:** SNK, Athlon Games &nbsp;|&nbsp; **Genre:** Fighting &nbsp;|&nbsp; **Released:** June 25, 2019
-
-> "A brand new title from SNK! A new Samurai Shodown is on the horizon!  Since its birth in 1993, the Samurai Shodown series has been known as the premier weapon based versus fighting games, and was essential in cultivating the weapon based fighting game genre. As the first new release in the series in more than 10 years, Samurai Shodown is aiming to yet again push boundaries and deliver some serious samurai action!  Developed using Unreal Engine 4 and utilizing a unique brushstroke graphical style to match the Japanese roots of the series, Haohmaru, Nakoruru, Galford and a whole cast of other popular characters will battle once again for victory!"
->
-> _Synopsis source: IGDB_
-
-[IGDB](https://www.igdb.com/games/samurai-shodown--2)
+**Platforms:** Arcade &nbsp;|&nbsp; **Developer:** Konami Digital Entertainment &nbsp;|&nbsp; **Publisher:** Konami &nbsp;|&nbsp; **Genre:** Rhythm &nbsp;|&nbsp; **Released:** January 29
 
 ---
 
-## 2015
+### beatmania IIDX 28 BISTROVER
 
-[Full 2015 page](../years/2015.md)
-
-### Guilty Gear Xrd: Revelator
-
-<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2zs0.jpg" alt="Guilty Gear Xrd: Revelator cover" width="200">
-
-**Platforms:** Arcade &nbsp;|&nbsp; **Developer:** Arc System Works &nbsp;|&nbsp; **Publisher:** Aksys Games, Arc System Works &nbsp;|&nbsp; **Genre:** Fighting, Arcade &nbsp;|&nbsp; **Released:** August 25, 2015
-
-> Guilty Gear Xrd: Revelator is a Japanese fighting game and the updated version of Guilty Gear Xrd: Sign. The updated version adds new characters Jack-O, Johnny, and Jam Kuradoberi, as well as updated mechanics, balancing, systems, M.O.M. Mode, and more.
->
-> _Synopsis source: IGDB_
-
-[IGDB](https://www.igdb.com/games/guilty-gear-xrd-revelator)
-
----
-
-### Pokkén Tournament
-
-<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co1zj1.jpg" alt="Pokkén Tournament cover" width="200">
-
-**Platforms:** Arcade &nbsp;|&nbsp; **Developer:** Bandai Namco Entertainment, The Pokémon Company &nbsp;|&nbsp; **Publisher:** Bandai Namco Entertainment, Nintendo &nbsp;|&nbsp; **Genre:** Fighting, Arcade &nbsp;|&nbsp; **Released:** July 16, 2015
-
-> Pokkén Tournament was developed with BANDAI NAMCO Entertainment, Inc., the producers of one of the top achievements in fighting games, the Tekken series. True to its legacy, this game brings tight gameplay and incredible control to never-before-seen battles between Pokémon. The gameplay is designed to be enjoyed by a wide range of people—even those who have never played a fighting game or an action game before can easily pick it up and play!  Key Word: Pokke, pokkén, pokken, poken, pokén
->
-> _Synopsis source: IGDB_
-
-[IGDB](https://www.igdb.com/games/pokken-tournament)
-
----
-
-### Skullgirls: 2nd Encore
-
-<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co21fn.jpg" alt="Skullgirls: 2nd Encore cover" width="200">
-
-**Platforms:** Arcade, PlayStation 4 &nbsp;|&nbsp; **Developer:** Lab Zero Games, Hidden Variable Studios &nbsp;|&nbsp; **Publisher:** Skybound Games, Marvelous USA, Inc., Autumn Games, Arc System Works, M2, Taito, Limited Run &nbsp;|&nbsp; **Genre:** Fighting, Indie, Arcade &nbsp;|&nbsp; **Released:** July 7, 2015
-
-> Skullgirls 2nd Encore is a beautifully hand-animated, fast-paced 2D fighting game that puts players in control of fierce warriors in an extraordinary Dark Deco world. Each of the 14 wildly original characters features unique gameplay mechanics and plenty of personality.
->
-> _Synopsis source: IGDB_
-
-[IGDB](https://www.igdb.com/games/skullgirls-2nd-encore)
-
----
-
-## 2014
-
-[Full 2014 page](../years/2014.md)
-
-### Ultra Street Fighter IV
-
-<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co1w4s.jpg" alt="Ultra Street Fighter IV cover" width="200">
-
-**Platforms:** Windows, PlayStation 3, Xbox 360, Arcade &nbsp;|&nbsp; **Developer:** Capcom &nbsp;|&nbsp; **Publisher:** 1C-SoftClub, Capcom &nbsp;|&nbsp; **Genre:** Fighting, Arcade &nbsp;|&nbsp; **Released:** April 18, 2014
-
-> The world’s greatest fighting game evolves to a whole new level with Ultra Street Fighter IV. Continuing the tradition of excellence the series is known for, five new characters and six new stages have been added for even more fighting mayhem, with rebalanced gameplay and original modes topping off this ultimate offering.
->
-> _Synopsis source: IGDB_
-
-[IGDB](https://www.igdb.com/games/ultra-street-fighter-iv)
-
----
-
-## 2013
-
-[Full 2013 page](../years/2013.md)
-
-### Persona 4 Arena Ultimax
-
-<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co5k1y.jpg" alt="Persona 4 Arena Ultimax cover" width="200">
-
-**Platforms:** Arcade &nbsp;|&nbsp; **Developer:** Arc System Works, Atlus, P Studio &nbsp;|&nbsp; **Publisher:** Sega, Atlus &nbsp;|&nbsp; **Genre:** Fighting, Visual Novel &nbsp;|&nbsp; **Released:** November 28, 2013
-
-> Persona 4 Arena Ultimax is a fighting video game developed by Arc System Works and Atlus. It is the direct sequel to Persona 4 Arena, which is itself a follow-up to the role-playing game Persona 4. The game was originally released in Japanese arcades on November 28, 2013, and later ported to home consoles. Unlike the previous game, it is not region locked.
->
-> _Synopsis source: IGDB_
-
-[IGDB](https://www.igdb.com/games/persona-4-arena-ultimax)
+**Platforms:** Arcade &nbsp;|&nbsp; **Publisher:** Konami &nbsp;|&nbsp; **Genre:** Rhythm &nbsp;|&nbsp; **Released:** October 28
 
 ---
 
@@ -155,20 +65,6 @@
 > _Synopsis source: IGDB_
 
 [IGDB](https://www.igdb.com/games/guilty-gear-xx-accent-core-plus-r)
-
----
-
-### Persona 4 Arena
-
-<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co25v5.jpg" alt="Persona 4 Arena cover" width="200">
-
-**Platforms:** Xbox 360, Arcade, PlayStation 3 &nbsp;|&nbsp; **Developer:** Atlus, Arc System Works, P Studio &nbsp;|&nbsp; **Publisher:** Zen United, Atlus &nbsp;|&nbsp; **Genre:** Fighting, Role-playing (RPG), Adventure, Visual Novel &nbsp;|&nbsp; **Released:** March 1, 2012
-
-> Persona 4 Arena is a fighting video game developed for Japanese arcades and later ported to home consoles. Based on Atlus' Persona role-playing game series, Arena serves as a direct sequel to Persona 4 and features characters from its predecessor, Persona 3. Atlus wrote the story to the game while Arc System Works handled the gameplay.
->
-> _Synopsis source: IGDB_
-
-[IGDB](https://www.igdb.com/games/persona-4-arena)
 
 ---
 

@@ -102,8 +102,8 @@
     "redlink": null,
     "publisher": "Konami",
     "release_date": "December 22, 2005",
-    "mc score": "94/100 [ 3 ]",
-    "gr score": "92.97% [ 4 ]",
+    "mc score": "94/100",
+    "gr score": "92.97%",
     "platform_breakdown": {
       "platform": "PS2"
     },
@@ -141,7 +141,7 @@
     "mc score": "93/100",
     "gr score": "92.29%",
     "platform_breakdown": {
-      "platform": "WIN"
+      "platform": "WIN, XB"
     },
     "platforms": [
       "Xbox",
@@ -284,8 +284,8 @@
     "redlink": false,
     "publisher": "Konami",
     "release_date": "August 4, 2005",
-    "mc score": "89/100 [ 3 ]",
-    "gr score": "90.25% [ 5 ]",
+    "mc score": "89/100",
+    "gr score": "90.25%",
     "platform_breakdown": {
       "platform": "WIN"
     },
@@ -1959,10 +1959,11 @@
   {
     "year": 2005,
     "section": "Games released in 2005",
-    "title": "Pokémon Emerald (North America)",
+    "title": "Pokémon Emerald",
     "wiki_title": "Pokémon Emerald",
     "wiki_url": "https://en.wikipedia.org/wiki/Pok%C3%A9mon_Emerald",
     "redlink": false,
+    "region": "NA",
     "release_date": "May 1",
     "platform_breakdown": {
       "platform": "GBA"
@@ -2548,17 +2549,19 @@
   {
     "year": 2005,
     "section": "Games released in 2005",
-    "title": "FlatOut (North America)",
+    "title": "FlatOut",
     "wiki_title": "FlatOut (video game)",
     "wiki_url": "https://en.wikipedia.org/wiki/FlatOut_(video_game)",
     "redlink": false,
+    "region": "NA/JP",
     "release_date": "July 12",
     "platform_breakdown": {
-      "platform": "WIN, XB"
+      "platform": "PS2"
     },
     "platforms": [
       "Windows",
-      "Xbox"
+      "Xbox",
+      "PlayStation 2"
     ]
   },
   {
@@ -2672,10 +2675,11 @@
   {
     "year": 2005,
     "section": "Games released in 2005",
-    "title": "BloodRayne 2 (NA)",
+    "title": "BloodRayne 2",
     "wiki_title": "BloodRayne 2",
     "wiki_url": "https://en.wikipedia.org/wiki/BloodRayne_2",
     "redlink": false,
+    "region": "NA",
     "release_date": "August 2",
     "platform_breakdown": {
       "platform": "WIN"
@@ -3488,10 +3492,11 @@
   {
     "year": 2005,
     "section": "Games released in 2005",
-    "title": "Mega Man X8 (EU)",
+    "title": "Mega Man X8",
     "wiki_title": "Mega Man X8",
     "wiki_url": "https://en.wikipedia.org/wiki/Mega_Man_X8",
     "redlink": false,
+    "region": "EU",
     "release_date": "September 21",
     "platform_breakdown": {
       "platform": "WIN"
@@ -3523,10 +3528,11 @@
   {
     "year": 2005,
     "section": "Games released in 2005",
-    "title": "Neuro Hunter (UK)",
+    "title": "Neuro Hunter",
     "wiki_title": "Neuro Hunter",
     "wiki_url": "https://en.wikipedia.org/wiki/Neuro_Hunter",
     "redlink": false,
+    "region": "UK",
     "release_date": "September 23",
     "platform_breakdown": {
       "platform": "WIN"
@@ -3754,10 +3760,11 @@
   {
     "year": 2005,
     "section": "Games released in 2005",
-    "title": "Mortal Kombat: Shaolin Monks (EU)",
+    "title": "Mortal Kombat: Shaolin Monks",
     "wiki_title": null,
     "wiki_url": null,
     "redlink": null,
+    "region": "EU",
     "release_date": "September 30",
     "platform_breakdown": {
       "platform": "PS2, XB"
@@ -4070,21 +4077,6 @@
     },
     "platforms": [
       "Nintendo DS"
-    ]
-  },
-  {
-    "year": 2005,
-    "section": "Games released in 2005",
-    "title": "FlatOut (JP)",
-    "wiki_title": "FlatOut (video game)",
-    "wiki_url": "https://en.wikipedia.org/wiki/FlatOut_(video_game)",
-    "redlink": false,
-    "release_date": "October 13",
-    "platform_breakdown": {
-      "platform": "PS2"
-    },
-    "platforms": [
-      "PlayStation 2"
     ]
   },
   {
@@ -5123,10 +5115,11 @@
   {
     "year": 2005,
     "section": "Games released in 2005",
-    "title": "Dragon Quest VIII (NA)",
+    "title": "Dragon Quest VIII",
     "wiki_title": "Dragon Quest VIII",
     "wiki_url": "https://en.wikipedia.org/wiki/Dragon_Quest_VIII",
     "redlink": false,
+    "region": "NA",
     "release_date": "November 15",
     "platform_breakdown": {
       "platform": "PS2"
@@ -5240,6 +5233,28 @@
     },
     "platforms": [
       "PlayStation 2"
+    ]
+  },
+  {
+    "year": 2005,
+    "section": "Games released in 2005",
+    "title": "Need for Speed: Most Wanted",
+    "wiki_title": null,
+    "wiki_url": null,
+    "redlink": null,
+    "release_date": "November 15",
+    "platform_breakdown": {
+      "platform": "XB360"
+    },
+    "platforms": [
+      "Windows",
+      "PlayStation 2",
+      "Xbox",
+      "GameCube",
+      "Game Boy Advance",
+      "Nintendo DS",
+      "PlayStation Portable",
+      "Xbox 360"
     ]
   },
   {
@@ -5385,28 +5400,6 @@
     },
     "platforms": [
       "Nintendo DS"
-    ]
-  },
-  {
-    "year": 2005,
-    "section": "Games released in 2005",
-    "title": "Need for Speed: Most Wanted",
-    "wiki_title": null,
-    "wiki_url": null,
-    "redlink": null,
-    "release_date": "November 16",
-    "platform_breakdown": {
-      "platform": "XB360"
-    },
-    "platforms": [
-      "Windows",
-      "PlayStation 2",
-      "Xbox",
-      "GameCube",
-      "Game Boy Advance",
-      "Nintendo DS",
-      "PlayStation Portable",
-      "Xbox 360"
     ]
   },
   {
@@ -5827,10 +5820,11 @@
   {
     "year": 2005,
     "section": "Games released in 2005",
-    "title": "Yakuza (JP)",
+    "title": "Yakuza",
     "wiki_title": "Yakuza (video game)",
     "wiki_url": "https://en.wikipedia.org/wiki/Yakuza_(video_game)",
     "redlink": false,
+    "region": "JP",
     "release_date": "December 8",
     "platform_breakdown": {
       "platform": "PS2"
@@ -5948,10 +5942,11 @@
   {
     "year": 2005,
     "section": "Games released in 2005",
-    "title": "Kingdom Hearts II (JP)",
+    "title": "Kingdom Hearts II",
     "wiki_title": "Kingdom Hearts II",
     "wiki_url": "https://en.wikipedia.org/wiki/Kingdom_Hearts_II",
     "redlink": false,
+    "region": "JP",
     "release_date": "December 22",
     "platform_breakdown": {
       "platform": "PS2"

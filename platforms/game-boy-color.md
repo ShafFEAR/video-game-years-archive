@@ -130,9 +130,9 @@
 
 ---
 
-### Pokémon Crystal (North America)
+### Pokémon Crystal
 
-**Platforms:** Game Boy Color &nbsp;|&nbsp; **Released:** July 30
+**Platforms:** Game Boy Color &nbsp;|&nbsp; **Released:** July 30 (NA)
 
 [Wikipedia](https://en.wikipedia.org/wiki/Pok%C3%A9mon_Crystal)
 
@@ -192,7 +192,7 @@
 
 ### The Legend of Zelda: Oracle of Seasons and Oracle of Ages
 
-**Platforms:** Game Boy Color &nbsp;|&nbsp; **Released:** February 27
+**Platforms:** Game Boy Color &nbsp;|&nbsp; **Released:** February 27 (JP)
 
 ---
 
@@ -328,9 +328,9 @@
 
 ---
 
-### Pokémon Crystal (Japan)
+### Pokémon Crystal
 
-**Platforms:** Game Boy Color &nbsp;|&nbsp; **Released:** December 14
+**Platforms:** Game Boy Color &nbsp;|&nbsp; **Released:** December 14 (JP)
 
 [Wikipedia](https://en.wikipedia.org/wiki/Pok%C3%A9mon_Crystal)
 
@@ -442,9 +442,9 @@
 
 ---
 
-### Pokémon Gold and Silver (Japan)
+### Pokémon Gold and Silver
 
-**Platforms:** Game Boy Color &nbsp;|&nbsp; **Released:** November 21
+**Platforms:** Game Boy Color &nbsp;|&nbsp; **Released:** November 21 (JP)
 
 [Wikipedia](https://en.wikipedia.org/wiki/Pok%C3%A9mon_Gold_and_Silver)
 
@@ -474,9 +474,9 @@
 
 ---
 
-### Pokémon Yellow: Special Pikachu Edition (North America)
+### Pokémon Yellow: Special Pikachu Edition
 
-**Platforms:** Game Boy, Game Boy Color &nbsp;|&nbsp; **Released:** October 19
+**Platforms:** Game Boy, Game Boy Color &nbsp;|&nbsp; **Released:** October 19 (NA)
 
 [Wikipedia](https://en.wikipedia.org/wiki/Pok%C3%A9mon_Yellow)
 

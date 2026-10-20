@@ -2,7 +2,41 @@
 
 [← Back to index](../README.md)
 
-211 titles across 8 years in this archive.
+214 titles across 11 years in this archive.
+
+## 2026
+
+[Full 2026 page](../years/2026.md)
+
+### Vixen 357
+
+**Platforms:** Genesis / Mega Drive, Windows, Nintendo Switch, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S &nbsp;|&nbsp; **Developer:** Shinyuden &nbsp;|&nbsp; **Publisher:** Masaya Games, Shinyuden &nbsp;|&nbsp; **Genre:** Tactical RPG &nbsp;|&nbsp; **Released:** June 30 (WW)
+
+[Wikipedia](https://en.wikipedia.org/wiki/Vixen_357)
+
+---
+
+## 2025
+
+[Full 2025 page](../years/2025.md)
+
+### P-47 II MD
+
+**Platforms:** Genesis / Mega Drive &nbsp;|&nbsp; **Developer:** City Connection &nbsp;|&nbsp; **Publisher:** City Connection &nbsp;|&nbsp; **Genre:** Scrolling shooter (horizontal) &nbsp;|&nbsp; **Released:** March 13 (JP)
+
+---
+
+## 2018
+
+[Full 2018 page](../years/2018.md)
+
+### Tanglewood
+
+**Platforms:** Genesis / Mega Drive, Windows, macOS, Linux &nbsp;|&nbsp; **Publisher:** Big Evil Corporation &nbsp;|&nbsp; **Genre:** Platformer &nbsp;|&nbsp; **Released:** August 14
+
+[Wikipedia](https://en.wikipedia.org/wiki/Tanglewood_(2018_video_game))
+
+---
 
 ## 1997
 
@@ -792,7 +826,7 @@
 
 <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co20g8.jpg" alt="Earthworm Jim cover" width="200">
 
-**Platforms:** Super Nintendo Entertainment System, Genesis / Mega Drive &nbsp;|&nbsp; **Developer/Publisher:** Shiny Entertainment &nbsp;|&nbsp; **Genre:** Shooter, Platform &nbsp;|&nbsp; **Released:** August 2
+**Platforms:** Super Nintendo Entertainment System, Genesis / Mega Drive &nbsp;|&nbsp; **Developer/Publisher:** Shiny Entertainment &nbsp;|&nbsp; **Genre:** Platformer &nbsp;|&nbsp; **Released:** August 2
 
 > A crow is chasing a worm named Jim while in outer space Psy-Crow is chasing a renegade ship. The ship's captain has stolen an ultra-high-tech-indestructible-super-space-cyber-suit and Queen Slug-for-a-Butt has ordered Psy-Crow to get it, since it can make her more beautiful than Princess-What's-Her-Name. Psy-Crow blasts the captain and the suit falls to Planet Earth.  Back on earth Jim wonders if he is finally safe when an ultra-high-tech-indestructible-super-space-cyber-suit lands on him. Luckily Jim rests in the neck ring of the suit. Then the space particles begin interacting with Jim, causing a light-speed evolution. Jim soon realizes he is in control of the suit.  Jim overhears the Queen's plans for the suit and decides to meet this Princess...
 >
@@ -1116,7 +1150,7 @@
 
 <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co1ups.jpg" alt="Sonic & Knuckles cover" width="200">
 
-**Platforms:** Genesis / Mega Drive &nbsp;|&nbsp; **Developer/Publisher:** Sega &nbsp;|&nbsp; **Genre:** Platform &nbsp;|&nbsp; **Released:** October 17
+**Platforms:** Genesis / Mega Drive &nbsp;|&nbsp; **Developer/Publisher:** Sega &nbsp;|&nbsp; **Genre:** Platformer &nbsp;|&nbsp; **Released:** October 17
 
 > Sonic & Knuckles is a side-scrolling platform game that continues the events of Sonic the Hedgehog 3. Sonic seeks to prevent Dr. Robotnik from repairing the Death Egg and obtaining the Master Emerald, while Knuckles attempts to protect Floating Island. Players can control either character through a series of zones, collecting rings and Chaos Emeralds while defeating enemies and bosses. Knuckles can glide, climb walls, and break certain obstacles, while Sonic can use abilities granted by elemental shields.
 >
@@ -1130,7 +1164,7 @@
 
 <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co1zut.jpg" alt="Sonic the Hedgehog 3 cover" width="200">
 
-**Platforms:** Genesis / Mega Drive &nbsp;|&nbsp; **Developer/Publisher:** Sega &nbsp;|&nbsp; **Genre:** Platform, Adventure &nbsp;|&nbsp; **Released:** February 2
+**Platforms:** Genesis / Mega Drive &nbsp;|&nbsp; **Developer/Publisher:** Sega &nbsp;|&nbsp; **Genre:** Platformer &nbsp;|&nbsp; **Released:** February 2
 
 > The game is a sequel to Sonic the Hedgehog 2 for the same system and follows on directly from the end of the game, in which Sonic defeated his enemy, Dr. Robotnik; crash-landing on a floating island, Sonic encounters new character Knuckles the Echidna, and must once more retrieve the Chaos Emeralds while also working to stop Dr. Robotnik from relaunching his ship, the Death Egg.
 >

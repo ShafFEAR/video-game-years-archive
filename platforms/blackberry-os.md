@@ -2,7 +2,7 @@
 
 [← Back to index](../README.md)
 
-4 titles across 4 years in this archive.
+3 titles across 3 years in this archive.
 
 ## 2013
 
@@ -19,24 +19,6 @@
 > _Synopsis source: IGDB_
 
 [IGDB](https://www.igdb.com/games/badland)
-
----
-
-## 2012
-
-[Full 2012 page](../years/2012.md)
-
-### Angry Birds Star Wars
-
-<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2hr4.jpg" alt="Angry Birds Star Wars cover" width="200">
-
-**Platforms:** Android, BlackBerry OS, iOS, macOS, Windows, Windows Phone &nbsp;|&nbsp; **Developer:** Rovio Entertainment &nbsp;|&nbsp; **Publisher:** LucasArts, Activision, Rovio Entertainment &nbsp;|&nbsp; **Genre:** Puzzle, Strategy, Arcade &nbsp;|&nbsp; **Released:** November 8, 2012
-
-> Join an epic adventure with the Angry Birds in the legendary Star Wars universe, re-mastered for gaming systems! Use the Force, wield your Lightsaber, and blast away Pigtroopers on an intergalactic journey from the deserts of Tatooine to the depths of the Pig Star! Can you become a Jedi Master and restore freedom to the galaxy?
->
-> _Synopsis source: IGDB_
-
-[IGDB](https://www.igdb.com/games/angry-birds-star-wars)
 
 ---
 

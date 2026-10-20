@@ -2,11 +2,109 @@
 
 [← Back to index](../README.md)
 
-480 titles across 10 years in this archive.
+494 titles across 13 years in this archive.
+
+## 2015
+
+[Full 2015 page](../years/2015.md)
+
+### Brandish: The Dark Revenant
+
+**Platforms:** PlayStation Portable, PlayStation Vita &nbsp;|&nbsp; **Genre:** Action RPG &nbsp;|&nbsp; **Released:** January 13
+
+[Wikipedia](https://en.wikipedia.org/wiki/Brandish_(video_game))
+
+---
+
+## 2014
+
+[Full 2014 page](../years/2014.md)
+
+### Toukiden: The Age of Demons
+
+**Platforms:** PlayStation Vita, PlayStation Portable &nbsp;|&nbsp; **Genre:** Action RPG &nbsp;|&nbsp; **Released:** February 11
+
+---
+
+## 2013
+
+[Full 2013 page](../years/2013.md)
+
+### Black Rock Shooter: The Game
+
+**Platforms:** PlayStation Portable &nbsp;|&nbsp; **Genre:** Action RPG &nbsp;|&nbsp; **Released:** April 23
+
+---
+
+### Class of Heroes 2
+
+**Platforms:** PlayStation Portable, PlayStation Vita &nbsp;|&nbsp; **Genre:** RPG &nbsp;|&nbsp; **Released:** June 4
+
+[Wikipedia](https://en.wikipedia.org/wiki/Class_of_Heroes_2)
+
+---
+
+### Corpse Party: Book of Shadows
+
+**Platforms:** PlayStation Portable &nbsp;|&nbsp; **Genre:** Survival horror &nbsp;|&nbsp; **Released:** January 15
+
+[Wikipedia](https://en.wikipedia.org/wiki/Corpse_Party)
+
+---
+
+### FIFA 14
+
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co206x.jpg" alt="FIFA 14 cover" width="200">
+
+**Platforms:** iOS, Android, Windows, PlayStation 3, Xbox 360, Wii, PlayStation 2, PlayStation Vita, Nintendo 3DS, PlayStation Portable, PlayStation 4, Xbox One &nbsp;|&nbsp; **Genre:** Sports &nbsp;|&nbsp; **Released:** September 23
+
+> FIFA 14 is a 2013 sports association football simulation video game developed by EA Canada and published by Electronic Arts.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/FIFA_14) · [IGDB](https://www.igdb.com/games/fifa-14)
+
+---
+
+### Generation of Chaos: Pandora's Reflection
+
+**Platforms:** PlayStation Portable &nbsp;|&nbsp; **Genre:** Tactical RPG &nbsp;|&nbsp; **Released:** February 19
+
+---
+
+### Hakuoki: Warriors of the Shinsengumi
+
+**Platforms:** PlayStation Portable &nbsp;|&nbsp; **Released:** February 19
+
+[Wikipedia](https://en.wikipedia.org/wiki/Haku%C5%8Dki#Video_games)
+
+---
+
+### Pro Evolution Soccer 2014
+
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co1ugw.jpg" alt="Pro Evolution Soccer 2014 cover" width="200">
+
+**Platforms:** Windows, PlayStation 3, Xbox 360, PlayStation 2, Nintendo 3DS, PlayStation Portable &nbsp;|&nbsp; **Genre:** Sports &nbsp;|&nbsp; **Released:** September 24
+
+> Pro Evolution Soccer 2014 (PES 2014) is a football simulation game developed by Konami. Released in 2013, it is part of the long-running Pro Evolution Soccer series and introduces a new engine, updated mechanics, and expanded features across multiple platforms.  PES 2014 centers gameplay around realistic ball physics, player motion, and team dynamics. It introduces the Motion Animation Stability System (M.A.S.S.) to enhance physical interactions between players, making tackles, collisions, and positioning more lifelike. The game also features a morale system where crowd influence and individual performances affect team behavior on the pitch.  The Player ID system, first introduced in PES 2013, is expanded to cover more star players and now replicates full squad behaviors to reflect real-world playing styles. A new Combination Plan allows users to coordinate tactical plays among three or more players, enabling more diverse and strategic attacking options.  Additional features include the ability to switch clubs or coach national teams in Master League, create third and fourth kits (with some official options), and play the UEFA Europa League in a dedicated mode.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Pro_Evolution_Soccer_2014) · [IGDB](https://www.igdb.com/games/pro-evolution-soccer-2014)
+
+---
 
 ## 2012
 
 [Full 2012 page](../years/2012.md)
+
+### Canabalt
+
+**Platforms:** PlayStation Portable &nbsp;|&nbsp; **Released:** April 3
+
+[Wikipedia](https://en.wikipedia.org/wiki/Canabalt)
+
+---
 
 ### Danganronpa 2: Goodbye Despair
 
@@ -19,6 +117,98 @@
 > _Synopsis source: IGDB_
 
 [IGDB](https://www.igdb.com/games/danganronpa-2-goodbye-despair)
+
+---
+
+### FIFA 13
+
+**Platforms:** Xbox 360, Windows, PlayStation 3, Wii, PlayStation Vita, PlayStation Portable, PlayStation 2, iOS &nbsp;|&nbsp; **Publisher:** EA Sports &nbsp;|&nbsp; **Released:** September 25, 2012
+
+[Wikipedia](https://en.wikipedia.org/wiki/FIFA_13)
+
+---
+
+### Final Fantasy III
+
+**Platforms:** Android, PlayStation Portable &nbsp;|&nbsp; **Type:** Port &nbsp;|&nbsp; **Released:** June 27
+
+[Wikipedia](https://en.wikipedia.org/wiki/Final_Fantasy_III)
+
+---
+
+### Football Manager Handheld 2013
+
+**Platforms:** PlayStation Portable &nbsp;|&nbsp; **Released:** November 30
+
+[Wikipedia](https://en.wikipedia.org/wiki/Football_Manager_2013)
+
+---
+
+### Growlanser Wayfarer of Time
+
+**Platforms:** PlayStation Portable &nbsp;|&nbsp; **Released:** July 31
+
+[Wikipedia](https://en.wikipedia.org/wiki/Growlanser_Wayfarer_of_Time)
+
+---
+
+### Gungnir
+
+**Platforms:** PlayStation Portable &nbsp;|&nbsp; **Released:** June 12
+
+[Wikipedia](https://en.wikipedia.org/wiki/Gungnir_(video_game))
+
+---
+
+### Major League Baseball 2K12
+
+**Platforms:** Windows, PlayStation 3, Xbox 360, Wii, PlayStation 2, PlayStation Portable, Nintendo DS &nbsp;|&nbsp; **Released:** March 6
+
+[Wikipedia](https://en.wikipedia.org/wiki/Major_League_Baseball_2K12)
+
+---
+
+### NBA 2K13
+
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co22tj.jpg" alt="NBA 2K13 cover" width="200">
+
+**Platforms:** Windows, PlayStation 3, Xbox 360, PlayStation Portable, Wii &nbsp;|&nbsp; **Publisher:** 2K &nbsp;|&nbsp; **Genre:** Simulator, Sport, Strategy &nbsp;|&nbsp; **Released:** October 2, 2012
+
+> With more than 5 million copies sold worldwide and more than 25 Sports Game of the Year awards won, NBA 2K12 was another monster release for the biggest NBA video game simulation franchise in the world. This year, 2K Sports has joined forces with the legendary JAY Z as Executive Producer to transcend sports video games and take virtual hardwood to the next level. Featuring an enhanced MyCAREER mode and all-new gameplay features, NBA 2K13 will let gamers pit the best players in NBA history against the new dynasty of talent, including the much-debated matchup between the 2012 U.S. Men's National Team and the 1992 "Dream Team."
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/NBA_2K13) · [IGDB](https://www.igdb.com/games/nba-2k13)
+
+---
+
+### Pro Evolution Soccer 2013
+
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/coarps.jpg" alt="Pro Evolution Soccer 2013 cover" width="200">
+
+**Platforms:** Windows, PlayStation 3, Xbox 360, Wii, PlayStation 2, PlayStation Portable &nbsp;|&nbsp; **Genre:** Simulator, Sport &nbsp;|&nbsp; **Released:** September 25
+
+> Pro Evolution Soccer 2013 (also known as World Soccer: Winning Eleven 2013 in Japan and South Korea) is an association football video game part of the Pro Evolution Soccer series, developed and published by Konami.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Pro_Evolution_Soccer_2013) · [IGDB](https://www.igdb.com/games/pro-evolution-soccer-2013)
+
+---
+
+### Ragnarok Tactics
+
+**Platforms:** PlayStation Portable &nbsp;|&nbsp; **Released:** November 6
+
+[Wikipedia](https://en.wikipedia.org/wiki/Ragnarok_Tactics)
+
+---
+
+### Unchained Blades
+
+**Platforms:** PlayStation Portable &nbsp;|&nbsp; **Released:** June 26
+
+[Wikipedia](https://en.wikipedia.org/wiki/Unchained_Blades)
 
 ---
 
@@ -2414,25 +2604,13 @@
 
 <img src="../images/steam-8000.jpg" alt="Tomb Raider: Anniversary cover" width="200">
 
-**Platforms:** PlayStation 2, Windows, PlayStation Portable, Xbox 360, Wii, Mobile phone &nbsp;|&nbsp; **Genre:** Action, Adventure &nbsp;|&nbsp; **Released:** June 5
+**Platforms:** PlayStation 2, Windows, PlayStation Portable, Xbox 360, Wii, Mobile phone &nbsp;|&nbsp; **Genre:** Action, Adventure &nbsp;|&nbsp; **Released:** June 5 (EU/AU)
 
 > Tomb Raider: Anniversary retraces Lara Croft's original genre-defining adventure  globe-trotting 3rd person action-adventure in pursuit of the legendary Scion artifact. Using an enhanced 'Tomb Raider: Legend' game engine, the graphics, technology and physics bring Lara's adventure and pursuit of a mystical artifact known only as the...
 >
 > _Synopsis source: Steam_
 
 [Steam](https://store.steampowered.com/app/8000)
-
----
-
-### Tomb Raider: Anniversary (AU)
-
-**Platforms:** Xbox 360, PlayStation Portable &nbsp;|&nbsp; **Released:** November 2
-
----
-
-### Tomb Raider: Anniversary (EU)
-
-**Platforms:** Xbox 360, PlayStation Portable &nbsp;|&nbsp; **Released:** October 26
 
 ---
 
@@ -2522,15 +2700,9 @@
 
 ---
 
-### Cars (AU)
+### Cars
 
-**Platforms:** Windows, PlayStation 2, Xbox, GameCube, Game Boy Advance, Nintendo DS, PlayStation Portable, Xbox 360, Wii &nbsp;|&nbsp; **Released:** June 8
-
----
-
-### Cars (EU)
-
-**Platforms:** Windows, PlayStation 2, Xbox, GameCube, Game Boy Advance, Nintendo DS, PlayStation Portable, Xbox 360, Wii &nbsp;|&nbsp; **Released:** July 14
+**Platforms:** Windows, PlayStation 2, Xbox, GameCube, Game Boy Advance, Nintendo DS, PlayStation Portable, Xbox 360, Wii &nbsp;|&nbsp; **Released:** June 8 (AU/EU)
 
 ---
 
@@ -2612,21 +2784,9 @@
 
 ---
 
-### Family Guy Video Game! (AU)
+### Family Guy Video Game!
 
-**Platforms:** PlayStation 2, Xbox, PlayStation Portable &nbsp;|&nbsp; **Released:** November 3
-
----
-
-### Family Guy Video Game! (EU)
-
-**Platforms:** PlayStation 2, Xbox, PlayStation Portable &nbsp;|&nbsp; **Released:** October 26
-
----
-
-### Family Guy Video Game! (NA)
-
-**Platforms:** PlayStation 2, Xbox, PlayStation Portable &nbsp;|&nbsp; **Released:** October 17
+**Platforms:** PlayStation 2, Xbox, PlayStation Portable &nbsp;|&nbsp; **Released:** October 17 (NA/EU/AU)
 
 [Wikipedia](https://en.wikipedia.org/wiki/Family_Guy_Video_Game!)
 
@@ -2858,15 +3018,9 @@
 
 ---
 
-### Open Season (AU)
+### Open Season
 
-**Platforms:** Windows, GameCube, PlayStation 2, Xbox, Xbox 360, Game Boy Advance, Nintendo DS, PlayStation Portable &nbsp;|&nbsp; **Released:** November 30
-
----
-
-### Open Season (EU)
-
-**Platforms:** Windows, GameCube, PlayStation 2, Xbox, Xbox 360, Game Boy Advance, Nintendo DS, PlayStation Portable, Wii &nbsp;|&nbsp; **Released:** October 6
+**Platforms:** Windows, GameCube, PlayStation 2, Xbox, Xbox 360, Game Boy Advance, Nintendo DS, PlayStation Portable, Wii &nbsp;|&nbsp; **Released:** October 6 (EU/AU)
 
 ---
 
@@ -3348,7 +3502,7 @@
 
 <img src="../images/steam-1262560.jpg" alt="Need for Speed: Most Wanted cover" width="200">
 
-**Platforms:** Windows, PlayStation 2, Xbox, GameCube, Game Boy Advance, Nintendo DS, PlayStation Portable, Xbox 360 &nbsp;|&nbsp; **Genre:** Action, Adventure, Racing &nbsp;|&nbsp; **Released:** November 16
+**Platforms:** Windows, PlayStation 2, Xbox, GameCube, Game Boy Advance, Nintendo DS, PlayStation Portable, Xbox 360 &nbsp;|&nbsp; **Genre:** Action, Adventure, Racing &nbsp;|&nbsp; **Released:** November 15
 
 > The open-world action in Need for Speed Most Wanted gives you the freedom to drive your way. Hit jumps and shortcuts, switch cars, lie low or head for terrain that plays to your vehicle’s unique strengths. Fight your way past cops and rivals using skill, high-end car tech and tons of nitrous.
 >

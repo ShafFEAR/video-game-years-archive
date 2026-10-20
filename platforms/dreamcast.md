@@ -2,7 +2,19 @@
 
 [← Back to index](../README.md)
 
-83 titles across 6 years in this archive.
+83 titles across 7 years in this archive.
+
+## 2014
+
+[Full 2014 page](../years/2014.md)
+
+### Redux: Dark Matters
+
+**Platforms:** Dreamcast &nbsp;|&nbsp; **Genre:** Shoot 'em up &nbsp;|&nbsp; **Released:** January 27
+
+[Wikipedia](https://en.wikipedia.org/wiki/DUX_(video_game)#Remake)
+
+---
 
 ## 2003
 
@@ -20,7 +32,7 @@
 
 ### Evil Twin: Cyprien's Chronicles
 
-**Platforms:** Dreamcast &nbsp;|&nbsp; **Released:** April 12
+**Platforms:** Dreamcast &nbsp;|&nbsp; **Released:** April 12 (PAL/EU)
 
 ---
 
@@ -348,15 +360,7 @@
 
 ### Phantasy Star Online
 
-**Platforms:** Dreamcast &nbsp;|&nbsp; **Publisher:** Sega &nbsp;|&nbsp; **Released:** December 21, 2000
-
-[Wikipedia](https://en.wikipedia.org/wiki/Phantasy_Star_Online)
-
----
-
-### Phantasy Star Online (Japan)
-
-**Platforms:** Dreamcast &nbsp;|&nbsp; **Released:** December 21
+**Platforms:** Dreamcast &nbsp;|&nbsp; **Publisher:** Sega &nbsp;|&nbsp; **Released:** December 21, 2000 (JP)
 
 [Wikipedia](https://en.wikipedia.org/wiki/Phantasy_Star_Online)
 

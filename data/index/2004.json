@@ -1,7 +1,7 @@
 [
   {
     "year": 2004,
-    "section": "Metacritic and GameRankings",
+    "section": "Critically acclaimed games",
     "title": "Half-Life 2",
     "wiki_title": "Half-Life 2",
     "wiki_url": "https://en.wikipedia.org/wiki/Half-Life_2",
@@ -19,7 +19,7 @@
   },
   {
     "year": 2004,
-    "section": "Metacritic and GameRankings",
+    "section": "Critically acclaimed games",
     "title": "Grand Theft Auto: San Andreas",
     "wiki_title": null,
     "wiki_url": null,
@@ -37,7 +37,7 @@
   },
   {
     "year": 2004,
-    "section": "Metacritic and GameRankings",
+    "section": "Critically acclaimed games",
     "title": "Halo 2",
     "wiki_title": "Halo 2",
     "wiki_url": "https://en.wikipedia.org/wiki/Halo_2",
@@ -55,7 +55,7 @@
   },
   {
     "year": 2004,
-    "section": "Metacritic and GameRankings",
+    "section": "Critically acclaimed games",
     "title": "Burnout 3: Takedown",
     "wiki_title": null,
     "wiki_url": null,
@@ -74,7 +74,7 @@
   },
   {
     "year": 2004,
-    "section": "Metacritic and GameRankings",
+    "section": "Critically acclaimed games",
     "title": "Unreal Tournament 2004",
     "wiki_title": "Unreal Tournament 2004",
     "wiki_url": "https://en.wikipedia.org/wiki/Unreal_Tournament_2004",
@@ -92,7 +92,7 @@
   },
   {
     "year": 2004,
-    "section": "Metacritic and GameRankings",
+    "section": "Critically acclaimed games",
     "title": "Tom Clancy's Splinter Cell: Pandora Tomorrow",
     "wiki_title": null,
     "wiki_url": null,
@@ -113,7 +113,7 @@
   },
   {
     "year": 2004,
-    "section": "Metacritic and GameRankings",
+    "section": "Critically acclaimed games",
     "title": "World of Warcraft",
     "wiki_title": "World of Warcraft",
     "wiki_url": "https://en.wikipedia.org/wiki/World_of_Warcraft",
@@ -131,7 +131,7 @@
   },
   {
     "year": 2004,
-    "section": "Metacritic and GameRankings",
+    "section": "Critically acclaimed games",
     "title": "Ninja Gaiden",
     "wiki_title": "Ninja Gaiden (2004 video game)",
     "wiki_url": "https://en.wikipedia.org/wiki/Ninja_Gaiden_(2004_video_game)",
@@ -149,7 +149,7 @@
   },
   {
     "year": 2004,
-    "section": "Metacritic and GameRankings",
+    "section": "Critically acclaimed games",
     "title": "Metroid Prime 2: Echoes",
     "wiki_title": null,
     "wiki_url": null,
@@ -167,7 +167,7 @@
   },
   {
     "year": 2004,
-    "section": "Metacritic and GameRankings",
+    "section": "Critically acclaimed games",
     "title": "Rome: Total War",
     "wiki_title": null,
     "wiki_url": null,
@@ -185,7 +185,7 @@
   },
   {
     "year": 2004,
-    "section": "Metacritic and GameRankings",
+    "section": "Critically acclaimed games",
     "title": "ESPN NFL 2K5",
     "wiki_title": "ESPN NFL 2K5",
     "wiki_url": "https://en.wikipedia.org/wiki/ESPN_NFL_2K5",
@@ -203,7 +203,7 @@
   },
   {
     "year": 2004,
-    "section": "Metacritic and GameRankings",
+    "section": "Critically acclaimed games",
     "title": "Metal Gear Solid 3: Snake Eater",
     "wiki_title": null,
     "wiki_url": null,
@@ -221,7 +221,7 @@
   },
   {
     "year": 2004,
-    "section": "Metacritic and GameRankings",
+    "section": "Critically acclaimed games",
     "title": "Ratchet & Clank: Up Your Arsenal",
     "wiki_title": null,
     "wiki_url": null,
@@ -239,15 +239,15 @@
   },
   {
     "year": 2004,
-    "section": "Metacritic and GameRankings",
+    "section": "Critically acclaimed games",
     "title": "Pro Evolution Soccer 4",
     "wiki_title": "Pro Evolution Soccer 4",
     "wiki_url": "https://en.wikipedia.org/wiki/Pro_Evolution_Soccer_4",
     "redlink": false,
     "publisher": "Konami",
     "release_date": "August 5, 2004",
-    "mc score": "91/100 [ 20 ]",
-    "gr score": "91.12% [ 21 ]",
+    "mc score": "91/100",
+    "gr score": "91.12%",
     "platform_breakdown": {
       "platform": "WIN"
     },
@@ -259,7 +259,7 @@
   },
   {
     "year": 2004,
-    "section": "Metacritic and GameRankings",
+    "section": "Critically acclaimed games",
     "title": "Madden NFL 2005",
     "wiki_title": "Madden NFL 2005",
     "wiki_url": "https://en.wikipedia.org/wiki/Madden_NFL_2005",
@@ -279,7 +279,7 @@
   },
   {
     "year": 2004,
-    "section": "Metacritic and GameRankings",
+    "section": "Critically acclaimed games",
     "title": "Tiger Woods PGA Tour 2005",
     "wiki_title": "Tiger Woods PGA Tour 2005",
     "wiki_url": "https://en.wikipedia.org/wiki/Tiger_Woods_PGA_Tour_2005",
@@ -300,7 +300,7 @@
   },
   {
     "year": 2004,
-    "section": "Metacritic and GameRankings",
+    "section": "Critically acclaimed games",
     "title": "The Chronicles of Riddick: Escape from Butcher Bay – Developer's Cut",
     "wiki_title": null,
     "wiki_url": null,
@@ -318,7 +318,7 @@
   },
   {
     "year": 2004,
-    "section": "Metacritic and GameRankings",
+    "section": "Critically acclaimed games",
     "title": "The Sims 2",
     "wiki_title": "The Sims 2",
     "wiki_url": "https://en.wikipedia.org/wiki/The_Sims_2",
@@ -336,25 +336,26 @@
   },
   {
     "year": 2004,
-    "section": "Metacritic and GameRankings",
+    "section": "Critically acclaimed games",
     "title": "The Legend of Zelda: The Minish Cap",
     "wiki_title": null,
     "wiki_url": null,
     "redlink": null,
     "publisher": "Nintendo",
     "release_date": "November 4, 2004",
-    "mc score": "89/100 [ 20 ]",
-    "gr score": "90.36% [ 21 ]",
+    "mc score": "89/100",
+    "gr score": "90.36%",
     "platform_breakdown": {
       "platform": "GBA"
     },
     "platforms": [
       "Game Boy Advance"
-    ]
+    ],
+    "region": "JP"
   },
   {
     "year": 2004,
-    "section": "Metacritic and GameRankings",
+    "section": "Critically acclaimed games",
     "title": "Metroid: Zero Mission",
     "wiki_title": null,
     "wiki_url": null,
@@ -372,15 +373,15 @@
   },
   {
     "year": 2004,
-    "section": "Metacritic and GameRankings",
+    "section": "Critically acclaimed games",
     "title": "Dragon Quest VIII",
     "wiki_title": "Dragon Quest VIII",
     "wiki_url": "https://en.wikipedia.org/wiki/Dragon_Quest_VIII",
     "redlink": false,
     "publisher": "Square Enix",
     "release_date": "November 27, 2004",
-    "mc score": "89/100 [ 20 ]",
-    "gr score": "90.05% [ 21 ]",
+    "mc score": "89/100",
+    "gr score": "90.05%",
     "platform_breakdown": {
       "platform": "PS2"
     },
@@ -390,7 +391,7 @@
   },
   {
     "year": 2004,
-    "section": "Metacritic and GameRankings",
+    "section": "Critically acclaimed games",
     "title": "Pikmin 2",
     "wiki_title": "Pikmin 2",
     "wiki_url": "https://en.wikipedia.org/wiki/Pikmin_2",
@@ -408,7 +409,7 @@
   },
   {
     "year": 2004,
-    "section": "Metacritic and GameRankings",
+    "section": "Critically acclaimed games",
     "title": "MVP Baseball 2004",
     "wiki_title": "MVP Baseball series",
     "wiki_url": "https://en.wikipedia.org/wiki/MVP_Baseball_series",
@@ -428,7 +429,7 @@
   },
   {
     "year": 2004,
-    "section": "Metacritic and GameRankings",
+    "section": "Critically acclaimed games",
     "title": "Viewtiful Joe",
     "wiki_title": "Viewtiful Joe (video game)",
     "wiki_url": "https://en.wikipedia.org/wiki/Viewtiful_Joe_(video_game)",
@@ -446,15 +447,15 @@
   },
   {
     "year": 2004,
-    "section": "Metacritic and GameRankings",
+    "section": "Critically acclaimed games",
     "title": "Lumines: Puzzle Fusion",
     "wiki_title": null,
     "wiki_url": null,
     "redlink": null,
     "publisher": "Bandai",
     "release_date": "December 12, 2004",
-    "mc score": "89/100 [ 20 ]",
-    "gr score": "89.93% [ 21 ]",
+    "mc score": "89/100",
+    "gr score": "89.93%",
     "platform_breakdown": {
       "platform": "PSP"
     },
@@ -464,7 +465,7 @@
   },
   {
     "year": 2004,
-    "section": "Metacritic and GameRankings",
+    "section": "Critically acclaimed games",
     "title": "Counter-Strike: Source",
     "wiki_title": null,
     "wiki_url": null,
@@ -482,7 +483,7 @@
   },
   {
     "year": 2004,
-    "section": "Metacritic and GameRankings",
+    "section": "Critically acclaimed games",
     "title": "EVE Online: Exodus",
     "wiki_title": "Expansions of Eve Online#Exodus",
     "wiki_url": "https://en.wikipedia.org/wiki/Expansions_of_Eve_Online#Exodus",
@@ -500,15 +501,15 @@
   },
   {
     "year": 2004,
-    "section": "Metacritic and GameRankings",
+    "section": "Critically acclaimed games",
     "title": "Gran Turismo 4",
     "wiki_title": "Gran Turismo 4",
     "wiki_url": "https://en.wikipedia.org/wiki/Gran_Turismo_4",
     "redlink": false,
     "publisher": "Sony Computer Entertainment",
     "release_date": "December 28, 2004",
-    "mc score": "89/100 [ 20 ]",
-    "gr score": "89.53% [ 21 ]",
+    "mc score": "89/100",
+    "gr score": "89.53%",
     "platform_breakdown": {
       "platform": "PS2"
     },
@@ -518,7 +519,7 @@
   },
   {
     "year": 2004,
-    "section": "Metacritic and GameRankings",
+    "section": "Critically acclaimed games",
     "title": "NCAA Football 2005",
     "wiki_title": "NCAA Football 2005",
     "wiki_url": "https://en.wikipedia.org/wiki/NCAA_Football_2005",
@@ -538,7 +539,7 @@
   },
   {
     "year": 2004,
-    "section": "Metacritic and GameRankings",
+    "section": "Critically acclaimed games",
     "title": "FirePower for Microsoft Combat Flight Simulator 3",
     "wiki_title": null,
     "wiki_url": null,
@@ -556,7 +557,7 @@
   },
   {
     "year": 2004,
-    "section": "Metacritic and GameRankings",
+    "section": "Critically acclaimed games",
     "title": "Far Cry",
     "wiki_title": "Far Cry (video game)",
     "wiki_url": "https://en.wikipedia.org/wiki/Far_Cry_(video_game)",
@@ -574,7 +575,7 @@
   },
   {
     "year": 2004,
-    "section": "Metacritic and GameRankings",
+    "section": "Critically acclaimed games",
     "title": "Nancy Drew: Curse of Blackmoor Manor",
     "wiki_title": null,
     "wiki_url": null,
@@ -592,7 +593,7 @@
   },
   {
     "year": 2004,
-    "section": "Metacritic and GameRankings",
+    "section": "Critically acclaimed games",
     "title": "Football Manager 2005",
     "wiki_title": "Football Manager 2005",
     "wiki_url": "https://en.wikipedia.org/wiki/Football_Manager_2005",
@@ -610,7 +611,7 @@
   },
   {
     "year": 2004,
-    "section": "Metacritic and GameRankings",
+    "section": "Critically acclaimed games",
     "title": "The Chronicles of Riddick: Escape from Butcher Bay",
     "wiki_title": null,
     "wiki_url": null,
@@ -629,15 +630,15 @@
   },
   {
     "year": 2004,
-    "section": "Metacritic and GameRankings",
+    "section": "Critically acclaimed games",
     "title": "Ridge Racer",
     "wiki_title": "Ridge Racer (2004 video game)",
     "wiki_url": "https://en.wikipedia.org/wiki/Ridge_Racer_(2004_video_game)",
     "redlink": false,
     "publisher": "Namco",
     "release_date": "December 12, 2004",
-    "mc score": "88/100 [ 20 ]",
-    "gr score": "88.62% [ 21 ]",
+    "mc score": "88/100",
+    "gr score": "88.62%",
     "platform_breakdown": {
       "platform": "PSP"
     },
@@ -647,7 +648,7 @@
   },
   {
     "year": 2004,
-    "section": "Metacritic and GameRankings",
+    "section": "Critically acclaimed games",
     "title": "RalliSport Challenge 2",
     "wiki_title": "RalliSport Challenge 2",
     "wiki_url": "https://en.wikipedia.org/wiki/RalliSport_Challenge_2",
@@ -665,7 +666,7 @@
   },
   {
     "year": 2004,
-    "section": "Metacritic and GameRankings",
+    "section": "Critically acclaimed games",
     "title": "Out of the Park Baseball 6",
     "wiki_title": "Out of the Park Baseball",
     "wiki_url": "https://en.wikipedia.org/wiki/Out_of_the_Park_Baseball",
@@ -683,7 +684,7 @@
   },
   {
     "year": 2004,
-    "section": "Metacritic and GameRankings",
+    "section": "Critically acclaimed games",
     "title": "Sid Meier's Pirates!",
     "wiki_title": "Sid Meier's Pirates! (2004 video game)",
     "wiki_url": "https://en.wikipedia.org/wiki/Sid_Meier%27s_Pirates!_(2004_video_game)",
@@ -701,7 +702,7 @@
   },
   {
     "year": 2004,
-    "section": "Metacritic and GameRankings",
+    "section": "Critically acclaimed games",
     "title": "Paper Mario: The Thousand-Year Door",
     "wiki_title": null,
     "wiki_url": null,
@@ -719,7 +720,7 @@
   },
   {
     "year": 2004,
-    "section": "Metacritic and GameRankings",
+    "section": "Critically acclaimed games",
     "title": "Sly 2: Band of Thieves",
     "wiki_title": null,
     "wiki_url": null,
@@ -737,7 +738,7 @@
   },
   {
     "year": 2004,
-    "section": "Metacritic and GameRankings",
+    "section": "Critically acclaimed games",
     "title": "Rise of Nations: Thrones and Patriots",
     "wiki_title": null,
     "wiki_url": null,
@@ -755,15 +756,15 @@
   },
   {
     "year": 2004,
-    "section": "Metacritic and GameRankings",
+    "section": "Critically acclaimed games",
     "title": "WarioWare: Twisted!",
     "wiki_title": null,
     "wiki_url": null,
     "redlink": null,
     "publisher": "Nintendo",
     "release_date": "October 14, 2004",
-    "mc score": "88/100 [ 20 ]",
-    "gr score": "87.79% [ 21 ]",
+    "mc score": "88/100",
+    "gr score": "87.79%",
     "platform_breakdown": {
       "platform": "GBA"
     },
@@ -773,7 +774,7 @@
   },
   {
     "year": 2004,
-    "section": "Metacritic and GameRankings",
+    "section": "Critically acclaimed games",
     "title": "ESPN NHL 2K5",
     "wiki_title": "ESPN NHL 2K5",
     "wiki_url": "https://en.wikipedia.org/wiki/ESPN_NHL_2K5",
@@ -791,7 +792,7 @@
   },
   {
     "year": 2004,
-    "section": "Metacritic and GameRankings",
+    "section": "Critically acclaimed games",
     "title": "Wings of Power: WWII Heavy Bombers and Jets",
     "wiki_title": null,
     "wiki_url": null,
@@ -809,7 +810,7 @@
   },
   {
     "year": 2004,
-    "section": "Metacritic and GameRankings",
+    "section": "Critically acclaimed games",
     "title": "NASCAR 2005: Chase for the Cup",
     "wiki_title": null,
     "wiki_url": null,
@@ -937,10 +938,11 @@
   {
     "year": 2004,
     "section": "Games released in 2004",
-    "title": "Pokémon FireRed and LeafGreen (JP)",
+    "title": "Pokémon FireRed and LeafGreen",
     "wiki_title": "Pokémon FireRed and LeafGreen",
     "wiki_url": "https://en.wikipedia.org/wiki/Pok%C3%A9mon_FireRed_and_LeafGreen",
     "redlink": false,
+    "region": "JP/NA",
     "release_date": "January 29",
     "platform_breakdown": {
       "platform": "GBA"
@@ -1088,10 +1090,11 @@
   {
     "year": 2004,
     "section": "Games released in 2004",
-    "title": "Bomberman (JP) [ a ]",
+    "title": "Bomberman",
     "wiki_title": "Bomberman (1983 video game)",
     "wiki_url": "https://en.wikipedia.org/wiki/Bomberman_(1983_video_game)",
     "redlink": false,
+    "region": "JP/NA/PAL",
     "release_date": "February 14",
     "platform_breakdown": {
       "platform": "GBA"
@@ -1103,10 +1106,11 @@
   {
     "year": 2004,
     "section": "Games released in 2004",
-    "title": "Donkey Kong (JP) [ a ]",
+    "title": "Donkey Kong",
     "wiki_title": "Donkey Kong (arcade game)",
     "wiki_url": "https://en.wikipedia.org/wiki/Donkey_Kong_(arcade_game)",
     "redlink": false,
+    "region": "JP/NA/PAL",
     "release_date": "February 14",
     "platform_breakdown": {
       "platform": "GBA"
@@ -1118,10 +1122,11 @@
   {
     "year": 2004,
     "section": "Games released in 2004",
-    "title": "Excitebike (JP) [ a ]",
+    "title": "Excitebike",
     "wiki_title": "Excitebike",
     "wiki_url": "https://en.wikipedia.org/wiki/Excitebike",
     "redlink": false,
+    "region": "JP/NA/PAL",
     "release_date": "February 14",
     "platform_breakdown": {
       "platform": "GBA"
@@ -1133,10 +1138,11 @@
   {
     "year": 2004,
     "section": "Games released in 2004",
-    "title": "Ice Climber (JP) [ a ]",
+    "title": "Ice Climber",
     "wiki_title": "Ice Climber (video game)",
     "wiki_url": "https://en.wikipedia.org/wiki/Ice_Climber_(video_game)",
     "redlink": false,
+    "region": "JP/NA/PAL",
     "release_date": "February 14",
     "platform_breakdown": {
       "platform": "GBA"
@@ -1148,10 +1154,11 @@
   {
     "year": 2004,
     "section": "Games released in 2004",
-    "title": "The Legend of Zelda (JP) [ a ]",
+    "title": "The Legend of Zelda",
     "wiki_title": "The Legend of Zelda (video game)",
     "wiki_url": "https://en.wikipedia.org/wiki/The_Legend_of_Zelda_(video_game)",
     "redlink": false,
+    "region": "JP/NA/PAL",
     "release_date": "February 14",
     "platform_breakdown": {
       "platform": "GBA"
@@ -1163,10 +1170,11 @@
   {
     "year": 2004,
     "section": "Games released in 2004",
-    "title": "Mappy (JP) [ a ]",
+    "title": "Mappy",
     "wiki_title": "Mappy",
     "wiki_url": "https://en.wikipedia.org/wiki/Mappy",
     "redlink": false,
+    "region": "JP",
     "release_date": "February 14",
     "platform_breakdown": {
       "platform": "GBA"
@@ -1178,10 +1186,11 @@
   {
     "year": 2004,
     "section": "Games released in 2004",
-    "title": "Pac-Man (JP) [ a ]",
+    "title": "Pac-Man",
     "wiki_title": "Pac-Man",
     "wiki_url": "https://en.wikipedia.org/wiki/Pac-Man",
     "redlink": false,
+    "region": "JP/NA/PAL",
     "release_date": "February 14",
     "platform_breakdown": {
       "platform": "GBA"
@@ -1193,10 +1202,11 @@
   {
     "year": 2004,
     "section": "Games released in 2004",
-    "title": "Star Soldier (JP) [ a ]",
+    "title": "Star Soldier",
     "wiki_title": "Star Soldier (video game)",
     "wiki_url": "https://en.wikipedia.org/wiki/Star_Soldier_(video_game)",
     "redlink": false,
+    "region": "JP",
     "release_date": "February 14",
     "platform_breakdown": {
       "platform": "GBA"
@@ -1208,10 +1218,11 @@
   {
     "year": 2004,
     "section": "Games released in 2004",
-    "title": "Super Mario Bros. (JP) [ a ]",
+    "title": "Super Mario Bros.",
     "wiki_title": "Super Mario Bros.",
     "wiki_url": "https://en.wikipedia.org/wiki/Super_Mario_Bros.",
     "redlink": false,
+    "region": "JP/NA/PAL",
     "release_date": "February 14",
     "platform_breakdown": {
       "platform": "GBA"
@@ -1223,10 +1234,11 @@
   {
     "year": 2004,
     "section": "Games released in 2004",
-    "title": "Xevious (JP) [ a ]",
+    "title": "Xevious",
     "wiki_title": "Xevious",
     "wiki_url": "https://en.wikipedia.org/wiki/Xevious",
     "redlink": false,
+    "region": "JP/NA/PAL",
     "release_date": "February 14",
     "platform_breakdown": {
       "platform": "GBA"
@@ -1549,10 +1561,11 @@
   {
     "year": 2004,
     "section": "Games released in 2004",
-    "title": "Mobile Suit Z Gundam: Hot Scramble (JP) [ a ]",
+    "title": "Mobile Suit Z Gundam: Hot Scramble",
     "wiki_title": null,
     "wiki_url": null,
     "redlink": null,
+    "region": "JP",
     "release_date": "March 18",
     "platform_breakdown": {
       "platform": "GBA"
@@ -1564,10 +1577,11 @@
   {
     "year": 2004,
     "section": "Games released in 2004",
-    "title": "Sacred (EU)",
+    "title": "Sacred",
     "wiki_title": "Sacred (video game)",
     "wiki_url": "https://en.wikipedia.org/wiki/Sacred_(video_game)",
     "redlink": false,
+    "region": "EU/NA",
     "release_date": "March 19",
     "platform_breakdown": {
       "platform": "WIN"
@@ -1669,21 +1683,6 @@
     "platforms": [
       "GameCube",
       "PlayStation 2"
-    ]
-  },
-  {
-    "year": 2004,
-    "section": "Games released in 2004",
-    "title": "Sacred (NA)",
-    "wiki_title": "Sacred (video game)",
-    "wiki_url": "https://en.wikipedia.org/wiki/Sacred_(video_game)",
-    "redlink": false,
-    "release_date": "March 25",
-    "platform_breakdown": {
-      "platform": "WIN"
-    },
-    "platforms": [
-      "Windows"
     ]
   },
   {
@@ -1926,10 +1925,11 @@
   {
     "year": 2004,
     "section": "Games released in 2004",
-    "title": "Adventure Island (JP) [ a ]",
+    "title": "Adventure Island",
     "wiki_title": "Adventure Island (video game)",
     "wiki_url": "https://en.wikipedia.org/wiki/Adventure_Island_(video_game)",
     "redlink": false,
+    "region": "JP",
     "release_date": "May 21",
     "platform_breakdown": {
       "platform": "GBA"
@@ -1941,10 +1941,11 @@
   {
     "year": 2004,
     "section": "Games released in 2004",
-    "title": "Balloon Fight (JP) [ a ]",
+    "title": "Balloon Fight",
     "wiki_title": "Balloon Fight",
     "wiki_url": "https://en.wikipedia.org/wiki/Balloon_Fight",
     "redlink": false,
+    "region": "JP",
     "release_date": "May 21",
     "platform_breakdown": {
       "platform": "GBA"
@@ -1956,10 +1957,11 @@
   {
     "year": 2004,
     "section": "Games released in 2004",
-    "title": "Clu Clu Land (JP) [ a ]",
+    "title": "Clu Clu Land",
     "wiki_title": "Clu Clu Land",
     "wiki_url": "https://en.wikipedia.org/wiki/Clu_Clu_Land",
     "redlink": false,
+    "region": "JP",
     "release_date": "May 21",
     "platform_breakdown": {
       "platform": "GBA"
@@ -1971,10 +1973,11 @@
   {
     "year": 2004,
     "section": "Games released in 2004",
-    "title": "Dig Dug (JP) [ a ]",
+    "title": "Dig Dug",
     "wiki_title": "Dig Dug",
     "wiki_url": "https://en.wikipedia.org/wiki/Dig_Dug",
     "redlink": false,
+    "region": "JP",
     "release_date": "May 21",
     "platform_breakdown": {
       "platform": "GBA"
@@ -1986,10 +1989,11 @@
   {
     "year": 2004,
     "section": "Games released in 2004",
-    "title": "Dr. Mario (JP) [ a ]",
+    "title": "Dr. Mario",
     "wiki_title": "Dr. Mario",
     "wiki_url": "https://en.wikipedia.org/wiki/Dr._Mario",
     "redlink": false,
+    "region": "JP/NA",
     "release_date": "May 21",
     "platform_breakdown": {
       "platform": "GBA"
@@ -2001,10 +2005,11 @@
   {
     "year": 2004,
     "section": "Games released in 2004",
-    "title": "Ganbare Goemon! Karakuri Dōchū (JP) [ a ]",
+    "title": "Ganbare Goemon! Karakuri Dōchū",
     "wiki_title": "Ganbare Goemon! Karakuri Dōchū",
     "wiki_url": "https://en.wikipedia.org/wiki/Ganbare_Goemon!_Karakuri_D%C5%8Dch%C5%AB",
     "redlink": false,
+    "region": "JP",
     "release_date": "May 21",
     "platform_breakdown": {
       "platform": "GBA"
@@ -2016,10 +2021,11 @@
   {
     "year": 2004,
     "section": "Games released in 2004",
-    "title": "Ghosts 'n Goblins (JP) [ a ]",
+    "title": "Ghosts 'n Goblins",
     "wiki_title": "Ghosts 'n Goblins (video game)",
     "wiki_url": "https://en.wikipedia.org/wiki/Ghosts_%27n_Goblins_(video_game)",
     "redlink": false,
+    "region": "JP",
     "release_date": "May 21",
     "platform_breakdown": {
       "platform": "GBA"
@@ -2031,10 +2037,11 @@
   {
     "year": 2004,
     "section": "Games released in 2004",
-    "title": "Mario Bros. (JP) [ a ]",
+    "title": "Mario Bros.",
     "wiki_title": "Mario Bros.",
     "wiki_url": "https://en.wikipedia.org/wiki/Mario_Bros.",
     "redlink": false,
+    "region": "JP",
     "release_date": "May 21",
     "platform_breakdown": {
       "platform": "GBA"
@@ -2046,10 +2053,11 @@
   {
     "year": 2004,
     "section": "Games released in 2004",
-    "title": "TwinBee (JP) [ a ]",
+    "title": "TwinBee",
     "wiki_title": "TwinBee",
     "wiki_url": "https://en.wikipedia.org/wiki/TwinBee",
     "redlink": false,
+    "region": "JP",
     "release_date": "May 21",
     "platform_breakdown": {
       "platform": "GBA"
@@ -2076,10 +2084,11 @@
   {
     "year": 2004,
     "section": "Games released in 2004",
-    "title": "Wrecking Crew (JP) [ a ]",
+    "title": "Wrecking Crew",
     "wiki_title": "Wrecking Crew (video game)",
     "wiki_url": "https://en.wikipedia.org/wiki/Wrecking_Crew_(video_game)",
     "redlink": false,
+    "region": "JP",
     "release_date": "May 21",
     "platform_breakdown": {
       "platform": "GBA"
@@ -2171,81 +2180,6 @@
   {
     "year": 2004,
     "section": "Games released in 2004",
-    "title": "Bomberman (NA) [ a ]",
-    "wiki_title": "Bomberman (1983 video game)",
-    "wiki_url": "https://en.wikipedia.org/wiki/Bomberman_(1983_video_game)",
-    "redlink": false,
-    "release_date": "June 7",
-    "platform_breakdown": {
-      "platform": "GBA"
-    },
-    "platforms": [
-      "Game Boy Advance"
-    ]
-  },
-  {
-    "year": 2004,
-    "section": "Games released in 2004",
-    "title": "Donkey Kong (NA) [ a ]",
-    "wiki_title": "Donkey Kong (arcade game)",
-    "wiki_url": "https://en.wikipedia.org/wiki/Donkey_Kong_(arcade_game)",
-    "redlink": false,
-    "release_date": "June 7",
-    "platform_breakdown": {
-      "platform": "GBA"
-    },
-    "platforms": [
-      "Game Boy Advance"
-    ]
-  },
-  {
-    "year": 2004,
-    "section": "Games released in 2004",
-    "title": "Excitebike (NA) [ a ]",
-    "wiki_title": "Excitebike",
-    "wiki_url": "https://en.wikipedia.org/wiki/Excitebike",
-    "redlink": false,
-    "release_date": "June 7",
-    "platform_breakdown": {
-      "platform": "GBA"
-    },
-    "platforms": [
-      "Game Boy Advance"
-    ]
-  },
-  {
-    "year": 2004,
-    "section": "Games released in 2004",
-    "title": "Ice Climber (NA) [ a ]",
-    "wiki_title": "Ice Climber (video game)",
-    "wiki_url": "https://en.wikipedia.org/wiki/Ice_Climber_(video_game)",
-    "redlink": false,
-    "release_date": "June 7",
-    "platform_breakdown": {
-      "platform": "GBA"
-    },
-    "platforms": [
-      "Game Boy Advance"
-    ]
-  },
-  {
-    "year": 2004,
-    "section": "Games released in 2004",
-    "title": "The Legend of Zelda (NA) [ a ]",
-    "wiki_title": "The Legend of Zelda (video game)",
-    "wiki_url": "https://en.wikipedia.org/wiki/The_Legend_of_Zelda_(video_game)",
-    "redlink": false,
-    "release_date": "June 7",
-    "platform_breakdown": {
-      "platform": "GBA"
-    },
-    "platforms": [
-      "Game Boy Advance"
-    ]
-  },
-  {
-    "year": 2004,
-    "section": "Games released in 2004",
     "title": "The Legend of Zelda: Four Swords Adventures",
     "wiki_title": null,
     "wiki_url": null,
@@ -2261,54 +2195,9 @@
   {
     "year": 2004,
     "section": "Games released in 2004",
-    "title": "Pac-Man (NA) [ a ]",
-    "wiki_title": "Pac-Man",
-    "wiki_url": "https://en.wikipedia.org/wiki/Pac-Man",
-    "redlink": false,
-    "release_date": "June 7",
-    "platform_breakdown": {
-      "platform": "GBA"
-    },
-    "platforms": [
-      "Game Boy Advance"
-    ]
-  },
-  {
-    "year": 2004,
-    "section": "Games released in 2004",
     "title": "Sonic Advance 3",
     "wiki_title": "Sonic Advance 3",
     "wiki_url": "https://en.wikipedia.org/wiki/Sonic_Advance_3",
-    "redlink": false,
-    "release_date": "June 7",
-    "platform_breakdown": {
-      "platform": "GBA"
-    },
-    "platforms": [
-      "Game Boy Advance"
-    ]
-  },
-  {
-    "year": 2004,
-    "section": "Games released in 2004",
-    "title": "Super Mario Bros. (NA) [ a ]",
-    "wiki_title": "Super Mario Bros.",
-    "wiki_url": "https://en.wikipedia.org/wiki/Super_Mario_Bros.",
-    "redlink": false,
-    "release_date": "June 7",
-    "platform_breakdown": {
-      "platform": "GBA"
-    },
-    "platforms": [
-      "Game Boy Advance"
-    ]
-  },
-  {
-    "year": 2004,
-    "section": "Games released in 2004",
-    "title": "Xevious (NA) [ a ]",
-    "wiki_title": "Xevious",
-    "wiki_url": "https://en.wikipedia.org/wiki/Xevious",
     "redlink": false,
     "release_date": "June 7",
     "platform_breakdown": {
@@ -2507,96 +2396,6 @@
   {
     "year": 2004,
     "section": "Games released in 2004",
-    "title": "Bomberman (PAL) [ a ]",
-    "wiki_title": "Bomberman (1983 video game)",
-    "wiki_url": "https://en.wikipedia.org/wiki/Bomberman_(1983_video_game)",
-    "redlink": false,
-    "release_date": "July 9",
-    "platform_breakdown": {
-      "platform": "GBA"
-    },
-    "platforms": [
-      "Game Boy Advance"
-    ]
-  },
-  {
-    "year": 2004,
-    "section": "Games released in 2004",
-    "title": "Donkey Kong (PAL) [ a ]",
-    "wiki_title": "Donkey Kong (arcade game)",
-    "wiki_url": "https://en.wikipedia.org/wiki/Donkey_Kong_(arcade_game)",
-    "redlink": false,
-    "release_date": "July 9",
-    "platform_breakdown": {
-      "platform": "GBA"
-    },
-    "platforms": [
-      "Game Boy Advance"
-    ]
-  },
-  {
-    "year": 2004,
-    "section": "Games released in 2004",
-    "title": "Excitebike (PAL) [ a ]",
-    "wiki_title": "Excitebike",
-    "wiki_url": "https://en.wikipedia.org/wiki/Excitebike",
-    "redlink": false,
-    "release_date": "July 9",
-    "platform_breakdown": {
-      "platform": "GBA"
-    },
-    "platforms": [
-      "Game Boy Advance"
-    ]
-  },
-  {
-    "year": 2004,
-    "section": "Games released in 2004",
-    "title": "Ice Climber (PAL) [ a ]",
-    "wiki_title": "Ice Climber (video game)",
-    "wiki_url": "https://en.wikipedia.org/wiki/Ice_Climber_(video_game)",
-    "redlink": false,
-    "release_date": "July 9",
-    "platform_breakdown": {
-      "platform": "GBA"
-    },
-    "platforms": [
-      "Game Boy Advance"
-    ]
-  },
-  {
-    "year": 2004,
-    "section": "Games released in 2004",
-    "title": "The Legend of Zelda (PAL) [ a ]",
-    "wiki_title": "The Legend of Zelda (video game)",
-    "wiki_url": "https://en.wikipedia.org/wiki/The_Legend_of_Zelda_(video_game)",
-    "redlink": false,
-    "release_date": "July 9",
-    "platform_breakdown": {
-      "platform": "GBA"
-    },
-    "platforms": [
-      "Game Boy Advance"
-    ]
-  },
-  {
-    "year": 2004,
-    "section": "Games released in 2004",
-    "title": "Pac-Man (PAL) [ a ]",
-    "wiki_title": "Pac-Man",
-    "wiki_url": "https://en.wikipedia.org/wiki/Pac-Man",
-    "redlink": false,
-    "release_date": "July 9",
-    "platform_breakdown": {
-      "platform": "GBA"
-    },
-    "platforms": [
-      "Game Boy Advance"
-    ]
-  },
-  {
-    "year": 2004,
-    "section": "Games released in 2004",
     "title": "Richard Burns Rally",
     "wiki_title": "Richard Burns Rally",
     "wiki_url": "https://en.wikipedia.org/wiki/Richard_Burns_Rally",
@@ -2614,46 +2413,18 @@
   {
     "year": 2004,
     "section": "Games released in 2004",
-    "title": "Spider-Man 2 (EU)",
+    "title": "Spider-Man 2",
     "wiki_title": "Spider-Man 2 (2004 video game)",
     "wiki_url": "https://en.wikipedia.org/wiki/Spider-Man_2_(2004_video_game)",
     "redlink": false,
+    "region": "EU",
     "release_date": "July 9",
     "platform_breakdown": {
-      "platform": "WIN"
+      "platform": "DS"
     },
     "platforms": [
-      "Windows"
-    ]
-  },
-  {
-    "year": 2004,
-    "section": "Games released in 2004",
-    "title": "Super Mario Bros. (PAL) [ a ]",
-    "wiki_title": "Super Mario Bros.",
-    "wiki_url": "https://en.wikipedia.org/wiki/Super_Mario_Bros.",
-    "redlink": false,
-    "release_date": "July 9",
-    "platform_breakdown": {
-      "platform": "GBA"
-    },
-    "platforms": [
-      "Game Boy Advance"
-    ]
-  },
-  {
-    "year": 2004,
-    "section": "Games released in 2004",
-    "title": "Xevious (PAL) [ a ]",
-    "wiki_title": "Xevious",
-    "wiki_url": "https://en.wikipedia.org/wiki/Xevious",
-    "redlink": false,
-    "release_date": "July 9",
-    "platform_breakdown": {
-      "platform": "GBA"
-    },
-    "platforms": [
-      "Game Boy Advance"
+      "Windows",
+      "Nintendo DS"
     ]
   },
   {
@@ -2844,10 +2615,11 @@
   {
     "year": 2004,
     "section": "Games released in 2004",
-    "title": "Castlevania (JP) [ a ]",
+    "title": "Castlevania",
     "wiki_title": "Castlevania (1986 video game)",
     "wiki_url": "https://en.wikipedia.org/wiki/Castlevania_(1986_video_game)",
     "redlink": false,
+    "region": "JP/NA",
     "release_date": "August 10",
     "platform_breakdown": {
       "platform": "GBA"
@@ -2859,10 +2631,11 @@
   {
     "year": 2004,
     "section": "Games released in 2004",
-    "title": "Famicom Detective Club: The Girl Who Stands Behind (JP) [ a ]",
+    "title": "Famicom Detective Club: The Girl Who Stands Behind",
     "wiki_title": "Famicom Detective Club",
     "wiki_url": "https://en.wikipedia.org/wiki/Famicom_Detective_Club",
     "redlink": false,
+    "region": "JP",
     "release_date": "August 10",
     "platform_breakdown": {
       "platform": "GBA"
@@ -2874,10 +2647,11 @@
   {
     "year": 2004,
     "section": "Games released in 2004",
-    "title": "Famicom Detective Club: The Missing Heir (JP) [ a ]",
+    "title": "Famicom Detective Club: The Missing Heir",
     "wiki_title": "Famicom Detective Club",
     "wiki_url": "https://en.wikipedia.org/wiki/Famicom_Detective_Club",
     "redlink": false,
+    "region": "JP",
     "release_date": "August 10",
     "platform_breakdown": {
       "platform": "GBA"
@@ -2889,10 +2663,11 @@
   {
     "year": 2004,
     "section": "Games released in 2004",
-    "title": "Kid Icarus (JP) [ a ]",
+    "title": "Kid Icarus",
     "wiki_title": "Kid Icarus",
     "wiki_url": "https://en.wikipedia.org/wiki/Kid_Icarus",
     "redlink": false,
+    "region": "JP",
     "release_date": "August 10",
     "platform_breakdown": {
       "platform": "GBA"
@@ -2904,10 +2679,11 @@
   {
     "year": 2004,
     "section": "Games released in 2004",
-    "title": "Metroid (JP) [ a ]",
+    "title": "Metroid",
     "wiki_title": "Metroid (video game)",
     "wiki_url": "https://en.wikipedia.org/wiki/Metroid_(video_game)",
     "redlink": false,
+    "region": "JP/NA",
     "release_date": "August 10",
     "platform_breakdown": {
       "platform": "GBA"
@@ -2919,10 +2695,11 @@
   {
     "year": 2004,
     "section": "Games released in 2004",
-    "title": "The Mysterious Murasame Castle (JP) [ a ]",
+    "title": "The Mysterious Murasame Castle",
     "wiki_title": "The Mysterious Murasame Castle",
     "wiki_url": "https://en.wikipedia.org/wiki/The_Mysterious_Murasame_Castle",
     "redlink": false,
+    "region": "JP",
     "release_date": "August 10",
     "platform_breakdown": {
       "platform": "GBA"
@@ -2934,10 +2711,11 @@
   {
     "year": 2004,
     "section": "Games released in 2004",
-    "title": "SD Gundam World: Gachapon Senshi - Scramble Wars (JP) [ a ]",
+    "title": "SD Gundam World: Gachapon Senshi - Scramble Wars",
     "wiki_title": "SD Gundam World Gachapon Senshi",
     "wiki_url": "https://en.wikipedia.org/wiki/SD_Gundam_World_Gachapon_Senshi",
     "redlink": false,
+    "region": "JP",
     "release_date": "August 10",
     "platform_breakdown": {
       "platform": "GBA"
@@ -2949,10 +2727,11 @@
   {
     "year": 2004,
     "section": "Games released in 2004",
-    "title": "Shin Onigashima (JP) [ a ]",
+    "title": "Shin Onigashima",
     "wiki_title": "Shin Onigashima",
     "wiki_url": "https://en.wikipedia.org/wiki/Shin_Onigashima",
     "redlink": false,
+    "region": "JP",
     "release_date": "August 10",
     "platform_breakdown": {
       "platform": "GBA"
@@ -2964,10 +2743,11 @@
   {
     "year": 2004,
     "section": "Games released in 2004",
-    "title": "Super Mario Bros.: The Lost Levels (JP) [ a ]",
+    "title": "Super Mario Bros.: The Lost Levels",
     "wiki_title": null,
     "wiki_url": null,
     "redlink": null,
+    "region": "JP",
     "release_date": "August 10",
     "platform_breakdown": {
       "platform": "GBA"
@@ -2979,10 +2759,11 @@
   {
     "year": 2004,
     "section": "Games released in 2004",
-    "title": "Zelda II: The Adventure of Link (JP) [ a ]",
+    "title": "Zelda II: The Adventure of Link",
     "wiki_title": null,
     "wiki_url": null,
     "redlink": null,
+    "region": "JP/NA",
     "release_date": "August 10",
     "platform_breakdown": {
       "platform": "GBA"
@@ -3052,10 +2833,11 @@
   {
     "year": 2004,
     "section": "Games released in 2004",
-    "title": "Headhunter Redemption (EU)",
+    "title": "Headhunter Redemption",
     "wiki_title": "Headhunter Redemption",
     "wiki_url": "https://en.wikipedia.org/wiki/Headhunter_Redemption",
     "redlink": false,
+    "region": "EU/NA",
     "release_date": "August 27",
     "platform_breakdown": {
       "platform": "PS2, XB"
@@ -3210,21 +2992,6 @@
     },
     "platforms": [
       "PlayStation 2"
-    ]
-  },
-  {
-    "year": 2004,
-    "section": "Games released in 2004",
-    "title": "Pokémon FireRed and LeafGreen (NA)",
-    "wiki_title": "Pokémon FireRed and LeafGreen",
-    "wiki_url": "https://en.wikipedia.org/wiki/Pok%C3%A9mon_FireRed_and_LeafGreen",
-    "redlink": false,
-    "release_date": "September 9",
-    "platform_breakdown": {
-      "platform": "GBA"
-    },
-    "platforms": [
-      "Game Boy Advance"
     ]
   },
   {
@@ -3387,10 +3154,11 @@
   {
     "year": 2004,
     "section": "Games released in 2004",
-    "title": "Pokémon Emerald (JP)",
+    "title": "Pokémon Emerald",
     "wiki_title": "Pokémon Emerald",
     "wiki_url": "https://en.wikipedia.org/wiki/Pok%C3%A9mon_Emerald",
     "redlink": false,
+    "region": "JP",
     "release_date": "September 16",
     "platform_breakdown": {
       "platform": "GBA"
@@ -3505,22 +3273,6 @@
     "platforms": [
       "Windows",
       "PlayStation 2"
-    ]
-  },
-  {
-    "year": 2004,
-    "section": "Games released in 2004",
-    "title": "Headhunter Redemption (NA)",
-    "wiki_title": "Headhunter Redemption",
-    "wiki_url": "https://en.wikipedia.org/wiki/Headhunter_Redemption",
-    "redlink": false,
-    "release_date": "September 21",
-    "platform_breakdown": {
-      "platform": "PS2, XB"
-    },
-    "platforms": [
-      "PlayStation 2",
-      "Xbox"
     ]
   },
   {
@@ -4040,10 +3792,11 @@
   {
     "year": 2004,
     "section": "Games released in 2004",
-    "title": "Sacred Plus (EU)",
+    "title": "Sacred Plus",
     "wiki_title": "Sacred (video game)",
     "wiki_url": "https://en.wikipedia.org/wiki/Sacred_(video_game)",
     "redlink": false,
+    "region": "EU",
     "release_date": "October 22",
     "platform_breakdown": {
       "platform": "WIN"
@@ -4070,51 +3823,6 @@
   {
     "year": 2004,
     "section": "Games released in 2004",
-    "title": "Castlevania (NA) [ a ]",
-    "wiki_title": "Castlevania (1986 video game)",
-    "wiki_url": "https://en.wikipedia.org/wiki/Castlevania_(1986_video_game)",
-    "redlink": false,
-    "release_date": "October 25",
-    "platform_breakdown": {
-      "platform": "GBA"
-    },
-    "platforms": [
-      "Game Boy Advance"
-    ]
-  },
-  {
-    "year": 2004,
-    "section": "Games released in 2004",
-    "title": "Dr. Mario (NA) [ a ]",
-    "wiki_title": "Dr. Mario",
-    "wiki_url": "https://en.wikipedia.org/wiki/Dr._Mario",
-    "redlink": false,
-    "release_date": "October 25",
-    "platform_breakdown": {
-      "platform": "GBA"
-    },
-    "platforms": [
-      "Game Boy Advance"
-    ]
-  },
-  {
-    "year": 2004,
-    "section": "Games released in 2004",
-    "title": "Metroid (NA) [ a ]",
-    "wiki_title": "Metroid (video game)",
-    "wiki_url": "https://en.wikipedia.org/wiki/Metroid_(video_game)",
-    "redlink": false,
-    "release_date": "October 25",
-    "platform_breakdown": {
-      "platform": "GBA"
-    },
-    "platforms": [
-      "Game Boy Advance"
-    ]
-  },
-  {
-    "year": 2004,
-    "section": "Games released in 2004",
     "title": "OutRun 2",
     "wiki_title": "OutRun 2",
     "wiki_url": "https://en.wikipedia.org/wiki/OutRun_2",
@@ -4125,21 +3833,6 @@
     },
     "platforms": [
       "Xbox"
-    ]
-  },
-  {
-    "year": 2004,
-    "section": "Games released in 2004",
-    "title": "Zelda II: The Adventure of Link (NA) [ a ]",
-    "wiki_title": null,
-    "wiki_url": null,
-    "redlink": null,
-    "release_date": "October 25",
-    "platform_breakdown": {
-      "platform": "GBA"
-    },
-    "platforms": [
-      "Game Boy Advance"
     ]
   },
   {
@@ -4255,10 +3948,11 @@
   {
     "year": 2004,
     "section": "Games released in 2004",
-    "title": "Mario Power Tennis (JP)",
+    "title": "Mario Power Tennis",
     "wiki_title": "Mario Power Tennis",
     "wiki_url": "https://en.wikipedia.org/wiki/Mario_Power_Tennis",
     "redlink": false,
+    "region": "JP/NA",
     "release_date": "October 28",
     "platform_breakdown": {
       "platform": "GCN"
@@ -4411,21 +4105,6 @@
   {
     "year": 2004,
     "section": "Games released in 2004",
-    "title": "The Legend of Zelda: The Minish Cap (JP)",
-    "wiki_title": null,
-    "wiki_url": null,
-    "redlink": null,
-    "release_date": "November 4",
-    "platform_breakdown": {
-      "platform": "GBA"
-    },
-    "platforms": [
-      "Game Boy Advance"
-    ]
-  },
-  {
-    "year": 2004,
-    "section": "Games released in 2004",
     "title": "Bejeweled 2",
     "wiki_title": "Bejeweled 2",
     "wiki_url": "https://en.wikipedia.org/wiki/Bejeweled_2",
@@ -4441,10 +4120,11 @@
   {
     "year": 2004,
     "section": "Games released in 2004",
-    "title": "FlatOut (EU)",
+    "title": "FlatOut",
     "wiki_title": "FlatOut (video game)",
     "wiki_url": "https://en.wikipedia.org/wiki/FlatOut_(video_game)",
     "redlink": false,
+    "region": "EU",
     "release_date": "November 5",
     "platform_breakdown": {
       "platform": "WIN, XB"
@@ -4467,21 +4147,6 @@
     },
     "platforms": [
       "Windows"
-    ]
-  },
-  {
-    "year": 2004,
-    "section": "Games released in 2004",
-    "title": "Mario Power Tennis (NA)",
-    "wiki_title": "Mario Power Tennis",
-    "wiki_url": "https://en.wikipedia.org/wiki/Mario_Power_Tennis",
-    "redlink": false,
-    "release_date": "November 8",
-    "platform_breakdown": {
-      "platform": "GCN"
-    },
-    "platforms": [
-      "GameCube"
     ]
   },
   {
@@ -4849,21 +4514,6 @@
     "wiki_title": null,
     "wiki_url": null,
     "redlink": null,
-    "release_date": "November 21",
-    "platform_breakdown": {
-      "platform": "DS"
-    },
-    "platforms": [
-      "Nintendo DS"
-    ]
-  },
-  {
-    "year": 2004,
-    "section": "Games released in 2004",
-    "title": "Spider-Man 2",
-    "wiki_title": "Spider-Man 2 (2004 video game)",
-    "wiki_url": "https://en.wikipedia.org/wiki/Spider-Man_2_(2004_video_game)",
-    "redlink": false,
     "release_date": "November 21",
     "platform_breakdown": {
       "platform": "DS"
@@ -5272,10 +4922,11 @@
   {
     "year": 2004,
     "section": "Games released in 2004",
-    "title": "2nd Super Robot Wars (JP) [ a ]",
+    "title": "2nd Super Robot Wars",
     "wiki_title": "2nd Super Robot Wars",
     "wiki_url": "https://en.wikipedia.org/wiki/2nd_Super_Robot_Wars",
     "redlink": false,
+    "region": "JP",
     "release_date": "December 16",
     "platform_breakdown": {
       "platform": "GBA"

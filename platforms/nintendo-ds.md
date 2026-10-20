@@ -2,11 +2,219 @@
 
 [← Back to index](../README.md)
 
-817 titles across 9 years in this archive.
+838 titles across 11 years in this archive.
+
+## 2014
+
+[Full 2014 page](../years/2014.md)
+
+### Phineas and Ferb: Quest for Cool Stuff
+
+**Platforms:** Wii U, Wii, Nintendo 3DS, Nintendo DS, Xbox 360 &nbsp;|&nbsp; **Genre:** Platformer &nbsp;|&nbsp; **Released:** August 13
+
+---
+
+### Planes: Fire & Rescue
+
+**Platforms:** Wii, Nintendo DS, Wii U, Nintendo 3DS &nbsp;|&nbsp; **Released:** November 4
+
+---
+
+## 2013
+
+[Full 2013 page](../years/2013.md)
+
+### Barbie Dreamhouse Party
+
+**Platforms:** Nintendo 3DS, Nintendo DS, Wii, Wii U &nbsp;|&nbsp; **Released:** November 12
+
+---
+
+### Cloudy with a Chance of Meatballs 2
+
+**Platforms:** Nintendo 3DS, Nintendo DS &nbsp;|&nbsp; **Released:** September 24
+
+[Wikipedia](https://en.wikipedia.org/wiki/Cloudy_with_a_Chance_of_Meatballs_2)
+
+---
+
+### Disney's Planes
+
+**Platforms:** Wii U, Wii, Nintendo 3DS, Nintendo DS &nbsp;|&nbsp; **Released:** August 6
+
+[Wikipedia](https://en.wikipedia.org/wiki/Planes_(film)#Video_game)
+
+---
+
+### Doodle Jump Adventures
+
+**Platforms:** Nintendo 3DS, Nintendo DS &nbsp;|&nbsp; **Genre:** Platformer &nbsp;|&nbsp; **Released:** October 29
+
+[Wikipedia](https://en.wikipedia.org/wiki/Doodle_Jump)
+
+---
+
+### Frozen: Olaf's Quest
+
+**Platforms:** Nintendo 3DS, Nintendo DS &nbsp;|&nbsp; **Genre:** Platformer &nbsp;|&nbsp; **Released:** November 12
+
+---
+
+### LEGO Marvel Super Heroes
+
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co5bze.jpg" alt="LEGO Marvel Super Heroes cover" width="200">
+
+**Platforms:** Windows, Wii U, Xbox 360, PlayStation 3, Nintendo 3DS, Nintendo DS, PlayStation 4, Xbox One &nbsp;|&nbsp; **Genre:** Action-adventure &nbsp;|&nbsp; **Released:** October 22
+
+> Lego Marvel Super Heroes is a 2013 Lego-themed action-adventure video game developed by Traveller's Tales and published by Warner Bros. Interactive Entertainment. The game features gameplay similar to other Lego titles, alternating between various action-adventure sequences and puzzle-solving scenarios.  The game's storyline sees various heroes from the Marvel Universe joining forces to foil the schemes of Doctor Doom and Loki, who have also recruited several villains to aid them, and seek to conquer the Earth using the Doom Ray of Doom, a device built from the shards of the Silver Surfer's board called "Cosmic Bricks".
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/LEGO_Marvel_Super_Heroes) · [IGDB](https://www.igdb.com/games/lego-marvel-super-heroes)
+
+---
+
+### Monster High: 13 Wishes
+
+**Platforms:** Nintendo 3DS, Nintendo DS, Wii, Wii U &nbsp;|&nbsp; **Released:** October 24
+
+[Wikipedia](https://en.wikipedia.org/wiki/Monster_High)
+
+---
+
+### Phineas and Ferb: Quest for Cool Stuff
+
+**Platforms:** Nintendo 3DS, Nintendo DS, Wii, Wii U, Xbox 360 &nbsp;|&nbsp; **Genre:** Platformer &nbsp;|&nbsp; **Released:** August 13
+
+---
+
+### Scribblenauts Collection
+
+**Platforms:** Nintendo DS &nbsp;|&nbsp; **Genre:** Puzzle, Action &nbsp;|&nbsp; **Released:** March 5
+
+[Wikipedia](https://en.wikipedia.org/wiki/Scribblenauts_Collection)
+
+---
+
+### SpongeBob SquarePants: Plankton's Robotic Revenge
+
+**Platforms:** Wii U, Nintendo 3DS, Xbox 360, PlayStation 3, Wii, Nintendo DS &nbsp;|&nbsp; **Genre:** Action-adventure, Platformer, TPS &nbsp;|&nbsp; **Released:** October 22
+
+---
+
+### The Croods: Prehistoric Party!
+
+**Platforms:** Wii U, Wii, Nintendo 3DS, Nintendo DS &nbsp;|&nbsp; **Released:** March 19
+
+---
+
+### The Smurfs 2
+
+**Platforms:** Wii U, Wii, PlayStation 3, Xbox 360, Nintendo DS &nbsp;|&nbsp; **Released:** July 23
+
+[Wikipedia](https://en.wikipedia.org/wiki/The_Smurfs_2#Video_game)
+
+---
+
+### Turbo: Super Stunt Squad
+
+**Platforms:** Wii U, Wii, PlayStation 3, Xbox 360, Nintendo 3DS, Nintendo DS &nbsp;|&nbsp; **Released:** July 16
+
+[Wikipedia](https://en.wikipedia.org/wiki/Turbo_(2013_film)#Video_games)
+
+---
 
 ## 2012
 
 [Full 2012 page](../years/2012.md)
+
+### Abyss
+
+**Platforms:** Nintendo DS &nbsp;|&nbsp; **Released:** August 23
+
+---
+
+### Adventure Time: Hey Ice King! Why'd You Steal Our Garbage?!
+
+**Platforms:** Nintendo 3DS, Nintendo DS &nbsp;|&nbsp; **Released:** November 20
+
+---
+
+### Battleship
+
+**Platforms:** PlayStation 3, Xbox 360, Nintendo DS, Nintendo 3DS &nbsp;|&nbsp; **Released:** May 15
+
+[Wikipedia](https://en.wikipedia.org/wiki/Battleship_(2012_video_game))
+
+---
+
+### Bratz: Fashion Boutique
+
+**Platforms:** Nintendo 3DS, Nintendo DS &nbsp;|&nbsp; **Released:** October 30
+
+---
+
+### Brave
+
+**Platforms:** Windows, PlayStation 3, Xbox 360, Wii, PlayStation Vita, Nintendo DS, Nintendo 3DS &nbsp;|&nbsp; **Released:** June 19
+
+[Wikipedia](https://en.wikipedia.org/wiki/Brave_(2012_video_game))
+
+---
+
+### Bubble Guppies
+
+**Platforms:** Nintendo DS &nbsp;|&nbsp; **Released:** November 6
+
+[Wikipedia](https://en.wikipedia.org/wiki/Bubble_Guppies)
+
+---
+
+### Hotel Transylvania
+
+**Platforms:** Nintendo 3DS, Nintendo DS &nbsp;|&nbsp; **Released:** September 18
+
+[Wikipedia](https://en.wikipedia.org/wiki/Hotel_Transylvania)
+
+---
+
+### LEGO The Lord of the Rings: The Video Game
+
+**Platforms:** PlayStation Vita, Nintendo 3DS, Nintendo DS, Windows, PlayStation 3, Xbox 360, Wii &nbsp;|&nbsp; **Released:** October 30
+
+[Wikipedia](https://en.wikipedia.org/wiki/Lego_The_Lord_of_the_Rings_(video_game))
+
+---
+
+### Madagascar 3: The Video Game
+
+**Platforms:** Nintendo 3DS, Nintendo DS, PlayStation 3, Wii, Xbox 360 &nbsp;|&nbsp; **Released:** June 5
+
+---
+
+### Major League Baseball 2K12
+
+**Platforms:** Windows, PlayStation 3, Xbox 360, Wii, PlayStation 2, PlayStation Portable, Nintendo DS &nbsp;|&nbsp; **Released:** March 6
+
+[Wikipedia](https://en.wikipedia.org/wiki/Major_League_Baseball_2K12)
+
+---
+
+### Pokémon Black 2 and White 2
+
+**Platforms:** Nintendo DS &nbsp;|&nbsp; **Released:** October 7 (NA)
+
+[Wikipedia](https://en.wikipedia.org/wiki/Pok%C3%A9mon_Black_and_White#Sequels)
+
+---
+
+### Pokémon Black and White 2
+
+**Platforms:** Nintendo DS &nbsp;|&nbsp; **Released:** June 23 (JP)
+
+[Wikipedia](https://en.wikipedia.org/wiki/Pok%C3%A9mon_Black_and_White_2)
+
+---
 
 ### Pokémon Black Version 2
 
@@ -26,13 +234,13 @@
 
 <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2jxm.jpg" alt="Pokémon Conquest cover" width="200">
 
-**Platforms:** Nintendo DS &nbsp;|&nbsp; **Developer:** Koei Tecmo Games &nbsp;|&nbsp; **Publisher:** The Pokémon Company, Nintendo &nbsp;|&nbsp; **Genre:** Role-playing (RPG), Strategy, Turn-based strategy (TBS) &nbsp;|&nbsp; **Released:** March 17, 2012
+**Platforms:** Nintendo DS &nbsp;|&nbsp; **Genre:** Role-playing (RPG), Strategy, Turn-based strategy (TBS) &nbsp;|&nbsp; **Released:** June 18
 
 > Pokémon Conquest is a strategy game set in the Ransei region. You play as a Warlord of the Primus Kingdom, one of the 17 Kingdoms in the Ransei region. You are charged with the task of battling against a wide variety of powerful opponents, including the mighty Nobunaga, whose goal is to destroy the Ransei region!The 17 Kingdoms of the Ransei region possess a variety of Armies competing for control. The 17 Kingdoms are also deeply linked to a specific Pokémon type. Primus Kingdom, for example, has a strong connection with Normal-type Pokémon!
 >
 > _Synopsis source: IGDB_
 
-[IGDB](https://www.igdb.com/games/pokemon-conquest)
+[Wikipedia](https://en.wikipedia.org/wiki/Pok%C3%A9mon_Conquest) · [IGDB](https://www.igdb.com/games/pokemon-conquest)
 
 ---
 
@@ -47,6 +255,60 @@
 > _Synopsis source: IGDB_
 
 [IGDB](https://www.igdb.com/games/pokemon-white-version-2)
+
+---
+
+### Poptropica Adventures
+
+**Platforms:** Nintendo DS &nbsp;|&nbsp; **Released:** November 6
+
+[Wikipedia](https://en.wikipedia.org/wiki/Poptropica)
+
+---
+
+### Rise of the Guardians: The Video Game
+
+**Platforms:** PlayStation 3, Xbox 360, Wii, Nintendo 3DS, Nintendo DS, Wii U &nbsp;|&nbsp; **Released:** November 20
+
+---
+
+### Shin Megami Tensei: Devil Survivor 2
+
+**Platforms:** Nintendo DS &nbsp;|&nbsp; **Released:** February 28
+
+---
+
+### The Amazing Spider-Man
+
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2l1s.jpg" alt="The Amazing Spider-Man cover" width="200">
+
+**Platforms:** Nintendo DS, PlayStation 3, Xbox 360, Wii, Nintendo 3DS, Android, iOS, Windows &nbsp;|&nbsp; **Genre:** Hack and slash/Beat 'em up, Adventure &nbsp;|&nbsp; **Released:** June 26
+
+> The Amazing Spider-Man is an action-adventure video game released in 2012, developed by Beenox and published by Activision. The game serves as a tie-in to the 2012 film of the same name, though it features its original storyline that continues after the movie's events. Players control Spider-Man as he swings through an open-world version of New York City, battling criminals and iconic villains like the Lizard and Rhino while facing Oscorp's mutated creatures.  The game focuses on Spider-Man's web-slinging, combat, and exploration abilities. It has a mix of main missions and side activities. The gameplay includes stealth, brawler-style combat, and environmental puzzles.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/The_Amazing_Spider-Man_(2012_video_game)) · [IGDB](https://www.igdb.com/games/the-amazing-spider-man)
+
+---
+
+### Transformers: Prime – The Game
+
+**Platforms:** Wii, Nintendo DS, Nintendo 3DS, Wii U &nbsp;|&nbsp; **Released:** October 30
+
+---
+
+### Victorious: Taking the Lead
+
+**Platforms:** Nintendo DS, Wii &nbsp;|&nbsp; **Released:** November 13
+
+---
+
+### Zuma's Revenge!
+
+**Platforms:** Nintendo DS, Xbox 360 &nbsp;|&nbsp; **Type:** Port &nbsp;|&nbsp; **Released:** February 21
+
+[Wikipedia](https://en.wikipedia.org/wiki/Zuma%27s_Revenge!)
 
 ---
 
@@ -340,9 +602,9 @@
 
 ---
 
-### Pokémon Black and White (NA)
+### Pokémon Black and White
 
-**Platforms:** Nintendo DS &nbsp;|&nbsp; **Released:** March 6
+**Platforms:** Nintendo DS &nbsp;|&nbsp; **Released:** March 6 (NA)
 
 [Wikipedia](https://en.wikipedia.org/wiki/Pok%C3%A9mon_Black_and_White)
 
@@ -996,17 +1258,17 @@
 
 ---
 
-### Pokémon Black and White (Japan)
+### Pokémon Black and White
 
-**Platforms:** Nintendo DS &nbsp;|&nbsp; **Released:** September 18
+**Platforms:** Nintendo DS &nbsp;|&nbsp; **Released:** September 18 (JP)
 
 [Wikipedia](https://en.wikipedia.org/wiki/Pok%C3%A9mon_Black_and_White)
 
 ---
 
-### Pokémon HeartGold and SoulSilver (North America)
+### Pokémon HeartGold and SoulSilver
 
-**Platforms:** Nintendo DS &nbsp;|&nbsp; **Released:** March 14
+**Platforms:** Nintendo DS &nbsp;|&nbsp; **Released:** March 14 (NA)
 
 [Wikipedia](https://en.wikipedia.org/wiki/Pok%C3%A9mon_HeartGold_and_SoulSilver)
 
@@ -2170,9 +2432,9 @@
 
 ---
 
-### Pokémon HeartGold and SoulSilver (Japan)
+### Pokémon HeartGold and SoulSilver
 
-**Platforms:** Nintendo DS &nbsp;|&nbsp; **Released:** September 12
+**Platforms:** Nintendo DS &nbsp;|&nbsp; **Released:** September 12 (JP)
 
 [Wikipedia](https://en.wikipedia.org/wiki/Pok%C3%A9mon_HeartGold_and_SoulSilver)
 
@@ -2186,9 +2448,9 @@
 
 ---
 
-### Pokémon Platinum (North America)
+### Pokémon Platinum
 
-**Platforms:** Nintendo DS &nbsp;|&nbsp; **Released:** March 22
+**Platforms:** Nintendo DS &nbsp;|&nbsp; **Released:** March 22 (NA)
 
 [Wikipedia](https://en.wikipedia.org/wiki/Pok%C3%A9mon_Platinum)
 
@@ -3302,23 +3564,17 @@
 
 ---
 
-### Pokémon Platinum (JP)
+### Pokémon Platinum
 
-**Platforms:** Nintendo DS &nbsp;|&nbsp; **Released:** September 13
+**Platforms:** Nintendo DS &nbsp;|&nbsp; **Released:** September 13 (JP)
 
 [Wikipedia](https://en.wikipedia.org/wiki/Pok%C3%A9mon_Platinum)
 
 ---
 
-### Pokémon Ranger: Shadows of Almia (JP)
+### Pokémon Ranger: Shadows of Almia
 
-**Platforms:** Nintendo DS &nbsp;|&nbsp; **Released:** March 20
-
----
-
-### Pokémon Ranger: Shadows of Almia (NA)
-
-**Platforms:** Nintendo DS &nbsp;|&nbsp; **Released:** November 10
+**Platforms:** Nintendo DS &nbsp;|&nbsp; **Released:** March 20 (JP/NA)
 
 ---
 
@@ -3348,9 +3604,9 @@
 
 ---
 
-### Rhythm Heaven (JP)
+### Rhythm Heaven
 
-**Platforms:** Nintendo DS &nbsp;|&nbsp; **Released:** July 31
+**Platforms:** Nintendo DS &nbsp;|&nbsp; **Released:** July 31 (JP)
 
 [Wikipedia](https://en.wikipedia.org/wiki/Rhythm_Heaven)
 
@@ -4250,15 +4506,9 @@
 
 ---
 
-### Lego Star Wars: The Complete Saga (EU)
+### Lego Star Wars: The Complete Saga
 
-**Platforms:** Wii, Nintendo DS &nbsp;|&nbsp; **Released:** November 16
-
----
-
-### Lego Star Wars: The Complete Saga (NA)
-
-**Platforms:** Xbox 360, PlayStation 3, Wii, Nintendo DS &nbsp;|&nbsp; **Released:** November 6
+**Platforms:** Xbox 360, PlayStation 3, Wii, Nintendo DS &nbsp;|&nbsp; **Released:** November 6 (NA/EU)
 
 ---
 
@@ -4468,9 +4718,9 @@
 
 ---
 
-### Pokémon Diamond and Pearl (NA)
+### Pokémon Diamond and Pearl
 
-**Platforms:** Nintendo DS &nbsp;|&nbsp; **Released:** April 22
+**Platforms:** Nintendo DS &nbsp;|&nbsp; **Released:** April 22 (NA)
 
 [Wikipedia](https://en.wikipedia.org/wiki/Pok%C3%A9mon_Diamond_and_Pearl)
 
@@ -4876,9 +5126,9 @@
 
 ---
 
-### Animal Crossing: Wild World (EU)
+### Animal Crossing: Wild World
 
-**Platforms:** Nintendo DS &nbsp;|&nbsp; **Released:** March 31
+**Platforms:** Nintendo DS &nbsp;|&nbsp; **Released:** March 31 (EU)
 
 ---
 
@@ -4926,15 +5176,9 @@
 
 ---
 
-### Cars (AU)
+### Cars
 
-**Platforms:** Windows, PlayStation 2, Xbox, GameCube, Game Boy Advance, Nintendo DS, PlayStation Portable, Xbox 360, Wii &nbsp;|&nbsp; **Released:** June 8
-
----
-
-### Cars (EU)
-
-**Platforms:** Windows, PlayStation 2, Xbox, GameCube, Game Boy Advance, Nintendo DS, PlayStation Portable, Xbox 360, Wii &nbsp;|&nbsp; **Released:** July 14
+**Platforms:** Windows, PlayStation 2, Xbox, GameCube, Game Boy Advance, Nintendo DS, PlayStation Portable, Xbox 360, Wii &nbsp;|&nbsp; **Released:** June 8 (AU/EU)
 
 ---
 
@@ -5064,15 +5308,15 @@
 
 ---
 
-### Happy Feet (EU)
+### Happy Feet
 
-**Platforms:** Windows, PlayStation 2, GameCube, Game Boy Advance, Nintendo DS, Wii &nbsp;|&nbsp; **Released:** November 24
+**Platforms:** Windows, PlayStation 2, GameCube, Game Boy Advance, Nintendo DS, Wii &nbsp;|&nbsp; **Released:** November 24 (EU)
 
 ---
 
 ### Happy Feet (USA)
 
-**Platforms:** Windows, PlayStation 2, GameCube, Game Boy Advance, Nintendo DS, Wii &nbsp;|&nbsp; **Genre:** [ 81 ] &nbsp;|&nbsp; **Released:** November 14
+**Platforms:** Windows, PlayStation 2, GameCube, Game Boy Advance, Nintendo DS, Wii &nbsp;|&nbsp; **Released:** November 14
 
 [Wikipedia](https://en.wikipedia.org/wiki/Happy_Feet_(video_game))
 
@@ -5084,15 +5328,9 @@
 
 ---
 
-### Ice Age 2: The Meltdown (EU)
+### Ice Age 2: The Meltdown
 
-**Platforms:** Windows, PlayStation 2, Xbox, GameCube, Game Boy Advance, Nintendo DS, Wii &nbsp;|&nbsp; **Released:** March 31
-
----
-
-### Ice Age 2: The Meltdown (JP)
-
-**Platforms:** Windows, PlayStation 2, Xbox, GameCube, Game Boy Advance, Nintendo DS &nbsp;|&nbsp; **Released:** October 6
+**Platforms:** Windows, PlayStation 2, Xbox, GameCube, Game Boy Advance, Nintendo DS, Wii &nbsp;|&nbsp; **Released:** March 31 (EU/JP)
 
 ---
 
@@ -5110,15 +5348,9 @@
 
 ---
 
-### Kirby: Squeak Squad (JP)
+### Kirby: Squeak Squad
 
-**Platforms:** Nintendo DS &nbsp;|&nbsp; **Released:** December 4
-
----
-
-### Kirby: Squeak Squad (NA)
-
-**Platforms:** Nintendo DS &nbsp;|&nbsp; **Released:** November 2
+**Platforms:** Nintendo DS &nbsp;|&nbsp; **Released:** November 2 (NA/JP)
 
 ---
 
@@ -5194,21 +5426,9 @@
 
 ---
 
-### Monster House (AU)
+### Monster House
 
-**Platforms:** PlayStation 2, GameCube, Game Boy Advance, Nintendo DS &nbsp;|&nbsp; **Released:** September 7
-
----
-
-### Monster House (EU)
-
-**Platforms:** PlayStation 2, GameCube, Game Boy Advance, Nintendo DS &nbsp;|&nbsp; **Released:** August 4
-
----
-
-### Monster House (NA)
-
-**Platforms:** PlayStation 2, GameCube, Game Boy Advance, Nintendo DS &nbsp;|&nbsp; **Released:** July 18
+**Platforms:** PlayStation 2, GameCube, Game Boy Advance, Nintendo DS &nbsp;|&nbsp; **Released:** July 18 (NA/EU/AU)
 
 [Wikipedia](https://en.wikipedia.org/wiki/Monster_House_(video_game))
 
@@ -5244,15 +5464,9 @@
 
 ---
 
-### Open Season (AU)
+### Open Season
 
-**Platforms:** Windows, GameCube, PlayStation 2, Xbox, Xbox 360, Game Boy Advance, Nintendo DS, PlayStation Portable &nbsp;|&nbsp; **Released:** November 30
-
----
-
-### Open Season (EU)
-
-**Platforms:** Windows, GameCube, PlayStation 2, Xbox, Xbox 360, Game Boy Advance, Nintendo DS, PlayStation Portable, Wii &nbsp;|&nbsp; **Released:** October 6
+**Platforms:** Windows, GameCube, PlayStation 2, Xbox, Xbox 360, Game Boy Advance, Nintendo DS, PlayStation Portable, Wii &nbsp;|&nbsp; **Released:** October 6 (EU/AU)
 
 ---
 
@@ -5264,21 +5478,9 @@
 
 ---
 
-### Over the Hedge (Nintendo DS) (AU)
+### Over the Hedge (Nintendo DS)
 
-**Platforms:** Nintendo DS &nbsp;|&nbsp; **Released:** June 14
-
----
-
-### Over the Hedge (Nintendo DS) (EU)
-
-**Platforms:** Nintendo DS &nbsp;|&nbsp; **Released:** June 9
-
----
-
-### Over the Hedge (Nintendo DS) (NA)
-
-**Platforms:** Nintendo DS &nbsp;|&nbsp; **Released:** May 9
+**Platforms:** Nintendo DS &nbsp;|&nbsp; **Released:** May 9 (NA/EU/AU)
 
 [Wikipedia](https://en.wikipedia.org/wiki/Over_the_Hedge_(Nintendo_DS_video_game))
 
@@ -5292,9 +5494,9 @@
 
 ---
 
-### Pokémon Diamond and Pearl (JP)
+### Pokémon Diamond and Pearl
 
-**Platforms:** Nintendo DS &nbsp;|&nbsp; **Released:** September 28
+**Platforms:** Nintendo DS &nbsp;|&nbsp; **Released:** September 28 (JP)
 
 [Wikipedia](https://en.wikipedia.org/wiki/Pok%C3%A9mon_Diamond_and_Pearl)
 
@@ -5306,9 +5508,9 @@
 
 ---
 
-### Pokémon Ranger (NA)
+### Pokémon Ranger
 
-**Platforms:** Nintendo DS &nbsp;|&nbsp; **Released:** October 30
+**Platforms:** Nintendo DS &nbsp;|&nbsp; **Released:** October 30 (NA)
 
 [Wikipedia](https://en.wikipedia.org/wiki/Pok%C3%A9mon_Ranger)
 
@@ -5344,15 +5546,9 @@
 
 ---
 
-### SpongeBob SquarePants: Creature from the Krusty Krab (AU)
+### SpongeBob SquarePants: Creature from the Krusty Krab
 
-**Platforms:** PlayStation 2, GameCube, Game Boy Advance, Nintendo DS, Wii &nbsp;|&nbsp; **Released:** November 2
-
----
-
-### SpongeBob SquarePants: Creature from the Krusty Krab (EU)
-
-**Platforms:** PlayStation 2, GameCube, Game Boy Advance, Nintendo DS, Wii &nbsp;|&nbsp; **Released:** November 10
+**Platforms:** Windows, PlayStation 2, GameCube, Game Boy Advance, Nintendo DS, Wii &nbsp;|&nbsp; **Released:** August 15 (AU/EU)
 
 ---
 
@@ -5424,21 +5620,9 @@
 
 ---
 
-### The Legend of Spyro: A New Beginning (AU)
+### The Legend of Spyro: A New Beginning
 
-**Platforms:** PlayStation 2, Xbox, GameCube, Game Boy Advance, Nintendo DS &nbsp;|&nbsp; **Released:** November 2
-
----
-
-### The Legend of Spyro: A New Beginning (EU)
-
-**Platforms:** PlayStation 2, Xbox, GameCube, Game Boy Advance, Nintendo DS &nbsp;|&nbsp; **Released:** October 27
-
----
-
-### The Legend of Spyro: A New Beginning (NA)
-
-**Platforms:** PlayStation 2, Xbox, GameCube, Game Boy Advance, Nintendo DS &nbsp;|&nbsp; **Released:** October 10
+**Platforms:** PlayStation 2, Xbox, GameCube, Game Boy Advance, Nintendo DS &nbsp;|&nbsp; **Released:** October 10 (NA/EU/AU)
 
 ---
 
@@ -5750,7 +5934,7 @@
 
 <img src="../images/steam-1262560.jpg" alt="Need for Speed: Most Wanted cover" width="200">
 
-**Platforms:** Windows, PlayStation 2, Xbox, GameCube, Game Boy Advance, Nintendo DS, PlayStation Portable, Xbox 360 &nbsp;|&nbsp; **Genre:** Action, Adventure, Racing &nbsp;|&nbsp; **Released:** November 16
+**Platforms:** Windows, PlayStation 2, Xbox, GameCube, Game Boy Advance, Nintendo DS, PlayStation Portable, Xbox 360 &nbsp;|&nbsp; **Genre:** Action, Adventure, Racing &nbsp;|&nbsp; **Released:** November 15
 
 > The open-world action in Need for Speed Most Wanted gives you the freedom to drive your way. Hit jumps and shortcuts, switch cars, lie low or head for terrain that plays to your vehicle’s unique strengths. Fight your way past cops and rivals using skill, high-end car tech and tons of nitrous.
 >
@@ -6054,7 +6238,7 @@
 
 ### Spider-Man 2
 
-**Platforms:** Nintendo DS &nbsp;|&nbsp; **Released:** November 21
+**Platforms:** Windows, Nintendo DS &nbsp;|&nbsp; **Released:** July 9 (EU)
 
 [Wikipedia](https://en.wikipedia.org/wiki/Spider-Man_2_(2004_video_game))
 

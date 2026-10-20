@@ -34,9 +34,9 @@
 
 ---
 
-### Dark Rift (North America)
+### Dark Rift
 
-**Platforms:** Nintendo 64 &nbsp;|&nbsp; **Released:** December 17
+**Platforms:** Nintendo 64 &nbsp;|&nbsp; **Released:** December 17 (NA)
 
 [Wikipedia](https://en.wikipedia.org/wiki/Dark_Rift)
 
@@ -84,7 +84,7 @@
 
 ### Star Wars: Episode I: Battle for Naboo
 
-**Platforms:** Windows, Nintendo 64 &nbsp;|&nbsp; **Released:** March 12
+**Platforms:** Windows, Nintendo 64 &nbsp;|&nbsp; **Released:** March 12 (EU)
 
 ---
 
@@ -156,9 +156,9 @@
 
 ---
 
-### Mario Party 3 (Japan)
+### Mario Party 3
 
-**Platforms:** Nintendo 64 &nbsp;|&nbsp; **Released:** December 7
+**Platforms:** Nintendo 64 &nbsp;|&nbsp; **Released:** December 7 (JP)
 
 [Wikipedia](https://en.wikipedia.org/wiki/Mario_Party_3)
 
@@ -188,7 +188,7 @@
 
 ---
 
-### Pokémon Stadium [ 83 ]
+### Pokémon Stadium
 
 **Platforms:** Nintendo 64 &nbsp;|&nbsp; **Released:** February 29
 
@@ -350,17 +350,17 @@
 
 ---
 
-### Mario Party 2 (Japan)
+### Mario Party 2
 
-**Platforms:** Nintendo 64 &nbsp;|&nbsp; **Released:** December 17
+**Platforms:** Nintendo 64 &nbsp;|&nbsp; **Released:** December 17 (JP)
 
 [Wikipedia](https://en.wikipedia.org/wiki/Mario_Party_2)
 
 ---
 
-### Ogre Battle 64: Person of Lordly Caliber (Japan)
+### Ogre Battle 64: Person of Lordly Caliber
 
-**Platforms:** Nintendo 64 &nbsp;|&nbsp; **Released:** July 14
+**Platforms:** Nintendo 64 &nbsp;|&nbsp; **Released:** July 14 (JP)
 
 ---
 
@@ -372,9 +372,9 @@
 
 ---
 
-### Pokémon Stadium (Japan)
+### Pokémon Stadium
 
-**Platforms:** Nintendo 64 &nbsp;|&nbsp; **Released:** April 30
+**Platforms:** Nintendo 64 &nbsp;|&nbsp; **Released:** April 30 (JP)
 
 [Wikipedia](https://en.wikipedia.org/wiki/Pok%C3%A9mon_Stadium)
 
