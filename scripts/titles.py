@@ -16,6 +16,15 @@ _REGIONS = r"(?:NA|EU|JP|AU|WW|PAL|UK|KR|CN|AS|Japan|North America|Europe|Austra
 REGION_TAG_RE = re.compile(r"\s*\(\s*%s(?:\s*[/,&]\s*%s)*\s*\)\s*$" % (_REGIONS, _REGIONS), re.IGNORECASE)
 
 
+# The parenthetical Wikipedia adds to an article title to tell games apart:
+# "Alien (video game)", "Doom (2016 video game)", "Wipeout (1995 video game)".
+DISAMBIGUATOR_RE = re.compile(r"\s*\([^()]*(?:game|video)[^()]*\)$", re.IGNORECASE)
+
+
+def strip_disambiguator(title):
+    return DISAMBIGUATOR_RE.sub("", title or "")
+
+
 def strip_footnotes(text):
     return FOOTNOTE_RE.sub("", text or "").strip()
 

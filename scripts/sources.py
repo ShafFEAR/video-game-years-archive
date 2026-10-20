@@ -3,26 +3,42 @@ saved enrichment re-attached. Shared by generate_site.py and the enrich_*
 scripts so they all see the same entries.
 
 Raw layers (rewritten whenever a scraper reruns; never edited by hand):
-  data/index/{year}.json     "YYYY in video games" tables      (scrape_index.py)
-  data/lists/{year}.json     "List of video games released in YYYY" (scrape_lists.py)
+  data/index/{year}.json       "YYYY in video games" tables      (scrape_index.py)
+  data/lists/{year}.json       "List of video games released in YYYY" (scrape_lists.py)
+  data/categories/{year}.json  "Category:YYYY video games" members + infobox data (scrape_categories.py)
 Enrichment store:
-  data/enriched/{year}.json  entries carrying Steam/RAWG data   (enrich_*.py)
+  data/enriched/{year}.json    entries carrying Steam/RAWG data   (enrich_*.py)
 
-load_year() merges the raw layers, then copies whatever enrichment was saved
-onto the matching entries by normalized title. Re-scraping a layer (cleaner
-titles, newly found entries) therefore neither loses enrichment nor leaves
-the new entries invisible -- which is what happened while an enriched file
-doubled as a stale snapshot of the whole entry list.
+load_year() merges the table and list layers, then copies whatever enrichment
+was saved onto the matching entries by normalized title. Re-scraping a layer
+(cleaner titles, newly found entries) therefore neither loses enrichment nor
+leaves the new entries invisible -- which is what happened while an enriched
+file doubled as a stale snapshot of the whole entry list.
+
+load_all() then adds the category layer, which is far bigger than the others
+(every game with its own article) but has the least detail per game: only the
+games the other layers don't already hold are added, and they never lend
+platforms to games that are held.
 """
 import json
+import re
+from collections import OrderedDict, defaultdict
 from pathlib import Path
 
-from titles import norm_title, union_regions
+from titles import norm_title, strip_disambiguator, union_regions
 
 ROOT = Path(__file__).resolve().parent.parent
 INDEX_DIR = ROOT / "data" / "index"
 LISTS_DIR = ROOT / "data" / "lists"
+CATEGORIES_DIR = ROOT / "data" / "categories"
 ENRICHED_DIR = ROOT / "data" / "enriched"
+
+# Category members that are about something else: "Rampo (film)", "Exile (1995 video game series)".
+_NOT_A_GAME_RE = re.compile(
+    r"\((?:[^()]*\s)?(?:film|TV series|television series|miniseries|web series|novel|album|band|song|manga|anime|"
+    r"comics?|comic book|magazine|musical|soundtrack|company|series|franchise)\)$",
+    re.IGNORECASE,
+)
 
 ENRICHMENT_KEYS = ("steam", "rawg")
 # Identity fields stay as the first-seen entry has them; everything else is
@@ -35,7 +51,12 @@ def _read(path):
 
 
 def available_years():
+    """Years the table/list/enrichment layers cover (see all_years for categories too)."""
     return sorted({int(p.stem) for d in (INDEX_DIR, LISTS_DIR, ENRICHED_DIR) for p in d.glob("*.json")})
+
+
+def all_years():
+    return sorted(set(available_years()) | {int(p.stem) for p in CATEGORIES_DIR.glob("*.json")})
 
 
 def merge_layer(entries, extra):
@@ -80,6 +101,48 @@ def load_year(year):
     for entry in entries:
         entry.update(saved.get(norm_title(entry["title"]), {}))
     return entries
+
+
+def _wiki_key(title):
+    return (title or "").strip().lower()
+
+
+def load_all():
+    """{year: entries} from every layer, in year order.
+
+    A category member is added only when the table/list layers don't already
+    hold that game within a year either side (a game's category year is its
+    first release, a list's can be a regional one). "Holds" means the same
+    normalized title, or a link to the same article. Between category
+    members only the article decides: two games can share a title, and a
+    redirect page that points at an article already in the archive is a
+    second name for it, not a second game."""
+    years = OrderedDict((y, load_year(y)) for y in all_years())
+    held_titles, held_articles = defaultdict(set), defaultdict(set)
+    for year, entries in years.items():
+        for entry in entries:
+            held_titles[year].add(norm_title(entry["title"]))
+            if entry.get("wiki_title"):
+                held_articles[year].add(_wiki_key(entry["wiki_title"]))
+
+    def held(year, holder, key):
+        return any(key in holder[y] for y in (year - 1, year, year + 1))
+
+    category = {year: _read(CATEGORIES_DIR / f"{year}.json") for year in years}
+    for redirects in (False, True):  # real articles first, so a redirect is judged against all of them
+        for year, entries in category.items():
+            for entry in entries:
+                target = entry.get("redirect_to")
+                if bool(target) != redirects or _NOT_A_GAME_RE.search(entry["wiki_title"]):
+                    continue
+                if held(year, held_articles, _wiki_key(entry["wiki_title"])) or held(year, held_titles, norm_title(entry["title"])):
+                    continue
+                if target and (held(year, held_articles, _wiki_key(target)) or held(year, held_titles, norm_title(strip_disambiguator(target)))):
+                    continue
+                entry["from_category"] = True
+                years[year].append(entry)
+                held_articles[year].add(_wiki_key(entry["wiki_title"]))
+    return years
 
 
 def save_enrichment(year, entries):

@@ -1,27 +1,31 @@
 """Generate the browsable site (README index, one Markdown page per year,
 one Markdown page per platform, and an interactive HTML filter page) from
 the scraped/enriched JSON data. Safe to re-run any time -- it only reads
-data/index/ (and data/enriched/ when present) and rewrites README.md,
-years/*.md, platforms/*.md, data/all_games.json, and index.html.
+data/ and rewrites README.md, years/*.md, platforms/*.md,
+data/all_games.json, data/web/*.js and index.html.
 
-Automatically picks up cover art/synopses the moment enrich_rawg.py and/or
-enrich_steam.py have been run: each year prefers data/enriched/{year}.json
-over data/index/{year}.json when it exists, so nothing here needs to change
-once enrichment data shows up. Likewise data/igdb/{year}.json (written by
-fetch_igdb.py) is merged in at render time: titles Wikipedia doesn't have
-are added, and ones it does have gain IGDB's cover/summary.
+The Wikipedia layers (year tables, release lists, category pages) and any
+saved Steam/RAWG enrichment are merged by sources.load_all(), so cover
+art/synopses show up the moment enrich_rawg.py and/or enrich_steam.py have
+been run. data/igdb/{year}.json (written by fetch_igdb.py) is merged in at
+render time: titles Wikipedia doesn't have are added, and ones it does have
+gain IGDB's cover/summary.
+
+Pages GitHub would refuse to render (a year or platform too big for one
+Markdown file) are split into an index plus smaller pages; index.html loads
+one data/web/{year}.js at a time rather than carrying every title inline.
 """
 import json
 import re
 import shutil
 import sys
-from collections import OrderedDict, defaultdict
+from collections import Counter, OrderedDict, defaultdict
 from pathlib import Path
 
 sys.stdout.reconfigure(encoding="utf-8", errors="replace")
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import sources
-from platforms import slugify
+from platforms import available_in_year, slugify
 from titles import norm_title
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -34,10 +38,9 @@ YEAR_PAGE_LIMIT = 400_000
 
 
 def load_all_years():
-    by_year = OrderedDict()
-    for year in sources.available_years():
-        by_year[year] = sources.load_year(year)
-        for entry in by_year[year]:
+    by_year = sources.load_all()
+    for entries in by_year.values():
+        for entry in entries:
             entry["source"] = "wikipedia"
     return by_year
 
@@ -77,8 +80,9 @@ def merge_igdb(by_year):
     since IGDB dates a game by its earliest release anywhere while a year's
     Wikipedia article often lists the regional one -- is matched by exact
     normalized title. It keeps its Wikipedia platform tags (IGDB's platform
-    list is per-game, not per-year) and just gains IGDB's cover/summary as
-    enrichment. Everything else becomes a new entry."""
+    list is per-game, not per-year; an entry with none borrows IGDB's) and
+    gains IGDB's cover/summary as enrichment. Everything else becomes a new
+    entry."""
     records = {}
     for path in sorted(IGDB_DIR.glob("*.json"), key=lambda p: int(p.stem)):
         records[int(path.stem)] = json.loads(path.read_text(encoding="utf-8"))
@@ -97,6 +101,10 @@ def merge_igdb(by_year):
             match = next((existing[key][y] for y in (year, year - 1, year + 1) if y in existing.get(key, {})), None)
             if match is not None:
                 match.setdefault("igdb", rec)
+                if not match["platforms"]:
+                    # No platform tag means the console filter can't find it; borrow
+                    # IGDB's, minus platforms that didn't exist yet in the game's year.
+                    match["platforms"] = available_in_year(rec["platforms"], match["year"])
                 continue
             entry = igdb_entry(rec)
             by_year.setdefault(year, []).append(entry)
@@ -224,16 +232,53 @@ def entry_quarter(entry):
     return (month - 1) // 3 + 1 if month else None
 
 
+def content_budget(limit):
+    """Bytes of entries that fit on a page capped at `limit`, leaving room for its header."""
+    return max(limit // 2, limit - 1000)
+
+
+def paginate(entries, render, limit):
+    """Split title-ordered entries into pages whose rendered Markdown stays
+    under `limit` bytes: [[(entry, markdown), ...], ...]."""
+    pages, current, size = [], [], 0
+    for entry in entries:
+        text = render(entry)
+        n = len(text.encode("utf-8"))
+        if current and size + n > limit:
+            pages.append(current)
+            current, size = [], 0
+        current.append((entry, text))
+        size += n
+    if current:
+        pages.append(current)
+    return pages
+
+
+def _initial(entry):
+    first = entry["title"].lstrip()[:1].upper()
+    return first if first.isalpha() else "#"
+
+
+def span_label(page):
+    """"A–F" for a page of title-ordered entries."""
+    first, last = _initial(page[0][0]), _initial(page[-1][0])
+    return first if first == last else f"{first}–{last}"
+
+
 def generate_year_page(year, entries):
     from_igdb = sum(1 for e in entries if e.get("source") == "igdb")
+    from_category = sum(1 for e in entries if e.get("from_category"))
     sources_line = f"[source](https://en.wikipedia.org/wiki/{year}_in_video_games)"
     if (sources.LISTS_DIR / f"{year}.json").exists():
         sources_line += f" · [release list](https://en.wikipedia.org/wiki/List_of_video_games_released_in_{year})"
-    intro = (
-        f"{len(entries)} titles"
-        + (f" ({from_igdb} added from [IGDB](https://www.igdb.com))" if from_igdb else "")
-        + f" · {sources_line}"
-    )
+    if (sources.CATEGORIES_DIR / f"{year}.json").exists():
+        sources_line += f" · [category](https://en.wikipedia.org/wiki/Category:{year}_video_games)"
+    extras = []
+    if from_category:
+        extras.append(f"{from_category} from Wikipedia's category page")
+    if from_igdb:
+        extras.append(f"{from_igdb} added from [IGDB](https://www.igdb.com)")
+    intro = f"{len(entries)} titles" + (f" ({', '.join(extras)})" if extras else "") + f" · {sources_line}"
     ordered = sorted(entries, key=lambda e: e["title"].lower())
     lines = [f"# {year} in Video Games", "", "[← Back to index](../README.md)", "", intro, ""]
     lines += [render_entry(entry) for entry in ordered]
@@ -249,24 +294,32 @@ def generate_year_page(year, entries):
         return
 
     # Too big for GitHub to render as one page: years/{year}.md becomes an
-    # index (so existing links keep working) with one page per quarter.
+    # index (so existing links keep working) with one page per release
+    # quarter -- and per title range within a quarter that is still too big
+    # (games with no release month all land in one bucket).
     groups = defaultdict(list)
     for entry in ordered:
         groups[entry_quarter(entry)].append(entry)
     index = lines[:4] + [intro, "", "That's too many titles for one page, so it's split by release quarter.", "",
                          "| Release period | Titles |", "|---|---|"]
-    year_dir.mkdir(exist_ok=True)
+    if year_dir.is_dir():
+        shutil.rmtree(year_dir)  # every page below is rewritten; drop leftovers from an older layout
+    year_dir.mkdir()
     for quarter in (1, 2, 3, 4, None):
         if not groups.get(quarter):
             continue
         name = QUARTERS.get(quarter, "No release month listed")
         stem = f"q{quarter}" if quarter else "undated"
-        index.append(f"| [{name}]({year}/{stem}.md) | {len(groups[quarter])} |")
-        page_lines = [f"# {year} in Video Games — {name}", "",
-                      f"[← All of {year}](../{year}.md) · [Back to index](../../README.md)", "",
-                      f"{len(groups[quarter])} titles.", ""]
-        page_lines += [render_entry(entry, root="../../") for entry in groups[quarter]]
-        (year_dir / f"{stem}.md").write_text("\n".join(page_lines), encoding="utf-8")
+        pages = paginate(groups[quarter], lambda e: render_entry(e, root="../../"), content_budget(YEAR_PAGE_LIMIT))
+        for number, part in enumerate(pages, 1):
+            file_stem = stem if len(pages) == 1 else f"{stem}-{number}"
+            label = name if len(pages) == 1 else f"{name}, {span_label(part)}"
+            index.append(f"| [{label}]({year}/{file_stem}.md) | {len(part)} |")
+            page_lines = [f"# {year} in Video Games — {label}", "",
+                          f"[← All of {year}](../{year}.md) · [Back to index](../../README.md)", "",
+                          f"{len(part)} titles.", ""]
+            page_lines += [text for _, text in part]
+            (year_dir / f"{file_stem}.md").write_text("\n".join(page_lines), encoding="utf-8")
     page_path.write_text("\n".join(index) + "\n", encoding="utf-8")
 
 
@@ -318,20 +371,27 @@ def generate_platform_pages(by_year):
             "| Year | Titles |",
             "|---|---|",
         ]
-        year_dir.mkdir(exist_ok=True)
+        if year_dir.is_dir():
+            shutil.rmtree(year_dir)  # every page below is rewritten; drop leftovers from an older layout
+        year_dir.mkdir()
         for year in sorted(years.keys(), reverse=True):
-            index.append(f"| [{year}]({slug}/{year}.md) | {len(years[year])} |")
-            year_lines = [
-                f"# {plat} — {year}",
-                "",
-                f"[← All {plat} years](../{slug}.md) · [Full {year} page](../../years/{year}.md)",
-                "",
-                f"{len(years[year])} {plat} titles in {year}.",
-                "",
-            ]
-            for entry in sorted(years[year], key=lambda e: e["title"].lower()):
-                year_lines.append(render_entry(entry, root="../../"))
-            (year_dir / f"{year}.md").write_text("\n".join(year_lines), encoding="utf-8")
+            ordered = sorted(years[year], key=lambda e: e["title"].lower())
+            # A single busy year can still be too big for one page: split it by title range.
+            pages = paginate(ordered, lambda e: render_entry(e, root="../../"), content_budget(PLATFORM_PAGE_LIMIT))
+            for number, part in enumerate(pages, 1):
+                file_stem = str(year) if len(pages) == 1 else f"{year}-{number}"
+                label = str(year) if len(pages) == 1 else f"{year}, {span_label(part)}"
+                index.append(f"| [{label}]({slug}/{file_stem}.md) | {len(part)} |")
+                year_lines = [
+                    f"# {plat} — {label}",
+                    "",
+                    f"[← All {plat} years](../{slug}.md) · [Full {year} page](../../years/{year}.md)",
+                    "",
+                    f"{len(part)} {plat} titles in {year}.",
+                    "",
+                ]
+                year_lines += [text for _, text in part]
+                (year_dir / f"{file_stem}.md").write_text("\n".join(year_lines), encoding="utf-8")
         page_path.write_text("\n".join(index) + "\n", encoding="utf-8")
     return platform_meta
 
@@ -350,6 +410,7 @@ def generate_readme(by_year, platform_meta):
     total_entries = sum(len(v) for v in by_year.values())
     tagged = sum(1 for entries in by_year.values() for e in entries if e["platforms"])
     from_igdb = sum(1 for entries in by_year.values() for e in entries if e.get("source") == "igdb")
+    from_category = sum(1 for entries in by_year.values() for e in entries if e.get("from_category"))
     from_steam = sum(1 for entries in by_year.values() for e in entries if e.get("steam"))
 
     lines = [
@@ -359,11 +420,23 @@ def generate_readme(by_year, platform_meta):
         "[List of years in video games](https://en.wikipedia.org/wiki/List_of_years_in_video_games) "
         "index and each year's article, with every title tagged by platform "
         "so you can filter to just one console's releases for a given year."
+        + (" Games with their own Wikipedia article that those tables miss are added from its per-year "
+           "[video game categories](https://en.wikipedia.org/wiki/Category:Video_games_by_year)." if from_category else "")
         + (" Years Wikipedia covers thinly are topped up with notable titles from [IGDB](https://www.igdb.com)." if from_igdb else ""),
         "",
-        f"**{total_entries} titles** across {len(years)} years "
-        f"({years[0]}-{years[-1]}), **{tagged}** tagged with at least one platform"
-        + (f" ({from_igdb} of the titles were added from IGDB)." if from_igdb else "."),
+        f"**{total_entries:,} titles** across {len(years)} years "
+        f"({years[0]}-{years[-1]}), **{tagged:,}** tagged with at least one platform."
+        + (
+            " Beyond the year articles' own lists, "
+            + " and ".join(
+                part for part in (
+                    f"{from_category:,} titles come from Wikipedia's category pages" if from_category else "",
+                    f"{from_igdb:,} {'from' if from_category else 'titles come from'} IGDB" if from_igdb else "",
+                ) if part
+            )
+            + "."
+            if from_category or from_igdb else ""
+        ),
         "",
         "**[Open the interactive filter →](index.html)** -- pick a year "
         "and a platform and browse matching titles in the browser (works by "
@@ -405,19 +478,33 @@ def generate_readme(by_year, platform_meta):
             "per-year counts drop sharply after that -- a real gap in the "
             "source data, not a scraper bug."
         )
+    if from_category:
+        gap_note += (
+            " Even so, plenty of games with their own article appear in neither, so the "
+            "archive also adds every game in Wikipedia's \"YYYY video games\" categories "
+            "that those tables miss (`scripts/scrape_categories.py`)."
+        )
     if from_igdb:
         gap_note += (
             " Years that are still thin are topped up with the most-rated "
             "titles IGDB has for them, so their counts reflect notability, "
             "not a complete release list."
         )
+    category_note = (
+        "- Titles added from the category pages take their developer, publisher, genre, "
+        "release date and platforms from the article's infobox. That infobox lists every "
+        "platform a game ever reached, so platforms that did not exist yet in the game's year "
+        "are dropped -- but a later port to an older platform can still show up under the "
+        "original year, and many of these titles have no release month."
+        if from_category else None
+    )
     no_wiki_years = [y for y in years if not any(e.get("source") == "wikipedia" for e in by_year[y])]
     empty_years_note = None
     if no_wiki_years:
         empty_years_note = (
             f"- {', '.join(str(y) for y in no_wiki_years)} "
             f"{'has' if len(no_wiki_years) == 1 else 'have'} no structured release "
-            "table on Wikipedia at all and so contribute no Wikipedia titles"
+            "table on Wikipedia at all and so " + ("contributes" if len(no_wiki_years) == 1 else "contribute") + " no Wikipedia titles"
             + (" (any titles in those years come from IGDB)." if from_igdb else " here.")
         )
 
@@ -425,19 +512,20 @@ def generate_readme(by_year, platform_meta):
         "- Year-by-year title listings and platform tags are drawn from "
         "Wikipedia's \"X in video games\" articles"
         + (" and, from " + str(list_years[0]) + " on, its \"List of video games released in X\" articles" if list_years else "")
+        + (", plus its \"YYYY video games\" category pages and the infobox of each article they list" if from_category else "")
         + " (text available under "
         "[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)).",
     ]
     if from_steam:
         attribution.append(
-            f"- Steam store links, cover art and descriptions for {from_steam} "
+            f"- Steam store links, cover art and descriptions for {from_steam:,} "
             "titles come from Steam's own public Storefront API "
             "(`scripts/enrich_steam.py`). SteamDB's FAQ says it doesn't allow "
             "scraping, so Steam's API is used instead."
         )
     if from_igdb:
         attribution.append(
-            f"- {from_igdb} additional titles, with platform tags, summaries and "
+            f"- {from_igdb:,} additional titles, with platform tags, summaries and "
             "cover art, come from [IGDB](https://www.igdb.com) via the "
             "Twitch/IGDB API (`scripts/fetch_igdb.py`), used under IGDB's API "
             "terms for non-commercial purposes. Cover art is hotlinked from "
@@ -467,10 +555,25 @@ def generate_readme(by_year, platform_meta):
         "## Coverage notes",
         "",
         gap_note,
+        *([category_note] if category_note else []),
         *([empty_years_note] if empty_years_note else []),
         "- Platform tags come from each article's own abbreviation legend "
         "(e.g. \"PS2\", \"WIN\") plus a curated lookup table for consistency "
         "across years; see `scripts/platforms.py`.",
+        "",
+        "## Rebuilding the data",
+        "",
+        "Each stage reads and writes JSON under `data/`, and every scraper can be "
+        "re-run on its own (they take a list of years, and resume or skip what is already there):",
+        "",
+        "```",
+        "python scripts/scrape_index.py                       # \"YYYY in video games\" tables      -> data/index/",
+        "python scripts/scrape_lists.py                       # \"List of video games released in YYYY\" -> data/lists/",
+        "python scripts/scrape_categories.py                  # \"Category:YYYY video games\" members     -> data/categories/",
+        "python scripts/scrape_categories.py --infoboxes      # developer, publisher, genre, platforms for those articles",
+        "python scripts/fetch_igdb.py                         # optional: notable titles from IGDB (needs Twitch credentials in .env)",
+        "python scripts/generate_site.py                      # README, years/, platforms/, data/web/ and index.html",
+        "```",
         "",
         "## Attribution & licensing",
         "",
@@ -502,197 +605,54 @@ def generate_interactive_page(by_year):
     flat.sort(key=lambda e: (e["year"], e["title"].lower()))
     from_igdb = sum(1 for e in flat if e["source"] == "igdb")
 
-    (ROOT / "data" / "all_games.json").write_text(
-        json.dumps(flat, indent=2, ensure_ascii=False), encoding="utf-8"
-    )
+    # data/all_games.json: the whole archive in one file, a record per line so diffs stay readable.
+    all_games = "[\n" + ",\n".join(json.dumps(rec, ensure_ascii=False) for rec in flat) + "\n]\n"
+    (ROOT / "data" / "all_games.json").write_text(all_games, encoding="utf-8")
 
-    years_present = sorted({e["year"] for e in flat})
-    platforms_present = sorted({p for e in flat for p in e["platforms"]})
-    data_json = json.dumps(flat, ensure_ascii=False, separators=(",", ":"))
+    # index.html loads one data/web/<year>.js at a time (see page_template.html),
+    # so opening the page never has to parse the whole archive.
+    web_dir = ROOT / "data" / "web"
+    web_dir.mkdir(parents=True, exist_ok=True)
+    flat_by_year = defaultdict(list)
+    for e in flat:
+        flat_by_year[e["year"]].append(e)
+    years_meta = []
+    for year, recs in flat_by_year.items():
+        compact = []
+        for e in recs:
+            rec = {"t": e["title"], "p": e["platforms"]}
+            for key, field in (("d", "developer"), ("u", "publisher"), ("g", "genre"), ("r", "release_date"),
+                               ("l", "url"), ("i", "image"), ("s", "description")):
+                if e[field]:
+                    rec[key] = e[field]
+            compact.append(rec)
+        data = json.dumps(compact, ensure_ascii=False, separators=(",", ":"))
+        (web_dir / f"{year}.js").write_text(f"(window.GAMES = window.GAMES || {{}})[{year}] = {data};\n", encoding="utf-8")
+        counts = Counter(p for e in recs for p in e["platforms"])
+        years_meta.append({"y": year, "n": len(recs), "p": dict(sorted(counts.items()))})
+    for stale in web_dir.glob("*.js"):
+        if int(stale.stem) not in flat_by_year:
+            stale.unlink()
 
-    html = HTML_TEMPLATE.format(
-        total=len(flat),
-        sources="sourced from Wikipedia's year-in-video-games archive" + (" and IGDB" if from_igdb else ""),
-        footer=(
-            '<footer class="foot">Additional titles, platform tags and cover art from '
+    footer = [
+        'Game listings from <a href="https://en.wikipedia.org/wiki/List_of_years_in_video_games" target="_blank" '
+        'rel="noopener">Wikipedia</a> (<a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" '
+        'rel="noopener">CC BY-SA 4.0</a>).'
+    ]
+    if from_igdb:
+        footer.append(
+            'Additional titles, platform tags and cover art from '
             '<a href="https://www.igdb.com" target="_blank" rel="noopener">IGDB.com</a>. '
-            'Cover art belongs to its rights-holders.</footer>'
-            if from_igdb else ""
-        ),
-        year_options="\n".join(f'<option value="{y}">{y}</option>' for y in years_present),
-        platform_options="\n".join(
-            f'<option value="{escape_md(p)}">{escape_md(p)}</option>' for p in platforms_present
-        ),
-        data_json=data_json,
+            'Cover art belongs to its rights-holders.'
+        )
+    template = (Path(__file__).resolve().parent / "page_template.html").read_text(encoding="utf-8")
+    html = (
+        template.replace("@@TOTAL@@", f"{len(flat):,}")
+        .replace("@@SOURCES@@", "from Wikipedia's video game articles and categories" + (" and IGDB" if from_igdb else ""))
+        .replace("@@FOOTER@@", '<footer class="foot">' + " ".join(footer) + "</footer>")
+        .replace("@@YEARS_JSON@@", json.dumps(years_meta, ensure_ascii=False, separators=(",", ":")))
     )
     (ROOT / "index.html").write_text(html, encoding="utf-8")
-
-
-HTML_TEMPLATE = """<!doctype html>
-<html lang="en">
-<head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Video Games by Year</title>
-<style>
-  :root {{
-    color-scheme: light dark;
-    --bg: #f7f7f8; --panel: #ffffff; --text: #1a1a1a; --muted: #666666;
-    --border: #e2e2e5; --accent: #3b5bfd; --tag-bg: #eef0ff; --tag-text: #33409e;
-  }}
-  @media (prefers-color-scheme: dark) {{
-    :root {{
-      --bg: #15161a; --panel: #1e2025; --text: #e9e9ec; --muted: #9a9aa2;
-      --border: #303239; --accent: #7d93ff; --tag-bg: #262a44; --tag-text: #b7c0ff;
-    }}
-  }}
-  * {{ box-sizing: border-box; }}
-  body {{
-    margin: 0; background: var(--bg); color: var(--text);
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
-  }}
-  header {{ padding: 32px 24px 16px; max-width: 1000px; margin: 0 auto; }}
-  h1 {{ margin: 0 0 4px; font-size: 1.6rem; }}
-  .sub {{ color: var(--muted); font-size: 0.9rem; }}
-  .controls {{
-    max-width: 1000px; margin: 0 auto; padding: 0 24px 16px;
-    display: flex; gap: 12px; flex-wrap: wrap; align-items: center;
-  }}
-  select {{
-    padding: 8px 12px; border-radius: 8px; border: 1px solid var(--border);
-    background: var(--panel); color: var(--text); font-size: 0.95rem; min-width: 180px;
-  }}
-  .count {{ color: var(--muted); font-size: 0.9rem; margin-left: auto; }}
-  main {{ max-width: 1000px; margin: 0 auto; padding: 0 24px 48px; }}
-  .grid {{
-    display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
-    gap: 12px;
-  }}
-  .card {{
-    background: var(--panel); border: 1px solid var(--border); border-radius: 10px;
-    padding: 14px 16px; display: flex; gap: 12px;
-  }}
-  .cover {{
-    width: 64px; height: 64px; object-fit: cover; border-radius: 6px; flex-shrink: 0;
-  }}
-  .card-body {{ min-width: 0; }}
-  .card h3 {{ margin: 0 0 6px; font-size: 1rem; }}
-  .card h3 a {{ color: var(--text); text-decoration: none; }}
-  .card h3 a:hover {{ color: var(--accent); text-decoration: underline; }}
-  .meta {{ color: var(--muted); font-size: 0.82rem; margin-bottom: 8px; }}
-  .desc {{
-    color: var(--muted); font-size: 0.8rem; margin: 6px 0; line-height: 1.4;
-    display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden;
-  }}
-  .tags {{ display: flex; flex-wrap: wrap; gap: 4px; }}
-  .tag {{
-    background: var(--tag-bg); color: var(--tag-text); border-radius: 999px;
-    padding: 2px 9px; font-size: 0.75rem;
-  }}
-  .empty {{ color: var(--muted); text-align: center; padding: 48px 0; }}
-  .more {{ text-align: center; padding: 20px 0 0; }}
-  .more button {{
-    padding: 9px 18px; border-radius: 8px; border: 1px solid var(--border);
-    background: var(--panel); color: var(--text); font-size: 0.95rem; cursor: pointer;
-  }}
-  .more button:hover {{ border-color: var(--accent); color: var(--accent); }}
-  .foot {{ max-width: 1000px; margin: 0 auto; padding: 0 24px 32px; color: var(--muted); font-size: 0.8rem; }}
-  .foot a {{ color: var(--accent); }}
-</style>
-</head>
-<body>
-<header>
-  <h1>Video Games by Year</h1>
-  <div class="sub">{total} titles, {sources}. Filter by year and platform.</div>
-</header>
-<div class="controls">
-  <select id="year"><option value="">All years</option>{year_options}</select>
-  <select id="platform"><option value="">All platforms</option>{platform_options}</select>
-  <span class="count" id="count"></span>
-</div>
-<main><div class="grid" id="grid"></div><div class="more" id="more"></div></main>
-{footer}
-<script>
-const DATA = {data_json};
-const yearSel = document.getElementById('year');
-const platSel = document.getElementById('platform');
-const grid = document.getElementById('grid');
-const countEl = document.getElementById('count');
-
-const CHUNK = 200;
-const moreEl = document.getElementById('more');
-let current = [];
-let shown = 0;
-
-function render() {{
-  const y = yearSel.value;
-  const p = platSel.value;
-  current = DATA.filter(function(e) {{
-    if (y && String(e.year) !== y) return false;
-    if (p && e.platforms.indexOf(p) === -1) return false;
-    return true;
-  }});
-  countEl.textContent = current.length + ' title' + (current.length === 1 ? '' : 's');
-  if (!current.length) {{
-    grid.innerHTML = '<div class="empty">No titles match that combination.</div>';
-    moreEl.innerHTML = '';
-    return;
-  }}
-  grid.innerHTML = '';
-  shown = 0;
-  showMore();
-}}
-
-function showMore() {{
-  const next = Math.min(current.length, shown + CHUNK);
-  grid.insertAdjacentHTML('beforeend', current.slice(shown, next).map(cardHtml).join(''));
-  shown = next;
-  const remaining = current.length - shown;
-  moreEl.innerHTML = remaining > 0
-    ? '<button type="button" id="more-btn">Show ' + Math.min(CHUNK, remaining) + ' more (' + remaining + ' not shown yet)</button>'
-    : '';
-}}
-
-moreEl.addEventListener('click', function(ev) {{
-  if (ev.target && ev.target.id === 'more-btn') showMore();
-}});
-
-function cardHtml(e) {{
-    const titleHtml = e.url
-      ? '<a href="' + e.url + '" target="_blank" rel="noopener">' + escapeHtml(e.title) + '</a>'
-      : escapeHtml(e.title);
-    const metaBits = [e.year];
-    if (e.developer) metaBits.push(escapeHtml(e.developer));
-    if (e.genre) metaBits.push(escapeHtml(e.genre));
-    const tags = e.platforms.map(function(pl) {{
-      return '<span class="tag">' + escapeHtml(pl) + '</span>';
-    }}).join('');
-    const cover = e.image
-      ? '<img class="cover" src="' + e.image + '" alt="" loading="lazy" onerror="this.remove()">'
-      : '';
-    const desc = e.description
-      ? '<div class="desc">' + escapeHtml(e.description) + '</div>'
-      : '';
-    return '<div class="card">' + cover +
-      '<div class="card-body"><h3>' + titleHtml + '</h3>' +
-      '<div class="meta">' + metaBits.join(' &middot; ') + '</div>' +
-      desc +
-      '<div class="tags">' + tags + '</div></div></div>';
-}}
-
-function escapeHtml(s) {{
-  return String(s).replace(/[&<>"']/g, function(c) {{
-    return {{'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}}[c];
-  }});
-}}
-
-yearSel.addEventListener('change', render);
-platSel.addEventListener('change', render);
-render();
-</script>
-</body>
-</html>
-"""
 
 
 def main():
@@ -706,7 +666,7 @@ def main():
     generate_readme(by_year, platform_meta)
     generate_interactive_page(by_year)
     print(f"\nREADME.md, {len(by_year)} year pages, {len(platform_meta)} platform pages, "
-          f"data/all_games.json, and index.html generated.")
+          f"data/all_games.json, data/web/*.js, and index.html generated.")
     for directory in (YEARS_DIR, PLATFORMS_DIR):
         for page in sorted(directory.rglob("*.md")):
             if page.stat().st_size > 450_000:
