@@ -30,6 +30,7 @@ from titles import norm_title
 
 ROOT = Path(__file__).resolve().parent.parent
 IGDB_DIR = ROOT / "data" / "igdb"
+LOOKUP_DIR = ROOT / "data" / "igdb_lookup"
 YEARS_DIR = ROOT / "years"
 PLATFORMS_DIR = ROOT / "platforms"
 # GitHub stops rendering Markdown files somewhere around 512 KB; stay well under.
@@ -72,6 +73,29 @@ def igdb_entry(rec):
     }
 
 
+def apply_lookups(by_year):
+    """Attach the IGDB records scripts/lookup_igdb.py verified (by name, year,
+    developer and platforms) for games that came from Wikipedia's category
+    pages, which have no cover or summary of their own. An entry with no
+    platform tag borrows IGDB's, minus platforms that didn't exist yet in the
+    game's year. Returns how many entries got a record."""
+    attached = 0
+    for year, entries in by_year.items():
+        path = LOOKUP_DIR / f"{year}.json"
+        if not path.exists():
+            continue
+        found = json.loads(path.read_text(encoding="utf-8"))
+        for entry in entries:
+            rec = found.get(entry.get("wiki_title") or "") if entry.get("from_category") else None
+            if not isinstance(rec, dict):
+                continue
+            entry["igdb"] = rec
+            if not entry["platforms"]:
+                entry["platforms"] = available_in_year(rec["platforms"], entry["year"])
+            attached += 1
+    return attached
+
+
 def merge_igdb(by_year):
     """Fold data/igdb/ into the Wikipedia-sourced years; returns the merged
     years and how many titles were newly added.
@@ -82,7 +106,9 @@ def merge_igdb(by_year):
     normalized title. It keeps its Wikipedia platform tags (IGDB's platform
     list is per-game, not per-year; an entry with none borrows IGDB's) and
     gains IGDB's cover/summary as enrichment. Everything else becomes a new
-    entry."""
+    entry -- unless lookup_igdb.py already attached that very IGDB game to a
+    Wikipedia entry under another name ("Lemmings 3D" for "3D Lemmings")."""
+    apply_lookups(by_year)
     records = {}
     for path in sorted(IGDB_DIR.glob("*.json"), key=lambda p: int(p.stem)):
         records[int(path.stem)] = json.loads(path.read_text(encoding="utf-8"))
@@ -90,9 +116,12 @@ def merge_igdb(by_year):
         return by_year, 0
 
     existing = defaultdict(dict)  # normalized title -> {year: entry}
+    claimed = set()               # IGDB ids already attached to a Wikipedia entry
     for year, entries in by_year.items():
         for entry in entries:
             existing[norm_title(entry["title"])].setdefault(year, entry)
+            if entry.get("igdb"):
+                claimed.add(entry["igdb"].get("igdb_id"))
 
     added = 0
     for year, recs in records.items():
@@ -105,6 +134,8 @@ def merge_igdb(by_year):
                     # No platform tag means the console filter can't find it; borrow
                     # IGDB's, minus platforms that didn't exist yet in the game's year.
                     match["platforms"] = available_in_year(rec["platforms"], match["year"])
+                continue
+            if rec.get("igdb_id") in claimed:
                 continue
             entry = igdb_entry(rec)
             by_year.setdefault(year, []).append(entry)
@@ -412,6 +443,7 @@ def generate_readme(by_year, platform_meta):
     from_igdb = sum(1 for entries in by_year.values() for e in entries if e.get("source") == "igdb")
     from_category = sum(1 for entries in by_year.values() for e in entries if e.get("from_category"))
     from_steam = sum(1 for entries in by_year.values() for e in entries if e.get("steam"))
+    igdb_matched = sum(1 for entries in by_year.values() for e in entries if e.get("igdb") and e.get("source") != "igdb")
 
     lines = [
         "# List of Years in Video Games",
@@ -422,7 +454,8 @@ def generate_readme(by_year, platform_meta):
         "so you can filter to just one console's releases for a given year."
         + (" Games with their own Wikipedia article that those tables miss are added from its per-year "
            "[video game categories](https://en.wikipedia.org/wiki/Category:Video_games_by_year)." if from_category else "")
-        + (" Years Wikipedia covers thinly are topped up with notable titles from [IGDB](https://www.igdb.com)." if from_igdb else ""),
+        + (" Years Wikipedia covers thinly are topped up with notable titles from [IGDB](https://www.igdb.com)." if from_igdb else "")
+        + (" IGDB also supplies covers and summaries for many of the listed games." if igdb_matched else ""),
         "",
         f"**{total_entries:,} titles** across {len(years)} years "
         f"({years[0]}-{years[-1]}), **{tagged:,}** tagged with at least one platform."
@@ -498,6 +531,14 @@ def generate_readme(by_year, platform_meta):
         "original year, and many of these titles have no release month."
         if from_category else None
     )
+    category_matched = sum(1 for entries in by_year.values() for e in entries if e.get("from_category") and e.get("igdb"))
+    igdb_note = (
+        f"- {category_matched:,} of the {from_category:,} games added from the category pages have an IGDB record "
+        "(nearly all with a cover, most with a summary). A game gets one only when IGDB holds it under the same (or an "
+        "alternative) name in the same or an adjacent year and nothing else fits equally well -- same-name games are "
+        "common -- so the rest stay text-only rather than risk showing the wrong game."
+        if from_category and category_matched else None
+    )
     no_wiki_years = [y for y in years if not any(e.get("source") == "wikipedia" for e in by_year[y])]
     empty_years_note = None
     if no_wiki_years:
@@ -523,11 +564,18 @@ def generate_readme(by_year, platform_meta):
             "(`scripts/enrich_steam.py`). SteamDB's FAQ says it doesn't allow "
             "scraping, so Steam's API is used instead."
         )
-    if from_igdb:
+    if from_igdb or igdb_matched:
+        supplies = []
+        if from_igdb:
+            supplies.append(f"{from_igdb:,} additional titles, with platform tags, summaries and cover art")
+        if igdb_matched:
+            supplies.append(
+                f"covers, summaries and links for {igdb_matched:,} Wikipedia-sourced titles that it holds under the "
+                "same (or an alternative) name and release year"
+            )
         attribution.append(
-            f"- {from_igdb:,} additional titles, with platform tags, summaries and "
-            "cover art, come from [IGDB](https://www.igdb.com) via the "
-            "Twitch/IGDB API (`scripts/fetch_igdb.py`), used under IGDB's API "
+            "- [IGDB](https://www.igdb.com) supplies " + ", plus ".join(supplies) + ". It is used through the "
+            "Twitch/IGDB API (`scripts/fetch_igdb.py`, `scripts/lookup_igdb.py`) under IGDB's API "
             "terms for non-commercial purposes. Cover art is hotlinked from "
             "IGDB's image CDN rather than copied here and belongs to its "
             "rights-holders."
@@ -556,6 +604,7 @@ def generate_readme(by_year, platform_meta):
         "",
         gap_note,
         *([category_note] if category_note else []),
+        *([igdb_note] if igdb_note else []),
         *([empty_years_note] if empty_years_note else []),
         "- Platform tags come from each article's own abbreviation legend "
         "(e.g. \"PS2\", \"WIN\") plus a curated lookup table for consistency "
@@ -572,6 +621,7 @@ def generate_readme(by_year, platform_meta):
         "python scripts/scrape_categories.py                  # \"Category:YYYY video games\" members     -> data/categories/",
         "python scripts/scrape_categories.py --infoboxes      # developer, publisher, genre, platforms for those articles",
         "python scripts/fetch_igdb.py                         # optional: notable titles from IGDB (needs Twitch credentials in .env)",
+        "python scripts/lookup_igdb.py                        # optional: IGDB covers and summaries for the category-sourced games",
         "python scripts/generate_site.py                      # README, years/, platforms/, data/web/ and index.html",
         "```",
         "",
@@ -625,6 +675,9 @@ def generate_interactive_page(by_year):
                                ("l", "url"), ("i", "image"), ("s", "description")):
                 if e[field]:
                     rec[key] = e[field]
+            if "i" in rec:
+                # IGDB serves each cover in several sizes; a 64px thumbnail needs the small one.
+                rec["i"] = rec["i"].replace("/t_cover_big/", "/t_cover_small/")
             compact.append(rec)
         data = json.dumps(compact, ensure_ascii=False, separators=(",", ":"))
         (web_dir / f"{year}.js").write_text(f"(window.GAMES = window.GAMES || {{}})[{year}] = {data};\n", encoding="utf-8")
@@ -639,16 +692,18 @@ def generate_interactive_page(by_year):
         'rel="noopener">Wikipedia</a> (<a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" '
         'rel="noopener">CC BY-SA 4.0</a>).'
     ]
-    if from_igdb:
+    igdb_used = any(e.get("igdb") for entries in by_year.values() for e in entries)
+    if igdb_used:
         footer.append(
-            'Additional titles, platform tags and cover art from '
-            '<a href="https://www.igdb.com" target="_blank" rel="noopener">IGDB.com</a>. '
+            'Cover art, summaries'
+            + (', platform tags and additional titles' if from_igdb else '')
+            + ' from <a href="https://www.igdb.com" target="_blank" rel="noopener">IGDB.com</a>. '
             'Cover art belongs to its rights-holders.'
         )
     template = (Path(__file__).resolve().parent / "page_template.html").read_text(encoding="utf-8")
     html = (
         template.replace("@@TOTAL@@", f"{len(flat):,}")
-        .replace("@@SOURCES@@", "from Wikipedia's video game articles and categories" + (" and IGDB" if from_igdb else ""))
+        .replace("@@SOURCES@@", "from Wikipedia's video game articles and categories" + (" and IGDB" if igdb_used else ""))
         .replace("@@FOOTER@@", '<footer class="foot">' + " ".join(footer) + "</footer>")
         .replace("@@YEARS_JSON@@", json.dumps(years_meta, ensure_ascii=False, separators=(",", ":")))
     )

@@ -50,6 +50,7 @@ LOG_DIR = ROOT / "logs"
 
 TOKEN_URL = "https://id.twitch.tv/oauth2/token"
 API_URL = "https://api.igdb.com/v4/games"
+MULTIQUERY_URL = "https://api.igdb.com/v4/multiquery"  # up to 10 named queries in one request
 COVER_URL = "https://images.igdb.com/igdb/image/upload/t_cover_big/{image_id}.jpg"
 USER_AGENT = "VideoGameYearsArchiveBot/1.0 (personal research/archival project)"
 
@@ -130,13 +131,13 @@ class IGDBClient:
             )
         self.token = resp.json()["access_token"]
 
-    def query(self, body, retries=4):
+    def query(self, body, retries=4, url=API_URL):
         for attempt in range(retries):
             if not self.token:
                 self.authenticate()
             headers = {"Client-ID": self.client_id, "Authorization": f"Bearer {self.token}"}
             try:
-                resp = self.session.post(API_URL, data=body.encode("utf-8"), headers=headers, timeout=60)
+                resp = self.session.post(url, data=body.encode("utf-8"), headers=headers, timeout=60)
             except requests.RequestException:
                 time.sleep(3 * (attempt + 1))
                 continue
