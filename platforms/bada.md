@@ -10,9 +10,15 @@
 
 ### Doodle God
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co3m4j.jpg" alt="Doodle God cover" width="200">
+
 **Platforms:** Browser, Android, Bada, BlackBerry OS, iOS, Mobile phone, macOS, Windows Phone &nbsp;|&nbsp; **Developer:** JoyBits &nbsp;|&nbsp; **Genre:** Puzzle &nbsp;|&nbsp; **Released:** June 11, 2010
 
-[Wikipedia](https://en.wikipedia.org/wiki/Doodle_God)
+> Doodle God is a puzzle video game initially released for the iPhone/iPod Touch and subsequently released as a flash browser game, an Android game and a Windows Phone app. The Adobe Flash online browser game can be found on Armor Games. Version 1.1 was released on June 27, 2010. Doodle God's gameplay is inspired by Russian online javascript game 'Alchemygame' based on an old DOS game named 'Alchemy'.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Doodle_God) · [IGDB](https://www.igdb.com/games/doodle-god)
 
 ---
 
@@ -40,8 +46,14 @@
 
 ### Zenonia
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/cocsir.jpg" alt="Zenonia cover" width="200">
+
 **Platforms:** Windows Mobile, Bada, Mobile phone &nbsp;|&nbsp; **Developer:** Gamevil &nbsp;|&nbsp; **Publisher:** Gamevil &nbsp;|&nbsp; **Genre:** Action role-playing game &nbsp;|&nbsp; **Released:** August 28, 2008
 
-[Wikipedia](https://en.wikipedia.org/wiki/Zenonia)
+> Guide the hero through many amazing fights with monsters. Do absorbing tasks and fight monsters. Do absorbing tasks and defeat the powers of evil. Immerse into a fantasy world of this game for Android. Choose from several characters, each with its own history and amazing abilities. Depending on your decisions while playing the game the hero can become evil or good. Defeat a variety of enemies and collect loot. Upgrade your hero's equipment, level up, learn new skills, and explore the world.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Zenonia) · [IGDB](https://www.igdb.com/games/zenonia)
 
 ---

@@ -2,7 +2,7 @@
 
 [← Back to index](../README.md)
 
-4 titles across 2 years in this archive.
+5 titles across 3 years in this archive.
 
 ## 1997
 
@@ -10,17 +10,47 @@
 
 ### Cyber Citizen Shockman Zero
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co8esh.jpg" alt="Cyber Citizen Shockman Zero cover" width="200">
+
 **Platforms:** Satellaview &nbsp;|&nbsp; **Developer:** Masaya Games &nbsp;|&nbsp; **Publisher:** NCS Corporation, Columbus Circle, Ratalaika Games, Retro-Bit &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** March 20, 1997
 
-[Wikipedia](https://en.wikipedia.org/wiki/Cyber_Citizen_Shockman_Zero)
+> A Super Famicom game in the Schbibinman/Shockman series, first released as a (view-limited) downloadable game via the Broadcast Satellaview satellite service in Japan and later re-released in cartridge format, many years after the Super Famicom lifespan, in 2017.  In 2024, the game was announced for an European and American release, published by Retro-bit, with an all-new official English translation for the first time.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Cyber_Citizen_Shockman_Zero) · [IGDB](https://www.igdb.com/games/schbibinman-zero-shockman-zero)
 
 ---
 
 ### Itoi Shigesato no Bass Tsuri No. 1
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co43o9.jpg" alt="Itoi Shigesato no Bass Tsuri No. 1 cover" width="200">
+
 **Platforms:** Satellaview, Super Nintendo Entertainment System &nbsp;|&nbsp; **Developer:** HAL Laboratory &nbsp;|&nbsp; **Publisher:** Nintendo &nbsp;|&nbsp; **Genre:** Fishing &nbsp;|&nbsp; **Released:** February 21, 1997
 
-[Wikipedia](https://en.wikipedia.org/wiki/Itoi_Shigesato_no_Bass_Tsuri_No._1)
+> Itoi Shigesato no Bass Tsuri No. 1 is a fishing video game developed and released only in Japan for the Super Famicom on February 21, 1997 and updated for broadcast as eight different episodes on the Satellaview subsystem between April and November 1997.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Itoi_Shigesato_no_Bass_Tsuri_No._1) · [IGDB](https://www.igdb.com/games/itoi-shigesato-no-bass-tsuri-no-1)
+
+---
+
+## 1996
+
+[Full 1996 page](../years/1996.md)
+
+### Dynami Tracer
+
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2a5k.jpg" alt="Dynami Tracer cover" width="200">
+
+**Platforms:** Satellaview &nbsp;|&nbsp; **Genre:** Racing, Role-playing (RPG)
+
+> Dynami Tracer is a Downloadable Game for the Satellaview that was released on January 27, 1996.  Dynami Tracer is a sci-fi dialogue-heavy adventure game about eight racers,
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Dynami_Tracer) · [IGDB](https://www.igdb.com/games/dynami-tracer)
 
 ---
 

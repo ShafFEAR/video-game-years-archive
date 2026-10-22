@@ -2,7 +2,7 @@
 
 [← Back to index](../README.md)
 
-82 titles across 9 years in this archive.
+80 titles across 9 years in this archive.
 
 ## 2001
 
@@ -34,17 +34,29 @@
 
 ### Férias Frustradas do Pica-Pau
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co3c05.jpg" alt="Férias Frustradas do Pica-Pau cover" width="200">
+
 **Platforms:** Genesis / Mega Drive, Sega Master System &nbsp;|&nbsp; **Developer:** Tec Toy &nbsp;|&nbsp; **Publisher:** Tec Toy &nbsp;|&nbsp; **Genre:** Platform &nbsp;|&nbsp; **Released:** October 1996
 
-[Wikipedia](https://en.wikipedia.org/wiki/F%C3%A9rias_Frustradas_do_Pica-Pau)
+> Férias frustradas do Pica-Pau (roughly translated as Woody Woodpecker's Frustrated Vacations) is a platform game developed and published by Tectoy and released exclusively in Brazil for the Sega Mega Drive and Sega Master System. It stars cartoon character Woody Woodpecker on a quest to save his friends.  Férias Frustradas do Pica-Pau is unusual in that it keeps a non-shaded cartoon style throughout the entire game.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/F%C3%A9rias_Frustradas_do_Pica-Pau) · [IGDB](https://www.igdb.com/games/ferias-frustradas-do-pica-pau)
 
 ---
 
 ### X-Men: Mojo World
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co4eb5.jpg" alt="X-Men: Mojo World cover" width="200">
+
 **Platforms:** Game Gear, Sega Master System &nbsp;|&nbsp; **Developer:** Sega &nbsp;|&nbsp; **Publisher:** Sega, Tec Toy &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** September 27, 1996
 
-[Wikipedia](https://en.wikipedia.org/wiki/X-Men:_Mojo_World)
+> X-Men: Mojo World, a video game released in 1996 for the Game Gear system, features Wolverine and Rogue as the initial playable X-Men, with Gambit, Cyclops, Havok, and Shard unlockable later on. The game utilizes the same engine as its predecessor, X-Men: Gamesmaster's Legacy, and was also launched for the Master System in Brazil by Tec Toy.  Set in a dystopian future, Mojo hosts a deadly TV show where participants engage in fights to the death. Having imprisoned certain X-Men from the past, Mojo aims to recreate their most epic battles. Wolverine and Rogue must enter the game, rescue their friends, and ultimately defeat Mojo to return home.  Players start by choosing either Wolverine or Rogue. As each new level is conquered, additional X-Men become available, starting with Gambit, followed by Cyclops, Havok, and finally Shard. If any X-Men perish, the player must restart the level, selecting from the remaining characters. When all X-Men are defeated, the game concludes.  Each character can activate their unique power at will. Wolverine employs his claws, Rogue can fly, Gambit hurls explosive cards, Cyclops unleashes optic blasts, Havok fires plasma blasts, and Shard utilizes energy blasts. Characters have both an energy meter and a power meter, depleting when they take hits or use their powers. Energy and power-restoring items can be found throughout the game.  The gameplay primarily revolves around navigating through six levels, with each level culminating in a boss battle against well-known comic characters such as Magneto, Fitzroy, a Sentinel, and others.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/X-Men:_Mojo_World) · [IGDB](https://www.igdb.com/games/x-men-mojo-world)
 
 ---
 
@@ -62,17 +74,29 @@
 
 ### Championship Hockey
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co6yin.jpg" alt="Championship Hockey cover" width="200">
+
 **Platforms:** Sega Master System, Game Gear &nbsp;|&nbsp; **Developer:** Electronic Arts &nbsp;|&nbsp; **Publisher:** U.S. Gold &nbsp;|&nbsp; **Genre:** Sports &nbsp;|&nbsp; **Released:** May 1995
 
-[Wikipedia](https://en.wikipedia.org/wiki/Championship_Hockey)
+> Compete in a super realistic ice hockey game with all the frantic action of Championship Hockey - skilful skating, thundering body checks and rifling slap shots. You'll have to skate well to avoid crunching body checks from defenders and out manoeuvre goalkeepers in your quest for The Cup!
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Championship_Hockey) · [IGDB](https://www.igdb.com/games/championship-hockey)
 
 ---
 
 ### Cheese Cat-Astrophe Starring Speedy Gonzales
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co4tf4.jpg" alt="Cheese Cat-Astrophe Starring Speedy Gonzales cover" width="200">
+
 **Platforms:** Genesis / Mega Drive, Sega Master System, Game Gear &nbsp;|&nbsp; **Developer:** Cryo Interactive &nbsp;|&nbsp; **Publisher:** Sega &nbsp;|&nbsp; **Genre:** Platform &nbsp;|&nbsp; **Released:** May 1995
 
-[Wikipedia](https://en.wikipedia.org/wiki/Cheese_Cat-Astrophe_Starring_Speedy_Gonzales)
+> Sylvester's alter ego, the dastardly Dr. Cheesefinger, has "kidnapped" the cheese supply and Speedy Gonzales' girlfriend, Carmel. Can this "speedy-mouse" outwit the callous cat and rescue the village cheese supply?
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Cheese_Cat-Astrophe_Starring_Speedy_Gonzales) · [IGDB](https://www.igdb.com/games/cheese-cat-astrophe-starring-speedy-gonzales)
 
 ---
 
@@ -82,17 +106,29 @@
 
 ### Buggy Run
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co4ifl.jpg" alt="Buggy Run cover" width="200">
+
 **Platforms:** Sega Master System &nbsp;|&nbsp; **Developer:** SIMS &nbsp;|&nbsp; **Publisher:** Sega &nbsp;|&nbsp; **Genre:** Racing &nbsp;|&nbsp; **Released:** March 10, 1994
 
-[Wikipedia](https://en.wikipedia.org/wiki/Buggy_Run)
+> Buggy Run is a game that lets players race dune buggies in a championship over 15 possible tracks (plus 4 in 2 player mode) each winning money that can be used for dune buggy upgrades. There are 4 different modes that can be played in single player mode that includes Race, Vs Com, Freerun, and Battle.  In the main mode Race the player is given $20,000 starting cash that can be used to upgrade the buggy. The upgradable features of the buggy are Tyres (grip), Engine (speed), Suspension (limits bounce), Steering (cornering), Transmission (performance). All the upgrades cost $10,000 for level 2, $30,000 for level 3, and $50,000 for level 4 however the player doesn’t need to get them in order. There are also special upgrades to buy that includes $5000 for a mine (drops behind and if another car hits then it is blown up until reset), $5000 for Nitoro (gives the players car a short speed boost), and $10,000 for extra capacity of special items (starts with 2 slots to a max of 6). Special Items must be used in the order they're placed in the slots.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Buggy_Run) · [IGDB](https://www.igdb.com/games/buggy-run)
 
 ---
 
 ### Daffy Duck in Hollywood
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co4hjv.jpg" alt="Daffy Duck in Hollywood cover" width="200">
+
 **Platforms:** Sega Master System, Game Gear &nbsp;|&nbsp; **Developer:** Psionic Systems, Probe Software &nbsp;|&nbsp; **Publisher:** Sega &nbsp;|&nbsp; **Genre:** Platform &nbsp;|&nbsp; **Released:** December 1994
 
-[Wikipedia](https://en.wikipedia.org/wiki/Daffy_Duck_in_Hollywood_(video_game))
+> Presenting the world famous Daffy Duck P.I. Armed with your lethal bubble gun, search the Hollywood film sets for Yosemite Sam's Golden Cartoon World Movie Awards and the despicable Mad Professor Duck Brain.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Daffy_Duck_in_Hollywood_(video_game)) · [IGDB](https://www.igdb.com/games/daffy-duck-in-hollywood)
 
 ---
 
@@ -158,17 +194,29 @@
 
 ### Andre Agassi Tennis
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2l16.jpg" alt="Andre Agassi Tennis cover" width="200">
+
 **Platforms:** Sega Master System, Game Gear, Genesis / Mega Drive, Mobile phone &nbsp;|&nbsp; **Developer:** TecMagik &nbsp;|&nbsp; **Publisher:** TecMagik &nbsp;|&nbsp; **Genre:** Sports &nbsp;|&nbsp; **Released:** January 1993
 
-[Wikipedia](https://en.wikipedia.org/wiki/Andre_Agassi_Tennis)
+> A game endorsed by the American player who stunned the tennis world in the early 90s with his "Image is everything" looks, sporting long hair, earrings and colorful shirts, Andre Agassi Tennis includes eight players (male and female and as as expected, only Agassi is a real player) rated according to movement speed and both accuracy and strength on serve, backhand and forehand.  Gameplay features all the usual moves: smashes, passing shots, volleys and all kinds of backhand and forehand plays, but unlike other games, precise positioning and timing are crucial to avoid hitting the ball outside the court, swinging the racket into thin air or more embarrassing, let the ball hit you on the head. Three courts are available: Grass, Clay and Indoor (Sega versions add a fourth, Hard), but the differences between them are minimal. Game modes change according to the version, with the 16-bit versions including a "Skins" game, where each point is worth a sum of money based on the number of times the ball was hit.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Andre_Agassi_Tennis) · [IGDB](https://www.igdb.com/games/andre-agassi-tennis)
 
 ---
 
 ### Bram Stoker's Dracula
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co6vqa.jpg" alt="Bram Stoker's Dracula cover" width="200">
+
 **Platforms:** Genesis / Mega Drive, Game Gear, Nintendo Entertainment System, Super Nintendo Entertainment System, Sega Master System, Sega CD &nbsp;|&nbsp; **Developer:** Psygnosis, Traveller's Tales (Genesis and SNES, Probe Software &nbsp;|&nbsp; **Publisher:** Sony Imagesoft, Psygnosis &nbsp;|&nbsp; **Genre:** Platform, Beat 'em up, First-person shooter &nbsp;|&nbsp; **Released:** September 1993
 
-[Wikipedia](https://en.wikipedia.org/wiki/Bram_Stoker's_Dracula_(video_game))
+> Bram Stoker's Dracula is game loosely based on the 1992 film of the same name. It was released simultaneously for multiple consoles and while the plot remains largely the same, there are differing styles of gameplay and graphics across platforms.  This version of Bram Stoker's Dracula is a side-scrolling platforming action game where you play as the young lawyer named Jonathan Harker. Harker must free himself from Count Dracula's captivity, follow him to London, and end his reign of terror.  Throughout the levels, Abraham Van Helsing will help Jonathan in his quest by providing advanced weapons. The game includes six different stages (each having between a number of areas, except for the final stage which only has one area) and fights various bosses, such as Lucy Westenra as a vampiress, Count Dracula's three brides, Dracula's coach driver, Dracula's fire-breathing dragon, Renfield, and even Dracula himself in multiple forms, such as his bat form, his young form, his evil wolf form and finally his knight form.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Bram_Stoker's_Dracula_(video_game)) · [IGDB](https://www.igdb.com/games/bram-stoker-s-dracula)
 
 ---
 
@@ -246,9 +294,15 @@
 
 ### Jurassic Park
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2zdy.jpg" alt="Jurassic Park cover" width="200">
+
 **Platforms:** Game Gear, Sega Master System &nbsp;|&nbsp; **Developer:** Sega &nbsp;|&nbsp; **Publisher:** Sega &nbsp;|&nbsp; **Genre:** Platform &nbsp;|&nbsp; **Released:** July 30, 1993
 
-[Wikipedia](https://en.wikipedia.org/wiki/Jurassic_Park_(Game_Gear_video_game))
+> One of many games based on the 1993 blockbuster Jurassic Park, the version for Sega's 8-bit systems combines side-scrolling shooting action and platforming levels.  In each of the five stages of the game, one escaped dinosaur species must be recaptured. Each level begins with a side-scrolling driving section. Dinosaurs attack the car and must be fended off by firing at them with a crosshair. If the player survives long enough, a boss battle against an especially powerful dinosaur follows.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Jurassic_Park_(Game_Gear_video_game)) · [IGDB](https://www.igdb.com/games/jurassic-park--6)
 
 ---
 
@@ -268,9 +322,15 @@
 
 ### Power Strike II
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co635m.jpg" alt="Power Strike II cover" width="200">
+
 **Platforms:** Sega Master System &nbsp;|&nbsp; **Developer:** Compile &nbsp;|&nbsp; **Publisher:** Sega &nbsp;|&nbsp; **Genre:** Vertically scrolling shooter &nbsp;|&nbsp; **Released:** September 1993
 
-[Wikipedia](https://en.wikipedia.org/wiki/Power_Strike_II_(Master_System_video_game))
+> Power Strike II is a top-down vertical shoot 'em up video game developed by Compile. It was published by Sega in 1993, only released in Europe and Brazil.  This game moves from the setting of previous games to a steampunk version of the 1930s, where the player controls the Falcon Flyer and fights against sky pirates.  Not to be confused with Power Strike II / GG Aleste II for the Sega Game Gear.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Power_Strike_II_(Master_System_video_game)) · [IGDB](https://www.igdb.com/games/power-strike-ii)
 
 ---
 
@@ -290,55 +350,71 @@
 
 ### Sega World Tournament Golf
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/cobmyb.jpg" alt="Sega World Tournament Golf cover" width="200">
+
 **Platforms:** Sega Master System &nbsp;|&nbsp; **Developer:** Sega &nbsp;|&nbsp; **Publisher:** Sega &nbsp;|&nbsp; **Genre:** Sports &nbsp;|&nbsp; **Released:** July 1993
 
-[Wikipedia](https://en.wikipedia.org/wiki/Sega_World_Tournament_Golf)
+> "Challenging courses, a variety of modes and realistic gameplay - Sega World Tournament Golf has it all!"
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Sega_World_Tournament_Golf) · [IGDB](https://www.igdb.com/games/sega-world-tournament-golf)
 
 ---
 
 ### Sonic Chaos
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co3kly.jpg" alt="Sonic Chaos cover" width="200">
+
 **Platforms:** Game Gear, Sega Master System &nbsp;|&nbsp; **Developer:** Aspect &nbsp;|&nbsp; **Publisher:** Sega &nbsp;|&nbsp; **Genre:** Platform &nbsp;|&nbsp; **Released:** November 19, 1993
-
-[Wikipedia](https://en.wikipedia.org/wiki/Sonic_Chaos)
-
----
-
-### Sonic the Hedgehog Chaos
-
-<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co3kly.jpg" alt="Sonic the Hedgehog Chaos cover" width="200">
-
-**Platforms:** Game Gear, Sega Master System &nbsp;|&nbsp; **Developer:** Aspect &nbsp;|&nbsp; **Publisher:** Sega, Tec Toy &nbsp;|&nbsp; **Genre:** Platform, Adventure &nbsp;|&nbsp; **Released:** October 25, 1993
 
 > Dr. Robotnik has stolen the Red Chaos Emerald, causing the other five to "lose balance" and scatter themselves into a parallel universe. As a result of the instability, South Island is now sinking into the ocean. It is up to Sonic and Tails to find the Chaos Emeralds and restore harmony to the universe, or else the innocent residents of South Island will find themselves taking a long swim.
 >
 > _Synopsis source: IGDB_
 
-[IGDB](https://www.igdb.com/games/sonic-the-hedgehog-chaos)
+[Wikipedia](https://en.wikipedia.org/wiki/Sonic_Chaos) · [IGDB](https://www.igdb.com/games/sonic-the-hedgehog-chaos)
 
 ---
 
 ### Tecmo World Cup '93
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/ofrgtszkyahkqsbrxlyv.jpg" alt="Tecmo World Cup '93 cover" width="200">
+
 **Platforms:** Sega Master System &nbsp;|&nbsp; **Developer:** SIMS &nbsp;|&nbsp; **Publisher:** Sega &nbsp;|&nbsp; **Genre:** Sports &nbsp;|&nbsp; **Released:** April 1993
 
-[Wikipedia](https://en.wikipedia.org/wiki/Tecmo_World_Cup_'93)
+> Twenty-four teams from around the globe have come to participate in this soccer showcase. Pick one and match your skills against the computer in an exhibition match, take on a friend, or put it all on the line in the World Cup Tournament! The action never stops!
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Tecmo_World_Cup_'93) · [IGDB](https://www.igdb.com/games/tecmo-world-cup-93)
 
 ---
 
 ### The Flash
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co3k5c.jpg" alt="The Flash cover" width="200">
+
 **Platforms:** Sega Master System, Game Boy &nbsp;|&nbsp; **Developer:** Probe Software, Equilibrium &nbsp;|&nbsp; **Publisher:** Sega, THQ &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** August 1993
 
-[Wikipedia](https://en.wikipedia.org/wiki/The_Flash_(video_game))
+> The Flash is an action video game based on the DC Comics superhero of the same name. It was developed and manufactured by Sega and Probe Entertainment for the Sega Master System in 1993. The game's release followed approximately two years after the cancellation of The Flash TV series on CBS.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/The_Flash_(video_game)) · [IGDB](https://www.igdb.com/games/the-flash)
 
 ---
 
 ### The Jungle Book
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2u3i.jpg" alt="The Jungle Book cover" width="200">
+
 **Platforms:** Sega Master System, Game Gear, MS-DOS &nbsp;|&nbsp; **Developer:** Syrox Developments, Eurocom, East Point Software &nbsp;|&nbsp; **Publisher:** Virgin Interactive Entertainment &nbsp;|&nbsp; **Genre:** Platform &nbsp;|&nbsp; **Released:** December 1993
 
-[Wikipedia](https://en.wikipedia.org/wiki/The_Jungle_Book_(video_game))
+> The Jungle Book game is based on a Disney movie hero Mowgli. It's a scrolling arcade action game. You play as Mowgli and your goal is to gather all gems and return to one of your friends or your mother. The jungle is full of the nasty animals and you have to make your way through it safely.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/The_Jungle_Book_(video_game)) · [IGDB](https://www.igdb.com/games/disneys-the-jungle-book--3)
 
 ---
 
@@ -364,17 +440,29 @@
 
 ### Air Rescue
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co8flb.jpg" alt="Air Rescue cover" width="200">
+
 **Platforms:** Arcade, Sega Master System &nbsp;|&nbsp; **Developer:** Sega, SIMS &nbsp;|&nbsp; **Publisher:** Sega &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** July 1992
 
-[Wikipedia](https://en.wikipedia.org/wiki/Air_Rescue)
+> Air Rescue is similar to Choplifter!. You are a driver of a helicopter and the object is to rescue hostages without being shot down by soldiers, jeeps, tanks, choppers, and ground-based missiles, and bring them back to base. A maximum of four hostages can fit into the helicopter at any given time, so it is necessary to make more than one trip. You can choose from a variety of weapons that you can use to shoot down enemies. There are five rounds, which take you through theme parks, burning skyscrapers, army bases, sunken submarines, and caverns. The round ends when you have taken the required number of hostages to the bases.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Air_Rescue) · [IGDB](https://www.igdb.com/games/air-rescue)
 
 ---
 
 ### Alien 3
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co47dv.jpg" alt="Alien 3 cover" width="200">
+
 **Platforms:** Amiga, Sega Master System, Genesis / Mega Drive &nbsp;|&nbsp; **Developer:** Probe Software, Bits Studios &nbsp;|&nbsp; **Publisher:** Acclaim Entertainment, Arena Entertainment, LJN &nbsp;|&nbsp; **Genre:** Run and gun &nbsp;|&nbsp; **Released:** October 21, 1992
 
-[Wikipedia](https://en.wikipedia.org/wiki/Alien_3_(video_game))
+> Alien³ was released after the Alien 3 film. After success on the Super Nintendo and Genesis platforms, the game was built and ported to other systems, including the Commodore 64 and Game Gear. The game is set on the world of the film, Fury 161, but the gameplay has more in common with the film Aliens, throwing wave after wave of enemies at the player.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Alien_3_(video_game)) · [IGDB](https://www.igdb.com/games/alien-3)
 
 ---
 
@@ -410,9 +498,15 @@
 
 ### Ayrton Senna's Super Monaco GP II
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co5k4w.jpg" alt="Ayrton Senna's Super Monaco GP II cover" width="200">
+
 **Platforms:** Genesis / Mega Drive, Sega Master System, Game Gear &nbsp;|&nbsp; **Developer:** Sega &nbsp;|&nbsp; **Publisher:** Sega &nbsp;|&nbsp; **Genre:** Racing &nbsp;|&nbsp; **Released:** July 17, 1992
 
-[Wikipedia](https://en.wikipedia.org/wiki/Ayrton_Senna's_Super_Monaco_GP_II)
+> Ayrton Senna's Super Monaco GP II or simply Super Monaco GP II is a racing game developed and published by Sega for the Sega Mega Drive, Sega Master System and Sega Game Gear in 1992. It is a sequel to Super Monaco GP, but this time the game is sponsored by Ayrton Senna (who won the Monaco Grand Prix six times). Also unlike the previous game, Super Monaco GP II was not released in arcades or for any non-Sega console or computer.  At the time of release it was regarded as the most realistic racing experience on home video game consoles, and the fact that it was endorsed by Ayrton Senna meant the game was very popular. However, due to these celebrity endorsements, it is unlikely Super Monaco GP II will be re-released without cutbacks.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Ayrton_Senna's_Super_Monaco_GP_II) · [IGDB](https://www.igdb.com/games/ayrton-sennas-super-monaco-gp-ii)
 
 ---
 
@@ -426,9 +520,15 @@
 
 ### Global Gladiators
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co4i6v.jpg" alt="Global Gladiators cover" width="200">
+
 **Platforms:** Genesis / Mega Drive, Sega Master System, Game Gear, Amiga &nbsp;|&nbsp; **Developer:** Virgin Games &nbsp;|&nbsp; **Publisher:** Virgin Games &nbsp;|&nbsp; **Genre:** Platform &nbsp;|&nbsp; **Released:** November 1992
 
-[Wikipedia](https://en.wikipedia.org/wiki/Global_Gladiators)
+> Global Gladiators (also known as Mick and Mack: Global Gladiators) is a 1992 platform game by Virgin Interactive, originally programmed by David Perry (who at the time had already moved to the United States and was located on the recently formed Virgin Games USA development studio) for the Mega Drive/Genesis and eventually ported by other Virgin Interactive teams in Europe (with the help of Graftgold and Krisalis Software) to the Sega Master System, Sega Game Gear and the Commodore Amiga. A Super Nintendo port was also in development but was never completed for undisclosed reasons, though a prototype exists on the Internet. The game is loosely based on the McDonald's fast food chain and has a strong environmentalist message.  A Game Boy port of the title was also fully developed (by Damian Stones, of Climax) but was never released for the same legal reasons as the Super Nintendo port.  In the single-player game, the player controls Mick or Mack through four worlds; Slime World, Mystical Forest, Toxi-town and Arctic World. Each world has several sub-stages where the character must collect a certain number of Golden Arches to advance.  They are guided in their quest by Ronald McDonald, who appears at the beginning and the end of the game. The characters are armed with a Super Soaker-type gun that shoots gooey projectiles.  The game engine is the same used in other Virgin Interactive games such as Cool Spot and Disney's Aladdin, as all of them (Mega Drive/Genesis versions) were handled by David Perry's programming team, which eventually turned into Shiny Entertainment.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Global_Gladiators) · [IGDB](https://www.igdb.com/games/global-gladiators)
 
 ---
 
@@ -450,9 +550,15 @@
 
 ### Olympic Gold
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co5oyy.jpg" alt="Olympic Gold cover" width="200">
+
 **Platforms:** Game Gear, Genesis / Mega Drive, Sega Master System &nbsp;|&nbsp; **Developer:** Tiertex &nbsp;|&nbsp; **Publisher:** U.S. Gold &nbsp;|&nbsp; **Genre:** Sports &nbsp;|&nbsp; **Released:** June 1992
 
-[Wikipedia](https://en.wikipedia.org/wiki/Olympic_Gold_(video_game))
+> Each computer athlete has a fictional name and nationality (choosing from UK, France, Germany, Italy, Spain, USA, Japan and the Unified Team, everyone with its own anthem snippet) and actual strengths and weaknesses: J. Balen, for instance, is a frequent 100 m and 110 m hurdles record breaker but only an average hammer thrower. Also, each computer controlled player seems better in a particular event depending on his country: Germans usually take the top spots in archery, Italians on swimming, Russians on pole vault, Americans on sprinting and so on.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Olympic_Gold_(video_game)) · [IGDB](https://www.igdb.com/games/olympic-gold-barcelona-92)
 
 ---
 
@@ -466,33 +572,57 @@
 
 ### Superman
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/cocm8x.jpg" alt="Superman cover" width="200">
+
 **Platforms:** Genesis / Mega Drive, Game Gear, Sega Master System &nbsp;|&nbsp; **Developer:** Thinking Rabbit &nbsp;|&nbsp; **Publisher:** Sunsoft, Virgin Games &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** December 1992
 
-[Wikipedia](https://en.wikipedia.org/wiki/Superman_(1992_video_game))
+> Superman (known in Europe as Superman: The Man of Steel) is a video game released by Sunsoft for the Mega Drive/Genesis in 1992. It is based on the DC Comics character of the same name. It is a traditional single-player side-scrolling arcade game where the player controls Superman through various levels in an effort to defeat the evil supervillain named Brainiac. Other super villains, as bosses, include The Prankster, Metallo and Mister Mxyzptlk.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Superman_(1992_video_game)) · [IGDB](https://www.igdb.com/games/superman--4)
 
 ---
 
 ### Taz-Mania
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co3wdc.jpg" alt="Taz-Mania cover" width="200">
+
 **Platforms:** Genesis / Mega Drive, Sega Master System, Game Gear &nbsp;|&nbsp; **Developer:** Recreational Brainware, NuFX, Technical Wave, Visual Concepts &nbsp;|&nbsp; **Publisher:** Sega, Sunsoft (SNES, GB), THQ, (SNES, GB) &nbsp;|&nbsp; **Genre:** Action, Adventure &nbsp;|&nbsp; **Released:** July 1992
 
-[Wikipedia](https://en.wikipedia.org/wiki/Taz-Mania_(video_game))
+> A video game adaptation of the Taz-Mania cartoon, starring the Tasmanian Devil. One of several games based on the license, the Sega versions features the same story, but has a unique design and set of levels in the different platforms.  Inspired by a tale his father told, Taz goes on a quest for the egg of a giant prehistoric seabird, which will lead him across the whole of Taz-Mania through 16 levels of platforming action. He must survive a desert, a jungle, a car factory, a mine and ancient ruins. Taz is able to run, jump, and spin fast to turn into his trademark whirlwind. While spinning, he can knock out most enemies he comes across. He can also pick up many different items and try to eat them or use them in another way. Most foods replenish his health, while eating hot peppers gives him a fire breath attack. Stars grant temporal invulnerability, while bombs should be thrown at enemies (and definitely not be eaten!).
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Taz-Mania_(video_game)) · [IGDB](https://www.igdb.com/games/taz-mania)
 
 ---
 
 ### Tom and Jerry: The Movie
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co71e2.jpg" alt="Tom and Jerry: The Movie cover" width="200">
+
 **Platforms:** Sega Master System &nbsp;|&nbsp; **Developer:** SIMS &nbsp;|&nbsp; **Publisher:** Sega &nbsp;|&nbsp; **Genre:** Platform &nbsp;|&nbsp; **Released:** October 1, 1992
 
-[Wikipedia](https://en.wikipedia.org/wiki/Tom_and_Jerry:_The_Movie_(video_game))
+> Oooooh, that mouse! If there's one thing Tom can't stand, it's a rascally rodent named Jerry, and if that mouse isn't careful, Tom is going to nab him. But Jerry is pretty tricky. So muster up all your feline courage, Tom, 'cause there's a dangerous little mouse in the house!
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Tom_and_Jerry:_The_Movie_(video_game)) · [IGDB](https://www.igdb.com/games/tom-and-jerry-the-movie)
 
 ---
 
 ### Wolfchild
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2jjx.jpg" alt="Wolfchild cover" width="200">
+
 **Platforms:** Amiga, Atari ST, Sega CD, Genesis / Mega Drive, Game Gear, Sega Master System, Super Nintendo Entertainment System &nbsp;|&nbsp; **Developer:** Core Design &nbsp;|&nbsp; **Publisher:** Core Design, Virgin Games, JVC Musical Industries &nbsp;|&nbsp; **Genre:** Platform game
 
-[Wikipedia](https://en.wikipedia.org/wiki/Wolfchild)
+> The world's most renowned biogenetic scientist has been kidnapped and brainwashed into creating an army of bloodthirsty mutant warriors.  Suddenly the fate of all mankind rests in the hands of his youngest son... and a top-secret mutating experiment known as "Project Wolfchild."  -10 freaky levels filled with mind-blowing mazes, brain twisting puzzles and against all-odds combat action.  -CD-quality graphics and a rockin' stereo soundtrack  -Grusome cast of unrelenting schitzoid mutants, each with the power to destroy  -Fully animated introduction sequence
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Wolfchild) · [IGDB](https://www.igdb.com/games/wolfchild)
 
 ---
 
@@ -502,17 +632,29 @@
 
 ### Danan: The Jungle Fighter
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co922w.jpg" alt="Danan: The Jungle Fighter cover" width="200">
+
 **Platforms:** Sega Master System &nbsp;|&nbsp; **Developer:** Whiteboard &nbsp;|&nbsp; **Publisher:** Sega &nbsp;|&nbsp; **Genre:** Action adventure &nbsp;|&nbsp; **Released:** January 1991
 
-[Wikipedia](https://en.wikipedia.org/wiki/Danan:_The_Jungle_Fighter)
+> Danan, the infant who was rescued from the remains of a wrecked airplane by Jimba, a young Amazon tribesman, came home from hunting one day to find his guardian mortally wounded! What happened to Jimba? Who would do such a thing? Help Danan to find the answers — stalk the hot, wet jungles of the Amazon, putting the pieces together as you go, and avenge Jimba's death!
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Danan:_The_Jungle_Fighter) · [IGDB](https://www.igdb.com/games/danan-the-jungle-fighter)
 
 ---
 
 ### Dizzy Panic
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co3ip8.jpg" alt="Dizzy Panic cover" width="200">
+
 **Platforms:** Amstrad CPC, ZX Spectrum, Commodore 64, Sega Master System, Game Gear &nbsp;|&nbsp; **Developer:** Big Red Software &nbsp;|&nbsp; **Publisher:** Codemasters &nbsp;|&nbsp; **Genre:** Puzzle &nbsp;|&nbsp; **Released:** May 14, 1991
 
-[Wikipedia](https://en.wikipedia.org/wiki/Dizzy_Panic)
+> Dizzy Panic is a puzzle video game based on the Dizzy series. Gameplay involves moving a wall left and right so that falling shapes pass through the appropriately shaped holes in the wall.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Dizzy_Panic) · [IGDB](https://www.igdb.com/games/dizzy-panic)
 
 ---
 
@@ -540,61 +682,71 @@
 
 ### James Pond 2
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co84wq.jpg" alt="James Pond 2 cover" width="200">
+
 **Platforms:** Amiga, Atari ST, Genesis / Mega Drive, Commodore 64, Acorn Archimedes, MS-DOS, Game Gear, Game Boy, Sega Master System, Super Nintendo Entertainment System &nbsp;|&nbsp; **Developer:** Vectordean, Intellectual Software Consultants Limited &nbsp;|&nbsp; **Publisher:** Millennium Interactive, Electronic Arts, U.S. Gold, Play It &nbsp;|&nbsp; **Genre:** Platform
 
-[Wikipedia](https://en.wikipedia.org/wiki/James_Pond_2)
+> In his second adventure James Pond must retrieve the toys Dr Maybe has stolen. Pond has been armed with an Inspector Gadget-style stretch device, which he can use to view higher areas or claw onto ceilings so as to slide across them.  The gameplay takes place across worlds themed around particular types of toys, such as sporting goods, candy and aircraft. The levels scroll sideways, although a small amount of vertical movement is included. On each level Pond must collect 2 penguins and reach the exit, although there are usually multiple exits and lots of secret areas to explore. After completing each pair of two worlds (each of which has three sub levels), a boss must be faced.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/James_Pond_2) · [IGDB](https://www.igdb.com/games/james-pond-2-codename-robocod)
 
 ---
 
 ### Running Battle
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/r1q2zxnrbnx7fsxcrhrh.jpg" alt="Running Battle cover" width="200">
+
 **Platforms:** Sega Master System &nbsp;|&nbsp; **Developer:** Opera House &nbsp;|&nbsp; **Publisher:** Sega &nbsp;|&nbsp; **Genre:** Beat 'em up &nbsp;|&nbsp; **Released:** October 1991
 
-[Wikipedia](https://en.wikipedia.org/wiki/Running_Battle)
+> A beat-em-up in which you take control of policeman Grey, who sets out to avenge the murder of his partner Brody and destroy the gang "Soldiers of Darkness" lead by "M".
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Running_Battle) · [IGDB](https://www.igdb.com/games/running-battle)
 
 ---
 
 ### Sega Chess
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/cocbix.jpg" alt="Sega Chess cover" width="200">
+
 **Platforms:** Sega Master System &nbsp;|&nbsp; **Developer:** Probe Software &nbsp;|&nbsp; **Publisher:** Sega &nbsp;|&nbsp; **Genre:** Computer chess &nbsp;|&nbsp; **Released:** November 14, 1991
 
-[Wikipedia](https://en.wikipedia.org/wiki/Sega_Chess)
+> Patience, cunning and a desire to be the best - the keys to becoming a master of chess. Sega Chess gives even the most seasoned player the game of a lifetime!
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Sega_Chess) · [IGDB](https://www.igdb.com/games/sega-chess)
 
 ---
 
 ### Sonic the Hedgehog
 
-<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/coanlj.jpg" alt="Sonic the Hedgehog cover" width="200">
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/cobt1i.jpg" alt="Sonic the Hedgehog cover" width="200">
 
 **Platforms:** Sega Master System, Game Gear &nbsp;|&nbsp; **Developer:** Ancient &nbsp;|&nbsp; **Publisher:** Sega &nbsp;|&nbsp; **Genre:** Platform &nbsp;|&nbsp; **Released:** November 8, 1991
 
-> Sonic the Hedgehog is a 2D side-scrolling platformer developed by Sonic Team and published by Sega for the Genesis/Mega Drive. Players control Sonic the Hedgehog, who can run at near supersonic speeds and sets out on a quest to defeat Dr. Robotnik, a scientist who has imprisoned animals in robots and seeks the powerful Chaos Emeralds.
+> This is a completely different game than its 16-bit counterpart on the Genesis/Mega Drive, and was originally released on the Sega Game Gear and Master System.  To stop the evil Dr. Robotnik, Sonic must traverse six zones consisting of three levels each. Most of the zones are based on those in the original game, but some are entirely new, including a jungle environment and a huge airship. Other unique differences are one level that scrolls automatically and one that is aligned vertically instead of horizontally. Most of the enemies (mechanized animals, defeated by Sonic's spikes when jumping or rolling) and power-ups (speed-ups, shields, extra lives) are the same as in the Genesis version as well. Sonic can pick up golden rings for protection (when hit, he simply loses all of his rings instead of a life) and bonuses: 100 rings gain Sonic an extra life, and 50 remaining rings at the end of a level allow access to pinball-themed special stages full of bumpers and springs. The final level of a zone is always a boss fight against Robotnik. Some of the boss fights differ in the Master System and Game Gear versions of the game, with special designs for the handheld version due to the smaller visible screen area.  Sonic should also collect the six Chaos Emeralds to keep them from falling into Robotnik's hands. In a departure from the original game, these are not hidden in the special stages but somewhere in the regular levels.
 >
 > _Synopsis source: IGDB_
 
-[Wikipedia](https://en.wikipedia.org/wiki/Sonic_the_Hedgehog_(8-bit_video_game)) · [IGDB](https://www.igdb.com/games/sonic-the-hedgehog)
+[Wikipedia](https://en.wikipedia.org/wiki/Sonic_the_Hedgehog_(8-bit_video_game)) · [IGDB](https://www.igdb.com/games/sonic-the-hedgehog--2)
 
 ---
 
 ### Spider-Man vs. The Kingpin
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co85oo.jpg" alt="Spider-Man vs. The Kingpin cover" width="200">
+
 **Platforms:** Genesis / Mega Drive, Sega Master System &nbsp;|&nbsp; **Developer:** Technopop, Recreational Brainware &nbsp;|&nbsp; **Publisher:** Sega &nbsp;|&nbsp; **Genre:** Action, platform &nbsp;|&nbsp; **Released:** August 1991
-
-[Wikipedia](https://en.wikipedia.org/wiki/Spider-Man_vs._The_Kingpin)
-
----
-
-### The Amazing Spider-Man vs. The Kingpin
-
-<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co85oo.jpg" alt="The Amazing Spider-Man vs. The Kingpin cover" width="200">
-
-**Platforms:** Sega Master System, Genesis / Mega Drive &nbsp;|&nbsp; **Developer:** Technopop &nbsp;|&nbsp; **Publisher:** Sega, Tec Toy &nbsp;|&nbsp; **Genre:** Platform &nbsp;|&nbsp; **Released:** December 31, 1991
 
 > Spider-Man vs. The Kingpin is a video game produced by Sega of America and developed by Technopop initially on the Mega Drive/Genesis. It was ported internally by Sega of America for the Master System and Game Gear consoles, the latter being published by Acclaim Entertainment through its Flying Edge division. An updated version was also released for the Sega CD under the name of The Amazing Spider-Man vs. The Kingpin.  All versions of the video game are side-scrolling platform games, whereby the player controls superhero Spider-Man to battle various supervillains (Doctor Octopus, Sandman, The Lizard, Hobgoblin, Vulture, Mysterio, Electro, and Venom) to obtain the keys needed to disarm a nuclear bomb that the Kingpin has not only framed Spider-Man for stealing but plans to detonate within twenty-four hours. In the middle of the game, Spider-Man's wife Mary Jane Watson is also kidnapped by Venom.
 >
 > _Synopsis source: IGDB_
 
-[IGDB](https://www.igdb.com/games/the-amazing-spider-man-vs-the-kingpin)
+[Wikipedia](https://en.wikipedia.org/wiki/Spider-Man_vs._The_Kingpin) · [IGDB](https://www.igdb.com/games/the-amazing-spider-man-vs-the-kingpin)
 
 ---
 
@@ -614,9 +766,15 @@
 
 ### The Flash
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co3k5a.jpg" alt="The Flash cover" width="200">
+
 **Platforms:** Sega Master System, Game Boy &nbsp;|&nbsp; **Developer:** Probe Software, Equilibrium &nbsp;|&nbsp; **Publisher:** Sega, THQ &nbsp;|&nbsp; **Genre:** Action
 
-[Wikipedia](https://en.wikipedia.org/wiki/The_Flash_(video_game))
+> The Flash is a game for the Game Boy, based on the 1990 television series of the same name. It was produced by THQ and released in the US in 1991.  The box art for the game features John Wesley Shipp as The Flash, a man with the ability to run "faster than a speeding bullet." In daily life, The Flash becomes is a Crime Lab technician named Barry Allen.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/The_Flash_(video_game)) · [IGDB](https://www.igdb.com/games/the-flash--1)
 
 ---
 
@@ -648,9 +806,15 @@
 
 ### Aerial Assault
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co6yhx.jpg" alt="Aerial Assault cover" width="200">
+
 **Platforms:** Sega Master System &nbsp;|&nbsp; **Developer:** Sanritsu &nbsp;|&nbsp; **Publisher:** Sega &nbsp;|&nbsp; **Genre:** Scrolling shooter &nbsp;|&nbsp; **Released:** July 1990
 
-[Wikipedia](https://en.wikipedia.org/wiki/Aerial_Assault)
+> A sidescrolling shooter in which you fight your way through 5 missions, each with a boss to defeat at the end. Along the way you find Power-Ups to help your odds either by improving your weapon or speed. Three difficulty levels are available (careful: "Easy" does not let you reach the very end)
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Aerial_Assault) · [IGDB](https://www.igdb.com/games/aerial-assault)
 
 ---
 
@@ -670,9 +834,15 @@
 
 ### Assault City
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/coacwk.jpg" alt="Assault City cover" width="200">
+
 **Platforms:** Sega Master System &nbsp;|&nbsp; **Developer:** Sanritsu &nbsp;|&nbsp; **Publisher:** Sega &nbsp;|&nbsp; **Genre:** Rail shooter
 
-[Wikipedia](https://en.wikipedia.org/wiki/Assault_City)
+> Robots Go Berserk! Dateline: Assault City, 2092. It's a robot mutiny! Central Computer Control is in chaos. Armed KillerBots are running amok, blasting loyal Bots into metal junk and piles of whining servomotors!
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Assault_City) · [IGDB](https://www.igdb.com/games/assault-city)
 
 ---
 
@@ -734,9 +904,15 @@
 
 ### Double Hawk
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/wpowmcgfl7wotvwhpcno.jpg" alt="Double Hawk cover" width="200">
+
 **Platforms:** Sega Master System &nbsp;|&nbsp; **Developer:** Opera House &nbsp;|&nbsp; **Publisher:** Sega &nbsp;|&nbsp; **Genre:** Shooter
 
-[Wikipedia](https://en.wikipedia.org/wiki/Double_Hawk)
+> You control the action as John and Jack, two warriors hand-picked by the United Nations, attempt to bring down a terrorist organization which is responsible for a worldwide wave of violence! The terrorists are capable of launching attacks from the sky, the sea, and by land. Are you the one person who can end this reign of terror?
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Double_Hawk) · [IGDB](https://www.igdb.com/games/double-hawk)
 
 ---
 
@@ -750,17 +926,29 @@
 
 ### Fire & Forget II
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/cocu67.jpg" alt="Fire & Forget II cover" width="200">
+
 **Platforms:** Amiga, Atari ST, Amstrad CPC, Commodore 64, MS-DOS, Sega Master System, Amstrad GX4000 &nbsp;|&nbsp; **Developer:** Titus &nbsp;|&nbsp; **Publisher:** Titus, Amstrad &nbsp;|&nbsp; **Genre:** Racing, shoot 'em up &nbsp;|&nbsp; **Released:** November 1990
 
-[Wikipedia](https://en.wikipedia.org/wiki/Fire_&_Forget_II)
+> art two in the Fire and Forget series, best described as Crazy Cars (also by Titus) with weapons in a futuristic setting. This game combines the genres action and driving.  In each of the five levels you need to blow your way to the front of the death convoy and shot down the leader of a group of terrorists, who plans to blow up a city. Your machine of destruction is a car with the ability to fly.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Fire_&_Forget_II) · [IGDB](https://www.igdb.com/games/fire-and-forget-2-the-death-convoy)
 
 ---
 
 ### Golfamania
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co659w.jpg" alt="Golfamania cover" width="200">
+
 **Platforms:** Sega Master System &nbsp;|&nbsp; **Developer:** Sanritsu &nbsp;|&nbsp; **Publisher:** Sega &nbsp;|&nbsp; **Genre:** Sports
 
-[Wikipedia](https://en.wikipedia.org/wiki/Golfamania)
+> You'll need sharp eyes, a smooth swing, and perfect judgment if you're going to master Golfamania. Out on the links you'll have to consider the distance, the wind, the lie of the ball, where to hit the ball and which club to use. Then watch that power meter and swing for the pin!
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Golfamania) · [IGDB](https://www.igdb.com/games/golfamania)
 
 ---
 
@@ -780,33 +968,57 @@
 
 ### Laser Ghost
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/cod18r.jpg" alt="Laser Ghost cover" width="200">
+
 **Platforms:** Arcade, Sega Master System &nbsp;|&nbsp; **Developer:** Sega &nbsp;|&nbsp; **Publisher:** Sega &nbsp;|&nbsp; **Genre:** Light gun shooter &nbsp;|&nbsp; **Released:** December 1990
 
-[Wikipedia](https://en.wikipedia.org/wiki/Laser_Ghost)
+> Laser Ghost is a horror-themed light gun shooter arcade video game released by Sega in 1990. There are three mounted guns set up on the cabinet, representing the three members of a ghost hunting team. The game puts the players in the role of Bill, Max and Carol, who must rescue a little girl kidnapped by a blue gargoyle, as well as protect the city from the ghost menace.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Laser_Ghost) · [IGDB](https://www.igdb.com/games/laser-ghost--2)
 
 ---
 
 ### R.C. Grand Prix
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co6yoj.jpg" alt="R.C. Grand Prix cover" width="200">
+
 **Platforms:** Sega Master System, Game Gear &nbsp;|&nbsp; **Developer:** Imagineering &nbsp;|&nbsp; **Genre:** Racing &nbsp;|&nbsp; **Released:** June 1990
 
-[Wikipedia](https://en.wikipedia.org/wiki/R.C._Grand_Prix)
+> R.C. Grand Prix is a Driving game, developed by Imagineering Inc and published by Absolute Entertainment, which was released in 1992.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/R.C._Grand_Prix) · [IGDB](https://www.igdb.com/games/rc-grand-prix)
 
 ---
 
 ### Slap Shot
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/unqzdi6dts8nvtpmb3ff.jpg" alt="Slap Shot cover" width="200">
+
 **Platforms:** Sega Master System &nbsp;|&nbsp; **Developer:** Sanritsu Denki &nbsp;|&nbsp; **Publisher:** Sega &nbsp;|&nbsp; **Genre:** Sports
 
-[Wikipedia](https://en.wikipedia.org/wiki/Slap_Shot_(video_game))
+> A hockey game which has nothing to do with the 1977 movie of the same name.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Slap_Shot_(video_game)) · [IGDB](https://www.igdb.com/games/slap-shot--1)
 
 ---
 
 ### Space Gun
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co8ecc.jpg" alt="Space Gun cover" width="200">
+
 **Platforms:** Arcade, Amiga, Atari ST, Commodore 64, MS-DOS, Sega Master System, ZX Spectrum &nbsp;|&nbsp; **Developer:** Taito &nbsp;|&nbsp; **Publisher:** Taito &nbsp;|&nbsp; **Genre:** Light gun shooter &nbsp;|&nbsp; **Released:** October 1990
 
-[Wikipedia](https://en.wikipedia.org/wiki/Space_Gun_(video_game))
+> Space Gun is a first-person, shoot 'em up arcade game released by Taito in 1990. It was later distributed for various home games consoles in 1992, and in 2005, it was included as part of the compilation Taito Legends on the PlayStation 2, PC and Xbox. It is set aboard a crippled space station that has been overrun by hostile alien creatures; there are human crew members that the player must attempt to rescue while destroying the alien creatures. Space Gun features simulated gore, giving the player the ability to shoot limbs off the creatures while blood splatters appear on screen. Various weapon upgrades can be found during gameplay. The music from the game is featured on several commercially released compact discs. It was fairly well received by critics both in arcades and when released for home systems. It was one of only a few games that supported a light gun peripheral for some of the home systems releases.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Space_Gun_(video_game)) · [IGDB](https://www.igdb.com/games/space-gun)
 
 ---
 
@@ -826,9 +1038,15 @@
 
 ### Strider II
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co9617.jpg" alt="Strider II cover" width="200">
+
 **Platforms:** Amiga, Amstrad CPC, Atari ST, Commodore 64, Game Gear, Sega Master System, Genesis / Mega Drive, ZX Spectrum &nbsp;|&nbsp; **Developer:** Tiertex &nbsp;|&nbsp; **Publisher:** U.S. Gold &nbsp;|&nbsp; **Genre:** Action, platform &nbsp;|&nbsp; **Released:** November 1990
 
-[Wikipedia](https://en.wikipedia.org/wiki/Strider_II_(1990_video_game))
+> Strider II is a European-developed sequel to the original Strider, originally released for various computer platforms. The game is still plagued by shoddy programming and uninspired gameplay, product of the higher-ups being only interested in getting the game "written and out as fast as possible"
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Strider_II_(1990_video_game)) · [IGDB](https://www.igdb.com/games/strider-ii)
 
 ---
 

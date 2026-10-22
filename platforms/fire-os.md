@@ -10,17 +10,29 @@
 
 ### Marvel Avengers Academy
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co4853.jpg" alt="Marvel Avengers Academy cover" width="200">
+
 **Platforms:** iOS, Android, Fire OS &nbsp;|&nbsp; **Developer:** TinyCo &nbsp;|&nbsp; **Publisher:** TinyCo &nbsp;|&nbsp; **Genre:** City Building &nbsp;|&nbsp; **Released:** February 4, 2016
 
-[Wikipedia](https://en.wikipedia.org/wiki/Marvel_Avengers_Academy)
+> Marvel Avengers Academy is a mobile simulation game that invites players into a reimagining of the Marvel Universe. Players take on the role of a director tasked with building and managing their own superhero academy, where iconic Marvel characters like Iron Man, Captain America, Black Widow, Hulk, Thor, and many others are reimagined as students. As the academy grows, players can unlock new characters, outfits, and abilities, while also expanding their campus and completing missions to advance the storyline.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Marvel_Avengers_Academy) · [IGDB](https://www.igdb.com/games/marvel-avengers-academy)
 
 ---
 
 ### Teenage Mutant Ninja Turtles Legends
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2yj5.jpg" alt="Teenage Mutant Ninja Turtles Legends cover" width="200">
+
 **Platforms:** iOS, Android, Fire OS &nbsp;|&nbsp; **Developer:** Ludia &nbsp;|&nbsp; **Publisher:** Ludia &nbsp;|&nbsp; **Genre:** Role-playing &nbsp;|&nbsp; **Released:** May 26, 2016
 
-[Wikipedia](https://en.wikipedia.org/wiki/Teenage_Mutant_Ninja_Turtles_Legends)
+> Teenage Mutant Ninja Turtles Legends is a role-playing video game based on the TMNT franchise, developed and published by Ludia. It was released for iPhone, iPad, Android, and Kindle Fire in June, 2016. It follows a free-to-play business model.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Teenage_Mutant_Ninja_Turtles_Legends) · [IGDB](https://www.igdb.com/games/teenage-mutant-ninja-turtles-legends)
 
 ---
 
@@ -76,17 +88,29 @@
 
 ### Family Guy: The Quest for Stuff
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co4k5m.jpg" alt="Family Guy: The Quest for Stuff cover" width="200">
+
 **Platforms:** Android, Fire OS, iOS, Windows Phone, Windows, Browser &nbsp;|&nbsp; **Developer:** TinyCo &nbsp;|&nbsp; **Publisher:** Jam City &nbsp;|&nbsp; **Genre:** City-building game &nbsp;|&nbsp; **Released:** April 10, 2014
 
-[Wikipedia](https://en.wikipedia.org/wiki/Family_Guy:_The_Quest_for_Stuff)
+> Family Guy: The Quest for Stuff is a freemium video game for iOS, Android, Windows Phone 8 and Windows 8.1 based on the American animated series Family Guy released by Fox Digital Entertainment and developer TinyCo. It allows users to create and run their own version of Quahog using familiar characters and buildings. It features an original story conceived by the show's writers in which Quahog has been destroyed and it's up to the player to bring it back to its former glory. Some of the show's main actors, like Seth MacFarlane (Peter, Stewie, Brian), Alex Borstein (Lois), Mila Kunis (Meg), and Seth Green (Chris) collaborated with TinyCo for the project.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Family_Guy:_The_Quest_for_Stuff) · [IGDB](https://www.igdb.com/games/family-guy-the-quest-for-stuff)
 
 ---
 
 ### Farmville 2: Country Escape
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/umoc5ghs8pla5wt0tmgk.jpg" alt="Farmville 2: Country Escape cover" width="200">
+
 **Platforms:** iOS, Android, Fire OS, Windows Phone, Windows &nbsp;|&nbsp; **Developer:** Zynga &nbsp;|&nbsp; **Publisher:** Zynga &nbsp;|&nbsp; **Genre:** Agriculture simulation, strategy &nbsp;|&nbsp; **Released:** April 10, 2014
 
-[Wikipedia](https://en.wikipedia.org/wiki/Farmville_2:_Country_Escape)
+> FarmVille 2: Country Escape for mobile devices (iOS, Android, Windows Phone and Windows operating systems) was released on April 10, 2014, and received a positive review from The New York Times. Unlike other games in the FarmVille series, FarmVille 2: Country Escape can be played offline.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Farmville_2:_Country_Escape) · [IGDB](https://www.igdb.com/games/farmville-2-country-escape)
 
 ---
 
@@ -152,9 +176,15 @@
 
 ### Trivia Crack
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co9pcn.jpg" alt="Trivia Crack cover" width="200">
+
 **Platforms:** iOS, Android, Fire OS, Facebook &nbsp;|&nbsp; **Developer:** Etermax &nbsp;|&nbsp; **Publisher:** Etermax &nbsp;|&nbsp; **Genre:** Trivia &nbsp;|&nbsp; **Released:** October 26, 2013
 
-[Wikipedia](https://en.wikipedia.org/wiki/Trivia_Crack)
+> Trivia Crack (original Spanish name: Preguntados) is a mobile app that allows users to compete against friends and people around the world. Modeled after popular games such as Trivial Pursuit, it became the most downloaded game in December 2014 from the Apple App store. The game initially launched on October 26, 2013, specifically to Latin America, until it had eventually been translated into English.  The game is developed by the company Etermax, whose offices are located in Buenos Aires, Argentina. It is available as an app on iOS, Android, Windows Phone, Facebook, and the Amazon App Store.As of December 2014, the game is available in 10 different languages.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Trivia_Crack) · [IGDB](https://www.igdb.com/games/trivia-crack)
 
 ---
 
@@ -190,9 +220,15 @@
 
 ### Where's My Water?
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co4v8c.jpg" alt="Where's My Water? cover" width="200">
+
 **Platforms:** iOS, Android, Windows Phone, Windows, macOS, BlackBerry OS, Fire OS, Browser &nbsp;|&nbsp; **Developer:** Creature Feep &nbsp;|&nbsp; **Publisher:** Disney Mobile &nbsp;|&nbsp; **Genre:** Puzzle &nbsp;|&nbsp; **Released:** September 22, 2011
 
-[Wikipedia](https://en.wikipedia.org/wiki/Where's_My_Water%3F)
+> Where's My Water? is a puzzle video game developed by American studio Creature Feep where the players have to route a supply of water to the alligator Swampy.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Where's_My_Water%3F) · [IGDB](https://www.igdb.com/games/wheres-my-water)
 
 ---
 

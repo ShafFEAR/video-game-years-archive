@@ -2,7 +2,7 @@
 
 [← Back to index](../README.md)
 
-621 titles across 13 years in this archive.
+629 titles across 13 years in this archive.
 
 ## 2021
 
@@ -30,9 +30,15 @@
 
 ### UnMetal
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co4kez.jpg" alt="UnMetal cover" width="200">
+
 **Platforms:** PlayStation Vita, Windows, PlayStation 4, Xbox One, Nintendo Switch &nbsp;|&nbsp; **Developer:** Francisco Téllez de Meneses &nbsp;|&nbsp; **Publisher:** Versus Evil, Eastasiasoft &nbsp;|&nbsp; **Genre:** Action-adventure, stealth, comedy &nbsp;|&nbsp; **Released:** April 21, 2021
 
-[Wikipedia](https://en.wikipedia.org/wiki/UnMetal)
+> In 1972 a crack commando squad threw you in prison for a crime you didn't commit. UnMetal is a 2D stealth/action game (with a touch of humor) where the goal is to escape from an enemy military base.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/UnMetal) · [IGDB](https://www.igdb.com/games/unmetal)
 
 ---
 
@@ -50,9 +56,15 @@
 
 ### Labyrinth of Galleria: The Moon Society
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co68ur.jpg" alt="Labyrinth of Galleria: The Moon Society cover" width="200">
+
 **Platforms:** PlayStation 4, PlayStation Vita, Nintendo Switch &nbsp;|&nbsp; **Developer:** Nippon Ichi Software &nbsp;|&nbsp; **Publisher:** Nippon Ichi Software &nbsp;|&nbsp; **Genre:** Role-playing video game &nbsp;|&nbsp; **Released:** November 26, 2020
 
-[Wikipedia](https://en.wikipedia.org/wiki/Labyrinth_of_Galleria:_The_Moon_Society)
+> From the creators of Labyrinth of Refrain: Coven of Dusk comes a new chapter in the dungeon-exploring adventure filled with charm and mystery! Summoned by the magnificent Madame Marta, you are but a wandering spirit awaiting your next command. With the help of Eureka, Madame Marta’s assistant, and an army of soul-infused puppets, you are tasked with delving into the depths of a mysterious underground labyrinth teeming with enchanted monsters to unearth the Curios d'art that lie within!  Labyrinth of Galleria: The Moon Society offers dungeon-crawling adventures with new quality of life improvements and 50 hours of exploration alongside a cast of fully customizable companions to do your bidding. Use a variety of pacts and puppet soldiers to customize a team of up to 40 fighters to dive into the darkness and discover the secrets with the Labyrinth of Galleria…if you dare!
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Labyrinth_of_Galleria:_The_Moon_Society) · [IGDB](https://www.igdb.com/games/labyrinth-of-galleria-the-moon-society)
 
 ---
 
@@ -82,17 +94,29 @@
 
 ### Bouncy Bullets
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co24ga.jpg" alt="Bouncy Bullets cover" width="200">
+
 **Platforms:** PlayStation 4, PlayStation Vita, Xbox One, Nintendo Switch &nbsp;|&nbsp; **Developer:** Petite Games &nbsp;|&nbsp; **Publisher:** Ratalaika Games &nbsp;|&nbsp; **Genre:** Platform, shooter &nbsp;|&nbsp; **Released:** July 9, 2019
 
-[Wikipedia](https://en.wikipedia.org/wiki/Bouncy_Bullets)
+> In a world where the sky is blue and water is pink, with icebergs replaced by floating ice-creams, Bouncy Bullets is a colourfully vibrant first-person shooter that will task players to traverse wonderful terrains, in a bid to reach the portal that awaits them at the end of every level!
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Bouncy_Bullets) · [IGDB](https://www.igdb.com/games/bouncy-bullets)
 
 ---
 
 ### Gnosia
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co9458.jpg" alt="Gnosia cover" width="200">
+
 **Platforms:** PlayStation Vita &nbsp;|&nbsp; **Developer:** Petit Depotto &nbsp;|&nbsp; **Publisher:** Mebius, Petit Depotto, Playism &nbsp;|&nbsp; **Genre:** Visual novel, role-playing, social deduction &nbsp;|&nbsp; **Released:** June 20, 2019
 
-[Wikipedia](https://en.wikipedia.org/wiki/Gnosia)
+> Gnosia is a Sci-Fi Social Deduction RPG in which you will engage in discussion with a variety of unique characters, with the aim of identifying the Gnosia among the group. Players will have to use what information they can gather during the discussions to ascertain whom they think is Gnosia and then vote to put them into cold sleep. As you progress, your abilities will improve - but so will those of the crew.  As the numbers of crew members, Gnosia, and various “roles” increase, it will become increasingly difficult to determine who is telling the truth. Work in collaboration with or against other crew members to ensure your survival until the end.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Gnosia) · [IGDB](https://www.igdb.com/games/gnosia)
 
 ---
 
@@ -124,9 +148,15 @@
 
 ### Variable Barricade
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co5ir4.jpg" alt="Variable Barricade cover" width="200">
+
 **Platforms:** PlayStation Vita &nbsp;|&nbsp; **Developer:** Otomate, Design Factory &nbsp;|&nbsp; **Publisher:** Idea Factory, Aksys Games &nbsp;|&nbsp; **Genre:** Visual novel, otome game &nbsp;|&nbsp; **Released:** April 4, 2019
 
-[Wikipedia](https://en.wikipedia.org/wiki/Variable_Barricade)
+> A member of a prestigious family and heir to a fortune, Hibari learns that her eccentric grandfather is determined to find her a husband. He arranges to house her in a luxurious villa along with four handsome, hand-picked bachelors and her private butler. As her suitors try to win her hand by any means necessary, Hibari endures endless everyday trials and temptations. Has her grandpa chosen poorly, or could there be more to these fellows than first meets the eye?  Through all of this, Hibari has two important goals: frighten off each of these marriage candidates, and absolutely refuse to fall in love.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Variable_Barricade) · [IGDB](https://www.igdb.com/games/variable-barricade)
 
 ---
 
@@ -172,9 +202,15 @@
 
 ### Charade Maniacs
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co70tg.jpg" alt="Charade Maniacs cover" width="200">
+
 **Platforms:** PlayStation Vita &nbsp;|&nbsp; **Developer:** Otomate &nbsp;|&nbsp; **Publisher:** Idea Factory, Idea Factory International &nbsp;|&nbsp; **Genre:** Visual novel, otome game &nbsp;|&nbsp; **Released:** August 9, 2018
 
-[Wikipedia](https://en.wikipedia.org/wiki/Charade_Maniacs)
+> Charade Maniacs is an otome visual novel full of romance, mystery, and adventure.  In the near future...  Summer break was around the corner. Hiyori Sena, a sophomore in high school, was living a peaceful life. One day, as she was walking home with her childhood friend, a masked figure appeared before them. The two were abducted and taken to a strange world with two moons. When they awoke, they met nine others in the same predicament. In their confusion, the mysterious figure began to speak.  "Welcome to Arcadia!" "In this world, if you perform for us, your wildest dreams can come true!"  In order to find their way home, the group was forced to work together and act in an assortment of scenes from a drama. They were also made aware that a traitor walked among them... What could be the motive of this traitor? And why are they all being forced to act?  Unable to fully trust anyone, who's hand will she take in the end?
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Charade_Maniacs) · [IGDB](https://www.igdb.com/games/charade-maniacs)
 
 ---
 
@@ -336,6 +372,20 @@
 
 ---
 
+### Piofiore: Fated Memories
+
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co4sd5.jpg" alt="Piofiore: Fated Memories cover" width="200">
+
+**Platforms:** PlayStation Vita &nbsp;|&nbsp; **Genre:** Adventure, Visual Novel
+
+> Liliana Adornato was born and raised in the church in the center of the Italian town of Burlone. Three criminal organizations control parts of the city, and Lily discovers that she is in the center of their turf wars. Her encounters with the leaders of the Falzone, Visconti, and Lao-Shu families lead to danger and distraction. Once Lily is drawn into the shadowy world of the mafia, she realizes there is no going back. Experience gorgeous music and artwork depicting the sun drenched (and sin-filled) world of early 1900’s Italy. Navigate organizations filled with intrigue and betrayal as three mafia families fight for honor and control. Unlock additional story options, new perspectives, and deeper, deadlier secrets as you complete the game multiple times.  Originally released as Piofiore no Banshou for the PlayStation Vita. The game was then re-released for the Nintendo Switch as Piofiore no Banshou -Ricordo- with updated scenarios and new CGs.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Piofiore:_Fated_Memories) · [IGDB](https://www.igdb.com/games/piofiore-fated-memories)
+
+---
+
 ### Psychedelica of the Ashen Hawk
 
 **Platforms:** PlayStation Vita &nbsp;|&nbsp; **Publisher:** Aksys Games &nbsp;|&nbsp; **Genre:** Visual novel &nbsp;|&nbsp; **Released:** June 29
@@ -374,9 +424,15 @@
 
 ### Reverie
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co61bv.jpg" alt="Reverie cover" width="200">
+
 **Platforms:** PlayStation 4, PlayStation Vita &nbsp;|&nbsp; **Developer:** Rainbite &nbsp;|&nbsp; **Genre:** Action-adventure &nbsp;|&nbsp; **Released:** April 5, 2018
 
-[Wikipedia](https://en.wikipedia.org/wiki/Reverie_(video_game))
+> Reverie is an action adventure game set on a fictional island in New Zealand, inspired by the legend of Maui and the Giant Fish where the demigod himself fishes up the North Island with a powerful fishhook.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Reverie_(video_game)) · [IGDB](https://www.igdb.com/games/reverie--1)
 
 ---
 
@@ -536,9 +592,15 @@
 
 ### Chaos;Child Love Chu Chu!!
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co69uz.jpg" alt="Chaos;Child Love Chu Chu!! cover" width="200">
+
 **Platforms:** PlayStation 4, PlayStation Vita &nbsp;|&nbsp; **Developer:** Mages &nbsp;|&nbsp; **Publisher:** 5pb. &nbsp;|&nbsp; **Genre:** Visual novel &nbsp;|&nbsp; **Released:** March 30, 2017
 
-[Wikipedia](https://en.wikipedia.org/wiki/Chaos;Child_Love_Chu_Chu!!)
+> Chaos;Child Love Chu Chu!! is a visual novel video game. Is a spin-off from the 2014 game Chaos;Child, and part of the larger Science Adventure series. The story, which is affected by player choices, is set in Shibuya, Tokyo, and follows Takuru Miyashiro, who ignores the "Reincarnation of the New Generation of Madness" events, instead focusing on spending time with girls.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Chaos;Child_Love_Chu_Chu!!) · [IGDB](https://www.igdb.com/games/chaos-child-love-chu-chu)
 
 ---
 
@@ -604,9 +666,15 @@
 
 ### Exile Election
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2fno.jpg" alt="Exile Election cover" width="200">
+
 **Platforms:** PlayStation Vita, PlayStation 4 &nbsp;|&nbsp; **Developer:** Regista &nbsp;|&nbsp; **Publisher:** Nippon Ichi Software &nbsp;|&nbsp; **Genre:** Visual novel &nbsp;|&nbsp; **Released:** April 27, 2017
 
-[Wikipedia](https://en.wikipedia.org/wiki/Exile_Election)
+> The game takes place in an abandoned amusement park. The game's characters are trapped within the park, with the outside world being in a post-apocalyptic wasteland infested with murderous monsters. Within the park, the game's thirteen main characters are held captive by a mysterious mechanical doll named "Alice", who holds the "death games", which basically force the characters against each other for survival - the losers being exiled back out into the world. Alice refuses to stop the games until only two characters are alive and present. The game's protagonist is Kaname Ichijou, a young man who has the ability to see sound as colors and sees spoken falsehoods in the color red. He also harbors a grudge against most of the rest of the characters of the game for allowing the exile of his little sister.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Exile_Election) · [IGDB](https://www.igdb.com/games/tsuihou-senkyo--1)
 
 ---
 
@@ -654,9 +722,15 @@
 
 ### Gun Gun Pixies
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co24y3.jpg" alt="Gun Gun Pixies cover" width="200">
+
 **Platforms:** PlayStation Vita &nbsp;|&nbsp; **Developer:** Shade &nbsp;|&nbsp; **Publisher:** Compile Heart, PQube &nbsp;|&nbsp; **Genre:** Third-person shooter &nbsp;|&nbsp; **Released:** April 27, 2017
 
-[Wikipedia](https://en.wikipedia.org/wiki/Gun_Gun_Pixies)
+> Tiny aliens battle other tiny aliens at a woman's dormitory in this 3rd person shooter
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Gun_Gun_Pixies) · [IGDB](https://www.igdb.com/games/gun-gun-pixies)
 
 ---
 
@@ -696,9 +770,15 @@
 
 ### Metropolis: Lux Obscura
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co3nuz.jpg" alt="Metropolis: Lux Obscura cover" width="200">
+
 **Platforms:** Nintendo Switch, Windows, PlayStation 4, PlayStation Vita, Xbox One &nbsp;|&nbsp; **Developer:** Ktulhu Solutions &nbsp;|&nbsp; **Publisher:** Ktulhu Solutions/Sometimes You &nbsp;|&nbsp; **Genre:** Adventure, match-three &nbsp;|&nbsp; **Released:** October 11, 2017
 
-[Wikipedia](https://en.wikipedia.org/wiki/Metropolis:_Lux_Obscura)
+> Metropolis Lux Obscura is a unique game with a film noir atmosphere, seductive wanton women, and dirty dangerous secrets. Gameplay is based on a motion comic with a non-linear plot mixed with MATCH3 puzzle fights. This city is rotten to the core. You can’t even tell night from day in this hell where big money runs everything. And the best way to prove you’re right is with brute force.  Jon Lockhart walked through the prison gates a free man, after spending years imprisoned as the supposed murderer of an old friend. He returned once more to the city where it all started intent on figuring out who it was that framed him for the murder and make them pay in blood for the crime. It'd take some work with the key witness dead, but that just meant he'd have to flush out every rat from hiding. Old friends and new enemies. Search for the truth, for loyalty and sanity - but all you can find here is redemption, betrayal and death.  Welcome to Metropolis.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Metropolis:_Lux_Obscura) · [IGDB](https://www.igdb.com/games/metropolis-lux-obscura)
 
 ---
 
@@ -707,6 +787,20 @@
 **Platforms:** PlayStation 4, PlayStation Vita &nbsp;|&nbsp; **Genre:** Hack and slash, Action &nbsp;|&nbsp; **Released:** March 30 (JP)
 
 [Wikipedia](https://en.wikipedia.org/wiki/Musou_Stars)
+
+---
+
+### Occultic;Nine
+
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co22rr.jpg" alt="Occultic;Nine cover" width="200">
+
+**Platforms:** Xbox One, PlayStation Vita, PlayStation 4 &nbsp;|&nbsp; **Genre:** Adventure, Visual Novel
+
+> Occultic;Nine is an Japanese visual novel that is based on a light novel of the same name. The game is descibed as a "Paranormal Science Novel". The story follows nine idiosyncratic individuals. Little incongruities that occur around these nine eventually lead to a larger, unimaginable event that may alter what is considered common sense in this world. Despite being by the same makers and sharing a similar naming scheme, Occultic;Nine is not a part of 5pb's Science Adventure series of adventure games.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Occultic;Nine) · [IGDB](https://www.igdb.com/games/occultic-nine)
 
 ---
 
@@ -724,9 +818,15 @@
 
 ### Our World Is Ended
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co22tf.jpg" alt="Our World Is Ended cover" width="200">
+
 **Platforms:** PlayStation Vita &nbsp;|&nbsp; **Developer:** Red Entertainment &nbsp;|&nbsp; **Publisher:** 5pb., PQube &nbsp;|&nbsp; **Genre:** Visual Novel &nbsp;|&nbsp; **Released:** November 9, 2017
 
-[Wikipedia](https://en.wikipedia.org/wiki/Our_World_Is_Ended)
+> Japanese visual novel for PS Vita published by Red Entertainment.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Our_World_Is_Ended) · [IGDB](https://www.igdb.com/games/our-world-is-ended)
 
 ---
 
@@ -790,17 +890,29 @@
 
 ### Super Hydorah
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co24uv.jpg" alt="Super Hydorah cover" width="200">
+
 **Platforms:** Windows, Xbox One, PlayStation 4, PlayStation Vita &nbsp;|&nbsp; **Developer:** Locomalito &nbsp;|&nbsp; **Publisher:** Abylight Studios &nbsp;|&nbsp; **Genre:** Side-scrolling shoot 'em up &nbsp;|&nbsp; **Released:** September 20, 2017
 
-[Wikipedia](https://en.wikipedia.org/wiki/Super_Hydorah)
+> Super Hydorah is a nonlinear horizontal shoot’ em up designed to offer a challenging experience, sublimating the richness of traditional shmup classics. Face the menace of the Meroptians aboard the Delta Force, alone or with your friends in this game with direct action and nostalgic art.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Super_Hydorah) · [IGDB](https://www.igdb.com/games/super-hydorah)
 
 ---
 
 ### Super Robot Wars V
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2wjl.jpg" alt="Super Robot Wars V cover" width="200">
+
 **Platforms:** PlayStation 4, PlayStation Vita &nbsp;|&nbsp; **Developer:** B.B. Studio &nbsp;|&nbsp; **Publisher:** Bandai Namco Entertainment &nbsp;|&nbsp; **Genre:** Tactical role-playing &nbsp;|&nbsp; **Released:** February 23, 2017
 
-[Wikipedia](https://en.wikipedia.org/wiki/Super_Robot_Wars_V)
+> Super Robot Wars V is a tactical role-playing game developed by B.B. Studio and published by Bandai Namco Entertainment for the PlayStation 4 and PlayStation Vita. Released as part of Super Robot Wars' 25th anniversary, it is the eighth standalone entry to the series since Super Robot Wars NEO, with the game's continued focus on the massive crossover between different mecha anime series released in Japan. It is released in Asia on February 23, 2017.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Super_Robot_Wars_V) · [IGDB](https://www.igdb.com/games/super-robot-wars-v--1)
 
 ---
 
@@ -968,9 +1080,15 @@
 
 ### 7'scarlet
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co6616.jpg" alt="7'scarlet cover" width="200">
+
 **Platforms:** PlayStation Vita, Windows, Nintendo Switch &nbsp;|&nbsp; **Developer:** Otomate, Toybox Inc. &nbsp;|&nbsp; **Publisher:** Idea Factory, Aksys Games &nbsp;|&nbsp; **Genre:** Visual novel &nbsp;|&nbsp; **Released:** July 21, 2016
 
-[Wikipedia](https://en.wikipedia.org/wiki/7'scarlet)
+> The remote town of Okunezato is shaped like a crescent moon and shrouded in dark myths and legends. Take on the role of a brave young woman journeying into the unknown to uncover dangerous truths and locate her missing brother with her childhood friend.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/7'scarlet) · [IGDB](https://www.igdb.com/games/7-scarlet)
 
 ---
 
@@ -1042,9 +1160,15 @@
 
 ### Bullet Girls 2
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co60pn.jpg" alt="Bullet Girls 2 cover" width="200">
+
 **Platforms:** PlayStation Vita &nbsp;|&nbsp; **Developer:** Shade &nbsp;|&nbsp; **Publisher:** D3 Publisher &nbsp;|&nbsp; **Genre:** Third-person shooter &nbsp;|&nbsp; **Released:** April 21, 2016
 
-[Wikipedia](https://en.wikipedia.org/wiki/Bullet_Girls_2)
+> A PlayStation Vita exclusive sequel to Bullet Girls developed by D3 Publisher
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Bullet_Girls_2) · [IGDB](https://www.igdb.com/games/bullet-girls-2)
 
 ---
 
@@ -1146,9 +1270,15 @@
 
 ### Genkai Tokki: Seven Pirates
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co1v05.jpg" alt="Genkai Tokki: Seven Pirates cover" width="200">
+
 **Platforms:** PlayStation Vita &nbsp;|&nbsp; **Developer:** Felistella &nbsp;|&nbsp; **Publisher:** Compile Heart, Eastasiasoft &nbsp;|&nbsp; **Genre:** Role-playing &nbsp;|&nbsp; **Released:** August 4, 2016
 
-[Wikipedia](https://en.wikipedia.org/wiki/Genkai_Tokki:_Seven_Pirates)
+> A pirate RPG in Compile Heart's usual style.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Genkai_Tokki:_Seven_Pirates) · [IGDB](https://www.igdb.com/games/genkai-tokki-seven-pirates)
 
 ---
 
@@ -1166,9 +1296,15 @@
 
 ### Goes!
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co5r8g.jpg" alt="Goes! cover" width="200">
+
 **Platforms:** PlayStation Vita &nbsp;|&nbsp; **Developer:** Petit Reve &nbsp;|&nbsp; **Publisher:** Future Tech Lab &nbsp;|&nbsp; **Genre:** Otome game &nbsp;|&nbsp; **Released:** November 25, 2016
 
-[Wikipedia](https://en.wikipedia.org/wiki/Goes!)
+> An otome game for the PlayStation Vita, about a group of students at a magic user's academy.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Goes!) · [IGDB](https://www.igdb.com/games/goes)
 
 ---
 
@@ -1230,9 +1366,15 @@
 
 ### Idol Death Game TV
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co60rz.jpg" alt="Idol Death Game TV cover" width="200">
+
 **Platforms:** PlayStation Vita &nbsp;|&nbsp; **Developer:** Witchcraft &nbsp;|&nbsp; **Publisher:** D3 Publisher &nbsp;|&nbsp; **Genre:** Action-adventure &nbsp;|&nbsp; **Released:** October 20, 2016
 
-[Wikipedia](https://en.wikipedia.org/wiki/Idol_Death_Game_TV)
+> Idol Death Game TV (Japanese: アイドルデスゲームTV Hepburn: Aidoru Desu Gēmu TV) is an action-adventure video game developed by Witchcraft and published by D3 Publisher for the PlayStation Vita with PlayStation TV support, released on October 20, 2016 in Japan. The game follows the starlets of the top idol group "Project 47" as they partake in an event titled "Dream of Dream" to become the central idol of the group. Those who fail in the competition are killed.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Idol_Death_Game_TV) · [IGDB](https://www.igdb.com/games/idol-death-game-tv)
 
 ---
 
@@ -1246,9 +1388,15 @@
 
 ### Labyrinth of Refrain: Coven of Dusk
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co4wg2.jpg" alt="Labyrinth of Refrain: Coven of Dusk cover" width="200">
+
 **Platforms:** PlayStation Vita &nbsp;|&nbsp; **Developer:** Nippon Ichi Software &nbsp;|&nbsp; **Publisher:** Nippon Ichi Software &nbsp;|&nbsp; **Genre:** Role-playing, dungeon crawler &nbsp;|&nbsp; **Released:** June 23, 2016
 
-[Wikipedia](https://en.wikipedia.org/wiki/Labyrinth_of_Refrain:_Coven_of_Dusk)
+> Labyrinth of Refrain: Coven of Dusk is a first-person dungeon-crawler RPG using a party of 5 characters chosen from 6 classes. Later it seems like you can have 5 groups of 3 characters acting as one party with a mix of classes together.  "Become the living book, Tractatus de Monstrum, and command a brigade of puppet soldiers as you navigate the twisting passageways of the Labyrinth of Refrain.  When at your base, prepare for your journey by upgrading your brigade! Create new puppet soldiers, assign them different squads and formations, synthesize better equipment, take requests from townsfolk, and get assistance from Dronya in the form of Witch Petitions.  Once you've entered the labyrinth, be sure to search every nook and cranny as you jump over barricades, solve puzzles, and smash your way through walls to delve further and further downward in search of treasure and rare artifacts. But be careful, the more riches you obtain, the more vicious the dungeon becomes. Can you survive long enough to bring your haul back?  Fight past terrifying monsters by giving orders to your puppet brigade. Change their formation, use special skills, or call for an all-out attack! The battles you face will be challenging, so your success depends on your preparation and your strategy."
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Labyrinth_of_Refrain:_Coven_of_Dusk) · [IGDB](https://www.igdb.com/games/labyrinth-of-refrain-coven-of-dusk)
 
 ---
 
@@ -1326,17 +1474,29 @@
 
 ### Neon Chrome
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co4z6k.jpg" alt="Neon Chrome cover" width="200">
+
 **Platforms:** Windows, PlayStation 4, Xbox One, Linux, macOS, iOS, PlayStation Vita &nbsp;|&nbsp; **Developer:** 10tons &nbsp;|&nbsp; **Publisher:** 10tons &nbsp;|&nbsp; **Genre:** Multidirectional shooter &nbsp;|&nbsp; **Released:** April 28, 2016
 
-[Wikipedia](https://en.wikipedia.org/wiki/Neon_Chrome)
+> Neon Chrome is a ruthless top-down cyberpunk shooter with rogue-like elements. The game takes place inside an arcology – a massive sci-fi mega structure. Every gaming session is different as large parts are randomly generated.  Blast your way through walls with guns and cybernetic abilities and try alternate approaches with different roles like the Hacker or the Cyber Psycho. Upgrade your character stats, discover new cybernetic enhancements and build up strength to finally stop the Overseer. Every death is a new beginning – the path to stopping the Overseer is never the same.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Neon_Chrome) · [IGDB](https://www.igdb.com/games/neon-chrome)
 
 ---
 
 ### Nil Admirari no Tenbin: Teito Genwaku Kitan
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/coa5sh.jpg" alt="Nil Admirari no Tenbin: Teito Genwaku Kitan cover" width="200">
+
 **Platforms:** PlayStation Vita &nbsp;|&nbsp; **Developer:** Otomate &nbsp;|&nbsp; **Publisher:** Idea Factory &nbsp;|&nbsp; **Genre:** Visual novel &nbsp;|&nbsp; **Released:** April 21, 2016
 
-[Wikipedia](https://en.wikipedia.org/wiki/Nil_Admirari_no_Tenbin:_Teito_Genwaku_Kitan)
+> Nil Admirari no Tenbin Teito Genwaku Kitan is a Japanese otome visual novel. It is described as a romance visual novel for ladies.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Nil_Admirari_no_Tenbin:_Teito_Genwaku_Kitan) · [IGDB](https://www.igdb.com/games/nil-admirari-no-tenbin-teito-genwaku-kitan)
 
 ---
 
@@ -1382,6 +1542,20 @@
 
 ---
 
+### Plastic Memories
+
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co61ae.jpg" alt="Plastic Memories cover" width="200">
+
+**Platforms:** PlayStation Vita &nbsp;|&nbsp; **Genre:** Visual Novel
+
+> The SAI Corporation has achieved great fame for its human-like androids. Called Giftia, these robots are programmed with a synthetic soul and serve many purposes in society. There’s just one flaw: a Giftia can live only 81,920 hours (about nine years and four months) before their memories and personality fade from existence, and they become potentially violent.  That’s where Mizugaki Tsukasa comes in. After failing his college entrance exams, Tsukasa lands a job at the SAI Corporation’s Terminal Service Department, whose purpose is to reclaim these “expired” Giftia. Surrounded by expired Giftia and assisted by his Giftia work partner, the beautiful, innocent and inexperienced Isla, Tsukasa must come to terms with the short lifespan of these incredibly life-like androids in Plastic Memories.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Plastic_Memories) · [IGDB](https://www.igdb.com/games/plastic-memories)
+
+---
+
 ### Psycho-Pass: Mandatory Happiness
 
 **Platforms:** PlayStation 4, PlayStation Vita &nbsp;|&nbsp; **Genre:** Visual novel &nbsp;|&nbsp; **Released:** September 13
@@ -1390,9 +1564,15 @@
 
 ### Punch Line
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co27o8.jpg" alt="Punch Line cover" width="200">
+
 **Platforms:** PlayStation 4, PlayStation Vita &nbsp;|&nbsp; **Developer:** 5pb. &nbsp;|&nbsp; **Publisher:** 5pb., PQube &nbsp;|&nbsp; **Genre:** Adventure, visual novel &nbsp;|&nbsp; **Released:** April 28, 2016
 
-[Wikipedia](https://en.wikipedia.org/wiki/Punch_Line_(video_game))
+> Punch Line is an upcoming Japanese adventure game with puzzle elements and is based on the Punch Line multimedia franchise. The game has the players visiting the heroines’ rooms in search of the “Nandala Gandala” book. While doing this, you can select a point in the room to try and trigger a prank. If your prank is successful and you level up, Chiranosuke will appear and the story will advance. When the player peeks at the heroines’ panties, their “Outbreak Gauge” will increase, and if it reaches its max, the entire human race is destroyed. The story will follow parts and mysteries not seen in the anime, as well as have different endings. According to scenario writer Kotaro Uchikoshi, the game adds 10 episodes over the 12-episode anime and the second half of the game will have entirely different mechanisms than the first half.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Punch_Line_(video_game)) · [IGDB](https://www.igdb.com/games/punch-line)
 
 ---
 
@@ -1432,9 +1612,15 @@
 
 ### Senran Kagura: Estival Versus
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co6ga8.jpg" alt="Senran Kagura: Estival Versus cover" width="200">
+
 **Platforms:** PlayStation 4, PlayStation Vita &nbsp;|&nbsp; **Developer:** Tamsoft &nbsp;|&nbsp; **Publisher:** Marvelous, Xseed Games, Marvelous Europe Limited &nbsp;|&nbsp; **Genre:** Hack and slash &nbsp;|&nbsp; **Released:** March 15, 2016
 
-[Wikipedia](https://en.wikipedia.org/wiki/Senran_Kagura:_Estival_Versus)
+> Senran Kagura: Estival Versus is an action game in the Senran Kagura series of games.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Senran_Kagura:_Estival_Versus) · [IGDB](https://www.igdb.com/games/senran-kagura-estival-versus)
 
 ---
 
@@ -1694,9 +1880,15 @@
 
 ### Bad Apple Wars
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co9oqt.jpg" alt="Bad Apple Wars cover" width="200">
+
 **Platforms:** PlayStation Vita &nbsp;|&nbsp; **Developer:** Otomate &nbsp;|&nbsp; **Publisher:** Idea Factory, Aksys Games &nbsp;|&nbsp; **Genre:** Visual novel &nbsp;|&nbsp; **Released:** November 19, 2015
 
-[Wikipedia](https://en.wikipedia.org/wiki/Bad_Apple_Wars)
+> Bad Apple Wars is a Japanese otome visual novel. The game is a love action adventure game about the cycle of death and rebirth and a tale about life and love.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Bad_Apple_Wars) · [IGDB](https://www.igdb.com/games/bad-apple-wars)
 
 ---
 
@@ -2148,9 +2340,15 @@
 
 ### Looney Tunes Galactic Sports
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co5ub9.jpg" alt="Looney Tunes Galactic Sports cover" width="200">
+
 **Platforms:** PlayStation Vita &nbsp;|&nbsp; **Developer:** Virtual Toys &nbsp;|&nbsp; **Publisher:** Sony Computer Entertainment &nbsp;|&nbsp; **Genre:** Sports &nbsp;|&nbsp; **Released:** May 27, 2015
 
-[Wikipedia](https://en.wikipedia.org/wiki/Looney_Tunes_Galactic_Sports)
+> Bugs Bunny & Co. go to Mars to compete in the zany Galactic Sports event.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Looney_Tunes_Galactic_Sports) · [IGDB](https://www.igdb.com/games/looney-tunes-galactic-sports)
 
 ---
 
@@ -2196,9 +2394,15 @@
 
 ### Miracle Girls Festival
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co4a1s.jpg" alt="Miracle Girls Festival cover" width="200">
+
 **Platforms:** PlayStation Vita &nbsp;|&nbsp; **Developer:** Sega &nbsp;|&nbsp; **Publisher:** Sega &nbsp;|&nbsp; **Genre:** Rhythm game &nbsp;|&nbsp; **Released:** December 17, 2015
 
-[Wikipedia](https://en.wikipedia.org/wiki/Miracle_Girls_Festival)
+> Miracle Girls Festival is a rhythm game featuring characters and songs from 11 Japanese anime series including YuruYuri, Nyaruko: Crawling with Love, Vividred Operation, and others. Using the same gameplay mechanics as the Hatsune Miku: Project DIVA series, you press buttons in time with on-screen prompts while characters perform on various stages. Unlock costumes, figurines, and dioramas as you progress, and challenge yourself across multiple difficulty levels. The game includes 22 songs with different choreographed performances and concert-style visuals.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Miracle_Girls_Festival) · [IGDB](https://www.igdb.com/games/miracle-girls-festival)
 
 ---
 
@@ -2210,9 +2414,15 @@
 
 ### Moero Crystal
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co6mvo.jpg" alt="Moero Crystal cover" width="200">
+
 **Platforms:** PlayStation Vita &nbsp;|&nbsp; **Developer:** Compile Heart &nbsp;|&nbsp; **Publisher:** Compile Heart, Sony Computer Entertainment, Eastasiasoft &nbsp;|&nbsp; **Genre:** Role-playing &nbsp;|&nbsp; **Released:** September 25, 2015
 
-[Wikipedia](https://en.wikipedia.org/wiki/Moero_Crystal)
+> Moero Crystal is a role-playing video game developed by Compile Heart for the PlayStation Vita. It is part of the Genkai Tokki series and the sequel to Moe Chronicle. The player will need to make a team of five monster girls for battle. The protagonist Zenox can’t attack, but he’ll help provide support with power ups. The new "Insert" command also lets you move ahead one of the characters in the attacking order. Upon defeating a monster girl, you’ll get to recruit them through its touchscreen "scratching" feature. There are also some items that will allow you to get them to join you later without having to do the scratch feature. They will allow you to instead give them a scratch later on your own time.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Moero_Crystal) · [IGDB](https://www.igdb.com/games/moero-crystal)
 
 ---
 
@@ -2340,9 +2550,29 @@
 
 ### Phineas and Ferb: Day of Doofenshmirtz
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co3kxa.jpg" alt="Phineas and Ferb: Day of Doofenshmirtz cover" width="200">
+
 **Platforms:** PlayStation Vita &nbsp;|&nbsp; **Developer:** Virtual Toys &nbsp;|&nbsp; **Publisher:** Disney Interactive Studios &nbsp;|&nbsp; **Genre:** Action-adventure &nbsp;|&nbsp; **Released:** November 4, 2015
 
-[Wikipedia](https://en.wikipedia.org/wiki/Phineas_and_Ferb:_Day_of_Doofenshmirtz)
+> Take control of Disney's Phineas and Ferb and rescue the city of Danville from a marauding army of… household appliances? That could only mean one thing, right?
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Phineas_and_Ferb:_Day_of_Doofenshmirtz) · [IGDB](https://www.igdb.com/games/phineas-and-ferb-day-of-doofenshmirtz)
+
+---
+
+### Prince of Stride
+
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co4t47.jpg" alt="Prince of Stride cover" width="200">
+
+**Platforms:** PlayStation Vita &nbsp;|&nbsp; **Genre:** Sport, Visual Novel
+
+> Stride is an extreme sport in which teams made up of six people run through town.  "You", or Sakurai Nana (default name changeable) became drawn to Stride after watching a web video depicting a Stride match with Hounan Senior High Academy. Wholeheartedly wanting to play Stride, Nana enrolled into Hounan Academy.  What awaited Nana were other boys who were to Stride the same way she was. As you grow as a "Relationer", the leader of the team, win the "End of Summer" Eastern Japan Tournament alongside your team mates! School life, your club family, close friendship, rivalry, matches... What awaits at the end of this all?  A story about experiencing your once-in-a-lifetime youth at full speed. Youth x Sports Club. That is "Prince of Stride".
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Prince_of_Stride) · [IGDB](https://www.igdb.com/games/prince-of-stride)
 
 ---
 
@@ -2378,6 +2608,20 @@
 
 ---
 
+### Reine des Fleurs
+
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co5p7y.jpg" alt="Reine des Fleurs cover" width="200">
+
+**Platforms:** PlayStation Vita &nbsp;|&nbsp; **Genre:** Visual Novel
+
+> In the past, there was a goddess whom extended a helping hand to a world that was about to perish. That goddess, along with the four knights who served her, healed the ruined land using "Grace", a power that rejuvenates worn down life forces, and saved the world.  Ever since then, because the goddess' consciousness went into a slumber, she was to be succeeded by someone who will become a representation of her divine spirit, known as a "Reine", and four human knights that were chosen by the world. As the world continued to enjoy the goddess' favour, it continued to develop and advance.  However, at a certain point, even after coming into the world for generations, a Reine was not born. As a result, the supplies of Grace stagnated, and the world was once again threatened to be consumed by darkness.  But finally, the Reine of the next era, "Violette" was born. Adhering to the customs, she selected four men to become the queen's knights. However, the hearts of those men rejected to bond with the Reine, due to the Reine's long absence.  In order to supply the world with Grace, the co-operation of the knights is essential.  To obtain the trust and loyalty of the knights, Violette begins to take action...
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Reine_des_Fleurs) · [IGDB](https://www.igdb.com/games/reine-des-fleurs)
+
+---
+
 ### Resident Evil: Revelations 2
 
 <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co92d9.jpg" alt="Resident Evil: Revelations 2 cover" width="200">
@@ -2410,9 +2654,15 @@
 
 ### Rugby World Cup 2015
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co3j8w.jpg" alt="Rugby World Cup 2015 cover" width="200">
+
 **Platforms:** Windows, PlayStation 3, PlayStation 4, PlayStation Vita, Xbox 360, Xbox One &nbsp;|&nbsp; **Developer:** HB Studios &nbsp;|&nbsp; **Publisher:** Bigben Interactive, Plug In Digital &nbsp;|&nbsp; **Genre:** Sports, simulation &nbsp;|&nbsp; **Released:** September 4, 2015
 
-[Wikipedia](https://en.wikipedia.org/wiki/Rugby_World_Cup_2015_(video_game))
+> Experience the passion of rugby in the official 2015 Rugby World Cup video game. Choose from among the 20 teams competing in the World Cup and take part in the most prestigious rugby competition to win the Webb Ellis Cup.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Rugby_World_Cup_2015_(video_game)) · [IGDB](https://www.igdb.com/games/rugby-world-cup-2015)
 
 ---
 
@@ -2478,9 +2728,15 @@
 
 ### Spelunker World
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2yr0.jpg" alt="Spelunker World cover" width="200">
+
 **Platforms:** PlayStation 4, PlayStation Vita &nbsp;|&nbsp; **Developer:** Tozai Games &nbsp;|&nbsp; **Publisher:** Square Enix &nbsp;|&nbsp; **Genre:** Platform &nbsp;|&nbsp; **Released:** March 19, 2015
 
-[Wikipedia](https://en.wikipedia.org/wiki/Spelunker_World)
+> "In SPELUNKER WORLD, players take the role of a Spelunker, following in the footsteps of his father who disappeared 10 years ago. Players can venture into caverns solo or together with up to six players online in search of legendary treasures while avoiding dangerous pitfalls, boulders and wicked creatures. Hidden within every nook and cranny are various power ups and unlocks to customize characters’ skills and appearances. The title offers an array of adorable pets that aid players as they uncover deeper and dangerous caves."
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Spelunker_World) · [IGDB](https://www.igdb.com/games/spelunker-world)
 
 ---
 
@@ -2588,9 +2844,15 @@
 
 ### Three Fourths Home
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co3ur4.jpg" alt="Three Fourths Home cover" width="200">
+
 **Platforms:** Windows, Linux, macOS, PlayStation 4, PlayStation Vita, Xbox One &nbsp;|&nbsp; **Developer:** Bracket Games &nbsp;|&nbsp; **Publisher:** Bracket Games &nbsp;|&nbsp; **Genre:** Visual novel &nbsp;|&nbsp; **Released:** March 20, 2015
 
-[Wikipedia](https://en.wikipedia.org/wiki/Three_Fourths_Home)
+> In her mid-20's, Kelly has been forced to move back to Nebraska. Back to that flat expanse, that seemingly endless sea of rustling cornstalks peppered by rusty silos and rustier towns. A typically intense Midwestern storm is approaching while Kelly is out; she needs to get home.  Three Fourths Home is a visual short story in which you assume the role of Kelly during her drive through the storm. In the 20 miles between her grandparents' crumbling barn and her parents' home, she receives a phone call from her mother. While driving through a stylized representation of rural Nebraska, you must navigate an extended conversation between Kelly and her parents and younger brother.  Three Fourths Home takes a look into a specific moment of these characters' lives and their relationships with one another. The narrative touches on a variety of issues affecting Kelly and her family, including disability, adulthood, and familial obligation.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Three_Fourths_Home) · [IGDB](https://www.igdb.com/games/three-fourths-home)
 
 ---
 
@@ -2638,9 +2900,15 @@
 
 ### Utawarerumono: Mask of Deception
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co1w6u.jpg" alt="Utawarerumono: Mask of Deception cover" width="200">
+
 **Platforms:** PlayStation 3, PlayStation 4, PlayStation Vita &nbsp;|&nbsp; **Developer:** Aquaplus &nbsp;|&nbsp; **Publisher:** Aquaplus, Atlus USA, Deep Silver, DMM Games, ShiraVN &nbsp;|&nbsp; **Genre:** Tactical role-playing, visual novel &nbsp;|&nbsp; **Released:** September 24, 2015
 
-[Wikipedia](https://en.wikipedia.org/wiki/Utawarerumono:_Mask_of_Deception)
+> Utawarerumono: Mask of Deception is a grand tale that will enchant the hearts and minds of players as it takes them on an incredible journey. With a beautiful visual novel story experience, intriguing characters, fast-paced SRPG combat, world-class soundtrack and more. The game begins atop a snowy mountain where the protagonist awakens in an unfamiliar wilderness, surrounded by deadly creatures, with nothing but a hospital gown and a splitting headache. However, he's rescued by a beautiful girl named Kuon, who sports both adorable animal ears and a beastlike tail. Finding that the hapless man has no memory of anything, Kuon decides to take the amnesiac into her care, naming him Haku.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Utawarerumono:_Mask_of_Deception) · [IGDB](https://www.igdb.com/games/utawarerumono-mask-of-deception)
 
 ---
 
@@ -2670,17 +2938,29 @@
 
 ### Wondership Q
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co8bf7.jpg" alt="Wondership Q cover" width="200">
+
 **Platforms:** PlayStation Vita &nbsp;|&nbsp; **Developer:** Cygames, Miracle Positive Co., Ltd. &nbsp;|&nbsp; **Publisher:** Cygames, Sony Computer Entertainment &nbsp;|&nbsp; **Genre:** Action-adventure, Sandbox &nbsp;|&nbsp; **Released:** November 19, 2015
 
-[Wikipedia](https://en.wikipedia.org/wiki/Wondership_Q)
+> Wondership Q is a 2D action RPG with sandbox elements. You play as the protagonist of this story who’s suddenly been turned into a cat by a witch. Fly through the air on your very own airship, solve mysteries, and craft until your heart’s content!
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Wondership_Q) · [IGDB](https://www.igdb.com/games/wondership-q)
 
 ---
 
 ### WRC 5
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co91qn.jpg" alt="WRC 5 cover" width="200">
+
 **Platforms:** Windows, PlayStation 3, PlayStation 4, Xbox 360, Xbox One, PlayStation Vita &nbsp;|&nbsp; **Developer:** Kylotonn &nbsp;|&nbsp; **Publisher:** Bigben Interactive &nbsp;|&nbsp; **Genre:** Racing &nbsp;|&nbsp; **Released:** October 13, 2015
 
-[Wikipedia](https://en.wikipedia.org/wiki/WRC_5)
+> Find all the cars, all the drivers and all the official rallies of the 2015 FIA World Rally Championship in THE racing simulation standard. Realistic driving on different road surfaces, dynamic damage, day/night system, weather… Experience all the sensations of rally racing in WRC 5!
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/WRC_5) · [IGDB](https://www.igdb.com/games/wrc-5-fia-world-rally-championship)
 
 ---
 
@@ -2794,9 +3074,11 @@
 
 ### Bullet Girls
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2pmc.jpg" alt="Bullet Girls cover" width="200">
+
 **Platforms:** PlayStation Vita &nbsp;|&nbsp; **Developer:** Shade &nbsp;|&nbsp; **Publisher:** D3 Publisher &nbsp;|&nbsp; **Genre:** Third-person shooter &nbsp;|&nbsp; **Released:** August 21, 2014
 
-[Wikipedia](https://en.wikipedia.org/wiki/Bullet_Girls)
+[Wikipedia](https://en.wikipedia.org/wiki/Bullet_Girls) · [IGDB](https://www.igdb.com/games/bullet-girls)
 
 ---
 
@@ -2914,9 +3196,15 @@
 
 ### Don't Die, Mr. Robot!
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co1sjc.jpg" alt="Don't Die, Mr. Robot! cover" width="200">
+
 **Platforms:** PlayStation Vita, PlayStation 4, iOS &nbsp;|&nbsp; **Developer:** Infinite State &nbsp;|&nbsp; **Publisher:** Sony Interactive Entertainment, Infinite State, Digerati &nbsp;|&nbsp; **Genre:** Action game &nbsp;|&nbsp; **Released:** October 29, 2014
 
-[Wikipedia](https://en.wikipedia.org/wiki/Don't_Die,_Mr._Robot!)
+> Mr. Robot loves fruit! But whenever he tries to eat one it explodes.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Don't_Die,_Mr._Robot!) · [IGDB](https://www.igdb.com/games/dont-die-mr-robot)
 
 ---
 
@@ -3212,9 +3500,15 @@
 
 ### Moero Chronicle
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co3p2m.jpg" alt="Moero Chronicle cover" width="200">
+
 **Platforms:** PlayStation Vita &nbsp;|&nbsp; **Developer:** Compile Heart &nbsp;|&nbsp; **Publisher:** Compile Heart, Sony Computer Entertainment &nbsp;|&nbsp; **Genre:** Role-playing, dungeon crawler &nbsp;|&nbsp; **Released:** May 15, 2014
 
-[Wikipedia](https://en.wikipedia.org/wiki/Moero_Chronicle)
+> Moe Monsters Moe Problems! Recruit 50 Monster Girls, each with unique skills and traits, to fight for you! You’ll have to wear them out in battle first though! Can I Kick It? Build your relationship with each Monster Girl through special events, gift-giving, and even home improvement to increase their powers and abilities! Trait Flexin’ Strategize your 5-person party by keeping their Moe Traits in mind – when combined together, you can recover after battle, increase your party’s attack, and more! Nothin’ Wrong with a Little Bumping Scratch! Purify your Monster Girls and return them to their senses with “Bumping Scratch”! Find their points of weakness on their body and touch, rub, poke, or pick until they’re purified!
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Moero_Chronicle) · [IGDB](https://www.igdb.com/games/moero-chronicle)
 
 ---
 
@@ -3236,9 +3530,15 @@
 
 ### MouseCraft
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co20b5.jpg" alt="MouseCraft cover" width="200">
+
 **Platforms:** Ouya, PlayStation 3, PlayStation 4, PlayStation Vita, Windows &nbsp;|&nbsp; **Developer:** Crunching Koalas &nbsp;|&nbsp; **Publisher:** Crunching Koalas &nbsp;|&nbsp; **Genre:** Adventure &nbsp;|&nbsp; **Released:** July 8, 2014
 
-[Wikipedia](https://en.wikipedia.org/wiki/MouseCraft)
+> Ever wondered what a cross between Tetris and Lemmings would look like? Well, wonder no more, 'cause... MouseCraft is here!  Help Schrödinger, the crazy cat scientist, in his cheesy experiment and lead a group of mice in the most puzzling experience this year.  MouseCraft is an A to B puzzle game where players help mice in their relentless quest for cheese by stacking the world's most famous blocks: Tetrominos. Gather collectibles, fight enemies, use different types of bricks, blow up things and avoid environmental hazards in 80 hand crafted levels.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/MouseCraft) · [IGDB](https://www.igdb.com/games/mousecraft)
 
 ---
 
@@ -3252,9 +3552,15 @@
 
 ### MXGP: The Official Motocross Videogame
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2568.jpg" alt="MXGP: The Official Motocross Videogame cover" width="200">
+
 **Platforms:** Windows, PlayStation 3, PlayStation 4, PlayStation Vita, Xbox 360, Xbox One, macOS, Linux &nbsp;|&nbsp; **Developer:** Milestone &nbsp;|&nbsp; **Publisher:** Milestone &nbsp;|&nbsp; **Genre:** Racing &nbsp;|&nbsp; **Released:** March 28, 2014
 
-[Wikipedia](https://en.wikipedia.org/wiki/MXGP:_The_Official_Motocross_Videogame)
+> The only official MXGP videogame: all the riders and bikes from MX1 and MX2! Race on 1:1 scale official championship tracks. Career mode takes you from Debut Season to MX1. The game physics and dual stick control allow for separate control of bike and rider: unprecedented realism, in your hands.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/MXGP:_The_Official_Motocross_Videogame) · [IGDB](https://www.igdb.com/games/mxgp-the-official-motocross-videogame)
 
 ---
 
@@ -3310,9 +3616,15 @@
 
 ### Phantasy Star Nova
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co554a.jpg" alt="Phantasy Star Nova cover" width="200">
+
 **Platforms:** PlayStation Vita &nbsp;|&nbsp; **Developer:** tri-Ace &nbsp;|&nbsp; **Publisher:** Sega &nbsp;|&nbsp; **Genre:** Action role-playing game &nbsp;|&nbsp; **Released:** November 27, 2014
 
-[Wikipedia](https://en.wikipedia.org/wiki/Phantasy_Star_Nova)
+> Phantasy Star Nova will be set in the same world as Phantasy Star Online 2 but will drop many of the online elements and take on a much more single player approach. If the idea of playing without your friends sounds horrifying, the game will include 4-player co-cop play.  The title takes place on Planet Machia, a planet where 'Photon' energy is useless. Without the ability to recover energy or upgrade your weapons, players must take survival into their own hands, exploring the planet of Machia and unlocking the secrets it has to offer.  The creatures inhabiting Machia are giant beasts appropriately named 'Gigantes.' In order to take these massive brutes down, you'll need to find and hit their weak spots together with your allies.  Sega also implemented tweaks based off the Phantasy Star Nova battle demo into the game. After the first demo, tri-Ace increased character movement speed by 1.4x, reduced input delay, fixed issues with locking on to enemies, and fine tuned the speed of the camera, among other improvements.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Phantasy_Star_Nova) · [IGDB](https://www.igdb.com/games/phantasy-star-nova)
 
 ---
 
@@ -3359,6 +3671,20 @@
 ### Poltergeist: A Pixelated Horror
 
 **Platforms:** PlayStation Vita &nbsp;|&nbsp; **Released:** October 28
+
+---
+
+### Project 575
+
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co4hr4.jpg" alt="Project 575 cover" width="200">
+
+**Platforms:** PlayStation Vita &nbsp;|&nbsp; **Genre:** Music
+
+> Uta Kumi 575 is a song building action game and combines elements from rhythm game and a word puzzle game. Uta Kumi 575 utilizes Vocaloid voice synthesizers in order to create traditional 5-7-5 tanka and haiku poems.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Project_575) · [IGDB](https://www.igdb.com/games/uta-kumi-575)
 
 ---
 
@@ -3476,9 +3802,15 @@
 
 ### Super Hero Generation
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co61cy.jpg" alt="Super Hero Generation cover" width="200">
+
 **Platforms:** PlayStation 3, PlayStation Vita &nbsp;|&nbsp; **Developer:** Bandai Namco Studios, Tom Create &nbsp;|&nbsp; **Publisher:** Bandai Namco Games &nbsp;|&nbsp; **Genre:** Tactical role-playing game &nbsp;|&nbsp; **Released:** October 23, 2014
 
-[Wikipedia](https://en.wikipedia.org/wiki/Super_Hero_Generation)
+> Super Hero Generation is a tactical role-playing game that brings together heroes and villains from the Gundam, Kamen Rider, and Ultraman series. Travel between connected worlds, deploy characters on grid-based battlefields, and complete mission objectives before facing powerful enemies in turn-based combat.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Super_Hero_Generation) · [IGDB](https://www.igdb.com/games/super-hero-generation)
 
 ---
 
@@ -3530,6 +3862,20 @@
 
 ---
 
+### The Deer God
+
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co23c1.jpg" alt="The Deer God cover" width="200">
+
+**Platforms:** PlayStation 4, Linux, Android, Windows, iOS, macOS, Wii U, PlayStation Vita, Xbox One &nbsp;|&nbsp; **Developer:** Crescent Moon Games &nbsp;|&nbsp; **Publisher:** Crescent Moon Games, Mobot Studios, Level 77 &nbsp;|&nbsp; **Genre:** Platform
+
+> The Deer God is a breathtaking 3D pixel art adventure that will challenge your religion and your platforming skills. It's a game about survival, reincarnation, and karma; all set in a breathtaking and unique 3D pixelized world. Feast your eyes on the beautiful lighting, day and night system, and vast landscapes.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/The_Deer_God) · [IGDB](https://www.igdb.com/games/the-deer-god)
+
+---
+
 ### The Hungry Horde
 
 **Platforms:** PlayStation Vita &nbsp;|&nbsp; **Released:** November 4
@@ -3538,9 +3884,15 @@
 
 ### The Muppets Movie Adventures
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co3kx4.jpg" alt="The Muppets Movie Adventures cover" width="200">
+
 **Platforms:** PlayStation Vita &nbsp;|&nbsp; **Developer:** Virtual Toys &nbsp;|&nbsp; **Publisher:** Sony Computer Entertainment &nbsp;|&nbsp; **Genre:** Platform &nbsp;|&nbsp; **Released:** November 5, 2014
 
-[Wikipedia](https://en.wikipedia.org/wiki/The_Muppets_Movie_Adventures)
+> Join Kermit the Frog, Miss Piggy, The Great Gonzo, Animal and more of the Muppets as the zany gang bring their unique blend of laughs, chaos and adventure to the Hollywood stage.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/The_Muppets_Movie_Adventures) · [IGDB](https://www.igdb.com/games/the-muppets-movie-adventures)
 
 ---
 
@@ -3686,9 +4038,15 @@
 
 ### Atomic Ninjas
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2xgs.jpg" alt="Atomic Ninjas cover" width="200">
+
 **Platforms:** PlayStation 3, PlayStation Vita &nbsp;|&nbsp; **Developer:** Grip Games &nbsp;|&nbsp; **Publisher:** Grip Games &nbsp;|&nbsp; **Genre:** Platform &nbsp;|&nbsp; **Released:** October 2, 2013
 
-[Wikipedia](https://en.wikipedia.org/wiki/Atomic_Ninjas)
+> Atomic Ninjas is a colorful and funny multiplayer action game, in which you control super-powered ninjas in frantic online matches against other players.  However, you are unable to directly kill other players. Instead, you must outsmart and outflank your opponents and kill them using various environmental hazards and obstacles, such as lava pits, laser beams, traps, moving platforms, falling crates, etc. This gives a completely new twist to the traditional 2.5D genre!  Each one of the seven arenas is like a playfield with infinite number of possibilities to eliminate the competition. There are pick-ups, crates, lifts, air vents, levers, ninja-launchers, hiding spots and traps to experiment with. The most malicious players will be the most successful ones. Split-screen multiplayer matches and single-player offline matches against bots are also supported.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Atomic_Ninjas) · [IGDB](https://www.igdb.com/games/atomic-ninjas)
 
 ---
 
@@ -3708,9 +4066,15 @@
 
 ### Bentley's Hackpack
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co3bzu.jpg" alt="Bentley's Hackpack cover" width="200">
+
 **Platforms:** PlayStation 3, PlayStation Vita &nbsp;|&nbsp; **Developer:** Sanzaru Games &nbsp;|&nbsp; **Publisher:** Sony Computer Entertainment &nbsp;|&nbsp; **Genre:** Action
 
-[Wikipedia](https://en.wikipedia.org/wiki/Bentley's_Hackpack)
+> Bentley's Hackpack is a standalone minigame compilation developed by Sanzaru Games and published by Sony Computer Entertainment. Released on February 5, 2013, for PlayStation 3 and PlayStation Vita, it coincided with the launch of Sly Cooper: Thieves in Time.  In Bentley's Hackpack, players assume the role of Bentley, the tech-savvy turtle from the Sly Cooper series, accessing three arcade machines—System Cracker, Alter Ego, and Spark Runner—each offering 20 levels with five challenges per level, totaling 300 challenges. Completing these challenges awards tokens, which can be used to unlock 65 prizes in Dimitri's Prize Gallery, reminiscent of the treasure collection feature in Thieves in Time.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Bentley's_Hackpack) · [IGDB](https://www.igdb.com/games/bentleys-hackpack)
 
 ---
 
@@ -3766,9 +4130,15 @@
 
 ### Criminal Girls: Invite Only
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2xb9.jpg" alt="Criminal Girls: Invite Only cover" width="200">
+
 **Platforms:** PlayStation Portable, PlayStation Vita &nbsp;|&nbsp; **Developer:** Imageepoch &nbsp;|&nbsp; **Publisher:** Nippon Ichi Software &nbsp;|&nbsp; **Genre:** Role-playing &nbsp;|&nbsp; **Released:** November 28, 2013
 
-[Wikipedia](https://en.wikipedia.org/wiki/Criminal_Girls:_Invite_Only)
+> Criminal Girls: Invite Only a Japanese role-playing game and the enhanced version of the original Criminal Girls game. The game follows a group of girls in Hell who have to climb a tower to be reincarnated. The battle system is unique since you give the characters, each representing a different vice, orders in battle and sometimes they won’t listen to you because they haven’t been trained.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Criminal_Girls:_Invite_Only) · [IGDB](https://www.igdb.com/games/criminal-girls-invite-only)
 
 ---
 
@@ -3858,9 +4228,15 @@
 
 ### Exstetra
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co60ql.jpg" alt="Exstetra cover" width="200">
+
 **Platforms:** Nintendo 3DS, PlayStation Vita &nbsp;|&nbsp; **Developer:** Studio Saizensen &nbsp;|&nbsp; **Publisher:** FuRyu &nbsp;|&nbsp; **Genre:** Role-playing game &nbsp;|&nbsp; **Released:** November 7, 2013
 
-[Wikipedia](https://en.wikipedia.org/wiki/Exstetra)
+> A fantasy RPG from the developers of Unchained Blades. It gained publicity for its unusual kissing-based gameplay.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Exstetra) · [IGDB](https://www.igdb.com/games/exstetra)
 
 ---
 
@@ -3918,9 +4294,15 @@
 
 ### God Eater 2
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2q8y.jpg" alt="God Eater 2 cover" width="200">
+
 **Platforms:** PlayStation Vita, PlayStation Portable, PlayStation 4, Windows &nbsp;|&nbsp; **Developer:** Shift &nbsp;|&nbsp; **Publisher:** Bandai Namco Entertainment &nbsp;|&nbsp; **Genre:** Action role-playing &nbsp;|&nbsp; **Released:** November 14, 2013
 
-[Wikipedia](https://en.wikipedia.org/wiki/God_Eater_2)
+> God Eater 2 is an action role-playing game and the sequel to God Eater. The game takes place 3 years after the original. A new fatal pandemic called the Black Plague, caused by red rain, has struck the Far East area. Members of Special Forces Blood, an affiliate of Fenrir who reside in a mobile base, are sent to assist. The game features 3 new weapon types, the Shotgun, the Boost Hammer, and the Charge Spear, as well as new mechanics, such as Blood Bullets and Blood Arts, as well as reworks for all the previously available Equipment types. New Aragami, new as well as returning Characters, and new Fields will accompany refined visuals.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/God_Eater_2) · [IGDB](https://www.igdb.com/games/god-eater-2)
 
 ---
 
@@ -3962,9 +4344,15 @@
 
 ### Hyperdimension Neptunia: Producing Perfection
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2mkd.jpg" alt="Hyperdimension Neptunia: Producing Perfection cover" width="200">
+
 **Platforms:** PlayStation Vita &nbsp;|&nbsp; **Developer:** Compile Heart, Tamsoft &nbsp;|&nbsp; **Publisher:** Idea Factory, NIS America &nbsp;|&nbsp; **Genre:** Life simulation, rhythm &nbsp;|&nbsp; **Released:** June 20, 2013
 
-[Wikipedia](https://en.wikipedia.org/wiki/Hyperdimension_Neptunia:_Producing_Perfection)
+> You take on the role of the main character, who happens to fall into Gamindustri and is immediately hired by one of the four CPUs-Neptune, Noire, Blanc, and Vert-to be their producer and manage their idol careers. Get your training wheels on, ladies, because a new producer is in town and the fate of Gamindustri hangs in the balance! Will you be able to properly raise these CPUs into idols, or will their citizens be stolen away from them by the popular idol group MOB-48!? Teach these girls to sing, dance, and properly promote themselves to the general populace thanks in part to your expertise in training video game idols back on Earth. As the girls' popularity rises, they will be able to join one another in singing duets, or maybe even come together for a full ensemble!
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Hyperdimension_Neptunia:_Producing_Perfection) · [IGDB](https://www.igdb.com/games/hyperdimension-neptunia-producing-perfection)
 
 ---
 
@@ -3976,9 +4364,15 @@
 
 ### Invizimals: The Alliance
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co4hmm.jpg" alt="Invizimals: The Alliance cover" width="200">
+
 **Platforms:** PlayStation Vita &nbsp;|&nbsp; **Developer:** Novarama &nbsp;|&nbsp; **Publisher:** Sony Computer Entertainment &nbsp;|&nbsp; **Genre:** Monster-taming, role-playing &nbsp;|&nbsp; **Released:** October 30, 2013
 
-[Wikipedia](https://en.wikipedia.org/wiki/Invizimals:_The_Alliance)
+> Get ready for some fun on the run as the hunt for Invizimals goes anywhere and everywhere. Tiny and mysterious, these creatures live all around us but only your PS Vita can see them. Track Invizimals through your garden, on the bus or in the playground, capturing your favorites to build a collection of 140 classic and new creatures.  Link up with players of Invizimals: The Lost Kingdom on PlayStation 3 via the Cross-Play feature so that you can stage frenzied four-player battles and trade even more Invizimals.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Invizimals:_The_Alliance) · [IGDB](https://www.igdb.com/games/invizimals-the-alliance)
 
 ---
 
@@ -3992,9 +4386,15 @@
 
 ### Kamen Rider: Battride War
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co7jz9.jpg" alt="Kamen Rider: Battride War cover" width="200">
+
 **Platforms:** PlayStation 3, PlayStation 4, PlayStation Vita, Wii U &nbsp;|&nbsp; **Developer:** Eighting, Bandai Namco Studios &nbsp;|&nbsp; **Publisher:** Bandai Namco Games &nbsp;|&nbsp; **Genre:** Action role-playing game, hack and slash
 
-[Wikipedia](https://en.wikipedia.org/wiki/Kamen_Rider:_Battride_War)
+> Kamen Rider: Battride War is a video game based on the Kamen Rider Series, released for the PlayStation 3 on May 23, 2013. Done in the style of Dynasty Warriors, the player controls one of the Kamen Riders as he battles through a series of enemies. The game mainly features the protagonists of the Heisei era of Kamen Rider, starting with 2000's Kamen Rider Kuuga and featuring up to 2013's Kamen Rider Wizard. Showa-era Kamen Riders were originally meant to be released as downloadable content, but only two alternate versions of characters were released instead. A limited edition of the game was released that has a soundtrack that includes the original theme songs from the TV series and films.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Kamen_Rider:_Battride_War) · [IGDB](https://www.igdb.com/games/kamen-rider-battride-war)
 
 ---
 
@@ -4014,9 +4414,15 @@
 
 ### Lego Legends of Chima: Laval's Journey
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co615v.jpg" alt="Lego Legends of Chima: Laval's Journey cover" width="200">
+
 **Platforms:** Nintendo 3DS, Nintendo DS, PlayStation Vita &nbsp;|&nbsp; **Developer:** TT Fusion &nbsp;|&nbsp; **Publisher:** Warner Bros. Interactive Entertainment &nbsp;|&nbsp; **Genre:** Action-adventure &nbsp;|&nbsp; **Released:** June 21, 2013
 
-[Wikipedia](https://en.wikipedia.org/wiki/Lego_Legends_of_Chima:_Laval's_Journey)
+> Get ready for an epic adventure as Laval races to unlock the secret of the legendary triple-Chi armour before Cragger can manipulate its awesome power to threaten the balance of Chima itself! Laval and his allies will explore Lion Temple, Eagle Spire, Gorilla Forrest, Rhino Quary, Croc Swamp and more as they harness the power of Chi to leap, swing, fly and fight through 15 levels of intense action! Can Laval discover the truth behind the legend of the triple-Chi before it’s too late?
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Lego_Legends_of_Chima:_Laval's_Journey) · [IGDB](https://www.igdb.com/games/lego-legends-of-chima-lavals-journey)
 
 ---
 
@@ -4060,9 +4466,15 @@
 
 ### MotoGP 13
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2fyb.jpg" alt="MotoGP 13 cover" width="200">
+
 **Platforms:** PlayStation 3, Windows, PlayStation Vita, Xbox 360 &nbsp;|&nbsp; **Developer:** Milestone &nbsp;|&nbsp; **Publisher:** Milestone, Plug in Digital &nbsp;|&nbsp; **Genre:** Racing &nbsp;|&nbsp; **Released:** June 20, 2013
 
-[Wikipedia](https://en.wikipedia.org/wiki/MotoGP_13)
+> 2013 Riders, teams and tracks; both simulation and accessible bike handling with scalable aids; photorealistic graphics with TV style interface; ingame voice over by official MotoGP commentators; first person elements such as the helmet view and 3D pits to put you in the rider’s shoes. This is MotoGP13, the official MotoGP videogame: try Career Mode, rising from a Moto3 wildcard to the MotoGP World Champion, or challenge your friends in Split Screen or Online Championship.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/MotoGP_13) · [IGDB](https://www.igdb.com/games/motogp-13)
 
 ---
 
@@ -4130,9 +4542,15 @@
 
 ### Rymdkapsel
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co3ysa.jpg" alt="Rymdkapsel cover" width="200">
+
 **Platforms:** PlayStation Vita, iOS, Android &nbsp;|&nbsp; **Developer:** Grapefrukt &nbsp;|&nbsp; **Publisher:** Grapefrukt &nbsp;|&nbsp; **Genre:** Real-time strategy &nbsp;|&nbsp; **Released:** May 7, 2013
 
-[Wikipedia](https://en.wikipedia.org/wiki/Rymdkapsel)
+> Rymdkapsel is a slow, meditiative strategy game set in space. It builds upon the legacy of Martins earlier games by requiring minimal user input, but that doesn't make you a passenger. It's rather the opposite as you are tasked with the higher level problem of building the best possible station and ordering your minions around.  The game originally launched on the Vita in early May 2013, and later had a wider release on iOS and Android in August.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Rymdkapsel) · [IGDB](https://www.igdb.com/games/rymdkapsel)
 
 ---
 
@@ -4188,9 +4606,15 @@
 
 ### Steins;Gate: Linear Bounded Phenogram
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co423j.jpg" alt="Steins;Gate: Linear Bounded Phenogram cover" width="200">
+
 **Platforms:** PlayStation 3, Xbox 360, PlayStation Vita &nbsp;|&nbsp; **Developer:** 5pb. &nbsp;|&nbsp; **Publisher:** 5pb., Spike Chunsoft &nbsp;|&nbsp; **Genre:** Visual novel &nbsp;|&nbsp; **Released:** April 25, 2013
 
-[Wikipedia](https://en.wikipedia.org/wiki/Steins;Gate:_Linear_Bounded_Phenogram)
+> Steins;Gate: Linear Bounded Phenogram/Phenogram of Linear Restraint (STEINS;GATE 線形拘束のフェノグラム Senkei Kousoku no Phenogram?) is a visual novel released on April 25, 2013 containing a mixture of scenarios set during and after the original visual novel's story-line, but in different world lines.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Steins;Gate:_Linear_Bounded_Phenogram) · [IGDB](https://www.igdb.com/games/steins-gate-linear-bounded-phenogram)
 
 ---
 
@@ -4218,9 +4642,15 @@
 
 ### Talisman: Digital Edition
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2321.jpg" alt="Talisman: Digital Edition cover" width="200">
+
 **Platforms:** Windows, iOS, Android, macOS, PlayStation 4, PlayStation Vita, Xbox One &nbsp;|&nbsp; **Developer:** Nomad Games &nbsp;|&nbsp; **Publisher:** Asmodee Digital, Nomad Games &nbsp;|&nbsp; **Genre:** Role-playing &nbsp;|&nbsp; **Released:** April 25, 2013
 
-[Wikipedia](https://en.wikipedia.org/wiki/Talisman:_Digital_Edition)
+> Talisman Digital Edition - The Magical Quest Game for 1 to 4 players.  The officially licensed multiplayer version of the classic fantasy adventure board game, Talisman.  In Talisman Digital Edition, there are 14 characters a player can control, from the heroic Warrior to the powerful Sorceress. In this perilous adventure, players battle it out to journey across a dangerous land and be the first to claim the Crown of Command, a magical artefact with the power to destroy all rivals and make the bearer the true ruler of the kingdom. On your travels, you will need strength, courage and some good dice rolls to survive the dangers you face and beat your opponents to the centre of the board.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Talisman:_Digital_Edition) · [IGDB](https://www.igdb.com/games/talisman-digital-edition)
 
 ---
 
@@ -4265,6 +4695,20 @@
 > _Synopsis source: IGDB_
 
 [Wikipedia](https://en.wikipedia.org/wiki/The_Legend_of_Heroes:_Trails_of_Cold_Steel) · [IGDB](https://www.igdb.com/games/the-legend-of-heroes-trails-of-cold-steel)
+
+---
+
+### The Pet Girl of Sakurasou
+
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co4nuh.jpg" alt="The Pet Girl of Sakurasou cover" width="200">
+
+**Platforms:** PlayStation Vita, PlayStation Portable &nbsp;|&nbsp; **Genre:** Visual Novel
+
+> Sakura-sou no Pet na Kanojo is a visual novel based on a light novel of the same name, developed by Netchubiyori and published by ASCII Media Works.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/The_Pet_Girl_of_Sakurasou) · [IGDB](https://www.igdb.com/games/sakura-sou-no-pet-na-kanojo)
 
 ---
 
@@ -4328,9 +4772,15 @@
 
 ### A Virus Named TOM
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2xmj.jpg" alt="A Virus Named TOM cover" width="200">
+
 **Platforms:** Windows, macOS, Linux, PlayStation Vita &nbsp;|&nbsp; **Developer:** Misfits Attic &nbsp;|&nbsp; **Publisher:** Misfits Attic &nbsp;|&nbsp; **Genre:** Puzzle &nbsp;|&nbsp; **Released:** August 1, 2012
 
-[Wikipedia](https://en.wikipedia.org/wiki/A_Virus_Named_TOM)
+> An Action-puzzler. The puzzle comes from rearrange circuits to spread the virus. The Action comes from dodging anti-virus drones while doing it. It's one of the few puzzle games out there where you can play co-operatively (with up to 3 friends). But if you tire of working together, there is a battle mode where you can take on your friends to see who is the supreme virus.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/A_Virus_Named_TOM) · [IGDB](https://www.igdb.com/games/a-virus-named-tom)
 
 ---
 
@@ -4364,9 +4814,15 @@
 
 ### Azkend 2: The World Beneath
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co23ph.jpg" alt="Azkend 2: The World Beneath cover" width="200">
+
 **Platforms:** iOS, Android, Windows, PlayStation 4, PlayStation Vita, Xbox One &nbsp;|&nbsp; **Developer:** 10tons Ltd &nbsp;|&nbsp; **Genre:** Puzzle &nbsp;|&nbsp; **Released:** March 14, 2012
 
-[Wikipedia](https://en.wikipedia.org/wiki/Azkend_2:_The_World_Beneath)
+> Azkend 2: The World Beneath is a beautifully polished match-three adventure game set in an awe-inspiring underground world. Enjoy superbly smooth casual matching puzzle gameplay, an engaging storyline with voiceovers, and hidden object minigames.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Azkend_2:_The_World_Beneath) · [IGDB](https://www.igdb.com/games/azkend-2-the-world-beneath)
 
 ---
 
@@ -4418,9 +4874,15 @@
 
 ### Ciel Nosurge
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2xqa.jpg" alt="Ciel Nosurge cover" width="200">
+
 **Platforms:** PlayStation Vita, PlayStation 4, Windows &nbsp;|&nbsp; **Developer:** Gust &nbsp;|&nbsp; **Publisher:** Koei Tecmo &nbsp;|&nbsp; **Genre:** Life simulation, social game &nbsp;|&nbsp; **Released:** April 26, 2012
 
-[Wikipedia](https://en.wikipedia.org/wiki/Ciel_Nosurge)
+> Set in a distant world on the verge of collapse, Ciel Nosurge follows the mysterious girl Ionasal as she attempts to recover her lost memories and communicate with a player from another dimension. Combining visual novel storytelling, life simulation elements and music-driven science fantasy worldbuilding, the game explores themes of connection, identity and reconstruction across worlds. Originally released episodically on PlayStation Vita, the story was expanded over multiple downloadable chapters and world packs.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Ciel_Nosurge) · [IGDB](https://www.igdb.com/games/ciel-nosurge)
 
 ---
 
@@ -4432,9 +4894,15 @@
 
 ### Cytus
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co1n4j.jpg" alt="Cytus cover" width="200">
+
 **Platforms:** iOS, Android, PlayStation Vita &nbsp;|&nbsp; **Developer:** Rayark &nbsp;|&nbsp; **Publisher:** Rayark &nbsp;|&nbsp; **Genre:** Rhythm game &nbsp;|&nbsp; **Released:** January 12, 2012
 
-[Wikipedia](https://en.wikipedia.org/wiki/Cytus)
+> 200 songs and 400 variations, including many from famous composers around the world. Beautiful hand-drawn art style. Easy, intuitive Active Scan Line system and 3 types of notes. Different display modes allow player-friendly previewing of notes. Strong beat and rhythms provide satisfying feedback for taps. More than 9 difficulty levels for more fun and challenges. Various music genres: POP, JAZZ, TRANCE, HARDCORE, DRUM 'N BASS and much more.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Cytus) · [IGDB](https://www.igdb.com/games/cytus)
 
 ---
 
@@ -4454,9 +4922,15 @@
 
 ### DJMax Technika Tune
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co60q6.jpg" alt="DJMax Technika Tune cover" width="200">
+
 **Platforms:** PlayStation Vita &nbsp;|&nbsp; **Developer:** Pentavision, Neowiz Mobile &nbsp;|&nbsp; **Publisher:** Pentavision, Pentavision Global, CyberFront &nbsp;|&nbsp; **Genre:** Music video game &nbsp;|&nbsp; **Released:** September 20, 2012
 
-[Wikipedia](https://en.wikipedia.org/wiki/DJMax_Technika_Tune)
+> DJMax Technika Tune is the 16th game in the DJMax series and is an adaptation of the DJMax Technika arcade game series, containing 67 songs and 4 game modes (Star Mixing, Pop Mixing, Club Mixing and Freestyle Mixing). Technika Tune by default uses a control scheme where you use both the front touchscreen and rear touchpad, unlike other Technika games that can only use a single touch screen.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/DJMax_Technika_Tune) · [IGDB](https://www.igdb.com/games/djmax-technika-tune)
 
 ---
 
@@ -4468,9 +4942,15 @@
 
 ### Dokuro
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co23h2.jpg" alt="Dokuro cover" width="200">
+
 **Platforms:** PlayStation Vita &nbsp;|&nbsp; **Developer:** Game Arts &nbsp;|&nbsp; **Publisher:** GungHo Online Entertainment &nbsp;|&nbsp; **Genre:** Puzzle &nbsp;|&nbsp; **Released:** July 5, 2012
 
-[Wikipedia](https://en.wikipedia.org/wiki/Dokuro_(video_game))
+> This charming, chalk-art puzzler tests your wits and tugs at your hearstrings as the bony underdog Dokuro strives to solve and swashbuckle his way through the Dark Lord's castle to save the Princess.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Dokuro_(video_game)) · [IGDB](https://www.igdb.com/games/dokuro)
 
 ---
 
@@ -4490,9 +4970,15 @@
 
 ### Ecolibrium
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co1leq.jpg" alt="Ecolibrium cover" width="200">
+
 **Platforms:** PlayStation Vita &nbsp;|&nbsp; **Developer:** StormBASIC Games &nbsp;|&nbsp; **Publisher:** Sony Computer Entertainment &nbsp;|&nbsp; **Genre:** Simulation &nbsp;|&nbsp; **Released:** September 12, 2012
 
-[Wikipedia](https://en.wikipedia.org/wiki/Ecolibrium)
+> A free-to-play Sci-Fi ecology simulator for PlayStation Vita. Controls a virtual ecosystem in which to grow and care for flora and fauna by manipulating four variables - Water, Minerals, Vegetation, and Meat - in order to create a balanced ecosystem.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Ecolibrium) · [IGDB](https://www.igdb.com/games/ecolibrium)
 
 ---
 
@@ -4582,9 +5068,15 @@
 
 ### Kidō Senshi Gundam SEED Battle Destiny
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co7zpq.jpg" alt="Kidō Senshi Gundam SEED Battle Destiny cover" width="200">
+
 **Platforms:** PlayStation Vita &nbsp;|&nbsp; **Developer:** Artdink &nbsp;|&nbsp; **Publisher:** Namco Bandai Games &nbsp;|&nbsp; **Genre:** Combat, Mecha, Science Fiction &nbsp;|&nbsp; **Released:** June 7, 2012
 
-[Wikipedia](https://en.wikipedia.org/wiki/Kid%C5%8D_Senshi_Gundam_SEED_Battle_Destiny)
+> Become a pilot in the world of Mobile Suit Gundam SEED! Engage in thrilling, action-packed Gundam battles, complete missions, and tune up your newly acquired Mobile Suits!
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Kid%C5%8D_Senshi_Gundam_SEED_Battle_Destiny) · [IGDB](https://www.igdb.com/games/mobile-suit-gundam-seed-battle-destiny)
 
 ---
 
@@ -4782,17 +5274,29 @@
 
 ### Pure Chess
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2r15.jpg" alt="Pure Chess cover" width="200">
+
 **Platforms:** Windows, PlayStation 3, PlayStation Vita, iOS, Android, Xbox One &nbsp;|&nbsp; **Developer:** VooFoo Studios &nbsp;|&nbsp; **Publisher:** Ripstone, Play It &nbsp;|&nbsp; **Genre:** Digital tabletop &nbsp;|&nbsp; **Released:** April 11, 2012
 
-[Wikipedia](https://en.wikipedia.org/wiki/Pure_Chess)
+> Chess! One of the world’s most popular games, has just got even better! Pure Chess Grandmaster Edition is a stunning celebration of the greatest strategy game of all time.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Pure_Chess) · [IGDB](https://www.igdb.com/games/pure-chess)
 
 ---
 
 ### Ragnarok Odyssey
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co1qoq.jpg" alt="Ragnarok Odyssey cover" width="200">
+
 **Platforms:** PlayStation Vita, PlayStation 3 &nbsp;|&nbsp; **Developer:** Game Arts &nbsp;|&nbsp; **Publisher:** GungHo Online Entertainment, Marvelous USA &nbsp;|&nbsp; **Genre:** Role-playing &nbsp;|&nbsp; **Released:** February 2, 2012
 
-[Wikipedia](https://en.wikipedia.org/wiki/Ragnarok_Odyssey)
+> Ragnarok Odyssey is set in an original world based on Norse mythology where a battle is being waged between humans and giants after the fall of the gods had previously separated the races. Players create their characters from over 20,000 possible combinations based on customizable physical features, then select one of six specialized job classes. The game's real-time battles are fast and furious as players can fling enemies skyward, follow them into the air for gravity-defying strikes, then finish off the combo by smacking them clear across the stage. Gameplay is driven forward by story-advancing and optional quests, and up to four players can fight together in online co-op mode.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Ragnarok_Odyssey) · [IGDB](https://www.igdb.com/games/ragnarok-odyssey)
 
 ---
 
@@ -4842,9 +5346,11 @@
 
 ### Romance of the Three Kingdoms 12
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co61bu.jpg" alt="Romance of the Three Kingdoms 12 cover" width="200">
+
 **Platforms:** Windows, PlayStation 3, PlayStation Vita, Wii U &nbsp;|&nbsp; **Developer:** Koei Tecmo &nbsp;|&nbsp; **Publisher:** Koei Tecmo &nbsp;|&nbsp; **Genre:** Strategy &nbsp;|&nbsp; **Released:** December 13, 2012
 
-[Wikipedia](https://en.wikipedia.org/wiki/Romance_of_the_Three_Kingdoms_12)
+[Wikipedia](https://en.wikipedia.org/wiki/Romance_of_the_Three_Kingdoms_12) · [IGDB](https://www.igdb.com/games/sangokushi-12--1)
 
 ---
 
@@ -4936,9 +5442,15 @@
 
 ### Super Monkey Ball: Banana Splitz
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co3s6e.jpg" alt="Super Monkey Ball: Banana Splitz cover" width="200">
+
 **Platforms:** PlayStation Vita &nbsp;|&nbsp; **Developer:** Marvelous AQL &nbsp;|&nbsp; **Publisher:** Sega &nbsp;|&nbsp; **Genre:** Platform, party &nbsp;|&nbsp; **Released:** June 14, 2012
 
-[Wikipedia](https://en.wikipedia.org/wiki/Super_Monkey_Ball:_Banana_Splitz)
+> Super Monkey Ball: Banana Splitz is a video game released exclusively for the PlayStation Vita by Sega. The game is the tenth release in the Super Monkey Ball series.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Super_Monkey_Ball:_Banana_Splitz) · [IGDB](https://www.igdb.com/games/super-monkey-ball-banana-splitz)
 
 ---
 
@@ -4994,9 +5506,15 @@
 
 ### Time Travelers
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co30gz.jpg" alt="Time Travelers cover" width="200">
+
 **Platforms:** Nintendo 3DS, PlayStation Vita, PlayStation Portable &nbsp;|&nbsp; **Developer:** Level-5 &nbsp;|&nbsp; **Publisher:** Level-5 &nbsp;|&nbsp; **Genre:** Playing cinema, adventure, visual novel &nbsp;|&nbsp; **Released:** July 12, 2012
 
-[Wikipedia](https://en.wikipedia.org/wiki/Time_Travelers_(video_game))
+> Time Travelers is a cinematic interactive drama game with multiple choices. Usually, if a main character makes a mistake or dies, they can reverse time to perform the right action. Their choices will be displayed in the flowchart. The right choices are necessary to advance the story. A final choice determines which ending the player gets. The game has quick time events, in which players must perform actions by quickly pressing the right button.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Time_Travelers_(video_game)) · [IGDB](https://www.igdb.com/games/time-travelers)
 
 ---
 
@@ -5036,9 +5554,15 @@
 
 ### Under Night In-Birth
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co4gae.jpg" alt="Under Night In-Birth cover" width="200">
+
 **Platforms:** Arcade, PlayStation 3, Windows, PlayStation 4, PlayStation Vita &nbsp;|&nbsp; **Developer:** French-Bread, Ecole Software &nbsp;|&nbsp; **Publisher:** Sega, Arc System Works, Aksys Games, NIS America, PQube, Clear River Games, Arc System Works &nbsp;|&nbsp; **Genre:** Fighting, visual novel
 
-[Wikipedia](https://en.wikipedia.org/wiki/Under_Night_In-Birth)
+> Under Night In-Birth is a 2D fighting game co-developed by Ecole Software and French-Bread. It received many updates for adjustments and characters.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Under_Night_In-Birth) · [IGDB](https://www.igdb.com/games/under-night-in-birth)
 
 ---
 
@@ -5060,9 +5584,15 @@
 
 ### When Vikings Attack!
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co61e6.jpg" alt="When Vikings Attack! cover" width="200">
+
 **Platforms:** PlayStation 3, PlayStation Vita &nbsp;|&nbsp; **Developer:** Clever Beans and XDev Studios Europe &nbsp;|&nbsp; **Publisher:** Sony Computer Entertainment &nbsp;|&nbsp; **Genre:** Fighting &nbsp;|&nbsp; **Released:** November 6, 2012
 
-[Wikipedia](https://en.wikipedia.org/wiki/When_Vikings_Attack!)
+> When Vikings Attack! plays like an arena melee brawler game. The only hard rule is that throwing objects are only allowed. Players control a small group of civilians fighting hordes of vikings. The objective is to pick up objects and throw to knock out enemies. Every vikings and civilians are fragile to every strike from a thrown object and will be knocked out in one hit. Each time an object collides with a figure, they're knocked out and excluded from the group, but larger or wide objects may even knock out an entire group, resulting in the player being eliminated. Lost civilians can be replaced by recruiting stray people roaming field. The game also features special items to be thrown such as explosive bombs for an area of effect attack.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/When_Vikings_Attack!) · [IGDB](https://www.igdb.com/games/when-vikings-attack)
 
 ---
 
@@ -5076,9 +5606,15 @@
 
 ### WRC 3: FIA World Rally Championship
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co30zw.jpg" alt="WRC 3: FIA World Rally Championship cover" width="200">
+
 **Platforms:** PlayStation 3, PlayStation Vita, Windows, Xbox 360, OnLive &nbsp;|&nbsp; **Developer:** Milestone srl &nbsp;|&nbsp; **Publisher:** Milestone srl, Bandai Namco Entertainment &nbsp;|&nbsp; **Genre:** Racing &nbsp;|&nbsp; **Released:** October 12, 2012
 
-[Wikipedia](https://en.wikipedia.org/wiki/WRC_3:_FIA_World_Rally_Championship)
+> The official video game of the 2012 FIA World Rally Championship (WRC), WRC 3 marks a radical departure from the previous titles and sees the team using a completely new graphics and game engine, developed in-house, in order to bring the most advanced WRC driving experience to players. WRC 3 features all the rallies in the 2012 WRC calendar, complete with all leading WRC teams and drivers in the revamped career mode.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/WRC_3:_FIA_World_Rally_Championship) · [IGDB](https://www.igdb.com/games/wrc-3-fia-world-rally-championship)
 
 ---
 
@@ -5116,17 +5652,25 @@
 
 ### Chaos Code
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co60ch.jpg" alt="Chaos Code cover" width="200">
+
 **Platforms:** Arcade, PlayStation 3, Windows, PlayStation Vita &nbsp;|&nbsp; **Developer:** FK Digital &nbsp;|&nbsp; **Publisher:** FK Digital, Arc System Works, exA-Arcadia [2020s arcades]), Arc System Works &nbsp;|&nbsp; **Genre:** Fighting, Visual novel
 
-[Wikipedia](https://en.wikipedia.org/wiki/Chaos_Code)
+> A 2D fighting game developed by FK Digital. It was released in the arcades in Japan in 2011 and on the PlayStation Network (PS3) in North America in September 2013.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Chaos_Code) · [IGDB](https://www.igdb.com/games/chaos-code)
 
 ---
 
 ### Dream Club Zero
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2g9q.jpg" alt="Dream Club Zero cover" width="200">
+
 **Platforms:** Xbox 360, PlayStation Vita, PlayStation 3 &nbsp;|&nbsp; **Developer:** Tamsoft &nbsp;|&nbsp; **Publisher:** D3 Publisher &nbsp;|&nbsp; **Genre:** Dating sim &nbsp;|&nbsp; **Released:** January 27, 2011
 
-[Wikipedia](https://en.wikipedia.org/wiki/Dream_Club_Zero)
+[Wikipedia](https://en.wikipedia.org/wiki/Dream_Club_Zero) · [IGDB](https://www.igdb.com/games/dream-club-zero)
 
 ---
 
@@ -5140,9 +5684,15 @@
 
 ### Little Battlers Experience
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co71fg.jpg" alt="Little Battlers Experience cover" width="200">
+
 **Platforms:** PlayStation Portable, Nintendo 3DS, PlayStation Vita, Windows, Android, iOS &nbsp;|&nbsp; **Developer:** Level-5, DMM Games &nbsp;|&nbsp; **Publisher:** Level-5 &nbsp;|&nbsp; **Genre:** Action role-playing, Gacha game &nbsp;|&nbsp; **Released:** June 16, 2011
 
-[Wikipedia](https://en.wikipedia.org/wiki/Little_Battlers_Experience)
+> Danball Senki is a PSP game developed by Level 5 involving small plastic model robots known as LBXs (standing for "Little Battler eXperience") that fight on dioramas made out of cardboard, and the main character Ban Yamano setting out to battle against LBXs created by other characters. For international release, Level-5 adopted the English language title "Little Battlers eXperience."
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Little_Battlers_Experience) · [IGDB](https://www.igdb.com/games/danball-senki)
 
 ---
 
@@ -5160,17 +5710,29 @@
 
 ### Fast Striker
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co8gy2.jpg" alt="Fast Striker cover" width="200">
+
 **Platforms:** Dreamcast, iOS, Neo Geo AES, PlayStation Vita &nbsp;|&nbsp; **Developer:** NG:Dev.Team &nbsp;|&nbsp; **Publisher:** NG:Dev.Team &nbsp;|&nbsp; **Genre:** Scrolling shooter &nbsp;|&nbsp; **Released:** June 30, 2010
 
-[Wikipedia](https://en.wikipedia.org/wiki/Fast_Striker)
+> Fast Striker is a Shoot-'Em-Up game, developed and published by NG:DEV.TEAM, which was released in Japan in 2012D arcade shooting game with emphasis on scoring originally developed for NEO·GEO. The game lets the player choose between 3 game modes with different scoring systems. Novice Mode for beginners, Original Mode for classic Shoot’ em Up players and Maniac for very experienced players. It features six stages of excellent 2D arcade game play with over 40 unique enemy types, super smooth 3D scrolling backgrounds, huge CGI bosses and it features the biggest megabit count ever since the beginning of NEO·GEO games0.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Fast_Striker) · [IGDB](https://www.igdb.com/games/fast-striker)
 
 ---
 
 ### God Eater
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2x2s.jpg" alt="God Eater cover" width="200">
+
 **Platforms:** PlayStation Portable, PlayStation Vita, Windows &nbsp;|&nbsp; **Developer:** Shift &nbsp;|&nbsp; **Publisher:** Namco Bandai Games, D3 Publisher &nbsp;|&nbsp; **Genre:** Action role-playing &nbsp;|&nbsp; **Released:** February 4, 2010
 
-[Wikipedia](https://en.wikipedia.org/wiki/God_Eater_(video_game))
+> God Eater is a Japanese action role-playing game and the first game in the God Eater series. The story revolves around the six members of the Far East Branch's 1st Unit as part of a anti-Aragami organization called Fenrir. The game's mission-based single-player mode consists of more than 100 missions, with co-operative play of up to three teammates over local adhoc wireless multiplayer or AI-controlled teammates.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/God_Eater_(video_game)) · [IGDB](https://www.igdb.com/games/god-eater)
 
 ---
 
@@ -5184,9 +5746,15 @@
 
 ### Ninja Senki
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co3z6k.jpg" alt="Ninja Senki cover" width="200">
+
 **Platforms:** PlayStation Vita, Windows, macOS &nbsp;|&nbsp; **Developer:** Jonathan Lavigne, Tribute Games &nbsp;|&nbsp; **Publisher:** Jonathan Lavigne, Tribute Games &nbsp;|&nbsp; **Genre:** Action platformer, side-scroller &nbsp;|&nbsp; **Released:** December 20, 2010
 
-[Wikipedia](https://en.wikipedia.org/wiki/Ninja_Senki)
+> Ninja Senki is a 2D action platform video game created by Canadian indie developer Jonathan Lavigne. It was inspired by classic NES games such as Ninja JaJaMaru-kun and Mega Man. The 8-bit style game has the same resolution as Game Boy console games (160 x 144 pixels).
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Ninja_Senki) · [IGDB](https://www.igdb.com/games/ninja-senki)
 
 ---
 

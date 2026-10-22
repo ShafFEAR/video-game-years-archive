@@ -2,7 +2,7 @@
 
 [← Back to index](../README.md)
 
-125 titles across 6 years in this archive.
+127 titles across 6 years in this archive.
 
 ## 2023
 
@@ -222,9 +222,15 @@
 
 ### Nine to Five
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co4qy9.jpg" alt="Nine to Five cover" width="200">
+
 **Platforms:** Windows, Stadia &nbsp;|&nbsp; **Developer:** Redhill Games &nbsp;|&nbsp; **Publisher:** Redhill Games &nbsp;|&nbsp; **Genre:** Massively multiplayer online tactical first-person shooter &nbsp;|&nbsp; **Released:** May 16, 2022
 
-[Wikipedia](https://en.wikipedia.org/wiki/Nine_to_Five_(video_game))
+> Nine to Five is a tactical first-person shooter where smart teamwork triumphs over brute force and reflexes. In the game’s near-future world, it’s the corporations that rule, and being a mercenary for them is just another job.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Nine_to_Five_(video_game)) · [IGDB](https://www.igdb.com/games/nine-to-five)
 
 ---
 
@@ -614,6 +620,20 @@
 
 ---
 
+### Monopoly Madness
+
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co49ng.jpg" alt="Monopoly Madness cover" width="200">
+
+**Platforms:** Nintendo Switch, PlayStation 4, Xbox One, Windows, Stadia &nbsp;|&nbsp; **Genre:** Simulator, Strategy, Card & Board Game
+
+> Would you like to become the new Mr. Monopoly? It’s your lucky day! Our favorite Real-Estate Mogul is going on a well-earned vacation and he’s looking for a temporary stand-in. The method of selection? A race for fame and fortune. This time the rules have slightly changed. Monopoly Madness brings the Monopoly experience into the arena for the first time ever. Roam the chaotic streets of Monopoly City, collect resources, buy and upgrade properties, mess with your opponents, and avoid their tricks to win the race for riches. This is madness!
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Monopoly_Madness) · [IGDB](https://www.igdb.com/games/monopoly-madness)
+
+---
+
 ### Monster Energy Supercross: The Official Videogame 4
 
 **Platforms:** Windows, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S, Stadia &nbsp;|&nbsp; **Developer:** Milestone &nbsp;|&nbsp; **Publisher:** Milestone &nbsp;|&nbsp; **Genre:** Racing &nbsp;|&nbsp; **Released:** March 11
@@ -729,6 +749,20 @@
 > _Synopsis source: IGDB_
 
 [Wikipedia](https://en.wikipedia.org/wiki/Super_Animal_Royale) · [IGDB](https://www.igdb.com/games/super-animal-royale)
+
+---
+
+### The Addams Family: Mansion Mayhem
+
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co31cn.jpg" alt="The Addams Family: Mansion Mayhem cover" width="200">
+
+**Platforms:** Nintendo Switch, Stadia, Windows, Xbox One, PlayStation 4 &nbsp;|&nbsp; **Genre:** Platform, Adventure
+
+> Only you and your friends can help Wednesday, Pugsley, Gomez, and Morticia save the Addams Family Mansion in this horrifyingly hilarious 3D adventure for up to four players. The mansion is full of spooky scares – but can you discover its hair-raising secrets and save it from an unexpected threat? Use each iconic character's abilities to explore the house, solve puzzles, and find lost relics. Play competitive minigames that will have you bumping and jumping over each other to win.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/The_Addams_Family:_Mansion_Mayhem) · [IGDB](https://www.igdb.com/games/the-addams-family-mansion-mayhem)
 
 ---
 
@@ -898,9 +932,15 @@
 
 ### Pac-Man Mega Tunnel Battle
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2j1t.jpg" alt="Pac-Man Mega Tunnel Battle cover" width="200">
+
 **Platforms:** Stadia, Nintendo Switch, Windows, PlayStation 5, PlayStation 4, Xbox One, Xbox Series X/S &nbsp;|&nbsp; **Developer:** Heavy Iron Studios, Amber Studio &nbsp;|&nbsp; **Publisher:** Bandai Namco Entertainment &nbsp;|&nbsp; **Genre:** Maze, battle royale &nbsp;|&nbsp; **Released:** November 17, 2020
 
-[Wikipedia](https://en.wikipedia.org/wiki/Pac-Man_Mega_Tunnel_Battle)
+> Prove your mettle in the world’s biggest simultaneous multiplayer PAC-MAN experience! Jump into 64-player games and show everyone who's the leader of the PAC! Invade other players' mazes, eat their dots and power ups - even other players! - and dominate the mazes! But watch out: viewers can vote on power-ups that can cause you - or your opponents! - to stumble on the field and be eliminated from battle! Invade, defend, and rack up high scores across a field of 64 interconnected mazes. Take advantage of brand-new power-ups, spy on neighboring boards, and much more! Spectator interactivity means even viewers are part of all the thrilling action! And customize your PAC-MAN and your home maze with fun skins to show off unique looks!
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Pac-Man_Mega_Tunnel_Battle) · [IGDB](https://www.igdb.com/games/pac-man-mega-tunnel-battle)
 
 ---
 
@@ -922,9 +962,15 @@
 
 ### Relicta
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2621.jpg" alt="Relicta cover" width="200">
+
 **Platforms:** Windows, PlayStation 4, Xbox One, Stadia &nbsp;|&nbsp; **Developer:** Mighty Polygon &nbsp;|&nbsp; **Publisher:** Ravenscourt &nbsp;|&nbsp; **Genre:** Puzzle &nbsp;|&nbsp; **Released:** August 4, 2020
 
-[Wikipedia](https://en.wikipedia.org/wiki/Relicta)
+> Relicta is a first-person physics-based puzzle game where you need to creatively combine magnetism and gravity in order to unravel the secrets of Chandra Base. Alone in the treacherous depths of the Moon, your scientific mind is the only thing that can keep your daughter alive...
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Relicta) · [IGDB](https://www.igdb.com/games/relicta)
 
 ---
 
@@ -1172,9 +1218,15 @@
 
 ### Red Dead Online
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2l9j.jpg" alt="Red Dead Online cover" width="200">
+
 **Platforms:** PlayStation 4, Xbox One, Windows, Stadia &nbsp;|&nbsp; **Developer:** Rockstar Games &nbsp;|&nbsp; **Publisher:** Rockstar Games &nbsp;|&nbsp; **Genre:** Action-adventure &nbsp;|&nbsp; **Released:** May 14, 2019
 
-[Wikipedia](https://en.wikipedia.org/wiki/Red_Dead_Online)
+> Step into the vibrant, ever-evolving world of Red Dead Online and experience life in frontier America. Chase down bounties, battle outlaw gangs and other players, hunt, fish and trade, search for exotic treasures, run Moonshine, and much more to discover in a world of astounding depth and detail.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Red_Dead_Online) · [IGDB](https://www.igdb.com/games/red-dead-online)
 
 ---
 
@@ -1230,8 +1282,14 @@
 
 ### The Legend of Heroes: Trails of Cold Steel IV
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co31wc.jpg" alt="The Legend of Heroes: Trails of Cold Steel IV cover" width="200">
+
 **Platforms:** PlayStation 4, Stadia &nbsp;|&nbsp; **Developer:** Nihon Falcom &nbsp;|&nbsp; **Publisher:** NIS America, Nihon Falcom &nbsp;|&nbsp; **Genre:** Role-playing &nbsp;|&nbsp; **Released:** September 27, 2018
 
-[Wikipedia](https://en.wikipedia.org/wiki/The_Legend_of_Heroes:_Trails_of_Cold_Steel_IV)
+> The Legend of Heroes: Trails of Cold Steel IV is the ninth installment in the main Trails series, serving as a direct sequel to the events of the The Legend of Heroes: Trails of Cold Steel III and the ending to the Erebonia arc. The continent of Zemuria is dragged into conflict as the Erebonian Empire mobilizes the full force of its military. The heroes of Class VII old and new must unite to end the conflict before it consumes the continent.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/The_Legend_of_Heroes:_Trails_of_Cold_Steel_IV) · [IGDB](https://www.igdb.com/games/the-legend-of-heroes-trails-of-cold-steel-iv)
 
 ---

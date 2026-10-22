@@ -20,9 +20,15 @@
 
 ### Absurdle
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co7j69.jpg" alt="Absurdle cover" width="200">
+
 **Platforms:** Browser &nbsp;|&nbsp; **Developer:** qntm &nbsp;|&nbsp; **Genre:** Puzzle, word game
 
-[Wikipedia](https://en.wikipedia.org/wiki/Absurdle)
+> Absurdle is a word guessing game where players must identify a target word which is chosen from the largest existing subset of possible words, based on the already existing information from previous guesses.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Absurdle) · [IGDB](https://www.igdb.com/games/absurdle)
 
 ---
 
@@ -48,7 +54,15 @@
 
 ### Demon Throttle
 
-[Wikipedia](https://en.wikipedia.org/wiki/Demon_Throttle)
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co39mc.jpg" alt="Demon Throttle cover" width="200">
+
+**Platforms:** Nintendo Switch &nbsp;|&nbsp; **Genre:** Platform, Adventure, Indie
+
+> Demon Throttle tells the story of a beautiful vampiress and dusty gunslinger on a quest for vengeance against a demon that stole her mystical chalices and slept with his estranged wife. Now the two unlikely companions must blast their way through four monstrous generals and their wicked domains to lift the demon's curse and exact their revenge.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Demon_Throttle) · [IGDB](https://www.igdb.com/games/demon-throttle)
 
 ---
 
@@ -96,7 +110,15 @@
 
 ### Halloween Candy Run
 
-[Wikipedia](https://en.wikipedia.org/wiki/Halloween_Candy_Run)
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co5mjl.jpg" alt="Halloween Candy Run cover" width="200">
+
+**Platforms:** PlayStation 5 &nbsp;|&nbsp; **Genre:** Arcade
+
+> Halloween Candy Run is a Runner style arcade game where the user leaps and dashes through obstacles to get to the finish line. Play and survive through 12 levels of as you complete your spooky Halloween candy run.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Halloween_Candy_Run) · [IGDB](https://www.igdb.com/games/halloween-candy-run)
 
 ---
 
@@ -108,15 +130,29 @@
 
 ### Independence Day Run
 
-[Wikipedia](https://en.wikipedia.org/wiki/Independence_Day_Run)
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co5ycv.jpg" alt="Independence Day Run cover" width="200">
+
+**Platforms:** PlayStation 4, PlayStation 5 &nbsp;|&nbsp; **Genre:** Arcade
+
+> Independence Day Run is a Runner style arcade game where the user leaps and dashes through obstacles to get to the finish line. Play and survive through 12 levels as you complete your patriotic run.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Independence_Day_Run) · [IGDB](https://www.igdb.com/games/independence-day-run)
 
 ---
 
 ### Luck Be a Landlord
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2nbt.jpg" alt="Luck Be a Landlord cover" width="200">
+
 **Platforms:** Linux, macOS, Windows, Android, iOS, Nintendo Switch, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S &nbsp;|&nbsp; **Developer:** TrampolineTales &nbsp;|&nbsp; **Publisher:** TrampolineTales &nbsp;|&nbsp; **Genre:** Roguelike deck-building
 
-[Wikipedia](https://en.wikipedia.org/wiki/Luck_Be_a_Landlord)
+> Luck be a Landlord is a roguelike deckbuilder about using a slot machine to earn rent money and defeat capitalism. This game does not contain any real-world currency gambling or microtransactions.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Luck_Be_a_Landlord) · [IGDB](https://www.igdb.com/games/luck-be-a-landlord)
 
 ---
 
@@ -166,21 +202,43 @@
 
 ### Rocksmith+
 
-[Wikipedia](https://en.wikipedia.org/wiki/Rocksmith+)
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co39mn.jpg" alt="Rocksmith+ cover" width="200">
+
+**Platforms:** Windows &nbsp;|&nbsp; **Genre:** Music
+
+> Learn by playing along to your favorite songs featuring real time feedback, customizable pace, and a vast, ever-expanding song library of official recordings all designed to help you express your creativity.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Rocksmith+) · [IGDB](https://www.igdb.com/games/rocksmith-plus)
 
 ---
 
 ### Semantle
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co4t46.jpg" alt="Semantle cover" width="200">
+
 **Platforms:** Browser &nbsp;|&nbsp; **Developer:** David Turner &nbsp;|&nbsp; **Genre:** Puzzle, Word game
 
-[Wikipedia](https://en.wikipedia.org/wiki/Semantle)
+> A daily word-guessing game where each guess must be a word (of any length) or short phrase. The game will tell you how semantically similar it thinks your word is to the secret word. Unlike that other word game, it's not about the spelling; it's about the meaning.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Semantle) · [IGDB](https://www.igdb.com/games/semantle)
 
 ---
 
 ### Ship of Harkinian
 
-[Wikipedia](https://en.wikipedia.org/wiki/Ship_of_Harkinian)
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co661w.jpg" alt="Ship of Harkinian cover" width="200">
+
+**Platforms:** Windows, macOS, Linux, Wii U, Nintendo Switch &nbsp;|&nbsp; **Genre:** Role-playing (RPG), Adventure
+
+> Ship of Harkinian, also known as The Legend of Zelda: Ocarina of Time PC Port, is a mod (which requires the original game to compile) of the famous Nintendo 64 game, made using the open-source code by the Nintendo 64 Decompilation Project, just like the Super Mario 64 PC Port. This mod adds quality of life improvements to the game, like Widescreen resolution, HD textures and compatibility with modern controllers, while making it playable on Windows.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Ship_of_Harkinian) · [IGDB](https://www.igdb.com/games/ship-of-harkinian)
 
 ---
 
@@ -232,7 +290,15 @@
 
 ### The Punchuin
 
-[Wikipedia](https://en.wikipedia.org/wiki/The_Punchuin)
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co5wpt.jpg" alt="The Punchuin cover" width="200">
+
+**Platforms:** Nintendo Switch &nbsp;|&nbsp; **Genre:** Adventure
+
+> You are on a quest to solve the mystery of the treasure of Punch Mountain. Punch your way down, collect money and diamonds, improve your punching skills and make some new friends along the way.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/The_Punchuin) · [IGDB](https://www.igdb.com/games/the-punchuin)
 
 ---
 
@@ -256,7 +322,15 @@
 
 ### Too Hot to Handle: Love is a Game
 
-[Wikipedia](https://en.wikipedia.org/wiki/Too_Hot_to_Handle:_Love_is_a_Game)
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co73o6.jpg" alt="Too Hot to Handle: Love is a Game cover" width="200">
+
+**Platforms:** iOS, Android &nbsp;|&nbsp; **Genre:** Simulator, Visual Novel
+
+> This game, a dating sim, follows the same rules as the TV show and will feature innuendo, plot twists, and romance.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Too_Hot_to_Handle:_Love_is_a_Game) · [IGDB](https://www.igdb.com/games/too-hot-to-handle-love-is-a-game)
 
 ---
 
@@ -278,8 +352,14 @@
 
 ### Wikitrivia
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co52au.jpg" alt="Wikitrivia cover" width="200">
+
 **Platforms:** Browser &nbsp;|&nbsp; **Developer:** Tom J. Watson &nbsp;|&nbsp; **Genre:** Trivia
 
-[Wikipedia](https://en.wikipedia.org/wiki/Wikitrivia)
+> Wikitrivia is a trivia browser game created by Tom J. Watson, which gained popularity in January 2022. Players are presented with a timeline and a card with a subject and a type of date, and must put the event in the correct place in the timeline.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Wikitrivia) · [IGDB](https://www.igdb.com/games/wikitrivia)
 
 ---

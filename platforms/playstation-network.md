@@ -700,9 +700,15 @@
 
 ### Skydive: Proximity Flight
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/cocrb8.jpg" alt="Skydive: Proximity Flight cover" width="200">
+
 **Platforms:** PlayStation 3, PlayStation Network &nbsp;|&nbsp; **Developer:** Gaijin Entertainment &nbsp;|&nbsp; **Publisher:** Gaijin Entertainment, TopWare Interactive &nbsp;|&nbsp; **Genre:** Sports &nbsp;|&nbsp; **Released:** October 1, 2013
 
-[Wikipedia](https://en.wikipedia.org/wiki/Skydive:_Proximity_Flight)
+> Skydive: Proximity Flight can be safely enjoyed from your favorite chair using gamepad, but for gamers with a more adventurous spirit, motion tracking devices will enhance the gaming experience through the power of unrestricted flight.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Skydive:_Proximity_Flight) · [IGDB](https://www.igdb.com/games/skydive-proximity-flight)
 
 ---
 
@@ -1620,9 +1626,15 @@
 
 ### Crazy Machines Elements
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/cocr30.jpg" alt="Crazy Machines Elements cover" width="200">
+
 **Platforms:** Windows, PlayStation 3, PlayStation Network, Xbox 360 &nbsp;|&nbsp; **Developer:** Fakt Software &nbsp;|&nbsp; **Publisher:** DTP Entertainment &nbsp;|&nbsp; **Genre:** Puzzle &nbsp;|&nbsp; **Released:** March 25, 2011
 
-[Wikipedia](https://en.wikipedia.org/wiki/Crazy_Machines_Elements)
+> GET YOUR BRAIN BUZZING with each new challenge in the latest installment of the multi award-winning wacky contraption series - CRAZY MACHINES ELEMENTS. Play with Fire, harness the power of water and control the wind to set off the most insanely creative chain reactions!
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Crazy_Machines_Elements) · [IGDB](https://www.igdb.com/games/crazy-machines-elements)
 
 ---
 
@@ -1636,9 +1648,15 @@
 
 ### Deadliest Warrior: Legends
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co60ha.jpg" alt="Deadliest Warrior: Legends cover" width="200">
+
 **Platforms:** Xbox 360, PlayStation Network, PlayStation 3 &nbsp;|&nbsp; **Developer:** Pipeworks Software &nbsp;|&nbsp; **Publisher:** 345 Games, Spike Games &nbsp;|&nbsp; **Genre:** Fighting &nbsp;|&nbsp; **Released:** July 6, 2011
 
-[Wikipedia](https://en.wikipedia.org/wiki/Deadliest_Warrior:_Legends)
+> Deadliest Warrior: Legends is a fighting game and sequel to Deadliest Warrior: The Game. It was released on July 6, 2011 for Playstation Network and X-Box Live Arcade. Unlike the first game, all the fighters are named warriors, instead of all generic warriors.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Deadliest_Warrior:_Legends) · [IGDB](https://www.igdb.com/games/deadliest-warrior-legends)
 
 ---
 
@@ -1778,17 +1796,29 @@
 
 ### Modern Combat: Domination
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/swkh1wjxuycy1fgki115.jpg" alt="Modern Combat: Domination cover" width="200">
+
 **Platforms:** PlayStation 3, PlayStation Network, macOS &nbsp;|&nbsp; **Developer:** Gameloft &nbsp;|&nbsp; **Publisher:** Gameloft &nbsp;|&nbsp; **Genre:** First-person shooter &nbsp;|&nbsp; **Released:** January 18, 2011
 
-[Wikipedia](https://en.wikipedia.org/wiki/Modern_Combat:_Domination)
+> Rediscover at last what made multiplayer shooters so enjoyable!
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Modern_Combat:_Domination) · [IGDB](https://www.igdb.com/games/modern-combat-domination)
 
 ---
 
 ### Moon Diver
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/umuhj7yxrlwfej7hjzm2.jpg" alt="Moon Diver cover" width="200">
+
 **Platforms:** PlayStation Network, Xbox 360 &nbsp;|&nbsp; **Developer:** feelplus &nbsp;|&nbsp; **Publisher:** Square Enix &nbsp;|&nbsp; **Genre:** Side-scroller, platformer &nbsp;|&nbsp; **Released:** March 29, 2011
 
-[Wikipedia](https://en.wikipedia.org/wiki/Moon_Diver)
+> At the dawn of the 22nd century, an evil power brought inanimate objects to life, and they turned on humanity. Bridges, automobiles, cities – the whole of humanity’s creations were all made to turn on their makers. Mankind’s fears of apocalypse became reality!Hidden amongst humanity’s survivors, an elite unit of specially-trained ninja known as Moondivers has been lying in wait for orders to reclaim the planet.Today, those orders arrived. Today, the battle to retake Earth begins.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Moon_Diver) · [IGDB](https://www.igdb.com/games/moon-diver)
 
 ---
 
@@ -1844,9 +1874,15 @@
 
 ### Red Faction: Battlegrounds
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/ksql3wo8zelpgbcpnn5w.jpg" alt="Red Faction: Battlegrounds cover" width="200">
+
 **Platforms:** PlayStation 3, PlayStation Network, Xbox 360 &nbsp;|&nbsp; **Developer:** THQ Digital Studios UK &nbsp;|&nbsp; **Publisher:** THQ &nbsp;|&nbsp; **Genre:** Vehicle simulation, multi-directional shooter &nbsp;|&nbsp; **Released:** April 5, 2011
 
-[Wikipedia](https://en.wikipedia.org/wiki/Red_Faction:_Battlegrounds)
+> Red Faction: Battlegrounds revolves around vehicular combat from a top-down view. It has twenty offline missions arranged in a weakly-ordered campaign as well as multiplayer both local and online.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Red_Faction:_Battlegrounds) · [IGDB](https://www.igdb.com/games/red-faction-battlegrounds)
 
 ---
 
@@ -1872,9 +1908,15 @@
 
 ### SkyDrift
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co41m3.jpg" alt="SkyDrift cover" width="200">
+
 **Platforms:** PlayStation 3, PlayStation Network, Windows, Xbox 360 &nbsp;|&nbsp; **Developer:** Digital Reality, THQ Nordic &nbsp;|&nbsp; **Publisher:** Digital Reality, Bandai Namco Partners, HandyGames &nbsp;|&nbsp; **Genre:** Arcade racing &nbsp;|&nbsp; **Released:** September 6, 2011
 
-[Wikipedia](https://en.wikipedia.org/wiki/SkyDrift)
+> In SkyDrift players pilot one of several airplanes in a fictional racing competition. Gameplay is similar to other airplane racing games such as Plane Crazy and the flight mode of Diddy Kong Racing. The game features 33 single player challenge stages as well as online multiplayer. While the primary focus is racing, dogfights play a large part in some of SkyDrift‍ '​s game modes. Players are rewarded with boost, which provides a temporary burst of speed, by flying acrobatically, low to the ground, or by taking down opponents. Planes and their separate liveries are unlocked as players progress and complete specified challenges. As players progress on a given course they are sometimes presented with progressing environment hazards such as falling rocks or an avalanche.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/SkyDrift) · [IGDB](https://www.igdb.com/games/skydrift)
 
 ---
 
@@ -1902,9 +1944,15 @@
 
 ### Spare Parts
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/cocp9g.jpg" alt="Spare Parts cover" width="200">
+
 **Platforms:** PlayStation 3, PlayStation Network, Xbox 360 &nbsp;|&nbsp; **Developer:** EA Bright Light &nbsp;|&nbsp; **Publisher:** Electronic Arts &nbsp;|&nbsp; **Genre:** Platform &nbsp;|&nbsp; **Released:** January 18, 2011
 
-[Wikipedia](https://en.wikipedia.org/wiki/Spare_Parts_(video_game))
+> Spare Parts tells the story of courageous robots Mar-T and Chip, who find themselves dumped out with the rubbish on a strange planet. Working together in co-op mode, the mechanical duo must find a way to repair an abandoned space ship and escape the planet before evil Lord Krung can dispatch his henchmen to destroy them. Searching the hostile environments for ship parts and currency, Mar-T and Chip will also collect upgradable action parts – such as Rocket Boots – to unlock new abilities that will aid them as they rescue other stranded robots, and battle countless enemies including the relentless Krofax troopers, hostile spider monkeys and even a Super Huge Mega Laser!
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Spare_Parts_(video_game)) · [IGDB](https://www.igdb.com/games/spare-parts)
 
 ---
 
@@ -1952,9 +2000,15 @@
 
 ### Zombie Apocalypse: Never Die Alone
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/d0w3kle0xl9tgb1tbsjs.jpg" alt="Zombie Apocalypse: Never Die Alone cover" width="200">
+
 **Platforms:** PlayStation 3, Xbox 360, PlayStation Network &nbsp;|&nbsp; **Developer:** Backbone Entertainment &nbsp;|&nbsp; **Publisher:** Konami &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** October 25, 2011
 
-[Wikipedia](https://en.wikipedia.org/wiki/Zombie_Apocalypse:_Never_Die_Alone)
+> This sequel to Nihilistic Games' Zombie Apocalypse is developed by Backbone Entertainment and published by Konami.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Zombie_Apocalypse:_Never_Die_Alone) · [IGDB](https://www.igdb.com/games/zombie-apocalypse-never-die-alone)
 
 ---
 
@@ -2096,17 +2150,29 @@
 
 ### Earthworm Jim HD
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2irm.jpg" alt="Earthworm Jim HD cover" width="200">
+
 **Platforms:** Xbox 360, PlayStation 3, PlayStation Network, Windows Phone &nbsp;|&nbsp; **Developer:** Gameloft &nbsp;|&nbsp; **Publisher:** Gameloft &nbsp;|&nbsp; **Genre:** Platform shoot 'em up &nbsp;|&nbsp; **Released:** June 9, 2010
 
-[Wikipedia](https://en.wikipedia.org/wiki/Earthworm_Jim_HD)
+> Earthworm Jim HD is a high definition remake of the original Earthworm Jim video game.  The main addition to the gameplay is the inclusion of a 4 player cooperative online multi-player mode. The game contains new levels, not present in the original release, which can be played with up to four players both locally or over the internet, and involve teamwork-based puzzles and gameplay. There are fifteen multi-player levels in total. Achievements can also be unlocked in the multiplayer portion of the game, rewarding players for being "No. 1' in each Xbox Live multiplayer level".
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Earthworm_Jim_HD) · [IGDB](https://www.igdb.com/games/earthworm-jim-hd)
 
 ---
 
 ### Fret Nice
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/cocn85.jpg" alt="Fret Nice cover" width="200">
+
 **Platforms:** Xbox 360, PlayStation 3, PlayStation Network &nbsp;|&nbsp; **Developer:** Pieces Interactive AB &nbsp;|&nbsp; **Publisher:** Tecmo &nbsp;|&nbsp; **Genre:** Platform game, Music video game &nbsp;|&nbsp; **Released:** February 4, 2010
 
-[Wikipedia](https://en.wikipedia.org/wiki/Fret_Nice)
+> Fret Nice is a platform game that you play using a guitar controller.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Fret_Nice) · [IGDB](https://www.igdb.com/games/fret-nice)
 
 ---
 
@@ -2138,9 +2204,15 @@
 
 ### Kung-Fu Live
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2j21.jpg" alt="Kung-Fu Live cover" width="200">
+
 **Platforms:** PlayStation 3, PlayStation Network &nbsp;|&nbsp; **Developer:** Virtual Air Guitar &nbsp;|&nbsp; **Publisher:** Virtual Air Guitar &nbsp;|&nbsp; **Genre:** Action, Fighting &nbsp;|&nbsp; **Released:** December 7, 2010
 
-[Wikipedia](https://en.wikipedia.org/wiki/Kung-Fu_Live)
+> Kung-Fu Live is a fighting game where the player steps through the PlayStation Eye camera into the game world, using any fighting moves they can imagine - punches, kicks, head butts and handbags.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Kung-Fu_Live) · [IGDB](https://www.igdb.com/games/kung-fu-live)
 
 ---
 
@@ -2222,17 +2294,29 @@
 
 ### Puzzle Agent
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co21gr.jpg" alt="Puzzle Agent cover" width="200">
+
 **Platforms:** Windows, macOS, iOS, PlayStation Network &nbsp;|&nbsp; **Developer:** Telltale Games &nbsp;|&nbsp; **Publisher:** Telltale Games &nbsp;|&nbsp; **Genre:** Adventure, puzzle &nbsp;|&nbsp; **Released:** June 30, 2010
 
-[Wikipedia](https://en.wikipedia.org/wiki/Puzzle_Agent)
+> Created with indie comic artist Graham Annable's unique narrative and visual sensibilities, delivered with the distinctive Telltale storytelling style, Puzzle Agent is sure to challenge, thrill and engage in more ways than you can shake a cryptogram at!
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Puzzle_Agent) · [IGDB](https://www.igdb.com/games/puzzle-agent)
 
 ---
 
 ### Risk: Factions
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2stm.jpg" alt="Risk: Factions cover" width="200">
+
 **Platforms:** Xbox 360, PlayStation 3, PlayStation Network, Windows, Steam, Facebook &nbsp;|&nbsp; **Developer:** Stainless Games &nbsp;|&nbsp; **Publisher:** Electronic Arts &nbsp;|&nbsp; **Genre:** Strategy &nbsp;|&nbsp; **Released:** June 23, 2010
 
-[Wikipedia](https://en.wikipedia.org/wiki/Risk:_Factions)
+> Wage war with five factions, each with unique abilities, in the original game of strategy and world domination! Play with the classic rules or reign supreme with objective-based and world conquest scenarios as you command your army and take tactical gambles to win the day. Then challenge your friends in local or online multiplayer and see how you stack up on the leaderboards.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Risk:_Factions) · [IGDB](https://www.igdb.com/games/risk-factions)
 
 ---
 
@@ -2282,9 +2366,15 @@
 
 ### Voodoo Dice
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/cocd44.jpg" alt="Voodoo Dice cover" width="200">
+
 **Platforms:** iOS, PlayStation 3, PlayStation Portable, PlayStation Network, Wii, Windows, Xbox 360 &nbsp;|&nbsp; **Developer:** Exkee &nbsp;|&nbsp; **Publisher:** Ubisoft &nbsp;|&nbsp; **Genre:** Action, puzzle &nbsp;|&nbsp; **Released:** May 26, 2010
 
-[Wikipedia](https://en.wikipedia.org/wiki/Voodoo_Dice)
+> Roll the dice in a mystical world filled with exploration, puzzle-solving, and adventure! Mixing action based and puzzle mechanics in a 3D world, Voodoo Dice is an innovative, challenging puzzler that plays with your mind to lead you to solve puzzles in unique and interesting ways.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Voodoo_Dice) · [IGDB](https://www.igdb.com/games/voodoo-dice)
 
 ---
 
@@ -2364,9 +2454,15 @@
 
 ### Comet Crash
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2ps0.jpg" alt="Comet Crash cover" width="200">
+
 **Platforms:** PlayStation 3, PlayStation Network &nbsp;|&nbsp; **Developer:** Pelfast &nbsp;|&nbsp; **Publisher:** Pelfast &nbsp;|&nbsp; **Genre:** Tower defense &nbsp;|&nbsp; **Released:** April 2, 2009
 
-[Wikipedia](https://en.wikipedia.org/wiki/Comet_Crash)
+> Real-time strategy is taken to a new level by blending classical tower defense gameplay with offensive counterattacks and dynamic AI.Defend your territory with a variety of weapons. Use specialized units to fight off attacks and rush your enemies with massive armies.Fight your way through action packed levels in Campaign mode or challenge your friends in Battle mode. Stunning 1080p graphics with music by Synaesthesia.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Comet_Crash) · [IGDB](https://www.igdb.com/games/comet-crash)
 
 ---
 
@@ -2380,9 +2476,15 @@
 
 ### Droplitz
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co60js.jpg" alt="Droplitz cover" width="200">
+
 **Platforms:** Xbox 360, PlayStation 3, Windows, iOS, PlayStation Network &nbsp;|&nbsp; **Developer:** Blitz Arcade &nbsp;|&nbsp; **Publisher:** Atlus USA &nbsp;|&nbsp; **Genre:** Puzzle &nbsp;|&nbsp; **Released:** June 24, 2009
 
-[Wikipedia](https://en.wikipedia.org/wiki/Droplitz)
+> Immerse yourself in an addictive puzzler that's all about strategically twisting and connecting mismatched dials to save precious Droplitz. Just making a single junction is child's play. Can you master the art of the combo, or will you let your pipes runneth over? Be warned! Losing too many droplitz can be hazardous to your ability to win. With four unique play modes, a variety of board sizes, and infinite replayability, Droplitz promises to drain all your time away.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Droplitz) · [IGDB](https://www.igdb.com/games/droplitz)
 
 ---
 
@@ -2432,9 +2534,15 @@
 
 ### Ion Assault
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co447s.jpg" alt="Ion Assault cover" width="200">
+
 **Platforms:** Xbox 360, Windows, PlayStation Network &nbsp;|&nbsp; **Developer:** Coreplay &nbsp;|&nbsp; **Publisher:** Black Inc., BitComposer Games &nbsp;|&nbsp; **Genre:** Multidirectional shooter &nbsp;|&nbsp; **Released:** September 23, 2009
 
-[Wikipedia](https://en.wikipedia.org/wiki/Ion_Assault)
+> In Ion Assault players wield thousands of Ion Particles to blast, fry and disrupt anything on screen as you see fit! By centering its gameplay around its unique fluid and particle physics system, Ion Assault adds a twist to arcade style space shooters!  Utilizing its dynamic level intensity, Ion Assault is both accessible for the beginner as well as challenging for the skilled gamer. The faster you destroy obstacles, the more enemies the game will throw at you, so play it safe and clear one obstacle at a time or go crazy and see how many enemies the game can throw at you for a maximum score!
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Ion_Assault) · [IGDB](https://www.igdb.com/games/ion-assault)
 
 ---
 
@@ -2448,9 +2556,15 @@
 
 ### Magic Orbz
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co3irg.jpg" alt="Magic Orbz cover" width="200">
+
 **Platforms:** PlayStation 3, PlayStation Network &nbsp;|&nbsp; **Developer:** Creat Studios, HeroCraft &nbsp;|&nbsp; **Publisher:** Creat Studios & TikGames, HeroCraft &nbsp;|&nbsp; **Genre:** Breakout clone &nbsp;|&nbsp; **Released:** January 15, 2009
 
-[Wikipedia](https://en.wikipedia.org/wiki/Magic_Orbz)
+> Get Magic Orbz, Puzzle game for PS3 console from the official PlayStation website. Know more about Magic Orbz Game.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Magic_Orbz) · [IGDB](https://www.igdb.com/games/magic-orbz)
 
 ---
 
@@ -2470,9 +2584,15 @@
 
 ### Military Madness: Nectaris
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/coa5bt.jpg" alt="Military Madness: Nectaris cover" width="200">
+
 **Platforms:** Xbox 360, PlayStation Network &nbsp;|&nbsp; **Developer:** Backbone Entertainment &nbsp;|&nbsp; **Publisher:** Hudson Soft &nbsp;|&nbsp; **Genre:** Turn-based strategy &nbsp;|&nbsp; **Released:** September 30, 2009
 
-[Wikipedia](https://en.wikipedia.org/wiki/Military_Madness:_Nectaris)
+> Military Madness: Nectaris is a 3D remake of the original Military Madness.  The Military is back for a new generation of recruits! The classic turn-based strategy series Military Madness, a.k.a. Nectaris, is exploding onto WiiWare, PSN and Xbox Live Arcade with a platoon of new features. Coordinate strategies or taunt foes in team or vs. multiplayer modes for up to 4 people, offline or online. Customise the all-new commander unit by selecting from 20 unique abilities as it leads your forces in multiplayer. Command respect as you increase your rank as you march up the leaderboards on your mission to prove you’re the top general around. This is the maddest game in the series yet!
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Military_Madness:_Nectaris) · [IGDB](https://www.igdb.com/games/military-madness-nectaris)
 
 ---
 
@@ -2582,17 +2702,29 @@
 
 ### Zombie Apocalypse
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2om4.jpg" alt="Zombie Apocalypse cover" width="200">
+
 **Platforms:** PlayStation 3, Xbox 360, PlayStation Network &nbsp;|&nbsp; **Developer:** Nihilistic Software &nbsp;|&nbsp; **Publisher:** Konami &nbsp;|&nbsp; **Genre:** Shoot 'em up &nbsp;|&nbsp; **Released:** September 23, 2009
 
-[Wikipedia](https://en.wikipedia.org/wiki/Zombie_Apocalypse_(video_game))
+> Zombie Apocalypse is a dual-stick shooter where the player must survive waves of zombies across 55 stages/days. Points are awarded for saving stranded civilians, killing zombies with environmental hazards, or simply mowing down the hordes with ten weapons including machine guns, flamethrowers, shotguns, and chainsaws. Up to four players can tackle the zombies together, online or off.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Zombie_Apocalypse_(video_game)) · [IGDB](https://www.igdb.com/games/zombie-apocalypse)
 
 ---
 
 ### Zuma's Revenge!
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2ry6.jpg" alt="Zuma's Revenge! cover" width="200">
+
 **Platforms:** Windows, Xbox 360, Windows Phone, macOS, Nintendo DS, iOS, PlayStation Network &nbsp;|&nbsp; **Developer:** PopCap Games &nbsp;|&nbsp; **Publisher:** PopCap Games, Electronic Arts &nbsp;|&nbsp; **Genre:** Puzzle &nbsp;|&nbsp; **Released:** September 15, 2009
 
-[Wikipedia](https://en.wikipedia.org/wiki/Zuma's_Revenge!)
+> Conquer over 60 levels by staying sharp and avoiding hidden traps. Slide and hop for smarter shots; hit targets for exotic bonuses; detonate new power-up balls; battle six imposing tiki bosses and guide your agile amphibian to victory in four all new game modes! Will you succumb to the perilous pitfalls, or can you tame the jungle in this PopCap ball-blasting challenge?
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Zuma's_Revenge!) · [IGDB](https://www.igdb.com/games/zumas-revenge)
 
 ---
 
@@ -2630,9 +2762,15 @@
 
 ### Death Track: Resurrection
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co3oa5.jpg" alt="Death Track: Resurrection cover" width="200">
+
 **Platforms:** Windows, Steam, PlayStation 3, PlayStation Network &nbsp;|&nbsp; **Developer:** SkyFallen Entertainment &nbsp;|&nbsp; **Publisher:** 1C Company, 505 Games, Aspyr Media &nbsp;|&nbsp; **Genre:** Racing, vehicular combat &nbsp;|&nbsp; **Released:** February 22, 2008
 
-[Wikipedia](https://en.wikipedia.org/wiki/Death_Track:_Resurrection)
+> Do you have what it takes to Survive?  Resurrection is a racing/action title that takes players into a post-apocalyptic, not-too-distant future where traditional sports have been replaced by far more violent entertainment. The main event, The Survival Race, is a deadly combat racing tournament that draws the world's best drivers to compete in spectacular road battles with powerful, weapons-laden hot rods. Gamers will drive, battle and try to survive in races that take place in twisted future versions of the planet's biggest cities.  Features: - Combat racing across post apocalyptic versions of 10 major cities: Bangkok, Vatican City, London, Moscow, New York, Paris, Prague, San Diego, Istanbul and Tokyo. - Destructible environments add to the chaotic destruction surrounding each race. - 10 powerful car models, customizable with multiple weapons, upgrades and paint jobs. - Thrilling suspense story drives the single-player narrative.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Death_Track:_Resurrection) · [IGDB](https://www.igdb.com/games/death-track-resurrection)
 
 ---
 
@@ -2662,17 +2800,29 @@
 
 ### PachiPara DL Hyper Sea Story In Karibu
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2iu5.jpg" alt="PachiPara DL Hyper Sea Story In Karibu cover" width="200">
+
 **Platforms:** PlayStation 3, PlayStation Network &nbsp;|&nbsp; **Developer:** Sanyo Bussan &nbsp;|&nbsp; **Publisher:** Irem &nbsp;|&nbsp; **Genre:** Casino &nbsp;|&nbsp; **Released:** July 2, 2008
 
-[Wikipedia](https://en.wikipedia.org/wiki/PachiPara_DL_Hyper_Sea_Story_In_Karibu)
+> PachiPara DL is the first PS3 release and the first downloadable title in Irem's long-running pachinko simulation series. It features faithful 3D recreations of two pachinko machines made by Sanyo Bussan: CR Hyper Umi Monogatari in Carib MTA and CR Hyper Umi Monogatari in Carib MTB. There are two modes available: Tsūjō (Normal) mode allows the player to modify a wide range of settings for each machine, while Jissen (Battle) mode challenges the player to win as many balls as possible on the default settings with a limited starting pool and time limit. Scores from Jissen mode could be uploaded to a national leaderboard, which was also used for a promotional contest shortly after the game's release. There is also a View mode where the various animations that play on the in-game display can be freely viewed. There is no story mode.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/PachiPara_DL_Hyper_Sea_Story_In_Karibu) · [IGDB](https://www.igdb.com/games/pachipara-dl-hyper-sea-story-in-karibu)
 
 ---
 
 ### Peggle Nights
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/coalcm.jpg" alt="Peggle Nights cover" width="200">
+
 **Platforms:** Windows, PlayStation Network, iOS &nbsp;|&nbsp; **Developer:** PopCap Games &nbsp;|&nbsp; **Publisher:** PopCap Games &nbsp;|&nbsp; **Genre:** Puzzle &nbsp;|&nbsp; **Released:** September 16, 2008
 
-[Wikipedia](https://en.wikipedia.org/wiki/Peggle_Nights)
+> The sun has set at the Peggle Institute, but the bouncy delight has just begun! Join the Peggle Masters on a dreamtime adventure of alter egos and peg-tastic action. Stay up late to aim, shoot and clear orange pegs, and bask in Extreme Fever glory under the silver moon. Then, put your Peggle skills to the ultimate test in Challenge mode. If you can master all that fevered action, play to your heart's content with Duel mode and Quick Play. Plus, you can stock your Trophy Room and revel in clickable replays for even more rebounding joy!  Explore all 60 levels in Adventure mode Meet a new Peggle Master and learn a new Magic Power Test your skills in 60 challenges Unlock Duel mode to compete against friends and the computer Celebrate your Peggle prowess with clickable replays and a Trophy Room!
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Peggle_Nights) · [IGDB](https://www.igdb.com/games/peggle-nights)
 
 ---
 
@@ -2702,9 +2852,15 @@
 
 ### Puzzlegeddon
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/cocmm4.jpg" alt="Puzzlegeddon cover" width="200">
+
 **Platforms:** Windows, Xbox 360, PlayStation Network &nbsp;|&nbsp; **Developer:** Pieces Interactive &nbsp;|&nbsp; **Publisher:** Tecmo &nbsp;|&nbsp; **Genre:** Puzzle, Strategy &nbsp;|&nbsp; **Released:** November 27, 2008
 
-[Wikipedia](https://en.wikipedia.org/wiki/Puzzlegeddon)
+> Puzzle Geddon a puzzle brawler
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Puzzlegeddon) · [IGDB](https://www.igdb.com/games/puzzlegeddon)
 
 ---
 
@@ -2724,9 +2880,15 @@
 
 ### Sega Rally 3
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2qrz.jpg" alt="Sega Rally 3 cover" width="200">
+
 **Platforms:** Arcade, PlayStation 3, PlayStation Network, Xbox 360 &nbsp;|&nbsp; **Developer:** Sega Racing Studio, Sumo Digital &nbsp;|&nbsp; **Publisher:** Sega Amusements International &nbsp;|&nbsp; **Genre:** Racing game &nbsp;|&nbsp; **Released:** June 2008
 
-[Wikipedia](https://en.wikipedia.org/wiki/Sega_Rally_3)
+> Sega Rally 3 for the arcade is one of the finest and most fun arcade racers out there. Features include 6 player multiplayer races , a championship mode and a remake of the classic Desert '95 track.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Sega_Rally_3) · [IGDB](https://www.igdb.com/games/sega-rally-3)
 
 ---
 
@@ -2738,9 +2900,15 @@
 
 ### TV Show King
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/g22dwdbx9chn41sl7woo.jpg" alt="TV Show King cover" width="200">
+
 **Platforms:** Wii, iOS, PlayStation 3, PlayStation Network &nbsp;|&nbsp; **Developer:** Gameloft Montreal &nbsp;|&nbsp; **Publisher:** Gameloft &nbsp;|&nbsp; **Genre:** Quiz &nbsp;|&nbsp; **Released:** May 12, 2008
 
-[Wikipedia](https://en.wikipedia.org/wiki/TV_Show_King)
+> Up to four players, represented by Miis, compete against each other in a three, six or nine round trivia contest. The 3000 trivia questions cover a wide range of subjects, ranging from geography and general knowledge to pop culture, with a number of region specific questions.  Players are given timed multiple choice answers, with players selecting their answers on their screen with the Wii Remote, with the fastest lock-ins with the correct answer resulting in bigger prize money. Players can also take their chances for greater rewards by spinning a wheel with both good and bad outcomes after each round. At the end of the last round, the two highest scoring players are pitted against each other in the Final Duel to determine the winner.  In the Final Duel, the two finalists are asked questions, each one worth one point. Points are awarded for correct answers. If both contestants answer the same question correctly, the point is awarded to whichever player locked in with the correct answer the fastest. The first contestant to win five points is declared the winner, and half of the runner-up's money is added to the amount the winner had before the Final Duel.  In addition to the main game, a shorter quiz called "Quiz Attack" is also available for solo players.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/TV_Show_King) · [IGDB](https://www.igdb.com/games/tv-show-king)
 
 ---
 

@@ -2,7 +2,7 @@
 
 [← Back to index](../README.md)
 
-350 titles across 11 years in this archive.
+353 titles across 11 years in this archive.
 
 ## 2022
 
@@ -10,9 +10,15 @@
 
 ### He Fucked the Girl Out of Me
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co6t04.jpg" alt="He Fucked the Girl Out of Me cover" width="200">
+
 **Platforms:** Game Boy &nbsp;|&nbsp; **Developer:** Taylor McCue &nbsp;|&nbsp; **Genre:** Interactive fiction &nbsp;|&nbsp; **Released:** May 21, 2022
 
-[Wikipedia](https://en.wikipedia.org/wiki/He_Fucked_the_Girl_Out_of_Me)
+> He Fucked The Girl Out Of Me is a semi-autobiographical narrative visual novel about trauma and sex work made for the GameBoy. The author explains how sex work impacted her life and changed her perception of the world. The game takes approximately 40 minutes to play from start to finish.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/He_Fucked_the_Girl_Out_of_Me) · [IGDB](https://www.igdb.com/games/he-fucked-the-girl-out-of-me)
 
 ---
 
@@ -30,9 +36,15 @@
 
 ### Daffy Duck: Fowl Play
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co6iwj.jpg" alt="Daffy Duck: Fowl Play cover" width="200">
+
 **Platforms:** Game Boy, Game Boy Color &nbsp;|&nbsp; **Developer:** Sunsoft, SANTACLAUS &nbsp;|&nbsp; **Publisher:** Sunsoft &nbsp;|&nbsp; **Genre:** Platformer &nbsp;|&nbsp; **Released:** December 1999
 
-[Wikipedia](https://en.wikipedia.org/wiki/Daffy_Duck:_Fowl_Play)
+> DAFFY DUCK: Fowl Play brings more Looney Tunes fun and action to your Game Boy Color. In this one-player, side-scrolling action game, you'll play as Daffy Duck, who's been told by Bugs Bunny about a secret hidden treasure. Your job is to find it! Too bad Bugs and the rest of the Looney Tunes crew have decided to stop your treasure-hunting journey cold. Play through nine stages of platforming action as you look to get rich quick. There are a few puzzle elements as well that require you to push crates and use dynamite sticks to clear a path. DAFFY DUCK: Fowl Play features large, well-animated characters set on detailed backgrounds, and although it has been enhanced for Game Boy Color, this game is compatible with both Game Boy and Game Boy Color systems.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Daffy_Duck:_Fowl_Play) · [IGDB](https://www.igdb.com/games/daffy-duck-fowl-play)
 
 ---
 
@@ -44,9 +56,15 @@
 
 ### Maya the Bee & Her Friends
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co7l4n.jpg" alt="Maya the Bee & Her Friends cover" width="200">
+
 **Platforms:** Game Boy, Game Boy Color &nbsp;|&nbsp; **Developer:** Crawfish Interactive &nbsp;|&nbsp; **Publisher:** Acclaim Entertainment &nbsp;|&nbsp; **Genre:** Platformer
 
-[Wikipedia](https://en.wikipedia.org/wiki/Maya_the_Bee_&_Her_Friends)
+> A puzzle game based on the German cartoon.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Maya_the_Bee_&_Her_Friends) · [IGDB](https://www.igdb.com/games/maya-the-bee-and-her-friends)
 
 ---
 
@@ -86,9 +104,15 @@
 
 ### Las Vegas Cool Hand
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co9hk7.jpg" alt="Las Vegas Cool Hand cover" width="200">
+
 **Platforms:** Game Boy Color, Game Boy &nbsp;|&nbsp; **Developer:** Tarantula Studios &nbsp;|&nbsp; **Publisher:** Take-Two Interactive &nbsp;|&nbsp; **Genre:** Casino &nbsp;|&nbsp; **Released:** December 1, 1998
 
-[Wikipedia](https://en.wikipedia.org/wiki/Las_Vegas_Cool_Hand)
+> Las Vegas is the gambling capital of the world. Every game in the world has some kind of action in Sin City. Now you can travel to Vegas and try to win some virtual dollars in LAS VEGAS COOL HAND. Play three classic card games: Blackjack, Solitaire, and Cribbage. All of the games have four different variations to play. In Blackjack, the goal is to get as close to 21 as possible without going over, while also beating the dealer's hand. Solitaire has the player trying to place stacks of cards in order and removing the cards one by one. The goal in Cribbage is to be the first person to score 121 points. Take a trip to sin city and try to break the bank in LAS VEGAS COOL HAND.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Las_Vegas_Cool_Hand) · [IGDB](https://www.igdb.com/games/las-vegas-cool-hand)
 
 ---
 
@@ -116,17 +140,29 @@
 
 ### Rats!
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/coav0c.jpg" alt="Rats! cover" width="200">
+
 **Platforms:** Game Boy, Game Boy Color &nbsp;|&nbsp; **Developer:** Tarantula Studios &nbsp;|&nbsp; **Publisher:** Take-Two Interactive &nbsp;|&nbsp; **Genre:** Platform, puzzle, shooter &nbsp;|&nbsp; **Released:** December 14, 1998
 
-[Wikipedia](https://en.wikipedia.org/wiki/Rats!)
+> Reservoir Rat is a 2D platform video game.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Rats!) · [IGDB](https://www.igdb.com/games/rats--3)
 
 ---
 
 ### The Rugrats Movie
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co9i86.jpg" alt="The Rugrats Movie cover" width="200">
+
 **Platforms:** Game Boy &nbsp;|&nbsp; **Developer:** Software Creations &nbsp;|&nbsp; **Publisher:** THQ &nbsp;|&nbsp; **Genre:** Platform game &nbsp;|&nbsp; **Released:** November 24, 1998
 
-[Wikipedia](https://en.wikipedia.org/wiki/The_Rugrats_Movie_(video_game))
+> The Rugrats Movie is an Action game, developed by Software Creations and published by THQ, which was released in 1998.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/The_Rugrats_Movie_(video_game)) · [IGDB](https://www.igdb.com/games/the-rugrats-movie)
 
 ---
 
@@ -181,6 +217,20 @@
 > _Synopsis source: IGDB_
 
 [Wikipedia](https://en.wikipedia.org/wiki/Castlevania_Legends) · [IGDB](https://www.igdb.com/games/castlevania-legends)
+
+---
+
+### Chalvo 55
+
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co9h0i.jpg" alt="Chalvo 55 cover" width="200">
+
+**Platforms:** Game Boy &nbsp;|&nbsp; **Genre:** Platform, Puzzle
+
+> A puzzle platformer released in 1997 for the Game Boy.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Chalvo_55) · [IGDB](https://www.igdb.com/games/chalvo-55-super-puzzle-action--1)
 
 ---
 
@@ -252,23 +302,15 @@
 
 ### Legend of the River King
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co7cmi.jpg" alt="Legend of the River King cover" width="200">
+
 **Platforms:** Game Boy &nbsp;|&nbsp; **Developer:** Tose &nbsp;|&nbsp; **Publisher:** Natsume &nbsp;|&nbsp; **Genre:** Fishing, role-playing game &nbsp;|&nbsp; **Released:** September 19, 1997
-
-[Wikipedia](https://en.wikipedia.org/wiki/Legend_of_the_River_King)
-
----
-
-### Legend of the River King GB
-
-<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co7cmi.jpg" alt="Legend of the River King GB cover" width="200">
-
-**Platforms:** Game Boy &nbsp;|&nbsp; **Developer:** Tose &nbsp;|&nbsp; **Publisher:** Natsume Inc., Nintendo, Pack-In-Soft, Victor Interactive Software &nbsp;|&nbsp; **Genre:** Role-playing (RPG), Simulator, Sport, Adventure &nbsp;|&nbsp; **Released:** September 19, 1997
 
 > You'll need all your angling and survival skills to succeed in this unique fishing RPG. On a perilous quest to capture a mysterious and mystical fish, you'll deploy a variety of tackle in both quiet lakes and raging rapids. Along the shores, dangerous animals are a constant threat. To get supplies, you'll sell some of your catch at village markets. You can also try your hand at raising a pet fish from embryo to adult and watch as it grows and even changes species!
 >
 > _Synopsis source: IGDB_
 
-[IGDB](https://www.igdb.com/games/legend-of-the-river-king-gb)
+[Wikipedia](https://en.wikipedia.org/wiki/Legend_of_the_River_King) · [IGDB](https://www.igdb.com/games/legend-of-the-river-king-gb)
 
 ---
 
@@ -340,17 +382,29 @@
 
 ### The Lost World: Jurassic Park
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co30b3.jpg" alt="The Lost World: Jurassic Park cover" width="200">
+
 **Platforms:** Game Boy, Game Gear, Game.com, R-Zone &nbsp;|&nbsp; **Developer:** Aspect, Tiger, Torus &nbsp;|&nbsp; **Publisher:** Sega, Tiger, THQ &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** August 26, 1997
 
-[Wikipedia](https://en.wikipedia.org/wiki/The_Lost_World:_Jurassic_Park_(handheld_game))
+> The handheld game based on the second Jurassic Park movie puts the player in the shoes of an agent of InGen corporation who is sent to Isla Sorna, also known as "Site B", where dinosaurs still roam freely.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/The_Lost_World:_Jurassic_Park_(handheld_game)) · [IGDB](https://www.igdb.com/games/the-lost-world-jurassic-park--3)
 
 ---
 
 ### Turok: Battle of the Bionosaurs
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2dpm.jpg" alt="Turok: Battle of the Bionosaurs cover" width="200">
+
 **Platforms:** Game Boy &nbsp;|&nbsp; **Developer:** Bit Managers &nbsp;|&nbsp; **Publisher:** Acclaim Entertainment, Starfish Inc. &nbsp;|&nbsp; **Genre:** Platform &nbsp;|&nbsp; **Released:** December 18, 1997
 
-[Wikipedia](https://en.wikipedia.org/wiki/Turok:_Battle_of_the_Bionosaurs)
+> Turok: Battle of the Bionosaurs is an action platformer Game Boy adaptation of Turok: Dinosaur Hunter, developed by Bit Managers and published by Acclaim.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Turok:_Battle_of_the_Bionosaurs) · [IGDB](https://www.igdb.com/games/turok-battle-of-the-bionosaurs)
 
 ---
 
@@ -360,25 +414,43 @@
 
 ### Casper
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co55or.jpg" alt="Casper cover" width="200">
+
 **Platforms:** PlayStation, Sega Saturn, 3DO Interactive Multiplayer, Game Boy, Super Nintendo Entertainment System, Windows &nbsp;|&nbsp; **Developer:** Funcom, Logicware, Bonsai Entertainment, Imagineering &nbsp;|&nbsp; **Publisher:** Interplay Productions, Natsume Inc., Microïds, WizardWorks &nbsp;|&nbsp; **Genre:** Action-adventure
 
-[Wikipedia](https://en.wikipedia.org/wiki/Casper_(video_game))
+> Based on the Casper film, the game pits you in the role of the friendly ghost trying to make a friend and a second chance at life instead of scaring everyone away.  The plot centers around the "spoiled, grasping inheritor of Whipstaff Manor" - Carrigan Crittenden. She's after the treasure she thinks is hidden in the walls. Casper will need the help of Dr James Harvey - therapist to the dead - if he has any hope of succeeding in his adventures.  Casper will also have to deal with his uncles - Stretch, Stinkie and Fatso, who just love to scare "Fleshies" and thwart Casper's efforts. The gameplay is 3d - and is mostly puzzle solving, with Casper able to take a variety of forms and manipulating objects.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Casper_(video_game)) · [IGDB](https://www.igdb.com/games/casper)
 
 ---
 
 ### College Slam
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2u3l.jpg" alt="College Slam cover" width="200">
+
 **Platforms:** Super Nintendo Entertainment System, Genesis / Mega Drive, Game Boy, Sega Saturn, PlayStation, MS-DOS &nbsp;|&nbsp; **Developer:** Iguana UK, Torus Games &nbsp;|&nbsp; **Publisher:** Acclaim Entertainment &nbsp;|&nbsp; **Genre:** Sports &nbsp;|&nbsp; **Released:** February 1996
 
-[Wikipedia](https://en.wikipedia.org/wiki/College_Slam)
+> Part of the NBA Jam series of basketball games, College Slam allows you to choose from over 40 real college teams and take part in head-to-head games, tournament games, and season-long play. The gameplay is arcade-style two-on-two fast action featuring backboard shattering wild dunks, power-ups and other crazy moves. The game also features fight songs from all the available teams.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/College_Slam) · [IGDB](https://www.igdb.com/games/college-slam)
 
 ---
 
 ### Disney's Pocahontas
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co1w8i.jpg" alt="Disney's Pocahontas cover" width="200">
+
 **Platforms:** Genesis / Mega Drive, Game Boy &nbsp;|&nbsp; **Developer:** Funcom, Tiertex &nbsp;|&nbsp; **Publisher:** Disney Interactive, Sega, THQ &nbsp;|&nbsp; **Genre:** Platform &nbsp;|&nbsp; **Released:** March 1996
 
-[Wikipedia](https://en.wikipedia.org/wiki/Disney's_Pocahontas_(video_game))
+> Disney's Pocahontas is a platform game based on the film of the same name. The Sega Genesis/Mega Drive version was developed by Funcom Oslo on contract with Disney and was released on January 1, 1996. It was followed by a later version for the Game Boy developed by Tiertex Design Studios and released on June 10, 1996, nearly a year after the film's premiere
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Disney's_Pocahontas_(video_game)) · [IGDB](https://www.igdb.com/games/disneys-pocahontas)
 
 ---
 
@@ -392,9 +464,15 @@
 
 ### Dragonheart: Fire & Steel
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/cocxie.jpg" alt="Dragonheart: Fire & Steel cover" width="200">
+
 **Platforms:** PlayStation, Sega Saturn, Windows, Game Boy &nbsp;|&nbsp; **Developer:** Funcom, Torus Games &nbsp;|&nbsp; **Publisher:** Acclaim Entertainment &nbsp;|&nbsp; **Genre:** Hack and slash, platform &nbsp;|&nbsp; **Released:** May 1996
 
-[Wikipedia](https://en.wikipedia.org/wiki/Dragonheart:_Fire_&_Steel)
+> This game is a tie-in for the movie directed by Rob Cohen starring Dennis Quaid and Sean Connery as the voice of Draco.  DragonHeart puts you in the sweaty medieval shoes of dragon hunter Bowen, as he faces the last dragons still surviving, and then ends up befriending one, Draco. With his help, he goes after King Einon, a former pupil of the dragon hunter, who has turned to evil.  DragonHeart's gameplay is quite similar to the Golden Axe series. Hack'n'slash your way through the nine levels of the game, killing dragons, befriending Draco and then going after Einon with Draco's help (who will toast everything in the way with his flame breath).
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Dragonheart:_Fire_&_Steel) · [IGDB](https://www.igdb.com/games/dragonheart-fire-and-steel)
 
 ---
 
@@ -416,9 +494,15 @@
 
 ### Iron Man and X-O Manowar in Heavy Metal
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co6is3.jpg" alt="Iron Man and X-O Manowar in Heavy Metal cover" width="200">
+
 **Platforms:** PlayStation, Sega Saturn, Game Boy, Game Gear, MS-DOS &nbsp;|&nbsp; **Developer:** Realtime Associates, Realtime Associates Seattle &nbsp;|&nbsp; **Publisher:** Acclaim Entertainment &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** November 14, 1996
 
-[Wikipedia](https://en.wikipedia.org/wiki/Iron_Man_and_X-O_Manowar_in_Heavy_Metal)
+> Metal titans, Iron Man and X-O Manowar, come together for the first time ever to tackle one heavy-duty cosmic crisis! It's an apocalyptic meltdown of furious action, with the ultimate in Super Hero power and realism! Featuring Bi-Directional firepower, Chest-Beam blasts, multi-hit combos and Z-axis shooting, ultimate boss battles and enhanced weapon power!
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Iron_Man_and_X-O_Manowar_in_Heavy_Metal) · [IGDB](https://www.igdb.com/games/iron-man-and-x-o-manowar-in-heavy-metal)
 
 ---
 
@@ -446,25 +530,43 @@
 
 ### Mole Mania
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2qpz.jpg" alt="Mole Mania cover" width="200">
+
 **Platforms:** Game Boy &nbsp;|&nbsp; **Developer:** Nintendo EAD, Pax Softnica &nbsp;|&nbsp; **Publisher:** Nintendo &nbsp;|&nbsp; **Genre:** Action, puzzle &nbsp;|&nbsp; **Released:** July 21, 1996
 
-[Wikipedia](https://en.wikipedia.org/wiki/Mole_Mania)
+> Join Muddy Mole in a race to destroy enemies and obstacles in an attempt to defeat the evil farmer, Jinbei. Blast strategic exits using black balls and tunnel your way to the next action-packed level. Help Muddy solve the incredible puzzles of Jinbei Land and reunite him with his beloved mole family. You'll dig the fast pace and challenging fun of Mole Mania!
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Mole_Mania) · [IGDB](https://www.igdb.com/games/mole-mania)
 
 ---
 
 ### Olympic Summer Games
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co5ozg.jpg" alt="Olympic Summer Games cover" width="200">
+
 **Platforms:** Super Nintendo Entertainment System, Game Boy, PlayStation, Genesis / Mega Drive, 3DO Interactive Multiplayer &nbsp;|&nbsp; **Developer:** Silicon Dreams Studio, Tiertex Design Studios &nbsp;|&nbsp; **Publisher:** Black Pearl Software, U.S. Gold &nbsp;|&nbsp; **Genre:** Sports &nbsp;|&nbsp; **Released:** June 28, 1996
 
-[Wikipedia](https://en.wikipedia.org/wiki/Olympic_Summer_Games_(video_game))
+> After years of training, you've finally got the chance to grab a hold of the gold with Olympic Summer Games! Get ready to compete in the world's most spectacular sporting event-  The 1996 Atlanta Olympic Games. Show your stuff in the most challenging range of Olympic events. With the world watching your every move, you will run swifter, jump higher and be stronger than ever before!
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Olympic_Summer_Games_(video_game)) · [IGDB](https://www.igdb.com/games/olympic-summer-games)
 
 ---
 
 ### Pinocchio
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2dx5.jpg" alt="Pinocchio cover" width="200">
+
 **Platforms:** Super Nintendo Entertainment System, Game Boy, Genesis / Mega Drive &nbsp;|&nbsp; **Developer:** Virgin Studios London, NMS Software &nbsp;|&nbsp; **Publisher:** THQ, Sega, Nintendo, Capcom &nbsp;|&nbsp; **Genre:** Puzzle, platform, adventure &nbsp;|&nbsp; **Released:** October 1996
 
-[Wikipedia](https://en.wikipedia.org/wiki/Pinocchio_(video_game))
+> Journey through as Geppetto, the carpenter's live wooden puppet, Pinocchio, as he did in his Disney animated film - which itself was based on a children's novel. Have Pinocchio run, jump and twist-kick through all the familiar places, including the inside of a whale, and do good deeds enough to become the real human boy he's always wanted to be.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Pinocchio_(video_game)) · [IGDB](https://www.igdb.com/games/disneys-pinocchio)
 
 ---
 
@@ -582,9 +684,15 @@
 
 ### Cutthroat Island
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2dnb.jpg" alt="Cutthroat Island cover" width="200">
+
 **Platforms:** Game Boy, Game Gear, Genesis / Mega Drive, Super Nintendo Entertainment System &nbsp;|&nbsp; **Developer:** Software Creations &nbsp;|&nbsp; **Publisher:** Acclaim Entertainment &nbsp;|&nbsp; **Genre:** Platform
 
-[Wikipedia](https://en.wikipedia.org/wiki/Cutthroat_Island_(video_game))
+> Based on the feature film of the same name. The game casts players in the role of renegade treasure hunters. The player is able to choose between two characters: Morgan Adams, a female character who wields a rapier; or William Shaw, a buccaneer who is armed with a sword. The game features single player and two player action mode. During single player mode, the player's character must battle through 10 levels, encountering various foes such as pirates, redcoats and harbor masters. The game features two different gameplay styles to choose from: Swordplay and Brawling. In addition to all the swordplay, level two requires players to flee from prison guards in a quarry cart, and level five puts player atop a runaway horse-drawn carriage. As the player progresses through the game several items such as knives, bombs, bottles, torches, hammers, pistols, and other weapons are collectable.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Cutthroat_Island_(video_game)) · [IGDB](https://www.igdb.com/games/cutthroat-island)
 
 ---
 
@@ -618,17 +726,29 @@
 
 ### Foreman For Real
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2dnh.jpg" alt="Foreman For Real cover" width="200">
+
 **Platforms:** Game Boy, Game Gear, Genesis / Mega Drive, Super Nintendo Entertainment System &nbsp;|&nbsp; **Developer:** Software Creations of America &nbsp;|&nbsp; **Publisher:** Acclaim Entertainment &nbsp;|&nbsp; **Genre:** Sports &nbsp;|&nbsp; **Released:** September 1995
 
-[Wikipedia](https://en.wikipedia.org/wiki/Foreman_For_Real)
+> Before marketing fat-reducing grills, boxing legend George Foreman endorsed this boxing game with a 3rd-person view similar to Punch Out. A full range of punches and jabs are available, with full round-by-round scoring from the judges. You can choose from 3-12 rounds, and there are 2 camera views as well as an automatic switch option.  You can play simple exhibition matches or tournaments, or launch into a career mode. In this you start at the bottom of the world rankings, and must reach the top by beating the game's players, who other than George are all fictitious boxers with varying strengths and weaknesses. The coach gives advice before each fight to help highlight weaknesses in your play. There are passwords for each round.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Foreman_For_Real) · [IGDB](https://www.igdb.com/games/foreman-for-real)
 
 ---
 
 ### Frank Thomas Big Hurt Baseball
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2vmg.jpg" alt="Frank Thomas Big Hurt Baseball cover" width="200">
+
 **Platforms:** Genesis / Mega Drive, Game Gear, Super Nintendo Entertainment System, Game Boy, MS-DOS &nbsp;|&nbsp; **Developer:** Iguana Entertainment, Realtime Associates Seattle, Iguana UK &nbsp;|&nbsp; **Publisher:** Acclaim Entertainment &nbsp;|&nbsp; **Genre:** Traditional baseball simulation &nbsp;|&nbsp; **Released:** October 1995
 
-[Wikipedia](https://en.wikipedia.org/wiki/Frank_Thomas_Big_Hurt_Baseball)
+> Baseball player Frank Thomas licensed one of the first baseball games to use motion-captured 3D graphics and multiple camera angles. 28 stadia have been rendered in 3D, and each has its own visible and significant differences.  There are 6 distinct game modes, allowing for single exhibition matches as well as full seasons on the playoffs. There is also a Home Run Derby mode, allowing the player to pelt the ball out of the ground for points.  You can choose pitchers and batters, based on their statistics and form. Bowling options are set to define the delivery, with fastballs and curveballs as well as more precise setting of pace and height. Fielding is optional - it's best to leave this to the computer at first You can always alter the infield and outfield depth and shift.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Frank_Thomas_Big_Hurt_Baseball) · [IGDB](https://www.igdb.com/games/frank-thomas-big-hurt-baseball)
 
 ---
 
@@ -732,9 +852,15 @@
 
 ### NFL Quarterback Club 96
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2doc.jpg" alt="NFL Quarterback Club 96 cover" width="200">
+
 **Platforms:** Sega Saturn, Genesis / Mega Drive, Game Boy, Game Gear, Super Nintendo Entertainment System, MS-DOS &nbsp;|&nbsp; **Developer:** Iguana Entertainment, Condor &nbsp;|&nbsp; **Publisher:** Acclaim Entertainment &nbsp;|&nbsp; **Genre:** Sports &nbsp;|&nbsp; **Released:** October 27, 1995
 
-[Wikipedia](https://en.wikipedia.org/wiki/NFL_Quarterback_Club_96)
+> This game is the next-gen update of NFL Quarterback Club.  Every team from the 1996 NFL season is shown here, with real player numbers and stats. 32 offensive plays and 16 defensive plays are available as you play. Options include setting quarter lengths, from one to 15 minutes, and selecting your mode of play: Preseason, Playoffs, or a full Season, in which you play 18 games towards the goal of the Super Bowl.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/NFL_Quarterback_Club_96) · [IGDB](https://www.igdb.com/games/nfl-quarterback-club-96)
 
 ---
 
@@ -762,9 +888,15 @@
 
 ### PGA Tour 96
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co1p5j.jpg" alt="PGA Tour 96 cover" width="200">
+
 **Platforms:** PlayStation, Game Boy, 3DO Interactive Multiplayer, Genesis / Mega Drive, MS-DOS &nbsp;|&nbsp; **Developer:** Hitmen Productions, Unexpected Development, NuFX, Ceris Software &nbsp;|&nbsp; **Publisher:** EA Sports, Black Pearl Software &nbsp;|&nbsp; **Genre:** Sports &nbsp;|&nbsp; **Released:** September 23, 1995
 
-[Wikipedia](https://en.wikipedia.org/wiki/PGA_Tour_96)
+> This game takes place during the 1995 PGA Tour season. The game features many professional golfing stars and various modes from stroke play to match play and even tournament mode. Golf clubs are assigned automatically by the caddy as the computer deems suitable for every lie and every situation.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/PGA_Tour_96) · [IGDB](https://www.igdb.com/games/pga-tour-96)
 
 ---
 
@@ -832,17 +964,43 @@
 
 ### Alien Olympics
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co4apn.jpg" alt="Alien Olympics cover" width="200">
+
 **Platforms:** Game Boy, MS-DOS &nbsp;|&nbsp; **Developer:** Dark Technologies &nbsp;|&nbsp; **Publisher:** Ocean Software &nbsp;|&nbsp; **Genre:** Sports &nbsp;|&nbsp; **Released:** September 1994
 
-[Wikipedia](https://en.wikipedia.org/wiki/Alien_Olympics)
+> Alien Olympics is a wacky combination of track & field games and retro-arcade games that you play as an alien. There are 8 unique alien characters that you can choose and compete against. Each alien has different strengths and weaknesses. For example, Mr. Mune (a caterpillar-like alien) has many legs enabling him be very good at shooting events but also makes it difficult for him in racing events.  You can either compete against a friend by sharing the keyboard or against the computer. There are a total of 15 different events to compete in and you have the choice of tackling a selected few, or going through the whole series. You also have the option of practicing first to get the hang of things.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Alien_Olympics) · [IGDB](https://www.igdb.com/games/alien-olympics)
+
+---
+
+### Bomberman GB
+
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co4obp.jpg" alt="Bomberman GB cover" width="200">
+
+**Platforms:** Game Boy &nbsp;|&nbsp; **Genre:** Arcade
+
+> Bomberman is searching the depths of the earth in hopes of finding the Legendary Treasure. In the Story Mode, guide him through 48 levels of puzzle-solving action, collecting power-up items and defeating monsters along the way. The Battle Mode is the old favorite, where one to four players battle it out on six different maps.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Bomberman_GB) · [IGDB](https://www.igdb.com/games/bomberman-gb)
 
 ---
 
 ### BreakThru!
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co3sye.jpg" alt="BreakThru! cover" width="200">
+
 **Platforms:** Windows, macOS, MS-DOS, Super Nintendo Entertainment System, Game Boy &nbsp;|&nbsp; **Developer:** Zoo Corporation, Artech, Realtime Associates Seattle Division, Shoeisha Presage Software &nbsp;|&nbsp; **Publisher:** Spectrum HoloByte, Shoeisha &nbsp;|&nbsp; **Genre:** Puzzle &nbsp;|&nbsp; **Released:** June 1, 1994
 
-[Wikipedia](https://en.wikipedia.org/wiki/BreakThru!)
+> In the award-winning tradition of Tetris, comes BreakThru! This time, your goal is to make as many bricks disappear as you can before time runs out. Click on a group of same-colored bricks to remove bricks and make the wall come tumbling down.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/BreakThru!) · [IGDB](https://www.igdb.com/games/breakthru)
 
 ---
 
@@ -886,9 +1044,15 @@
 
 ### Madden NFL '95
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co4lb5.jpg" alt="Madden NFL '95 cover" width="200">
+
 **Platforms:** Genesis / Mega Drive, Super Nintendo Entertainment System, Game Boy &nbsp;|&nbsp; **Developer:** High Score Productions, Visual Concepts, Halestorm, Tiertex, Extended Play Productions &nbsp;|&nbsp; **Publisher:** EA Sports, THQ &nbsp;|&nbsp; **Genre:** Sports &nbsp;|&nbsp; **Released:** November 18, 1994
 
-[Wikipedia](https://en.wikipedia.org/wiki/Madden_NFL_'95)
+> Play exhibition, Super Bowl, playoffs or full season with any of the 1994 teams or all Madden teams.  This time around, you can select whether or not to include weather conditions, new player animations (high steppin', QB slides), a bigger field and over 100 injuries.  Also includes windowless passing, all new Madden-designed strategies and team match-up that shows how your players stack up to the other team in their position.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Madden_NFL_'95) · [IGDB](https://www.igdb.com/games/madden-nfl-95)
 
 ---
 
@@ -936,9 +1100,15 @@
 
 ### Monster Max
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2lhd.jpg" alt="Monster Max cover" width="200">
+
 **Platforms:** Game Boy &nbsp;|&nbsp; **Developer:** Rare &nbsp;|&nbsp; **Publisher:** Titus France &nbsp;|&nbsp; **Genre:** Action-adventure, puzzle &nbsp;|&nbsp; **Released:** August 1994
 
-[Wikipedia](https://en.wikipedia.org/wiki/Monster_Max)
+> Monster Max is an isometric adventure video game developed by Rare and published by Titus Software for the Game Boy handheld game console. It was released in December 1994 in Europe and January 1995 in the United States. Monster Max was designed by Jon Ritman and Bernie Drummond and is very similar in both graphics and gameplay to Ritman and Drummond's 1987 title Head over Heels. The game sold poorly but received very positive reviews from critics.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Monster_Max) · [IGDB](https://www.igdb.com/games/monster-max)
 
 ---
 
@@ -974,9 +1144,15 @@
 
 ### SeaQuest DSV
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co5zae.jpg" alt="SeaQuest DSV cover" width="200">
+
 **Platforms:** Super Nintendo Entertainment System, Game Boy &nbsp;|&nbsp; **Developer:** Sculptured Software &nbsp;|&nbsp; **Publisher:** Malibu Games, Black Pearl Software, THQ &nbsp;|&nbsp; **Genre:** Action, strategy
 
-[Wikipedia](https://en.wikipedia.org/wiki/SeaQuest_DSV_(video_game))
+> seaQuest DSV is a real-time simulator/strategy game depiction of the seaQuest DSV television series for the Super Nintendo Entertainment System and Sega Mega Drive/Genesis. The player takes the role of the captain of the submarine seaQuest DSV 4600, and is tasked with carrying out a series of missions in a series of levels, divided up as "ocean quadrants". There is a seaQuest DSV game for the Game Boy as well, but it is completely different from the 16-bit console versions.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/SeaQuest_DSV_(video_game)) · [IGDB](https://www.igdb.com/games/seaquest-dsv)
 
 ---
 
@@ -990,25 +1166,43 @@
 
 ### Stop That Roach!
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co6qt8.jpg" alt="Stop That Roach! cover" width="200">
+
 **Platforms:** Game Boy &nbsp;|&nbsp; **Developer:** Koei &nbsp;|&nbsp; **Publisher:** Koei &nbsp;|&nbsp; **Genre:** Puzzle &nbsp;|&nbsp; **Released:** March 4, 1994
 
-[Wikipedia](https://en.wikipedia.org/wiki/Stop_That_Roach!)
+> The video game revolves around an insect exterminator who must kill roaches by any means possible. It is a 1994 video game remake of Koei's 1983 personal computer game Hoi Hoi (ホイホイ) for the NEC PC-8801 and Fujitsu FM-7. The Game Boy version allows the player to choose between a male hero (Ken) or a female hero (Lilly).  Similar in style to later tower defense games, the ultimate goal for all 100 levels is to protect confectionaries from the invading cockroaches. Each level is played out in a turn-based strategy manner. Players have four options: they can either attempt to walk into the next square, attempt to scare a cockroach, attempt to kill the cockroach or skip their current turn. Allowing the insects to succeed means that the player loses the round and has the choice of either retrying it or accepting a "game over." The game starts out as relatively simple, until the seventh round, where the complexity of the level design becomes an issue.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Stop_That_Roach!) · [IGDB](https://www.igdb.com/games/stop-that-roach)
 
 ---
 
 ### Tarzan: Lord of the Jungle
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co9id6.jpg" alt="Tarzan: Lord of the Jungle cover" width="200">
+
 **Platforms:** Game Boy, Game Gear &nbsp;|&nbsp; **Developer:** Eurocom &nbsp;|&nbsp; **Publisher:** GameTek &nbsp;|&nbsp; **Genre:** Platform &nbsp;|&nbsp; **Released:** October 1994
 
-[Wikipedia](https://en.wikipedia.org/wiki/Tarzan:_Lord_of_the_Jungle)
+> In Tarzan, players get to control the Lord of the Jungle in six different missions that range from curing the Great Ape to saving his forest friends from a group of evil poachers and fighting off a dangerous wildfire. The gameplay is a 2D platformer where player must transverse levels and using weapons like spears, knives and arrows against enemies while avoiding various pitfalls and obstacles while collecting the required item for each stage.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Tarzan:_Lord_of_the_Jungle) · [IGDB](https://www.igdb.com/games/tarzan-lord-of-the-jungle)
 
 ---
 
 ### The Flintstones
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co25qa.jpg" alt="The Flintstones cover" width="200">
+
 **Platforms:** Game Boy &nbsp;|&nbsp; **Developer:** Ocean of America, Twilight, Foley Hi-Tech &nbsp;|&nbsp; **Publisher:** Ocean Software &nbsp;|&nbsp; **Genre:** Platform game &nbsp;|&nbsp; **Released:** December 1994
 
-[Wikipedia](https://en.wikipedia.org/wiki/The_Flintstones_(1994_Ocean_Software_video_game))
+> A Flintstones platformer game based on the 1994 film. The game was released for the SNES, Game Boy and Sega Genesis (Sega Channel exclusive).
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/The_Flintstones_(1994_Ocean_Software_video_game)) · [IGDB](https://www.igdb.com/games/the-flintstones--4)
 
 ---
 
@@ -1028,33 +1222,57 @@
 
 ### The Pagemaster
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co38zf.jpg" alt="The Pagemaster cover" width="200">
+
 **Platforms:** Genesis / Mega Drive, Super Nintendo Entertainment System, Game Boy &nbsp;|&nbsp; **Developer:** Probe Software &nbsp;|&nbsp; **Publisher:** Fox Interactive, Virgin Interactive Entertainment &nbsp;|&nbsp; **Genre:** Platform &nbsp;|&nbsp; **Released:** November 23, 1994
 
-[Wikipedia](https://en.wikipedia.org/wiki/The_Pagemaster_(video_game))
+> The Pagemaster is an Action game, developed by Probe Entertainment Limited and published by Fox Interactive, which was released in 1994.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/The_Pagemaster_(video_game)) · [IGDB](https://www.igdb.com/games/the-pagemaster)
 
 ---
 
 ### The Simpsons: Bart & the Beanstalk
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co4av8.jpg" alt="The Simpsons: Bart & the Beanstalk cover" width="200">
+
 **Platforms:** Game Boy &nbsp;|&nbsp; **Developer:** Software Creations &nbsp;|&nbsp; **Publisher:** Acclaim Entertainment &nbsp;|&nbsp; **Genre:** Platformer &nbsp;|&nbsp; **Released:** February 1994
 
-[Wikipedia](https://en.wikipedia.org/wiki/The_Simpsons:_Bart_&_the_Beanstalk)
+> Once upon a time... Bart Simpson had a cow, man. He traded it for some magic beans which grew into a giant beanstalk. If he can scale the stalk, overcome giant bugs, mash monstrous mice, and grab the Giant's loot, he'll become a zillionaire faster than you could say "I DIDN'T DO IT!"
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/The_Simpsons:_Bart_&_the_Beanstalk) · [IGDB](https://www.igdb.com/games/the-simpsons-bart-the-beanstalk)
 
 ---
 
 ### The Simpsons: Itchy & Scratchy in Miniature Golf Madness
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co4arq.jpg" alt="The Simpsons: Itchy & Scratchy in Miniature Golf Madness cover" width="200">
+
 **Platforms:** Game Boy &nbsp;|&nbsp; **Developer:** Beam Software &nbsp;|&nbsp; **Publisher:** Acclaim Entertainment &nbsp;|&nbsp; **Genre:** Traditional sports platform &nbsp;|&nbsp; **Released:** November 1994
 
-[Wikipedia](https://en.wikipedia.org/wiki/The_Simpsons:_Itchy_&_Scratchy_in_Miniature_Golf_Madness)
+> Itchy & Scratchy in Miniature Golf Madness is a miniature golf game released on the Game Boy in 1994, featuring the cat and mouse pair Itchy & Scratchy from the television series The Simpsons. Developed by Beam Software, it was the first game to feature these characters. In the game, the player controls Scratchy as he plays through a miniature golf course of nine holes while at the same time avoiding Itchy's attacks. It received generally mixed to positive reviews from critics.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/The_Simpsons:_Itchy_&_Scratchy_in_Miniature_Golf_Madness) · [IGDB](https://www.igdb.com/games/the-simpsons-itchy-scratchy-in-miniature-golf-madness)
 
 ---
 
 ### Tiny Toon Adventures: Wacky Sports Challenge
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co6mfh.jpg" alt="Tiny Toon Adventures: Wacky Sports Challenge cover" width="200">
+
 **Platforms:** Super Nintendo Entertainment System, Game Boy &nbsp;|&nbsp; **Developer:** Konami &nbsp;|&nbsp; **Publisher:** Konami &nbsp;|&nbsp; **Genre:** Party, sports &nbsp;|&nbsp; **Released:** September 30, 1994
 
-[Wikipedia](https://en.wikipedia.org/wiki/Tiny_Toon_Adventures:_Wacky_Sports_Challenge)
+> Humor! Wackiness! Sports! ls that what you're looking for? if so. this game's got it! Plus cool graphics.  STARRING YOUR FAVORITE TINY TOON ADVENTURES CHARACTERS FROM THE ANIMATED TV SERIES!! You can play as Buster Bunny. Babs Bunny (no relation). Plucky Duck or Dizzy Devil! You'll also run into your other favorite cast characters.  HIDDEN BONUSES!!! TWELVE DIFFERENT EVENTS!!! MULTIPLE SKILL LEVELS WITH DIFFERENT HAZARDS!!! Face it. if you want a laugh riot. sports action. and tons of replay value. then this is the game you're looking for! Just check out those screen shots.  BUY THE GAME. PLAY THE GAME. BE THE GAME. Besides. where else are you going to find Bungee Jumping, Chicken Race. Ice Cream Toss, Weight Lifting and eight other games in one convenient package?
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Tiny_Toon_Adventures:_Wacky_Sports_Challenge) · [IGDB](https://www.igdb.com/games/tiny-toon-adventures-wacky-sports-challenge)
 
 ---
 
@@ -1068,9 +1286,15 @@
 
 ### Urban Strike
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co47q8.jpg" alt="Urban Strike cover" width="200">
+
 **Platforms:** Genesis / Mega Drive, Super Nintendo Entertainment System, Game Gear, Game Boy &nbsp;|&nbsp; **Developer:** Granite Bay Software, Foley Hi-Tech, THQ &nbsp;|&nbsp; **Publisher:** Electronic Arts, Black Pearl Software &nbsp;|&nbsp; **Genre:** Shoot 'em up
 
-[Wikipedia](https://en.wikipedia.org/wiki/Urban_Strike)
+> Urban Strike is a helicopter based shoot 'em up, mixing action and strategy, retaining its predecessor's core mechanics, and expanding on the model with additional vehicles and settings. This time, the campaign takes the player all over the North American continent, beginning in Hawaii and moving through locations in Mexico, San Francisco, New York, and Las Vegas.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Urban_Strike) · [IGDB](https://www.igdb.com/games/urban-strike-the-sequel-to-jungle-strike)
 
 ---
 
@@ -1090,17 +1314,29 @@
 
 ### WCW: The Main Event
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co9iei.jpg" alt="WCW: The Main Event cover" width="200">
+
 **Platforms:** Game Boy &nbsp;|&nbsp; **Developer:** Beam Software &nbsp;|&nbsp; **Publisher:** FCI, Inc. &nbsp;|&nbsp; **Genre:** Fighting &nbsp;|&nbsp; **Released:** February 1994
 
-[Wikipedia](https://en.wikipedia.org/wiki/WCW:_The_Main_Event)
+> WCW: The Main Event is a professional wrestling video game. Choose your fighters among top-ranked superstars. Each wrestler has his unique special move along with punch, clothesline, bodyslam, suplex, dropkick, and cross body block. Use your unique abilities to fight in one of two match types to maybe even throw one's opponent out of the ring!
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/WCW:_The_Main_Event) · [IGDB](https://www.igdb.com/games/wcw-the-main-event)
 
 ---
 
 ### WildSnake
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co9ien.jpg" alt="WildSnake cover" width="200">
+
 **Platforms:** Game Boy, Super Nintendo Entertainment System &nbsp;|&nbsp; **Developer:** Bullet-Proof Software, Manley & Associates &nbsp;|&nbsp; **Publisher:** Spectrum Holobyte, Yojigen &nbsp;|&nbsp; **Genre:** Puzzle &nbsp;|&nbsp; **Released:** September 1994
 
-[Wikipedia](https://en.wikipedia.org/wiki/WildSnake)
+> WildSnake is a puzzle game in which the player must manage falling snakes in a confined space and keep the snakes from reaching the top of the space. Snakes fall and slither until they reach a resting spot on the floor of the space. A snake will destroy any other snakes of the same color and pattern that it touches with its head on the way down, which often has the chain effect of loosening the pile of snakes so that all the snakes slither into new positions, possibly eliminating even more snakes.  The game is played against a selection of backgrounds including desert, forest, water, or grass. Further, there are 7 game grids including the standard grid (a tall rectangle), X, plus, flask, Diabolo (an hourglass pattern), T-square, and obstacle (with a number of intermediate blocks).  The player starts out as a nestling and earns higher and higher distinctions taken from the snake realm (garter snake, water snake, boa, mambo, python, king cobra, etc.) as more snakes are cleared. Also, as the level increases. more types of snake patterns must be handled. Sometimes, there is a flashing red snake that eliminates the first snake it touches. Further, there is occasionally an unstoppable snake that barrels down to the bottom of the space, eliminating all snakes in its path.  The game can be played with 1 or 2 players in either easy, normal or hard mode. In the single player mode, the player can choose whether the preview showing the next snake will be shown. In 2-player mode, there is always a preview window. In fact, there is a queue of 3 snakes between the 2 player spaces from which the next snake is drawn. As a bonus during competition, multiple snake eliminations by one player result in obstacles appearing in the space of the opposing player.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/WildSnake) · [IGDB](https://www.igdb.com/games/wildsnake)
 
 ---
 
@@ -1120,9 +1356,15 @@
 
 ### Yogi Bear's Gold Rush
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co9if5.jpg" alt="Yogi Bear's Gold Rush cover" width="200">
+
 **Platforms:** Game Boy &nbsp;|&nbsp; **Developer:** Twilight &nbsp;|&nbsp; **Publisher:** GameTek, Empire Interactive &nbsp;|&nbsp; **Genre:** Platforming &nbsp;|&nbsp; **Released:** October 1994
 
-[Wikipedia](https://en.wikipedia.org/wiki/Yogi_Bear's_Gold_Rush)
+> Yogi Bear's Goldrush is an Action game, developed by Entertainment Int and published by GameTek, which was released in 1994.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Yogi_Bear's_Gold_Rush) · [IGDB](https://www.igdb.com/games/yogi-bears-gold-rush)
 
 ---
 
@@ -1130,11 +1372,45 @@
 
 [Full 1993 page](../years/1993.md)
 
+### Aah! Harimanada
+
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co6yi0.jpg" alt="Aah! Harimanada cover" width="200">
+
+**Platforms:** Game Boy, Game Gear, Genesis / Mega Drive &nbsp;|&nbsp; **Genre:** Fighting, Sport
+
+> Aa Harimanada (ああ播磨灘) is a 1993 sumo wrestling sports game, developed by Atelier Double and published by ASK, which was released in Japan in 1993.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Aah!_Harimanada) · [IGDB](https://www.igdb.com/games/aa-harimanada)
+
+---
+
 ### Alfred Chicken
+
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co4hh9.jpg" alt="Alfred Chicken cover" width="200">
 
 **Platforms:** Game Boy, Amiga, Amiga CD32, Nintendo Entertainment System, PlayStation &nbsp;|&nbsp; **Developer:** Twilight, Möbius Entertainment &nbsp;|&nbsp; **Publisher:** Mindscape, SCi Games, Sony Computer Entertainment &nbsp;|&nbsp; **Genre:** Platform
 
-[Wikipedia](https://en.wikipedia.org/wiki/Alfred_Chicken)
+> Alfred Chicken is a platform video game developed by Twilight and published by Mindscape. The game was released for Amiga, Amiga CD32, Game Boy, NES, Super NES in 1993 and February 1994, in Europe and North America, respectively.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Alfred_Chicken) · [IGDB](https://www.igdb.com/games/alfred-chicken--1)
+
+---
+
+### Alien vs Predator: The Last of His Clan
+
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co9fm2.jpg" alt="Alien vs Predator: The Last of His Clan cover" width="200">
+
+**Platforms:** Game Boy
+
+> In the year 2593, on the planet Alpha Centauri 3, Predators looking for a hunting ground plant Alien eggs. The Aliens soon hatch and wipe out the human population. However, when the Predators move in for the hunt, they find they are vastly outnumbered and suffer the same fate. Only one of them survives. He theorizes that among the hatched Aliens there was a queen that laid additional eggs, which would explain the huge number of Aliens. The last survivor sets out to destroy the queen and regain the honor of his clan.  The Predator must traverse several side-scrolling levels on his way to the queen, while destroying Aliens in all their forms - facehuggers hatched from eggs, chestburster aliens and fully grown warriors. Various weapons are available: the standard weapon are the wrist blades. Ammunition for the shoulder cannon, the cutting disks and bombs must be picked up. The bombs not only work as weapons but can also be used to destroy barriers. To avoid a fight altogether, the Predator can also use his invisibility system, which runs down the energy supply. To recharge it, energy powerups must be collected. Also hidden in the levels are keys that open up doors blocking the way into the next area. A small radar map helps in navigating the maze-like corridors and also displays approaching enemies.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Alien_vs_Predator:_The_Last_of_His_Clan) · [IGDB](https://www.igdb.com/games/alien-vs-predator-the-last-of-his-clan)
 
 ---
 
@@ -1154,17 +1430,29 @@
 
 ### Baby T-Rex
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co30kd.jpg" alt="Baby T-Rex cover" width="200">
+
 **Platforms:** Game Boy &nbsp;|&nbsp; **Developer:** Beam Software &nbsp;|&nbsp; **Publisher:** Laser Beam Entertainment, Hi Tech Expressions &nbsp;|&nbsp; **Genre:** Platform &nbsp;|&nbsp; **Released:** November 1993
 
-[Wikipedia](https://en.wikipedia.org/wiki/Baby_T-Rex)
+> It's REX To The Rescue! You were once just a typical Tyrannosaurus-10 tons of terror with lots of teeth and really bad breath. Now, thanks to Captain NewEye' Brain Grain formula, you're the intelligent giant reptile called Rex - and you're hopping mad! Evil Professor ScrewEyes has "dino-napped" your prehistoric pals, Woog, Dweeb and Elsa, and is holding them prisoner in his castle. Only you have the brains and brawn to set them free!  Follow a mystical map that will take you from the outskirts of the Jurassic Jungle through the Cretaceous Caves to well within the castle walls. Then it's on to the Dungeon and, if you avoid extinction, up into the Tower. 16 levels of "brain-draining" obstacles, traps and other dangers await you-not to mention power-boosting inventions, carefully hidden bonuses and secret worlds of adventure.  So step on it big guy-or your friends could end up as colossal fossils!
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Baby_T-Rex) · [IGDB](https://www.igdb.com/games/baby-t-rex)
 
 ---
 
 ### Batman: The Animated Series
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2dn0.jpg" alt="Batman: The Animated Series cover" width="200">
+
 **Platforms:** Game Boy &nbsp;|&nbsp; **Developer:** Konami &nbsp;|&nbsp; **Publisher:** Konami &nbsp;|&nbsp; **Genre:** Platformer &nbsp;|&nbsp; **Released:** November 1993
 
-[Wikipedia](https://en.wikipedia.org/wiki/Batman:_The_Animated_Series_(video_game))
+> FROM TV SCREEN TO GAME BOY SCREEN COMES HEROIC CRIME FIGHTING ADVENTURE.  Everyone's tuning in to Batman - The Animated Series. Now, for the first time, this hit TV series becomes an intense video game adventure. The Dark Knight and his partner Robin fight Gotham City's most infamous fiends in five original episodes of sizzling crime fighting action. Batman's strategic use of the grappling hook is crucial for surviving the onslaught of evil enemies. And Robin relies on his hang-from-the-ceiling skills to escape certain doom. Both of our heroes possess fists of amazing strength and must try to find weapon power-ups scattered throughout the mayhem.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Batman:_The_Animated_Series_(video_game)) · [IGDB](https://www.igdb.com/games/batman-the-animated-series)
 
 ---
 
@@ -1184,9 +1472,15 @@
 
 ### Beethoven: The Ultimate Canine Caper
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co6vho.jpg" alt="Beethoven: The Ultimate Canine Caper cover" width="200">
+
 **Platforms:** Super Nintendo Entertainment System, Game Boy, MS-DOS &nbsp;|&nbsp; **Developer:** Riedel Software Productions, Rozner Labs Software &nbsp;|&nbsp; **Publisher:** Hi Tech Expressions &nbsp;|&nbsp; **Genre:** Platform &nbsp;|&nbsp; **Released:** December 1993
 
-[Wikipedia](https://en.wikipedia.org/wiki/Beethoven:_The_Ultimate_Canine_Caper)
+> Beethoven's 2nd is a platform game where you get a chance to wear the metaphorical shoes of Beethoven - that lovable, big dog from the movie.  Your four puppies need to be rescued and brought back to their mom. As a responsible father and guardian you'll first need to find the puppy, avoiding dangers such as bad-tempered cats, mean dogcatchers, acorns which have a habit to drop down just when you pass underneath, and careless skateboarders. You can bark at these opponents to scare them away. And if you'll find a source of water (such as a rubber hose), you can make yourself wet and then - in a tense situation - shake off the water, eliminating everyone in the vicinity.  Once you find your pup, you'll find out that getting him back to his mom is no easy task. While your puppy can - thankfully - walk on his own accord when you put him down, you'll still have to carry it over obstacles, and you'll be forced to fight all the enemies again while doing it.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Beethoven:_The_Ultimate_Canine_Caper) · [IGDB](https://www.igdb.com/games/beethoven-the-ultimate-canine-caper--1)
 
 ---
 
@@ -1220,9 +1514,15 @@
 
 ### Championship Pool
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co6nto.jpg" alt="Championship Pool cover" width="200">
+
 **Platforms:** Nintendo Entertainment System, Super Nintendo Entertainment System, Game Boy, Genesis / Mega Drive, MS-DOS &nbsp;|&nbsp; **Developer:** Bitmasters &nbsp;|&nbsp; **Publisher:** Mindscape &nbsp;|&nbsp; **Genre:** Sports simulation – pool &nbsp;|&nbsp; **Released:** October 1993
 
-[Wikipedia](https://en.wikipedia.org/wiki/Championship_Pool)
+> Championship Pool is a pool game where players can 8-ball or 9-ball pool tournament that starts off with the BCA Regional Championship where the player must defeat 32 opponents in a first to four games match. If the player loses against any of the 32 opponents, they are then eliminated from the tournament. The winner of that then goes onto the World Championship.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Championship_Pool) · [IGDB](https://www.igdb.com/games/championship-pool)
 
 ---
 
@@ -1242,17 +1542,29 @@
 
 ### Dennis the Menace
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/coapq3.jpg" alt="Dennis the Menace cover" width="200">
+
 **Platforms:** Amiga, Game Boy, Super Nintendo Entertainment System &nbsp;|&nbsp; **Developer:** Ocean Software, Citizen Software &nbsp;|&nbsp; **Publisher:** Ocean Software &nbsp;|&nbsp; **Genre:** Platform &nbsp;|&nbsp; **Released:** November 25, 1993
 
-[Wikipedia](https://en.wikipedia.org/wiki/Dennis_the_Menace_(video_game))
+> Dennis the Menace is a game based on the homonymous movie, which in turn is based on a comic strip series.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Dennis_the_Menace_(video_game)) · [IGDB](https://www.igdb.com/games/dennis-the-menace--1)
 
 ---
 
 ### DuckTales 2
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co6sm3.jpg" alt="DuckTales 2 cover" width="200">
+
 **Platforms:** Nintendo Entertainment System, Game Boy &nbsp;|&nbsp; **Developer:** Capcom &nbsp;|&nbsp; **Publisher:** Capcom &nbsp;|&nbsp; **Genre:** Platformer &nbsp;|&nbsp; **Released:** April 23, 1993
 
-[Wikipedia](https://en.wikipedia.org/wiki/DuckTales_2)
+> Scrooge McDuck is hot on the trail of the richest adventure ever. Pieces to the map of the Lost Treasure of McDuck have been scattered across the globe, and Scrooge must find them before the greedy Flintheart Glomgold grabs them. It's going to be a race to the finish as both of them try to find the treasure and become the richest duck in the world! Join Scrooge and his nephews as they explore the ancient pyramids of Egypt and do battle with swash-buckling pirates in the Bermuda Triangle. Help them search the haunted halls of an ancient Scottish castle and scale the watery heights of Niagara Falls. Aid Scrooge in his quest for the secret of the island of Mu and you'll gain the final clue to unravel the hidden location of the Lost Treasure of McDuck!
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/DuckTales_2) · [IGDB](https://www.igdb.com/games/disneys-ducktales-2)
 
 ---
 
@@ -1280,17 +1592,29 @@
 
 ### Jimmy Connors Tennis
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co6o1d.jpg" alt="Jimmy Connors Tennis cover" width="200">
+
 **Platforms:** Nintendo Entertainment System, Game Boy, Atari Lynx &nbsp;|&nbsp; **Developer:** NMS Software, Hand Made Software &nbsp;|&nbsp; **Publisher:** Ubi Soft, Atari Corporation &nbsp;|&nbsp; **Genre:** Tennis &nbsp;|&nbsp; **Released:** August 1993
 
-[Wikipedia](https://en.wikipedia.org/wiki/Jimmy_Connors_Tennis)
+> Jimmy Connors Tennis is a tennis simulation video game developed by NMS Software for the Nintendo Entertainment System and the Game Boy, and published by Ubi Soft in 1993.  The game features the name and likeness of American world-number-one tennis champion Jimmy Connors. Ubisoft published Jimmy Connors Tennis two years after Connors' late-career comeback in the Men's Singles division at the 1991 US Open, where he reached the semifinals.  The player can compete in an ATP World Tour at one of three difficulty levels, or just practice hitting tennis balls. Two players may play competitively. The Game Boy version of the game allows two-player competitive play over a Game Link Cable.  In french markets, Jimmy Connors was replaced with Yannick Noah as the title athlete.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Jimmy_Connors_Tennis) · [IGDB](https://www.igdb.com/games/jimmy-connors-tennis)
 
 ---
 
 ### Jurassic Park
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2zpb.jpg" alt="Jurassic Park cover" width="200">
+
 **Platforms:** Nintendo Entertainment System, Game Boy &nbsp;|&nbsp; **Developer:** Ocean Software &nbsp;|&nbsp; **Publisher:** Ocean Software &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** June 1993
 
-[Wikipedia](https://en.wikipedia.org/wiki/Jurassic_Park_(NES_video_game))
+> Jurassic Park is a top-down action-adventure game based on the blockbuster film. Players take on the role of Dr. Alan Grant, exploring the island, rescuing stranded workers, and battling escaped dinosaurs. The game features maze-like levels, limited ammo, and key-based progression, combining exploration and survival in a challenging prehistoric setting.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Jurassic_Park_(NES_video_game)) · [IGDB](https://www.igdb.com/games/jurassic-park--3)
 
 ---
 
@@ -1374,9 +1698,15 @@
 
 ### Mickey Mouse: Magic Wands!
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co3b5p.jpg" alt="Mickey Mouse: Magic Wands! cover" width="200">
+
 **Platforms:** Game Boy &nbsp;|&nbsp; **Developer:** Kemco &nbsp;|&nbsp; **Publisher:** Kemco, Nintendo &nbsp;|&nbsp; **Genre:** Puzzle, action &nbsp;|&nbsp; **Released:** December 22, 1993
 
-[Wikipedia](https://en.wikipedia.org/wiki/Mickey_Mouse:_Magic_Wands!)
+> A great adventure with Magic Wands! Hurry and rescue your friends from the wicked witch's castle!  Mickey Mouse and his friends have become lost while playing near the edge of the forest. Mickey's friends have been trapped in Yashja the wicked witch's castle. Hurry and rescue your friends, Mickey! Take the Magic Wands and begin your great adventure.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Mickey_Mouse:_Magic_Wands!) · [IGDB](https://www.igdb.com/games/mickey-mouse-magic-wands)
 
 ---
 
@@ -1390,25 +1720,43 @@
 
 ### Out to Lunch
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co6yf4.jpg" alt="Out to Lunch cover" width="200">
+
 **Platforms:** Game Boy, Super Nintendo Entertainment System &nbsp;|&nbsp; **Developer:** Mindscape &nbsp;|&nbsp; **Publisher:** Mindscape &nbsp;|&nbsp; **Genre:** Platform &nbsp;|&nbsp; **Released:** September 1993
 
-[Wikipedia](https://en.wikipedia.org/wiki/Out_to_Lunch_(video_game))
+> Pierre le Chef is touring the world preparing his dishes, but his ingredients have escaped and he must capture them. Pierre must watch out for bacteria, insects, and his arch-rival, Le Chef Noir. Noir, an evil chef jealous of Pierre's success, wants to ruin his career by releasing all of his gathered ingredients.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Out_to_Lunch_(video_game)) · [IGDB](https://www.igdb.com/games/pierre-le-chef-is-dot-dot-dot-out-to-lunch)
 
 ---
 
 ### Panel Action Bingo
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co9i08.jpg" alt="Panel Action Bingo cover" width="200">
+
 **Platforms:** Game Boy &nbsp;|&nbsp; **Developer:** Locus &nbsp;|&nbsp; **Publisher:** FCI &nbsp;|&nbsp; **Genre:** Action/Adventure &nbsp;|&nbsp; **Released:** November 1993
 
-[Wikipedia](https://en.wikipedia.org/wiki/Panel_Action_Bingo)
+> The Classic Game Moves Into the Electronic Age.  Looking for a new challenge for the Game Boy? BINGO! You've found it! Panel Action Bingo pits you against the computer or a friend (with the Game Boy Game Link) in an exciting race for time. You're the Bird, and your opponent is the Cat. You must claim one of the 25 panels in the correct order. The object: grab five panels in a row - vertically, horizontally, or diagonally - to get BINGO... before the Cat does!  Choose from one of the many game play variations: there's the Number game, the Alphabet game, and the Option function, which lets you control different aspects of the game to make it more challenging. They include: -Second 3: Your position shifts when you stay in one spot for more than 3 seconds. -Ice Stage: The play field becomes slippery, and its's tough to stop where you want! -Hide: Some of the squares on the panel are blank until you land there (but the Cat still knows what they are!) -Break: ALL the squares are blank; choose this for a test of memory as well as speed! - 60 levels, 240 round in all, including 60 bonus rounds - Password feature - Pause function lets you resume the game where you left off - Beware the Black Hole and Star squares that challenge your every move - Hook up the Game Link for 2-player action  Pick up Panel Bingo today ... don't let that nasty Cat win!
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Panel_Action_Bingo) · [IGDB](https://www.igdb.com/games/panel-action-bingo)
 
 ---
 
 ### Raging Fighter
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co9i1k.jpg" alt="Raging Fighter cover" width="200">
+
 **Platforms:** Game Boy &nbsp;|&nbsp; **Developer:** Konami &nbsp;|&nbsp; **Publisher:** Konami &nbsp;|&nbsp; **Genre:** Fighting &nbsp;|&nbsp; **Released:** March 26, 1993
 
-[Wikipedia](https://en.wikipedia.org/wiki/Raging_Fighter)
+> If you think you're tough enough to rumble with the best fighters in the world, take your best shot in RAGING FIGHTER. Choose from seven different brawlers Vandal, Aska, Ruoh, Shades, Miyabi, Tao, and Bulk as you take it to the competition and show em who's boss. There are four different tournament styles to play in, making for intensely high replay value and variety. Each of the seven fighters brandishes a few special moves that are all their own, making for original fights every time out. Of course, there are the requisite punches and kicks, but mastering your own fighter's combos will lead you to easier victory. Play against the computer, or hook up with a friend via a link cable and scrap it out for bragging rights.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Raging_Fighter) · [IGDB](https://www.igdb.com/games/raging-fighter)
 
 ---
 
@@ -1422,9 +1770,15 @@
 
 ### Star Trek: The Next Generation
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/coaf5j.jpg" alt="Star Trek: The Next Generation cover" width="200">
+
 **Platforms:** Nintendo Entertainment System, Game Boy, Game Gear &nbsp;|&nbsp; **Developer:** Imagineering Inc. &nbsp;|&nbsp; **Publisher:** Absolute Entertainment &nbsp;|&nbsp; **Genre:** Large spaceship simulation &nbsp;|&nbsp; **Released:** September 1993
 
-[Wikipedia](https://en.wikipedia.org/wiki/Star_Trek:_The_Next_Generation_(1993_video_game))
+> Star Trek: The Next Generation is divided into a series of missions. Players will start on the main screen of the bridge and from there can access Navigation, Tactical, Operations, Engineering, Transporter Systems and Mission Control. Mini-games are sometimes used to complete certain ship functions (such as rerouting power to the shields).
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Star_Trek:_The_Next_Generation_(1993_video_game)) · [IGDB](https://www.igdb.com/games/star-trek-the-next-generation)
 
 ---
 
@@ -1444,31 +1798,43 @@
 
 ### Tetris 2
 
-<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co3a71.jpg" alt="Tetris 2 cover" width="200">
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co6o1l.jpg" alt="Tetris 2 cover" width="200">
 
 **Platforms:** Game Boy, Nintendo Entertainment System &nbsp;|&nbsp; **Developer:** Tose &nbsp;|&nbsp; **Publisher:** Nintendo, Bullet-Proof Software &nbsp;|&nbsp; **Genre:** Puzzle &nbsp;|&nbsp; **Released:** September 21, 1993
 
-> SNES release of "Tetris 2".  The mesmerizing fun of Tetris returns - and the challenge escalates to new heights! Test your dexterity, tease your brain and rack up points with Tetris 2. Your split-second decisions lead you to a new dimension in puzzle-solving action! Play alone or challenge a friend in simultaneous split-screen action. A tougher Tetris with more shapes, more components, 30 levels - and unlimited solutions! If you loved the international game sensation Tetris, you'll be wild for the newest dimension in puzzle fun: Tetris 2!
+> Unlike the original Tetris, Tetris 2 has you clearing the field of blocks in a different way. Each play field starts with different colored dots (in this case black, gray and white), with one of each color flashing. The blocks are made up of the same three colors, and by matching blocks of the same color over the top or to the side of the dot will clear the dot and those blocks from the screen. If you clear a flashing dot, all the corresponding dots of the same color will be cleared. To complete the round just clear the dots, not the blocks themselves.
 >
 > _Synopsis source: IGDB_
 
-[Wikipedia](https://en.wikipedia.org/wiki/Tetris_2_(1993_video_game)) · [IGDB](https://www.igdb.com/games/tetris-2)
+[Wikipedia](https://en.wikipedia.org/wiki/Tetris_2_(1993_video_game)) · [IGDB](https://www.igdb.com/games/tetris-2--2)
 
 ---
 
 ### The Fidgetts
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co6olf.jpg" alt="The Fidgetts cover" width="200">
+
 **Platforms:** Game Boy &nbsp;|&nbsp; **Developer:** Game Over Production &nbsp;|&nbsp; **Publisher:** Elite Systems, GX Media Co, Jaleco &nbsp;|&nbsp; **Genre:** Platform
 
-[Wikipedia](https://en.wikipedia.org/wiki/The_Fidgetts)
+> The Fidgetts is a puzzle side-scrolling platform game in a similar vein as 'The Lost Vikings'. The player can switch between two Fidgetts (cartoon-like animals) to get past obstacles. One of the Fidgetts can jump higher to reach objects or locations otherwise unreachable. They can also lift and drop items to help them climb over obstacles.  Within each level the player must get both Fidgetts to the exit before a time runs out. There are pit traps and enemies that can cause the Fidgetts to loose lives or receive damage.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/The_Fidgetts) · [IGDB](https://www.igdb.com/games/the-fidgetts)
 
 ---
 
 ### The Flash
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co3k5c.jpg" alt="The Flash cover" width="200">
+
 **Platforms:** Sega Master System, Game Boy &nbsp;|&nbsp; **Developer:** Probe Software, Equilibrium &nbsp;|&nbsp; **Publisher:** Sega, THQ &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** August 1993
 
-[Wikipedia](https://en.wikipedia.org/wiki/The_Flash_(video_game))
+> The Flash is an action video game based on the DC Comics superhero of the same name. It was developed and manufactured by Sega and Probe Entertainment for the Sega Master System in 1993. The game's release followed approximately two years after the cancellation of The Flash TV series on CBS.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/The_Flash_(video_game)) · [IGDB](https://www.igdb.com/games/the-flash)
 
 ---
 
@@ -1510,33 +1876,57 @@
 
 ### Tiny Toon Adventures 2: Montana's Movie Madness
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2dph.jpg" alt="Tiny Toon Adventures 2: Montana's Movie Madness cover" width="200">
+
 **Platforms:** Game Boy &nbsp;|&nbsp; **Developer:** Konami &nbsp;|&nbsp; **Publisher:** Konami &nbsp;|&nbsp; **Genre:** Platformer &nbsp;|&nbsp; **Released:** November 1993
 
-[Wikipedia](https://en.wikipedia.org/wiki/Tiny_Toon_Adventures_2:_Montana's_Movie_Madness)
+> Here comes Montana Max the meanest movie maker to ever tarnish the silver screen. He's directed four new flicks that make Buster Bunny look like a villain! To defend his character Buster Bunny must leap into Max's movies and use attack moves like fast dash and freeze kick to change the endings before his career is finished.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Tiny_Toon_Adventures_2:_Montana's_Movie_Madness) · [IGDB](https://www.igdb.com/games/tiny-toon-adventures-2-montanas-movie-madness)
 
 ---
 
 ### Top Gun: Guts and Glory
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co7elk.jpg" alt="Top Gun: Guts and Glory cover" width="200">
+
 **Platforms:** Game Boy &nbsp;|&nbsp; **Developer:** Distinctive Software &nbsp;|&nbsp; **Publisher:** Konami &nbsp;|&nbsp; **Genre:** Modern jet flight simulation &nbsp;|&nbsp; **Released:** January 1993
 
-[Wikipedia](https://en.wikipedia.org/wiki/Top_Gun:_Guts_and_Glory)
+> Top Gun: Guts and Glory is a modern jet flight simulation that was released in 1993 for the original Nintendo Game Boy in Europe and North America.  This video game is loosely based on the Top Gun film featuring Tom Cruise. Basically controlling a cutting edge U.S. Aviation based armed forces stream through ten levels, players must take out adversary jet fighters while withstanding enemy ships.  Airplanes that can be picked include the F-14 Tomcat, the F-117A Nighthawk covertness contender, the F-16 Fighting Falcon, and the Soviet-made MiG-29 Fulcrum. Players can either commit themselves to a long career mode, take part in a snappy air battle meeting, or go on a bombarding run. Passwords help store the player's advancement in career mode.  Because of different constraints found on the first Game Boy framework, the player can just observe and battle against two enemy airplanes at once.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Top_Gun:_Guts_and_Glory) · [IGDB](https://www.igdb.com/games/top-gun-guts-and-glory)
 
 ---
 
 ### Top Rank Tennis
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co8i3l.jpg" alt="Top Rank Tennis cover" width="200">
+
 **Platforms:** Game Boy &nbsp;|&nbsp; **Developer:** Pax Softnica &nbsp;|&nbsp; **Publisher:** Nintendo &nbsp;|&nbsp; **Genre:** Sports
 
-[Wikipedia](https://en.wikipedia.org/wiki/Top_Rank_Tennis)
+> Top Rank Tennis is a Sports game, developed by Pax Softonica and published by Nintendo, which was released in 1993.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Top_Rank_Tennis) · [IGDB](https://www.igdb.com/games/top-rank-tennis)
 
 ---
 
 ### Ultima: Runes of Virtue II
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co53nu.jpg" alt="Ultima: Runes of Virtue II cover" width="200">
+
 **Platforms:** Game Boy &nbsp;|&nbsp; **Developer:** Origin Systems &nbsp;|&nbsp; **Publisher:** Pony Canyon, FCI, Electronic Arts Victor &nbsp;|&nbsp; **Genre:** Role-playing &nbsp;|&nbsp; **Released:** November 19, 1993
 
-[Wikipedia](https://en.wikipedia.org/wiki/Ultima:_Runes_of_Virtue_II)
+> Ultima: Runes of Virtue II is the sequel to Runes of Virtue. It maintains the action-RPG gameplay of the original. In this game, the Black Knight kidnaps Lord Tholden, simply out of boredom. Lord British sends you, the Avatar, out to recover Tholden and return peace to Britannia.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Ultima:_Runes_of_Virtue_II) · [IGDB](https://www.igdb.com/games/ultima-runes-of-virtue-ii--1)
 
 ---
 
@@ -1564,17 +1954,29 @@
 
 ### WWF King of the Ring
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co49eb.jpg" alt="WWF King of the Ring cover" width="200">
+
 **Platforms:** Nintendo Entertainment System, Game Boy &nbsp;|&nbsp; **Developer:** Gray Matter, Eastridge Technology &nbsp;|&nbsp; **Publisher:** LJN &nbsp;|&nbsp; **Genre:** Fighting, sports &nbsp;|&nbsp; **Released:** September 1993
 
-[Wikipedia](https://en.wikipedia.org/wiki/WWF_King_of_the_Ring_(video_game))
+> It's the event that everyone is talking about --- The King of the Ring? --- and now it's time to prove you're the best! It's a brutal, no time out elimination tournament for the wrestling crown!  » All-New King of the Ring Tournament? » 10 of the hottest superstars » Create your own wrestler with customizes strength, speed, and more » Grueling One-on-One and tag team bouts  If you've got the guts...take the challenge.  If you've got the skill...TAKE THE CROWN!!
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/WWF_King_of_the_Ring_(video_game)) · [IGDB](https://www.igdb.com/games/wwf-king-of-the-ring)
 
 ---
 
 ### Zen: Intergalactic Ninja
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co9if8.jpg" alt="Zen: Intergalactic Ninja cover" width="200">
+
 **Platforms:** Nintendo Entertainment System, Game Boy &nbsp;|&nbsp; **Developer:** Konami &nbsp;|&nbsp; **Publisher:** Konami &nbsp;|&nbsp; **Genre:** Action
 
-[Wikipedia](https://en.wikipedia.org/wiki/Zen:_Intergalactic_Ninja_(video_game))
+> IF YOU LIKE FIGHTING DIRTY, YOU'RE GONNA DIG ZEN!  The greatest environmental disaster in human history is about to hit your backyard. But you're not backing down, because you're Zen, a cold-blooded Ninja warrior who's come to Earth to clean the clock of Lord Contaminous and his crud-loving cronies.  But wasting these slimeballs won't be easy. Because they'll spew forth the most hazardous graphics ever to wreak havoc on your NES. We're talking horizontal, vertical and 3/4 view scrolling that will give you a whole new perspective on acid rain, oil spills and ozone-ravaging smog. And wait till you see the fluid character movements. They're hotter than a uranium-oozing nuclear meltdown!  There are 12 total levels, each with its own ecological enemies, toxic traps and pollution-fighting objectives. You'll battle oil rig fires, trying to save trapped workers. Use your Photon-Stick to zap gaseous garbage men on a high-speed plutonium mining car ride. Vertical jump through two separate screens to reach a venomous vixen who's single-handedly scorching the rainforests. And spin kick Smogger, a smoked-out scum of the Earth.  Finally, try to survive a rescue mission stage. Rack up points in the bonus recycling level. And slash through 6 subgames that will lead you to the feet of Lord Contaminous, who you must dispose of before he trashes every living thing on the face of the Earth.  For 1 Ninja Master.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Zen:_Intergalactic_Ninja_(video_game)) · [IGDB](https://www.igdb.com/games/zen-intergalactic-ninja)
 
 ---
 
@@ -1600,9 +2002,15 @@
 
 ### Barbie: Game Girl
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2pi8.jpg" alt="Barbie: Game Girl cover" width="200">
+
 **Platforms:** Game Boy &nbsp;|&nbsp; **Developer:** Imagineering &nbsp;|&nbsp; **Publisher:** Hi Tech Expressions &nbsp;|&nbsp; **Genre:** Platform &nbsp;|&nbsp; **Released:** October 1992
 
-[Wikipedia](https://en.wikipedia.org/wiki/Barbie:_Game_Girl)
+> Unlike most Barbie games, this game is a standard platform game rather than a simulation of the life of a female fashion model. Barbie must find an outfit for her date with Ken. The environment features a shopping mall level, an underwater level, and other worlds to explore. The game is also centered around collecting gems and pearls to fend off opponents.  Enemies in the game include the usual sharks found in underwater levels in addition to jellyfish. Moving cubes of sugar must also be defeated in the game. The bonus rounds of the game are essentially a Concentration-type game where matching identical cards lead to extra points for the player.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Barbie:_Game_Girl) · [IGDB](https://www.igdb.com/games/barbie-game-girl)
 
 ---
 
@@ -1616,9 +2024,15 @@
 
 ### Best of the Best: Championship Karate
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co3b7u.jpg" alt="Best of the Best: Championship Karate cover" width="200">
+
 **Platforms:** Amiga, Amstrad CPC, MS-DOS, Nintendo Entertainment System, Super Nintendo Entertainment System, Game Boy, Genesis / Mega Drive &nbsp;|&nbsp; **Developer:** Futura, Loriciel &nbsp;|&nbsp; **Publisher:** Loriciel, Electro Brain &nbsp;|&nbsp; **Genre:** Fighting
 
-[Wikipedia](https://en.wikipedia.org/wiki/Best_of_the_Best:_Championship_Karate)
+> Best of the Best: Champion Karate is an earlier fighting-style game. It focused on the kick-boxing style of fighting, and incorporated a championship-style linear play.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Best_of_the_Best:_Championship_Karate) · [IGDB](https://www.igdb.com/games/best-of-the-best-championship-karate--1)
 
 ---
 
@@ -1632,9 +2046,15 @@
 
 ### Black Bass: Lure Fishing
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co9gzl.jpg" alt="Black Bass: Lure Fishing cover" width="200">
+
 **Platforms:** Game Boy &nbsp;|&nbsp; **Developer:** Hot B &nbsp;|&nbsp; **Publisher:** Hot B &nbsp;|&nbsp; **Genre:** Fishing &nbsp;|&nbsp; **Released:** August 28, 1992
 
-[Wikipedia](https://en.wikipedia.org/wiki/Black_Bass:_Lure_Fishing)
+> There are only two lakes to fish at and a limited set of lures; unlike the Super NES video game Super Black Bass. Casting is done on an overhead view with a meter for the direction and another meter for the shadow of the fish. Trout, pike, catfish, and the infamous black bass can all be caught in this game.  The Game Boy Color version allows players to play against 99 AI-controlled fishermen. Tournament hours are twelve non-real time hours long and all locations are fictional. Each game originally came with a 40-page instruction manual and a precautions booklet. Both versions of the game notify players when they have lost their lure and/or their fish through a text-based message. Once a player runs out of a certain kind of fishing lure, it cannot be recovered until the next gameplay.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Black_Bass:_Lure_Fishing) · [IGDB](https://www.igdb.com/games/black-bass-lure-fishing)
 
 ---
 
@@ -1654,9 +2074,15 @@
 
 ### Dr. Franken
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2dv4.jpg" alt="Dr. Franken cover" width="200">
+
 **Platforms:** Game Boy, Super Nintendo Entertainment System &nbsp;|&nbsp; **Developer:** Elite Systems, MotiveTime &nbsp;|&nbsp; **Publisher:** Kemco, DTMC &nbsp;|&nbsp; **Genre:** Platform, Metroidvania &nbsp;|&nbsp; **Released:** December 1992
 
-[Wikipedia](https://en.wikipedia.org/wiki/Dr._Franken)
+> Being the first version that was released, the Game Boy version of the game uses a password-based saving system to save the player's progress. The game consisted of seven floors where various items and parts of Bitsy (Franky's girlfriend) were hidden. Keys and special items were needed to access additional areas to find more body parts and equipment required to resurrect Bitsy.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Dr._Franken) · [IGDB](https://www.igdb.com/games/dr-franken)
 
 ---
 
@@ -1670,17 +2096,25 @@
 
 ### Goal!
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co9xzf.jpg" alt="Goal! cover" width="200">
+
 **Platforms:** Nintendo Entertainment System, Game Boy &nbsp;|&nbsp; **Developer:** Tose &nbsp;|&nbsp; **Publisher:** Jaleco &nbsp;|&nbsp; **Genre:** Sports
 
-[Wikipedia](https://en.wikipedia.org/wiki/Goal!_(video_game))
+[Wikipedia](https://en.wikipedia.org/wiki/Goal!_(video_game)) · [IGDB](https://www.igdb.com/games/goal--5)
 
 ---
 
 ### Great Greed
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co4jzw.jpg" alt="Great Greed cover" width="200">
+
 **Platforms:** Game Boy &nbsp;|&nbsp; **Developer:** Namco &nbsp;|&nbsp; **Publisher:** Namco &nbsp;|&nbsp; **Genre:** Role-playing &nbsp;|&nbsp; **Released:** September 17, 1992
 
-[Wikipedia](https://en.wikipedia.org/wiki/Great_Greed)
+> This RPG breaks from the normal formula in a few respects. The battle system does not use any menus, switching all commands to simple button pushes. A being attack, B for dodge, Start will run and the D-Pad is shortcuts to certain spells. The combat is also live, in the sense that if you take too long to complete your turn, your opponent will attack again.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Great_Greed) · [IGDB](https://www.igdb.com/games/great-greed)
 
 ---
 
@@ -1694,9 +2128,15 @@
 
 ### Home Alone 2: Lost in New York
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co6c54.jpg" alt="Home Alone 2: Lost in New York cover" width="200">
+
 **Platforms:** Super Nintendo Entertainment System, Nintendo Entertainment System, Game Boy &nbsp;|&nbsp; **Developer:** Imagineering, Sega Interactive Development, Manley & Associates &nbsp;|&nbsp; **Publisher:** THQ, Sega of America, Capstone Software &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** October 1992
 
-[Wikipedia](https://en.wikipedia.org/wiki/Home_Alone_2:_Lost_in_New_York_(video_game))
+> Kevin ends up in New York City Alone. The "Wet Bandits" are in New York City too. Harry and Marv tried to rob Kevin's house last Christmas. But Kevin's excellent traps foiled their plans. Now they're out for revenge. And Kevin's got plenty of hilarious plans to stop them.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Home_Alone_2:_Lost_in_New_York_(video_game)) · [IGDB](https://www.igdb.com/games/home-alone-2-lost-in-new-york)
 
 ---
 
@@ -1722,17 +2162,29 @@
 
 ### Jeep Jamboree: Off Road Adventure
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co9hhh.jpg" alt="Jeep Jamboree: Off Road Adventure cover" width="200">
+
 **Platforms:** Game Boy &nbsp;|&nbsp; **Developer:** Gremlin Interactive &nbsp;|&nbsp; **Publisher:** Virgin Games &nbsp;|&nbsp; **Genre:** Off-road racing &nbsp;|&nbsp; **Released:** July 1992
 
-[Wikipedia](https://en.wikipedia.org/wiki/Jeep_Jamboree:_Off_Road_Adventure)
+> There are several options in the game including: difficulty level, whether to race in MPH or KM/H, steering ability, whether or not to have a track map, chevrons, and position flashing. The object is to race laps around a muddy race track while trying to get first place. There are twenty tracks to race in; each with a timer that forces the player to race fast. There is an option to either do a single race or a multi-race tournament against a computer opponent or through a human playing while using the Game Boy link cable and another copy of the video game. Items in the background like electric lines and rocks help provide a road-like feeling to the races.  In a single-player race, the player will race to the finish line against a field of approximately nineteen other drivers.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Jeep_Jamboree:_Off_Road_Adventure) · [IGDB](https://www.igdb.com/games/jeep-jamboree-off-road-adventure)
 
 ---
 
 ### Kaeru no Tame ni Kane wa Naru
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2dk2.jpg" alt="Kaeru no Tame ni Kane wa Naru cover" width="200">
+
 **Platforms:** Game Boy &nbsp;|&nbsp; **Developer:** Nintendo R&D1, Intelligent Systems &nbsp;|&nbsp; **Publisher:** Nintendo &nbsp;|&nbsp; **Genre:** Action role-playing &nbsp;|&nbsp; **Released:** September 14, 1992
 
-[Wikipedia](https://en.wikipedia.org/wiki/Kaeru_no_Tame_ni_Kane_wa_Naru)
+> In a land far away, the two princes—Richard (of the Custard Kingdom) and the game's main protagonist (prince of the Sablé Kingdom)—have shared a friendly rivalry since they were small children. They often compete, although it usually ends in a tie or close win. In Fencing however, Prince Richard is always the victor. One day a messenger arrives from a small neighboring kingdom, warning the princes that the evil King Delarin has invaded the Mille-Feuille Kingdom and captured the beautiful princess Tiramisu. In yet another boastful attempt to best the Sablé Prince, Richard grabs a boat and rushes towards the kingdom. The Sablé Prince is left trying to catch up. While on his journey, he and Richard (and many others) are transformed into frogs in an attempt to reveal the true happenings in this kingdom.  The game and its characters were mentioned many times in the Super Smash Bros. series as trophies, stickers, spirits and as the Assist Trophy of the Sablé Prince. In these series, the game was officially romanized as "Kaeru no Tame ni Kane wa Naru".
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Kaeru_no_Tame_ni_Kane_wa_Naru) · [IGDB](https://www.igdb.com/games/kaeru-no-tame-ni-kane-wa-naru)
 
 ---
 
@@ -1746,25 +2198,43 @@
 
 ### Lethal Weapon
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2jan.jpg" alt="Lethal Weapon cover" width="200">
+
 **Platforms:** Arcade, Amiga, Atari ST, Commodore 64, MS-DOS, Game Boy, Nintendo Entertainment System, Super Nintendo Entertainment System &nbsp;|&nbsp; **Developer:** Ocean Software, Eurocom &nbsp;|&nbsp; **Publisher:** Ocean Software, Nintendo &nbsp;|&nbsp; **Genre:** Action
 
-[Wikipedia](https://en.wikipedia.org/wiki/Lethal_Weapon_(video_game))
+> In this game, based on the movie series, you can play as Martin Riggs or Roger Murtaugh to complete four main missions, before taking on a final bonus one. For each mission you can choose the appropriate character. Walking around, jumping and swimming, kicking or shooting the opponents you have to stop the crimes in your beloved L.A.  Firstly, you have to stop drug dealers who want to transport their money from the dock, where you infiltrate. Secondly, you have to stop suicidal terrorists, who entered the subway. Thirdly, you have to defuse a bomb, planted by another terrorist group in the mall. Fourthly, you have to sneak into an office complex to free a hostage, Leo Getz. And finally, you have to find out and stop an ex-police sergeant, who is supplying armor-piercing bullets to local criminals.  The Atari ST version is identical to the Amiga version except for sound and music due to hardware.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Lethal_Weapon_(video_game)) · [IGDB](https://www.igdb.com/games/lethal-weapon)
 
 ---
 
 ### Looney Tunes
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co7xtk.jpg" alt="Looney Tunes cover" width="200">
+
 **Platforms:** Game Boy &nbsp;|&nbsp; **Developer:** Sunsoft &nbsp;|&nbsp; **Publisher:** Sunsoft &nbsp;|&nbsp; **Genre:** Platformer &nbsp;|&nbsp; **Released:** October 2, 1992
 
-[Wikipedia](https://en.wikipedia.org/wiki/Looney_Tunes_(video_game))
+> This side-scrolling game allows the player to control different Looney Tunes characters and their different abilities to advance through the levels, seven in all. The player can use Daffy Duck (throwing a frisbee to defeat enemies with Mario-style gameplay), Tweety Bird (elude Sylvester throughout the level), Porky Pig (control a bi-plane to shoot down enemies), Taz (really only a bonus game in which he has to collect as many steaks as possible in 60 seconds), Speedy Gonzalez (elude ghosts and ghouls in a haunted mansion), Roadrunner (of course running from his arch enemy, Wile E. Coyote) and finally Bugs Bunny (gameplay similar to Daffy).
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Looney_Tunes_(video_game)) · [IGDB](https://www.igdb.com/games/looney-tunes)
 
 ---
 
 ### Mega Man III
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co557g.jpg" alt="Mega Man III cover" width="200">
+
 **Platforms:** Game Boy &nbsp;|&nbsp; **Developer:** Minakuchi Engineering &nbsp;|&nbsp; **Publisher:** Capcom, Nintendo &nbsp;|&nbsp; **Genre:** Platform &nbsp;|&nbsp; **Released:** December 11, 1992
 
-[Wikipedia](https://en.wikipedia.org/wiki/Mega_Man_III_(1992_video_game))
+> Mega Man III is an action-platform video game by Capcom for the Nintendo Game Boy. It is the third game in the handheld version of the Mega Man series. The game follows the title character Mega Man as he fights the evil Dr. Wily, whose latest attempt to conquer the world involves sucking energy from the Earth's core to power a new machine. Along with foes from his past, Mega Man must contend with the next robot in Wily's line of "Mega Man Killers", Punk. Like its two consecutive predecessors on the Game Boy, the game combines elements from two previously released Nintendo Entertainment System (NES) titles: Mega Man 3 and Mega Man 4. In 2013, Mega Man III was made available on the Virtual Console of Japan's Nintendo eShop for the Nintendo 3DS. It was later released in the North American and PAL region eShops the following year.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Mega_Man_III_(1992_video_game)) · [IGDB](https://www.igdb.com/games/mega-man-iii)
 
 ---
 
@@ -1778,9 +2248,15 @@
 
 ### Mouse Trap Hotel
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2qqo.jpg" alt="Mouse Trap Hotel cover" width="200">
+
 **Platforms:** Game Boy &nbsp;|&nbsp; **Developer:** Imagineering &nbsp;|&nbsp; **Publisher:** Electro Brain &nbsp;|&nbsp; **Genre:** Action
 
-[Wikipedia](https://en.wikipedia.org/wiki/Mouse_Trap_Hotel)
+> Mouse Trap Hotel is an Action game, developed by Imagineering Inc and published by Electro Brain, which was released in 1992.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Mouse_Trap_Hotel) · [IGDB](https://www.igdb.com/games/mouse-trap-hotel)
 
 ---
 
@@ -1802,9 +2278,15 @@
 
 ### Nigel Mansell's World Championship Racing
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/cockgi.jpg" alt="Nigel Mansell's World Championship Racing cover" width="200">
+
 **Platforms:** Amiga, Amiga CD32, Amstrad CPC, Atari ST, Game Boy, MS-DOS, ZX Spectrum &nbsp;|&nbsp; **Developer:** Gremlin Graphics &nbsp;|&nbsp; **Publisher:** Gremlin Graphics, Gremlin Interactive, Nintendo, GameTek &nbsp;|&nbsp; **Genre:** Racing
 
-[Wikipedia](https://en.wikipedia.org/wiki/Nigel_Mansell's_World_Championship_Racing)
+> Timing smiled on Gremlin with this licensed Formula 1 simulation, as Nigel's long quest for a championship had finally come good. The game was pitched somewhere in between a full-blown simulation like F1 GP and action games like Continental Circus. Only 12 cars were in each race, which could last from between 3 and 20 laps.  Before each race you can customize wing downforce, gear ratio, tyre selection and fuel load choices – pitstops are a standard feature of the longer races. The 16-bit versions include a unique 'Improve With Mansell' mode, in which a digitized version of Nigel's head appears in the top corner of the screen, offering instructions and praise.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Nigel_Mansell's_World_Championship_Racing) · [IGDB](https://www.igdb.com/games/nigel-mansells-world-championship-racing)
 
 ---
 
@@ -1824,17 +2306,29 @@
 
 ### Pinball Dreams
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2ggl.jpg" alt="Pinball Dreams cover" width="200">
+
 **Platforms:** Amiga, Atari ST, MS-DOS, Game Boy, Game Gear, macOS, Super Nintendo Entertainment System &nbsp;|&nbsp; **Developer:** Digital Illusions &nbsp;|&nbsp; **Publisher:** 21st Century Entertainment, GameTek &nbsp;|&nbsp; **Genre:** Pinball
 
-[Wikipedia](https://en.wikipedia.org/wiki/Pinball_Dreams)
+> DICE’s first game was built by five friends from the Amiga demo group The Silents in their spare time. What started out as a demo idea soon became a full-fledged pinball simulation published by 21st Century Entertainment with the Amiga as the primary platform. Pinball Dreams captivated gamers and quickly became a cult hit.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Pinball_Dreams) · [IGDB](https://www.igdb.com/games/pinball-dreams)
 
 ---
 
 ### Pinball Fantasies
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2ggk.jpg" alt="Pinball Fantasies cover" width="200">
+
 **Platforms:** Amiga, Amiga CD32, Atari Jaguar, Game Boy, Linux, Mobile phone, Windows, MS-DOS, macOS, Super Nintendo Entertainment System &nbsp;|&nbsp; **Developer:** Digital Illusions, FrontLine Design, Spidersoft, Binary 9 Studios &nbsp;|&nbsp; **Publisher:** 21st Century Entertainment, GameTek, Playtronic, 21st Century Entertainment, Computer West &nbsp;|&nbsp; **Genre:** Pinball &nbsp;|&nbsp; **Released:** October 1992
 
-[Wikipedia](https://en.wikipedia.org/wiki/Pinball_Fantasies)
+> After the success of Pinball Dreams on several systems, a sequel featuring four new tables was created. The gameplay is much the same as the first game, with realistic physics, multi-player options and a high score table to aim for. The tables are Partyland, Speed Devils, Billion Dollar Gameshow and Stones 'n' Bones, taking in a funfair, racing cars, a tacky game-show, and a graveyard. Each one has a range of ramps, combos, light sequences and targets to shoot, as well as general themes which are less influenced by real tables than those in Pinball Dreams.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Pinball_Fantasies) · [IGDB](https://www.igdb.com/games/pinball-fantasies)
 
 ---
 
@@ -1880,9 +2374,15 @@
 
 ### Spiritual Warfare
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co6ovu.jpg" alt="Spiritual Warfare cover" width="200">
+
 **Platforms:** Nintendo Entertainment System, Genesis / Mega Drive, Game Boy, MS-DOS, Windows, macOS, Linux &nbsp;|&nbsp; **Developer:** Wisdom Tree &nbsp;|&nbsp; **Publisher:** Wisdom Tree, Piko Interactive &nbsp;|&nbsp; **Genre:** Adventure/Christian
 
-[Wikipedia](https://en.wikipedia.org/wiki/Spiritual_Warfare_(video_game))
+> A Legend of Zelda inspired game in which the player guides a character who converts non-believers, fights demons, and ultimately goes up against Satan himself.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Spiritual_Warfare_(video_game)) · [IGDB](https://www.igdb.com/games/spiritual-warfare)
 
 ---
 
@@ -1916,9 +2416,15 @@
 
 ### Super Hunchback
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co42no.jpg" alt="Super Hunchback cover" width="200">
+
 **Platforms:** Game Boy, Windows &nbsp;|&nbsp; **Developer:** Ocean Software &nbsp;|&nbsp; **Publisher:** Ocean Software, Imagineer &nbsp;|&nbsp; **Genre:** Platform &nbsp;|&nbsp; **Released:** April 1992
 
-[Wikipedia](https://en.wikipedia.org/wiki/Super_Hunchback)
+> Quasimodo straps on his trusty hump one last time to rescue his paramour, the perpetually-imperiled Esmeralda, this time captured by a new villain, the horrible Halfenpounder.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Super_Hunchback) · [IGDB](https://www.igdb.com/games/super-hunchback--1)
 
 ---
 
@@ -1930,9 +2436,15 @@
 
 ### Swamp Thing
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co5otu.jpg" alt="Swamp Thing cover" width="200">
+
 **Platforms:** Nintendo Entertainment System, Game Boy &nbsp;|&nbsp; **Developer:** Imagineering, Equilibrium &nbsp;|&nbsp; **Publisher:** Toy Headquarters &nbsp;|&nbsp; **Genre:** Platform &nbsp;|&nbsp; **Released:** December 1992
 
-[Wikipedia](https://en.wikipedia.org/wiki/Swamp_Thing_(video_game))
+> Swamp Thing is a platform video game for the NES and Game Boy. It is based on the animated series of the same name, focusing on the DC Comics superhero character Swamp Thing.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Swamp_Thing_(video_game)) · [IGDB](https://www.igdb.com/games/swamp-thing)
 
 ---
 
@@ -1946,49 +2458,85 @@
 
 ### The Addams Family: Pugsley's Scavenger Hunt
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co288m.jpg" alt="The Addams Family: Pugsley's Scavenger Hunt cover" width="200">
+
 **Platforms:** Super Nintendo Entertainment System, Game Boy, Nintendo Entertainment System &nbsp;|&nbsp; **Developer:** Ocean, Enigma Variations &nbsp;|&nbsp; **Publisher:** Ocean &nbsp;|&nbsp; **Genre:** Platform
 
-[Wikipedia](https://en.wikipedia.org/wiki/The_Addams_Family:_Pugsley's_Scavenger_Hunt)
+> The Addams Family: Pugsley's Scavenger Hunt is a video game featuring The Addams Family characters from the 1992 animated series.  The game is a side scrolling platformer adventure game that plays in a very similar way to the previous Addams Family title. The game plays in a non-linear way in so much that the player can choose which level to attempt by entering whichever door they choose in the Addams house.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/The_Addams_Family:_Pugsley's_Scavenger_Hunt) · [IGDB](https://www.igdb.com/games/the-addams-family-pugsley-s-scavenger-hunt)
 
 ---
 
 ### The Adventures of Rocky and Bullwinkle and Friends
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co3082.jpg" alt="The Adventures of Rocky and Bullwinkle and Friends cover" width="200">
+
 **Platforms:** Game Boy, Nintendo Entertainment System, Super Nintendo Entertainment System, Genesis / Mega Drive &nbsp;|&nbsp; **Developer:** Imagineering, Radical Entertainment &nbsp;|&nbsp; **Publisher:** T•HQ Software, Absolute Entertainment &nbsp;|&nbsp; **Genre:** Platform &nbsp;|&nbsp; **Released:** October 1992
 
-[Wikipedia](https://en.wikipedia.org/wiki/The_Adventures_of_Rocky_and_Bullwinkle_and_Friends_(video_game))
+> The Adventures of Rocky and Bullwinkle and Friends was a game released for the Nintendo Entertainment System based after the famous Rocky and Bullwinkle show. It was a platform game that took the player through seven different levels, as well as a number of mini-games.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/The_Adventures_of_Rocky_and_Bullwinkle_and_Friends_(video_game)) · [IGDB](https://www.igdb.com/games/the-adventures-of-rocky-and-bullwinkle-and-friends)
 
 ---
 
 ### The Humans
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co60wt.jpg" alt="The Humans cover" width="200">
+
 **Platforms:** Amiga, Amiga CD32, Atari ST, Atari Jaguar, Atari Lynx, Game Boy, MS-DOS, Genesis / Mega Drive, Super Nintendo Entertainment System &nbsp;|&nbsp; **Developer:** Imagitec Design &nbsp;|&nbsp; **Publisher:** Mirage Technologies, Piko Interactive &nbsp;|&nbsp; **Genre:** Puzzle-platform &nbsp;|&nbsp; **Released:** May 1992
 
-[Wikipedia](https://en.wikipedia.org/wiki/The_Humans_(video_game))
+> The gameplay of The Humans has similarities to Lode Runner and Lemmings. Your job in this action puzzler is to help prehistoric man to evolve by helping them discover tools, the wheel, weapons, or even fire. Each level in the game will have a given task to help in this, and you are allotted a number of characters who must accomplish the task. The player can switch from person to person while moving the characters around each scrolling puzzle, and teamwork is essential to success.  Tasks can include finding objects (like a spear) on the screen, or trying to reach a specific destination which may require the use of objects you have discovered so far. Each level has a time limit, when time runs out the level can be restarted.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/The_Humans_(video_game)) · [IGDB](https://www.igdb.com/games/the-humans)
 
 ---
 
 ### The Incredible Crash Dummies
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co8el0.jpg" alt="The Incredible Crash Dummies cover" width="200">
+
 **Platforms:** Amiga, Game Boy, Game Gear &nbsp;|&nbsp; **Developer:** Gray Matter, Software Creations, Teeny Weeny Games &nbsp;|&nbsp; **Publisher:** Acclaim Entertainment &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** November 1992
 
-[Wikipedia](https://en.wikipedia.org/wiki/The_Incredible_Crash_Dummies_(video_game))
+> At a time when computer games were being blamed for violence, bad language, epilepsy and everything else the 'moral majority' needed a scapegoat for, Virgin gave us: The Road Safety Game. Or not, as this is a standard platform game with a twist of questionable taste and purpose.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/The_Incredible_Crash_Dummies_(video_game)) · [IGDB](https://www.igdb.com/games/the-incredible-crash-dummies)
 
 ---
 
 ### The Simpsons: Bart vs. The Juggernauts
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co496h.jpg" alt="The Simpsons: Bart vs. The Juggernauts cover" width="200">
+
 **Platforms:** Game Boy &nbsp;|&nbsp; **Developer:** Imagineering &nbsp;|&nbsp; **Publisher:** Acclaim Entertainment &nbsp;|&nbsp; **Genre:** Action, platform &nbsp;|&nbsp; **Released:** September 1992
 
-[Wikipedia](https://en.wikipedia.org/wiki/The_Simpsons:_Bart_vs._The_Juggernauts)
+> The Simpsons: Bart vs. The Juggernauts is both a Simpsons game and a parody of the "American Gladiators" style TV shows that were popular in the early 90's. Gameplay is basically series of mini-games that vaguely mimic other sports such as skateboarding, wrestling, and basketball.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/The_Simpsons:_Bart_vs._The_Juggernauts) · [IGDB](https://www.igdb.com/games/the-simpsons-bart-vs-the-juggernauts)
 
 ---
 
 ### The Sword of Hope II
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co9icz.jpg" alt="The Sword of Hope II cover" width="200">
+
 **Platforms:** Game Boy &nbsp;|&nbsp; **Developer:** Kemco &nbsp;|&nbsp; **Publisher:** Kemco &nbsp;|&nbsp; **Genre:** Role-playing video game &nbsp;|&nbsp; **Released:** September 4, 1992
 
-[Wikipedia](https://en.wikipedia.org/wiki/The_Sword_of_Hope_II)
+> The Sword of Hope II is a role-playing game. Take on the role of young Prince Theo of Riccar and embark on a mission to find the truth behind a mystery that is threatening the kingdom. The key to solving the numerous puzzles and gimmicks is the use of commands like "look," "open" and "hit." You'll encounter many places and items during the adventure, plus some friends waiting to lend a hand along the way.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/The_Sword_of_Hope_II) · [IGDB](https://www.igdb.com/games/the-sword-of-hope-ii)
 
 ---
 
@@ -2000,9 +2548,15 @@
 
 ### Trip World
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co3xra.jpg" alt="Trip World cover" width="200">
+
 **Platforms:** Game Boy &nbsp;|&nbsp; **Developer:** Sunsoft &nbsp;|&nbsp; **Publisher:** Sunsoft &nbsp;|&nbsp; **Genre:** Platform &nbsp;|&nbsp; **Released:** November 27, 1992
 
-[Wikipedia](https://en.wikipedia.org/wiki/Trip_World)
+> In Trip World, you play as a strange creature called Yakopoo, who has to recover his tribe's stolen flower to prevent the villagers from fighting each other.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Trip_World) · [IGDB](https://www.igdb.com/games/trip-world)
 
 ---
 
@@ -2014,33 +2568,57 @@
 
 ### Wave Race
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co7kqi.jpg" alt="Wave Race cover" width="200">
+
 **Platforms:** Game Boy &nbsp;|&nbsp; **Developer:** Nintendo EAD, Pax Softnica &nbsp;|&nbsp; **Publisher:** Nintendo &nbsp;|&nbsp; **Genre:** Racing &nbsp;|&nbsp; **Released:** July 1992
 
-[Wikipedia](https://en.wikipedia.org/wiki/Wave_Race)
+> Jump aboard your Personal Water Craft and hit the waves! Pick one of three versatile PWC's - the nimble 550cc, the speedy 650cc, or the high-powered 800cc National Class racer. Splash your way through 8 tracks in the racing circuit, or compete in 8 different breakneck slalom courses. Watch the spray fly as you leave your opponents swamped in your wake! Save your quickest lap and course times. Race to top your fastest speed, or challenge up to three of your friends with the Four Player Adapter and pour on the power!
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Wave_Race) · [IGDB](https://www.igdb.com/games/wave-race)
 
 ---
 
 ### WWF Superstars 2
 
-**Platforms:** Game Boy &nbsp;|&nbsp; **Developer:** Sculptured Software &nbsp;|&nbsp; **Publisher:** Acclaim Entertainment &nbsp;|&nbsp; **Released:** August 1992
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co988t.jpg" alt="WWF Superstars 2 cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/WWF_Superstars_2)
+**Platforms:** Game Boy &nbsp;|&nbsp; **Developer:** Sculptured Software &nbsp;|&nbsp; **Publisher:** Acclaim Entertainment &nbsp;|&nbsp; **Genre:** Fighting, Sport &nbsp;|&nbsp; **Released:** August 1992
+
+> Crunching clotheslines, devastating dropkicks, backbreaking body slams steps through the ropes for all-new WWF action. Match your skills against 6 of the toughest WWF Superstars- in the air, in the ring or inside the steel cage! Use Game Link to lack up with a friend for the ultimate WWF wrestling challenge.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/WWF_Superstars_2) · [IGDB](https://www.igdb.com/games/wwf-superstars-2)
 
 ---
 
 ### X
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co988r.jpg" alt="X cover" width="200">
+
 **Platforms:** Game Boy &nbsp;|&nbsp; **Developer:** Nintendo R&D1, Argonaut Software &nbsp;|&nbsp; **Publisher:** Nintendo &nbsp;|&nbsp; **Genre:** Space combat simulation &nbsp;|&nbsp; **Released:** May 29, 1992
 
-[Wikipedia](https://en.wikipedia.org/wiki/X_(1992_video_game))
+> A first-person 3D shooter for the Game Boy.  The Western localization, Lunar Chase, was found eventually found in the Nintendo Gigaleak, but was never released officially.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/X_(1992_video_game)) · [IGDB](https://www.igdb.com/games/x)
 
 ---
 
 ### Yoshi's Cookie
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co5yff.jpg" alt="Yoshi's Cookie cover" width="200">
+
 **Platforms:** Nintendo Entertainment System, Game Boy &nbsp;|&nbsp; **Developer:** Tose, Bullet-Proof Software &nbsp;|&nbsp; **Publisher:** Nintendo, Bullet-Proof Software &nbsp;|&nbsp; **Genre:** Puzzle &nbsp;|&nbsp; **Released:** November 21, 1992
 
-[Wikipedia](https://en.wikipedia.org/wiki/Yoshi's_Cookie)
+> Yoshi's Cookie is a puzzle game similar to Tetris, in which the player is given a playing field populated with cookies of five various types arranged in a rectangular grid. The player moves randomly placed cookies into rows and columns of cookies with similar patterns. When a row or column of the same cookies is successfully assembled, the line will disappear, and the player can begin to work on a new row or column. The main objective of each level is to clear the playing field of all the cookies.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Yoshi's_Cookie) · [IGDB](https://www.igdb.com/games/yoshis-cookie)
 
 ---
 
@@ -2050,41 +2628,71 @@
 
 ### Aerostar
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co4hh7.jpg" alt="Aerostar cover" width="200">
+
 **Platforms:** Game Boy &nbsp;|&nbsp; **Developer:** Sigma Pro-Tech &nbsp;|&nbsp; **Publisher:** Vic Tokai &nbsp;|&nbsp; **Genre:** Shoot 'em ups &nbsp;|&nbsp; **Released:** June 28, 1991
 
-[Wikipedia](https://en.wikipedia.org/wiki/Aerostar_(video_game))
+> After the end of the Sixth World War, the Earth has been rendered inhospitable and uninhabitable by humanity. The Intergalactic Council ruled that Earth could once again be used by humans and sent people there to restore civilization there. Meanwhile, mutants have prospered in the long-lost wastelands of Earth and were unwilling to allow the humans to have it again. The Intergalactic Council has sent in a lone fighter called Aerostar to defend the Earth from a second act of total destruction.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Aerostar_(video_game)) · [IGDB](https://www.igdb.com/games/aerostar)
 
 ---
 
 ### Altered Space
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co9gtm.jpg" alt="Altered Space cover" width="200">
+
 **Platforms:** Game Boy &nbsp;|&nbsp; **Developer:** Software Creations &nbsp;|&nbsp; **Publisher:** Sony Imagesoft, Epic/Sony Records, Hi Tech Expressions &nbsp;|&nbsp; **Genre:** Puzzle, Adventure &nbsp;|&nbsp; **Released:** September 1991
 
-[Wikipedia](https://en.wikipedia.org/wiki/Altered_Space)
+> The player is an astronaut trapped on an alien spaceship who has to try to find his way out while avoiding aliens and continually replenishing his oxygen supply. This was the first isometric view game on the Game Boy
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Altered_Space) · [IGDB](https://www.igdb.com/games/altered-space)
 
 ---
 
 ### Amazing Tater
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co9gtv.jpg" alt="Amazing Tater cover" width="200">
+
 **Platforms:** Game Boy &nbsp;|&nbsp; **Developer:** Atlus &nbsp;|&nbsp; **Publisher:** Atlus &nbsp;|&nbsp; **Genre:** Puzzle &nbsp;|&nbsp; **Released:** August 2, 1991
 
-[Wikipedia](https://en.wikipedia.org/wiki/Amazing_Tater)
+> This puzzle-game is the successor to Kwirk. The player has to guide a small potato to the exit of each level, which is made difficult by a number of obstacles. Crates have to be pushed out of the way or into holes to make them traversable. Difficulty is increased by the fact that there are crates and holes of several different shapes and sizes and many levels contain different types of spinning doors.  The game features four different modes of play: Beginners Mode in which the basics are explained and the player receives hints on how to solve each level; Practice Mode that lets the player choose the size of the levels which are then randomly picked; Puzzle Mode in which the player has to complete 40 levels and receives a score depending on the time it took him to complete a level; and finally Action Mode, which is basically a story mode containing two stories. The game also features a password system and four different difficulty levels.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Amazing_Tater) · [IGDB](https://www.igdb.com/games/amazing-tater)
 
 ---
 
 ### Aretha II
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co5pb6.jpg" alt="Aretha II cover" width="200">
+
 **Platforms:** Game Boy &nbsp;|&nbsp; **Developer:** Japan Art Media &nbsp;|&nbsp; **Publisher:** Yanoman &nbsp;|&nbsp; **Genre:** Role-playing game &nbsp;|&nbsp; **Released:** September 27, 1991
 
-[Wikipedia](https://en.wikipedia.org/wiki/Aretha_II)
+> Aretha II is a Role-Playing game, developed by Japan Art Media and published by Yanoman, which was released in Japan in 1991.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Aretha_II) · [IGDB](https://www.igdb.com/games/aretha-ii)
 
 ---
 
 ### Asmik-kun World 2
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co9gyn.jpg" alt="Asmik-kun World 2 cover" width="200">
+
 **Platforms:** Game Boy &nbsp;|&nbsp; **Developer:** Cyclone System &nbsp;|&nbsp; **Publisher:** Asmik Ace Entertainment &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** May 24, 1991
 
-[Wikipedia](https://en.wikipedia.org/wiki/Asmik-kun_World_2)
+> Asmik-kun World 2 (アスミッくん ワールド 2 Asumikkun Wārudo 2) is a Game Boy video game by Asmik, copyrighted in 1991.Unlike its predecessor, Boomer's Adventure in ASMIK World (Teke! Teke! Asmik-kun World), this game was never released outside Japan. Like its predecessor, the game is an excellent example of the trap-em-up genre, which also includes games like Heiankyo Alien and Space Panic.  In the game, Asmik-kun has to build a "road" from the entrance to the exit in each level. An enemy has come to kidnap the children on a certain world and the "roads" are intended for the children to be rescued and escorted safely back home.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Asmik-kun_World_2) · [IGDB](https://www.igdb.com/games/asmik-kun-world-2)
 
 ---
 
@@ -2104,25 +2712,43 @@
 
 ### Battletoads
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co5agp.jpg" alt="Battletoads cover" width="200">
+
 **Platforms:** Game Boy &nbsp;|&nbsp; **Developer:** Rare &nbsp;|&nbsp; **Publisher:** Tradewest, Nintendo, Masaya &nbsp;|&nbsp; **Genre:** Action Beat 'em up &nbsp;|&nbsp; **Released:** November 1991
 
-[Wikipedia](https://en.wikipedia.org/wiki/Battletoads_(Game_Boy_video_game))
+> Battletoads for the Game Boy (not to be confused with Battletoads in Ragnarok's World, which is a port of the NES game) is the second game in the Battletoads series.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Battletoads_(Game_Boy_video_game)) · [IGDB](https://www.igdb.com/games/battletoads--3)
 
 ---
 
 ### Bill & Ted's Excellent Game Boy Adventure: A Bogus Journey!
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co6aro.jpg" alt="Bill & Ted's Excellent Game Boy Adventure: A Bogus Journey! cover" width="200">
+
 **Platforms:** Game Boy &nbsp;|&nbsp; **Developer:** Beam Software &nbsp;|&nbsp; **Publisher:** Acclaim Entertainment &nbsp;|&nbsp; **Genre:** Action, puzzle &nbsp;|&nbsp; **Released:** October 1991
 
-[Wikipedia](https://en.wikipedia.org/wiki/Bill_&_Ted's_Excellent_Game_Boy_Adventure:_A_Bogus_Journey!)
+> Bill & Ted navigate through time in this platformer
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Bill_&_Ted's_Excellent_Game_Boy_Adventure:_A_Bogus_Journey!) · [IGDB](https://www.igdb.com/games/bill-and-teds-excellent-game-boy-adventure-a-bogus-journey)
 
 ---
 
 ### Blaster Master Boy
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co5fuf.jpg" alt="Blaster Master Boy cover" width="200">
+
 **Platforms:** Game Boy &nbsp;|&nbsp; **Developer:** Aicom &nbsp;|&nbsp; **Publisher:** Sunsoft &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** August 23, 1991
 
-[Wikipedia](https://en.wikipedia.org/wiki/Blaster_Master_Boy)
+> Blaster Master Jr., known as Blaster Master Boy in North America and Bomber King: Scenario 2 (ボンバーキング シナリオ2?) in Japan, is an action video game developed by Aicom and published by Sunsoft. The game was released in 1991 for Game Boy. The game is a sequel to Robowarrior, a spin-off title in the Bomberman series by Hudson Soft. However, the game was marketed in western territories as a game in the Blaster Master series by Sunsoft.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Blaster_Master_Boy) · [IGDB](https://www.igdb.com/games/blaster-master-boy)
 
 ---
 
@@ -2156,17 +2782,29 @@
 
 ### Cave Noire
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co4ibz.jpg" alt="Cave Noire cover" width="200">
+
 **Platforms:** Game Boy &nbsp;|&nbsp; **Developer:** Konami &nbsp;|&nbsp; **Publisher:** Konami &nbsp;|&nbsp; **Genre:** Roguelike, role-playing &nbsp;|&nbsp; **Released:** April 19, 1991
 
-[Wikipedia](https://en.wikipedia.org/wiki/Cave_Noire)
+> Cave Noire is a roguelike video game revolving around four quests: killing monsters, freeing fairies, or collecting gold/orbs with ten difficulties each. Starting a quest creates a randomly generated dungeon where the player has one chance to reach the goal – death means a new dungeon has to be created. The difficulty determines how big the target number is, the stats the player starts with, and what monsters are encountered.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Cave_Noire) · [IGDB](https://www.igdb.com/games/cave-noire)
 
 ---
 
 ### Choplifter II
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co9h0v.jpg" alt="Choplifter II cover" width="200">
+
 **Platforms:** Game Boy &nbsp;|&nbsp; **Developer:** Beam Software &nbsp;|&nbsp; **Publisher:** Victor Musical Industries, JVC Musical Industries &nbsp;|&nbsp; **Genre:** Scrolling shooter
 
-[Wikipedia](https://en.wikipedia.org/wiki/Choplifter_II)
+> The gameplay revolves around piloting a rescue helicopter into hostile territory and rescuing hostages. Enemies like birds, fighter jets, and even ammunition fired from various weapons can harm the player's helicopter. Saving more hostages than the scenario requires will allow players to collect extra points. However, losing a lot of hostage will lead to a loss of continues; regardles of how many lives the player has during that time. This is to simulate a mission failure and/or becoming a SNAFU.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Choplifter_II) · [IGDB](https://www.igdb.com/games/choplifter-ii-rescue-survive)
 
 ---
 
@@ -2194,9 +2832,15 @@
 
 ### Exodus: Journey to the Promised Land
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co28j2.jpg" alt="Exodus: Journey to the Promised Land cover" width="200">
+
 **Platforms:** Nintendo Entertainment System, Genesis / Mega Drive, Game Boy, MS-DOS &nbsp;|&nbsp; **Developer:** Color Dreams &nbsp;|&nbsp; **Publisher:** Wisdom Tree &nbsp;|&nbsp; **Genre:** Puzzle/Christian
 
-[Wikipedia](https://en.wikipedia.org/wiki/Exodus:_Journey_to_the_Promised_Land)
+> Exodus: Journey to the Promised Land is an unlicensed NES game made by Wisdom Tree in 1991. According to the game's instruction manual, the player controls the biblical figure Moses as he leads the Israelites to the promised land. Moses has the ability to shoot glowing "W's", which signify the word of God, to defeat enemies and remove obstacles. To finish each level, Moses must acquire five question marks as well as a certain amount of manna while avoiding enemies such as magicians and soldiers. After a level is completed, the player must answer five bible-related questions before advancing to the next level. Exodus, like many Wisdom Tree games, is a rehashed version of a Color Dreams game, in this case Crystal Mines.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Exodus:_Journey_to_the_Promised_Land) · [IGDB](https://www.igdb.com/games/exodus-journey-to-the-promised-land)
 
 ---
 
@@ -2244,17 +2888,29 @@
 
 ### Game Boy Wars
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co7kxz.jpg" alt="Game Boy Wars cover" width="200">
+
 **Platforms:** Game Boy &nbsp;|&nbsp; **Developer:** Nintendo R&D1, Intelligent Systems &nbsp;|&nbsp; **Publisher:** Nintendo &nbsp;|&nbsp; **Genre:** Turn-based strategy &nbsp;|&nbsp; **Released:** May 21, 1991
 
-[Wikipedia](https://en.wikipedia.org/wiki/Game_Boy_Wars)
+> A turn-based tactics game for Game Boy; it is the second game in the Nintendo Wars franchise.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Game_Boy_Wars) · [IGDB](https://www.igdb.com/games/game-boy-wars)
 
 ---
 
 ### Ganbare Goemon: Sarawareta Ebisumaru!
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/coamp1.jpg" alt="Ganbare Goemon: Sarawareta Ebisumaru! cover" width="200">
+
 **Platforms:** Game Boy &nbsp;|&nbsp; **Developer:** Konami &nbsp;|&nbsp; **Publisher:** Konami &nbsp;|&nbsp; **Genre:** Platformer &nbsp;|&nbsp; **Released:** December 25, 1991
 
-[Wikipedia](https://en.wikipedia.org/wiki/Ganbare_Goemon:_Sarawareta_Ebisumaru!)
+> Originally released as Ganbare Goemon: Sarawareta Ebisumaru!, it is a Game Boy game released in 1991 and the first game in the Goemon series ever released for a portable system.  Gameplay is similar to Ganbare Goemon! Karakuri Douchuu which was released on the Famicom. Only Goemon is playable, and the game consists of him rescuing Ebisumaru; Sasuke and Yae do not make appearances.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Ganbare_Goemon:_Sarawareta_Ebisumaru!) · [IGDB](https://www.igdb.com/games/ganbare-goemon-sarawareta-ebisumaru)
 
 ---
 
@@ -2288,9 +2944,15 @@
 
 ### James Pond 2
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co84wq.jpg" alt="James Pond 2 cover" width="200">
+
 **Platforms:** Amiga, Atari ST, Genesis / Mega Drive, Commodore 64, Acorn Archimedes, MS-DOS, Game Gear, Game Boy, Sega Master System, Super Nintendo Entertainment System &nbsp;|&nbsp; **Developer:** Vectordean, Intellectual Software Consultants Limited &nbsp;|&nbsp; **Publisher:** Millennium Interactive, Electronic Arts, U.S. Gold, Play It &nbsp;|&nbsp; **Genre:** Platform
 
-[Wikipedia](https://en.wikipedia.org/wiki/James_Pond_2)
+> In his second adventure James Pond must retrieve the toys Dr Maybe has stolen. Pond has been armed with an Inspector Gadget-style stretch device, which he can use to view higher areas or claw onto ceilings so as to slide across them.  The gameplay takes place across worlds themed around particular types of toys, such as sporting goods, candy and aircraft. The levels scroll sideways, although a small amount of vertical movement is included. On each level Pond must collect 2 penguins and reach the exit, although there are usually multiple exits and lots of secret areas to explore. After completing each pair of two worlds (each of which has three sub levels), a boss must be faced.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/James_Pond_2) · [IGDB](https://www.igdb.com/games/james-pond-2-codename-robocod)
 
 ---
 
@@ -2346,9 +3008,15 @@
 
 ### Megalit
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co9hkp.jpg" alt="Megalit cover" width="200">
+
 **Platforms:** Game Boy &nbsp;|&nbsp; **Developer:** ASCII Corporation &nbsp;|&nbsp; **Publisher:** Takara, Asmik Ace Entertainment &nbsp;|&nbsp; **Genre:** Strategy/Puzzle &nbsp;|&nbsp; **Released:** August 9, 1991
 
-[Wikipedia](https://en.wikipedia.org/wiki/Megalit)
+> When a wicked witch decides to rule the world with the power of her magic jewels, her terrifying plot leads her to kidnap elves, princesses, and even fairies. You're the brave warrior who's decided to save all the captured innocents, but the witch gets wind of your plan and turns you to stone. Now, your efforts turn to breaking the spell, which is going to require cracking the ancient puzzle of Megalit. If the princesses and magical beings stand any chance of making it out of the witch's clutches, you'd better solve the code quickly.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Megalit) · [IGDB](https://www.igdb.com/games/megalit)
 
 ---
 
@@ -2368,9 +3036,15 @@
 
 ### Mickey's Dangerous Chase
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co52p6.jpg" alt="Mickey's Dangerous Chase cover" width="200">
+
 **Platforms:** Game Boy &nbsp;|&nbsp; **Developer:** Now Production &nbsp;|&nbsp; **Publisher:** Capcom, Kemco, Nintendo &nbsp;|&nbsp; **Genre:** Platform &nbsp;|&nbsp; **Released:** May 1991
 
-[Wikipedia](https://en.wikipedia.org/wiki/Mickey's_Dangerous_Chase)
+> Mickey Goes After a Missing Present and the Culprit Who Swiped It!  Who's got Minnie's missing present? Big Bad Pete is the culprit! He swiped Minnie's present and spoiled the surprise. Now Mickey's after him, and the chase leads through some very dangerous places. Mickey meets barking bulldogs, slippery weasels, hairy tarantulas, and even worse critters. Tricks, traps, and collapsing escape routes make Mickey scurry. He scampers through his Hometown, into the Woods and up the Mountain. He chases Pete through a Factory and up to the Rooftops for a final showdown. Can you help Mickey stop Pete and get the missing present back? Better hurry!  -Mickey throws boxes at the bad guys while grabbing Stars and Prizes.  -A speedboat, jalopy, and bouquet of balloons add high fun to Mickey's chase.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Mickey's_Dangerous_Chase) · [IGDB](https://www.igdb.com/games/mickeys-dangerous-chase)
 
 ---
 
@@ -2398,9 +3072,15 @@
 
 ### Mysterium
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co9hqg.jpg" alt="Mysterium cover" width="200">
+
 **Platforms:** Game Boy &nbsp;|&nbsp; **Developer:** Maxis Software &nbsp;|&nbsp; **Publisher:** Asmik Ace Entertainment &nbsp;|&nbsp; **Genre:** Role-playing &nbsp;|&nbsp; **Released:** July 1991
 
-[Wikipedia](https://en.wikipedia.org/wiki/Mysterium_(video_game))
+> You have come to the famous alchemist Hermetrix and been accepted as his apprentice. He has sent you to be tested in the Mysterium, a three-dimensional maze of hallways. You must combine metals and minerals in pools of mercury, water, fire and acid to create any item you need.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Mysterium_(video_game)) · [IGDB](https://www.igdb.com/games/mysterium--1)
 
 ---
 
@@ -2414,25 +3094,43 @@
 
 ### Ninja Boy 2
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co4wor.jpg" alt="Ninja Boy 2 cover" width="200">
+
 **Platforms:** Game Boy &nbsp;|&nbsp; **Developer:** Culture Brain &nbsp;|&nbsp; **Publisher:** Culture Brain &nbsp;|&nbsp; **Genre:** Action RPG &nbsp;|&nbsp; **Released:** November 29, 1991
 
-[Wikipedia](https://en.wikipedia.org/wiki/Ninja_Boy_2)
+> Ninja Boy 2 is an Action game, developed and published by Culture Brain, which was released in Japan in 1991.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Ninja_Boy_2) · [IGDB](https://www.igdb.com/games/ninja-boy-2)
 
 ---
 
 ### Ninja Gaiden Shadow
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co404u.jpg" alt="Ninja Gaiden Shadow cover" width="200">
+
 **Platforms:** Game Boy &nbsp;|&nbsp; **Developer:** Natsume Co., Ltd. &nbsp;|&nbsp; **Publisher:** Tecmo &nbsp;|&nbsp; **Genre:** Platform, hack and slash &nbsp;|&nbsp; **Released:** December 13, 1991
 
-[Wikipedia](https://en.wikipedia.org/wiki/Ninja_Gaiden_Shadow)
+> When a madman threatens to take over the entire world, our beloved hero Ryu must travel the globe to get to New York. Once he gets there, there are hazards and enemies hiding in each and every nook and cranny. If you think the "Big Apple" is dangerous in real life, you'll be amazed at the depths of evil employed by the big-city villains in this escapade. You'll have to hack, slash, and kick your way through the streets and all the way to one of the most dangerous bosses in videogame history. Another installment in the ongoing Ninja Gaiden series, Ninja Gaiden Shadow boasts intense graphics, a great storyline, and smooth gameplay. The world could really use a hero, and if you've got the skills and know-how, you could be it.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Ninja_Gaiden_Shadow) · [IGDB](https://www.igdb.com/games/ninja-gaiden-shadow)
 
 ---
 
 ### Ninja Taro
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co9hrv.jpg" alt="Ninja Taro cover" width="200">
+
 **Platforms:** Game Boy &nbsp;|&nbsp; **Developer:** NMK &nbsp;|&nbsp; **Publisher:** UPL, American Sammy &nbsp;|&nbsp; **Genre:** Action-adventure &nbsp;|&nbsp; **Released:** March 8, 1991
 
-[Wikipedia](https://en.wikipedia.org/wiki/Ninja_Taro)
+> High Adventure in the Far East It's the era of feudal war in Japan. One Shogun struggles to unite the provinces, but he needs help. His villainous arch-rival is rumored to be dead, but a merciless legion of anarcy continues to plague the countryside. If he is dead, then who could be leading th evil forces which prevent Japan from attaining peace and order?  This chaos must be stopped! From the ranks of the Phantom sect to the Shogun's aid comes Ninja Taro. With the cunning of a thief, the skill of a master, and a legendary sword, he must venture forth to tame the minions of evil, and unravel the riddle that will unite the empire!
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Ninja_Taro) · [IGDB](https://www.igdb.com/games/ninja-taro)
 
 ---
 
@@ -2452,81 +3150,141 @@
 
 ### Parasol Stars
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co75af.jpg" alt="Parasol Stars cover" width="200">
+
 **Platforms:** PC Engine, Game Boy &nbsp;|&nbsp; **Developer:** Taito &nbsp;|&nbsp; **Publisher:** Taito, Working Designs, Ocean Software &nbsp;|&nbsp; **Genre:** Platform &nbsp;|&nbsp; **Released:** February 15, 1991
 
-[Wikipedia](https://en.wikipedia.org/wiki/Parasol_Stars)
+> Break out the bandages and get ready for some finger-searing action! Join Bubby on his latest quest to save the universe, this time with a Magic Umbrella. Umbrella!? Yes, Umbrella! This powerful parasol puts the elements themselves at your command! Shock the tonnage out of the whales with Lightning! Fry the feathers off the crazed, beady-eyed birds with Fire! Or, drown the demented dinosaurs with a tidal wave of Raindrops! Need help? Your buddy Bobby is always nearby. Have a friend plug into your TurboTap and blast into two player simultaneous play. Be prepared for a quest that will take you to eight amazing planets, forcing you to uncover the secret that will unleash the Parasol Stars!  Parasol Stars is the third game in the Bubble Bobble franchise (and is often labeled "Parasol Stars: The Story Bubble Bobble III"), as well as a semi-official sequel to the second Bubble Bobble spin-off, Rainbow Island.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Parasol_Stars) · [IGDB](https://www.igdb.com/games/parasol-stars-the-story-of-bubble-bobble-iii)
 
 ---
 
 ### Popeye 2
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co727c.jpg" alt="Popeye 2 cover" width="200">
+
 **Platforms:** Game Boy &nbsp;|&nbsp; **Developer:** Copya System &nbsp;|&nbsp; **Publisher:** Sigma Enterprises, Activision &nbsp;|&nbsp; **Genre:** Platform &nbsp;|&nbsp; **Released:** November 22, 1991
 
-[Wikipedia](https://en.wikipedia.org/wiki/Popeye_2)
+> Popeye 2 is a 1991 2D platform game, developed by Copya System and published by Sigma Enterprises for the Game Boy handheld. It is a sequel to Popeye, released exclusively in Japan in 1990.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Popeye_2) · [IGDB](https://www.igdb.com/games/popeye-2)
 
 ---
 
 ### Racing Damashii
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co6xnk.jpg" alt="Racing Damashii cover" width="200">
+
 **Platforms:** Game Boy, PC Engine &nbsp;|&nbsp; **Developer:** Irem &nbsp;|&nbsp; **Publisher:** Irem &nbsp;|&nbsp; **Genre:** Arcade motorcycle racing &nbsp;|&nbsp; **Released:** February 28, 1991
 
-[Wikipedia](https://en.wikipedia.org/wiki/Racing_Damashii)
+> Racing Damashii is a motorcycle racing video game released in 1991 exclusively in Japan. The game features tracks all over Japan.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Racing_Damashii) · [IGDB](https://www.igdb.com/games/racing-damashii)
 
 ---
 
 ### Ray-Thunder
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co9i1q.jpg" alt="Ray-Thunder cover" width="200">
+
 **Platforms:** Game Boy &nbsp;|&nbsp; **Publisher:** Nichibutsu &nbsp;|&nbsp; **Genre:** First-person shooter &nbsp;|&nbsp; **Released:** February 8, 1991
 
-[Wikipedia](https://en.wikipedia.org/wiki/Ray-Thunder)
+> Japan-exclusive game. Released in 1991 for the Game Boy.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Ray-Thunder) · [IGDB](https://www.igdb.com/games/ray-thunder)
 
 ---
 
 ### Robin Hood: Prince of Thieves
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2z63.jpg" alt="Robin Hood: Prince of Thieves cover" width="200">
+
 **Platforms:** Nintendo Entertainment System, Game Boy &nbsp;|&nbsp; **Developer:** Sculptured Software, Bits Studios &nbsp;|&nbsp; **Publisher:** Virgin Games, Mindscape &nbsp;|&nbsp; **Genre:** Action-adventure &nbsp;|&nbsp; **Released:** November 1991
 
-[Wikipedia](https://en.wikipedia.org/wiki/Robin_Hood:_Prince_of_Thieves_(video_game))
+> England is in turmoil! While King Richard the Lion-Hearted is off fighting the Crusades in Jerusalem, the relentlessly greedy Sheriff of Nottingham rises to power by running roughshod over the poor folk of Britain. Now you are Robin Hood: Prince of Thieves, the only man with enough cunning, agility and courage to combat the Sheriff and his evil witch, Mortianna. First, you must battle cutthroat guards and escape the Saracen dungeon where you, your friend, Peter Dubois, and your new companion, the mysterious, but loyal, Azeem, are held prisoners of the Crusades. Back in England, you'll explore the treacherous Sherwood Forest where you'll muster your band: Little John, Friar Tuck and Will Scarlett. But remember, they will only follow you if you prove yourself worthy enough to lead them, rescue the lovely Maid Marian and free England from tyranny.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Robin_Hood:_Prince_of_Thieves_(video_game)) · [IGDB](https://www.igdb.com/games/robin-hood-prince-of-thieves)
 
 ---
 
 ### Roger Clemens' MVP Baseball
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co3c32.jpg" alt="Roger Clemens' MVP Baseball cover" width="200">
+
 **Platforms:** Nintendo Entertainment System, Super Nintendo Entertainment System, Genesis / Mega Drive, Game Boy &nbsp;|&nbsp; **Developer:** Sculptured Software &nbsp;|&nbsp; **Publisher:** Acclaim Entertainment, LJN, Flying Edge &nbsp;|&nbsp; **Genre:** Traditional baseball simulation
 
-[Wikipedia](https://en.wikipedia.org/wiki/Roger_Clemens'_MVP_Baseball)
+> Join one of the most dominant pitchers in baseball history for Roger Clemens' MVP Baseball. While the game does not come with the license of Major League Baseball or the MLBPA, there are still 26 similar teams with rosters resembling those of their actual MLB counterparts, including 1991 statistics. Though player names could not be used, the fictional ones make it apparent who each player represents. For instance, you can strike out one of Oakland's Bash brothers (M. Bash or J. Bash) with Texas' R. Nolan or hit a home run with Detroit's C. Fieldman off of Chicago's M. Gaddox.  The gameplay of Roger Clemens differs from that of most NES baseball games. Though the batting scenes may resemble those typified by R.B.I. Baseball and Major League Baseball, the view switches to what one might see from the outfield stands once the ball is hit. This results in different controls from most baseball games as well.  A player can challenge a friend or the computer, and one-player games may be exhibition or part of a 33-game season, complete with playoffs once the season is complete. In order to help make your season a successful one, Roger Clemens himself is there to offer advice.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Roger_Clemens'_MVP_Baseball) · [IGDB](https://www.igdb.com/games/roger-clemens-mvp-baseball)
 
 ---
 
 ### Skate or Die: Tour de Thrash
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co9i91.jpg" alt="Skate or Die: Tour de Thrash cover" width="200">
+
 **Platforms:** Game Boy &nbsp;|&nbsp; **Developer:** Realtime Associates &nbsp;|&nbsp; **Publisher:** Electronic Arts &nbsp;|&nbsp; **Genre:** Alternative sports &nbsp;|&nbsp; **Released:** June 1991
 
-[Wikipedia](https://en.wikipedia.org/wiki/Skate_or_Die:_Tour_de_Thrash)
+> Skate Or Die: Tour de Thrash is a Sports game, developed by Realtime Associates and published by EA Sports, which was released in 1991.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Skate_or_Die:_Tour_de_Thrash) · [IGDB](https://www.igdb.com/games/skate-or-die-tour-de-thrash)
 
 ---
 
 ### Soccer
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co9hen.jpg" alt="Soccer cover" width="200">
+
 **Platforms:** Game Boy &nbsp;|&nbsp; **Developer:** Tose &nbsp;|&nbsp; **Publisher:** Tonkin House, Bandai &nbsp;|&nbsp; **Genre:** Traditional soccer simulation &nbsp;|&nbsp; **Released:** June 7, 1991
 
-[Wikipedia](https://en.wikipedia.org/wiki/Soccer_(1991_video_game))
+> Football International is a top-down soccer game with eight national teams to choose from. The player can either participate in an exhibition match or in a knockout championship. Other options which can be set is the time a half-time lasts and if the own team uses a more defensive or offensive lineup. The game itself consists of the usual dribbling, passing and shooting. Normally the camera closely follows the ball carrier, but when a wide shot is performed it zooms out and shows the whole playfield.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Soccer_(1991_video_game)) · [IGDB](https://www.igdb.com/games/football-international)
 
 ---
 
 ### Spanky's Quest
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co39sh.jpg" alt="Spanky's Quest cover" width="200">
+
 **Platforms:** Game Boy, Super Nintendo Entertainment System &nbsp;|&nbsp; **Developer:** Natsume &nbsp;|&nbsp; **Genre:** Puzzle-platform &nbsp;|&nbsp; **Released:** April 26, 1991
 
-[Wikipedia](https://en.wikipedia.org/wiki/Spanky's_Quest)
+> Wicked witch turns fruits into monsters, Mopoland Population famished!  Welcome to Mopoland, where the evil witch Morticia has cast an evil spell and turned all the fruits of the mighty kingdom into fiendish monsters. Spanky, our primate hero is on a quest. Armed with his magic ball, Spanky must hunt down Morticia through six grueling levels to liberate Mopoland, and save it’s citizens from a certain famine.  -Fun, playful characters. -Password continue feature. -Unique traps and bonus rooms. -Fantasy/Adventure for the entire family.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Spanky's_Quest) · [IGDB](https://www.igdb.com/games/spankys-quest)
 
 ---
 
 ### Spud's Adventure
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co9ia4.jpg" alt="Spud's Adventure cover" width="200">
+
 **Platforms:** Game Boy &nbsp;|&nbsp; **Developer:** Atlus Co. &nbsp;|&nbsp; **Publisher:** Atlus &nbsp;|&nbsp; **Genre:** Role-playing video game, action &nbsp;|&nbsp; **Released:** January 25, 1991
 
-[Wikipedia](https://en.wikipedia.org/wiki/Spud's_Adventure)
+> Spud's Adventure is an Action game, developed and published by Atlus, which was released in 1991.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Spud's_Adventure) · [IGDB](https://www.igdb.com/games/spuds-adventure)
 
 ---
 
@@ -2540,17 +3298,29 @@
 
 ### Super R.C. Pro-Am
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2wgf.jpg" alt="Super R.C. Pro-Am cover" width="200">
+
 **Platforms:** Game Boy &nbsp;|&nbsp; **Developer:** Rare &nbsp;|&nbsp; **Publisher:** Nintendo &nbsp;|&nbsp; **Genre:** Racing &nbsp;|&nbsp; **Released:** June 1991
 
-[Wikipedia](https://en.wikipedia.org/wiki/Super_R.C._Pro-Am)
+> Super R.C. Pro-Am is a racing video game that is similar to its predecessor, R.C. Pro-Am, for the NES. In the game, players race remote control cars on a series of tracks. It can be played solo, with two-players via the Game Link Cable, or with three or four players via the Four Player Adapter. The game features 24 different tracks of increasing difficulty, and the object is to finish in the top three in order to qualify to race in the next track. Players who do not finish in the top three may use a continue and retry the track; players get three continues, and the game ends when the player fails to finish in the top three and has no continues remaining. Each track is different and range from standard ovals to tracks with many twists and turns. The game includes many obstacles, such as oil slicks that send players spinning, puddles of water that cause players to slide out of control, sand traps and "slow cones" that slow players down, large cones that bring players to a complete halt, and walls of tires that players bounce off. If a player hits an oil slick and then hits a wall while spinning, the player's car is temporarily destroyed, which loses time. The tracks also has items that help players along the way: "zippers" (a series of chevrons on the track) give players a speed boost, roll cages allow players to hit walls without being destroyed and allow them to crash opponents by forcing them into walls, and missiles and bombs temporarily destroy opponents' cars. Also on the track are spare parts which help improve performance—tires improve traction, batteries increase acceleration, and engines improve speed. Players have the opportunity to upgrade their vehicles by collecting letters, which are distributed throughout the tracks. By spelling "Nintendo" with the letters, players upgrade to a better vehicle; players can upgrade from the "Racer" to the "Speed demon" and then to the Spiker, each of which performs progressively better than the previous vehicle. If players spell "Nintendo" while racing with the Spiker, then they win the game.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Super_R.C._Pro-Am) · [IGDB](https://www.igdb.com/games/super-rc-pro-am)
 
 ---
 
 ### Tail 'Gator
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co5jg3.jpg" alt="Tail 'Gator cover" width="200">
+
 **Platforms:** Game Boy &nbsp;|&nbsp; **Developer:** Natsume &nbsp;|&nbsp; **Publisher:** VAP, Natsume &nbsp;|&nbsp; **Genre:** Action-adventure
 
-[Wikipedia](https://en.wikipedia.org/wiki/Tail_'Gator)
+> Tail 'Gator is an Action game, developed and published by Natsume, which was released in 1991.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Tail_'Gator) · [IGDB](https://www.igdb.com/games/tail-gator)
 
 ---
 
@@ -2578,9 +3348,15 @@
 
 ### The Adventures of Star Saver
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co4hh6.jpg" alt="The Adventures of Star Saver cover" width="200">
+
 **Platforms:** Game Boy &nbsp;|&nbsp; **Developer:** A-Wave &nbsp;|&nbsp; **Publisher:** King Records, Taito &nbsp;|&nbsp; **Genre:** Platform &nbsp;|&nbsp; **Released:** May 17, 1991
 
-[Wikipedia](https://en.wikipedia.org/wiki/The_Adventures_of_Star_Saver)
+> A police officer named Tony and his sister are forced to go inside an unidentified flying object by a group of aliens who are planning to invade the galaxy. They are later exiled to a distant planet after refusing to engage in espionage for their side.  Tony finds himself stranded on a strange planet where nothing is familiar (and without his sister). However, a mech that has a vast knowledge of telepathic skills saves him and empowers Tony with the ability to take on the aliens' army. This machine becomes an important ally in the battle to save Tony's sister and stop the extraterrestrial invasion before it's too late. The game forces players to fight strange aliens across the galaxy. Players collect power-ups while in the mech but loses it after a single hit. The game includes some surreal enemies like a typical dog and some music notes.  In the Japanese game, you play as the girl trying to save your brother. In the international version, you play as the boy instead, trying to save your sister.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/The_Adventures_of_Star_Saver) · [IGDB](https://www.igdb.com/games/the-adventures-of-star-saver)
 
 ---
 
@@ -2594,9 +3370,15 @@
 
 ### The Flash
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co3k5a.jpg" alt="The Flash cover" width="200">
+
 **Platforms:** Sega Master System, Game Boy &nbsp;|&nbsp; **Developer:** Probe Software, Equilibrium &nbsp;|&nbsp; **Publisher:** Sega, THQ &nbsp;|&nbsp; **Genre:** Action
 
-[Wikipedia](https://en.wikipedia.org/wiki/The_Flash_(video_game))
+> The Flash is a game for the Game Boy, based on the 1990 television series of the same name. It was produced by THQ and released in the US in 1991.  The box art for the game features John Wesley Shipp as The Flash, a man with the ability to run "faster than a speeding bullet." In daily life, The Flash becomes is a Crime Lab technician named Barry Allen.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/The_Flash_(video_game)) · [IGDB](https://www.igdb.com/games/the-flash--1)
 
 ---
 
@@ -2610,17 +3392,29 @@
 
 ### The Little Mermaid
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co1vyv.jpg" alt="The Little Mermaid cover" width="200">
+
 **Platforms:** Nintendo Entertainment System, Game Boy &nbsp;|&nbsp; **Developer:** Capcom &nbsp;|&nbsp; **Publisher:** Capcom &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** July 19, 1991
 
-[Wikipedia](https://en.wikipedia.org/wiki/The_Little_Mermaid_(video_game))
+> In this version of Disney's The Little Mermaid you play as Ariel the mermaid.  Ariel has already met Eric, and they plan to wed, but the sea-witch Ursala has taken control of the ocean! So Ariel (After explaining what's going on to Eric) becomes a mermaid once more and sets off to rescue the sea.  The game takes place from a side view and Ariel (Swimming most of the time, but hopping around on the land occasionally) can shoot bubbles to trap her foes and can then throw them at each other. She can also dig through sand to find treasure and pick up sea shells to help her break chests open.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/The_Little_Mermaid_(video_game)) · [IGDB](https://www.igdb.com/games/disneys-the-little-mermaid--1)
 
 ---
 
 ### The Punisher: The Ultimate Payback!
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2dsx.jpg" alt="The Punisher: The Ultimate Payback! cover" width="200">
+
 **Platforms:** Game Boy &nbsp;|&nbsp; **Developer:** Beam Software &nbsp;|&nbsp; **Publisher:** Acclaim Entertainment &nbsp;|&nbsp; **Genre:** Shoot 'em up &nbsp;|&nbsp; **Released:** July 1991
 
-[Wikipedia](https://en.wikipedia.org/wiki/The_Punisher:_The_Ultimate_Payback!)
+> The Punisher: The Ultimate Payback is an Action game, developed by Beam Software and published by Acclaim, which was released in 1991.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/The_Punisher:_The_Ultimate_Payback!) · [IGDB](https://www.igdb.com/games/the-punisher-the-ultimate-payback)
 
 ---
 
@@ -2634,9 +3428,15 @@
 
 ### Tip Off
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co9s1b.jpg" alt="Tip Off cover" width="200">
+
 **Platforms:** Amiga, Atari 2600, Game Boy &nbsp;|&nbsp; **Developer:** Anco Software &nbsp;|&nbsp; **Publisher:** Imagineer &nbsp;|&nbsp; **Genre:** Sports game
 
-[Wikipedia](https://en.wikipedia.org/wiki/Tip_Off)
+> A basketball game from Anco Software.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Tip_Off) · [IGDB](https://www.igdb.com/games/tip-off)
 
 ---
 
@@ -2650,33 +3450,57 @@
 
 ### Track Meet
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co9idn.jpg" alt="Track Meet cover" width="200">
+
 **Platforms:** Game Boy &nbsp;|&nbsp; **Developer:** Interplay Productions &nbsp;|&nbsp; **Publisher:** Interplay Productions, Hiro &nbsp;|&nbsp; **Genre:** Olympic sports
 
-[Wikipedia](https://en.wikipedia.org/wiki/Track_Meet)
+> Track Meet is a Sports game, developed and published by Interplay, which was released in 1991.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Track_Meet) · [IGDB](https://www.igdb.com/games/track-meet)
 
 ---
 
 ### Trax
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co4erg.jpg" alt="Trax cover" width="200">
+
 **Platforms:** Game Boy &nbsp;|&nbsp; **Developer:** HAL Laboratory &nbsp;|&nbsp; **Publisher:** HAL Laboratory, Electro Brain &nbsp;|&nbsp; **Genre:** Shooter &nbsp;|&nbsp; **Released:** January 8, 1991
 
-[Wikipedia](https://en.wikipedia.org/wiki/Trax_(video_game))
+> Tank shooting game in which the goal is to defeat different enemies and bosses with various different weapons.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Trax_(video_game)) · [IGDB](https://www.igdb.com/games/trax)
 
 ---
 
 ### Ultima: Runes of Virtue
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co505r.jpg" alt="Ultima: Runes of Virtue cover" width="200">
+
 **Platforms:** Game Boy &nbsp;|&nbsp; **Developer:** Origin Systems &nbsp;|&nbsp; **Publisher:** Pony Canyon, FCI &nbsp;|&nbsp; **Genre:** Role-playing &nbsp;|&nbsp; **Released:** December 14, 1991
 
-[Wikipedia](https://en.wikipedia.org/wiki/Ultima:_Runes_of_Virtue)
+> Ultima: Runes of Virtue is a Role-Playing game, developed by Origin and published by Pony Canyon, which was released in 1992.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Ultima:_Runes_of_Virtue) · [IGDB](https://www.igdb.com/games/ultima-runes-of-virtue)
 
 ---
 
 ### Ultra Golf
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co9ie1.jpg" alt="Ultra Golf cover" width="200">
+
 **Platforms:** Game Boy &nbsp;|&nbsp; **Developer:** Konami &nbsp;|&nbsp; **Publisher:** Konami, Ultra Games &nbsp;|&nbsp; **Genre:** Sports &nbsp;|&nbsp; **Released:** November 1, 1991
 
-[Wikipedia](https://en.wikipedia.org/wiki/Ultra_Golf)
+> Ultra Golf is a Sports game, developed and published by Konami, which was released in 1992.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Ultra_Golf) · [IGDB](https://www.igdb.com/games/ultra-golf)
 
 ---
 
@@ -2690,25 +3514,43 @@
 
 ### Who Framed Roger Rabbit
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co53b1.jpg" alt="Who Framed Roger Rabbit cover" width="200">
+
 **Platforms:** Game Boy &nbsp;|&nbsp; **Developer:** Capcom &nbsp;|&nbsp; **Publisher:** Capcom &nbsp;|&nbsp; **Genre:** Adventure &nbsp;|&nbsp; **Released:** November 1991
 
-[Wikipedia](https://en.wikipedia.org/wiki/Who_Framed_Roger_Rabbit_(1991_video_game))
+> Roger is summoned by Marvin to his factory to take his deed and get his will from Jessica Rabbit to save Toontown from the greedy Judge Doom. Immediately after, Marvin is sniped through his office window and killed. As Roger meets Jessica she is kidnapped by both Doom's weasel henchmen. Roger gets help from Eddie Valiant. Through his investigation Roger faces Stupid, Greasy, Psycho, and Smarty weasels and finally makes it to Doom's mansion. He makes it past the complex and confront Doom, defeating him and destroying his Dip Machine.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Who_Framed_Roger_Rabbit_(1991_video_game)) · [IGDB](https://www.igdb.com/games/who-framed-roger-rabbit--2)
 
 ---
 
 ### Wordtris
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co5r6u.jpg" alt="Wordtris cover" width="200">
+
 **Platforms:** MS-DOS, Game Boy, macOS, Super Nintendo Entertainment System &nbsp;|&nbsp; **Developer:** Armenica, Realtime Associates &nbsp;|&nbsp; **Publisher:** Spectrum HoloByte &nbsp;|&nbsp; **Genre:** Puzzle
 
-[Wikipedia](https://en.wikipedia.org/wiki/Wordtris)
+> In the spirit of Tetris comes Wordtris. Falling letters must be placed in order to form words in order to clear them away. Occasionally bombs will fall which you may use to clear away a single letter or an entire stack of them, depending on the type of bomb. The larger the words you form, the higher points you receive. If you clear enough words without filling up the screen, you move on to the next level.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Wordtris) · [IGDB](https://www.igdb.com/games/wordtris)
 
 ---
 
 ### WWF Superstars
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co53e3.jpg" alt="WWF Superstars cover" width="200">
+
 **Platforms:** Game Boy &nbsp;|&nbsp; **Developer:** Rare &nbsp;|&nbsp; **Publisher:** LJN &nbsp;|&nbsp; **Genre:** Wrestling &nbsp;|&nbsp; **Released:** April 1991
 
-[Wikipedia](https://en.wikipedia.org/wiki/WWF_Superstars_(handheld_video_game))
+> WWF Superstars is a licensed wrestling game. Players can choose between five WWF superstars: Ultimate Warrior, Hulk Hogan, Macho King Randy Savage, Mr. Perfect and the Million Dollar Man to take on opponents in the ring.  There are many moves that can be executed by all the wrestlers: body slam, suplex, clothes line, and others. In addition, there are signature moves unique to each superstar. Two players can compete against each other via the Game Boy Gamelink.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/WWF_Superstars_(handheld_video_game)) · [IGDB](https://www.igdb.com/games/wwf-superstars--1)
 
 ---
 
@@ -2732,33 +3574,57 @@
 
 ### After Burst
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co9gtc.jpg" alt="After Burst cover" width="200">
+
 **Platforms:** Game Boy &nbsp;|&nbsp; **Developer:** Dual &nbsp;|&nbsp; **Publisher:** NCS &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** October 26, 1990
 
-[Wikipedia](https://en.wikipedia.org/wiki/After_Burst)
+> Players must control a combat robot as they make their way towards their ultimate goal: destroying the enemy orb. Each level only has one screen to blast hostile robots, solve challenging platforms, and manipulate a series of short puzzles.  30 stages await players as they look forward to a boss battle on every tenth stage. A weapon is available; its gunfire can be altered by changing the angle of the gun. Even the distance of the shot can be changed by holding down the button for extended periods of time.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/After_Burst) · [IGDB](https://www.igdb.com/games/after-burst)
 
 ---
 
 ### Amazing Penguin
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co7h5t.jpg" alt="Amazing Penguin cover" width="200">
+
 **Platforms:** Game Boy &nbsp;|&nbsp; **Developer:** Natsume &nbsp;|&nbsp; **Publisher:** Natsume &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** August 8, 1990
 
-[Wikipedia](https://en.wikipedia.org/wiki/Amazing_Penguin)
+> The hunt is on in this exciting action-maze game! Join Pendrich, the Prince of the Penguins as he battles the enchanted armies of Borbon The Great.  Attack with mighty kicks that blast the enemies across the screen. Clear the panels of each land to progress to the next level. It takes timing and strategy to win back the land from Borbon's invaders!
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Amazing_Penguin) · [IGDB](https://www.igdb.com/games/amazing-penguin)
 
 ---
 
 ### Aretha
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/coct9u.jpg" alt="Aretha cover" width="200">
+
 **Platforms:** Game Boy &nbsp;|&nbsp; **Developer:** Japan Art Media &nbsp;|&nbsp; **Publisher:** Yanoman &nbsp;|&nbsp; **Genre:** Role-playing game &nbsp;|&nbsp; **Released:** November 16, 1990
 
-[Wikipedia](https://en.wikipedia.org/wiki/Aretha_(video_game))
+> Aretha is a top-down fantasy RPG in the Aretha trilogy, developed by Japan Art Media and published by Yanoman. It was only released in Japan.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Aretha_(video_game)) · [IGDB](https://www.igdb.com/games/aretha--1)
 
 ---
 
 ### Astro Rabby
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co7pm0.jpg" alt="Astro Rabby cover" width="200">
+
 **Platforms:** Game Boy &nbsp;|&nbsp; **Developer:** Cyclone System &nbsp;|&nbsp; **Publisher:** IGS &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** October 12, 1990
 
-[Wikipedia](https://en.wikipedia.org/wiki/Astro_Rabby)
+> Astro Rabby is an action video game developed by Cyclone System and published by Information Global Service (IGS) for the original Game Boy exclusively in Japan on October 12, 1990. It is the first Game Boy title to be published by that company.  The game puts you in control a of Rabby, a robotic bunny, who's goal is to recover stolen parts for his creator, Doc, that were taken by the Dortoise Troops. Doc's dream is to utilize the parts to allow Rabby to fly freely. The game is a top-down, vertically scrolling action game that can be considered a precursor to the Jumping Flash series. The player must jump along platforms in search of a heart, which will allow the player to upgrade Rabby and proceed on to the next level. A level will loop indefinitely until the heart is found.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Astro_Rabby) · [IGDB](https://www.igdb.com/games/astro-rabby)
 
 ---
 
@@ -2778,9 +3644,15 @@
 
 ### Ayakashi no Shiro
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co9gyl.jpg" alt="Ayakashi no Shiro cover" width="200">
+
 **Platforms:** Game Boy &nbsp;|&nbsp; **Genre:** Role-playing &nbsp;|&nbsp; **Released:** May 25, 1990
 
-[Wikipedia](https://en.wikipedia.org/wiki/Ayakashi_no_Shiro)
+> Ayakashi no Shiro is a Role-Playing game, published by Seta Corporation, which was released in Japan in 1990.  Ayakashi no Shiro is a turn-based dungeon crawl. Players move the protagonist through first-person dungeons where randomly occurring battles happen. When combat begins, the player is given several options through a menu system to fight the enemies.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Ayakashi_no_Shiro) · [IGDB](https://www.igdb.com/games/ayakashi-no-shiro)
 
 ---
 
@@ -2808,41 +3680,71 @@
 
 ### Battle Bull
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co9gyr.jpg" alt="Battle Bull cover" width="200">
+
 **Platforms:** Game Boy &nbsp;|&nbsp; **Developer:** Jorudan &nbsp;|&nbsp; **Publisher:** SETA Corporation &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** November 30, 1990
 
-[Wikipedia](https://en.wikipedia.org/wiki/Battle_Bull)
+> The player controls a driver of an excavation vehicle as he competes in a 48-level tournament of drilling things.  Players have to kill rival drivers only by pushing huge stones at them. Most of the other stones are a permanent part of the underground cavern; while others can be used to eliminate the opponents. Money is earned after each level for the purpose of upgrading the player's vehicle. Players can improve their engines, purchase extra lives, shovels that can dig better, and weapons to improve the odds on the playing field. A kill ratio is required to be met in order to reach the next stage. Otherwise, the player remains in the current level.  After finishing all 48 levels, the game proclaims that the "battle is over" and that the player becomes "the new champion." The final scene in the game is where the player looks over the sunset with his girlfriend along with the closing credits.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Battle_Bull) · [IGDB](https://www.igdb.com/games/battle-bull)
 
 ---
 
 ### Battle Pingpong
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/edim8ibmvnif4gmjmqhj.jpg" alt="Battle Pingpong cover" width="200">
+
 **Platforms:** Game Boy &nbsp;|&nbsp; **Developer:** Quest &nbsp;|&nbsp; **Publisher:** Quest &nbsp;|&nbsp; **Genre:** Sports game &nbsp;|&nbsp; **Released:** August 31, 1990
 
-[Wikipedia](https://en.wikipedia.org/wiki/Battle_Pingpong)
+> Battle Ping-Pong is a Game Boy game revolving around ping-pong (or table tennis as it is generically called). One person on either side of a small table with a net return a ball back and forth in a rally until the ball is either dead in play or bounces off the table.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Battle_Pingpong) · [IGDB](https://www.igdb.com/games/battle-pingpong)
 
 ---
 
 ### Battle Unit Zeoth
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/cococm.jpg" alt="Battle Unit Zeoth cover" width="200">
+
 **Platforms:** Game Boy &nbsp;|&nbsp; **Developer:** Jaleco Entertainment &nbsp;|&nbsp; **Publisher:** Jaleco Entertainment &nbsp;|&nbsp; **Genre:** Scrolling shooter &nbsp;|&nbsp; **Released:** December 21, 1990
 
-[Wikipedia](https://en.wikipedia.org/wiki/Battle_Unit_Zeoth)
+> Battle Unit Zeoth is a 2D futuristic side-scrolling shooter. Player controls Zeoth who can move to the right and shoot enemies. The odd-numbered stages are horizontal scrolling stages and the even-numbered stages are a simple "platform" stages. Each stage ends in a boss fight. Zeoth can fly with a jetpack (but the player must tap a button to resist gravity) and can fire in four directions (right, left, down and up). The basic weapons can be improved. The mech can take some damage before being destroyed and has just one life, however, there are unlimited continues.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Battle_Unit_Zeoth) · [IGDB](https://www.igdb.com/games/battle-unit-zeoth)
 
 ---
 
 ### Boxing
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co9hg6.jpg" alt="Boxing cover" width="200">
+
 **Platforms:** Game Boy &nbsp;|&nbsp; **Developer:** Tose &nbsp;|&nbsp; **Publisher:** Tonkin House, Activision &nbsp;|&nbsp; **Genre:** Fighting, sports &nbsp;|&nbsp; **Released:** May 18, 1990
 
-[Wikipedia](https://en.wikipedia.org/wiki/Boxing_(1990_video_game))
+> Once the player chooses a boxer, the other challengers must be defeated in order to gain the title. Points can be distributed and re-distributed on the fighter's health meter, stamina, and how fast he moves around in the ring. Either uppercuts or normal punches can be used to wear down the opponent in the game.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Boxing_(1990_video_game)) · [IGDB](https://www.igdb.com/games/heavyweight-championship-boxing)
 
 ---
 
 ### Boxxle II
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co9gzu.jpg" alt="Boxxle II cover" width="200">
+
 **Platforms:** Game Boy &nbsp;|&nbsp; **Developer:** Atelier Double Co. &nbsp;|&nbsp; **Publisher:** Pony Canyon, FCI &nbsp;|&nbsp; **Genre:** Puzzle &nbsp;|&nbsp; **Released:** June 22, 1990
 
-[Wikipedia](https://en.wikipedia.org/wiki/Boxxle_II)
+> Boxxle 2 is a puzzle game in which you have to push crates from point A to point B without getting them stuck.  The player must maneuver boxes in a warehouse in order to make enough money to woo his desired girlfriend.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Boxxle_II) · [IGDB](https://www.igdb.com/games/boxxle-ii)
 
 ---
 
@@ -2884,41 +3786,71 @@
 
 ### Cosmo Tank
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co8321.jpg" alt="Cosmo Tank cover" width="200">
+
 **Platforms:** Game Boy &nbsp;|&nbsp; **Developer:** Atlus &nbsp;|&nbsp; **Publisher:** Atlus &nbsp;|&nbsp; **Genre:** Shoot 'em up &nbsp;|&nbsp; **Released:** June 8, 1990
 
-[Wikipedia](https://en.wikipedia.org/wiki/Cosmo_Tank)
+> The player controls an armoured fighting vehicle from either a first-person perspective or a third-person perspective; depending on the level design. All games begin on a planet's surface with an overhead view. When the player enters a tunnel, the view switches to first-person. After destroying the Life Core inside a tunnel, the player travels to a new planet through a vertically scrolling stage.  Cosmo Tank has three modes. In quest mode, the object of the game is to destroy Alien Life Cores on five planets to free them from Master Insect. Players can earn experience levels in the quest mode by defeating enemies. The maximum amount of experience points that a player can earn is 999; which allows players to reach the level cap of 6. In training mode, the player practices in a closed area and is given a ranking. In vs. mode, the Game Link Cable is used to allow two players to race to defeat the alien leader.  After either beating the game or acquiring a game over, the player is given a rank that shows how far he made it in the game along with his target score. The lowest rank in the game is a skull and crossbones (signifying a casualty on the battlefield).
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Cosmo_Tank) · [IGDB](https://www.igdb.com/games/cosmo-tank)
 
 ---
 
 ### Daedalian Opus
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co8hti.jpg" alt="Daedalian Opus cover" width="200">
+
 **Platforms:** Game Boy &nbsp;|&nbsp; **Developer:** Vic Tokai &nbsp;|&nbsp; **Publisher:** Vic Tokai &nbsp;|&nbsp; **Genre:** Puzzle
 
-[Wikipedia](https://en.wikipedia.org/wiki/Daedalian_Opus)
+> The game is essentially a series of 36 jigsaw puzzles with Tetris-like pieces known as pentominos that must be assembled into a specific shape. The puzzles start off with rectangular shapes and simple solutions, but the puzzles quickly grow more complex, with odder shapes like a rocket ship, a gun, and even enlarged versions of some of the pentominoes themselves. Each level is timed, and once the timer is started it cannot be stopped until the level is finished. One starts off the game with only three pentomino pieces, and at the completion of each early level, a new piece is awarded to the player. At the final level, the player is given the 2x2 square O tetromino and must complete an 8x8 square puzzle.  After completing each level, the player was given a password to access that level at a later time. Interestingly, each password was a common English four-letter word, so that by guessing common four-letter words, players could potentially access levels they had not actually reached by playing the game.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Daedalian_Opus) · [IGDB](https://www.igdb.com/games/daedalian-opus)
 
 ---
 
 ### Days of Thunder
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co6yv0.jpg" alt="Days of Thunder cover" width="200">
+
 **Platforms:** Amiga, Atari ST, Commodore 64, MS-DOS, Game Boy, Nintendo Entertainment System, ZX Spectrum &nbsp;|&nbsp; **Developer:** Beam Software, Creative Materials Ltd., Tiertex Design Studios, Argonaut Software &nbsp;|&nbsp; **Publisher:** Mindscape Group &nbsp;|&nbsp; **Genre:** Racing
 
-[Wikipedia](https://en.wikipedia.org/wiki/Days_of_Thunder_(1990_video_game))
+> A racing game lightly based on the film of the same name.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Days_of_Thunder_(1990_video_game)) · [IGDB](https://www.igdb.com/games/days-of-thunder)
 
 ---
 
 ### Dead Heat Scramble
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co9h2n.jpg" alt="Dead Heat Scramble cover" width="200">
+
 **Platforms:** Game Boy &nbsp;|&nbsp; **Developer:** Copya System &nbsp;|&nbsp; **Publisher:** Copya System, Electro Brain &nbsp;|&nbsp; **Genre:** Arcade racing &nbsp;|&nbsp; **Released:** April 20, 1990
 
-[Wikipedia](https://en.wikipedia.org/wiki/Dead_Heat_Scramble)
+> Players must choose between a dune buggy, a sand rail vehicle, and the incredible off-road truck. All races are strictly against the clock while the driver navigates through blockades on the road and other drivers that want to defeat the player. All of the ten courses must be unlocked in a linear fashion; all the races take place in a tube. Few power-ups exist in them game; including a chance to increase the player's nitro boost.  There are ten stages in the entire game. No penalties are given for bumping into the other drivers; unlike real life. Each course is in the shape of a half-pipe.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Dead_Heat_Scramble) · [IGDB](https://www.igdb.com/games/dead-heat-scramble)
 
 ---
 
 ### Dexterity
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co6eaz.jpg" alt="Dexterity cover" width="200">
+
 **Platforms:** Game Boy &nbsp;|&nbsp; **Developer:** SNK &nbsp;|&nbsp; **Publisher:** SNK &nbsp;|&nbsp; **Genre:** Puzzle &nbsp;|&nbsp; **Released:** June 15, 1990
 
-[Wikipedia](https://en.wikipedia.org/wiki/Dexterity_(video_game))
+> Dexterity, known as Funny Field in Japan, is a puzzle game by SNK that was released for the Game Boy in 1990. It is a game that consists of a square floor covered in seven rows and eight columns of tiles. The goal of the game is to flip all of the light tiles into dark tiles
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Dexterity_(video_game)) · [IGDB](https://www.igdb.com/games/dexterity)
 
 ---
 
@@ -2960,9 +3892,15 @@
 
 ### E-Motion
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/jidhscgjzrsgufypt6ja.jpg" alt="E-Motion cover" width="200">
+
 **Platforms:** Amiga, Amstrad CPC, Atari ST, Commodore 64, MS-DOS, ZX Spectrum, Game Boy &nbsp;|&nbsp; **Developer:** The Assembly Line, The Code Monkeys &nbsp;|&nbsp; **Publisher:** Accolade, U.S. Gold &nbsp;|&nbsp; **Genre:** Puzzle
 
-[Wikipedia](https://en.wikipedia.org/wiki/E-Motion)
+> A puzzle game for early computer platforms and later ported to the Game Boy.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/E-Motion) · [IGDB](https://www.igdb.com/games/e-motion)
 
 ---
 
@@ -2996,9 +3934,15 @@
 
 ### Go! Go! Tank
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co9hg0.jpg" alt="Go! Go! Tank cover" width="200">
+
 **Platforms:** Game Boy &nbsp;|&nbsp; **Developer:** Copya System &nbsp;|&nbsp; **Publisher:** Copya System, Electro Brain &nbsp;|&nbsp; **Genre:** Action, Strategy &nbsp;|&nbsp; **Released:** November 30, 1990
 
-[Wikipedia](https://en.wikipedia.org/wiki/Go!_Go!_Tank)
+> A peaceful nation has been invaded by an enemy army. It's up to you to conquer the army and save your nation!
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Go!_Go!_Tank) · [IGDB](https://www.igdb.com/games/go-go-tank)
 
 ---
 
@@ -3012,17 +3956,29 @@
 
 ### Gremlins 2: The New Batch
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co5be4.jpg" alt="Gremlins 2: The New Batch cover" width="200">
+
 **Platforms:** Nintendo Entertainment System, Game Boy, Amiga, Atari ST, Commodore 64, MS-DOS, MSX, Amstrad CPC, ZX Spectrum &nbsp;|&nbsp; **Developer:** Sunsoft, Riedel Software Productions, Motivetime, Topo Soft &nbsp;|&nbsp; **Publisher:** Sunsoft, Hi Tech Expressions, Elite Systems, Topo Soft &nbsp;|&nbsp; **Genre:** Platform &nbsp;|&nbsp; **Released:** October 1990
 
-[Wikipedia](https://en.wikipedia.org/wiki/Gremlins_2:_The_New_Batch_(video_game))
+> As Billy, you set off to rescue Gizmo the Gremlin from Clamp Tower skyscraper, where Dr. Catheter plans to viciously experiment with him. Unfortunately, Catheter gets word of your plans, and mixes up a whole new batch of vicious gremlins. As a result, your mission is now one of destruction and avoidance.  Elite's implementation of this is a five-level side-view action game, in which you run around avoiding or shooting the gremlins. Each level has a secret object which must be collected. Bonus items such as extra lives and time can be collected, as can improved weapons, and credits to spend on a new weapon after each level.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Gremlins_2:_The_New_Batch_(video_game)) · [IGDB](https://www.igdb.com/games/gremlins-2-the-new-batch)
 
 ---
 
 ### Hit the Ice
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co5z19.jpg" alt="Hit the Ice cover" width="200">
+
 **Platforms:** Arcade, Super Nintendo Entertainment System, Genesis / Mega Drive, Game Boy, PC Engine &nbsp;|&nbsp; **Developer:** Taito &nbsp;|&nbsp; **Publisher:** Taito, Williams Electronics &nbsp;|&nbsp; **Genre:** Sports &nbsp;|&nbsp; **Released:** December 1990
 
-[Wikipedia](https://en.wikipedia.org/wiki/Hit_the_Ice)
+> This radical hockey game pits you and your team against some of the toughest skaters ever to burn a hole in the ice! Victory goes to the team that kicks, punches, and high-sticks its opponent into slush. Standard hockey rules apply, plus a few surprises to stir things up. So lace on your skates and fasten your face mask - hockey is about to break loose!
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Hit_the_Ice) · [IGDB](https://www.igdb.com/games/hit-the-ice-the-video-hockey-league)
 
 ---
 
@@ -3050,33 +4006,57 @@
 
 ### Kwirk
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co9871.jpg" alt="Kwirk cover" width="200">
+
 **Platforms:** Game Boy, Nintendo Entertainment System, PC Engine &nbsp;|&nbsp; **Developer:** Atlus &nbsp;|&nbsp; **Publisher:** Atlus, Acclaim Entertainment, Nintendo &nbsp;|&nbsp; **Genre:** Puzzle
 
-[Wikipedia](https://en.wikipedia.org/wiki/Kwirk)
+> Kwirk has three game modes: Going Up?, Heading Out?, and Vs. Mode, each one with its own set of rules. The object is to get from one end of the room to the staircase on the other by rotating turnstiles, moving blocks, and filling holes with blocks.  Kwirk has three skill levels: Level 1 - Easy, Level 2 - Average and Level 3 - Hard. After, one of two viewpoints may be selected: Diagonal or Bird's Eye. In Diagonal view, characters and blocks have shadows and appear in crude 3D, whereas in Bird's Eye view everything is 2D, viewed from the top down. The three skill levels and two viewpoints are featured in all three game modes.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Kwirk) · [IGDB](https://www.igdb.com/games/kwirk)
 
 ---
 
 ### Loopz
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co3c9g.jpg" alt="Loopz cover" width="200">
+
 **Platforms:** Atari ST, Acorn Archimedes, Acorn Electron, Amiga, Amstrad CPC, BBC Micro, Commodore 64, MS-DOS, Game Boy, Atari Lynx, Nintendo Entertainment System, PC-9800 series, ZX Spectrum, Sharp X68000 &nbsp;|&nbsp; **Developer:** Audiogenic &nbsp;|&nbsp; **Publisher:** Mindscape &nbsp;|&nbsp; **Genre:** Puzzle
 
-[Wikipedia](https://en.wikipedia.org/wiki/Loopz)
+> Loopz is a puzzle video game originally designed and programmed by Ian Upton for the Atari ST in 1989. He previously worked as head game designer for Audiogenic, who acquired exclusive rights to the game, then in 1990 arranged for Mindscape to publish it for computers in North America and consoles worldwide.  The Nintendo Entertainment System version (programmed by Bits Studios) and the Game Boy version (programmed by Argonaut Software) were released in 1990. Audiogenic published versions of the original game for the Acorn Electron, BBC Micro, ZX Spectrum, Amstrad CPC, Commodore 64, Atari ST, Amiga, and IBM PC in 1990 and 1991.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Loopz) · [IGDB](https://www.igdb.com/games/loopz)
 
 ---
 
 ### Maru's Mission
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co9hkr.jpg" alt="Maru's Mission cover" width="200">
+
 **Platforms:** Game Boy &nbsp;|&nbsp; **Developer:** Tose &nbsp;|&nbsp; **Publisher:** Jaleco &nbsp;|&nbsp; **Genre:** Platform &nbsp;|&nbsp; **Released:** September 28, 1990
 
-[Wikipedia](https://en.wikipedia.org/wiki/Maru's_Mission)
+> The Master Traveler takes on the Monsters of the World.  Play as the ninja Maru in this action-packed side-scrolling game that will take you on a journey across the world. While Maru is out for a walk with his girlfriend Cori, an evil samurai named Muramasa suddenly appears and kidnaps her. In Maru's efforts to track her down and rescue her, he must face a number of mythological monsters while gaining new and powerful weapons in order to defeat them. Using the hints that are left behind by his enemies, Maru will follow a trail that will lead him across six different locations - including the bug-infested forests of America and the scorching deserts of Egypt. Help our hero on his mission as he fights to rescue Cori.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Maru's_Mission) · [IGDB](https://www.igdb.com/games/marus-mission)
 
 ---
 
 ### Mercenary Force
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co9hpp.jpg" alt="Mercenary Force cover" width="200">
+
 **Platforms:** Game Boy &nbsp;|&nbsp; **Publisher:** Meldac of America &nbsp;|&nbsp; **Genre:** Shoot 'em up &nbsp;|&nbsp; **Released:** April 27, 1990
 
-[Wikipedia](https://en.wikipedia.org/wiki/Mercenary_Force)
+> Over one hundred years ago during the mighty Shogun era, the Lord of Darkness sent his fearsome army to terrorize the Japanese countryside. Using the Dark Lord's powerful magic, his evil minions spread famine, plague, and pestilence wherever they went, leaving the peaceful population hopelessly oppressed. All who challenged the wicked Lord were mercilessly slain as a warning to all those who had any further thoughts of rebellion. Then one day while meditating, the great Shogun, Tokugawa, had a divine vision where he saw a small group of mighty warriors rise up to defeat the evil Lord. He immediately set out to recruit the five bravest and most skillful fighters in the land. After months of searching he was finally ready to put his dream into action. It was time to unleash the Mercenary Force.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Mercenary_Force) · [IGDB](https://www.igdb.com/games/mercenary-force)
 
 ---
 
@@ -3090,9 +4070,15 @@
 
 ### Navy SEALs
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/cocseb.jpg" alt="Navy SEALs cover" width="200">
+
 **Platforms:** Amstrad CPC, Amstrad GX4000, Commodore 64, Amiga, Atari ST, ZX Spectrum, Game Boy &nbsp;|&nbsp; **Developer:** Ocean Software &nbsp;|&nbsp; **Publisher:** Ocean Software &nbsp;|&nbsp; **Genre:** Platform, shoot 'em up
 
-[Wikipedia](https://en.wikipedia.org/wiki/Navy_SEALs_(video_game))
+> Navy SEALS is a shoot 'em up platform video game developed and published by Ocean Software. It was first released in the United Kingdom for the Amstrad CPC, Amstrad GX4000 and Commodore 64 in 1990. It was later re-released in the rest of Europe for the ZX Spectrum, Atari ST and Amiga home computers in the following year. It was then ported to the Game Boy on 1 September 1991 in the United States. The game is based on the film of the same name and follows the protagonist, Lieutenant Dale Hawkins, progressing through five side-scrolling levels. The game was developed by Ocean Software, in which they were renowned for creating video games related to their respective films. Navy SEALS focuses on Hawkins recovering caches of Stinger missiles from Arab soldiers in the Middle East. The game received positive reviews upon release, with critics mainly praising the graphics, presentation and challenging gameplay. However, criticism was directed at the ZX Spectrum port, which received disapproval over its monochrome graphics.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Navy_SEALs_(video_game)) · [IGDB](https://www.igdb.com/games/navy-seals)
 
 ---
 
@@ -3112,9 +4098,15 @@
 
 ### NES Play Action Football
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co6os5.jpg" alt="NES Play Action Football cover" width="200">
+
 **Platforms:** Nintendo Entertainment System, Game Boy &nbsp;|&nbsp; **Developer:** Tose &nbsp;|&nbsp; **Publisher:** Nintendo of America &nbsp;|&nbsp; **Genre:** Sports &nbsp;|&nbsp; **Released:** September 1990
 
-[Wikipedia](https://en.wikipedia.org/wiki/NES_Play_Action_Football)
+> Nintendo takes its game to the gridiron with NES Play Action Football. While Nintendo did not get the NFL license for this one, it did secure the license of the NFL Player's Association, so the 8 teams to choose from (all named after the appropriate NFL cities) are all stocked up with real pro players from the 1989 season. You can even substitute second-stringers for the "skill" positions (QB, RB, WR, TE, and FS/SS) when your starters get tired.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/NES_Play_Action_Football) · [IGDB](https://www.igdb.com/games/nes-play-action-football)
 
 ---
 
@@ -3134,41 +4126,71 @@
 
 ### Ninja Boy
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co9hru.jpg" alt="Ninja Boy cover" width="200">
+
 **Platforms:** Game Boy &nbsp;|&nbsp; **Developer:** Culture Brain &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** April 20, 1990
 
-[Wikipedia](https://en.wikipedia.org/wiki/Ninja_Boy)
+> Ninja Boy is an Action game, developed and published by Culture Brain, which was released in Japan in 1990
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Ninja_Boy) · [IGDB](https://www.igdb.com/games/ninja-boy)
 
 ---
 
 ### Painter Momopie
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co7edn.jpg" alt="Painter Momopie cover" width="200">
+
 **Platforms:** Game Boy &nbsp;|&nbsp; **Developer:** Sigma Enterprises &nbsp;|&nbsp; **Publisher:** Sigma Enterprises &nbsp;|&nbsp; **Genre:** Maze &nbsp;|&nbsp; **Released:** December 7, 1990
 
-[Wikipedia](https://en.wikipedia.org/wiki/Painter_Momopie)
+> Painter Momopie has a duty to paint the floors as she avoids all kinds of monsters trying to stop her.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Painter_Momopie) · [IGDB](https://www.igdb.com/games/painter-momopie)
 
 ---
 
 ### Palamedes
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co6ose.jpg" alt="Palamedes cover" width="200">
+
 **Platforms:** Arcade, Nintendo Entertainment System, MSX, FM Towns, Game Boy &nbsp;|&nbsp; **Developer:** Taito, Natsume &nbsp;|&nbsp; **Publisher:** Taito, Hot-B &nbsp;|&nbsp; **Genre:** Puzzle &nbsp;|&nbsp; **Released:** July 6, 1990
 
-[Wikipedia](https://en.wikipedia.org/wiki/Palamedes_(video_game))
+> A puzzle game by Taito.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Palamedes_(video_game)) · [IGDB](https://www.igdb.com/games/palamedes)
 
 ---
 
 ### Popeye
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co8g3u.jpg" alt="Popeye cover" width="200">
+
 **Platforms:** Game Boy &nbsp;|&nbsp; **Developer:** Sigma Enterprises &nbsp;|&nbsp; **Publisher:** Sigma Enterprises &nbsp;|&nbsp; **Genre:** Action, Maze &nbsp;|&nbsp; **Released:** April 20, 1990
 
-[Wikipedia](https://en.wikipedia.org/wiki/Popeye_(1990_video_game))
+> Popeye is a Japan-exclusive Game Boy video game based on the comic strip of the same name licensed from King Features Syndicate.  A cancelled US version was found in the 2020 Nintendo data leak, intended to be published by INTV Corporation.  The scenario is a maze and the player controls Popeye who has a time limit to collect some hearts, find Olive Oyl and save Swee'Pea which only appears somewhere to be saved after the hearts were collected and Olive found.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Popeye_(1990_video_game)) · [IGDB](https://www.igdb.com/games/popeye--11)
 
 ---
 
 ### Radar Mission
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co9i1j.jpg" alt="Radar Mission cover" width="200">
+
 **Platforms:** Game Boy &nbsp;|&nbsp; **Developer:** Nintendo R&D1, Pax Softnica &nbsp;|&nbsp; **Publisher:** Nintendo &nbsp;|&nbsp; **Genre:** Turn-based strategy &nbsp;|&nbsp; **Released:** October 23, 1990
 
-[Wikipedia](https://en.wikipedia.org/wiki/Radar_Mission)
+> Radar Mission is a Nintendo Game Boy title developed and released in 1990 in Japan and North America by Nintendo. It was one of the earliest Game Boy titles, and was the first military-based game released for the Game Boy. On June 6, 2011, the game was re-released as a launch title for the Nintendo 3DS Virtual Console system via online distribution.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Radar_Mission) · [IGDB](https://www.igdb.com/games/radar-mission)
 
 ---
 
@@ -3202,17 +4224,29 @@
 
 ### Rolan's Curse
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co9i1v.jpg" alt="Rolan's Curse cover" width="200">
+
 **Platforms:** Game Boy &nbsp;|&nbsp; **Developer:** NMK &nbsp;|&nbsp; **Publisher:** American Sammy &nbsp;|&nbsp; **Genre:** Action Adventure &nbsp;|&nbsp; **Released:** October 26, 1990
 
-[Wikipedia](https://en.wikipedia.org/wiki/Rolan's_Curse)
+> After centuries in captivity, King Barius, Lord of the Demons, has escaped. In his fury he has cursed the peaceful land of Rolan. Hordes of dark creatures roam free in the countryside. A desperate cry goes out... are there any warriors brave enough to free the people from the curse?
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Rolan's_Curse) · [IGDB](https://www.igdb.com/games/rolans-curse)
 
 ---
 
 ### Serpent
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co9i8j.jpg" alt="Serpent cover" width="200">
+
 **Platforms:** Game Boy &nbsp;|&nbsp; **Developer:** Dual &nbsp;|&nbsp; **Publisher:** Naxat Soft, Taxan &nbsp;|&nbsp; **Genre:** Snake &nbsp;|&nbsp; **Released:** April 6, 1990
 
-[Wikipedia](https://en.wikipedia.org/wiki/Serpent_(video_game))
+> Serpent is a Game Boy snake game exclusive for the North American and Japanese markets.  In the future, there is a sport called Serpent. Two fighters in serpentine robotic machines try to box each other in to win the fight. The serpents are detailed in the fact that they aren't just a line, giving a greater sense of realism to the game. Each snake has a fixed amount of lives; with losing a life being a representation of "losing the war." The "game over" message is a simple message saying "the bitter taste of defeat" with an animated picture of a snake crying and accompanied by a melancholic music in a waltz rhythm.  There are two modes with four difficulty levels; level 1 is considered to be the easiest (normal speed and enemy performance) while level 4 is the hardest (fast speed and enemies are likely to cheat death). The first mode allows players to simply compete against an opponent while the second mode brings in a series of small snakes that emerge when players take too long conquering a level. Missiles can be launched when the player collects them on the field. White numbers help the player develop a longer body while black numbers make the body shorter.  Missiles can either make the enemy faster (black missiles) or slower (white missiles). Winning 7 of the 13 possible matches automatically makes the player into the "champion of serpents."
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Serpent_(video_game)) · [IGDB](https://www.igdb.com/games/serpent)
 
 ---
 
@@ -3232,17 +4266,29 @@
 
 ### Snoopy's Magic Show
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co7h62.jpg" alt="Snoopy's Magic Show cover" width="200">
+
 **Platforms:** Game Boy &nbsp;|&nbsp; **Developer:** Kemco &nbsp;|&nbsp; **Publisher:** Kemco &nbsp;|&nbsp; **Genre:** Action, puzzle, strategy &nbsp;|&nbsp; **Released:** April 28, 1990
 
-[Wikipedia](https://en.wikipedia.org/wiki/Snoopy's_Magic_Show)
+> As legendary magician Snoopy the Great, you must rescue your assistant Woodstock when his attempt to perform the dangerous Magic Ball Trick goes out of control. Magic Balls are on the attack and even Woodstock has been multiplied by the runaway spell. Maneuver around ever changing barriers and escape through enchanted exits. Summon all your powers to collect Woodstocks through more than 100 levels of escalating jeopardy in… Snoopy’s Magic Show.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Snoopy's_Magic_Show) · [IGDB](https://www.igdb.com/games/snoopys-magic-show)
 
 ---
 
 ### Soccer Mania
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co9i98.jpg" alt="Soccer Mania cover" width="200">
+
 **Platforms:** Game Boy &nbsp;|&nbsp; **Developer:** Kitty Group &nbsp;|&nbsp; **Publisher:** CBS/Sony Group, Sony Imagesoft &nbsp;|&nbsp; **Genre:** Sports, simulation &nbsp;|&nbsp; **Released:** April 27, 1990
 
-[Wikipedia](https://en.wikipedia.org/wiki/Soccer_Mania)
+> Soccer Mania is a Sports game, developed by Kitty Group and published by Epic Sony Record, which was released in 1992.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Soccer_Mania) · [IGDB](https://www.igdb.com/games/soccer-mania)
 
 ---
 
@@ -3276,17 +4322,25 @@
 
 ### Spot: The Video Game
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co6owc.jpg" alt="Spot: The Video Game cover" width="200">
+
 **Platforms:** Nintendo Entertainment System, Game Boy, MS-DOS &nbsp;|&nbsp; **Developer:** Virgin Mastertronic &nbsp;|&nbsp; **Publisher:** Virgin Mastertronic, Arcadia Systems &nbsp;|&nbsp; **Genre:** Strategy &nbsp;|&nbsp; **Released:** September 1990
 
-[Wikipedia](https://en.wikipedia.org/wiki/Spot:_The_Video_Game)
+> A puzzle game loosely featuring licensing from the 7Up soft drink. The gameplay involves up to 4 players, which can be either human or computer, each taking on spots of a particular colour. Starting from opposite corners, they take it in turns to move, either by 'reproducing' one of their spots to form another one in an adjacent square, or by making a jump, losing the square you did have but taking one two spaces away.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Spot:_The_Video_Game) · [IGDB](https://www.igdb.com/games/spot-the-video-game)
 
 ---
 
 ### Square Deal: The Game of Two Dimensional Poker
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co9ia6.jpg" alt="Square Deal: The Game of Two Dimensional Poker cover" width="200">
+
 **Platforms:** Game Boy, Nintendo Entertainment System &nbsp;|&nbsp; **Developer:** Hect &nbsp;|&nbsp; **Publisher:** Hect, DTMC &nbsp;|&nbsp; **Genre:** Strategy &nbsp;|&nbsp; **Released:** November 30, 1990
 
-[Wikipedia](https://en.wikipedia.org/wiki/Square_Deal:_The_Game_of_Two_Dimensional_Poker)
+[Wikipedia](https://en.wikipedia.org/wiki/Square_Deal:_The_Game_of_Two_Dimensional_Poker) · [IGDB](https://www.igdb.com/games/square-deal-the-game-of-two-dimensional-poker)
 
 ---
 
@@ -3306,23 +4360,29 @@
 
 ### Tesserae
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co5xow.jpg" alt="Tesserae cover" width="200">
+
 **Platforms:** Game Boy, Game Gear, macOS, Windows &nbsp;|&nbsp; **Developer:** Nicholas Schlott &nbsp;|&nbsp; **Publisher:** Inline Design, GameTek &nbsp;|&nbsp; **Genre:** Puzzle
 
-[Wikipedia](https://en.wikipedia.org/wiki/Tesserae_(video_game))
+> Tesserae is a single-player video game developed by Nicholas Schlott based on Kent Brewster's DOS game Stained Glass.  Tesserae is played by flipping colored tiles over other tiles to remove them from the board. While flipping over tiles subtracts the color from the tile that was jumped, landing on a tile adds the colors, making it more difficult for that tile to be removed. Primary tiles of red, blue and yellow combine to produce secondary tiles of purple, green and orange. A gray tile is produced by combining all three primary tiles. Game play starts simple with only primary tiles on a rectangular board. More complex board shapes as well as introducing secondary tiles increases the difficulty.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Tesserae_(video_game)) · [IGDB](https://www.igdb.com/games/tesserae)
 
 ---
 
 ### The Amazing Spider-Man
 
-<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co89oi.jpg" alt="The Amazing Spider-Man cover" width="200">
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2dp3.jpg" alt="The Amazing Spider-Man cover" width="200">
 
 **Platforms:** Game Boy &nbsp;|&nbsp; **Developer:** Rare &nbsp;|&nbsp; **Publisher:** LJN, Nintendo &nbsp;|&nbsp; **Genre:** Beat 'em up, action &nbsp;|&nbsp; **Released:** July 1990
 
-> In The Amazing Spider-Man, Spider-Man has to rescue his girlfriend Mary Jane who was been kidnapped by the supervillain Mysterio. The whole game takes place in a film set studio.  This game is primarily a platforming game in which Spider-Man fights against various enemies. Those can be stunned by Spider-Man's iconic web substance, but touching them or other hazards in the game world will decrease his health. Another important part of the gameplay is puzzles, mostly with the goal to deactivate some of Mysterio's gimmicks to clear the path. Spider-Man can climb walls and shoot grappling hooks.
+> The Amazing Spider-Man is a side-scrolling action game. Spider-Man can use his web making abilities to either hang from the ceiling or shoot webs out like bullets, but most of his attacks are punches or kicks. Also included are two vertical-scrolling building climbing segments in which Spider-Man has to avoid enemies and falling objects which try to knock him down. His spider sense rings a few moments earlier so you have enough time to react.
 >
 > _Synopsis source: IGDB_
 
-[Wikipedia](https://en.wikipedia.org/wiki/The_Amazing_Spider-Man_(handheld_video_game)) · [IGDB](https://www.igdb.com/games/the-amazing-spider-man--1)
+[Wikipedia](https://en.wikipedia.org/wiki/The_Amazing_Spider-Man_(handheld_video_game)) · [IGDB](https://www.igdb.com/games/the-amazing-spider-man--3)
 
 ---
 
@@ -3336,9 +4396,15 @@
 
 ### Timeball
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co6xpe.jpg" alt="Timeball cover" width="200">
+
 **Platforms:** PC Engine, Game Boy, Sharp X68000 &nbsp;|&nbsp; **Developer:** Now Production &nbsp;|&nbsp; **Publisher:** NEC, Hudson Soft, Broderbund, Tonkin House &nbsp;|&nbsp; **Genre:** Puzzle &nbsp;|&nbsp; **Released:** February 23, 1990
 
-[Wikipedia](https://en.wikipedia.org/wiki/Timeball)
+> Get wrapped up in this mind-bending game that will test your mental agility. The action seems simple -- just keep a ball rolling through a winding maze by shifting around pieces of tubing. But the action is intense! Race against time and the track to keep the ball from crashing. There are 100 challenging levels -- plus the unique edit feature lets you build your own puzzles!
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Timeball) · [IGDB](https://www.igdb.com/games/timeball)
 
 ---
 

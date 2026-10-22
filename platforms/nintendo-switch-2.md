@@ -2,7 +2,7 @@
 
 [← Back to index](../README.md)
 
-602 titles across 5 years in this archive.
+607 titles across 5 years in this archive.
 
 ## 2028
 
@@ -392,9 +392,15 @@
 
 ### Onyx: The Dark Grip
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/cocvcg.jpg" alt="Onyx: The Dark Grip cover" width="200">
+
 **Platforms:** Nintendo Switch 2 &nbsp;|&nbsp; **Developer:** Bloober Team &nbsp;|&nbsp; **Publisher:** Broken Mirror Games &nbsp;|&nbsp; **Genre:** Survival horror
 
-[Wikipedia](https://en.wikipedia.org/wiki/Onyx:_The_Dark_Grip)
+> Set in an isolated town trapped in an endless winter, ONYX: The Dark Grip challenges players to survive through two deeply intertwined roles. As The Vessel, players explore a bleak, frozen world, fight for survival, manage scarce resources and confront the dangers hiding within the town and beneath its snow. But human strength can only go so far. When The Vessel cannot survive alone, players become The God, reaching directly into his world to manipulate reality, protect their host and change what happens beyond the limits of an ordinary human being. Survival depends on knowing when to act as The Vessel and when to intervene as The God.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Onyx:_The_Dark_Grip) · [IGDB](https://www.igdb.com/games/onyx-the-dark-grip)
 
 ---
 
@@ -423,6 +429,20 @@
 > _Synopsis source: IGDB_
 
 [Wikipedia](https://en.wikipedia.org/wiki/Persona_4_Revival) · [IGDB](https://www.igdb.com/games/persona-4-revival)
+
+---
+
+### Pikuniku 2
+
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/coc7ob.jpg" alt="Pikuniku 2 cover" width="200">
+
+**Platforms:** Windows, Nintendo Switch 2 &nbsp;|&nbsp; **Genre:** Platform, Puzzle, Adventure
+
+> Absurd puzzle-exploration adventure Pikuniku 2 brings the whimsy! Wander, solve, and gossip your way through a weird and wonderful world where not everything is as happy as it seems. Protect the potato!
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Pikuniku_2) · [IGDB](https://www.igdb.com/games/pikuniku-2)
 
 ---
 
@@ -490,6 +510,20 @@
 
 ---
 
+### Shironeko Project Infinity
+
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/cocdqg.jpg" alt="Shironeko Project Infinity cover" width="200">
+
+**Platforms:** Nintendo Switch, Nintendo Switch 2 &nbsp;|&nbsp; **Genre:** Role-playing (RPG), Hack and slash/Beat 'em up
+
+> Shironeko New Project is a co-op action RPG based on the mobile game Shironeko Project but will have a new story with new characters.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Shironeko_Project_Infinity) · [IGDB](https://www.igdb.com/games/shironeko-project-infinity)
+
+---
+
 ### Spine
 
 <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/cocrsi.jpg" alt="Spine cover" width="200">
@@ -543,6 +577,34 @@
 **Platforms:** Windows, Nintendo Switch, Nintendo Switch 2, PlayStation 4, PlayStation 5, Xbox Series X/S &nbsp;|&nbsp; **Developer:** Clear River Games &nbsp;|&nbsp; **Publisher:** Clear River Games &nbsp;|&nbsp; **Genre:** Action RPG &nbsp;|&nbsp; **Released:** January 14
 
 [Wikipedia](https://en.wikipedia.org/wiki/Terranigma)
+
+---
+
+### The Apothecary Diaries: The False Imperial Brother
+
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/cocv97.jpg" alt="The Apothecary Diaries: The False Imperial Brother cover" width="200">
+
+**Platforms:** PlayStation 5, Windows, Nintendo Switch, Nintendo Switch 2 &nbsp;|&nbsp; **Genre:** Puzzle, Adventure
+
+> Investigate mysteries, craft medicine, and uncover the truth in this brand-new story from The Apothecary Diaries. Explore the rear palace and capital to gather evidence and question witnesses, then assemble what you've learned into theories and deductions to solve thrilling mysteries in this sprawling adventure game.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/The_Apothecary_Diaries:_The_False_Imperial_Brother) · [IGDB](https://www.igdb.com/games/the-apothecary-diaries-the-false-imperial-brother)
+
+---
+
+### The Escapists 3
+
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/cod32d.jpg" alt="The Escapists 3 cover" width="200">
+
+**Platforms:** Windows, Nintendo Switch 2, Xbox Series X/S, PlayStation 5 &nbsp;|&nbsp; **Genre:** Puzzle, Role-playing (RPG), Simulator, Strategy, Indie
+
+> Plan ridiculous prison breaks, outsmart the guards and escape your way in The Escapists 3. Craft, sneak, fight and improvise through a new 3D prison sandbox, alone or with friends. Just remember to make roll call.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/The_Escapists_3) · [IGDB](https://www.igdb.com/games/the-escapists-3)
 
 ---
 
@@ -1556,9 +1618,15 @@
 
 ### FIFA Heroes
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/cobtpq.jpg" alt="FIFA Heroes cover" width="200">
+
 **Platforms:** Android, iOS, Windows, Nintendo Switch, Nintendo Switch 2, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S, Mobile phone &nbsp;|&nbsp; **Developer:** ENVER &nbsp;|&nbsp; **Publisher:** Solace Games &nbsp;|&nbsp; **Genre:** Sports &nbsp;|&nbsp; **Released:** June 24, 2026
 
-[Wikipedia](https://en.wikipedia.org/wiki/FIFA_Heroes)
+> FIFA Heroes game will bring together FIFA's official mascots and recognizable fictional characters alongside football's biggest icons. This is arcade football reimagined with matches that are quick, explosive and full of surprises. Players will be able to master superpowers such as teleport dribble, flaming power shot, or magnetic tackle to turn matches upside down. Build your squad, master their skills, and dominate the competition in a brand-new way to play the world's favourite sport. Solace partnered with leading NYC game studio Enver to publish and develop FIFA Heroes. Founded in 2021 and based in New York City, Enver is a media-first gaming company creating culture-shaping worlds.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/FIFA_Heroes) · [IGDB](https://www.igdb.com/games/fifa-heroes)
 
 ---
 
@@ -1638,9 +1706,15 @@
 
 ### Funi Raccoon Game
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/cobep6.jpg" alt="Funi Raccoon Game cover" width="200">
+
 **Platforms:** Linux, Windows, Nintendo Switch, Nintendo Switch 2 &nbsp;|&nbsp; **Developer:** The Crayon Eating Company &nbsp;|&nbsp; **Publisher:** The Crayon Eating Company &nbsp;|&nbsp; **Genre:** 3D platformer, adventure &nbsp;|&nbsp; **Released:** March 13, 2026
 
-[Wikipedia](https://en.wikipedia.org/wiki/Funi_Raccoon_Game)
+> Explore a series of whimsical, interconnected worlds to steal everything not nailed down. Make a garbage bin a garbage home :)
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Funi_Raccoon_Game) · [IGDB](https://www.igdb.com/games/funi-raccoon-game--1)
 
 ---
 
@@ -1866,9 +1940,15 @@
 
 ### High Times
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/cocdm7.jpg" alt="High Times cover" width="200">
+
 **Platforms:** Windows, Nintendo Switch, Nintendo Switch 2, PlayStation 5, Xbox Series X/S &nbsp;|&nbsp; **Developer:** Yangyang Mobile &nbsp;|&nbsp; **Publisher:** Yangyang Mobile &nbsp;|&nbsp; **Genre:** Visual novel, dating sim, simulation &nbsp;|&nbsp; **Released:** July 23, 2026
 
-[Wikipedia](https://en.wikipedia.org/wiki/High_Times_(video_game))
+> Sit back and relax as you play the role of a donut therapist in this cozy dating/cooking sim. Feeling nervous? Need some happiness in your life? Here at High Times, there's a donut for every mood.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/High_Times_(video_game)) · [IGDB](https://www.igdb.com/games/high-times)
 
 ---
 
@@ -1996,9 +2076,11 @@
 
 ### Just Dance: Decades of Hits
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/cocjfj.jpg" alt="Just Dance: Decades of Hits cover" width="200">
+
 **Platforms:** Nintendo Switch, Nintendo Switch 2, PlayStation 5, Xbox Series X/S &nbsp;|&nbsp; **Developer:** Ubisoft Paris, Ubisoft Pune, Ubisoft Shanghai, Ubisoft Kyiv &nbsp;|&nbsp; **Publisher:** Ubisoft &nbsp;|&nbsp; **Genre:** Rhythm &nbsp;|&nbsp; **Released:** October 13, 2026
 
-[Wikipedia](https://en.wikipedia.org/wiki/Just_Dance:_Decades_of_Hits)
+[Wikipedia](https://en.wikipedia.org/wiki/Just_Dance:_Decades_of_Hits) · [IGDB](https://www.igdb.com/games/just-dance-decades-of-hits)
 
 ---
 
@@ -2130,9 +2212,15 @@
 
 ### Madden NFL 27
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/coc79e.jpg" alt="Madden NFL 27 cover" width="200">
+
 **Platforms:** iOS, macOS, tvOS, visionOS, Nintendo Switch 2, PlayStation 5, Windows, Xbox Series X/S &nbsp;|&nbsp; **Developer:** EA Orlando &nbsp;|&nbsp; **Publisher:** EA Sports &nbsp;|&nbsp; **Genre:** Sports &nbsp;|&nbsp; **Released:** August 4, 2026
 
-[Wikipedia](https://en.wikipedia.org/wiki/Madden_NFL_27)
+> Run the league one decision at a time in EA Sports Madden NFL 27, powered by the all-new Persona Engine.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Madden_NFL_27) · [IGDB](https://www.igdb.com/games/madden-nfl-27)
 
 ---
 
@@ -2717,6 +2805,20 @@
 ### Pokémon XD: Gale of Darkness
 
 **Platforms:** Nintendo Switch 2 &nbsp;|&nbsp; **Developer:** Genius Sonority &nbsp;|&nbsp; **Publisher:** The Pokémon Company, Nintendo &nbsp;|&nbsp; **Genre:** Monster tamer &nbsp;|&nbsp; **Released:** March 17
+
+---
+
+### Pool Room Billiard
+
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/cobc9j.jpg" alt="Pool Room Billiard cover" width="200">
+
+**Platforms:** Nintendo Switch 2 &nbsp;|&nbsp; **Genre:** Simulator, Sport, Card & Board Game
+
+> Enjoy moody gameplay with motion controls using two Joy-Con 2 controllers.A full-fledged 3D billiards game where you can battle players worldwide online!
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Pool_Room_Billiard) · [IGDB](https://www.igdb.com/games/pool-room-billiard)
 
 ---
 
@@ -3816,9 +3918,15 @@
 
 ### Viractal: Will You Trust Your Party?
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/coboiw.jpg" alt="Viractal: Will You Trust Your Party? cover" width="200">
+
 **Platforms:** Windows, Nintendo Switch, Nintendo Switch 2 &nbsp;|&nbsp; **Developer:** Sting &nbsp;|&nbsp; **Publisher:** Sting &nbsp;|&nbsp; **Genre:** Digital tabletop, role-playing &nbsp;|&nbsp; **Released:** January 26, 2026
 
-[Wikipedia](https://en.wikipedia.org/wiki/Viractal:_Will_You_Trust_Your_Party%3F)
+> A strategic board game-style RPG where dice rolls guide your journey! Build your deck, explore changing maps, and face events shaped by your choices and luck. Play solo or online with friends—every adventure is a new experience!
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Viractal:_Will_You_Trust_Your_Party%3F) · [IGDB](https://www.igdb.com/games/viractal-will-you-trust-your-party)
 
 ---
 
@@ -4134,9 +4242,15 @@
 
 ### Cast n Chill
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co9ssc.jpg" alt="Cast n Chill cover" width="200">
+
 **Platforms:** Windows, macOS, Nintendo Switch 2 &nbsp;|&nbsp; **Developer:** Wombat Brawler &nbsp;|&nbsp; **Genre:** Cozy, Fishing &nbsp;|&nbsp; **Released:** June 16, 2025
 
-[Wikipedia](https://en.wikipedia.org/wiki/Cast_n_Chill)
+> Cast n Chill is a cozy idle (and active) fishing game where you explore serene lakes, rivers, and oceans. Catch rare fish, upgrade your gear and reel in legendary catches - all with your loyal companion by your side.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Cast_n_Chill) · [IGDB](https://www.igdb.com/games/cast-n-chill)
 
 ---
 
@@ -5218,8 +5332,14 @@
 
 ### Maestro
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co8elu.jpg" alt="Maestro cover" width="200">
+
 **Platforms:** Meta Quest, Nintendo Switch, Nintendo Switch 2, PICO 4, PlayStation 5, PlayStation VR2 &nbsp;|&nbsp; **Developer:** Double Jack &nbsp;|&nbsp; **Publisher:** Double Jack &nbsp;|&nbsp; **Genre:** Rhythm &nbsp;|&nbsp; **Released:** October 17, 2024
 
-[Wikipedia](https://en.wikipedia.org/wiki/Maestro_(2024_video_game))
+> Step into a gorgeous opera house with Maestro, the VR orchestra conducting rhythm game that's the essence of elegance, control, and high-society french sophistication.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Maestro_(2024_video_game)) · [IGDB](https://www.igdb.com/games/maestro--1)
 
 ---

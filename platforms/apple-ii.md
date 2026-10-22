@@ -2,7 +2,7 @@
 
 [← Back to index](../README.md)
 
-25 titles across 9 years in this archive.
+26 titles across 9 years in this archive.
 
 ## 2020
 
@@ -10,9 +10,15 @@
 
 ### Nox Archaist
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2mt4.jpg" alt="Nox Archaist cover" width="200">
+
 **Platforms:** Apple II, macOS, Windows &nbsp;|&nbsp; **Developer:** 6502 Workshop &nbsp;|&nbsp; **Publisher:** 6502 Workshop &nbsp;|&nbsp; **Genre:** Role-playing video game
 
-[Wikipedia](https://en.wikipedia.org/wiki/Nox_Archaist)
+> Nox Archaist is a brand-new Ultima-style CRPG from 6502 Workshop, endorsed by Richard Garriott. For Windows, MacOS, and original Apple II hardware, available as a Digital Download and Collector's Boxed Set.  Within a deep and engaging story, you control one or more characters who travel Vali, visiting towns and castles, exploring dungeons, and fighting monsters. As your characters grow in wealth, experience and skill, they will face ever greater foes and challenges as you seek to save the world from an unknown and terrible danger.  Lord British himself has traveled the metaverse to Vali, to aid you on your quest!
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Nox_Archaist) · [IGDB](https://www.igdb.com/games/nox-archaist)
 
 ---
 
@@ -54,9 +60,15 @@
 
 ### The Treehouse
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co9cfl.jpg" alt="The Treehouse cover" width="200">
+
 **Platforms:** MS-DOS, Apple II, macOS, FM Towns, Windows &nbsp;|&nbsp; **Developer:** Broderbund &nbsp;|&nbsp; **Publisher:** Broderbund &nbsp;|&nbsp; **Genre:** Educational
 
-[Wikipedia](https://en.wikipedia.org/wiki/The_Treehouse_(video_game))
+> One of the best edutainment titles ever made for pre-shoolers (aged 5-8), The Treehouse was designed to prepare First and Second graders to develop a positive experience toward learning, as well as impart knowledge on basic subjects they are learning in schools.  Kids will enjoy discovering many mini-games and and activities that are cleverly presented as objects in the treehouse. The games cover a wide range of subjects. In one game, for example, kids will learn new words, arrange them in sentences, and see them performed by eccentric bug actors. In another, they will practice elementary math skills and identify coins to outwit pirates. They will learn about the animal kingdom and watch over ninety animals animate as they are placed in different natural backgrounds. Afterwards, kids can show off their natural science knowledge in a fun game show, WhatUs My Animal!  In addition to mini-games, The Treehouse also features many activity centers that are there just for fun. In the Music Studio, kids can explore their musical talents as they compose songs using a variety of instruments and styles. In the theatre, they can create a play by mixing and matching a range of characters, objects, and scenery, as well as write their own movie script.  With a staggering range of activities, games, and cute animations, The Treehouse will keep preschoolers enthralled for hours on end without realizing that they're learning useful skills along the way. It is no wonder that the program went on to become one of the best selling programs from Brøderbund, and went on to inspire many sequels and CD-ROM remakes. Two thumbs up!
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/The_Treehouse_(video_game)) · [IGDB](https://www.igdb.com/games/the-treehouse--1)
 
 ---
 
@@ -114,17 +126,29 @@
 
 ### Freedom!
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co3vjb.jpg" alt="Freedom! cover" width="200">
+
 **Platforms:** Apple II &nbsp;|&nbsp; **Developer:** MECC &nbsp;|&nbsp; **Publisher:** MECC &nbsp;|&nbsp; **Genre:** Edutainment, simulation
 
-[Wikipedia](https://en.wikipedia.org/wiki/Freedom!_(video_game))
+> Taking the role of an enslaved African American (either male or female) in the southern United States during 1830, the player must try escaping a plantation and get to one of the free northern states.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Freedom!_(video_game)) · [IGDB](https://www.igdb.com/games/freedom--1)
 
 ---
 
 ### Police Quest: In Pursuit of the Death Angel
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co4xha.jpg" alt="Police Quest: In Pursuit of the Death Angel cover" width="200">
+
 **Platforms:** Amiga, Atari ST, Apple II, Apple IIGS, MS-DOS, macOS &nbsp;|&nbsp; **Developer:** Sierra On-Line &nbsp;|&nbsp; **Publisher:** Sierra On-Line &nbsp;|&nbsp; **Genre:** Adventure, simulation
 
-[Wikipedia](https://en.wikipedia.org/wiki/Police_Quest:_In_Pursuit_of_the_Death_Angel)
+> This enhanced remake of Police Quest has been completely re-drawn using 256-color VGA graphics. Instead of the text-based interface of the original version, the remake features icons corresponding to the commands Walk, Look, Touch, and Talk for interaction with the game world.  The two versions also have some gameplay-related differences. The driving sequences from the original game have been simplified: the player is no longer required to physically navigate the car and input is limited to making the right turns while the car is driven automatically, and occasionally braking at stop signs. The mandatory poker mini-game during the final segment of the game has been made optional. A few puzzles have different solutions, though not all of those are simplified, and in some instances the puzzles have become more complex in the remake.  Story-wise, the game remains the same for the most part, but it also includes re-written and additional dialogue not seen in the earlier version.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Police_Quest:_In_Pursuit_of_the_Death_Angel) · [IGDB](https://www.igdb.com/games/police-quest-in-pursuit-of-the-death-angel--1)
 
 ---
 
@@ -158,9 +182,15 @@
 
 ### The Treehouse
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co93zg.jpg" alt="The Treehouse cover" width="200">
+
 **Platforms:** MS-DOS, Apple II, macOS, FM Towns, Windows &nbsp;|&nbsp; **Developer:** Broderbund &nbsp;|&nbsp; **Publisher:** Broderbund &nbsp;|&nbsp; **Genre:** Educational &nbsp;|&nbsp; **Released:** June 1991
 
-[Wikipedia](https://en.wikipedia.org/wiki/The_Treehouse_(video_game))
+> The Treehouse is an educational point-and-click personal computer game developed for MS-DOS and then ported to Macintosh and the FM Towns, with Windows versions arriving later.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/The_Treehouse_(video_game)) · [IGDB](https://www.igdb.com/games/the-treehouse)
 
 ---
 
@@ -170,9 +200,15 @@
 
 ### Catacomb
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co9tou.jpg" alt="Catacomb cover" width="200">
+
 **Platforms:** Apple II, Apple IIGS, MS-DOS &nbsp;|&nbsp; **Developer:** Softdisk &nbsp;|&nbsp; **Publisher:** Softdisk &nbsp;|&nbsp; **Genre:** Shooter
 
-[Wikipedia](https://en.wikipedia.org/wiki/Catacomb_(video_game))
+> Catacomb is a 2-D top-down third-person shooter created by John Carmack. It was originally created for the Apple II, and later ported to the PC. It should not be confused with The Catacomb, which is the second game in the series (originally named Catacomb II, but later renamed). It supports EGA and CGA graphics.  Catacomb consists of fifteen levels in the Apple II version, ten levels in the PC demo disk promoting Gamer's Edge, and 30 levels in the full PC version (The Catacomb, aka Catacomb II). To progress to the next level you must step through a magic teleportation mirror. These mirrors are usually behind a locked door, requiring you to obtain a key to advance.  In the game you play the magician Petton Everhail. At the start you are contacted by Terexin, High Wizard of the Kieralon who tells you how the Kieralon Empire has fallen. He convinces you to travel to the Kieralon Palace to collect his treasures and split them fifty-fifty.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Catacomb_(video_game)) · [IGDB](https://www.igdb.com/games/catacomb)
 
 ---
 
@@ -230,9 +266,15 @@
 
 ### Pick 'n Pile
 
-**Platforms:** Amiga, Amstrad CPC, Apple II, Apple IIGS, Atari ST, Commodore 64, MS-DOS, ZX Spectrum &nbsp;|&nbsp; **Developer:** Ubi Soft &nbsp;|&nbsp; **Publisher:** Ubi Soft
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co9r79.jpg" alt="Pick 'n Pile cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/Pick_'n_Pile)
+**Platforms:** Amiga, Amstrad CPC, Apple II, Apple IIGS, Atari ST, Commodore 64, MS-DOS, ZX Spectrum &nbsp;|&nbsp; **Developer:** Ubi Soft &nbsp;|&nbsp; **Publisher:** Ubi Soft &nbsp;|&nbsp; **Genre:** Puzzle, Strategy
+
+> Pick 'n Pile is a Tetris-style puzzle game. On each level there are a variety of symbols arranged in columns on the screen. By moving the symbols around, you need to create columns which contain identical symbols; once all the symbols in a column are the same, that column disappears. Your goal is to earn points and complete the levels by making all of the symbols on the screen disappear. Occasionally, you may become stuck with a symbol that doesn't match anything onscreen; when this happens, you can call for an additional symbol to drop onto the screen. However, as the symbol which appears is random you may need to create quite a few symbols before the one you need appears. Each level has a time limit in which it needs to be completed; run out of time and you lose a life; lose all lives and the game is over.  In addition to the regular symbols, there are also some special objects on the screen which may help or hinder your progress. These include bombs which destroy several symbols at once, blocks which may get in the way or be arranged to help out, death heads which diminish time more quickly, and flower pots which can't be moved.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Pick_'n_Pile) · [IGDB](https://www.igdb.com/games/pick-n-pile)
 
 ---
 
@@ -246,8 +288,24 @@
 
 ### Stellar 7
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/vzzz4cktjra9wsimgmrr.jpg" alt="Stellar 7 cover" width="200">
+
 **Platforms:** Apple II, Commodore 64, Amiga, MS-DOS, macOS &nbsp;|&nbsp; **Developer:** Damon Slye, Dynamix &nbsp;|&nbsp; **Publisher:** Software Entertainment Company, Penguin Software, U.S. Gold, Dynamix &nbsp;|&nbsp; **Genre:** Vehicle simulation
 
-[Wikipedia](https://en.wikipedia.org/wiki/Stellar_7)
+> In Stellar 7, a remake of the 1983 game, you drive the Raven, the most advanced Terran fighting vehicle. You are up against Gir Draxon and his evil Arcturan army. You will go from star system to star system, fighting his forces. When the enemies have been destroyed, a mothership flies overhead and beams down the Guardian of the star system, a giant enemy ship. When you reach the Arcturus star system, you will fight Gir Draxon!    The game is played from a first person view looking out from the cockpit of the Raven. It is in true polygonal 3D. Aside from a graphical and aural overhaul and the addition of cutscenes, the remake's gameplay and level design is virtually identical to the original, right down to the placement of each and every enemy. The major differences are the added "power modules" (e.g. supercannon, superjump) and a major boss creature at the end of every level.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Stellar_7) · [IGDB](https://www.igdb.com/games/stellar-7)
+
+---
+
+### Where in Hell Is Carmen Santiago?
+
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co9qz7.jpg" alt="Where in Hell Is Carmen Santiago? cover" width="200">
+
+**Platforms:** Apple II &nbsp;|&nbsp; **Genre:** Point-and-click, Adventure
+
+[Wikipedia](https://en.wikipedia.org/wiki/Where_in_Hell_Is_Carmen_Santiago%3F) · [IGDB](https://www.igdb.com/games/where-in-hell-is-carmen-santiago)
 
 ---

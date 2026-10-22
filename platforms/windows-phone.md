@@ -2,7 +2,7 @@
 
 [← Back to index](../README.md)
 
-105 titles across 9 years in this archive.
+106 titles across 9 years in this archive.
 
 ## 2016
 
@@ -18,25 +18,43 @@
 
 ### Chameleon Run
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2shu.jpg" alt="Chameleon Run cover" width="200">
+
 **Platforms:** Android, iOS, tvOS, Windows Phone, Nintendo Switch, Windows &nbsp;|&nbsp; **Developer:** Hyperbolic Magnetism &nbsp;|&nbsp; **Publisher:** Noodlecake Studios &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** April 7, 2016
 
-[Wikipedia](https://en.wikipedia.org/wiki/Chameleon_Run)
+> Chameleon Run is a single player game primarily available to mobile devices. The game is a high speed auto-runner with a satisfying double-jump mechanic played in landscape mode with both hands.    The game features minimal, yet colourful aesthetics, with upbeat music and nice sound effects. There are no virtual controls visible on screen, instead the player taps on either side of the display to control the avatar.    The goal of the game is to pick up items while traversing the track to reach the finish line. The items picked up are used to unlock more tracks. Reaching the goal will require the avatar to jump over obstacles while at all times ensuring that the colour of the avatar matches the colour of the running surface. The latter mechanic is what makes this runner somewhat unique. Many of the tracks feature two or more paths to the goal, which increases the longevity of the game.    First launch opens directly on the first track, which is used to teach how to switch colour mid-air while jumping to prevent the avatar from exploding. After the tutorial is completed, you are taken to the menu where the first track is unlocked.    The game consists of a series of grouped tracks which have to be unlocked by collecting enough chameleons - found along the tracks. The number of chameleons required to progress is shown on screen while in the menu.    As of writing the game is available to iOS, Android and Windows mobile phones, as well as tvOS (Apple TV).
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Chameleon_Run) · [IGDB](https://www.igdb.com/games/chameleon-run)
 
 ---
 
 ### Ludo King
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co3tih.jpg" alt="Ludo King cover" width="200">
+
 **Platforms:** iOS, macOS, Android, Windows Phone, Windows &nbsp;|&nbsp; **Developer:** Gametion Technologies Pvt Ltd &nbsp;|&nbsp; **Publisher:** Gametion Technologies Pvt Ltd &nbsp;|&nbsp; **Genre:** Board game &nbsp;|&nbsp; **Released:** February 20, 2016
 
-[Wikipedia](https://en.wikipedia.org/wiki/Ludo_King)
+> Ludo King is a cross platform multiplayer game that supports Desktop, Android, iOS and Windows mobile platform at same time. This game also support offline mode, where player can play with Computer or, Local multiplayer (pass and play mode).
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Ludo_King) · [IGDB](https://www.igdb.com/games/ludo-king)
 
 ---
 
 ### Redcon
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co3yct.jpg" alt="Redcon cover" width="200">
+
 **Platforms:** Android, iOS, Windows Phone, Windows, macOS &nbsp;|&nbsp; **Developer:** Hexage &nbsp;|&nbsp; **Genre:** Real-time strategy &nbsp;|&nbsp; **Released:** April 19, 2016
 
-[Wikipedia](https://en.wikipedia.org/wiki/Redcon_(video_game))
+> Command your own battle fortress! Assemble the mightiest artillery force and bombard your foes into oblivion! Lead the Empire State offensive against Traitor General and his foul rebellion.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Redcon_(video_game)) · [IGDB](https://www.igdb.com/games/redcon)
 
 ---
 
@@ -46,9 +64,15 @@
 
 ### Dragon Mania Legends
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co4suq.jpg" alt="Dragon Mania Legends cover" width="200">
+
 **Platforms:** Windows Phone, Windows, iOS, Android &nbsp;|&nbsp; **Developer:** Gameloft Budapest &nbsp;|&nbsp; **Publisher:** Gameloft &nbsp;|&nbsp; **Genre:** Casual &nbsp;|&nbsp; **Released:** January 8, 2015
 
-[Wikipedia](https://en.wikipedia.org/wiki/Dragon_Mania_Legends)
+> A dragon raising game from Gameloft. Hundreds of dragons are waiting for you to build them a home, take care of them and help them grow from cute little hatchlings into powerful warriors.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Dragon_Mania_Legends) · [IGDB](https://www.igdb.com/games/dragon-mania-legends)
 
 ---
 
@@ -104,25 +128,43 @@
 
 ### Order & Chaos 2: Redemption
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co1rxn.jpg" alt="Order & Chaos 2: Redemption cover" width="200">
+
 **Platforms:** Android, iOS, Windows, Windows Phone &nbsp;|&nbsp; **Developer:** Gameloft Beijing &nbsp;|&nbsp; **Publisher:** Gameloft &nbsp;|&nbsp; **Genre:** Massively multiplayer online role-playing &nbsp;|&nbsp; **Released:** September 17, 2015
 
-[Wikipedia](https://en.wikipedia.org/wiki/Order_&_Chaos_2:_Redemption)
+> An action adventure MMORPG from Gameloft.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Order_&_Chaos_2:_Redemption) · [IGDB](https://www.igdb.com/games/order-and-chaos-2-redemption)
 
 ---
 
 ### Snake Rewind
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co7s2o.jpg" alt="Snake Rewind cover" width="200">
+
 **Platforms:** iOS, Android, Windows Phone &nbsp;|&nbsp; **Developer:** Rumilus Design &nbsp;|&nbsp; **Publisher:** Rumilus Design &nbsp;|&nbsp; **Genre:** Snake &nbsp;|&nbsp; **Released:** May 14, 2015
 
-[Wikipedia](https://en.wikipedia.org/wiki/Snake_Rewind)
+> Snake Rewind is a modern retake of the classic Snake game. The game takes the iconic elements and intuitive gameplay from the original Snake game and combines them with cool visual effects, sounds, and great new features.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Snake_Rewind) · [IGDB](https://www.igdb.com/games/snake-rewind)
 
 ---
 
 ### Sniper Fury
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co24t9.jpg" alt="Sniper Fury cover" width="200">
+
 **Platforms:** Android, iOS, Windows Phone, Windows &nbsp;|&nbsp; **Developer:** Gameloft &nbsp;|&nbsp; **Publisher:** Gameloft &nbsp;|&nbsp; **Genre:** First-person shooter &nbsp;|&nbsp; **Released:** December 2, 2015
 
-[Wikipedia](https://en.wikipedia.org/wiki/Sniper_Fury)
+> The time for diplomacy is gone. The time for drastic action is now. We are calling for the best sniper in the world to join us as we take aim at evil, wherever it hides. This is not a game. There is no room for remorse here, so shoot to kill.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Sniper_Fury) · [IGDB](https://www.igdb.com/games/sniper-fury)
 
 ---
 
@@ -136,9 +178,15 @@
 
 ### Unkilled
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2rsc.jpg" alt="Unkilled cover" width="200">
+
 **Platforms:** iOS, Windows Phone, Android &nbsp;|&nbsp; **Developer:** Madfinger Games &nbsp;|&nbsp; **Publisher:** Madfinger Games &nbsp;|&nbsp; **Genre:** FPS, RPG &nbsp;|&nbsp; **Released:** September 3, 2015
 
-[Wikipedia](https://en.wikipedia.org/wiki/Unkilled)
+> The multiply awarded best-looking mobile shooter you have ever seen. Online multiplayer, extra long storyline, special ops, many unique weapons.  New York City has become the epicenter of the world's most terrifying zombie outbreak. What's needed is a hero with the grit and skill to take on the undead and find out who or what catalyzed this cataclysmic event. Start the story with one of five unique characters that are elite members of the task force called in to do the dirty work on the streets of the Big Apple, known simply as the Wolfpack. As part of a private military organization designed to find, track, and eliminate any and all threat, you will dig deeper into the streets, subways, sewers, and back alleys of New York. In so doing, you'll uncover a plot more heinous and nefarious than anyone expected. Good thing you're packing a lot of firepower.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Unkilled) · [IGDB](https://www.igdb.com/games/unkilled)
 
 ---
 
@@ -162,17 +210,29 @@
 
 ### Amazing Princess Sarah
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co8cio.jpg" alt="Amazing Princess Sarah cover" width="200">
+
 **Platforms:** Xbox 360, Windows, Windows Phone &nbsp;|&nbsp; **Developer:** Haruneko &nbsp;|&nbsp; **Publisher:** Haruneko &nbsp;|&nbsp; **Genre:** Platform-adventure, Metroidvania &nbsp;|&nbsp; **Released:** July 9, 2014
 
-[Wikipedia](https://en.wikipedia.org/wiki/Amazing_Princess_Sarah)
+> You are Sarah, princess of the peaceful realm of Kaleiya. The quiet life of your kingdom was lost the day your father was seduced and then kidnapped by Lilith, a demon mistress. Travel through ice castles, cold dungeons, lava caves and much more! Bring your father and king back home!
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Amazing_Princess_Sarah) · [IGDB](https://www.igdb.com/games/amazing-princess-sarah)
 
 ---
 
 ### Angry Birds Epic
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co1u1w.jpg" alt="Angry Birds Epic cover" width="200">
+
 **Platforms:** Android, iOS, Windows Phone &nbsp;|&nbsp; **Developer:** Chimera Entertainment &nbsp;|&nbsp; **Publisher:** Rovio Entertainment &nbsp;|&nbsp; **Genre:** Role-playing &nbsp;|&nbsp; **Released:** March 17, 2014
 
-[Wikipedia](https://en.wikipedia.org/wiki/Angry_Birds_Epic)
+> Unleash the Angry Birds flock in a free turn-based RPG, and join a community of more than 85 million players around the world!  Angry Birds Epic sends you on a sprawling adventure across the tropical beaches, frosty mountains, and deep dungeons of Piggy Island in hundreds of challenging levels. Collect and craft a huge arsenal of weapons, and wield powerful magic to defeat fearsome boss pigs and their many minions. Crush troublesome pigs in battle to win epic loot, craft ever more powerful weapons and level up your party. To victory!
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Angry_Birds_Epic) · [IGDB](https://www.igdb.com/games/angry-birds-epic)
 
 ---
 
@@ -210,17 +270,29 @@
 
 ### Family Guy: The Quest for Stuff
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co4k5m.jpg" alt="Family Guy: The Quest for Stuff cover" width="200">
+
 **Platforms:** Android, Fire OS, iOS, Windows Phone, Windows, Browser &nbsp;|&nbsp; **Developer:** TinyCo &nbsp;|&nbsp; **Publisher:** Jam City &nbsp;|&nbsp; **Genre:** City-building game &nbsp;|&nbsp; **Released:** April 10, 2014
 
-[Wikipedia](https://en.wikipedia.org/wiki/Family_Guy:_The_Quest_for_Stuff)
+> Family Guy: The Quest for Stuff is a freemium video game for iOS, Android, Windows Phone 8 and Windows 8.1 based on the American animated series Family Guy released by Fox Digital Entertainment and developer TinyCo. It allows users to create and run their own version of Quahog using familiar characters and buildings. It features an original story conceived by the show's writers in which Quahog has been destroyed and it's up to the player to bring it back to its former glory. Some of the show's main actors, like Seth MacFarlane (Peter, Stewie, Brian), Alex Borstein (Lois), Mila Kunis (Meg), and Seth Green (Chris) collaborated with TinyCo for the project.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Family_Guy:_The_Quest_for_Stuff) · [IGDB](https://www.igdb.com/games/family-guy-the-quest-for-stuff)
 
 ---
 
 ### Farmville 2: Country Escape
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/umoc5ghs8pla5wt0tmgk.jpg" alt="Farmville 2: Country Escape cover" width="200">
+
 **Platforms:** iOS, Android, Fire OS, Windows Phone, Windows &nbsp;|&nbsp; **Developer:** Zynga &nbsp;|&nbsp; **Publisher:** Zynga &nbsp;|&nbsp; **Genre:** Agriculture simulation, strategy &nbsp;|&nbsp; **Released:** April 10, 2014
 
-[Wikipedia](https://en.wikipedia.org/wiki/Farmville_2:_Country_Escape)
+> FarmVille 2: Country Escape for mobile devices (iOS, Android, Windows Phone and Windows operating systems) was released on April 10, 2014, and received a positive review from The New York Times. Unlike other games in the FarmVille series, FarmVille 2: Country Escape can be played offline.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Farmville_2:_Country_Escape) · [IGDB](https://www.igdb.com/games/farmville-2-country-escape)
 
 ---
 
@@ -274,9 +346,15 @@
 
 ### Make It Rain: The Love of Money
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co1qiz.jpg" alt="Make It Rain: The Love of Money cover" width="200">
+
 **Platforms:** iOS, Android, Windows Phone &nbsp;|&nbsp; **Publisher:** Space Inch, LLC &nbsp;|&nbsp; **Genre:** Incremental game &nbsp;|&nbsp; **Released:** April 1, 2014
 
-[Wikipedia](https://en.wikipedia.org/wiki/Make_It_Rain:_The_Love_of_Money)
+> Make it Rain: The Love of The Money is a swiper game, where you have to invest your money in the best way to get richer then get richer and then be very very rich. Be a business manager and success in your investments! Or otherwise, die in the process and start again to amass a lot of cash!
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Make_It_Rain:_The_Love_of_Money) · [IGDB](https://www.igdb.com/games/make-it-rain-the-love-of-money)
 
 ---
 
@@ -290,9 +368,15 @@
 
 ### Piano Tiles
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co6dok.jpg" alt="Piano Tiles cover" width="200">
+
 **Platforms:** iOS, Android, Windows Phone &nbsp;|&nbsp; **Developer:** Hu Wen Zeng, Umoni Studio &nbsp;|&nbsp; **Publisher:** Kooapps &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** March 28, 2014
 
-[Wikipedia](https://en.wikipedia.org/wiki/Piano_Tiles)
+> The Original Piano Tiles  game is back and better than ever! Don't Tap The White Tile, tap only the black ones!  Tap musical tiles to play piano songs in this classic addictive piano game. Make music with ease when you tap to the beat, getting faster and faster as piano levels progress. But be careful, DON'T TOUCH THE WHITE TILES!  Tap the piano tile... Sounds easy? Tap to try and see how you stack up against friends. Tap musical tiles in the original classic tap tile arcade game!
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Piano_Tiles) · [IGDB](https://www.igdb.com/games/piano-tiles)
 
 ---
 
@@ -312,9 +396,15 @@
 
 ### Smash Champs
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/coa07g.jpg" alt="Smash Champs cover" width="200">
+
 **Platforms:** Android, iOS, Windows Phone &nbsp;|&nbsp; **Developer:** Kiloo &nbsp;|&nbsp; **Genre:** Fighting
 
-[Wikipedia](https://en.wikipedia.org/wiki/Smash_Champs)
+> Rise to the challenge and battle your way to greatness! Take on the role as trainer, prepare for combat and lead your Champs to victory against your friends
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Smash_Champs) · [IGDB](https://www.igdb.com/games/smash-champs)
 
 ---
 
@@ -328,17 +418,29 @@
 
 ### Star Wars Commander
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2pbo.jpg" alt="Star Wars Commander cover" width="200">
+
 **Platforms:** iOS, Android, Windows, Windows Phone &nbsp;|&nbsp; **Developer:** NaturalMotion and Disney Mobile &nbsp;|&nbsp; **Publisher:** Disney Mobile &nbsp;|&nbsp; **Genre:** Strategy &nbsp;|&nbsp; **Released:** August 23, 2014
 
-[Wikipedia](https://en.wikipedia.org/wiki/Star_Wars_Commander)
+> Star Wars: Commander is a free-to-play combat strategy game where fans will join either the Rebel Alliance or the Galactic Empire to recruit and lead an unstoppable force across the Star Wars galaxy.  Star Wars: Commander features the full array of vehicles, weapons and technology from the Star Wars universe. Players who rally to the Rebellion will call upon iconic heroes such as Han Solo, Chewbacca and Princess Leia to support missions for justice and freedom, while leaders of the Imperial forces will command AT-ATs, TIE fighters and Stormtroopers to gain control of the galaxy.  Star Wars: Commander also offers an original Star Wars storyline set within the Galactic Civil War of Episodes IV – VI, where “commanders” determine if it’s the Empire’s strength and relentlessness or the Rebellion’s heroism and resourcefulness that will win the war.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Star_Wars_Commander) · [IGDB](https://www.igdb.com/games/star-wars-commander)
 
 ---
 
 ### Swing Copters
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co6fi1.jpg" alt="Swing Copters cover" width="200">
+
 **Platforms:** Android, iOS, Windows Phone &nbsp;|&nbsp; **Developer:** .Gears &nbsp;|&nbsp; **Publisher:** .Gears &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** August 21, 2014
 
-[Wikipedia](https://en.wikipedia.org/wiki/Swing_Copters)
+> Flying with a propeller hat is not as easy as it looks.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Swing_Copters) · [IGDB](https://www.igdb.com/games/swing-copters)
 
 ---
 
@@ -362,9 +464,15 @@
 
 ### Alien Hive
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co4tcx.jpg" alt="Alien Hive cover" width="200">
+
 **Platforms:** iOS, Android, Windows Phone &nbsp;|&nbsp; **Developer:** Appxplore &nbsp;|&nbsp; **Publisher:** Appxplore &nbsp;|&nbsp; **Genre:** Puzzle &nbsp;|&nbsp; **Released:** March 2013
 
-[Wikipedia](https://en.wikipedia.org/wiki/Alien_Hive)
+> Alien Hive is all about evolving aliens, blending match-3 with sliding tile puzzles for a game that feels both familiar and fresh. Swipe tiles to make matches – combine eggs to hatch cute baby aliens, and then help them fully evolve into Supreme Aliens.  Match resource tiles for upgrades that let you take command of the board, with the goal of building the ultimate alien hive. Strategically avoid the Naughty Bots, who block your progress, by crafting power-ups to eliminate these baddies. As you advance, you will uncover the mystery of the hidden aliens... and tame the Red Planet!
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Alien_Hive) · [IGDB](https://www.igdb.com/games/alien-hive)
 
 ---
 
@@ -412,17 +520,29 @@
 
 ### Dark Lands
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co53ej.jpg" alt="Dark Lands cover" width="200">
+
 **Platforms:** Windows Phone, Android, iOS &nbsp;|&nbsp; **Developer:** Mingle Games &nbsp;|&nbsp; **Publisher:** Mingle Games, Bulkypix &nbsp;|&nbsp; **Genre:** Endless Runner &nbsp;|&nbsp; **Released:** December 12, 2013
 
-[Wikipedia](https://en.wikipedia.org/wiki/Dark_Lands_(video_game))
+> Run through enemies and dangerous traps! Dark Lands is an epic battle runner action game. Develop your hero to survive this infinity battle and run as long as possible!
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Dark_Lands_(video_game)) · [IGDB](https://www.igdb.com/games/dark-lands)
 
 ---
 
 ### Darklings
 
-**Platforms:** iOS, Windows Phone &nbsp;|&nbsp; **Developer:** MildMania &nbsp;|&nbsp; **Released:** November 27, 2013
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co7b99.jpg" alt="Darklings cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/Darklings)
+**Platforms:** iOS, Windows Phone &nbsp;|&nbsp; **Developer:** MildMania &nbsp;|&nbsp; **Genre:** Arcade &nbsp;|&nbsp; **Released:** November 27, 2013
+
+> Darklings stole all the stars from the world which is an essence of light and brought Darkness. Join Lum to purge the Darklings. Experience unique gesture driven gameplay blended with awesome noire artwork carrying the touch based games to a whole new level. Save the stars, save the world. Darkness is coming!
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Darklings) · [IGDB](https://www.igdb.com/games/darklings)
 
 ---
 
@@ -436,9 +556,15 @@
 
 ### GT Racing 2: The Real Car Experience
 
-**Platforms:** Android, iOS, Windows Phone, Windows &nbsp;|&nbsp; **Developer:** Gameloft Bulgaria &nbsp;|&nbsp; **Publisher:** Gameloft &nbsp;|&nbsp; **Released:** November 13, 2013
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2f7j.jpg" alt="GT Racing 2: The Real Car Experience cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/GT_Racing_2:_The_Real_Car_Experience)
+**Platforms:** Android, iOS, Windows Phone, Windows &nbsp;|&nbsp; **Developer:** Gameloft Bulgaria &nbsp;|&nbsp; **Publisher:** Gameloft &nbsp;|&nbsp; **Genre:** Racing, Sport, Arcade &nbsp;|&nbsp; **Released:** November 13, 2013
+
+> GT Racing 2: The Real Car Experience is a true-to-life automotive journey featuring the most prestigious cars in the world!  The best-selling franchise is back for free and it's designed to offer an unprecedented level of driving enjoyment, whether playing solo or multiplayer.    LEADERSHIP: POSSIBLY THE BEST HANDHELD RACING SIMULATION  • The richest handheld racing simulation game this year: 71 licensed cars on 13 tracks, including the real Mazda Raceway Laguna Seca.  • A superb collection of real cars from over 30 manufacturers: Mercedes-Benz, Ferrari, Dodge, Nissan, Audi, Ford, and more.  • Test your driving skills by completing 1,400 events, including Classic Races, Duels, Knockouts and Overtakes.  • 28 new challenges each week: improve your driving skills & maybe win a new car for free!    AUTHENTICITY: A DEEPER DRIVING SENSATION  • The new physics model offers the most realistic car dynamics ever offered in a handheld game.  • The sun is not always shining in GT Racing 2: Our tracks have different times of day and weather conditions.  • Race your way by choosing from among 4 different cameras, including a breathtaking interior view, and feast your eyes on real car designs!  • No repair times or repair costs! We won't make you wait or pay to race in an event again.    EXPERIENCE: ENJOY THE RIDE SOLO OR IN MULTIPLAYER  • Compete with your friends or with real players from all over the world. Earn the fastest time on each race in multiplayer!  • Join teams to play with other drivers and accomplish common goals.  • New racer? Turn on Steering & Braking Assistance to get up to speed in a flash!  • Veteran driver? Tweak your performance in the garage with tons of custom options!
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/GT_Racing_2:_The_Real_Car_Experience) · [IGDB](https://www.igdb.com/games/gt-racing-2-the-real-car-experience)
 
 ---
 
@@ -458,9 +584,15 @@
 
 ### Lost Echo
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co8o2q.jpg" alt="Lost Echo cover" width="200">
+
 **Platforms:** iOS, Windows Phone, Android &nbsp;|&nbsp; **Developer:** KickBack Studios &nbsp;|&nbsp; **Publisher:** KickBack Studios &nbsp;|&nbsp; **Genre:** Point-and-click adventure, Science fiction &nbsp;|&nbsp; **Released:** September 27, 2013
 
-[Wikipedia](https://en.wikipedia.org/wiki/Lost_Echo)
+> In the near future Greg's girlfriend Chloe mysteriously disappears in front of him. He starts a desperate search for her. What happened? Why does no-one else remember her?  In this indie, story driven adventure game you explore fully 3d environments using an intuitive point and click interface. Solve puzzles, explore, play minigames, interact with numerous characters and find out what really happened!
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Lost_Echo) · [IGDB](https://www.igdb.com/games/lost-echo)
 
 ---
 
@@ -480,33 +612,57 @@
 
 ### Rabbids Big Bang
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co6wz1.jpg" alt="Rabbids Big Bang cover" width="200">
+
 **Platforms:** iOS, Android, Windows, Windows Phone &nbsp;|&nbsp; **Developer:** Ubisoft Milan, Ubisoft Paris &nbsp;|&nbsp; **Publisher:** Ubisoft &nbsp;|&nbsp; **Genre:** Puzzle, Party &nbsp;|&nbsp; **Released:** October 17, 2013
 
-[Wikipedia](https://en.wikipedia.org/wiki/Rabbids_Big_Bang)
+> The raving rabbids are headed to space!
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Rabbids_Big_Bang) · [IGDB](https://www.igdb.com/games/rabbids-big-bang)
 
 ---
 
 ### Reaper: Tale of a Pale Swordsman
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co3ybu.jpg" alt="Reaper: Tale of a Pale Swordsman cover" width="200">
+
 **Platforms:** Android, iOS, Windows Phone, Windows, macOS, BlackBerry OS, Ouya &nbsp;|&nbsp; **Developer:** Hexage &nbsp;|&nbsp; **Genre:** Action role-playing game &nbsp;|&nbsp; **Released:** September 9, 2013
 
-[Wikipedia](https://en.wikipedia.org/wiki/Reaper:_Tale_of_a_Pale_Swordsman)
+> Enter the world ripe with magic and monsters. Become the Black Swordsman and slay thousands of enemies in an epic action RPG.  War broke between the industrious Imperium and the savage tribes of Wilderness. Demons and carrions have returned to the land.  Play all sides and make your own decisions. Take countless quests and uncover the secrets of Wilderness!
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Reaper:_Tale_of_a_Pale_Swordsman) · [IGDB](https://www.igdb.com/games/reaper-tale-of-a-pale-swordsman--1)
 
 ---
 
 ### Star Wars: Tiny Death Star
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/wxoi6boaaizwjdoh34jn.jpg" alt="Star Wars: Tiny Death Star cover" width="200">
+
 **Platforms:** Android, iOS, Windows Phone, Windows &nbsp;|&nbsp; **Developer:** Disney Mobile, NimbleBit &nbsp;|&nbsp; **Publisher:** Disney Mobile &nbsp;|&nbsp; **Genre:** Business simulation &nbsp;|&nbsp; **Released:** October 12, 2013
 
-[Wikipedia](https://en.wikipedia.org/wiki/Star_Wars:_Tiny_Death_Star)
+> Star Wars: Tiny Death Star was a business simulation video game developed by Disney Mobile and NimbleBit, and published by LucasArts for Android, iOS, Windows Phone, and Windows 8/RT devices. It is based on NimbleBit's previous game, Tiny Tower, and is set in the Star Wars universe.  In October 2014, less than a year after its launch, the game was removed from the Apple and Google stores by Disney "to focus on priority titles like Star Wars: Commander." Developer NimbleBit had not been informed by Disney prior to the removal.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Star_Wars:_Tiny_Death_Star) · [IGDB](https://www.igdb.com/games/star-wars-tiny-death-star)
 
 ---
 
 ### Strata
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2jpc.jpg" alt="Strata cover" width="200">
+
 **Platforms:** iOS, Android, Linux, macOS, Windows, Windows Phone &nbsp;|&nbsp; **Developer:** Graveck &nbsp;|&nbsp; **Genre:** Puzzle &nbsp;|&nbsp; **Released:** September 12, 2013
 
-[Wikipedia](https://en.wikipedia.org/wiki/Strata_(video_game))
+> A truly unique puzzle experience that embraces simplicity, elegance, and challenge. Strata paints a simple yet challenging puzzle game onto a sophisticated canvas of color and sound. Test the limits of your brain by completing complex weaves of color to solve the puzzles.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Strata_(video_game)) · [IGDB](https://www.igdb.com/games/strata)
 
 ---
 
@@ -534,9 +690,15 @@
 
 ### Tetris Blitz
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co7tcr.jpg" alt="Tetris Blitz cover" width="200">
+
 **Platforms:** Android, Windows Phone, iOS &nbsp;|&nbsp; **Developer:** EA Salt Lake &nbsp;|&nbsp; **Publisher:** Electronic Arts &nbsp;|&nbsp; **Genre:** Puzzle &nbsp;|&nbsp; **Released:** May 17, 2013
 
-[Wikipedia](https://en.wikipedia.org/wiki/Tetris_Blitz)
+> EA's iOS/Android free-to-play Tetris installment.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Tetris_Blitz) · [IGDB](https://www.igdb.com/games/tetris-blitz)
 
 ---
 
@@ -568,17 +730,43 @@
 
 ### Battleloot Adventure
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co4bno.jpg" alt="Battleloot Adventure cover" width="200">
+
 **Platforms:** iOS, Android, Windows Phone &nbsp;|&nbsp; **Publisher:** Digital Tales &nbsp;|&nbsp; **Genre:** tactical role-playing, single-player video game &nbsp;|&nbsp; **Released:** March 2012
 
-[Wikipedia](https://en.wikipedia.org/wiki/Battleloot_Adventure)
+> Battleloot Adventure blends comedy and turn-based combat in a role-playing adventure.  Key features include pledging your allegiance to one of four cities: The Stalwart Citadel, The Shady Docks, The Magnificent Academy and The Sparkling Tower. Recruit an assortment of adventurers, each with their own perks and unique skills. Carefully choose your 3 ideal adventurers to face each danger ahead. Upgrade and customize your characters and their abilities.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Battleloot_Adventure) · [IGDB](https://www.igdb.com/games/battleloot-adventure)
 
 ---
 
 ### Bee Leader
 
-**Platforms:** iOS, Windows Phone, Android, macOS, Windows &nbsp;|&nbsp; **Developer:** Flightless &nbsp;|&nbsp; **Publisher:** Flightless &nbsp;|&nbsp; **Released:** May 24, 2012
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/cobn7l.jpg" alt="Bee Leader cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/Bee_Leader)
+**Platforms:** iOS, Windows Phone, Android, macOS, Windows &nbsp;|&nbsp; **Developer:** Flightless &nbsp;|&nbsp; **Publisher:** Flightless &nbsp;|&nbsp; **Genre:** Arcade &nbsp;|&nbsp; **Released:** May 24, 2012
+
+> The bees need you! Become a Bee Leader and help the bees fill their hives with honey.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Bee_Leader) · [IGDB](https://www.igdb.com/games/bee-leader)
+
+---
+
+### Draw Something
+
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co1s86.jpg" alt="Draw Something cover" width="200">
+
+**Platforms:** Android, iOS, Windows Phone &nbsp;|&nbsp; **Genre:** Puzzle
+
+> Draw Something, the most popular social drawing and guessing game! Experience for yourself the laugh-out-loud game your friends are raving about!
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Draw_Something) · [IGDB](https://www.igdb.com/games/draw-something)
 
 ---
 
@@ -592,9 +780,15 @@
 
 ### Flow Free
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co1rmq.jpg" alt="Flow Free cover" width="200">
+
 **Platforms:** Windows Phone, iOS, Android &nbsp;|&nbsp; **Developer:** Big Duck Games LLC, Noodlecake Studios &nbsp;|&nbsp; **Publisher:** Big Duck Games LLC &nbsp;|&nbsp; **Genre:** Puzzle &nbsp;|&nbsp; **Released:** June 7, 2012
 
-[Wikipedia](https://en.wikipedia.org/wiki/Flow_Free)
+> Flow Free is a simple yet addictive puzzle game.  Connect matching colors with pipe to create a Flow. Pair all colors, and cover the entire board to solve each puzzle. But watch out, pipes will break if they cross or overlap!  Free play through hundreds of levels, or race against the clock in Time Trial mode. Gameplay ranges from simple and relaxed, to challenging and frenetic, and everywhere in between. How you play is up to you. So, give Flow Free a try, and experience "mind like water"!
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Flow_Free) · [IGDB](https://www.igdb.com/games/flow-free)
 
 ---
 
@@ -624,17 +818,29 @@
 
 ### My Little Pony: Magic Princess
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co6e0n.jpg" alt="My Little Pony: Magic Princess cover" width="200">
+
 **Platforms:** iOS, Android, Windows, Windows Phone &nbsp;|&nbsp; **Developer:** Gameloft &nbsp;|&nbsp; **Publisher:** Gameloft &nbsp;|&nbsp; **Genre:** City-building &nbsp;|&nbsp; **Released:** November 8, 2012
 
-[Wikipedia](https://en.wikipedia.org/wiki/My_Little_Pony:_Magic_Princess)
+> Saddle up for adventure with Twilight Sparkle & friends! After being locked away in the moon for centuries, Nightmare Moon is set free and spreading night across Ponyville! Only Twilight Sparkle and her friends can free Ponyville from her grasp and bring light and friendship back to the land. Help them rebuild the town and reach their dreams in exciting quests!
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/My_Little_Pony:_Magic_Princess) · [IGDB](https://www.igdb.com/games/my-little-pony-magic-princess)
 
 ---
 
 ### Nemo's Reef
 
-**Platforms:** iOS, Android, Windows Phone &nbsp;|&nbsp; **Developer:** Disney Mobile &nbsp;|&nbsp; **Released:** December 20, 2012
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/ucwyijiapjhunugmhkar.jpg" alt="Nemo's Reef cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/Nemo's_Reef)
+**Platforms:** iOS, Android, Windows Phone &nbsp;|&nbsp; **Developer:** Disney Mobile &nbsp;|&nbsp; **Genre:** Simulator, Strategy &nbsp;|&nbsp; **Released:** December 20, 2012
+
+> Players Build their own reef in Nemo's Reef.  Nemo's Reef was a city-building release on iOS and Android based on the 2003 Disney/Pixar animated feature film, Finding Nemo. The app was released in tie-in with the 2012 home video re-release of Finding Nemo.  The game was officially removed on June 1, 2017 from application stores after it was announced that the game would be no longer available to download on May 31, 2017. The game's servers were permanently closed on June 30 on that same year, one year after the theatrical release of Finding Dory.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Nemo's_Reef) · [IGDB](https://www.igdb.com/games/nemos-reef)
 
 ---
 
@@ -676,17 +882,29 @@
 
 ### Tiny Troopers
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co44p7.jpg" alt="Tiny Troopers cover" width="200">
+
 **Platforms:** iOS, Android, Windows, macOS, Windows Phone &nbsp;|&nbsp; **Developer:** Kukouri Mobile Entertainment &nbsp;|&nbsp; **Publisher:** Chillingo, Iceberg Interactive, Game Troopers &nbsp;|&nbsp; **Genre:** Multidirectional shooter &nbsp;|&nbsp; **Released:** June 7, 2012
 
-[Wikipedia](https://en.wikipedia.org/wiki/Tiny_Troopers)
+> Tiny Troopers puts you in command of a team of small soldiers. Guide them through 30 deadly missions with varied objectives: destroy enemy armoured formations, save hostages and eliminate enemy generals, to name but just a few.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Tiny_Troopers) · [IGDB](https://www.igdb.com/games/tiny-troopers)
 
 ---
 
 ### Zombie Tsunami
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co4k5i.jpg" alt="Zombie Tsunami cover" width="200">
+
 **Platforms:** Android, iOS, Windows Phone &nbsp;|&nbsp; **Developer:** Mobigame &nbsp;|&nbsp; **Publisher:** Mobigame &nbsp;|&nbsp; **Genre:** Side scrolling endless runner &nbsp;|&nbsp; **Released:** May 31, 2012
 
-[Wikipedia](https://en.wikipedia.org/wiki/Zombie_Tsunami)
+> The zombies are revolting ! Attack the city with a horde of zombies, change pedestrians into zombies and create the largest horde. Eat your friends, and challenge them to a crazy race by destroying everything in your path.  Zombie Tsunami has proudly exceeded 200 million players around the world.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Zombie_Tsunami) · [IGDB](https://www.igdb.com/games/zombie-tsunami)
 
 ---
 
@@ -710,49 +928,85 @@
 
 ### Cabals: Magic & Battle Cards
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co91vc.jpg" alt="Cabals: Magic & Battle Cards cover" width="200">
+
 **Platforms:** Browser, iOS, Android, Windows, macOS, Windows Phone &nbsp;|&nbsp; **Developer:** Kyy Games &nbsp;|&nbsp; **Publisher:** Kyy Games &nbsp;|&nbsp; **Genre:** Digital collectible card game &nbsp;|&nbsp; **Released:** November 30, 2011
 
-[Wikipedia](https://en.wikipedia.org/wiki/Cabals:_Magic_&_Battle_Cards)
+> Cabals combines the strategic deck building of card games and tactics of a chess like board game. The classic collectible card game is now designed from the ground up for PC. Choose your side, build your perfect deck and battle in the War of Cabals to decide the fate of humankind!
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Cabals:_Magic_&_Battle_Cards) · [IGDB](https://www.igdb.com/games/cabals-magic-and-battle-cards)
 
 ---
 
 ### Contre Jour
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co3uvz.jpg" alt="Contre Jour cover" width="200">
+
 **Platforms:** Browser, iOS, Windows Phone, Android, Windows &nbsp;|&nbsp; **Developer:** Mokus &nbsp;|&nbsp; **Publisher:** Chillingo &nbsp;|&nbsp; **Genre:** Puzzle &nbsp;|&nbsp; **Released:** August 24, 2011
 
-[Wikipedia](https://en.wikipedia.org/wiki/Contre_Jour)
+> Contre Jour is a physics-based puzzle game based on guiding the blob-like character Petit through different levels. Instead of controlling the character directly, the player can only manipulate the environment to move the character and bring it to the destination.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Contre_Jour) · [IGDB](https://www.igdb.com/games/contre-jour)
 
 ---
 
 ### Full House Poker
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/exmvscxctgnadjigl7g9.jpg" alt="Full House Poker cover" width="200">
+
 **Platforms:** Xbox 360, Windows Phone &nbsp;|&nbsp; **Developer:** Microsoft Studios, Krome Studios &nbsp;|&nbsp; **Publisher:** Microsoft Studios &nbsp;|&nbsp; **Genre:** Card game, MMO &nbsp;|&nbsp; **Released:** March 16, 2011
 
-[Wikipedia](https://en.wikipedia.org/wiki/Full_House_Poker)
+> A variation of the Texas Hold'em made for the Xbox 360. Your "avatar" would play in Texas Hold'em tournaments against either AI players or other Xbox live players. No real money was played for within the game.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Full_House_Poker) · [IGDB](https://www.igdb.com/games/full-house-poker)
 
 ---
 
 ### Kaptain Brawe: A Brawe New World
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co24o4.jpg" alt="Kaptain Brawe: A Brawe New World cover" width="200">
+
 **Platforms:** Windows, Windows Phone, macOS, iOS, Android &nbsp;|&nbsp; **Developer:** Cateia Games &nbsp;|&nbsp; **Genre:** Adventure, hidden object, puzzle
 
-[Wikipedia](https://en.wikipedia.org/wiki/Kaptain_Brawe:_A_Brawe_New_World)
+> Step into the world of interstellar travel, where Space Pirates lurk at every corner. Kaptain Brawe, a Space Police officer will embark on a journey filled with quests, conspiracies and general chaos, as he follows the lead of two kidnapped alien scientists.  Set in a beautiful, hand drawn alternative 19th century world, Kaptain Brawe's cartoon appearance will suit younger, as well as mature players, who enjoy games filled with humorous storyline and challenging puzzles.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Kaptain_Brawe:_A_Brawe_New_World) · [IGDB](https://www.igdb.com/games/kaptain-brawe-a-brawe-new-world)
 
 ---
 
 ### King's Bounty: Legions
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co21ps.jpg" alt="King's Bounty: Legions cover" width="200">
+
 **Platforms:** Facebook, iOS, Android, Windows Phone &nbsp;|&nbsp; **Developer:** Nival and KranX Productions &nbsp;|&nbsp; **Publisher:** Nival &nbsp;|&nbsp; **Genre:** Turn-based strategy &nbsp;|&nbsp; **Released:** August 9, 2011
 
-[Wikipedia](https://en.wikipedia.org/wiki/King's_Bounty:_Legions)
+> King’s Bounty: Legions is vibrant, well thought-out 3D online strategy game with turn-based combat in a vast and diverse game universe. Head into a world full of magic, wondrous creatures and wicked monsters. Become a knight, forge armor in the smithy and amass an invincible army! Upgrade your troops and learn new spells.  Wage battle against friends and share your achievements! Join a clan or create your own.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/King's_Bounty:_Legions) · [IGDB](https://www.igdb.com/games/kings-bounty-legions)
 
 ---
 
 ### Order & Chaos Online
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co48z5.jpg" alt="Order & Chaos Online cover" width="200">
+
 **Platforms:** iOS, Android, Windows, Windows Phone &nbsp;|&nbsp; **Developer:** Gameloft Beijing &nbsp;|&nbsp; **Publisher:** Gameloft &nbsp;|&nbsp; **Genre:** Massively multiplayer online role-playing game &nbsp;|&nbsp; **Released:** June 23, 2011
 
-[Wikipedia](https://en.wikipedia.org/wiki/Order_&_Chaos_Online)
+> A fantasy MMORPG video game developed by Gameloft's Beijing studio for Microsoft Windows, Windows Phone, iOS, and Android devices.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Order_&_Chaos_Online) · [IGDB](https://www.igdb.com/games/order-and-chaos-online)
 
 ---
 
@@ -782,17 +1036,29 @@
 
 ### Survivalcraft
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/puygzu6pb2upgqf78xlk.jpg" alt="Survivalcraft cover" width="200">
+
 **Platforms:** Windows Phone, Android, iOS, Windows &nbsp;|&nbsp; **Developer:** Candy Rufus Games &nbsp;|&nbsp; **Publisher:** Candy Rufus Games &nbsp;|&nbsp; **Genre:** Sandbox, survival &nbsp;|&nbsp; **Released:** November 16, 2011
 
-[Wikipedia](https://en.wikipedia.org/wiki/Survivalcraft)
+> You are marooned on the shores of an infinite blocky world. Explore, mine resources, craft tools and weapons, make traps and grow plants. Tailor clothes and hunt animals for food and resources. Build a shelter to survive cold nights and share your worlds online. Ride horses, camels or donkeys and herd cattle to protect them from predators. Blast your way through the rock with explosives. Build complex electric devices. Possibilities are infinite in this long-running sandbox survival and construction game series.  This is the thirtieth release of Survivalcraft, and it adds a new armor and weapons tier - copper! You can now paint stairs, slab, fences and signs and place electric gates on the floor or ceiling. Wander in dense forests full of tall spruces and fallen logs. Explore bigger caves, but watch out for huge magma chambers underground (15x bigger than 1.28). There are new sound generator sounds for you to use, including hi-fi drums! Check out full list of 70 changes at game webpage.  Survivalcraft brings features you love in the PC version of the most famous blocky game to your mobile device: infinite worlds, caves, logic elements (electricity), weather, boats, rideable animals, explosions, clothes, armor and many more. It does so while maintaining its own realistic, survival-themed style.  Enjoy!
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Survivalcraft) · [IGDB](https://www.igdb.com/games/survivalcraft)
 
 ---
 
 ### The Tiny Bang Story
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co1rk3.jpg" alt="The Tiny Bang Story cover" width="200">
+
 **Platforms:** Windows, macOS, Windows Phone &nbsp;|&nbsp; **Developer:** Colibri Games &nbsp;|&nbsp; **Publisher:** Colibri Games &nbsp;|&nbsp; **Genre:** Graphic adventure &nbsp;|&nbsp; **Released:** April 22, 2011
 
-[Wikipedia](https://en.wikipedia.org/wiki/The_Tiny_Bang_Story)
+> Life on Tiny Planet was calm and carefree until a great disaster occurred - Tiny Planet was hit by a meteor! The world fell apart and now its future depends only on you! Use your imagination and creativity: in order to restore Tiny Planet and help its inhabitants you will have to fix a variety of machines and mechanisms as well as solve puzzles in each of the five chapters of this game. Navigation is simple and intuitive. It doesn't distract you from the witty brain teasers, and you will be able to fully immerse yourself in the unique atmosphere of the game.  There is no text in this game. It is fun for all ages and suitable for the whole family.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/The_Tiny_Bang_Story) · [IGDB](https://www.igdb.com/games/the-tiny-bang-story)
 
 ---
 
@@ -806,17 +1072,29 @@
 
 ### Where's My Water?
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co4v8c.jpg" alt="Where's My Water? cover" width="200">
+
 **Platforms:** iOS, Android, Windows Phone, Windows, macOS, BlackBerry OS, Fire OS, Browser &nbsp;|&nbsp; **Developer:** Creature Feep &nbsp;|&nbsp; **Publisher:** Disney Mobile &nbsp;|&nbsp; **Genre:** Puzzle &nbsp;|&nbsp; **Released:** September 22, 2011
 
-[Wikipedia](https://en.wikipedia.org/wiki/Where's_My_Water%3F)
+> Where's My Water? is a puzzle video game developed by American studio Creature Feep where the players have to route a supply of water to the alligator Swampy.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Where's_My_Water%3F) · [IGDB](https://www.igdb.com/games/wheres-my-water)
 
 ---
 
 ### Zombies
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co9k1s.jpg" alt="Zombies cover" width="200">
+
 **Platforms:** Windows Phone, iOS, Android &nbsp;|&nbsp; **Developer:** Babaroga &nbsp;|&nbsp; **Publisher:** Twilight Creations Inc. &nbsp;|&nbsp; **Genre:** Turn-based strategy &nbsp;|&nbsp; **Released:** January 12, 2011
 
-[Wikipedia](https://en.wikipedia.org/wiki/Zombies_(video_game))
+> Zombies!!! the popular board game from Twilight Creations Inc. comes to Windows Phone 7 and Windows 8.  Zombies!!! is a video game adaptation of the popular tile-based board game by Twilight Creations Inc, publisher of the original game. The game was initially to be developed by Big Rooster for PlayStation Network, Xbox Live Arcade and Windows PCs through Steam, with possible versions for the Wii and the Nintendo DS. However, only Windows Phone 7 and Windows 8 versions have been confirmed after development of the game was resumed and taken over by Babaroga.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Zombies_(video_game)) · [IGDB](https://www.igdb.com/games/zombies)
 
 ---
 
@@ -826,41 +1104,71 @@
 
 ### Doodle God
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co3m4j.jpg" alt="Doodle God cover" width="200">
+
 **Platforms:** Browser, Android, Bada, BlackBerry OS, iOS, Mobile phone, macOS, Windows Phone &nbsp;|&nbsp; **Developer:** JoyBits &nbsp;|&nbsp; **Genre:** Puzzle &nbsp;|&nbsp; **Released:** June 11, 2010
 
-[Wikipedia](https://en.wikipedia.org/wiki/Doodle_God)
+> Doodle God is a puzzle video game initially released for the iPhone/iPod Touch and subsequently released as a flash browser game, an Android game and a Windows Phone app. The Adobe Flash online browser game can be found on Armor Games. Version 1.1 was released on June 27, 2010. Doodle God's gameplay is inspired by Russian online javascript game 'Alchemygame' based on an old DOS game named 'Alchemy'.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Doodle_God) · [IGDB](https://www.igdb.com/games/doodle-god)
 
 ---
 
 ### Earthworm Jim HD
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2irm.jpg" alt="Earthworm Jim HD cover" width="200">
+
 **Platforms:** Xbox 360, PlayStation 3, PlayStation Network, Windows Phone &nbsp;|&nbsp; **Developer:** Gameloft &nbsp;|&nbsp; **Publisher:** Gameloft &nbsp;|&nbsp; **Genre:** Platform shoot 'em up &nbsp;|&nbsp; **Released:** June 9, 2010
 
-[Wikipedia](https://en.wikipedia.org/wiki/Earthworm_Jim_HD)
+> Earthworm Jim HD is a high definition remake of the original Earthworm Jim video game.  The main addition to the gameplay is the inclusion of a 4 player cooperative online multi-player mode. The game contains new levels, not present in the original release, which can be played with up to four players both locally or over the internet, and involve teamwork-based puzzles and gameplay. There are fifteen multi-player levels in total. Achievements can also be unlocked in the multiplayer portion of the game, rewarding players for being "No. 1' in each Xbox Live multiplayer level".
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Earthworm_Jim_HD) · [IGDB](https://www.igdb.com/games/earthworm-jim-hd)
 
 ---
 
 ### Fragger
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2gg3.jpg" alt="Fragger cover" width="200">
+
 **Platforms:** Browser, iOS, Android, Windows Phone, Mobile phone &nbsp;|&nbsp; **Developer:** Harold Brenes, Miniclip.com &nbsp;|&nbsp; **Genre:** Action, Puzzle &nbsp;|&nbsp; **Released:** June 3, 2010
 
-[Wikipedia](https://en.wikipedia.org/wiki/Fragger)
+> The world of Fragger is at risk, and he needs your help to explode all enemies! Unleash your shooting abilities to kill all the enemies and unlock 3 different perks! Featuring 340 challenging levels, and 11 different worlds, Fragger guarantees you many long hours of exploding fun! Once you become and grenade launcher expert, compare your score online with the millions of Miniclip users that play Fragger.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Fragger) · [IGDB](https://www.igdb.com/games/fragger)
 
 ---
 
 ### Ilomilo
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co8yku.jpg" alt="Ilomilo cover" width="200">
+
 **Platforms:** Windows Phone, Xbox 360 &nbsp;|&nbsp; **Developer:** Southend Interactive, Microsoft Game Studios &nbsp;|&nbsp; **Publisher:** Microsoft Game Studios &nbsp;|&nbsp; **Genre:** Puzzle &nbsp;|&nbsp; **Released:** November 8, 2010
 
-[Wikipedia](https://en.wikipedia.org/wiki/Ilomilo)
+> ilomilo is a puzzle game developed by Southend Interactive and Microsoft Game Studios. It was released on Windows Phone 7 on November 8, 2010 for AT&T customers.[2] On November 26, 2010, a "secret" website was made available where players could get a code to download a trial and purchase the game early, while the game was officially released on Xbox Live Arcade on January 5, 2011.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Ilomilo) · [IGDB](https://www.igdb.com/games/ilomilo)
 
 ---
 
 ### Puzzle Quest 2
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co3bcz.jpg" alt="Puzzle Quest 2 cover" width="200">
+
 **Platforms:** Nintendo DS, Xbox 360, iOS, Windows Phone, Windows, Android &nbsp;|&nbsp; **Developer:** Infinite Interactive &nbsp;|&nbsp; **Publisher:** D3 Publisher, Namco Bandai Games &nbsp;|&nbsp; **Genre:** Puzzle RPG &nbsp;|&nbsp; **Released:** June 22, 2010
 
-[Wikipedia](https://en.wikipedia.org/wiki/Puzzle_Quest_2)
+> Puzzle Quest 2 is a video game developed by Infinite Interactive for the Nintendo DS, Xbox Live Arcade, iOS, Android, Windows Phone 7, and Microsoft Windows. It was released on June 22, 2010 by D3 Publisher. It is the sequel to Puzzle Quest: Challenge of the Warlords, and like its predecessor, it combines role-playing with strategy and puzzle elements. It uses a competitive, Bejeweled-style, "match three game" playfield to simulate combat and other activities common to role-playing games.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Puzzle_Quest_2) · [IGDB](https://www.igdb.com/games/puzzle-quest-2)
 
 ---
 
@@ -870,9 +1178,15 @@
 
 ### 3D Brick Breaker Revolution
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/lfkvhgtd2pwzrp51q7ma.jpg" alt="3D Brick Breaker Revolution cover" width="200">
+
 **Platforms:** iOS, Windows Phone &nbsp;|&nbsp; **Developer:** Digital Chocolate &nbsp;|&nbsp; **Publisher:** Digital Chocolate &nbsp;|&nbsp; **Genre:** Arcade &nbsp;|&nbsp; **Released:** March 16, 2009
 
-[Wikipedia](https://en.wikipedia.org/wiki/3D_Brick_Breaker_Revolution)
+> A revolutionary arkanoid with 3D graphics and lots of crazy bonuses, including Jump, Guns, Laser, Change of survey, as well as Nuclear explosion and a lot of other things! The game has a great number of different levels, including secret and astounding battles with bosses. Four modes will let everybody find the game after ones one heart beginning from classics, and ending with a real Arcade Revolution!
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/3D_Brick_Breaker_Revolution) · [IGDB](https://www.igdb.com/games/3d-brick-breaker-revolution)
 
 ---
 
@@ -886,9 +1200,15 @@
 
 ### Gerbil Physics
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/coaz8c.jpg" alt="Gerbil Physics cover" width="200">
+
 **Platforms:** Android, Windows Phone &nbsp;|&nbsp; **Developer:** Pencel Games &nbsp;|&nbsp; **Publisher:** Microsoft Studios &nbsp;|&nbsp; **Genre:** Puzzle &nbsp;|&nbsp; **Released:** December 7, 2009
 
-[Wikipedia](https://en.wikipedia.org/wiki/Gerbil_Physics)
+> Gerbils have been imprisoned in blocks by the evil Toad King and turned into stacked monuments. The stacks must be knocked down in order to free the gerbils. In each level, the players uses a limited number of bombs, blasts, nukes or ropes to launch the gerbils beneath the level line. Additional points are awarded for using less resources than provided and for knocking down as many gerbils in a short amount of time. Gerbils in red blocks must never be touched.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Gerbil_Physics) · [IGDB](https://www.igdb.com/games/gerbil-physics)
 
 ---
 
@@ -908,33 +1228,57 @@
 
 ### Spider-Man: Toxic City
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co7rl8.jpg" alt="Spider-Man: Toxic City cover" width="200">
+
 **Platforms:** BlackBerry OS, Windows Phone, Mobile phone &nbsp;|&nbsp; **Developer:** Gameloft &nbsp;|&nbsp; **Publisher:** Gameloft &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** June 2009
 
-[Wikipedia](https://en.wikipedia.org/wiki/Spider-Man:_Toxic_City)
+> Spider-Man: Toxic City is an action game based on the Ultimate Spider-Man comics set within the Ultimate universe.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Spider-Man:_Toxic_City) · [IGDB](https://www.igdb.com/games/spider-man-toxic-city)
 
 ---
 
 ### The Moron Test
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/coc32s.jpg" alt="The Moron Test cover" width="200">
+
 **Platforms:** iOS, Windows Phone, Android &nbsp;|&nbsp; **Developer:** DistinctDev &nbsp;|&nbsp; **Publisher:** DistinctDev &nbsp;|&nbsp; **Genre:** Entertainment
 
-[Wikipedia](https://en.wikipedia.org/wiki/The_Moron_Test)
+> Graduate from Moron to Genius as you tap, twist, and shake your way through these fun and tricky mind challenges.  The tricky puzzles include questions that test your memory, reading comprehension, math, patience, problem solving and more! No two questions are exactly alike, but they’re all made to boggle the mind.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/The_Moron_Test) · [IGDB](https://www.igdb.com/games/the-moron-test)
 
 ---
 
 ### Words with Friends
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2jpo.jpg" alt="Words with Friends cover" width="200">
+
 **Platforms:** Android, iOS, Facebook, Windows Phone, Windows &nbsp;|&nbsp; **Developer:** Zynga &nbsp;|&nbsp; **Genre:** Word game &nbsp;|&nbsp; **Released:** July 2009
 
-[Wikipedia](https://en.wikipedia.org/wiki/Words_with_Friends)
+> Words with Friends is a multi-player word game. Players take turns building words crossword puzzle style in a manner similar to the classic board game Scrabble. (The rules of the two games are similar, but Words with Friends is not officially associated with the Scrabble brand.) Up to 30 games can be played simultaneously using push notifications to alert players when it is their turn. Players may look up friends either by username or through Facebook, or be randomly assigned an opponent through "Smart Match". Players can also find potential opponents using Community Match.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Words_with_Friends) · [IGDB](https://www.igdb.com/games/words-with-friends)
 
 ---
 
 ### Zuma's Revenge!
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2ry6.jpg" alt="Zuma's Revenge! cover" width="200">
+
 **Platforms:** Windows, Xbox 360, Windows Phone, macOS, Nintendo DS, iOS, PlayStation Network &nbsp;|&nbsp; **Developer:** PopCap Games &nbsp;|&nbsp; **Publisher:** PopCap Games, Electronic Arts &nbsp;|&nbsp; **Genre:** Puzzle &nbsp;|&nbsp; **Released:** September 15, 2009
 
-[Wikipedia](https://en.wikipedia.org/wiki/Zuma's_Revenge!)
+> Conquer over 60 levels by staying sharp and avoiding hidden traps. Slide and hop for smarter shots; hit targets for exotic bonuses; detonate new power-up balls; battle six imposing tiki bosses and guide your agile amphibian to victory in four all new game modes! Will you succumb to the perilous pitfalls, or can you tame the jungle in this PopCap ball-blasting challenge?
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Zuma's_Revenge!) · [IGDB](https://www.igdb.com/games/zumas-revenge)
 
 ---
 

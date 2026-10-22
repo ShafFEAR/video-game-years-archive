@@ -2,7 +2,25 @@
 
 [← Back to index](../README.md)
 
-278 titles across 8 years in this archive.
+280 titles across 9 years in this archive.
+
+## 2022
+
+[Full 2022 page](../years/2022.md)
+
+### Ship of Harkinian
+
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co661w.jpg" alt="Ship of Harkinian cover" width="200">
+
+**Platforms:** Windows, macOS, Linux, Wii U, Nintendo Switch &nbsp;|&nbsp; **Genre:** Role-playing (RPG), Adventure
+
+> Ship of Harkinian, also known as The Legend of Zelda: Ocarina of Time PC Port, is a mod (which requires the original game to compile) of the famous Nintendo 64 game, made using the open-source code by the Nintendo 64 Decompilation Project, just like the Super Mario 64 PC Port. This mod adds quality of life improvements to the game, like Widescreen resolution, HD textures and compatibility with modern controllers, while making it playable on Windows.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Ship_of_Harkinian) · [IGDB](https://www.igdb.com/games/ship-of-harkinian)
+
+---
 
 ## 2018
 
@@ -84,9 +102,15 @@
 
 ### Use Your Words
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/zdw0pddl9ccod1nss8my.jpg" alt="Use Your Words cover" width="200">
+
 **Platforms:** Windows, macOS, PlayStation 4, Xbox One, Wii U, Nintendo Switch &nbsp;|&nbsp; **Developer:** Smiling Buddha Games &nbsp;|&nbsp; **Publisher:** Screenwave Media &nbsp;|&nbsp; **Genre:** Party &nbsp;|&nbsp; **Released:** April 4, 2017
 
-[Wikipedia](https://en.wikipedia.org/wiki/Use_Your_Words)
+> Grab a few friends and get ready to laugh. Use Your Words is the party game for funny people and their unfunny friends!  Use Your Words is a game that invites players to respond to a variety of mini-games and prompts with the funniest answers they can think of! Players play using their phones and tablets as controllers, making game-play seamless and quick to pick up. Players who get stumped can use one of the hidden "House Answers" to lay a trap for their fellow players once it's time for everyone to vote for their favorite.  Whether you're a total novice or a world-famous comedian, we guarantee hours of non-stop hilarity. So, grab a few friends and get ready to laugh along with Use Your Words!
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Use_Your_Words) · [IGDB](https://www.igdb.com/games/use-your-words)
 
 ---
 
@@ -392,9 +416,15 @@
 
 ### Cube Life: Island Survival
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co4v6o.jpg" alt="Cube Life: Island Survival cover" width="200">
+
 **Platforms:** Wii U &nbsp;|&nbsp; **Developer:** Cypronia &nbsp;|&nbsp; **Publisher:** Cypronia &nbsp;|&nbsp; **Genre:** Open world, sandbox, survival &nbsp;|&nbsp; **Released:** June 4, 2015
 
-[Wikipedia](https://en.wikipedia.org/wiki/Cube_Life:_Island_Survival)
+> A block building open-world survival game originally for the Wii U, later ported to a variety of systems.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Cube_Life:_Island_Survival) · [IGDB](https://www.igdb.com/games/cube-life-island-survival)
 
 ---
 
@@ -438,9 +468,15 @@
 
 ### Fast Racing Neo
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2dzt.jpg" alt="Fast Racing Neo cover" width="200">
+
 **Platforms:** Wii U &nbsp;|&nbsp; **Developer:** Shin'en Multimedia &nbsp;|&nbsp; **Publisher:** Shin'en Multimedia, Arc System Works &nbsp;|&nbsp; **Genre:** Racing &nbsp;|&nbsp; **Released:** December 10, 2015
 
-[Wikipedia](https://en.wikipedia.org/wiki/Fast_Racing_Neo)
+> Race through a futuristic sci-fi world at incredible speeds in Fast Racing Neo. Jump into the driver’s seat of your anti-gravity vehicle and put your skills to the test in high octane competitions. Challenge your friends to local split-screen competitions or take part in online races against players from all around the world.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Fast_Racing_Neo) · [IGDB](https://www.igdb.com/games/fast-racing-neo)
 
 ---
 
@@ -504,9 +540,15 @@
 
 ### Just Dance: Disney Party 2
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2qgx.jpg" alt="Just Dance: Disney Party 2 cover" width="200">
+
 **Platforms:** Xbox 360, Xbox One, Wii, Wii U &nbsp;|&nbsp; **Developer:** Ubisoft San Francisco &nbsp;|&nbsp; **Publisher:** Ubisoft &nbsp;|&nbsp; **Genre:** Music, rhythm, dance &nbsp;|&nbsp; **Released:** October 20, 2015
 
-[Wikipedia](https://en.wikipedia.org/wiki/Just_Dance:_Disney_Party_2)
+> Just Dance and Disney are back together, bringing the greatest dance game for the whole family with music from the hottest Disney Channel shows and movies, in Just Dance: Disney Party 2. Dance like the stars from the most popular Disney Channel shows and movies. With a great selection of family favorite songs, fun dances, and kid-friendly gameplay, children of all ages can dance along with family friends.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Just_Dance:_Disney_Party_2) · [IGDB](https://www.igdb.com/games/just-dance-disney-party-2)
 
 ---
 
@@ -682,9 +724,15 @@
 
 ### Temple of Yog
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co6v1n.jpg" alt="Temple of Yog cover" width="200">
+
 **Platforms:** Wii U &nbsp;|&nbsp; **Developer:** ChudChud Industries &nbsp;|&nbsp; **Publisher:** ChudChud Industries &nbsp;|&nbsp; **Genre:** Action, Roguelike &nbsp;|&nbsp; **Released:** December 16, 2015
 
-[Wikipedia](https://en.wikipedia.org/wiki/Temple_of_Yog)
+> A Wii U-exclusive roguelike which displays the regular world on the TV and a shadow world on the GamePad screen.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Temple_of_Yog) · [IGDB](https://www.igdb.com/games/temple-of-yog)
 
 ---
 
@@ -710,9 +758,15 @@
 
 ### Typoman
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/jxq2j3raorfftqm4ionj.jpg" alt="Typoman cover" width="200">
+
 **Platforms:** Steam, Wii U, Android &nbsp;|&nbsp; **Developer:** Brainseed Factory &nbsp;|&nbsp; **Publisher:** Brainseed Factory &nbsp;|&nbsp; **Genre:** Puzzle, platform &nbsp;|&nbsp; **Released:** November 19, 2015
 
-[Wikipedia](https://en.wikipedia.org/wiki/Typoman)
+> Typoman is a two dimensional puzzle platformer distinguished by a unique game world. You slip into the role of the HERO struggling to make your way through a dark, surreal world. Despite your small stature you have a powerful gift: You can use letters to alter your environment!  Be the HERO and set out on the journey to become whole and gain the powers you need to defeat the giant, evil demon that rules the world you are trapped in.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Typoman) · [IGDB](https://www.igdb.com/games/typoman)
 
 ---
 
@@ -756,9 +810,15 @@
 
 ### Yo-kai Watch Dance: Just Dance Special Version
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co1xgd.jpg" alt="Yo-kai Watch Dance: Just Dance Special Version cover" width="200">
+
 **Platforms:** Wii U &nbsp;|&nbsp; **Developer:** Level-5, Ubisoft &nbsp;|&nbsp; **Publisher:** Level-5 &nbsp;|&nbsp; **Genre:** Dance &nbsp;|&nbsp; **Released:** December 5, 2015
 
-[Wikipedia](https://en.wikipedia.org/wiki/Yo-kai_Watch_Dance:_Just_Dance_Special_Version)
+> A collaboration between Level-5 and Ubisoft, the game is a Yo-kai Watch-themed version of the Just Dance games.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Yo-kai_Watch_Dance:_Just_Dance_Special_Version) · [IGDB](https://www.igdb.com/games/yo-kai-watch-dance-just-dance-special-edition)
 
 ---
 
@@ -842,9 +902,15 @@
 
 ### Cabela's Big Game Hunter: Pro Hunts
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co60b2.jpg" alt="Cabela's Big Game Hunter: Pro Hunts cover" width="200">
+
 **Platforms:** Windows, PlayStation 3, Wii U, Xbox 360 &nbsp;|&nbsp; **Developer:** Cauldron &nbsp;|&nbsp; **Publisher:** Activision &nbsp;|&nbsp; **Genre:** First-person shooter, sports &nbsp;|&nbsp; **Released:** March 25, 2014
 
-[Wikipedia](https://en.wikipedia.org/wiki/Cabela's_Big_Game_Hunter:_Pro_Hunts)
+> Hunt with the pros! Bring home bigger game faster using advice from our pros, including Wade Middleton, Jim Shockey, and Ralph & Vicki Cianciarulo. Traverse maps 4x the size of any previous Cabela's Big Game Hunter game! Track, scout and target your trophy animal in all new ways!
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Cabela's_Big_Game_Hunter:_Pro_Hunts) · [IGDB](https://www.igdb.com/games/cabelas-big-game-hunter-pro-hunts)
 
 ---
 
@@ -998,9 +1064,15 @@
 
 ### Just Dance Wii U
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co1xg5.jpg" alt="Just Dance Wii U cover" width="200">
+
 **Platforms:** Wii U &nbsp;|&nbsp; **Developer:** Ubisoft &nbsp;|&nbsp; **Publisher:** Nintendo &nbsp;|&nbsp; **Genre:** Music, rhythm &nbsp;|&nbsp; **Released:** April 3, 2014
 
-[Wikipedia](https://en.wikipedia.org/wiki/Just_Dance_Wii_U)
+> Just Dance Wii U is a Japanese-exclusive entry in the Just Dance series. It combines a plethora of Japanese language songs with some choice entries from Just Dance 4 and Just Dance 2014.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Just_Dance_Wii_U) · [IGDB](https://www.igdb.com/games/just-dance-wii-u)
 
 ---
 
@@ -1086,9 +1158,15 @@
 
 ### Meme Run
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2hyn.jpg" alt="Meme Run cover" width="200">
+
 **Platforms:** Wii U &nbsp;|&nbsp; **Developer:** Ninja Pig Studios &nbsp;|&nbsp; **Publisher:** Ninja Pig Studios &nbsp;|&nbsp; **Genre:** Endless runner &nbsp;|&nbsp; **Released:** December 18, 2014
 
-[Wikipedia](https://en.wikipedia.org/wiki/Meme_Run)
+> An infinite runner for the Nintendo Wii U.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Meme_Run) · [IGDB](https://www.igdb.com/games/meme-run)
 
 ---
 
@@ -1356,6 +1434,20 @@
 
 ---
 
+### The Deer God
+
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co23c1.jpg" alt="The Deer God cover" width="200">
+
+**Platforms:** PlayStation 4, Linux, Android, Windows, iOS, macOS, Wii U, PlayStation Vita, Xbox One &nbsp;|&nbsp; **Developer:** Crescent Moon Games &nbsp;|&nbsp; **Publisher:** Crescent Moon Games, Mobot Studios, Level 77 &nbsp;|&nbsp; **Genre:** Platform
+
+> The Deer God is a breathtaking 3D pixel art adventure that will challenge your religion and your platforming skills. It's a game about survival, reincarnation, and karma; all set in a breathtaking and unique 3D pixelized world. Feast your eyes on the beautiful lighting, day and night system, and vast landscapes.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/The_Deer_God) · [IGDB](https://www.igdb.com/games/the-deer-god)
+
+---
+
 ### The Lego Movie Videogame
 
 <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co4kpj.jpg" alt="The Lego Movie Videogame cover" width="200">
@@ -1372,9 +1464,15 @@
 
 ### The Letter
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co6uxe.jpg" alt="The Letter cover" width="200">
+
 **Platforms:** Wii U &nbsp;|&nbsp; **Developer:** TreeFall Studios &nbsp;|&nbsp; **Publisher:** TreeFall Studios &nbsp;|&nbsp; **Genre:** Adventure &nbsp;|&nbsp; **Released:** July 10, 2014
 
-[Wikipedia](https://en.wikipedia.org/wiki/The_Letter_(video_game))
+> The player takes the role of a young boy, Michael Kennedy, who receives a mysterious letter from his missing father and begins a quest to find him.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/The_Letter_(video_game)) · [IGDB](https://www.igdb.com/games/the-letter--1)
 
 ---
 
@@ -1454,9 +1552,15 @@
 
 ### Adventure Time: Explore the Dungeon Because I Don't Know!
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2ezg.jpg" alt="Adventure Time: Explore the Dungeon Because I Don't Know! cover" width="200">
+
 **Platforms:** PlayStation 3, Xbox 360, Windows, Nintendo 3DS, Wii U &nbsp;|&nbsp; **Developer:** WayForward Technologies &nbsp;|&nbsp; **Publisher:** D3 Publisher, Namco Bandai Games &nbsp;|&nbsp; **Genre:** Action-adventure &nbsp;|&nbsp; **Released:** November 15, 2013
 
-[Wikipedia](https://en.wikipedia.org/wiki/Adventure_Time:_Explore_the_Dungeon_Because_I_Don't_Know!)
+> Princess Bubblegum summons Finn and Jake to the Candy Kingdom to investigate a rash of thefts and kidnappings that have plagued her kingdom. She thinks the cause lies within her Secret Royal Dungeon, where only the nastiest monsters and criminals are locked up. If they’ve found a way to escape, the Land of Ooo will be in danger! Following the mathematical, algebraic, and radical success of 2012’s Adventure Time: Hey Ice King! Why’d You Steal Our Garbage?!!, show creator Pendleton Ward teams up with developer WayForward in the all-new action game Adventure Time: Explore the Dungeon Because I DON’T KNOW!, and team up with your friends in four-player co-operative multiplayer as the Adventure Time world comes to life through beautiful pixel animations, and voiceover from the original cast.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Adventure_Time:_Explore_the_Dungeon_Because_I_Don't_Know!) · [IGDB](https://www.igdb.com/games/adventure-time-explore-the-dungeon-because-i-don-t-know)
 
 ---
 
@@ -1520,9 +1624,15 @@
 
 ### Ben 10: Omniverse 2
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co3ocs.jpg" alt="Ben 10: Omniverse 2 cover" width="200">
+
 **Platforms:** Nintendo 3DS, PlayStation 3, Wii, Wii U, Xbox 360 &nbsp;|&nbsp; **Publisher:** D3 Publisher, Namco Bandai Games &nbsp;|&nbsp; **Genre:** Beat 'em up &nbsp;|&nbsp; **Released:** November 5, 2013
 
-[Wikipedia](https://en.wikipedia.org/wiki/Ben_10:_Omniverse_2)
+> Ben 10 Omniverse 2 has players control Ben Tennyson in an adventure set in the Ben 10 universe as Ben battles a new foe, the Incurseans, and infiltrates this new enemy's intergalactic warship as he finds his way home.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Ben_10:_Omniverse_2) · [IGDB](https://www.igdb.com/games/ben-10-omniverse-2)
 
 ---
 
@@ -1542,9 +1652,15 @@
 
 ### Blek
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co51w4.jpg" alt="Blek cover" width="200">
+
 **Platforms:** iOS, Android, Wii U &nbsp;|&nbsp; **Developer:** kunabi brother &nbsp;|&nbsp; **Publisher:** kunabi brother &nbsp;|&nbsp; **Genre:** Puzzle &nbsp;|&nbsp; **Released:** December 2013
 
-[Wikipedia](https://en.wikipedia.org/wiki/Blek)
+> Blek is a 2013 puzzle video game for iOS and Android by Kunabi Brother, a team of brothers Denis and Davor Mikan. The player draws a snakelike black line that recurs in pattern and velocity across the screen to remove colored dots and avoid black dots. It is minimalist in design, features excerpts of Erin Gee, and takes inspiration from Golan Levin, the Bauhaus, and Japanese calligraphy. The brothers designed the game as a touchscreen adaptation to classic game Snake and worked on the game for over six months. It was released in December 2013 for iPad, and was later released for other iOS devices and Android.  The game received positive reviews, and critics praised the game's degree of unrestricted play. The game reached the top of the Apple App Store charts several months after its release. It received a 2014 Apple Design Award, and has sold over one million copies.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Blek) · [IGDB](https://www.igdb.com/games/blek)
 
 ---
 
@@ -1672,9 +1788,15 @@
 
 ### Forced
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2gzn.jpg" alt="Forced cover" width="200">
+
 **Platforms:** Windows, macOS, Linux, PlayStation 4, Wii U, Xbox One &nbsp;|&nbsp; **Developer:** BetaDwarf &nbsp;|&nbsp; **Publisher:** BetaDwarf &nbsp;|&nbsp; **Genre:** Action role-playing &nbsp;|&nbsp; **Released:** October 24, 2013
 
-[Wikipedia](https://en.wikipedia.org/wiki/Forced)
+> Players are cast as slaves in a fantasy gladiator arena, condemned to fight as gladiators to win their freedom. With the help of Balfus, a Spirit Mentor, they are able to fight their way through the challenges and Guardians at the end of each area and gain freedom for them and their kin.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Forced) · [IGDB](https://www.igdb.com/games/forced)
 
 ---
 
@@ -1722,17 +1844,29 @@
 
 ### Just Dance Kids 2014
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co1xg8.jpg" alt="Just Dance Kids 2014 cover" width="200">
+
 **Platforms:** Wii, Wii U, Xbox 360 &nbsp;|&nbsp; **Developer:** Ubisoft Osaka &nbsp;|&nbsp; **Publisher:** Ubisoft &nbsp;|&nbsp; **Genre:** Music, Rhythm &nbsp;|&nbsp; **Released:** October 22, 2013
 
-[Wikipedia](https://en.wikipedia.org/wiki/Just_Dance_Kids_2014)
+> Just Dance Kids 2014 - the coolest dance experience for kids is back! Featuring over 30 fun and crazy dance routines to kids favorite songs, including hits from today’s most popular artists, TV shows and movies. Just Dance Kids 2014 gets kids of all ages up and dancing with colorful graphics, super-fun dance moves, and kid-friendly gameplay!  30+ All-New Dances Led by Real Kids •Featuring songs from kids’ highest-rated TV shows, including Yo Gabba Gabba and The Wiggles •Also, featuring some of today’s hottest hits like "One Thing" by One Direction, "Hit The Lights" by Selena Gomez & The Scene, and "Give Your Heart A Break" by Demi Lovato. •Plus more re-mastered popular nursery rhymes for the youngest at home  New and Improved Features Offer Strong Benefits for Parents •Playlists allow parents to select all their kids’ favorite songs for nonstop dancing •Cooperative four-player dancing •Onscreen lyrics lets kids learn the words and sing along as they dance •Simple menu icons allow kids to navigate on their own
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Just_Dance_Kids_2014) · [IGDB](https://www.igdb.com/games/just-dance-kids-2014)
 
 ---
 
 ### Kamen Rider: Battride War
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co7jz9.jpg" alt="Kamen Rider: Battride War cover" width="200">
+
 **Platforms:** PlayStation 3, PlayStation 4, PlayStation Vita, Wii U &nbsp;|&nbsp; **Developer:** Eighting, Bandai Namco Studios &nbsp;|&nbsp; **Publisher:** Bandai Namco Games &nbsp;|&nbsp; **Genre:** Action role-playing game, hack and slash
 
-[Wikipedia](https://en.wikipedia.org/wiki/Kamen_Rider:_Battride_War)
+> Kamen Rider: Battride War is a video game based on the Kamen Rider Series, released for the PlayStation 3 on May 23, 2013. Done in the style of Dynasty Warriors, the player controls one of the Kamen Riders as he battles through a series of enemies. The game mainly features the protagonists of the Heisei era of Kamen Rider, starting with 2000's Kamen Rider Kuuga and featuring up to 2013's Kamen Rider Wizard. Showa-era Kamen Riders were originally meant to be released as downloadable content, but only two alternate versions of characters were released instead. A limited edition of the game was released that has a soundtrack that includes the original theme songs from the TV series and films.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Kamen_Rider:_Battride_War) · [IGDB](https://www.igdb.com/games/kamen-rider-battride-war)
 
 ---
 
@@ -1828,9 +1962,15 @@
 
 ### Monster Hunter Frontier G
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co3urq.jpg" alt="Monster Hunter Frontier G cover" width="200">
+
 **Platforms:** Windows, Xbox 360, PlayStation 3, Wii U &nbsp;|&nbsp; **Developer:** Capcom &nbsp;|&nbsp; **Publisher:** Capcom &nbsp;|&nbsp; **Genre:** Action role-playing &nbsp;|&nbsp; **Released:** April 17, 2013
 
-[Wikipedia](https://en.wikipedia.org/wiki/Monster_Hunter_Frontier_G)
+> Monster Hunter: Frontier G is a massively multiplayer online role-playing game (MMORPG) in the Monster Hunter franchise for Microsoft Windows, Xbox 360, PlayStation Vita, PlayStation 3 and Wii U. As of August 2014, the game has 4.5 million registered players.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Monster_Hunter_Frontier_G) · [IGDB](https://www.igdb.com/games/monster-hunter-frontier-g)
 
 ---
 
@@ -2004,9 +2144,15 @@
 
 ### Strength of the Sword 3
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/cobcdq.jpg" alt="Strength of the Sword 3 cover" width="200">
+
 **Platforms:** Wii U, PlayStation 3 &nbsp;|&nbsp; **Developer:** Ivent Games &nbsp;|&nbsp; **Publisher:** Ivent Games &nbsp;|&nbsp; **Genre:** Action, hack and slash &nbsp;|&nbsp; **Released:** June 5, 2013
 
-[Wikipedia](https://en.wikipedia.org/wiki/Strength_of_the_Sword_3)
+> Strength of the Sword 3 (re-released as Strength of the Sword Ultimate) is a third-person, fast paced, challenge driven, action beat 'em up video game set in a fantasy realm. The game is produced by the small indie game studio Ivent Games for PlayStation 3 and later in 2016 for Microsoft Windows, Linux, PlayStation 4, PlayStation Vita and Wii U. The story focuses around Strahil, the former leader of the "Upper Kingdom" and the victim of a cruel plot that led to his imprisonment in a dark cave. As Strahil, you will have to advance through four different locations set on the "Island of Dreams" and seek vengeance from the evil figures behind the plot that led to his imprisonment. Throughout his way Strahil will have to deal with brutal enemies who would prefer to die rather than surrender.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Strength_of_the_Sword_3) · [IGDB](https://www.igdb.com/games/strength-of-the-sword-3)
 
 ---
 
@@ -2246,9 +2392,15 @@
 
 ### Cabela's Dangerous Hunts 2013
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co5x8h.jpg" alt="Cabela's Dangerous Hunts 2013 cover" width="200">
+
 **Platforms:** Wii U, PlayStation 3, Xbox 360, Windows, Wii &nbsp;|&nbsp; **Developer:** Cauldron &nbsp;|&nbsp; **Publisher:** Activision &nbsp;|&nbsp; **Genre:** Hunting, action, simulation &nbsp;|&nbsp; **Released:** October 23, 2012
 
-[Wikipedia](https://en.wikipedia.org/wiki/Cabela's_Dangerous_Hunts_2013)
+> In an epic story written by Andrew Kreisberg of Fringe, two brothers are torn apart after the death of their father at the hands of a grizzly bear. Ten years later, the estranged brothers reunite for the hunt of their lives. One beast tore them apart. Can another beast bring them back together?  In Cabela's Dangerous Hunts 2013 you get Deadlier Predators, Deadlier Hunts:  Smarter and Deadlier Predators - The new Prowler animal AI engine simulates pack social hierarchies, coordinates complex group tactics and takes advantage of the surroundings to set up deadly ambushes.  New Maneater Co-op Mode - Two players can join together to take on wave after wave of increasingly deadly beasts in the all-new Maneater co-op mode.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Cabela's_Dangerous_Hunts_2013) · [IGDB](https://www.igdb.com/games/cabela-s-dangerous-hunts-2013)
 
 ---
 
@@ -2322,9 +2474,15 @@
 
 ### Funky Barn
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co6uk6.jpg" alt="Funky Barn cover" width="200">
+
 **Platforms:** Nintendo 3DS, Wii U &nbsp;|&nbsp; **Developer:** Tantalus Media &nbsp;|&nbsp; **Publisher:** Ubisoft, 505 Games &nbsp;|&nbsp; **Genre:** Simulation &nbsp;|&nbsp; **Released:** April 3, 2012
 
-[Wikipedia](https://en.wikipedia.org/wiki/Funky_Barn)
+> It’s Farming! but not as you know it... Grab your Wii U GamePad and create a beautiful farmland full of animals, crops, trees and more… then develop it into the craziest, most offbeat farm imaginable, overflowing with the whackiest contraptions and goofiest gizmos you and your animals have ever seen!
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Funky_Barn) · [IGDB](https://www.igdb.com/games/funky-barn)
 
 ---
 
@@ -2460,9 +2618,11 @@
 
 ### Romance of the Three Kingdoms 12
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co61bu.jpg" alt="Romance of the Three Kingdoms 12 cover" width="200">
+
 **Platforms:** Windows, PlayStation 3, PlayStation Vita, Wii U &nbsp;|&nbsp; **Developer:** Koei Tecmo &nbsp;|&nbsp; **Publisher:** Koei Tecmo &nbsp;|&nbsp; **Genre:** Strategy &nbsp;|&nbsp; **Released:** December 13, 2012
 
-[Wikipedia](https://en.wikipedia.org/wiki/Romance_of_the_Three_Kingdoms_12)
+[Wikipedia](https://en.wikipedia.org/wiki/Romance_of_the_Three_Kingdoms_12) · [IGDB](https://www.igdb.com/games/sangokushi-12--1)
 
 ---
 

@@ -28,8 +28,14 @@
 
 ### The Lost World: Jurassic Park
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co30b3.jpg" alt="The Lost World: Jurassic Park cover" width="200">
+
 **Platforms:** Game Boy, Game Gear, Game.com, R-Zone &nbsp;|&nbsp; **Developer:** Aspect, Tiger, Torus &nbsp;|&nbsp; **Publisher:** Sega, Tiger, THQ &nbsp;|&nbsp; **Genre:** Action &nbsp;|&nbsp; **Released:** August 26, 1997
 
-[Wikipedia](https://en.wikipedia.org/wiki/The_Lost_World:_Jurassic_Park_(handheld_game))
+> The handheld game based on the second Jurassic Park movie puts the player in the shoes of an agent of InGen corporation who is sent to Isla Sorna, also known as "Site B", where dinosaurs still roam freely.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/The_Lost_World:_Jurassic_Park_(handheld_game)) · [IGDB](https://www.igdb.com/games/the-lost-world-jurassic-park--3)
 
 ---

@@ -10,9 +10,15 @@
 
 ### Sherlock Holmes: Consulting Detective Vol. II
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co5wdv.jpg" alt="Sherlock Holmes: Consulting Detective Vol. II cover" width="200">
+
 **Platforms:** Sega CD, PC Engine CD, MS-DOS, macOS, Tandy Video Information System &nbsp;|&nbsp; **Developer:** ICOM Simulations &nbsp;|&nbsp; **Genre:** Adventure, interactive movie
 
-[Wikipedia](https://en.wikipedia.org/wiki/Sherlock_Holmes:_Consulting_Detective_Vol._II)
+> The same structure brings a familiar look, inviting to channel all attention to the task of solving mysteries: your intelligence, skills and patience are required to find clues by listening to people, observing details, or even reading the London Times - but don't let yourself be misguided by a wrong hint.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Sherlock_Holmes:_Consulting_Detective_Vol._II) · [IGDB](https://www.igdb.com/games/sherlock-holmes-consulting-detective-vol-ii)
 
 ---
 

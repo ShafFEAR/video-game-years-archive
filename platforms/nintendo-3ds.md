@@ -2,7 +2,7 @@
 
 [← Back to index](../README.md)
 
-606 titles across 12 years in this archive.
+614 titles across 12 years in this archive.
 
 ## 2022
 
@@ -22,9 +22,15 @@
 
 ### Thatcher's Techbase
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co3jvy.jpg" alt="Thatcher's Techbase cover" width="200">
+
 **Platforms:** Windows, macOS, Linux, Android, Nintendo 3DS, Wii &nbsp;|&nbsp; **Developer:** 3D: Doom Daddy Digital &nbsp;|&nbsp; **Genre:** First-person shooter &nbsp;|&nbsp; **Released:** September 24, 2021
 
-[Wikipedia](https://en.wikipedia.org/wiki/Thatcher's_Techbase)
+> THE DEAD SPEAK! The world has heard a mysterious broadcast, a threat of revenge in the sinister voice of the late BARONESS MARGARET THATCHER.  Faced with the return of one of humanity's greatest threats, you have no choice but to head to THE TENTH CIRCLE OF HELL:  THE UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND  And investigate the underworld fortress known as... THATCHER'S TECHBASE!
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Thatcher's_Techbase) · [IGDB](https://www.igdb.com/games/thatchers-techbase)
 
 ---
 
@@ -69,6 +75,20 @@
 ## 2018
 
 [Full 2018 page](../years/2018.md)
+
+### Bakutsuri Bar Hunter
+
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co5lsr.jpg" alt="Bakutsuri Bar Hunter cover" width="200">
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** Sport, Arcade
+
+> A fishing game released for the Nintendo 3DS by Bandai Namco in Japan. The game requires a fishing reel with a barcode scanner add-on and had various other products that were sold separately which could be used with the game.  The game software itself was available as a free download for the Nintendo 3DS and had 4 versions for the different systems available to match the add-on required. The 3DS, 3DS LL, New 3DS and New 3DS LL. (LL = XL) Scanning the barcode of specific products would creating a fishing location in-game where some unique characters could then be found.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Bakutsuri_Bar_Hunter) · [IGDB](https://www.igdb.com/games/bakutsuri-bar-hunter)
+
+---
 
 ### Bloodstained: Curse of the Moon
 
@@ -218,9 +238,15 @@
 
 ### Bye-Bye BoxBoy!
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co230l.jpg" alt="Bye-Bye BoxBoy! cover" width="200">
+
 **Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Developer:** HAL Laboratory &nbsp;|&nbsp; **Publisher:** Nintendo &nbsp;|&nbsp; **Genre:** Puzzle-platform &nbsp;|&nbsp; **Released:** February 2, 2017
 
-[Wikipedia](https://en.wikipedia.org/wiki/Bye-Bye_BoxBoy!)
+> Wait…a box is the last defense against annihilation?!  Well, fear not—Qbby is no ordinary box. Using his four startling new powers, you must solve hundreds of puzzles across 18 deadly worlds. Create boxes to climb, hover, warp, and bomb your way to salvation! Whether you're a newcomer or an old vet, thinking outside the box has never been more fun.  Scattered across many challenging worlds, Black Smoke and other new hazards threaten to destroy Qbby. Survive vicious winds, viscous water, and more on your mission to rescue the mysteriously cute little wonders known as Qbabies. Each Qbaby you rescue will offer a new power: hit high buttons with a Boxrocket, destroy parts of the environment with a Bombox, teleport with a Warpbox, and even levitate a Remotebox. To the victor goes the goodies: earn new in-game costumes, comics, music, and challenge worlds by beating levels or tapping amiibo. Tap a Kirby series amiibo figure to receive a costume based on the tapped character! King Dedede box, anyone?  Create boxes and unleash four new box powers to solve new puzzles Journey across 18 worlds of puzzling stages with unexpected new hazards Earn new costumes, comics, music, challenge worlds, and more! The new challenge worlds are unlike anything in the series so far SAVE THE QBABIES!!!
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Bye-Bye_BoxBoy!) · [IGDB](https://www.igdb.com/games/bye-bye-boxboy)
 
 ---
 
@@ -442,6 +468,16 @@
 
 ---
 
+### Sekaiju to Fushigi no Dungeon 2
+
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co30tb.jpg" alt="Sekaiju to Fushigi no Dungeon 2 cover" width="200">
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** Role-playing (RPG), Adventure
+
+[Wikipedia](https://en.wikipedia.org/wiki/Sekaiju_to_Fushigi_no_Dungeon_2) · [IGDB](https://www.igdb.com/games/etrian-mystery-dungeon-2)
+
+---
+
 ### Shovel Knight: Specter of Torment
 
 <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2gsu.jpg" alt="Shovel Knight: Specter of Torment cover" width="200">
@@ -486,9 +522,15 @@
 
 ### The Great Ace Attorney 2: Resolve
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/cob9su.jpg" alt="The Great Ace Attorney 2: Resolve cover" width="200">
+
 **Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Developer:** Capcom &nbsp;|&nbsp; **Publisher:** Capcom &nbsp;|&nbsp; **Genre:** Adventure, visual novel &nbsp;|&nbsp; **Released:** August 3, 2017
 
-[Wikipedia](https://en.wikipedia.org/wiki/The_Great_Ace_Attorney_2:_Resolve)
+> The Great Ace Attorney 2: Resolve is the eleventh installment of the Ace Attorney series of text adventure video games. New gameplay mechanics introduced to the series include Dance of Deduction, in which Ryunosuke must deduce mistakes and oversights in Herlock's overboard logic and uncover new facts, and Summation Examination, in which players must point out discrepancies among jurors' arguments to make their defendant's case and ultimately secure a "Not Guilty" verdict.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/The_Great_Ace_Attorney_2:_Resolve) · [IGDB](https://www.igdb.com/games/the-great-ace-attorney-2-resolve)
 
 ---
 
@@ -550,9 +592,15 @@
 
 ### Chase: Cold Case Investigations - Distant Memories
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co53gs.jpg" alt="Chase: Cold Case Investigations - Distant Memories cover" width="200">
+
 **Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Developer:** Arc System Works &nbsp;|&nbsp; **Publisher:** Arc System Works, Aksys Games &nbsp;|&nbsp; **Genre:** Visual novel, adventure &nbsp;|&nbsp; **Released:** May 11, 2016
 
-[Wikipedia](https://en.wikipedia.org/wiki/Chase:_Cold_Case_Investigations_-_Distant_Memories)
+> A hard-boiled detective game being created by former CiNG developers at Arc System Works for the Nintendo 3DS. Aksys Games localized it for a Western release.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Chase:_Cold_Case_Investigations_-_Distant_Memories) · [IGDB](https://www.igdb.com/games/chase-cold-case-investigations-distant-memories)
 
 ---
 
@@ -590,9 +638,15 @@
 
 ### Dragon Quest Monsters: Joker 3
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2haj.jpg" alt="Dragon Quest Monsters: Joker 3 cover" width="200">
+
 **Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Developer:** Tose &nbsp;|&nbsp; **Publisher:** Square Enix &nbsp;|&nbsp; **Genre:** Role-playing &nbsp;|&nbsp; **Released:** March 24, 2016
 
-[Wikipedia](https://en.wikipedia.org/wiki/Dragon_Quest_Monsters:_Joker_3)
+> Dragon Quest Monsters: Joker 3 is a role-playing video game developed by Square Enix and Tose and published by Square Enix for the Nintendo 3DS. It is the sequel to Dragon Quest Monsters: Joker 2, and is the sixth game in the Dragon Quest Monsters series. It was released in Japan on March 24, 2016.  The top screen of the Nintendo 3DS shows a third-person perspective of the main character and the world around him, called "Break World", while the bottom screen shows a map of the nearby area, with the current goal circled in red. The protagonist carries a device known as a Reactor, which can be used to discover hidden objects or paths. Some paths require the player to be riding a monster to traverse. Players will be able to ride on the 500 different monsters that populate the game world. The monsters come in either land, sea, or sky varieties, meaning that different types monsters are required to traverse different paths. Players can also equip them with accessories and level them up.  Leveling up a monster can give it new abilities, such as the ability to do more jumps in a row and therefore access areas previously out of reach. The Reactor device can also be used to scan monsters to discover information about them. If the player attacks a monster while riding, the other monster begins the battle stunned or knocked out. A competitive mini-game is included called "Great Riders Cup" that uses the monster riding system of the main game and allows up to four players to compete either with the game AI or with local players or others over Wifi. The games protagonist can be visually customized with different color for hair, scarf, boots, pants, and gloves. Monsters can also be color customized by finding and rescuing a monster called Color Fondue who can perform "Color Fusion" on monsters a player controls.  As with the previous game, Square Enix released Joker 3 Professional, an expanded version of the game, on February 9, 2017. Professional is the final entry in the Joker series.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Dragon_Quest_Monsters:_Joker_3) · [IGDB](https://www.igdb.com/games/dragon-quest-monsters-joker-3)
 
 ---
 
@@ -631,6 +685,20 @@
 **Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** Adventure &nbsp;|&nbsp; **Released:** February 3 (JP)
 
 [Wikipedia](https://en.wikipedia.org/wiki/Great_Detective_Pikachu)
+
+---
+
+### Great Detective Pikachu: Birth of a New Duo
+
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co5q43.jpg" alt="Great Detective Pikachu: Birth of a New Duo cover" width="200">
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** Adventure
+
+> Meitantei Pikachu: Shin Konbi Tanjou (Great Detective Pikachu: Birth of a New Duo) was released exclusively in Japan on February 3, 2016 on the Nintendo eShop featuring the first three chapters of what would later be internationally released as Detective Pikachu. From January 27, 2016 to February 29, 2016, the game could be purchased in Japan for ¥1,200, instead of the normal price of ¥1,500. Players who purchased Birth of a New Duo were able to receive a ¥1,500 discount on the full Detective Pikachu game until April 22, 2018. The game was removed from the eShop on January 12, 2018, just before the announcement of the full version.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Great_Detective_Pikachu:_Birth_of_a_New_Duo) · [IGDB](https://www.igdb.com/games/meitantei-pikachu-shin-konbi-tanjou)
 
 ---
 
@@ -754,9 +822,15 @@
 
 ### My Hero Academia: Battle for All
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co3w8v.jpg" alt="My Hero Academia: Battle for All cover" width="200">
+
 **Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Developer:** Dimps &nbsp;|&nbsp; **Publisher:** Bandai Namco Entertainment &nbsp;|&nbsp; **Genre:** Fighting &nbsp;|&nbsp; **Released:** May 19, 2016
 
-[Wikipedia](https://en.wikipedia.org/wiki/My_Hero_Academia:_Battle_for_All)
+> My Hero Academia: Battle for All is a hero action game for the Nintendo 3DS developed by Bandai Namco Entertainment. It was released on May 19th, 2016. People who purchased the first edition of the game received two cards for My Hero Academia: Clash! Heroes Battle.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/My_Hero_Academia:_Battle_for_All) · [IGDB](https://www.igdb.com/games/my-hero-academia-battle-for-all)
 
 ---
 
@@ -836,9 +910,15 @@
 
 ### Puyo Puyo Chronicle
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2r1a.jpg" alt="Puyo Puyo Chronicle cover" width="200">
+
 **Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Developer:** Sega &nbsp;|&nbsp; **Publisher:** Sega &nbsp;|&nbsp; **Genre:** Puzzle, role-playing &nbsp;|&nbsp; **Released:** December 8, 2016
 
-[Wikipedia](https://en.wikipedia.org/wiki/Puyo_Puyo_Chronicle)
+> An action puzzle RPG for 3DS set to celebrate the Puyo Puyo series’ 25th anniversary.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Puyo_Puyo_Chronicle) · [IGDB](https://www.igdb.com/games/puyo-puyo-chronicle)
 
 ---
 
@@ -886,17 +966,29 @@
 
 ### Tank Troopers
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co28bq.jpg" alt="Tank Troopers cover" width="200">
+
 **Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Developer:** Nintendo EPD, Vitei &nbsp;|&nbsp; **Publisher:** Nintendo &nbsp;|&nbsp; **Genre:** Action, Shooter &nbsp;|&nbsp; **Released:** December 21, 2016
 
-[Wikipedia](https://en.wikipedia.org/wiki/Tank_Troopers)
+> Choose a tank, pick troopers, and battle your friends via local wireless. Each trooper has a special ability, from electric shocks to healing. Battle with bombs, on teams, or in a free-for-all, but always fight!
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Tank_Troopers) · [IGDB](https://www.igdb.com/games/tank-troopers)
 
 ---
 
 ### Yo-kai Sangokushi
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co7roc.jpg" alt="Yo-kai Sangokushi cover" width="200">
+
 **Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Developer:** Koei Tecmo &nbsp;|&nbsp; **Publisher:** Level-5 &nbsp;|&nbsp; **Genre:** Tactical role-playing &nbsp;|&nbsp; **Released:** April 2, 2016
 
-[Wikipedia](https://en.wikipedia.org/wiki/Yo-kai_Sangokushi)
+> Yo-kai Sangokushi is a turn-based tactical role-playing game developed by Koei Tecmo and published by Level-5. It's a crossover between the Yo-kai Watch and Romance of the Three Kingdoms series.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Yo-kai_Sangokushi) · [IGDB](https://www.igdb.com/games/yo-kai-sangokushi)
 
 ---
 
@@ -1088,9 +1180,15 @@
 
 ### Cube Creator 3D
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co6c9i.jpg" alt="Cube Creator 3D cover" width="200">
+
 **Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Developer:** Big John Games &nbsp;|&nbsp; **Publisher:** Big John Games &nbsp;|&nbsp; **Genre:** Sandbox &nbsp;|&nbsp; **Released:** April 23, 2015
 
-[Wikipedia](https://en.wikipedia.org/wiki/Cube_Creator_3D)
+> Cube Creator 3D is a crafting and exploration game with a voxel-based art-style.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Cube_Creator_3D) · [IGDB](https://www.igdb.com/games/cube-creator-3d)
 
 ---
 
@@ -1348,9 +1446,15 @@
 
 ### Picross 3D: Round 2
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2api.jpg" alt="Picross 3D: Round 2 cover" width="200">
+
 **Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Developer:** HAL Laboratory &nbsp;|&nbsp; **Publisher:** Nintendo &nbsp;|&nbsp; **Genre:** Puzzle &nbsp;|&nbsp; **Released:** October 1, 2015
 
-[Wikipedia](https://en.wikipedia.org/wiki/Picross_3D:_Round_2)
+> Chip away at a three-dimensional block puzzle to reveal the object hidden within. Only this time, blocks can be painted with two colors of paint to mold detailed shapes. Enjoy more than 300 puzzles at the Cafe or even tap compatible amiibo figures (sold separately) to solve 10 more puzzles hiding secret Nintendo characters!
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Picross_3D:_Round_2) · [IGDB](https://www.igdb.com/games/picross-3d-round-2)
 
 ---
 
@@ -1438,9 +1542,15 @@
 
 ### Rhythm Heaven Megamix
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co25po.jpg" alt="Rhythm Heaven Megamix cover" width="200">
+
 **Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Developer:** Nintendo SPD, TNX &nbsp;|&nbsp; **Publisher:** Nintendo &nbsp;|&nbsp; **Genre:** Rhythm, music &nbsp;|&nbsp; **Released:** June 11, 2015
 
-[Wikipedia](https://en.wikipedia.org/wiki/Rhythm_Heaven_Megamix)
+> Test your rhythm by chopping wood, sticking speeding viruses with forks and playing badminton while flying an airplane, all in time to catchy tunes in this deceptively challenging rhythm game. The accessible controls and catchy music, combined with the new visual feedback system, make this a great entry in the Rhythm Paradise series. Can you match the beat and reach Rhythm Paradise ?
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Rhythm_Heaven_Megamix) · [IGDB](https://www.igdb.com/games/rhythm-heaven-megamix)
 
 ---
 
@@ -1544,9 +1654,15 @@
 
 ### The Great Ace Attorney: Adventures
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/cob9st.jpg" alt="The Great Ace Attorney: Adventures cover" width="200">
+
 **Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Developer:** Capcom &nbsp;|&nbsp; **Publisher:** Capcom &nbsp;|&nbsp; **Genre:** Adventure, visual novel &nbsp;|&nbsp; **Released:** July 9, 2015
 
-[Wikipedia](https://en.wikipedia.org/wiki/The_Great_Ace_Attorney:_Adventures)
+> The Great Ace Attorney: Adventures is the ninth installment of the Ace Attorney series of text adventure video games.  New gameplay mechanics introduced to the series include Dance of Deduction, in which Ryunosuke must deduce mistakes and oversights in Herlock's overboard logic and uncover new facts, and Summation Examination, in which players must point out discrepancies among jurors' arguments to make their defendant’s case and ultimately secure a "Not Guilty" verdict.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/The_Great_Ace_Attorney:_Adventures) · [IGDB](https://www.igdb.com/games/the-great-ace-attorney-adventures--1)
 
 ---
 
@@ -1778,9 +1894,15 @@
 
 ### Final Fantasy Explorers
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co1vjp.jpg" alt="Final Fantasy Explorers cover" width="200">
+
 **Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Developer:** Racjin, Square Enix &nbsp;|&nbsp; **Publisher:** Square Enix &nbsp;|&nbsp; **Genre:** Action role-playing &nbsp;|&nbsp; **Released:** December 18, 2014
 
-[Wikipedia](https://en.wikipedia.org/wiki/Final_Fantasy_Explorers)
+> Final Fantasy Explorers features both cooperative play with friends and solo play, utilizing a refined party system which allows Explorers to master over 20 new and familiar jobs—including series classics like Dragoon, Dark Knight, Black Mage and White Mage—to defeat the realm’s mightiest monsters and even recruit them for battle.  Players will have the ability to call upon the powers of eidolons like Ifrit and Bahamut, as well as transform into other legendary characters from the Final Fantasy series, such as Cloud, Squall and Lightning, via the Trance feature.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Final_Fantasy_Explorers) · [IGDB](https://www.igdb.com/games/final-fantasy-explorers)
 
 ---
 
@@ -1810,6 +1932,16 @@
 
 ---
 
+### Hero Bank
+
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2fzh.jpg" alt="Hero Bank cover" width="200">
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** Hack and slash/Beat 'em up
+
+[Wikipedia](https://en.wikipedia.org/wiki/Hero_Bank) · [IGDB](https://www.igdb.com/games/hero-bank)
+
+---
+
 ### I Am An Air Traffic Controller Airport Hero Hawaii
 
 **Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** Simulation &nbsp;|&nbsp; **Released:** March 27
@@ -1828,9 +1960,15 @@
 
 ### Island Days
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co6cf1.jpg" alt="Island Days cover" width="200">
+
 **Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Developer:** Klon, 0verflow &nbsp;|&nbsp; **Publisher:** Stack &nbsp;|&nbsp; **Genre:** Visual novel, Tower defense &nbsp;|&nbsp; **Released:** July 3, 2014
 
-[Wikipedia](https://en.wikipedia.org/wiki/Island_Days)
+> Island Days is a tower defense visual novel developed by Klon in collaboration with 0verflow for the Nintendo 3DS. It is a spin-off of 0verflow's Days visual novel series, in which Makoto, along with his various female companions, finds himself stranded on a remote island. While awaiting rescue, Makoto and the others must do their best to survive on the island.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Island_Days) · [IGDB](https://www.igdb.com/games/island-days)
 
 ---
 
@@ -1904,9 +2042,15 @@
 
 ### Neko Atsume
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co8y7t.jpg" alt="Neko Atsume cover" width="200">
+
 **Platforms:** iOS, Android, Nintendo 3DS &nbsp;|&nbsp; **Developer:** Hit-Point &nbsp;|&nbsp; **Genre:** Virtual pet &nbsp;|&nbsp; **Released:** October 20, 2014
 
-[Wikipedia](https://en.wikipedia.org/wiki/Neko_Atsume)
+> Attract cats with food and then watch them romp with your toys! More than 40 varieties of cats—white and black, tabby and calico—might stop by. Rare cats are rumored to roam the neighborhood too, but you'll need particular items to entice those elusive felines. Each visitor is logged in your Catbook. Become a master kitty collector and fill it up!
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Neko_Atsume) · [IGDB](https://www.igdb.com/games/neko-atsume-kitty-collector)
 
 ---
 
@@ -2350,9 +2494,15 @@
 
 ### Touch Detective 3
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co7oe9.jpg" alt="Touch Detective 3 cover" width="200">
+
 **Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Developer:** BeeWorks &nbsp;|&nbsp; **Publisher:** Success Corporation, Nicalis &nbsp;|&nbsp; **Genre:** Adventure &nbsp;|&nbsp; **Released:** May 1, 2014
 
-[Wikipedia](https://en.wikipedia.org/wiki/Touch_Detective_3)
+> The mystery solving duo, Mackenzie and Funghi, return once again in a new adventure on the Nintendo 3DS.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Touch_Detective_3) · [IGDB](https://www.igdb.com/games/touch-detective-3)
 
 ---
 
@@ -2528,9 +2678,15 @@
 
 ### Adventure Time: Explore the Dungeon Because I Don't Know!
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2ezg.jpg" alt="Adventure Time: Explore the Dungeon Because I Don't Know! cover" width="200">
+
 **Platforms:** PlayStation 3, Xbox 360, Windows, Nintendo 3DS, Wii U &nbsp;|&nbsp; **Developer:** WayForward Technologies &nbsp;|&nbsp; **Publisher:** D3 Publisher, Namco Bandai Games &nbsp;|&nbsp; **Genre:** Action-adventure &nbsp;|&nbsp; **Released:** November 15, 2013
 
-[Wikipedia](https://en.wikipedia.org/wiki/Adventure_Time:_Explore_the_Dungeon_Because_I_Don't_Know!)
+> Princess Bubblegum summons Finn and Jake to the Candy Kingdom to investigate a rash of thefts and kidnappings that have plagued her kingdom. She thinks the cause lies within her Secret Royal Dungeon, where only the nastiest monsters and criminals are locked up. If they’ve found a way to escape, the Land of Ooo will be in danger! Following the mathematical, algebraic, and radical success of 2012’s Adventure Time: Hey Ice King! Why’d You Steal Our Garbage?!!, show creator Pendleton Ward teams up with developer WayForward in the all-new action game Adventure Time: Explore the Dungeon Because I DON’T KNOW!, and team up with your friends in four-player co-operative multiplayer as the Adventure Time world comes to life through beautiful pixel animations, and voiceover from the original cast.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Adventure_Time:_Explore_the_Dungeon_Because_I_Don't_Know!) · [IGDB](https://www.igdb.com/games/adventure-time-explore-the-dungeon-because-i-don-t-know)
 
 ---
 
@@ -2566,17 +2722,29 @@
 
 ### Attack of the Friday Monsters! A Tokyo Tale
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co7sj6.jpg" alt="Attack of the Friday Monsters! A Tokyo Tale cover" width="200">
+
 **Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Developer:** Millennium Kitchen and Aquria &nbsp;|&nbsp; **Publisher:** Level-5 &nbsp;|&nbsp; **Genre:** Adventure game &nbsp;|&nbsp; **Released:** March 13, 2013
 
-[Wikipedia](https://en.wikipedia.org/wiki/Attack_of_the_Friday_Monsters!_A_Tokyo_Tale)
+> Step into the life of Sohta, the young son of a family that has just set up a dry cleaners shop in the idyllic town of Fuji no Hana. In his interactions with the town's unique residents, episodic mysteries are revealed that portend to the strange events surrounding the appearance of a giant monster every Friday. And finally, when Friday evening falls, the giant monster will appear right before your eyes!  Collect the "Monster Glims" scattered around town to form Monster Cards, and once you've collected five cards, Sohta can battle his friends for dominance. Winning at Monster Cards gives you the chance to collect useful information, more Monster Glims, and even to cast a secret spell on your friends that will make them fall down at your whim. Why? Because that's the rules!  A touching drama about family, friendship, and the innocence of being a child unfolds against hand-drawn backgrounds, charming music, and memorable characters.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Attack_of_the_Friday_Monsters!_A_Tokyo_Tale) · [IGDB](https://www.igdb.com/games/attack-of-the-friday-monsters-a-tokyo-tale)
 
 ---
 
 ### Attack on Titan: Humanity in Chains
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co3ri1.jpg" alt="Attack on Titan: Humanity in Chains cover" width="200">
+
 **Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Developer:** Spike Chunsoft &nbsp;|&nbsp; **Publisher:** Examu, Atlus &nbsp;|&nbsp; **Genre:** Action game &nbsp;|&nbsp; **Released:** December 5, 2013
 
-[Wikipedia](https://en.wikipedia.org/wiki/Attack_on_Titan:_Humanity_in_Chains)
+> Based on the hit "Attack on Titan" anime and manga, players will defend the three Walls from invading Titans as a member of the elite Scout Regiment with their omni-directional mobility gear and blades. Based on the upcoming Japanese remake of an earlier Attack on Titan game, Humanity in Chains will be the first Attack on Titan game to reach North American shores, and will release exclusively on the Nintendo eShop for Nintendo 3DS in May 2015 with the original Japanese audio and English subtitles.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Attack_on_Titan:_Humanity_in_Chains) · [IGDB](https://www.igdb.com/games/attack-on-titan-humanity-in-chains)
 
 ---
 
@@ -2608,9 +2776,15 @@
 
 ### Ben 10: Omniverse 2
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co3ocs.jpg" alt="Ben 10: Omniverse 2 cover" width="200">
+
 **Platforms:** Nintendo 3DS, PlayStation 3, Wii, Wii U, Xbox 360 &nbsp;|&nbsp; **Publisher:** D3 Publisher, Namco Bandai Games &nbsp;|&nbsp; **Genre:** Beat 'em up &nbsp;|&nbsp; **Released:** November 5, 2013
 
-[Wikipedia](https://en.wikipedia.org/wiki/Ben_10:_Omniverse_2)
+> Ben 10 Omniverse 2 has players control Ben Tennyson in an adventure set in the Ben 10 universe as Ben battles a new foe, the Incurseans, and infiltrates this new enemy's intergalactic warship as he finds his way home.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Ben_10:_Omniverse_2) · [IGDB](https://www.igdb.com/games/ben-10-omniverse-2)
 
 ---
 
@@ -2672,9 +2846,15 @@
 
 ### Dillon's Rolling Western: The Last Ranger
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2ha3.jpg" alt="Dillon's Rolling Western: The Last Ranger cover" width="200">
+
 **Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Developer:** Vanpool &nbsp;|&nbsp; **Publisher:** Nintendo &nbsp;|&nbsp; **Genre:** Action-adventure, tower defense &nbsp;|&nbsp; **Released:** April 10, 2013
 
-[Wikipedia](https://en.wikipedia.org/wiki/Dillon's_Rolling_Western:_The_Last_Ranger)
+> A sequel to Dillon's Rolling Western for the 3DS eShop.  This is an action tower-defense game which combines the strategy elements of Dillon defeating enemies with weapon emplacements that players can deploy around the map, and the action elements of Dillon directly attacking opponents with flashy action moves like rolling attacks and claw slashes. New to “The Last Ranger,” Dillon can recruit new allies by battling and defeating them throughout the game. There’s the strong but greedy lizard gunman Gallo, the foolish but powerful bear Boone and the mysterious squid assassin from the East Sea, Nomad.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Dillon's_Rolling_Western:_The_Last_Ranger) · [IGDB](https://www.igdb.com/games/dillons-rolling-western-the-last-ranger)
 
 ---
 
@@ -2744,9 +2924,15 @@
 
 ### Exstetra
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co60ql.jpg" alt="Exstetra cover" width="200">
+
 **Platforms:** Nintendo 3DS, PlayStation Vita &nbsp;|&nbsp; **Developer:** Studio Saizensen &nbsp;|&nbsp; **Publisher:** FuRyu &nbsp;|&nbsp; **Genre:** Role-playing game &nbsp;|&nbsp; **Released:** November 7, 2013
 
-[Wikipedia](https://en.wikipedia.org/wiki/Exstetra)
+> A fantasy RPG from the developers of Unchained Blades. It gained publicity for its unusual kissing-based gameplay.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Exstetra) · [IGDB](https://www.igdb.com/games/exstetra)
 
 ---
 
@@ -2786,11 +2972,31 @@
 
 ---
 
+### Gaist Crusher
+
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2fjm.jpg" alt="Gaist Crusher cover" width="200">
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** Fighting, Adventure
+
+> Gaist Crusher is an action game set in 2064 when the Gaist Crusher Garrison is set up to defend humans against Gaist, lifeforms completely encrusted in Gaimetal, a metal ore mined by humans since 2047.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Gaist_Crusher) · [IGDB](https://www.igdb.com/games/gaist-crusher)
+
+---
+
 ### Garfield Kart
+
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2imd.jpg" alt="Garfield Kart cover" width="200">
 
 **Platforms:** macOS, Windows, Nintendo 3DS, iOS, Android &nbsp;|&nbsp; **Developer:** Artefacts Studio &nbsp;|&nbsp; **Publisher:** Anuman Interactive &nbsp;|&nbsp; **Genre:** Racing &nbsp;|&nbsp; **Released:** November 13, 2013
 
-[Wikipedia](https://en.wikipedia.org/wiki/Garfield_Kart)
+> Join Garfield and his friends in the funniest fast and fur-ious game! What character do you want to play with? Garfield, Odie, Jon, Nermal... you choose! Take part in no-holds-barred crazy races.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Garfield_Kart) · [IGDB](https://www.igdb.com/games/garfield-kart)
 
 ---
 
@@ -2820,15 +3026,35 @@
 
 ### Hatsune Miku: Project Mirai 2
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co6pab.jpg" alt="Hatsune Miku: Project Mirai 2 cover" width="200">
+
 **Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Developer:** Sega &nbsp;|&nbsp; **Publisher:** Sega &nbsp;|&nbsp; **Genre:** Rhythm &nbsp;|&nbsp; **Released:** November 28, 2013
 
-[Wikipedia](https://en.wikipedia.org/wiki/Hatsune_Miku:_Project_Mirai_2)
+> The sequel to "Hatsune Miku and Future Stars: Project Mirai", featuring a complete overhaul of the rhythm gameplay.  An expanded version was released internationally in 2015, titled "Hatsune Miku: Project Mirai DX".
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Hatsune_Miku:_Project_Mirai_2) · [IGDB](https://www.igdb.com/games/hatsune-miku-project-mirai-2)
 
 ---
 
 ### Heavy Fire: Black Arms
 
 **Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** Shoot 'em up (rail) &nbsp;|&nbsp; **Released:** August 15
+
+---
+
+### High School DxD
+
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2cm2.jpg" alt="High School DxD cover" width="200">
+
+**Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Genre:** Turn-based strategy (TBS), Adventure, Visual Novel
+
+> Highschool DxD is a visual novel from Kadokawa Games, based on the events of the first season of the anime.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/High_School_DxD) · [IGDB](https://www.igdb.com/games/high-school-dxd)
 
 ---
 
@@ -2880,17 +3106,29 @@
 
 ### Lego Friends
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co1hx1.jpg" alt="Lego Friends cover" width="200">
+
 **Platforms:** Nintendo 3DS, Android &nbsp;|&nbsp; **Developer:** Hellbent Games, TT Games &nbsp;|&nbsp; **Publisher:** Warner Bros. Interactive Entertainment &nbsp;|&nbsp; **Genre:** Social simulation &nbsp;|&nbsp; **Released:** November 12, 2013
 
-[Wikipedia](https://en.wikipedia.org/wiki/Lego_Friends_(2013_video_game))
+> Welcome to beautiful Heartlake City where summer fun awaits. Meet your new LEGO Friends and join them on exciting adventures that build friendships with the girls and allow you to express your individual style and personality as you explore the city. Shop for the latest outfits and accessories, select the perfect hairstyle, decorate your bedroom and even pick out a pet. Choose how to spend your summer vacation; whether you'd rather attend horse riding camp, perfect a dance routine, or care for an animal at the rescue center, you can do these things and more as you express your creativity, and build fun memories with your five new friends.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Lego_Friends_(2013_video_game)) · [IGDB](https://www.igdb.com/games/lego-friends)
 
 ---
 
 ### Lego Legends of Chima: Laval's Journey
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co615v.jpg" alt="Lego Legends of Chima: Laval's Journey cover" width="200">
+
 **Platforms:** Nintendo 3DS, Nintendo DS, PlayStation Vita &nbsp;|&nbsp; **Developer:** TT Fusion &nbsp;|&nbsp; **Publisher:** Warner Bros. Interactive Entertainment &nbsp;|&nbsp; **Genre:** Action-adventure &nbsp;|&nbsp; **Released:** June 21, 2013
 
-[Wikipedia](https://en.wikipedia.org/wiki/Lego_Legends_of_Chima:_Laval's_Journey)
+> Get ready for an epic adventure as Laval races to unlock the secret of the legendary triple-Chi armour before Cragger can manipulate its awesome power to threaten the balance of Chima itself! Laval and his allies will explore Lion Temple, Eagle Spire, Gorilla Forrest, Rhino Quary, Croc Swamp and more as they harness the power of Chi to leap, swing, fly and fight through 15 levels of intense action! Can Laval discover the truth behind the legend of the triple-Chi before it’s too late?
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Lego_Legends_of_Chima:_Laval's_Journey) · [IGDB](https://www.igdb.com/games/lego-legends-of-chima-lavals-journey)
 
 ---
 
@@ -2966,9 +3204,15 @@
 
 ### Metal Max 4: Gekkō no Diva
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co39os.jpg" alt="Metal Max 4: Gekkō no Diva cover" width="200">
+
 **Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Developer:** Cattle Call, 24Frame &nbsp;|&nbsp; **Publisher:** Kadokawa Games &nbsp;|&nbsp; **Genre:** Role-playing &nbsp;|&nbsp; **Released:** November 7, 2013
 
-[Wikipedia](https://en.wikipedia.org/wiki/Metal_Max_4:_Gekk%C5%8D_no_Diva)
+> Metal Max 4: Gekkō no Diva is a the eight entry in the Metal Max series (besides Metal Saga series). It is a Japanese open world, nonlinear, vehicle combat role-playing video game published by Kadokawa Games for Nintendo 3DS on 7 November 2013. The game was developed by Cattle Call and 24 Frame. Animation produced by Studio 4°C. Famitsu awarded game a 35/40.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Metal_Max_4:_Gekk%C5%8D_no_Diva) · [IGDB](https://www.igdb.com/games/metal-max-4-moonlight-diva)
 
 ---
 
@@ -2998,17 +3242,29 @@
 
 ### Monster Hunter 4
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/coaxow.jpg" alt="Monster Hunter 4 cover" width="200">
+
 **Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Developer:** Capcom &nbsp;|&nbsp; **Publisher:** Capcom &nbsp;|&nbsp; **Genre:** Action role-playing &nbsp;|&nbsp; **Released:** September 14, 2013
 
-[Wikipedia](https://en.wikipedia.org/wiki/Monster_Hunter_4)
+> Monster Hunter 4 is the second game in the aforementioned series to be released on the Nintendo 3DS. Many updates and improvements have been made that set this sequel apart. It was released exclusively in Japan. Monster Hunter 4 saw an updated version, titled Monster Hunter 4 Ultimate (4G in Japan) released in Europe and North America.  There is a stronger emphasis on platforming than previously; walls can now be climbed more fluidly and in any direction, and for the first time Hunters can grab onto monsters and attack them. Environment are larger and occupy more vertical space, and the Frenzy Virus mechanic makes many monsters more fearsome than ever. Various monsters from previous games return, most notably Rathalos, Rathian, Tigrex and Yian Kut-Ku - for a full list see MH4: Monsters. Two new weapon classes, the Insect Glaive and Charge Blade, are also introduced in this game.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Monster_Hunter_4) · [IGDB](https://www.igdb.com/games/monster-hunter-4)
 
 ---
 
 ### Moshi Monsters: Katsuma Unleashed
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co6cj8.jpg" alt="Moshi Monsters: Katsuma Unleashed cover" width="200">
+
 **Platforms:** Nintendo DS, Nintendo 3DS &nbsp;|&nbsp; **Developer:** Sumo Digital &nbsp;|&nbsp; **Publisher:** Activision, Mind Candy &nbsp;|&nbsp; **Genre:** Platformer &nbsp;|&nbsp; **Released:** October 11, 2013
 
-[Wikipedia](https://en.wikipedia.org/wiki/Moshi_Monsters:_Katsuma_Unleashed)
+> Join Katsuma on an exciting adventure to Moshi Picchu, the legendary citadel that is rumoured to exist high above the clouds of the Moshi mountains. A place that has LOST its sense of fun because of the infiltration of Dr. Strangeglove, the Glumps, an army of Robot Moshlings and Sweet Tooth!
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Moshi_Monsters:_Katsuma_Unleashed) · [IGDB](https://www.igdb.com/games/moshi-monsters-katsuma-unleashed)
 
 ---
 
@@ -3074,9 +3330,29 @@
 
 ### Pocket Card Jockey
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2dzs.jpg" alt="Pocket Card Jockey cover" width="200">
+
 **Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Developer:** Game Freak &nbsp;|&nbsp; **Publisher:** Game Freak, Nintendo &nbsp;|&nbsp; **Genre:** Card game &nbsp;|&nbsp; **Released:** July 31, 2013
 
-[Wikipedia](https://en.wikipedia.org/wiki/Pocket_Card_Jockey)
+> A hybrid horse racing/solitaire game for the 3DS. Produced by Game Freak.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Pocket_Card_Jockey) · [IGDB](https://www.igdb.com/games/pocket-card-jockey)
+
+---
+
+### Pokémon Bank
+
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co3b9q.jpg" alt="Pokémon Bank cover" width="200">
+
+**Platforms:** Nintendo 3DS
+
+> Pokémon Bank is an application and service that will allow you to deposit, store, and manage your Pokémon in private Boxes on the internet. Pokémon Bank is a paid service, with an annual charge for usage.  Pokémon Bank is a powerful resource for players who like to obtain many different kinds of Pokémon, or for those who like to raise many Pokémon in preparation for battles and competitions. The application has a variety of search functions so you can find the Pokémon you’re after among all the Pokémon you’ve deposited.  Pokémon Bank now works with Pokémon Ultra Sun and Pokémon Ultra Moon, making it easy to transfer Pokémon from among copies of Pokémon Ultra Sun, Pokémon Ultra Moon, Pokémon Sun, and Pokémon Moon—including the downloadable versions—to a single game. You can also transfer Pokémon you’ve caught in the Nintendo 3DS Virtual Console versions of Pokémon Gold, Pokémon Silver, Pokémon Red, Pokémon Blue, and Pokémon Yellow into your copy of Pokémon Ultra Sun, Pokémon Ultra Moon, Pokémon Sun, or Pokémon Moon. Pokémon from Pokémon Omega Ruby, Pokémon Alpha Sapphire, Pokémon X, and Pokémon Y can also be brought into Pokémon Ultra Sun, Pokémon Ultra Moon, Pokémon Sun, and Pokémon Moon in the same way.  When you download Pokémon Bank, you can also download the free linked application Poké Transporter. When you insert a Pokémon Omega Ruby, Pokémon Alpha Sapphire, Pokémon X, or Pokémon Y Game Card into a Nintendo 3DS system, you can use Poké Transporter to transfer Pokémon from these games into their own online Boxes. Then you can easily transfer those Pokémon into Pokémon Ultra Sun, Pokémon Ultra Moon, Pokémon Sun, and Pokémon Moon using Pokémon Bank.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Pok%C3%A9mon_Bank) · [IGDB](https://www.igdb.com/games/pokemon-bank)
 
 ---
 
@@ -3184,9 +3460,15 @@
 
 ### River City: Tokyo Rumble
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2ha0.jpg" alt="River City: Tokyo Rumble cover" width="200">
+
 **Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Developer:** Aplus &nbsp;|&nbsp; **Publisher:** Arc System Works, Natsume &nbsp;|&nbsp; **Genre:** Beat 'em up &nbsp;|&nbsp; **Released:** August 8, 2013
 
-[Wikipedia](https://en.wikipedia.org/wiki/River_City:_Tokyo_Rumble)
+> River City: Tokyo Rumble follows the story of a hot-blooded high school student named Kunio and his good friends. When a nefarious gang moves into Tokyo to try to take it over, it's up to this self-proclaimed "fighter for justice" and his buddies to make sure the streets stay safe!  Punch, kick, use weapons such as soccer balls, iron knuckles, chains, and even bicycles to knock some sense into those devious gang members. Take on jobs, level up your abilities, and don't forget to stop on occasion for a snack or two at the local food joints. Luckily, smiles are free!
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/River_City:_Tokyo_Rumble) · [IGDB](https://www.igdb.com/games/river-city-tokyo-rumble)
 
 ---
 
@@ -3206,9 +3488,15 @@
 
 ### Sayonara Umihara Kawase
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2mhy.jpg" alt="Sayonara Umihara Kawase cover" width="200">
+
 **Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Developer:** Studio Saizensen &nbsp;|&nbsp; **Publisher:** Agatsuma Entertainment, Degica, Natsume Inc., Strictly Limited Games &nbsp;|&nbsp; **Genre:** Platformer &nbsp;|&nbsp; **Released:** June 20, 2013
 
-[Wikipedia](https://en.wikipedia.org/wiki/Sayonara_Umihara_Kawase)
+> Umihara Kawase is a series of platform games, starring a nineteen-year-old Japanese school girl (Kawase Umihara), who has somehow become lost in a world of mutated salt-water and fresh-water creatures. The Umihara Kawase games' main distinction are their tranquil fish and bird infested worlds and the rope physics, which defines the gameplay.  This is the third game of the series.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Sayonara_Umihara_Kawase) · [IGDB](https://www.igdb.com/games/sayonara-umihara-kawase)
 
 ---
 
@@ -3312,9 +3600,15 @@
 
 ### Super Robot Wars UX
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/coc2ze.jpg" alt="Super Robot Wars UX cover" width="200">
+
 **Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Developer:** Banpresto &nbsp;|&nbsp; **Publisher:** Namco Bandai Games &nbsp;|&nbsp; **Genre:** Tactical role-playing &nbsp;|&nbsp; **Released:** March 14, 2013
 
-[Wikipedia](https://en.wikipedia.org/wiki/Super_Robot_Wars_UX)
+> Super Robot Taisen UX is a tactical role-playing game for the Nintendo 3DS developed by Banpresto and published by Bandai Namco Games. It is the first Super Robot Wars game for the 3DS and was released in Japan on March 14, 2013. The theme of this game is "Possibilities".
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Super_Robot_Wars_UX) · [IGDB](https://www.igdb.com/games/super-robot-taisen-ux)
 
 ---
 
@@ -3328,9 +3622,15 @@
 
 ### Teddy Together
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2rjx.jpg" alt="Teddy Together cover" width="200">
+
 **Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Developer:** Arika &nbsp;|&nbsp; **Publisher:** Namco Bandai Games, Nintendo &nbsp;|&nbsp; **Genre:** Life simulation &nbsp;|&nbsp; **Released:** June 20, 2013
 
-[Wikipedia](https://en.wikipedia.org/wiki/Teddy_Together)
+> Teddy Together is a life simulator video game. The game is based around the player taking care of a teddy bear.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Teddy_Together) · [IGDB](https://www.igdb.com/games/teddy-together)
 
 ---
 
@@ -3438,9 +3738,15 @@
 
 ### 2 Fast 4 Gnomz
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co7n08.jpg" alt="2 Fast 4 Gnomz cover" width="200">
+
 **Platforms:** Nintendo 3DS, Wii &nbsp;|&nbsp; **Developer:** QubicGames &nbsp;|&nbsp; **Publisher:** QubicGames, Flyhigh Works &nbsp;|&nbsp; **Genre:** Platform &nbsp;|&nbsp; **Released:** February 23, 2012
 
-[Wikipedia](https://en.wikipedia.org/wiki/2_Fast_4_Gnomz)
+> "In this colorful arcade platform runner you will swoosh, spring, and swoop through over a hundred challenging courses. Think fast, tap faster – avoid devious traps, find the best route, and collect all the magical socks on your way to the finish line. Geki Yaba Runner tells a tale of the speedster gnomes on a quest to collect magic socks, save all the princesses, slay all the dragons, and… Well, that might just be a gnome fairytale, but the socks and the speed part is true, we swear! Answer the challenge of the magical kingdom, conquer the hardest racing tracks, laugh at danger (ha, ha!), and become the supreme gnomish speedster in Geki Yaba Runner, free on App Store and Google Play!"
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/2_Fast_4_Gnomz) · [IGDB](https://www.igdb.com/games/2-fast-4-gnomz)
 
 ---
 
@@ -3504,9 +3810,15 @@
 
 ### Beyond the Labyrinth
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/coaq2n.jpg" alt="Beyond the Labyrinth cover" width="200">
+
 **Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Developer:** tri-Ace &nbsp;|&nbsp; **Publisher:** Konami &nbsp;|&nbsp; **Genre:** Action role-playing game, dungeon crawl &nbsp;|&nbsp; **Released:** January 19, 2012
 
-[Wikipedia](https://en.wikipedia.org/wiki/Beyond_the_Labyrinth)
+> Labyrinth no Kanata is a first-person RPG dungeon crawler for the Nintendo 3DS. The game was only released in Japan.  The game revolves around a group of players who have begun playing an online multiplayer game, only to find themselves thrust into a world completely different from theirs. They encounter a girl who has become trapped in this world's Labyrinth, and the two parties must work together to find a way out.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Beyond_the_Labyrinth) · [IGDB](https://www.igdb.com/games/labyrinth-no-kanata)
 
 ---
 
@@ -3520,9 +3832,15 @@
 
 ### Bloody Vampire
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co7ytl.jpg" alt="Bloody Vampire cover" width="200">
+
 **Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Developer:** Silver Star &nbsp;|&nbsp; **Publisher:** Agetec &nbsp;|&nbsp; **Genre:** Platform-adventure, Metroidvania &nbsp;|&nbsp; **Released:** April 25, 2012
 
-[Wikipedia](https://en.wikipedia.org/wiki/Bloody_Vampire)
+> An eShop exclusive Nintendo 3DS action platformer
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Bloody_Vampire) · [IGDB](https://www.igdb.com/games/bloody-vampire)
 
 ---
 
@@ -3642,9 +3960,15 @@
 
 ### E.X. Troopers
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2ic9.jpg" alt="E.X. Troopers cover" width="200">
+
 **Platforms:** Nintendo 3DS, PlayStation 3 &nbsp;|&nbsp; **Developer:** Capcom, HexaDrive &nbsp;|&nbsp; **Publisher:** Capcom &nbsp;|&nbsp; **Genre:** Action, Third-person shooter &nbsp;|&nbsp; **Released:** November 22, 2012
 
-[Wikipedia](https://en.wikipedia.org/wiki/E.X._Troopers)
+> An offshoot of the Lost Planet franchise, EX Troopers is an action game focused as much on character dynamics in a pilot school as it is on alien-blasting action.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/E.X._Troopers) · [IGDB](https://www.igdb.com/games/ex-troopers)
 
 ---
 
@@ -3678,9 +4002,15 @@
 
 ### Farming Simulator 2012
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co7ntz.jpg" alt="Farming Simulator 2012 cover" width="200">
+
 **Platforms:** Nintendo 3DS, iOS &nbsp;|&nbsp; **Developer:** Giants Software, Astragon &nbsp;|&nbsp; **Publisher:** Excalibur Publishing, Focus Home Interactive, Astragon, Giants Software &nbsp;|&nbsp; **Genre:** Simulation &nbsp;|&nbsp; **Released:** March 30, 2012
 
-[Wikipedia](https://en.wikipedia.org/wiki/Farming_Simulator_2012)
+> An installment of the popular farming simulation franchise for handhelds and mobile devices.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Farming_Simulator_2012) · [IGDB](https://www.igdb.com/games/farming-simulator-2012)
 
 ---
 
@@ -3726,9 +4056,15 @@
 
 ### Funky Barn
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co6uk6.jpg" alt="Funky Barn cover" width="200">
+
 **Platforms:** Nintendo 3DS, Wii U &nbsp;|&nbsp; **Developer:** Tantalus Media &nbsp;|&nbsp; **Publisher:** Ubisoft, 505 Games &nbsp;|&nbsp; **Genre:** Simulation &nbsp;|&nbsp; **Released:** April 3, 2012
 
-[Wikipedia](https://en.wikipedia.org/wiki/Funky_Barn)
+> It’s Farming! but not as you know it... Grab your Wii U GamePad and create a beautiful farmland full of animals, crops, trees and more… then develop it into the craziest, most offbeat farm imaginable, overflowing with the whackiest contraptions and goofiest gizmos you and your animals have ever seen!
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Funky_Barn) · [IGDB](https://www.igdb.com/games/funky-barn)
 
 ---
 
@@ -3742,9 +4078,15 @@
 
 ### Harvest Moon 3D: A New Beginning
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2xkq.jpg" alt="Harvest Moon 3D: A New Beginning cover" width="200">
+
 **Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Developer:** Marvelous AQL &nbsp;|&nbsp; **Publisher:** Marvelous AQL, Natsume Inc., Marvelous Europe &nbsp;|&nbsp; **Genre:** Farming simulation, role-playing game &nbsp;|&nbsp; **Released:** February 23, 2012
 
-[Wikipedia](https://en.wikipedia.org/wiki/Harvest_Moon_3D:_A_New_Beginning)
+> Harvest Moon: A New Beginning is a farming simulation game for the Nintendo 3DS video game console. As the new farmer in town, it is your job to use your farm and its resources to revitalize a once-popular town. You can grow crops and raise animals, as well as interact with villagers and possibly get married.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Harvest_Moon_3D:_A_New_Beginning) · [IGDB](https://www.igdb.com/games/harvest-moon-a-new-beginning)
 
 ---
 
@@ -3756,9 +4098,15 @@
 
 ### Hatsune Miku and Future Stars: Project Mirai
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co1ty8.jpg" alt="Hatsune Miku and Future Stars: Project Mirai cover" width="200">
+
 **Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Developer:** Sega &nbsp;|&nbsp; **Publisher:** Sega &nbsp;|&nbsp; **Genre:** Rhythm game &nbsp;|&nbsp; **Released:** March 8, 2012
 
-[Wikipedia](https://en.wikipedia.org/wiki/Hatsune_Miku_and_Future_Stars:_Project_Mirai)
+> Hatsune Miku and Future Stars: Project Mirai is a rhythm game and a spin-off of the Hatsune Miku: Project DIVA series of Vocaloid rhythm games. Like the original the game primarily makes use of Vocaloids, a series of singing synthesizer software, and the songs created using these vocaloids most notably the virtual-diva Vocaloid Hatsune Miku. The game features different character designs than the main games and the characters appear as their Nendoroid-style, Super deformed versions. For the game's primary gameplay, its music mode, it uses what it calls the "Chance Circle System". Buttons will appear around the border of a circle, and a pointer will appear from the center of the circle extending all the way outside the circle's border. It will then turn in a clockwise or counter-clockwise manner according to the song and when the pointer passes the button, the player has to press the face button on the 3DS. Similar to the series, the player's time accuracy will also be rated on a similar scale and manner that will be displayed on the bottom of the screen. In addition the game does not feature the Edit Mode of the Project DIVA series, while the DIVA Room Mode is replaced by the game's My Room mode whereby players similarly get to interact with their modules in a room.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Hatsune_Miku_and_Future_Stars:_Project_Mirai) · [IGDB](https://www.igdb.com/games/hatsune-miku-and-future-stars-project-mirai)
 
 ---
 
@@ -3796,25 +4144,39 @@
 
 ### Jewelpet: Magical Dance in Style Deco!
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co6cg5.jpg" alt="Jewelpet: Magical Dance in Style Deco! cover" width="200">
+
 **Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Developer:** FuRyu &nbsp;|&nbsp; **Publisher:** FuRyu &nbsp;|&nbsp; **Genre:** Rhythmic, Music &nbsp;|&nbsp; **Released:** November 8, 2012
 
-[Wikipedia](https://en.wikipedia.org/wiki/Jewelpet:_Magical_Dance_in_Style_Deco!)
+[Wikipedia](https://en.wikipedia.org/wiki/Jewelpet:_Magical_Dance_in_Style_Deco!) · [IGDB](https://www.igdb.com/games/jewelpet-magical-dance-in-style-deco)
 
 ---
 
 ### Johnny Hotshot
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co6cgh.jpg" alt="Johnny Hotshot cover" width="200">
+
 **Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Developer:** UFO Interactive Games &nbsp;|&nbsp; **Publisher:** UFO Interactive Games &nbsp;|&nbsp; **Genre:** Shoot 'em up &nbsp;|&nbsp; **Released:** November 8, 2012
 
-[Wikipedia](https://en.wikipedia.org/wiki/Johnny_Hotshot)
+> YEEEEEEE-HAAAAAAA! Johnny HotShot is an arcade action unlike any other!
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Johnny_Hotshot) · [IGDB](https://www.igdb.com/games/johnny-hotshot)
 
 ---
 
 ### Johnny Impossible
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co6cgg.jpg" alt="Johnny Impossible cover" width="200">
+
 **Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Developer:** UFO Interactive Games &nbsp;|&nbsp; **Publisher:** UFO Interactive Games &nbsp;|&nbsp; **Genre:** Platformer &nbsp;|&nbsp; **Released:** December 27, 2012
 
-[Wikipedia](https://en.wikipedia.org/wiki/Johnny_Impossible)
+> 2D Stealth platformer for the 3DS eShop.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Johnny_Impossible) · [IGDB](https://www.igdb.com/games/johnny-impossible)
 
 ---
 
@@ -3880,9 +4242,15 @@
 
 ### LBX: Little Battlers eXperience
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/cobrsc.jpg" alt="LBX: Little Battlers eXperience cover" width="200">
+
 **Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Developer:** Level-5, Climax Entertainment &nbsp;|&nbsp; **Publisher:** Level-5, Nintendo &nbsp;|&nbsp; **Genre:** Action role-playing game &nbsp;|&nbsp; **Released:** July 5, 2012
 
-[Wikipedia](https://en.wikipedia.org/wiki/LBX:_Little_Battlers_eXperience)
+> Play as Van Yamano, a young boy who comes upon a unique LBX – a complex, customizable, palm-sized robot. Use it – and team up with familiar characters from the hit TV series – to take down the evil corporation known as the New Dawn Raisers.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/LBX:_Little_Battlers_eXperience) · [IGDB](https://www.igdb.com/games/lbx-little-battlers-experience)
 
 ---
 
@@ -4001,6 +4369,16 @@
 > _Synopsis source: IGDB_
 
 [IGDB](https://www.igdb.com/games/paper-mario-sticker-star)
+
+---
+
+### Poyopoyo Kansatsu Nikki
+
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2sre.jpg" alt="Poyopoyo Kansatsu Nikki cover" width="200">
+
+**Platforms:** Nintendo 3DS
+
+[Wikipedia](https://en.wikipedia.org/wiki/Poyopoyo_Kansatsu_Nikki) · [IGDB](https://www.igdb.com/games/poyopoyo-kansatsu-nikki)
 
 ---
 
@@ -4130,9 +4508,15 @@
 
 ### Spirit Camera
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2v3e.jpg" alt="Spirit Camera cover" width="200">
+
 **Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Developer:** Tecmo Koei Games &nbsp;|&nbsp; **Publisher:** Nintendo &nbsp;|&nbsp; **Genre:** Survival horror &nbsp;|&nbsp; **Released:** January 12, 2012
 
-[Wikipedia](https://en.wikipedia.org/wiki/Spirit_Camera)
+> Spirit Camera: The Cursed Memoir introduces a mysterious girl named Maya who has been hiding in the shadows of an old house. Players must help Maya break free from a terrifying curse by aiding her escape from the clutches of a malevolent woman in black. By using the Nintendo 3DS system's built-in camera, players can view Maya in their own surroundings as the game's eerie events unfold.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Spirit_Camera) · [IGDB](https://www.igdb.com/games/spirit-camera-the-cursed-memoir)
 
 ---
 
@@ -4166,9 +4550,15 @@
 
 ### Tales of the World: Tactics Union
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co8054.jpg" alt="Tales of the World: Tactics Union cover" width="200">
+
 **Platforms:** Android, Nintendo 3DS &nbsp;|&nbsp; **Developer:** Namco Bandai Games, Jupiter &nbsp;|&nbsp; **Publisher:** Namco Bandai Games &nbsp;|&nbsp; **Genre:** Tactical RPG &nbsp;|&nbsp; **Released:** July 2, 2012
 
-[Wikipedia](https://en.wikipedia.org/wiki/Tales_of_the_World:_Tactics_Union)
+> Revalia is a world formed from the dreams of people from countless different worlds. As long as there are those who dream, it continues to exist; when they cease to dream, the world will die. Within Revalia resides the Rufres tribe, whose duty is to keep the balance in the world by purifying the nightmares of the people, the incarnation of the people's darkness in their hearts called Vuul.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Tales_of_the_World:_Tactics_Union) · [IGDB](https://www.igdb.com/games/tales-of-the-world-tactics-union)
 
 ---
 
@@ -4194,17 +4584,29 @@
 
 ### The Battle Cats
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co3gcw.jpg" alt="The Battle Cats cover" width="200">
+
 **Platforms:** iOS, Android, Nintendo 3DS, Windows &nbsp;|&nbsp; **Developer:** PONOS Corporation, Tose &nbsp;|&nbsp; **Publisher:** PONOS Corporation, Bandai Namco Entertainment &nbsp;|&nbsp; **Genre:** Tower defense
 
-[Wikipedia](https://en.wikipedia.org/wiki/The_Battle_Cats)
+> The Battle Cats is a tower defense mobile game. The cats must face fearsome enemies, such as Doge the dog, Gory the Gorilla, and H. Nah the Hyena.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/The_Battle_Cats) · [IGDB](https://www.igdb.com/games/the-battle-cats)
 
 ---
 
 ### The Cube
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co27v4.jpg" alt="The Cube cover" width="200">
+
 **Platforms:** Nintendo 3DS, PlayStation 3, Wii &nbsp;|&nbsp; **Developer:** Route 1 Games &nbsp;|&nbsp; **Publisher:** Funbox Media &nbsp;|&nbsp; **Genre:** Puzzle &nbsp;|&nbsp; **Released:** November 16, 2012
 
-[Wikipedia](https://en.wikipedia.org/wiki/The_Cube_(video_game))
+> Remember those old games from your childhood and feel the taste of passing level after level, absorbing all the soulfulness of our game. Maybe you also want to become a Cube? Based on the British game show of the same name.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/The_Cube_(video_game)) · [IGDB](https://www.igdb.com/games/the-cube)
 
 ---
 
@@ -4230,9 +4632,15 @@
 
 ### Time Travelers
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co30gz.jpg" alt="Time Travelers cover" width="200">
+
 **Platforms:** Nintendo 3DS, PlayStation Vita, PlayStation Portable &nbsp;|&nbsp; **Developer:** Level-5 &nbsp;|&nbsp; **Publisher:** Level-5 &nbsp;|&nbsp; **Genre:** Playing cinema, adventure, visual novel &nbsp;|&nbsp; **Released:** July 12, 2012
 
-[Wikipedia](https://en.wikipedia.org/wiki/Time_Travelers_(video_game))
+> Time Travelers is a cinematic interactive drama game with multiple choices. Usually, if a main character makes a mistake or dies, they can reverse time to perform the right action. Their choices will be displayed in the flowchart. The right choices are necessary to advance the story. A final choice determines which ending the player gets. The game has quick time events, in which players must perform actions by quickly pressing the right button.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Time_Travelers_(video_game)) · [IGDB](https://www.igdb.com/games/time-travelers)
 
 ---
 
@@ -4324,9 +4732,15 @@
 
 ### Ace Combat: Assault Horizon Legacy
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/coae91.jpg" alt="Ace Combat: Assault Horizon Legacy cover" width="200">
+
 **Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Developer:** Access Games &nbsp;|&nbsp; **Publisher:** Namco Bandai Games &nbsp;|&nbsp; **Genre:** Air combat simulation &nbsp;|&nbsp; **Released:** November 15, 2011
 
-[Wikipedia](https://en.wikipedia.org/wiki/Ace_Combat:_Assault_Horizon_Legacy)
+> Ace Combat: Assault Horizon Legacy is a remake of Ace Combat 2.  It is a flight-sim/arcade fighter combat action game. The game is typically played in a third person, behind the aircraft, or first person, inside the cockpit view. It features series mainstays such as numerous selectable aircraft and the ability to purchase parts and weapons to customize the fighters. Where Assault Horizon Legacy sets itself apart from current console versions of Assault Horizon in that the gameplay is tipped more in favour of the arcade-style action of the early games in the series rather than focusing on flight-sim characteristics. Also different from the console versions of Assault Horizon is that this entry takes place in the fictional universe of the older games in the series, rather than in real-world locations.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Ace_Combat:_Assault_Horizon_Legacy) · [IGDB](https://www.igdb.com/games/ace-combat-assault-horizon-legacy)
 
 ---
 
@@ -4346,9 +4760,15 @@
 
 ### Bit.Trip Flux
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co86ba.jpg" alt="Bit.Trip Flux cover" width="200">
+
 **Platforms:** Wii, Nintendo 3DS &nbsp;|&nbsp; **Developer:** Gaijin Games &nbsp;|&nbsp; **Publisher:** Aksys Games, Gaijin Games, QubicGames &nbsp;|&nbsp; **Genre:** Action, Music &nbsp;|&nbsp; **Released:** February 25, 2011
 
-[Wikipedia](https://en.wikipedia.org/wiki/Bit.Trip_Flux)
+> The Bit.Trip series comes full-circle with Bit.Trip Flux, CommanderVideo's final adventure.  Get ready for classic paddle-based gameplay as CommanderVideo returns to the source. Whether a hardened Bit.Trip veteran or a brave new contender, you'll be faced with new challenges that will make even the most experienced Bit.Trippers weep.  Enjoy new challenges presented within the familiar paddle-based gameplay which started the phenomenon called Bit.Trip.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Bit.Trip_Flux) · [IGDB](https://www.igdb.com/games/bit-dot-trip-flux)
 
 ---
 
@@ -4398,9 +4818,15 @@
 
 ### Cars 2: The Video Game
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co4go5.jpg" alt="Cars 2: The Video Game cover" width="200">
+
 **Platforms:** PlayStation 3, Xbox 360, Windows, Wii, Nintendo DS, Nintendo 3DS, PlayStation Portable, macOS, iOS &nbsp;|&nbsp; **Developer:** Avalanche Software, TransGaming, Firebrand Games, Virtual Toys &nbsp;|&nbsp; **Publisher:** Disney Interactive Studios, Sony Computer Entertainment, Disney Mobile Studios &nbsp;|&nbsp; **Genre:** Racing &nbsp;|&nbsp; **Released:** June 21, 2011
 
-[Wikipedia](https://en.wikipedia.org/wiki/Cars_2:_The_Video_Game)
+> Inspired by the Disney•Pixar animated film, Cars 2: The Video Game lets players jump into the Cars 2 universe with some of their favorite Cars personalities in exotic locations around the globe.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Cars_2:_The_Video_Game) · [IGDB](https://www.igdb.com/games/cars-2)
 
 ---
 
@@ -4452,9 +4878,15 @@
 
 ### Deca Sports Extreme
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co5tv8.jpg" alt="Deca Sports Extreme cover" width="200">
+
 **Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Developer:** Hudson Soft &nbsp;|&nbsp; **Publisher:** Hudson Soft, Konami &nbsp;|&nbsp; **Genre:** Sports &nbsp;|&nbsp; **Released:** April 28, 2011
 
-[Wikipedia](https://en.wikipedia.org/wiki/Deca_Sports_Extreme)
+> DECA SPORTS, the hit sports compilation series that has over 4 million units sold through worldwide, is coming to the Nintendo 3DS with 10 complete 3D sporting events in DECA SPORTS EXTREME! Kick, shoot, and bounce your way to the top across all of the included events: Soccer, Tennis, Basketball, Ice Hockey, Bowling, Snowball Fight, Sumo Wrestling, Snowmobile Racing, Blowguns, and Trampoline! This all-new handheld version includes several features never seen before in a DECA SPORTS game, like power-ups & un-lockable equipment! Of course, as always, it still features multiplayer and customizable teams. With 10 sports entirely in 3D, DECA SPORTS EXTREME will take sports to a whole new dimension!
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Deca_Sports_Extreme) · [IGDB](https://www.igdb.com/games/deca-sports-extreme)
 
 ---
 
@@ -4482,9 +4914,15 @@
 
 ### Driver: Renegade
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co6bqp.jpg" alt="Driver: Renegade cover" width="200">
+
 **Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Developer:** VD-dev &nbsp;|&nbsp; **Publisher:** Ubisoft &nbsp;|&nbsp; **Genre:** Sandbox, action, racing &nbsp;|&nbsp; **Released:** September 1, 2011
 
-[Wikipedia](https://en.wikipedia.org/wiki/Driver:_Renegade)
+> Tanner is back and full of rage in the new Driver Renegade for the Nintendo 3DS. Driver Renegade takes place between the stories of Driver 1 and Driver 2. After years of undercover work for the NYPD, John Tanner leaves his badge and takes protection under Senator Ballard to take care of crime in his own way. As a renegade, Tanner cleans up the New York streets and punishes those that oppose him. Driver Renegade brings non- stop 3D car chases to the Nintendo 3DS system.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Driver:_Renegade) · [IGDB](https://www.igdb.com/games/driver-renegade)
 
 ---
 
@@ -4518,9 +4956,15 @@
 
 ### Face Raiders
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co7edv.jpg" alt="Face Raiders cover" width="200">
+
 **Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Developer:** HAL Laboratory &nbsp;|&nbsp; **Publisher:** Nintendo &nbsp;|&nbsp; **Genre:** Simulator, shooter &nbsp;|&nbsp; **Released:** February 26, 2011
 
-[Wikipedia](https://en.wikipedia.org/wiki/Face_Raiders)
+> Face Raiders is an augmented reality game in which players must shoot down flying faces using the two outer cameras on the 3DS.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Face_Raiders) · [IGDB](https://www.igdb.com/games/face-raiders)
 
 ---
 
@@ -4640,9 +5084,15 @@
 
 ### Little Battlers Experience
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co71fg.jpg" alt="Little Battlers Experience cover" width="200">
+
 **Platforms:** PlayStation Portable, Nintendo 3DS, PlayStation Vita, Windows, Android, iOS &nbsp;|&nbsp; **Developer:** Level-5, DMM Games &nbsp;|&nbsp; **Publisher:** Level-5 &nbsp;|&nbsp; **Genre:** Action role-playing, Gacha game &nbsp;|&nbsp; **Released:** June 16, 2011
 
-[Wikipedia](https://en.wikipedia.org/wiki/Little_Battlers_Experience)
+> Danball Senki is a PSP game developed by Level 5 involving small plastic model robots known as LBXs (standing for "Little Battler eXperience") that fight on dioramas made out of cardboard, and the main character Ban Yamano setting out to battle against LBXs created by other characters. For international release, Level-5 adopted the English language title "Little Battlers eXperience."
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Little_Battlers_Experience) · [IGDB](https://www.igdb.com/games/danball-senki)
 
 ---
 
@@ -4656,9 +5106,15 @@
 
 ### Mahjong Cub3d
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co6cim.jpg" alt="Mahjong Cub3d cover" width="200">
+
 **Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Developer:** Sunsoft &nbsp;|&nbsp; **Publisher:** Sunsoft, Index Digital Media &nbsp;|&nbsp; **Genre:** Puzzle &nbsp;|&nbsp; **Released:** March 3, 2011
 
-[Wikipedia](https://en.wikipedia.org/wiki/Mahjong_Cub3d)
+> Shanghai mahjong puzzles in varying difficulty levels and 3 game modes...all in 3D.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Mahjong_Cub3d) · [IGDB](https://www.igdb.com/games/mahjong-cub3d)
 
 ---
 
@@ -4694,9 +5150,15 @@
 
 ### Nano Assault
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co6cjf.jpg" alt="Nano Assault cover" width="200">
+
 **Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Developer:** Shin'en Multimedia &nbsp;|&nbsp; **Publisher:** Majesco, Shin'en Multimedia &nbsp;|&nbsp; **Genre:** Shoot 'em up &nbsp;|&nbsp; **Released:** December 5, 2011
 
-[Wikipedia](https://en.wikipedia.org/wiki/Nano_Assault)
+> In Nano Assault, players blast their way through 32 twisted cell stages and dark worlds with rugged landscapes that adjust in difficulty based on the player's skill level. Prepare to battle and defeat extreme nemeses including the Black Nucleus, Hyper Blobs and Spore Plants using powerful beams, energetic bombs and other unlockable assault weapons. To ensure successful missions, players can clone and respawn themselves to continue the journey anytime. Special features include Missions Mode, an unlockable arcade style cell stage where players must beat the clock by destroying the most enemies, and Hall of Fame, a bragging rights leaderboard where players can publish and compare high level scores with friends. Additionally, players will be able to use the StreetPass feature to trade unlocked content.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Nano_Assault) · [IGDB](https://www.igdb.com/games/nano-assault)
 
 ---
 
@@ -4718,9 +5180,15 @@
 
 ### NCIS
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2d0i.jpg" alt="NCIS cover" width="200">
+
 **Platforms:** PlayStation 3, Wii, Windows, Xbox 360, Nintendo 3DS &nbsp;|&nbsp; **Developer:** Ubisoft Shanghai &nbsp;|&nbsp; **Publisher:** Ubisoft &nbsp;|&nbsp; **Genre:** Adventure &nbsp;|&nbsp; **Released:** October 27, 2011
 
-[Wikipedia](https://en.wikipedia.org/wiki/NCIS_(video_game))
+> For the first time ever, the world of the NCIS TV show comes to your living room in an all-new NCIS story arc written with the writers of the show. Work as the NCIS team to solve complex murder, espionage and terrorist cases. Discover exciting connections between the four original cases as you crack each one, and work towards solving the overall investigation. Bond with your favorite NCIS characters and get first-hand experience with the group’s humor, personality quirks, and defining characteristics. Interact with the characters through layers of storyline and dialogue designed to make you an integral part of the cast’s compelling dynamic. Through a variety of mini-games: search crime scenes for clues and collect evidence; use the latest forensic tools and perform autopsies; conduct dramatic suspect interrogations; put your reflexes to the tests in tense action sequences. Finally piece the clues together using your wits to deduct the truth.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/NCIS_(video_game)) · [IGDB](https://www.igdb.com/games/ncis)
 
 ---
 
@@ -4778,9 +5246,15 @@
 
 ### Pokémon Rumble Blast
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co1z24.jpg" alt="Pokémon Rumble Blast cover" width="200">
+
 **Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Developer:** Ambrella &nbsp;|&nbsp; **Publisher:** The Pokémon Company, Nintendo &nbsp;|&nbsp; **Genre:** Action role-playing &nbsp;|&nbsp; **Released:** August 11, 2011
 
-[Wikipedia](https://en.wikipedia.org/wiki/Pok%C3%A9mon_Rumble_Blast)
+> Pokemon Rumble Blast, the first Pokemon game created exclusively for the Nintendo 3DS system, is an action-packed Pokemon adventure in 3D! Battle against waves of opponents, connect and play with friends, and collect more than 600 different Toy Pokemon!  As you advance through each stage in Pokemon Rumble Blast, your Toy Pokemon will face dozens of Pokemon at once in fast and furious real-time battles! You'll also run into giant Boss Pokemon, whose massive size and strength will make them especially tough to defeat and who can become powerful allies if you're lucky!
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Pok%C3%A9mon_Rumble_Blast) · [IGDB](https://www.igdb.com/games/pokemon-rumble-blast)
 
 ---
 
@@ -4868,9 +5342,15 @@
 
 ### Senran Kagura Burst
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co3rpt.jpg" alt="Senran Kagura Burst cover" width="200">
+
 **Platforms:** Nintendo 3DS &nbsp;|&nbsp; **Developer:** Tamsoft &nbsp;|&nbsp; **Publisher:** Marvelous Entertainment Inc., Xseed Games, Marvelous AQL, Zen United &nbsp;|&nbsp; **Genre:** Hack and slash &nbsp;|&nbsp; **Released:** September 22, 2011
 
-[Wikipedia](https://en.wikipedia.org/wiki/Senran_Kagura_Burst)
+> Sengran Kagura Burst is a side-scrolling "beat-'em-up" action game for the 3DS. The player assumes control of one of five different female ninja characters. The more the game characters are damaged by enemies, the more their clothes are torn off. The information for each character's back story, major plot points, and general information on the universe of Senran Kagura is displayed in what is called the "novel", and is structured similarly to a visual novel. The novel is introduced at major plot points in the game story.  The main gameplay consists of battling through the world of the story. As the game progresses, the player's character levels up and gains new moves and abilities, and in-game content such as art work, achievements, music, costumes (of which there are 180), and new characters are unlocked. The game is split into 5 chapters, with each chapter containing a number of main missions as well as optional missions. Once a story mission is complete, the mission can be played again with any of the unlocked characters. At the end of a mission the player is graded according to the player character's health, attack, and speed in completing the mission.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Senran_Kagura_Burst) · [IGDB](https://www.igdb.com/games/senran-kagura-burst)
 
 ---
 
@@ -5044,9 +5524,15 @@
 
 ### Wappy Dog
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/cocjfh.jpg" alt="Wappy Dog cover" width="200">
+
 **Platforms:** Nintendo DS, Nintendo 3DS &nbsp;|&nbsp; **Developer:** MTO &nbsp;|&nbsp; **Publisher:** Sega Toys, Activision &nbsp;|&nbsp; **Genre:** Pet simulation &nbsp;|&nbsp; **Released:** November 8, 2011
 
-[Wikipedia](https://en.wikipedia.org/wiki/Wappy_Dog)
+> Players interact with Wappy Dog who teaches young gamers to raise their very own puppy in both the real and virtual worlds and teach it cool tricks, play mini-games together and even converse! Each pet is a fully personalized experience, enabling players to customize both the in-game version and physical dog with different colors and accessories.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Wappy_Dog) · [IGDB](https://www.igdb.com/games/wappy-dog)
 
 ---
 
@@ -5072,17 +5558,29 @@
 
 ### Dragon Ball Heroes
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co3u4j.jpg" alt="Dragon Ball Heroes cover" width="200">
+
 **Platforms:** Arcade, Nintendo 3DS, Windows &nbsp;|&nbsp; **Developer:** Dimps &nbsp;|&nbsp; **Publisher:** Bandai Namco Entertainment &nbsp;|&nbsp; **Genre:** Digital collectible card game &nbsp;|&nbsp; **Released:** November 11, 2010
 
-[Wikipedia](https://en.wikipedia.org/wiki/Dragon_Ball_Heroes)
+> Dragon Ball Heroes is a Japanese arcade game developed by Dimps. The game allows the usage of many characters from the Dragon Ball series, as well as characters new to the series.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Dragon_Ball_Heroes) · [IGDB](https://www.igdb.com/games/dragon-ball-heroes)
 
 ---
 
 ### Let's Golf 2
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/llcndc8ap0c3hnuk5rwr.jpg" alt="Let's Golf 2 cover" width="200">
+
 **Platforms:** iOS, Android, Nintendo 3DS &nbsp;|&nbsp; **Developer:** Gameloft &nbsp;|&nbsp; **Publisher:** Gameloft &nbsp;|&nbsp; **Genre:** Sports &nbsp;|&nbsp; **Released:** July 22, 2010
 
-[Wikipedia](https://en.wikipedia.org/wiki/Let's_Golf_2)
+> Looking for a faster, more colorful and fun golf experience? Then this newest edition of the popular Let’s Golf series is just the thing you need for the most exciting golf adventure you’ll ever find!  - Select from 8 fun 3D characters that you can customize with unlocked caps, clothes and golf balls. - Watch your character gain experience with each game & unleash special powers like rewinding time. - Play 108 holes in 6 far-out spots like an Aztec Jungle, a winter wonderland in Greenland & a wild African Safari. - See how you rate against the world with the online leaderboard, or challenge friends in multiplayer. - Take on the new Career mode or just have fun with a variety of new challenges.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Let's_Golf_2) · [IGDB](https://www.igdb.com/games/lets-golf-2)
 
 ---
 
@@ -5104,8 +5602,14 @@
 
 ### Slice It!
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/dlwtdip6kkrx1lxm420m.jpg" alt="Slice It! cover" width="200">
+
 **Platforms:** iOS, Android, Nintendo 3DS &nbsp;|&nbsp; **Developer:** Com2uS Studios, Arc System Works &nbsp;|&nbsp; **Publisher:** Com2uS Studios, Arc System Works, Aksys Games &nbsp;|&nbsp; **Genre:** Puzzle &nbsp;|&nbsp; **Released:** August 31, 2010
 
-[Wikipedia](https://en.wikipedia.org/wiki/Slice_It!)
+> Fast Fun with a Geometric Flair! "Slice It!" is all about slicing shapes into fragments that are equal in size.  Sound easy? It may start out that way, but soon you'll be cutting into fragments that will puzzle you like never before. Brainteasing puzzles: over 200 Basic Stages and a five-star rating system so you can play until you get it right!
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Slice_It!) · [IGDB](https://www.igdb.com/games/slice-it)
 
 ---

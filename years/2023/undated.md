@@ -12,7 +12,15 @@
 
 ### Alice in the Country of Spades: Wonderful Black World
 
-[Wikipedia](https://en.wikipedia.org/wiki/Alice_in_the_Country_of_Spades:_Wonderful_Black_World)
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co66oj.jpg" alt="Alice in the Country of Spades: Wonderful Black World cover" width="200">
+
+**Platforms:** Nintendo Switch &nbsp;|&nbsp; **Genre:** Visual Novel
+
+> Spade no Kuni no Alice: Wonderful Black World is the ninth installment in the Heart no Kuni no Alice series. It was announced on June 1st, 2019. It is being released by Otomate. Otomate hired the original writers of the series to write this game. This game has another game tied to it called Spade no Kuni no Alice ~Wonderful White World~.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Alice_in_the_Country_of_Spades:_Wonderful_Black_World) · [IGDB](https://www.igdb.com/games/spade-no-kuni-no-alice-wonderful-black-world)
 
 ---
 
@@ -30,7 +38,15 @@
 
 ### Cazzarion: Space Shooter
 
-[Wikipedia](https://en.wikipedia.org/wiki/Cazzarion:_Space_Shooter)
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co7zer.jpg" alt="Cazzarion: Space Shooter cover" width="200">
+
+**Platforms:** PlayStation 5 &nbsp;|&nbsp; **Genre:** Shooter
+
+> If you like space shooter and space invader games, you should try this version of a galaxy shoot 'em up. Galactic war in space and endless waves of alien spaceships are waiting for you!
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Cazzarion:_Space_Shooter) · [IGDB](https://www.igdb.com/games/cazzarion-space-shooter)
 
 ---
 
@@ -78,49 +94,101 @@
 
 ### Last War: Survival Game
 
-[Wikipedia](https://en.wikipedia.org/wiki/Last_War:_Survival_Game)
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co7ptr.jpg" alt="Last War: Survival Game cover" width="200">
+
+**Platforms:** iOS, Android &nbsp;|&nbsp; **Genre:** Strategy
+
+> A global zombie infestation has converted many into zombies. As a survivor, your primary goal is to retain your humanity and survive.  Begin your journey with an intense survival challenge. Dodge and combat waves of zombies. It’s not just about survival; it’s about quick reflexes and strategic thinking, as each lane presents unique obstacles and zombies!  Customize your base and expand your army – you are the light in this shelter, leading people towards a glimmer of hope. In this strategic game, your choices in building and developing your base will shape the future of your survivors in a world overrun by zombies.  Assemble your ultimate team by recruiting heroes. With a choice of three military branches, each hero comes with their own unique skills. Combine different heroes to easily achieve victory against the zombies.  In the challenging world of zombies, survival is a team effort. Partner with players from all over the globe to battle the zombies. Stay alert – alliances are complex, and not every survivor you encounter is friendly.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Last_War:_Survival_Game) · [IGDB](https://www.igdb.com/games/last-war)
 
 ---
 
 ### Living with Horses: My Horse Farm
 
-[Wikipedia](https://en.wikipedia.org/wiki/Living_with_Horses:_My_Horse_Farm)
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co6bvi.jpg" alt="Living with Horses: My Horse Farm cover" width="200">
+
+**Platforms:** PlayStation 5 &nbsp;|&nbsp; **Genre:** Simulator
+
+> Run your own riding stable full of horses and take good care of your animals and your guests. Ride freely around the open game world, through a wide variety of landscapes. The riding controls are intuitive. Speed, skill and courage are required for the mounted games – riding games that are both thrilling and fun! Train hard and claim victory in the tournament!
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Living_with_Horses:_My_Horse_Farm) · [IGDB](https://www.igdb.com/games/living-with-horses-my-horse-farm)
 
 ---
 
 ### Love Live! School Idol Festival 2: Miracle Live!
 
-[Wikipedia](https://en.wikipedia.org/wiki/Love_Live!_School_Idol_Festival_2:_Miracle_Live!)
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co5bza.jpg" alt="Love Live! School Idol Festival 2: Miracle Live! cover" width="200">
+
+**Platforms:** Android, iOS &nbsp;|&nbsp; **Genre:** Music, Visual Novel
+
+> Curtain has been raised once again for the School Idol Festival and strongly aimed by μ’s, Aqours, Nijigasaki School Idol Club, and Liella!
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Love_Live!_School_Idol_Festival_2:_Miracle_Live!) · [IGDB](https://www.igdb.com/games/love-live-school-idol-festival-2-miracle-live)
 
 ---
 
 ### Mr. Supershot
 
-[Wikipedia](https://en.wikipedia.org/wiki/Mr._Supershot)
+**Platforms:** PlayStation 5 &nbsp;|&nbsp; **Genre:** Arcade
+
+[Wikipedia](https://en.wikipedia.org/wiki/Mr._Supershot) · [IGDB](https://www.igdb.com/games/mr-supershot)
 
 ---
 
 ### Osyaberi! Horijyo! Gekihori: Anna Holinski Saves the Universe, Alright?!
 
-[Wikipedia](https://en.wikipedia.org/wiki/Osyaberi!_Horijyo!_Gekihori:_Anna_Holinski_Saves_the_Universe,_Alright%3F!)
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co78it.jpg" alt="Osyaberi! Horijyo! Gekihori: Anna Holinski Saves the Universe, Alright?! cover" width="200">
+
+**Platforms:** Nintendo Switch &nbsp;|&nbsp; **Genre:** Shooter, Arcade
+
+> Spiral into the galaxy to save the world’s treasures – alone or with a friend!
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Osyaberi!_Horijyo!_Gekihori:_Anna_Holinski_Saves_the_Universe,_Alright%3F!) · [IGDB](https://www.igdb.com/games/osyaberi-horijyo-gekihori-anna-holinski-saves-the-universe-alright)
 
 ---
 
 ### Otogi Katsugeki Mameda no Bakeru: Oracle Saitarou no Sainan!!
 
-[Wikipedia](https://en.wikipedia.org/wiki/Otogi_Katsugeki_Mameda_no_Bakeru:_Oracle_Saitarou_no_Sainan!!)
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co8txf.jpg" alt="Otogi Katsugeki Mameda no Bakeru: Oracle Saitarou no Sainan!! cover" width="200">
+
+**Platforms:** Nintendo Switch &nbsp;|&nbsp; **Genre:** Platform, Adventure
+
+> A 3D action game starring taiko drum-wielding tanuki boy Bakeru, who assumes the form of a human, going on a journey to save Japan from the clutches of a festival army led by the notorious Oracle Saitaro.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Otogi_Katsugeki_Mameda_no_Bakeru:_Oracle_Saitarou_no_Sainan!!) · [IGDB](https://www.igdb.com/games/bakeru)
 
 ---
 
 ### Pickleball Smash
 
-[Wikipedia](https://en.wikipedia.org/wiki/Pickleball_Smash)
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co79t2.jpg" alt="Pickleball Smash cover" width="200">
+
+**Platforms:** Nintendo Switch, Windows, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S &nbsp;|&nbsp; **Genre:** Sport
+
+> Unleash Your Pickleball Fever! Get ready to serve, dink, and smash your way to victory in the thrilling world of Pickleball Smash. Compete across multiple venues, jump into challenging minigames, and play in competitive tournaments to become the best of the best.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Pickleball_Smash) · [IGDB](https://www.igdb.com/games/pickleball-smash)
 
 ---
 
 ### Pool Pro 2022
 
-[Wikipedia](https://en.wikipedia.org/wiki/Pool_Pro_2022)
+**Platforms:** PlayStation 5 &nbsp;|&nbsp; **Genre:** Simulator
+
+[Wikipedia](https://en.wikipedia.org/wiki/Pool_Pro_2022) · [IGDB](https://www.igdb.com/games/pool-pro-2022)
 
 ---
 
@@ -132,37 +200,81 @@
 
 ### Racket Club
 
-[Wikipedia](https://en.wikipedia.org/wiki/Racket_Club)
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co6knk.jpg" alt="Racket Club cover" width="200">
+
+**Platforms:** Meta Quest, SteamVR &nbsp;|&nbsp; **Genre:** Simulator, Sport
+
+> Racket Club takes all the fun of tennis or pickleball and puts it in a box to create a brand new racket sport, built from the ground up for VR.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Racket_Club) · [IGDB](https://www.igdb.com/games/racket-club)
 
 ---
 
 ### Radiant Tale: Fanfare!
 
-[Wikipedia](https://en.wikipedia.org/wiki/Radiant_Tale:_Fanfare!)
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co7pgk.jpg" alt="Radiant Tale: Fanfare! cover" width="200">
+
+**Platforms:** Nintendo Switch &nbsp;|&nbsp; **Genre:** Adventure, Visual Novel
+
+> Fandisc for Radiant Tale.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Radiant_Tale:_Fanfare!) · [IGDB](https://www.igdb.com/games/radiant-tale-fanfare)
 
 ---
 
 ### Retro Bowl College
 
-[Wikipedia](https://en.wikipedia.org/wiki/Retro_Bowl_College)
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co73zg.jpg" alt="Retro Bowl College cover" width="200">
+
+**Platforms:** iOS, Android &nbsp;|&nbsp; **Genre:** Simulator, Sport, Indie
+
+> The official spin-off of the smash hit Retro Bowl takes you back to the old-school. If you thought managing a pro team was a challenge - you've seen nothing yet!  Make a name for yourself as a winning head coach for one of 250 college teams. Manage tight budgets and encourage your hotheaded young players to keep their eye on the ball when they're surrounded by the temptations and distractions of college life. Can you tell the difference between the next pro football superstar and the party animal who doesn't know when to quit? Can you foster their talents and help them make the draft? Can you turn your school into the greatest football college of all time?
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Retro_Bowl_College) · [IGDB](https://www.igdb.com/games/retro-bowl-college)
 
 ---
 
 ### Rhythm Planet
 
-[Wikipedia](https://en.wikipedia.org/wiki/Rhythm_Planet)
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co8d0l.jpg" alt="Rhythm Planet cover" width="200">
+
+**Platforms:** PlayStation VR2 &nbsp;|&nbsp; **Genre:** Music
+
+> Rhythm Planet is a cute and hilarious game developed by Aoga Technology and published by Gamepoch Star Journey. The game perfectly combines music rhythm with new features of PSVR2, such as adaptive triggers, head-mounted vibration feedback, and surround sound, allowing players to enjoy the fun on dozens of "super parties".
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Rhythm_Planet) · [IGDB](https://www.igdb.com/games/rhythm-planet)
 
 ---
 
 ### Run Man
 
-[Wikipedia](https://en.wikipedia.org/wiki/Run_Man)
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co7s7r.jpg" alt="Run Man cover" width="200">
+
+**Platforms:** PlayStation 5 &nbsp;|&nbsp; **Genre:** Sport, Arcade
+
+[Wikipedia](https://en.wikipedia.org/wiki/Run_Man) · [IGDB](https://www.igdb.com/games/run-man--1)
 
 ---
 
 ### Side Bullet
 
-[Wikipedia](https://en.wikipedia.org/wiki/Side_Bullet)
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co6ve1.jpg" alt="Side Bullet cover" width="200">
+
+**Platforms:** PlayStation 5, Windows &nbsp;|&nbsp; **Genre:** Shooter, Strategy, Tactical, Adventure, Indie, Arcade
+
+> Side Bullet is a free-to-play, side scroll online shooting game. Choose your cartel and use special skills and weapons to battle monsters and other players to be the last one standing!
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Side_Bullet) · [IGDB](https://www.igdb.com/games/side-bullet)
 
 ---
 
@@ -182,15 +294,23 @@
 
 ### Tennis Pro Tournaments
 
-[Wikipedia](https://en.wikipedia.org/wiki/Tennis_Pro_Tournaments)
+**Platforms:** PlayStation 5 &nbsp;|&nbsp; **Genre:** Sport
+
+[Wikipedia](https://en.wikipedia.org/wiki/Tennis_Pro_Tournaments) · [IGDB](https://www.igdb.com/games/tennis-pro-tournaments)
 
 ---
 
 ### The Light in the Darkness
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co65lx.jpg" alt="The Light in the Darkness cover" width="200">
+
 **Platforms:** PlayStation 4, PlayStation 5, Windows &nbsp;|&nbsp; **Publisher:** Voices of the Forgotten &nbsp;|&nbsp; **Genre:** Educational
 
-[Wikipedia](https://en.wikipedia.org/wiki/The_Light_in_the_Darkness)
+> The Light in the Darkness tells the story of a working-class family of Polish Jews in France during the Holocaust. It is the first videogame to portray the Holocaust accurately, releasing free for educational purposes.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/The_Light_in_the_Darkness) · [IGDB](https://www.igdb.com/games/the-light-in-the-darkness)
 
 ---
 
@@ -214,7 +334,15 @@
 
 ### Time Gal HD Remaster
 
-[Wikipedia](https://en.wikipedia.org/wiki/Time_Gal_HD_Remaster)
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co6pz1.jpg" alt="Time Gal HD Remaster cover" width="200">
+
+**Platforms:** Nintendo Switch &nbsp;|&nbsp; **Genre:** Adventure
+
+> An HD remaster of an action game in which Reika, the ace of the historical security police, goes back in time and tracks down the future great villain Luda, who stole a time machine and fled to the past.  A part of the Taito LD Game Collection.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Time_Gal_HD_Remaster) · [IGDB](https://www.igdb.com/games/time-gal-hd-remaster)
 
 ---
 
@@ -226,7 +354,15 @@
 
 ### Town of Salem 2
 
-[Wikipedia](https://en.wikipedia.org/wiki/Town_of_Salem_2)
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co6fh7.jpg" alt="Town of Salem 2 cover" width="200">
+
+**Platforms:** Windows, macOS &nbsp;|&nbsp; **Genre:** Role-playing (RPG), Strategy, Indie
+
+> Town of Salem 2 is the sequel to BlankMediaGames' hit Murder Mystery game, Town of Salem. With a revitalized 3d world, new and reworked roles, improved chat features and much more you can't help but join the Witch Hunt!  Town of Salem 2 pits the Town vs the Coven, Serial Killers, Arsonist, Werewolves, and even the Horsemen of the Apocalypse themselves. Can you survive the Town of Salem again? Use your wits, abilities of deduction, and your role's special abilities to help, or hurt, the Town and lead your side to victory!
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Town_of_Salem_2) · [IGDB](https://www.igdb.com/games/town-of-salem-2)
 
 ---
 
@@ -252,13 +388,29 @@
 
 ### UsoNatsu
 
-[Wikipedia](https://en.wikipedia.org/wiki/UsoNatsu)
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co74h5.jpg" alt="UsoNatsu cover" width="200">
+
+**Platforms:** Windows &nbsp;|&nbsp; **Genre:** Adventure, Visual Novel
+
+> This is a story about finding love to overwrite the feelings for the one they held dearest. A girls love visual novel about summer, love and adolescence.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/UsoNatsu) · [IGDB](https://www.igdb.com/games/usonatsu-the-summer-romance-bloomed-from-a-lie)
 
 ---
 
 ### War Thunder Mobile
 
-[Wikipedia](https://en.wikipedia.org/wiki/War_Thunder_Mobile)
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co6dim.jpg" alt="War Thunder Mobile cover" width="200">
+
+**Platforms:** Android, iOS &nbsp;|&nbsp; **Genre:** Shooter, Simulator, Tactical
+
+> War Thunder Mobile is a brand new project that builds upon the success of the widely popular War Thunder game that has tens of millions of players worldwide and has set two Guinness World Records.  Utilizing the same Dagor cross-platform engine as War Thunder and other Gaijin games, War Thunder Mobile delivers first-class graphics and the latest technological advancements on all devices. The development of War Thunder Mobile is led by a new in-house team at Gaijin Entertainment, with guidance from the original War Thunder developers.  New nations and famous vehicles like Abrams tanks and MiG-29 jets will be coming to War Thunder Mobile via regular updates.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/War_Thunder_Mobile) · [IGDB](https://www.igdb.com/games/war-thunder-mobile)
 
 ---
 

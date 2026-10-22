@@ -38,9 +38,15 @@
 
 ### Qomp2
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co704f.jpg" alt="Qomp2 cover" width="200">
+
 **Platforms:** Atari VCS, Nintendo Switch, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S &nbsp;|&nbsp; **Developer:** Graphite Lab &nbsp;|&nbsp; **Publisher:** Atari &nbsp;|&nbsp; **Genre:** Puzzle-platform &nbsp;|&nbsp; **Released:** February 20, 2024
 
-[Wikipedia](https://en.wikipedia.org/wiki/Qomp2)
+> An artful reimagining of Pong, qomp2 picks up the story where the delightful indie platform-puzzler qomp left off in 2021.  Control a Pong ball aching to break free of its life stuck between two paddles. Explore a dangerous, minimalist world, armed with simple two button controls: tap a button to change direction by 90 degrees, and hold down a button to unleash a cathartic dash forward. That’s all you need to solve environmental puzzles and labyrinthine levels. Around each corner is a new challenge that will test your two-button and problem-solving skills. A variety of difficult enemies and bosses help you mark your time as you navigate through 30 levels spread across four worlds.  A cerebral puzzler lies within the heart of this indie twist on Pong.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Qomp2) · [IGDB](https://www.igdb.com/games/qomp2--1)
 
 ---
 

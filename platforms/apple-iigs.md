@@ -42,17 +42,29 @@
 
 ### Dragon's Lair III: The Curse of Mordread
 
-**Platforms:** Amiga, Atari ST, MS-DOS, Apple IIGS &nbsp;|&nbsp; **Developer:** Don Bluth Multimedia &nbsp;|&nbsp; **Publisher:** ReadySoft
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co9d9o.jpg" alt="Dragon's Lair III: The Curse of Mordread cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/Dragon's_Lair_III:_The_Curse_of_Mordread)
+**Platforms:** Amiga, Atari ST, MS-DOS, Apple IIGS &nbsp;|&nbsp; **Developer:** Don Bluth Multimedia &nbsp;|&nbsp; **Publisher:** ReadySoft &nbsp;|&nbsp; **Genre:** Adventure, Arcade
+
+> Dragon's Lair III: The Curse of Mordread brings the classical animation style of Don Bluth to your computer featuring full-screen computer animation, digitized sound and new animations not incluided in the original laser disc arcade game
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Dragon's_Lair_III:_The_Curse_of_Mordread) · [IGDB](https://www.igdb.com/games/dragons-lair-iii-the-curse-of-mordread)
 
 ---
 
 ### Police Quest: In Pursuit of the Death Angel
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co4xha.jpg" alt="Police Quest: In Pursuit of the Death Angel cover" width="200">
+
 **Platforms:** Amiga, Atari ST, Apple II, Apple IIGS, MS-DOS, macOS &nbsp;|&nbsp; **Developer:** Sierra On-Line &nbsp;|&nbsp; **Publisher:** Sierra On-Line &nbsp;|&nbsp; **Genre:** Adventure, simulation
 
-[Wikipedia](https://en.wikipedia.org/wiki/Police_Quest:_In_Pursuit_of_the_Death_Angel)
+> This enhanced remake of Police Quest has been completely re-drawn using 256-color VGA graphics. Instead of the text-based interface of the original version, the remake features icons corresponding to the commands Walk, Look, Touch, and Talk for interaction with the game world.  The two versions also have some gameplay-related differences. The driving sequences from the original game have been simplified: the player is no longer required to physically navigate the car and input is limited to making the right turns while the car is driven automatically, and occasionally braking at stop signs. The mandatory poker mini-game during the final segment of the game has been made optional. A few puzzles have different solutions, though not all of those are simplified, and in some instances the puzzles have become more complex in the remake.  Story-wise, the game remains the same for the most part, but it also includes re-written and additional dialogue not seen in the earlier version.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Police_Quest:_In_Pursuit_of_the_Death_Angel) · [IGDB](https://www.igdb.com/games/police-quest-in-pursuit-of-the-death-angel--1)
 
 ---
 
@@ -70,9 +82,15 @@
 
 ### GATE
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co9ldf.jpg" alt="GATE cover" width="200">
+
 **Platforms:** Apple IIGS, macOS &nbsp;|&nbsp; **Developer:** Bright Software &nbsp;|&nbsp; **Publisher:** Toolbox, Seven Hills Software &nbsp;|&nbsp; **Genre:** Action-adventure
 
-[Wikipedia](https://en.wikipedia.org/wiki/GATE_(video_game))
+> Gate is an action-adventure game for the Macintosh. It blends action, adventure, and brain-teasing challenges into an addictive fast-action game with smooth animation, exciting music and sound effects. Escape the castle's prison, battle enemies, solve puzzles, and defeat your captor to restore peace to the land.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/GATE_(video_game)) · [IGDB](https://www.igdb.com/games/gate--1)
 
 ---
 
@@ -86,9 +104,15 @@
 
 ### Rescue Rover
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co48zh.jpg" alt="Rescue Rover cover" width="200">
+
 **Platforms:** MS-DOS, Apple IIGS &nbsp;|&nbsp; **Developer:** id Software &nbsp;|&nbsp; **Publisher:** Softdisk &nbsp;|&nbsp; **Genre:** Puzzle
 
-[Wikipedia](https://en.wikipedia.org/wiki/Rescue_Rover)
+> In this puzzle game by id Software the player must constantly save Rover, the protagonist's dog, from evil robots.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Rescue_Rover) · [IGDB](https://www.igdb.com/games/rescue-rover)
 
 ---
 
@@ -102,9 +126,15 @@
 
 ### The Brainies
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co49z9.jpg" alt="The Brainies cover" width="200">
+
 **Platforms:** Amiga, Amstrad CPC, Atari ST, MS-DOS, Apple IIGS, macOS &nbsp;|&nbsp; **Developer:** Atreid Concept, Titus France< &nbsp;|&nbsp; **Publisher:** Loriciel, Titus France &nbsp;|&nbsp; **Genre:** Puzzle
 
-[Wikipedia](https://en.wikipedia.org/wiki/The_Brainies)
+> This puzzle game has 101 levels, in which you have to guide a varying number of Brainies of four different colors onto a spot that matches their color. You control a cross-hair, and press fire while over a Brainy to take or give up control of its motion. Running out of time costs you a life.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/The_Brainies) · [IGDB](https://www.igdb.com/games/the-brainies)
 
 ---
 
@@ -122,9 +152,15 @@
 
 ### Catacomb
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co9tou.jpg" alt="Catacomb cover" width="200">
+
 **Platforms:** Apple II, Apple IIGS, MS-DOS &nbsp;|&nbsp; **Developer:** Softdisk &nbsp;|&nbsp; **Publisher:** Softdisk &nbsp;|&nbsp; **Genre:** Shooter
 
-[Wikipedia](https://en.wikipedia.org/wiki/Catacomb_(video_game))
+> Catacomb is a 2-D top-down third-person shooter created by John Carmack. It was originally created for the Apple II, and later ported to the PC. It should not be confused with The Catacomb, which is the second game in the series (originally named Catacomb II, but later renamed). It supports EGA and CGA graphics.  Catacomb consists of fifteen levels in the Apple II version, ten levels in the PC demo disk promoting Gamer's Edge, and 30 levels in the full PC version (The Catacomb, aka Catacomb II). To progress to the next level you must step through a magic teleportation mirror. These mirrors are usually behind a locked door, requiring you to obtain a key to advance.  In the game you play the magician Petton Everhail. At the start you are contacted by Terexin, High Wizard of the Kieralon who tells you how the Kieralon Empire has fallen. He convinces you to travel to the Kieralon Palace to collect his treasures and split them fifty-fifty.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Catacomb_(video_game)) · [IGDB](https://www.igdb.com/games/catacomb)
 
 ---
 
@@ -152,9 +188,15 @@
 
 ### Pick 'n Pile
 
-**Platforms:** Amiga, Amstrad CPC, Apple II, Apple IIGS, Atari ST, Commodore 64, MS-DOS, ZX Spectrum &nbsp;|&nbsp; **Developer:** Ubi Soft &nbsp;|&nbsp; **Publisher:** Ubi Soft
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co9r79.jpg" alt="Pick 'n Pile cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/Pick_'n_Pile)
+**Platforms:** Amiga, Amstrad CPC, Apple II, Apple IIGS, Atari ST, Commodore 64, MS-DOS, ZX Spectrum &nbsp;|&nbsp; **Developer:** Ubi Soft &nbsp;|&nbsp; **Publisher:** Ubi Soft &nbsp;|&nbsp; **Genre:** Puzzle, Strategy
+
+> Pick 'n Pile is a Tetris-style puzzle game. On each level there are a variety of symbols arranged in columns on the screen. By moving the symbols around, you need to create columns which contain identical symbols; once all the symbols in a column are the same, that column disappears. Your goal is to earn points and complete the levels by making all of the symbols on the screen disappear. Occasionally, you may become stuck with a symbol that doesn't match anything onscreen; when this happens, you can call for an additional symbol to drop onto the screen. However, as the symbol which appears is random you may need to create quite a few symbols before the one you need appears. Each level has a time limit in which it needs to be completed; run out of time and you lose a life; lose all lives and the game is over.  In addition to the regular symbols, there are also some special objects on the screen which may help or hinder your progress. These include bombs which destroy several symbols at once, blocks which may get in the way or be arranged to help out, death heads which diminish time more quickly, and flower pots which can't be moved.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Pick_'n_Pile) · [IGDB](https://www.igdb.com/games/pick-n-pile)
 
 ---
 
@@ -182,9 +224,15 @@
 
 ### Spirit of Excalibur
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co5xqy.jpg" alt="Spirit of Excalibur cover" width="200">
+
 **Platforms:** MS-DOS, Amiga, Atari ST, Apple IIGS, macOS, Amiga CDTV &nbsp;|&nbsp; **Developer:** Synergistic Software &nbsp;|&nbsp; **Publisher:** Virgin Mastertronic &nbsp;|&nbsp; **Genre:** Role-playing game
 
-[Wikipedia](https://en.wikipedia.org/wiki/Spirit_of_Excalibur)
+> Spirit of Excalibur drops the player in to a power vacuum in England following the death of King Arthur. You control Constantine, who is King Arthur's successor, and any knights he is able to recruit. Real-time combat, one-on-one and between armies, are required to defend the realm of Camelot.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Spirit_of_Excalibur) · [IGDB](https://www.igdb.com/games/spirit-of-excalibur)
 
 ---
 

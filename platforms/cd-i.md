@@ -18,25 +18,39 @@
 
 ### Solar Crusade
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/fc4x3dwhrea2ekqwreda.jpg" alt="Solar Crusade cover" width="200">
+
 **Platforms:** Windows, CD-i &nbsp;|&nbsp; **Developer:** Infogrames Multimedia &nbsp;|&nbsp; **Publisher:** Infogrames Multimedia &nbsp;|&nbsp; **Genre:** FMV game
 
-[Wikipedia](https://en.wikipedia.org/wiki/Solar_Crusade)
+> Solar Crusade is an on-rails FMV shoot 'em up designed and published by Infogrames Multimedia, created using Softimage 3D, and modeled on Silicon Graphics workstations hardware for the Windows 95 operating system and Phillips CD-i video game console.  It was the last game released for the Cd-i.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Solar_Crusade) · [IGDB](https://www.igdb.com/games/solar-crusade)
 
 ---
 
 ### Voyeur II
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/ho9t4equgnojxkvgxw5d.jpg" alt="Voyeur II cover" width="200">
+
 **Platforms:** MS-DOS, Windows, macOS, CD-i &nbsp;|&nbsp; **Developer:** InterWeave Entertainment &nbsp;|&nbsp; **Publisher:** Philips Media &nbsp;|&nbsp; **Genre:** Full Motion Video &nbsp;|&nbsp; **Released:** July 1996
 
-[Wikipedia](https://en.wikipedia.org/wiki/Voyeur_II)
+[Wikipedia](https://en.wikipedia.org/wiki/Voyeur_II) · [IGDB](https://www.igdb.com/games/voyeur-ii)
 
 ---
 
 ### Zelda's Adventure
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co1wsk.jpg" alt="Zelda's Adventure cover" width="200">
+
 **Platforms:** CD-i &nbsp;|&nbsp; **Developer:** Viridis Corporation &nbsp;|&nbsp; **Publisher:** Philips Interactive Media &nbsp;|&nbsp; **Genre:** Action-adventure &nbsp;|&nbsp; **Released:** May 10, 1996
 
-[Wikipedia](https://en.wikipedia.org/wiki/Zelda's_Adventure)
+> Zelda's Adventure was the product of a compromise between Nintendo and Philips following their failure to release a CD-ROM based add-on to the Super Nintendo Entertainment System. The game boasts an entirely unique design in comparison to the previous CD-i Zelda titles, emphasizing the difference in production between the developers. Princess Zelda serves as the game's protagonist, making it the second game in the series where she is playable. Zelda's Adventure incorporates a similar top-down view reminiscent of most conventional 2D Zelda games and it also has dungeons. The game have been subject to much criticism and Nintendo does not recognize it as part of the series.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Zelda's_Adventure) · [IGDB](https://www.igdb.com/games/zeldas-adventure)
 
 ---
 
@@ -46,9 +60,15 @@
 
 ### Chaos Control
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/cobwml.jpg" alt="Chaos Control cover" width="200">
+
 **Platforms:** CD-i, macOS, PlayStation, Sega Saturn, MS-DOS &nbsp;|&nbsp; **Developer:** Infogrames Multimedia &nbsp;|&nbsp; **Publisher:** Philips, Infogrames, I•Motion, Virgin Interactive Entertainment &nbsp;|&nbsp; **Genre:** Rail shooter &nbsp;|&nbsp; **Released:** July 2, 1995
 
-[Wikipedia](https://en.wikipedia.org/wiki/Chaos_Control_(video_game))
+> Chaos Control, a super-production designed entirely on Silicon Graphics, takes you to the heart of a fantastic epic that blends cyberculture, virtual travel and manga graphics. At the controls of a space fighter, your dangerous missions will lead you into a unique spectacle with multiple, fantastic sets in full screen 3D vision.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Chaos_Control_(video_game)) · [IGDB](https://www.igdb.com/games/chaos-control)
 
 ---
 
@@ -68,9 +88,15 @@
 
 ### Thunder in Paradise
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/p5vuom2po4kkcqimwj9k.jpg" alt="Thunder in Paradise cover" width="200">
+
 **Platforms:** CD-i, MS-DOS &nbsp;|&nbsp; **Developer:** Philips POV Entertainment &nbsp;|&nbsp; **Publisher:** Philips Interactive Media
 
-[Wikipedia](https://en.wikipedia.org/wiki/Thunder_in_Paradise_(video_game))
+> Here's your shot at Paradise, bro. You're in the middle of an action-packed adventure with your cohorts Spence (Terry "Hulk" Hogan) and Bru (Chris Lemmon). Blast your way through these mind-blowing action encounters as you attempt to rescue Spence's daughter Jessica, regain control of the M.A.J.O.R., and crush your arch enemy, RAMPIKE! Race at hyperspeed through the Caribbean, aboard THUNDER, a 45-foot piece of hi-tech marine hardware. Take control of the boat's weapon systems and defend THUNDER from a shower of deadly threats. Face down minions of the psychotic RAMPIKE on the eerie trails of Rossiter's Island. Go toe-to-toe with the M.A.J.O.R., a bio-humanoid gone haywire, in a battle for Jessica's life!
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Thunder_in_Paradise_(video_game)) · [IGDB](https://www.igdb.com/games/thunder-in-paradise)
 
 ---
 
@@ -80,9 +106,15 @@
 
 ### Burn Cycle
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co6oay.jpg" alt="Burn Cycle cover" width="200">
+
 **Platforms:** CD-i, macOS, Windows &nbsp;|&nbsp; **Developer:** TripMedia &nbsp;|&nbsp; **Publisher:** Philips Interactive Media &nbsp;|&nbsp; **Genre:** Interactive film, Point-and-click adventure &nbsp;|&nbsp; **Released:** October 1994
 
-[Wikipedia](https://en.wikipedia.org/wiki/Burn_Cycle)
+> Sol Cutter's plan was to slip into Softech, do some quick electronic thievery and make a pile of cash. What could go wrong? Plenty. The job sours when a freak power surge leaves Cutter with the mother of all headaches. But that's not all. Somehow, a computer virus has installed itself in his head. In exactly two hours, the Burn:Cycle virus will turn Sol Cutter's brain into jelly - unless you can find a way to deactivate it. Think fast. Shoot faster.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Burn_Cycle) · [IGDB](https://www.igdb.com/games/burn-cycle)
 
 ---
 
@@ -96,9 +128,15 @@
 
 ### Hotel Mario
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co1te1.jpg" alt="Hotel Mario cover" width="200">
+
 **Platforms:** CD-i &nbsp;|&nbsp; **Developer:** Fantasy Factory &nbsp;|&nbsp; **Publisher:** Philips Interactive Media &nbsp;|&nbsp; **Genre:** Puzzle &nbsp;|&nbsp; **Released:** July 1994
 
-[Wikipedia](https://en.wikipedia.org/wiki/Hotel_Mario)
+> Hotel Mario is a puzzle/platformer game who takes place in hotels. The general goal in each stage is to close all the doors on every floor. However, various enemies will interfere and reopen them at times. Elevators are needed to travel between floors. The first six hotels have ten stages, whilst the seventh has fifteen. The game had low sales partially due to a lack of interest in the CD-i system, and received mainly poor reviews.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Hotel_Mario) · [IGDB](https://www.igdb.com/games/hotel-mario)
 
 ---
 
@@ -118,17 +156,29 @@
 
 ### The Apprentice
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co1lnq.jpg" alt="The Apprentice cover" width="200">
+
 **Platforms:** CD-i &nbsp;|&nbsp; **Developer:** The Vision Factory &nbsp;|&nbsp; **Publisher:** Philips Interactive Media &nbsp;|&nbsp; **Genre:** Platform &nbsp;|&nbsp; **Released:** November 1994
 
-[Wikipedia](https://en.wikipedia.org/wiki/The_Apprentice_(video_game))
+> The Apprentice is a plain old platform game. As Marvin, a wizard's apprentice, your master Mr. Wandburner gives you a series of tasks to complete, spread out on six levels with three stages each, taking place on land, in the sea and in the air. In order to make your life in the aquatic levels easier, the wizard will turn you into a frog. In order to fly, you're equipped with a special flying helmet. Each level has a new weapon for you to use, ranging from the traditional magic wand to a rubber ball, a water pistol or even a laser gun. As in any normal platform game, each level has an end-boss, and between levels are bonus rounds.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/The_Apprentice_(video_game)) · [IGDB](https://www.igdb.com/games/the-apprentice--1)
 
 ---
 
 ### World Cup Golf: Hyatt Dorado Beach
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co3yx0.jpg" alt="World Cup Golf: Hyatt Dorado Beach cover" width="200">
+
 **Platforms:** MS-DOS, 3DO Interactive Multiplayer, CD-i &nbsp;|&nbsp; **Developer:** Arc Developments &nbsp;|&nbsp; **Publisher:** U.S. Gold, Eidos Interactive, Soft Vision &nbsp;|&nbsp; **Genre:** Sports &nbsp;|&nbsp; **Released:** December 1994
 
-[Wikipedia](https://en.wikipedia.org/wiki/World_Cup_Golf:_Hyatt_Dorado_Beach)
+> World Cup Golf takes the player to Puerto Rico's own Hyatt Dorado Beach Golf Course as they can choose from a bevy of fictional golfers or create their own in 18 rounds of golf. There are 15 types of tournaments to choose from including skins, medal and stableford to name a few. Players can also practice their swing on the driving range.  Players can also customize weather conditions as well as choose from a plethora of camera shots including the "Ball Cam" that follows the ball to its location. Like many golf games, a meter is used to determine the accuracy and the power of the players swing and also features in-game commentary.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/World_Cup_Golf:_Hyatt_Dorado_Beach) · [IGDB](https://www.igdb.com/games/world-cup-golf-hyatt-dorado-beach)
 
 ---
 
@@ -138,25 +188,43 @@
 
 ### Alien Gate
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/coco87.jpg" alt="Alien Gate cover" width="200">
+
 **Platforms:** CD-i &nbsp;|&nbsp; **Developer:** SPC Vision &nbsp;|&nbsp; **Publisher:** Philips &nbsp;|&nbsp; **Genre:** Fixed shooter
 
-[Wikipedia](https://en.wikipedia.org/wiki/Alien_Gate)
+> Alien Gate is a fixed shooter. Each stage consists of the player's ship facing off against a giant head that spawns several smaller enemies. Once all the required enemies are defeated, the player must defeat the head as a boss. The background gives the impression of a vertically scrolling shooter, but the attackers stay in position relative to the player's ship. There are 25 stages and 14 different enemy types.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Alien_Gate) · [IGDB](https://www.igdb.com/games/alien-gate)
 
 ---
 
 ### Crime Patrol 2: Drug Wars
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co7h5e.jpg" alt="Crime Patrol 2: Drug Wars cover" width="200">
+
 **Platforms:** Arcade, 3DO Interactive Multiplayer, CD-i &nbsp;|&nbsp; **Publisher:** American Laser Games, Digital Leisure &nbsp;|&nbsp; **Genre:** Light gun shooter
 
-[Wikipedia](https://en.wikipedia.org/wiki/Crime_Patrol_2:_Drug_Wars)
+> Crime Patrol 2: Drug Wars (also known just as Drug Wars) is a live-action laserdisc video game, released by American Laser Games in 1993. It was subsequently ported to the 3DO Interactive Multiplayer and CD-i. As the title implies, it is the sequel to the relatively popular arcade game Crime Patrol, with very similar gameplay, objectives and scenery. The game was re-released by Digital Leisure in 2002.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Crime_Patrol_2:_Drug_Wars) · [IGDB](https://www.igdb.com/games/crime-patrol-2-drug-wars)
 
 ---
 
 ### Kether
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/jsj2lwxkujwfkbinxnzs.jpg" alt="Kether cover" width="200">
+
 **Platforms:** CD-i &nbsp;|&nbsp; **Developer:** Infogrames &nbsp;|&nbsp; **Publisher:** Philips &nbsp;|&nbsp; **Genre:** Space flight simulation, adventure &nbsp;|&nbsp; **Released:** October 1993
 
-[Wikipedia](https://en.wikipedia.org/wiki/Kether_(video_game))
+> A sci-fi hodgepodge of puzzles, space flight and corridor shooting.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Kether_(video_game)) · [IGDB](https://www.igdb.com/games/kether)
 
 ---
 
@@ -184,9 +252,15 @@
 
 ### Litil Divil
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co1osf.jpg" alt="Litil Divil cover" width="200">
+
 **Platforms:** MS-DOS, CD-i &nbsp;|&nbsp; **Developer:** Gremlin Graphics &nbsp;|&nbsp; **Publisher:** Gremlin Graphics, Philips Interactive Media, Rushware, M.C.M. Software &nbsp;|&nbsp; **Genre:** Action
 
-[Wikipedia](https://en.wikipedia.org/wiki/Litil_Divil)
+> Welcome to the Underworld, where you guide Mutt, the bad luck Litil Divil, through the Labyrinth of Chaos to retrieve the Mystical Pizza of Plenty. Our “hero” takes a fateful step through the Mortal Portal to prowl five hellish levels of treacherous tunnels with more than 50 raucous rooms of gameplay. Beware of killer spiders, bottomless swamps, ferocious furnaces... and crazed bartenders. And watch out! If you can't get Mutt to the Overlord, The Entity and The Servant will drag him to the Torture Room for a little fiendish fun.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Litil_Divil) · [IGDB](https://www.igdb.com/games/litil-divil)
 
 ---
 
@@ -206,9 +280,15 @@
 
 ### Voyeur
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co1osj.jpg" alt="Voyeur cover" width="200">
+
 **Platforms:** CD-i, MS-DOS &nbsp;|&nbsp; **Developer:** Philips POV Entertainment &nbsp;|&nbsp; **Publisher:** Philips Interactive, Interplay, MacPlay &nbsp;|&nbsp; **Genre:** Interactive movie
 
-[Wikipedia](https://en.wikipedia.org/wiki/Voyeur_(video_game))
+> Like To Watch?  You'll get an eye-full as you peer into your neighbors' sordid lives in the wickedly seductive interactive mystery, Voyeur. Political blackmail... murder... seductive intrigue... you'll see it all. But will you only watch - hidden like a true voyeur - or will you step into the drama and try to prevent a murder?  Voyeur combines dramatic game play with chilling suspense and erotic undertones guaranteed to keep your excitement level up. Hollywood actors, excellent film quality and an alluring storyline make this a sizzling thriller that will bring our the voyeur in everyone. Come on. We know you want to watch.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Voyeur_(video_game)) · [IGDB](https://www.igdb.com/games/voyeur)
 
 ---
 
@@ -240,24 +320,42 @@
 
 ### CD Shoot
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co1wfz.jpg" alt="CD Shoot cover" width="200">
+
 **Platforms:** CD-i &nbsp;|&nbsp; **Developer:** Eaglevision Interactive Productions &nbsp;|&nbsp; **Publisher:** Eaglevision Interactive Productions &nbsp;|&nbsp; **Genre:** action game, sport game
 
-[Wikipedia](https://en.wikipedia.org/wiki/CD_Shoot)
+> CD Shoot is a clay dove shooting game for the CD-i. The game has four game modes: sporting, Olympic trap, balltrap and English skeet. In the game clay doves are launched in the air and using a targeting crosshair you have to shoot them out of the sky.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/CD_Shoot) · [IGDB](https://www.igdb.com/games/cd-shoot)
 
 ---
 
 ### International Tennis Open
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/zq69m9zqs8p4zv1yypkh.jpg" alt="International Tennis Open cover" width="200">
+
 **Platforms:** CD-i, macOS, MS-DOS &nbsp;|&nbsp; **Developer:** Infogrames Multimedia &nbsp;|&nbsp; **Publisher:** Philips Interactive Media, Pathé Interactive &nbsp;|&nbsp; **Genre:** Sports
 
-[Wikipedia](https://en.wikipedia.org/wiki/International_Tennis_Open)
+> HOWZAT!? Melbourne-based development studio Beam Software's (eventually becoming Krome Studios Melbourne) first dip into the leg-bye laden world of cricket, released on the NES only in Australia.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/International_Tennis_Open) · [IGDB](https://www.igdb.com/games/international-tennis-open)
 
 ---
 
 ### Mystic Midway: Rest in Pieces
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co5o0u.jpg" alt="Mystic Midway: Rest in Pieces cover" width="200">
+
 **Platforms:** CD-i &nbsp;|&nbsp; **Developer:** Philips &nbsp;|&nbsp; **Publisher:** Philips &nbsp;|&nbsp; **Genre:** Shoot 'em up
 
-[Wikipedia](https://en.wikipedia.org/wiki/Mystic_Midway:_Rest_in_Pieces)
+> Mystic Midway: Rest in Pieces – Somewhere between heaven and earth stands the mystic midway. Its live action ‘Master of Cemeteries’ the humorously insulting Dr Dearth, welcomes you to his shooting gallery, Rest in Pieces! Fire away at ghosts, ghouls, and all things that go bump in the night.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Mystic_Midway:_Rest_in_Pieces) · [IGDB](https://www.igdb.com/games/mystic-midway-rest-in-pieces)
 
 ---

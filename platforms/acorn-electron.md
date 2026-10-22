@@ -26,9 +26,15 @@
 
 ### Loopz
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co3c9g.jpg" alt="Loopz cover" width="200">
+
 **Platforms:** Atari ST, Acorn Archimedes, Acorn Electron, Amiga, Amstrad CPC, BBC Micro, Commodore 64, MS-DOS, Game Boy, Atari Lynx, Nintendo Entertainment System, PC-9800 series, ZX Spectrum, Sharp X68000 &nbsp;|&nbsp; **Developer:** Audiogenic &nbsp;|&nbsp; **Publisher:** Mindscape &nbsp;|&nbsp; **Genre:** Puzzle
 
-[Wikipedia](https://en.wikipedia.org/wiki/Loopz)
+> Loopz is a puzzle video game originally designed and programmed by Ian Upton for the Atari ST in 1989. He previously worked as head game designer for Audiogenic, who acquired exclusive rights to the game, then in 1990 arranged for Mindscape to publish it for computers in North America and consoles worldwide.  The Nintendo Entertainment System version (programmed by Bits Studios) and the Game Boy version (programmed by Argonaut Software) were released in 1990. Audiogenic published versions of the original game for the Acorn Electron, BBC Micro, ZX Spectrum, Amstrad CPC, Commodore 64, Atari ST, Amiga, and IBM PC in 1990 and 1991.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Loopz) · [IGDB](https://www.igdb.com/games/loopz)
 
 ---
 

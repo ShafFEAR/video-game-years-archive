@@ -28,17 +28,29 @@
 
 ### Ark Park
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co28uc.jpg" alt="Ark Park cover" width="200">
+
 **Platforms:** PlayStation VR, Oculus Rift, SteamVR, Windows Mixed Reality &nbsp;|&nbsp; **Developer:** Snail Games, Studio Wildcard &nbsp;|&nbsp; **Genre:** Virtual reality &nbsp;|&nbsp; **Released:** March 22, 2018
 
-[Wikipedia](https://en.wikipedia.org/wiki/Ark_Park)
+> Engage in close encounters of primal species through a series of theme-park attractions and witness with your own eyes dinosaurs roaring in the wild.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Ark_Park) · [IGDB](https://www.igdb.com/games/ark-park)
 
 ---
 
 ### Red Matter
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co8caj.jpg" alt="Red Matter cover" width="200">
+
 **Platforms:** SteamVR, Oculus Rift, Windows Mixed Reality, PlayStation VR &nbsp;|&nbsp; **Developer:** Vertical Robot &nbsp;|&nbsp; **Genre:** Puzzle &nbsp;|&nbsp; **Released:** May 24, 2018
 
-[Wikipedia](https://en.wikipedia.org/wiki/Red_Matter_(video_game))
+> Red Matter is a story-driven VR puzzle adventure game set during a dystopian sci-fi Cold War. Take on the role of Agent Epsilon, an astronaut of the Atlantic Union dispatched to an abandoned Volgravian moon base on a frozen, faraway planet. Your mission: to investigate a shady top secret research project.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Red_Matter_(video_game)) · [IGDB](https://www.igdb.com/games/red-matter)
 
 ---
 

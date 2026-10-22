@@ -194,13 +194,29 @@
 
 ### Corpse Party II: Darkness Distortion
 
-[Wikipedia](https://en.wikipedia.org/wiki/Corpse_Party_II:_Darkness_Distortion)
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co9td1.jpg" alt="Corpse Party II: Darkness Distortion cover" width="200">
+
+**Platforms:** Nintendo Switch, PlayStation 4, PlayStation 5, Windows &nbsp;|&nbsp; **Genre:** Adventure, Visual Novel
+
+> Corpse Party II: Darkness Distortion follows three high school friends; Haruka Nanami, Nemu Takanashi, and Maria Hitsugi, as they explore the Amare Est Vivere Hospital, testing a local urban legend as the streamer Nemu seeks to boost her subscriber count. Unfortunately for the three girls, the legend of “Ayame’s Mercy” is true, and they trigger a decades-old curse that sends them into a dark realm. Together they must avoid the vengeful spirit of Ayame Kirishima and other horrors from the hospital’s dark past as they search for a way to dispel Ayame’s curse once and for all.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Corpse_Party_II:_Darkness_Distortion) · [IGDB](https://www.igdb.com/games/corpse-party-ii-darkness-distortion)
 
 ---
 
 ### Creepshow
 
-[Wikipedia](https://en.wikipedia.org/wiki/Creepshow_(video_game))
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/coccds.jpg" alt="Creepshow cover" width="200">
+
+**Platforms:** Windows &nbsp;|&nbsp; **Genre:** Point-and-click, Adventure, Indie
+
+> Get lost in a deliciously dark horror anthology. Inspired by Shudder’s Creepshow series, this point-and-click adventure has gone all kinds of wrong.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Creepshow_(video_game)) · [IGDB](https://www.igdb.com/games/creepshow)
 
 ---
 
@@ -490,7 +506,15 @@
 
 ### Jay and Silent Bob: Chronic Blunt Punch
 
-[Wikipedia](https://en.wikipedia.org/wiki/Jay_and_Silent_Bob:_Chronic_Blunt_Punch)
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co29t4.jpg" alt="Jay and Silent Bob: Chronic Blunt Punch cover" width="200">
+
+**Platforms:** Nintendo Switch, PlayStation 4, PlayStation 5, Xbox Series X/S, Windows &nbsp;|&nbsp; **Genre:** Fighting, Hack and slash/Beat 'em up, Indie, Arcade
+
+> Jump in the shoes of Lunch Box and Mr. Snoogans in a colorful Side-scrolling 2.5D over-the-top multiplayer brawler! Play as the dynamic duo alone or with a friend in a tag team combo fight fest. Destroy your enemies with fists, feet, and the magic of self-esteem destroying shit talk while you embark on a mission to find your long lost pot customers trapped in an Orwellian shopping center.  Jay and Silent Bob: Chronic Blunt Punch is a colorful side-scrolling tag-team beat-em-up where players swap back and forth between our heroes on the fly or perform special moves simultaneously with a friend. Our heroes embark on an epic adventure from the humble corners where they ply their trade to the gates of hell itself.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Jay_and_Silent_Bob:_Chronic_Blunt_Punch) · [IGDB](https://www.igdb.com/games/jay-and-silent-bob-chronic-blunt-punch)
 
 ---
 
@@ -580,17 +604,29 @@
 
 ### Mysplaced
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/coafps.jpg" alt="Mysplaced cover" width="200">
+
 **Platforms:** PlayStation 4, PlayStation 5, Windows, Xbox One, Xbox Series X/S &nbsp;|&nbsp; **Developer:** Clear Sky Games &nbsp;|&nbsp; **Publisher:** Clear Sky Games &nbsp;|&nbsp; **Genre:** Metroidvania
 
-[Wikipedia](https://en.wikipedia.org/wiki/Mysplaced)
+> Mysplaced is an enchanting action-adventure game where exploration, puzzles, and combat come together in a beautifully crafted 3D world. Dive into a realm filled with secrets, challenges, and a compelling story waiting to be uncovered.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Mysplaced) · [IGDB](https://www.igdb.com/games/mysplaced)
 
 ---
 
 ### Needle In A Haystack Simulator
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/cocyes.jpg" alt="Needle In A Haystack Simulator cover" width="200">
+
 **Platforms:** Windows &nbsp;|&nbsp; **Developer:** Nas Nakarus &nbsp;|&nbsp; **Publisher:** Nas Nakarus &nbsp;|&nbsp; **Genre:** Simulation
 
-[Wikipedia](https://en.wikipedia.org/wiki/Needle_In_A_Haystack_Simulator)
+> The viral one. The one and only. Find 1 needle hidden amongst 5,000,000 pieces of hay.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Needle_In_A_Haystack_Simulator) · [IGDB](https://www.igdb.com/games/needle-in-a-haystack-simulator)
 
 ---
 
@@ -616,7 +652,11 @@
 
 ### Onegai AiPri
 
-[Wikipedia](https://en.wikipedia.org/wiki/Onegai_AiPri)
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/cobx4f.jpg" alt="Onegai AiPri cover" width="200">
+
+**Platforms:** Arcade &nbsp;|&nbsp; **Genre:** Music, Arcade
+
+[Wikipedia](https://en.wikipedia.org/wiki/Onegai_AiPri) · [IGDB](https://www.igdb.com/games/onegai-aipri)
 
 ---
 
@@ -692,7 +732,15 @@
 
 ### Pool Room Billiard
 
-[Wikipedia](https://en.wikipedia.org/wiki/Pool_Room_Billiard)
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/cobc9j.jpg" alt="Pool Room Billiard cover" width="200">
+
+**Platforms:** Nintendo Switch 2 &nbsp;|&nbsp; **Genre:** Simulator, Sport, Card & Board Game
+
+> Enjoy moody gameplay with motion controls using two Joy-Con 2 controllers.A full-fledged 3D billiards game where you can battle players worldwide online!
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Pool_Room_Billiard) · [IGDB](https://www.igdb.com/games/pool-room-billiard)
 
 ---
 
@@ -768,9 +816,15 @@
 
 ### Skyblivion
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co9jzd.jpg" alt="Skyblivion cover" width="200">
+
 **Platforms:** Windows &nbsp;|&nbsp; **Developer:** TES Renewal Project &nbsp;|&nbsp; **Genre:** Action role-playing
 
-[Wikipedia](https://en.wikipedia.org/wiki/Skyblivion)
+> Skyblivion is the ultimate fan-made experience for the Elder Scrolls IV: Oblivion, bringing the game into the newer engine of the Elder Scrolls V: Skyrim. This process combines Oblivion’s impressive award-winning open-world that is renowned for its incredible gameplay, memorable quests, and expansive world space with the advancements in gaming that have been made in the last two decades. Set in the Elder Scroll’s Third Era, during the cataclysmic Oblivion Crisis, you must help to restore the Imperial throne and repel the demonic Daedric invasion.  Skyblivion will feature the remastered entirety of Oblivion’s mainland, Cyrodiil, from the wintery slopes of the Valus and Jerall Mountains to the swamps of Blackwood and warm-beachy shores of the Gold Coast. Skyblivion will bring the return of many classic Oblivion mechanics like spell crafting, a complete class and attributes system, underwater combat, and NPC disposition.  In addition to recreating Oblivion’s systems and porting them into the Elder Scrolls V: Skyrim’s engine the project has taken great care in providing new improvements and additions. Skyblivion offers fans remastered graphics, weather, and lighting, an expanded soundtrack, new gameplay mechanics, and even a limited selection of bespoke minor quests with original voice acting to further flesh out barren areas of Oblivion—all for free!  Once Skyblivion is released in 2025, fans will have access to the entirety of Oblivion’s pre-DLC world space, systems, and quests available for play. But that’s not the end of the project! Following a period of bug-fixing and community-supported updates the project development team will move on to working on Oblivion’s nine additional content releases plus the Shivering Isles expansion.  With Skyblivion you experience the best of both worlds: The complex and detailed RPG experience of Oblivion paired with Skyrim’s newer systems, graphics, and quality of life improvements. Will you close shut the jaws of Oblivion once more in 2025?
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Skyblivion) · [IGDB](https://www.igdb.com/games/skyblivion)
 
 ---
 
@@ -818,9 +872,15 @@
 
 ### Sunkissed City
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co7odv.jpg" alt="Sunkissed City cover" width="200">
+
 **Platforms:** Linux, macOS, Windows &nbsp;|&nbsp; **Developer:** Arthur Lee &nbsp;|&nbsp; **Publisher:** Arthur Lee &nbsp;|&nbsp; **Genre:** Farm life sim
 
-[Wikipedia](https://en.wikipedia.org/wiki/Sunkissed_City)
+> Sunkissed City is a life-sim set in an upbeat, sun-kissed seaside metropolis full of funky vibes and quirky characters. Stake out your new life in the city, tending to DIY gardens, learning new skills, and making life-long friends and help bring life back to its once-vibrant streets!
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Sunkissed_City) · [IGDB](https://www.igdb.com/games/sunkissed-city)
 
 ---
 

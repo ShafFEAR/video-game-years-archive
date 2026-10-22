@@ -10,9 +10,15 @@
 
 ### The Labyrinth of Time
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co43vu.jpg" alt="The Labyrinth of Time cover" width="200">
+
 **Platforms:** Amiga CDTV, Amiga CD32, MS-DOS, Amiga, macOS &nbsp;|&nbsp; **Developer:** Terra Nova Development, The Wyrmkeep Entertainment Co. &nbsp;|&nbsp; **Publisher:** Electronic Arts, The Wyrmkeep Entertainment Co. &nbsp;|&nbsp; **Genre:** Graphic adventure &nbsp;|&nbsp; **Released:** June 1, 1993
 
-[Wikipedia](https://en.wikipedia.org/wiki/The_Labyrinth_of_Time)
+> Abruptly lifted from your routine existence, you have been dropped into a realm where time and space hang in check. Through exploration and puzzle solving, you must overcome the awesome powers of Minos.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/The_Labyrinth_of_Time) · [IGDB](https://www.igdb.com/games/the-labyrinth-of-time)
 
 ---
 
@@ -34,9 +40,11 @@
 
 ### Cover Girl Strip Poker
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/n3w1lrphqpt7ffyjlt9w.jpg" alt="Cover Girl Strip Poker cover" width="200">
+
 **Platforms:** Amiga, MS-DOS, Commodore 64, Amiga CDTV &nbsp;|&nbsp; **Developer:** Emotional Pictures &nbsp;|&nbsp; **Publisher:** Emotional Pictures &nbsp;|&nbsp; **Genre:** Card game
 
-[Wikipedia](https://en.wikipedia.org/wiki/Cover_Girl_Strip_Poker)
+[Wikipedia](https://en.wikipedia.org/wiki/Cover_Girl_Strip_Poker) · [IGDB](https://www.igdb.com/games/cover-girl-strip-poker)
 
 ---
 
@@ -64,17 +72,29 @@
 
 ### Sherlock Holmes: Consulting Detective
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co5vdc.jpg" alt="Sherlock Holmes: Consulting Detective cover" width="200">
+
 **Platforms:** FM Towns, Amiga CDTV, MS-DOS, PC Engine, Sega CD, PC Engine CD &nbsp;|&nbsp; **Developer:** ICOM Simulations &nbsp;|&nbsp; **Publisher:** ICOM Simulations, Sega &nbsp;|&nbsp; **Genre:** Adventure, interactive movie
 
-[Wikipedia](https://en.wikipedia.org/wiki/Sherlock_Holmes:_Consulting_Detective)
+> A FMV update to the classic book-based game, SH:CD challenges players to help Holmes and Watson solve three cases involving murder. One of the first CD-ROM-only releases.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Sherlock_Holmes:_Consulting_Detective) · [IGDB](https://www.igdb.com/games/sherlock-holmes-consulting-detective)
 
 ---
 
 ### Top Banana
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2rpn.jpg" alt="Top Banana cover" width="200">
+
 **Platforms:** Acorn Archimedes, Amiga CDTV, Atari ST &nbsp;|&nbsp; **Publisher:** Hex &nbsp;|&nbsp; **Genre:** Platform
 
-[Wikipedia](https://en.wikipedia.org/wiki/Top_Banana_(video_game))
+> Top Banana is a bizarre platformer with an environmental theme.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Top_Banana_(video_game)) · [IGDB](https://www.igdb.com/games/top-banana)
 
 ---
 
@@ -94,9 +114,15 @@
 
 ### Wrath of the Demon
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2jk1.jpg" alt="Wrath of the Demon cover" width="200">
+
 **Platforms:** Atari ST, Amiga, Amiga CDTV, MS-DOS, Commodore 64 &nbsp;|&nbsp; **Developer:** Abstrax &nbsp;|&nbsp; **Publisher:** ReadySoft &nbsp;|&nbsp; **Genre:** Hack and slash
 
-[Wikipedia](https://en.wikipedia.org/wiki/Wrath_of_the_Demon)
+> Wrath of the Demon is a computer game developed by a Quebec-based team called Abstrax. Versions for Atari ST, Amiga, Commodore CDTV, PC and Mac were released in Early 1991. There was also a Commodore 64 version.    The player controls a hero on a quest to defeat a demon. Gameplay styles include hack 'n' slash (combat at close quarters), horse riding, etc.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Wrath_of_the_Demon) · [IGDB](https://www.igdb.com/games/wrath-of-the-demon)
 
 ---
 
@@ -106,17 +132,29 @@
 
 ### Spirit of Excalibur
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co5xqy.jpg" alt="Spirit of Excalibur cover" width="200">
+
 **Platforms:** MS-DOS, Amiga, Atari ST, Apple IIGS, macOS, Amiga CDTV &nbsp;|&nbsp; **Developer:** Synergistic Software &nbsp;|&nbsp; **Publisher:** Virgin Mastertronic &nbsp;|&nbsp; **Genre:** Role-playing game
 
-[Wikipedia](https://en.wikipedia.org/wiki/Spirit_of_Excalibur)
+> Spirit of Excalibur drops the player in to a power vacuum in England following the death of King Arthur. You control Constantine, who is King Arthur's successor, and any knights he is able to recruit. Real-time combat, one-on-one and between armies, are required to defend the realm of Camelot.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Spirit_of_Excalibur) · [IGDB](https://www.igdb.com/games/spirit-of-excalibur)
 
 ---
 
 ### Team Yankee
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co6yip.jpg" alt="Team Yankee cover" width="200">
+
 **Platforms:** Amiga, Atari ST, MS-DOS, Amiga CDTV &nbsp;|&nbsp; **Developer:** Oxford Digital Enterprises &nbsp;|&nbsp; **Publisher:** Empire Software &nbsp;|&nbsp; **Genre:** Computer wargame, real-time strategy, simulation video game
 
-[Wikipedia](https://en.wikipedia.org/wiki/Team_Yankee_(video_game))
+> In this tank simulation game based on Harold Coyle's book of the same name, Team Yankee is a squad of crack tank drivers and gunners. They are in the latest tanks, such as the well known Abrams M1, Bradley M2, T-72 and T-62, armed with lasers, machine guns and SABOTs. As Commander Sean Bannon, you must use these resources correctly in five missions ranging from defending a hill to attacking a centre through a forest.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Team_Yankee_(video_game)) · [IGDB](https://www.igdb.com/games/team-yankee)
 
 ---
 

@@ -10,9 +10,15 @@
 
 ### Astroball
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co87wf.jpg" alt="Astroball cover" width="200">
+
 **Platforms:** ZX Spectrum, SAM Coupé &nbsp;|&nbsp; **Developer:** Balor Knight &nbsp;|&nbsp; **Publisher:** Revelation &nbsp;|&nbsp; **Genre:** Platform
 
-[Wikipedia](https://en.wikipedia.org/wiki/Astroball)
+> Astroball is a platform game for the ZX Spectrum and SAM Coupé, written by Balor Knight and published by Revelation.  A sequel, Turbulence, set on a rotating sphere, was released for the Spectrum in 1993.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Astroball) · [IGDB](https://www.igdb.com/games/astroball--1)
 
 ---
 

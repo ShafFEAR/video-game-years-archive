@@ -2,7 +2,7 @@
 
 [← Back to index](../README.md)
 
-128 titles across 10 years in this archive.
+130 titles across 10 years in this archive.
 
 ## 2009
 
@@ -92,6 +92,20 @@
 
 [Full 1996 page](../years/1996.md)
 
+### Corpse Party
+
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co8ii9.jpg" alt="Corpse Party cover" width="200">
+
+**Platforms:** PC-9800 series &nbsp;|&nbsp; **Genre:** Puzzle, Adventure, Indie, Visual Novel
+
+> A group of friends unknowingly perform an occult ritual that traps them in an otherworldly elementary school. Here, the vengeful spirits of young children threaten their lives and their sanity, and the only hope of survival is to uncover the chilling details behind the murders of those trapped before them...
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Corpse_Party_(1996_video_game)) · [IGDB](https://www.igdb.com/games/corpse-party--1)
+
+---
+
 ### Kizuato
 
 **Platforms:** PC-9800 series, Windows &nbsp;|&nbsp; **Developer:** Leaf &nbsp;|&nbsp; **Publisher:** Aquaplus &nbsp;|&nbsp; **Genre:** Visual novel, eroge &nbsp;|&nbsp; **Released:** July 26, 1996
@@ -102,9 +116,15 @@
 
 ### Night Slave
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/coadea.jpg" alt="Night Slave cover" width="200">
+
 **Platforms:** PC-9800 series &nbsp;|&nbsp; **Developer:** Melody &nbsp;|&nbsp; **Publisher:** Melody &nbsp;|&nbsp; **Genre:** Run and gun &nbsp;|&nbsp; **Released:** March 8, 1996
 
-[Wikipedia](https://en.wikipedia.org/wiki/Night_Slave)
+> Night Slave is a side-scrolling action game, influenced in setting and gameplay by the Assault Suits series. The player controls Rei in an armored robot, navigating her through hostile areas. The gameplay is heavy on shooting, the stages consisting mostly on fighting one's way through a level, fighting powerful enemies, mini-bosses and stage bosses.  The player finds power-ups of different categories. Some can restore Rei's health, protect her robot with a shield, etc.; others are used to upgrade main and secondary weapons. Weapons can "level up", depending on how many power-ups were spend to upgrade them. The player can choose when and how to spend the power-ups. Weapons are selected before the beginning of each mission.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Night_Slave) · [IGDB](https://www.igdb.com/games/night-slave)
 
 ---
 
@@ -138,9 +158,15 @@
 
 ### EVE Burst Error
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co1i1f.jpg" alt="EVE Burst Error cover" width="200">
+
 **Platforms:** PC-9800 series &nbsp;|&nbsp; **Publisher:** Kadokawa Shoten, Imagineer, MangaGamer &nbsp;|&nbsp; **Genre:** Adventure game, visual novel &nbsp;|&nbsp; **Released:** November 22, 1995
 
-[Wikipedia](https://en.wikipedia.org/wiki/EVE_Burst_Error)
+> An adult murder mystery/detective visual novel with 2 stories taking place at the same time. The point of view can be swapped between the main characters, a private detective hired to investigate some very suspicious pieces of art and a government agent assigned to protect the daughter of a Japanese embassy official stationed abroad, at any time to help solve the cases they are working on and interacting with each other at points to progress their stories.  The game was ported to Sega Saturn and that version was then ported to Windows, with changes to the games content in both instances, resulting in a 15+ rating.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/EVE_Burst_Error) · [IGDB](https://www.igdb.com/games/eve-burst-error)
 
 ---
 
@@ -162,9 +188,15 @@
 
 ### The Story of Kamikuishiki Village
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/cob0x3.jpg" alt="The Story of Kamikuishiki Village cover" width="200">
+
 **Platforms:** PC-9800 series &nbsp;|&nbsp; **Developer:** HappySoft Ltd. &nbsp;|&nbsp; **Publisher:** Aum Soft &nbsp;|&nbsp; **Genre:** Strategy, Visual novel &nbsp;|&nbsp; **Released:** June 29, 1995
 
-[Wikipedia](https://en.wikipedia.org/wiki/The_Story_of_Kamikuishiki_Village)
+> Kamikuishiki-mura Monogatari is a satirical Japanese doujin resource management strategy game developed by HappySoft and published by Aum Soft. Game satirises the Aum Shinrikyo cult and the 1995 Tokyo subway sarin gas attack orchestrated by the cult. A common misconception is that the game was produced by the cult as propaganda, whereas Kamikuishiki-mura Monogatari actually portrays Aum and the sarin gas attack negatively, mocking its members and showing footage of 'humiliating' media coverage.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/The_Story_of_Kamikuishiki_Village) · [IGDB](https://www.igdb.com/games/kamikuishiki-mura-monogatari)
 
 ---
 
@@ -188,17 +220,29 @@
 
 ### Bomberman: Panic Bomber
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co307g.jpg" alt="Bomberman: Panic Bomber cover" width="200">
+
 **Platforms:** PC Engine, FM Towns, PC-9800 series, Arcade, Sharp X68000, PC Engine CD &nbsp;|&nbsp; **Developer:** Hudson Soft &nbsp;|&nbsp; **Publisher:** Hudson Soft &nbsp;|&nbsp; **Genre:** Puzzle &nbsp;|&nbsp; **Released:** December 22, 1994
 
-[Wikipedia](https://en.wikipedia.org/wiki/Bomberman:_Panic_Bomber)
+> It is a "falling blocks" puzzle game based on the Bomberman franchise. The goal of the game is essentially to cause your opponent to lose by causing their gameplay field to fill to the top with objects. You do this by causing chains of bombs to explode, sending useless rubble over to your opponent's field, which they must then remove themselves. Bombs are earned by causing chains of three identical blocks to disappear. Bombs can only be blown up with an explosion from a lit bomb, which falls from the top of the screen every so often. If the player causes enough damage, they can eventually earn a giant bomb, which will remove a large amount of debris from the playing field, and cause their opponent a good deal of trouble.  The game's regular story mode revolves around Bomberman's hunt for the Golden Bomber statue. During his trek, he fights against several different odd characters, like Drifty the balloon, or Cecil the tiger. However, all that can really be earned from playing through this mode is a harder difficulty level, earned by finishing the entire story at the "hard" difficulty level.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Bomberman:_Panic_Bomber) · [IGDB](https://www.igdb.com/games/bomberman-panic-bomber)
 
 ---
 
 ### Desire
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co661u.jpg" alt="Desire cover" width="200">
+
 **Platforms:** PC-9800 series, FM Towns &nbsp;|&nbsp; **Developer:** El Dia &nbsp;|&nbsp; **Publisher:** C's Ware, El Dia &nbsp;|&nbsp; **Genre:** Adventure game, visual novel &nbsp;|&nbsp; **Released:** July 22, 1994
 
-[Wikipedia](https://en.wikipedia.org/wiki/Desire_(video_game))
+> In the southern ocean on a remote island is a huge research institute called "Desire". An institute built by the large, world renowned financial group, Grandchester Foundation. It's rumored they are involved in military-related research, but what it is exactly is kept a carefully guarded secret. For this reason, a journalist for SNT (Social News Time Network), Albert Macdgul (or Al for short) visits "Desire" in order to collect information for a story. He's one of the rare few who have been granted access to "Desire". So it's in high spirits that he sets forth to complete his story. While at "Desire" he meets a girl named Tina, who is suffering from memory loss. She is destined to change his fate forever. Murder, bomb threats, mysteries shadowing her existence... How far will the chaos go? On the other hand, Makoto Izumi, technical manager at "Desire", finds out how dangerous their research is, and asks her boss, Dr. Stella, to stop all the experiments. Then she finds out that someone on the outside is going to interfere with the research...
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Desire_(video_game)) · [IGDB](https://www.igdb.com/games/desire)
 
 ---
 
@@ -220,9 +264,15 @@
 
 ### Fleet Defender
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/coaxbi.jpg" alt="Fleet Defender cover" width="200">
+
 **Platforms:** MS-DOS, PC-9800 series &nbsp;|&nbsp; **Developer:** MicroProse &nbsp;|&nbsp; **Publisher:** MicroProse &nbsp;|&nbsp; **Genre:** Combat flight simulator
 
-[Wikipedia](https://en.wikipedia.org/wiki/Fleet_Defender)
+> Fleet Defender is the first flight simulator to accurately recreate carrier-based operations. Experience all the excitement of a catapult launch, realistic air-to-air combat and the challenge of landing on a pitching deck. You'll be drawn into the high-stakes world of Navy's top guns.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Fleet_Defender) · [IGDB](https://www.igdb.com/games/fleet-defender-the-f-14-tomcat-simulation)
 
 ---
 
@@ -252,9 +302,15 @@
 
 ### Menzoberranzan
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2hkg.jpg" alt="Menzoberranzan cover" width="200">
+
 **Platforms:** MS-DOS, PC-9800 series, FM Towns &nbsp;|&nbsp; **Developer:** DreamForge Intertainment &nbsp;|&nbsp; **Publisher:** Strategic Simulations &nbsp;|&nbsp; **Genre:** Role-playing
 
-[Wikipedia](https://en.wikipedia.org/wiki/Menzoberranzan_(video_game))
+> RPG set in the underground Drow city Menzoberranzan in the Forgotten Realms world.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Menzoberranzan_(video_game)) · [IGDB](https://www.igdb.com/games/menzoberranzan)
 
 ---
 
@@ -274,17 +330,29 @@
 
 ### Romance of the Three Kingdoms IV: Wall of Fire
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co39x6.jpg" alt="Romance of the Three Kingdoms IV: Wall of Fire cover" width="200">
+
 **Platforms:** PC-9800 series, FM Towns, Super Nintendo Entertainment System &nbsp;|&nbsp; **Developer:** Koei, Sega &nbsp;|&nbsp; **Publisher:** Koei &nbsp;|&nbsp; **Genre:** Turn-based strategy &nbsp;|&nbsp; **Released:** February 1994
 
-[Wikipedia](https://en.wikipedia.org/wiki/Romance_of_the_Three_Kingdoms_IV:_Wall_of_Fire)
+> The Three Kingdoms era of Chinese history is the setting for this strategic war game. Select one of 38 leaders and guide your people to power by military or diplomatic means in an isometrically viewed world. Military tactics such as well-placed taunts and deliberate enemy confusion are on offer. Weaponry includes catapults and automatic-firing crossbows.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Romance_of_the_Three_Kingdoms_IV:_Wall_of_Fire) · [IGDB](https://www.igdb.com/games/romance-of-the-three-kingdoms-iv-wall-of-fire)
 
 ---
 
 ### Steam-Heart's
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/cobbvv.jpg" alt="Steam-Heart's cover" width="200">
+
 **Platforms:** PC-9800 series, PC Engine &nbsp;|&nbsp; **Developer:** Giga &nbsp;|&nbsp; **Publisher:** TGL &nbsp;|&nbsp; **Genre:** Scrolling shooter, eroge &nbsp;|&nbsp; **Released:** March 15, 1994
 
-[Wikipedia](https://en.wikipedia.org/wiki/Steam-Heart's)
+> Steam Heart's is a 2D sci-fi vertically scrolling shoot-em-up with erotic content. The game takes place in the far future, on an alien planet dominated by seven elf-like or catgirl princesses that have fallen under the spell of a unique virus that has driven them mad and threatens to destroy the planet if all the rulers declare all-out war.  Only Blondia Varady (nicknamed "Blow") and his sister Fallandia have been spared from the disease and must pilot their fighter ships in order to penetrate deep into the domain of each princess, destroy their war machines, and administer the antidote. Fortunately for Blow, the antidote has been synthesized into his reproductive organ, so that means there is only one way to inoculate the girls....  The player controls the fighter ship through vertically scrolling stages, trying to destroy every ship that crosses its path and reach the end boss. The ship has a primary weapon that can be constantly upgraded by collecting power-ups, and a secondary slot for all sorts of collectible weapons that can be picked up in mid-air. The game features 2P-cooperative gameplay and cutscenes made of still images that explain the plot and depict the protagonist's encounters with each princess.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Steam-Heart's) · [IGDB](https://www.igdb.com/games/steam-hearts)
 
 ---
 
@@ -312,9 +380,15 @@
 
 ### Top Management II
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co4clk.jpg" alt="Top Management II cover" width="200">
+
 **Platforms:** Super Nintendo Entertainment System, Windows, PC-9800 series &nbsp;|&nbsp; **Developer:** Koei &nbsp;|&nbsp; **Publisher:** Koei &nbsp;|&nbsp; **Genre:** Strategy w/ breeding and constructing elements &nbsp;|&nbsp; **Released:** February 11, 1994
 
-[Wikipedia](https://en.wikipedia.org/wiki/Top_Management_II)
+> Top Management II is a Strategy game, published by Koei, which was released in Japan in 1994.  Players must keep their corporation profitable by any means possible as a corporate executive. This entire video game is in Japanese; making it mandatory to be able to read the language. Frequent corporate meetings keep players aware of what is happening within the company. It is a sequel to Top Management for the Family Computer and NEC PC-9801. A typical game of Top Management begins in the year 1980.  Starting in the first week of April, players must participate in strategic corporate meetings in order to guide the focus of the company into certain Japanese prefectures. Buying and selling is done on the Tokyo Stock Exchange in order to improve profits for the entire corporation. Employees can be hired, fired, or laid-off during these important meetings.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Top_Management_II) · [IGDB](https://www.igdb.com/games/top-management-ii)
 
 ---
 
@@ -338,25 +412,43 @@
 
 ### Aerobiz Supersonic
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co1xxn.jpg" alt="Aerobiz Supersonic cover" width="200">
+
 **Platforms:** Super Nintendo Entertainment System, PC-9800 series, Windows, MS-DOS &nbsp;|&nbsp; **Developer:** Koei &nbsp;|&nbsp; **Publisher:** Koei &nbsp;|&nbsp; **Genre:** Business simulation &nbsp;|&nbsp; **Released:** April 2, 1993
 
-[Wikipedia](https://en.wikipedia.org/wiki/Aerobiz_Supersonic)
+> You have just been elected as the CEO of a brand new airline company that must compete against 3 other airlines for global dominance. Set up new routes, buy businesses, and manage all your resources including planes, cashflow, and company representatives.  The basic premise of the game is the same as that of the original Aerobiz, but this time you have more planes to choose from, more city airports spanned over 7 different global regions, and 4 different time period scenarios complete with historically accurate political relationships and events.  Do you have what it takes to make your company fly high? Or will it crash and burn?
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Aerobiz_Supersonic) · [IGDB](https://www.igdb.com/games/aerobiz-supersonic)
 
 ---
 
 ### Buzz Aldrin's Race Into Space
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/eeepswgxaiuaxqt8qlxb.jpg" alt="Buzz Aldrin's Race Into Space cover" width="200">
+
 **Platforms:** MS-DOS, PC-9800 series &nbsp;|&nbsp; **Developer:** Strategic Visions &nbsp;|&nbsp; **Publisher:** Interplay Productions &nbsp;|&nbsp; **Genre:** Turn-based strategy, Construction and management simulation &nbsp;|&nbsp; **Released:** March 11, 1993
 
-[Wikipedia](https://en.wikipedia.org/wiki/Buzz_Aldrin's_Race_Into_Space)
+> Buzz Aldrin's Race Into Space allows the player to make their own decisions regarding the manned and unmanned space programs of either the United States or the Soviet Union, in their race to place a man on the moon.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Buzz_Aldrin's_Race_Into_Space) · [IGDB](https://www.igdb.com/games/buzz-aldrins-race-into-space--1)
 
 ---
 
 ### Dungeon Hack
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co74hl.jpg" alt="Dungeon Hack cover" width="200">
+
 **Platforms:** MS-DOS, PC-9800 series &nbsp;|&nbsp; **Developer:** DreamForge Intertainment, Cybelle &nbsp;|&nbsp; **Publisher:** Strategic Simulations, Right Stuff &nbsp;|&nbsp; **Genre:** Dungeon crawler
 
-[Wikipedia](https://en.wikipedia.org/wiki/Dungeon_Hack)
+> Welcome to Dungeon Hack. Explore countless new dungeons in a game that never has to be the same twice. Send your character on quest after quest, down through the many pits, traps, and puzzles of Dungeon Hack. Take control, if you wish and generate a new dungeon for every game. The random dungeon generator gives you the power to create a strikingly fresh layout every time. There other games allow a few novel choices the second time around, Dungeon Hack delivers many combinations of play, a variety of magical and non-magical items to be found in each game, and a bestiary stocked with over fifty formidable foes.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Dungeon_Hack) · [IGDB](https://www.igdb.com/games/dungeon-hack)
 
 ---
 
@@ -376,9 +468,15 @@
 
 ### FlixMix
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co70oh.jpg" alt="FlixMix cover" width="200">
+
 **Platforms:** MS-DOS, PC-9800 series &nbsp;|&nbsp; **Developer:** Celeris &nbsp;|&nbsp; **Publisher:** Celeris, StarCraft &nbsp;|&nbsp; **Genre:** Puzzle &nbsp;|&nbsp; **Released:** December 3, 1993
 
-[Wikipedia](https://en.wikipedia.org/wiki/FlixMix)
+> FlixMix is a jigsaw puzzle game featuring a variety of animated images to reassemble. But there is a catch: the jigsaw puzzle is an animated picture, so each piece is not a static part of a picture but a small part of a large animation you have to assemble. You can set a number of options such as the number of pieces and whether the animation randomly plays back and forth or just in one direction. There are also four different modes of play for single or multi player, in this case more like party play. The animations vary from optical illusions to simple CG.  The object of the game is to place all the rectangular pieces into the correct positions. Puzzle pieces can be varied in size to as few as 2x2 to over 10x10, depending on the puzzle. Additional options to increase difficulty include mirrored or flipped pieces, locking correctly placed pieces, blanking placed pieces after a time delay, and occasionally playing the video clip in reverse.  There are four game modes in FlixMix. In Single Mingle, the player has unlimited time to solve a single puzzle. In Scramblecade, the player rotates through all the puzzles in a tileset, with the pieces shrinking in size almost each round. The player has a time limit, which can be extended by placing pieces, placing pieces in bonus spaces worth extra time and points, and solving puzzles. In Joint Venture, up to nine players take turns solving a sequence of puzzles with the winner being the one to solve the most puzzles within a time limit. In Mix'n'Match, up to nine players take turns solving the same puzzle in sequence, with the player with the lowest time declared the winner
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/FlixMix) · [IGDB](https://www.igdb.com/games/flixmix)
 
 ---
 
@@ -398,33 +496,57 @@
 
 ### Liberty or Death
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2wfl.jpg" alt="Liberty or Death cover" width="200">
+
 **Platforms:** PC-9800 series, MS-DOS &nbsp;|&nbsp; **Developer:** Koei &nbsp;|&nbsp; **Publisher:** Koei &nbsp;|&nbsp; **Genre:** Turn-based strategy &nbsp;|&nbsp; **Released:** September 27, 1993
 
-[Wikipedia](https://en.wikipedia.org/wiki/Liberty_or_Death_(video_game))
+> The European Wars against Spain and France have been costly to the British Empire. In order to gain additional funds for the war effort, the Crown raise taxes from the New World colonies without representation. This act compels the New World colonies to protest and boycott against British rule. By 1775, the Crown alarmed by the protests, boycotts and politically instability in the New World sends troops to subdue any rebellious efforts by the New World colonists. This threatening approach provokes the Thirteen Colonies to revolt. Thus starts the War for Independence in the New World (American Revolutionary War).
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Liberty_or_Death_(video_game)) · [IGDB](https://www.igdb.com/games/liberty-or-death)
 
 ---
 
 ### Metal & Lace: The Battle of the Robo Babes
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co8wwc.jpg" alt="Metal & Lace: The Battle of the Robo Babes cover" width="200">
+
 **Platforms:** FM Towns, MS-DOS, PC-9800 series &nbsp;|&nbsp; **Developer:** Forest &nbsp;|&nbsp; **Publisher:** Forest, Megatech Software &nbsp;|&nbsp; **Genre:** Fighting, eroge &nbsp;|&nbsp; **Released:** October 1993
 
-[Wikipedia](https://en.wikipedia.org/wiki/Metal_&_Lace:_The_Battle_of_the_Robo_Babes)
+> Metal & Lace is an anime-style fighting game based on the Japanese-only Ningyō Tsukai, with a different storyline and enhanced gameplay. In this game, you can choose between various robot models and send them into battles. All models have different names and attributes: strength, speed, etc. You can also visit shops and upgrade your mechs. Your reward is usually erotic pictures of the defeated girls.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Metal_&_Lace:_The_Battle_of_the_Robo_Babes) · [IGDB](https://www.igdb.com/games/metal-and-lace-the-battle-of-the-robo-babes)
 
 ---
 
 ### Microsoft Flight Simulator 5.0
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co8gfq.jpg" alt="Microsoft Flight Simulator 5.0 cover" width="200">
+
 **Platforms:** MS-DOS, PC-9800 series &nbsp;|&nbsp; **Developer:** Bruce Artwick Organization &nbsp;|&nbsp; **Publisher:** Microsoft &nbsp;|&nbsp; **Genre:** Flight simulation
 
-[Wikipedia](https://en.wikipedia.org/wiki/Microsoft_Flight_Simulator_5.0)
+> The fifth take on the Flight Simulator series. This version added SVGA graphics, textures in certain areas, sound card support, and two new flight areas, Paris and Munich. This was the final DOS-only release.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Microsoft_Flight_Simulator_5.0) · [IGDB](https://www.igdb.com/games/microsoft-flight-simulator-5-0)
 
 ---
 
 ### Might and Magic V: Darkside of Xeen
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co4oz4.jpg" alt="Might and Magic V: Darkside of Xeen cover" width="200">
+
 **Platforms:** MS-DOS, macOS, FM Towns, PC-9800 series &nbsp;|&nbsp; **Developer:** New World Computing &nbsp;|&nbsp; **Publisher:** New World Computing &nbsp;|&nbsp; **Genre:** Role-playing
 
-[Wikipedia](https://en.wikipedia.org/wiki/Might_and_Magic_V:_Darkside_of_Xeen)
+> Might and Magic V: Darkside of Xeen (originally released as Might and Magic: Darkside of Xeen) is a science fantasy role-playing video game, published and developed for multiple platforms by New World Computing in 1993. Based on the Might and Magic III: Isles of Terra game engine, it is the fifth game in the Might and Magic series, and is a direct sequel to Might and Magic IV: Clouds of Xeen, concluding the story arc started in the original Might and Magic Book One: The Secret of the Inner Sanctum.  Like its predecessors, it was well received by both critics and players for its large game world and graphics, and was among the earliest games to make use of both animated cutscenes and PCM sound-based speech. Its unique integration mechanic with the game world of Clouds of Xeen, allowing both games to be played in a combined format - World of Xeen - was considered revolutionary at the time.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Might_and_Magic_V:_Darkside_of_Xeen) · [IGDB](https://www.igdb.com/games/might-and-magic-v-darkside-of-xeen)
 
 ---
 
@@ -438,9 +560,15 @@
 
 ### Network Q RAC Rally
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co7yjz.jpg" alt="Network Q RAC Rally cover" width="200">
+
 **Platforms:** MS-DOS, PC-9800 series, FM Towns &nbsp;|&nbsp; **Developer:** Pixelkraft &nbsp;|&nbsp; **Publisher:** Europress, Accolade, Victor Entertainment &nbsp;|&nbsp; **Genre:** Racing
 
-[Wikipedia](https://en.wikipedia.org/wiki/Network_Q_RAC_Rally_(video_game))
+> A rally game for DOS published by Europress as part of the Rally Championship series.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Network_Q_RAC_Rally_(video_game)) · [IGDB](https://www.igdb.com/games/network-q-rac-rally)
 
 ---
 
@@ -484,17 +612,29 @@
 
 ### Rusty
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2yo1.jpg" alt="Rusty cover" width="200">
+
 **Platforms:** PC-9800 series, MS-DOS &nbsp;|&nbsp; **Developer:** C-Lab &nbsp;|&nbsp; **Publisher:** C-Lab &nbsp;|&nbsp; **Genre:** Platform &nbsp;|&nbsp; **Released:** July 1993
 
-[Wikipedia](https://en.wikipedia.org/wiki/Rusty_(video_game))
+> The player plays as the vampire huntress Rusty who investigates the disappearance of a number of women, and travels through ten stages, fighting skeletons, monsters and boss characters with her whip and items.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Rusty_(video_game)) · [IGDB](https://www.igdb.com/games/rusty)
 
 ---
 
 ### Shadow of the Comet
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co3wht.jpg" alt="Shadow of the Comet cover" width="200">
+
 **Platforms:** MS-DOS, PC-9800 series, Linux &nbsp;|&nbsp; **Developer:** Infogrames &nbsp;|&nbsp; **Publisher:** Infogrames, I•Motion &nbsp;|&nbsp; **Genre:** Adventure &nbsp;|&nbsp; **Released:** March 25, 1993
 
-[Wikipedia](https://en.wikipedia.org/wiki/Shadow_of_the_Comet)
+> You'll take on the role of John T. Parker, a brilliant young astronomer, piecing together the puzzling history of the village and its cryptic inhabitants. Incredibly realistic action and supernatural chaos intertwine to draw players deep into the puzzling mysteries within the Shadow of the Comet.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Shadow_of_the_Comet) · [IGDB](https://www.igdb.com/games/call-of-cthulhu-shadow-of-the-comet)
 
 ---
 
@@ -528,9 +668,15 @@
 
 ### Stronghold
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co7gsi.jpg" alt="Stronghold cover" width="200">
+
 **Platforms:** MS-DOS, FM Towns, PC-9800 series &nbsp;|&nbsp; **Developer:** Stormfront Studios &nbsp;|&nbsp; **Publisher:** Strategic Simulations, Inc. &nbsp;|&nbsp; **Genre:** City-building game, RTS
 
-[Wikipedia](https://en.wikipedia.org/wiki/Stronghold_(1993_video_game))
+> Run your own kingdom in the legendary Dungeons & Dragons game world. In this remarkable kingdom simulator, your goal is to become Emperor by building and expanding your stronghold in competition against opposing computer-controlled kingdoms.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Stronghold_(1993_video_game)) · [IGDB](https://www.igdb.com/games/d-and-d-stronghold-kingdom-simulator)
 
 ---
 
@@ -550,33 +696,71 @@
 
 ### TFX
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/cocte6.jpg" alt="TFX cover" width="200">
+
 **Platforms:** MS-DOS, PC-9800 series &nbsp;|&nbsp; **Developer:** Digital Image Design, Tomcat System &nbsp;|&nbsp; **Publisher:** Ocean Software, Imagineer &nbsp;|&nbsp; **Genre:** Combat flight simulator
 
-[Wikipedia](https://en.wikipedia.org/wiki/TFX_(video_game))
+> TFX (Tactical Fighter eXperiment) is a flight simulation where the player can fly with F-117A, Eurofighter 2000 or F-22 Superstar in various scenarios as a UN fighter pilot. Before the player begins his/her duty, there is a need to complete 10 training missions. Only then will the rest of the possible game modes be available. The game also contains a mission editor where the player can create his/her own missions in any of the chosen scenarios.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/TFX_(video_game)) · [IGDB](https://www.igdb.com/games/tfx--1)
 
 ---
 
 ### The Incredible Machine
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2f3v.jpg" alt="The Incredible Machine cover" width="200">
+
 **Platforms:** macOS, MS-DOS, Windows, FM Towns, PC-9800 series, 3DO Interactive Multiplayer &nbsp;|&nbsp; **Developer:** Jeff Tunnell Productions &nbsp;|&nbsp; **Publisher:** Sierra On-Line, Dynamix &nbsp;|&nbsp; **Genre:** Puzzle
 
-[Wikipedia](https://en.wikipedia.org/wiki/The_Incredible_Machine_(1993_video_game))
+> The Incredible Machine is a puzzle game. You have to solve different puzzles by building the incredible machine. You have predefined quantity of given building blocks and you have to build the machine to finish a simple goal. There are many different building blocks like ropes, pulleys, electrical generators, bowling balls, cats, mice and many more. The levels usually have some fixed objects that cannot be moved by the player, so you have to arrange the given building blocks around the fixed items.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/The_Incredible_Machine_(1993_video_game)) · [IGDB](https://www.igdb.com/games/the-incredible-machine)
+
+---
+
+### Variable Geo
+
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co9sbr.jpg" alt="Variable Geo cover" width="200">
+
+**Platforms:** PC-9800 series &nbsp;|&nbsp; **Genre:** Fighting
+
+> Variable Geo is a Japanese 2D fighting game / eroge developed and published by TGL under their Giga brand. The game focuses on an all-female martial arts competition where participants are required to promote various family restaurants by acting as waitresses when not fighting. Takahiro Kimura was responsible for designing the characters
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Variable_Geo) · [IGDB](https://www.igdb.com/games/v-dot-g-variable-geo)
 
 ---
 
 ### Veil of Darkness
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2uoy.jpg" alt="Veil of Darkness cover" width="200">
+
 **Platforms:** MS-DOS, FM Towns, PC-9800 series &nbsp;|&nbsp; **Developer:** Event Horizon Software &nbsp;|&nbsp; **Publisher:** Strategic Simulations &nbsp;|&nbsp; **Genre:** Adventure, role-playing &nbsp;|&nbsp; **Released:** March 1993
 
-[Wikipedia](https://en.wikipedia.org/wiki/Veil_of_Darkness)
+> Veil of Darkness is a true "real time" horror adventure game played from three screens, the 3-D overhead map, the character screen, and the full-screen map of the valley in which the game takes place. The term "real time" means that everything in the game is happening instantaneously with no breaks in game play. Portions of both the 3-D overhead screen and the character screen are displayed at one time. This prevents the need to switch from one screen to another during game play. The full-screen map of the valley is displayed whenever you wish to go from one location in the valley to another. All of the important icons and character information are displayed on the top portion of the character screen. This allows you to have the top of the character screen visible, while your character moves on the 3-D overhead map.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Veil_of_Darkness) · [IGDB](https://www.igdb.com/games/veil-of-darkness)
 
 ---
 
 ### Xak III: The Eternal Recurrence
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co4mkm.jpg" alt="Xak III: The Eternal Recurrence cover" width="200">
+
 **Platforms:** PC-9800 series, FM Towns, PC Engine, PC Engine CD &nbsp;|&nbsp; **Developer:** Microcabin &nbsp;|&nbsp; **Publisher:** Microcabin, NEC &nbsp;|&nbsp; **Genre:** Action role-playing game &nbsp;|&nbsp; **Released:** April 23, 1993
 
-[Wikipedia](https://en.wikipedia.org/wiki/Xak_III:_The_Eternal_Recurrence)
+> Ratok, a descendant of the Duel bloodline, receives a distress message from Farland Castle... For the longest time, the world has been split into three, fairy, demon, and human, mainly for the purposes of having the demons sealed off... Yet somehow, the demons have found a way to enter the human world to launch an invasion. One by one, the human world's kingdoms fall to an unforgiving reign of terror. Ratok is informed of the situation by a dying man's last breath after Farland Kingdom fell, its king slaughtered mercilessly. Thus begins Ratok's journey to prevent the demons from realizing their dreams of conquest...  Journey with Ratok, as he quests with his legendary Xak Sword to repel the demon invasion, make plenty of interesting and humorous allies/friends along the way, and discover his true identity as well as that of his father's (whose gone missing for quite some time)...
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Xak_III:_The_Eternal_Recurrence) · [IGDB](https://www.igdb.com/games/xak-iii-the-eternal-recurrence)
 
 ---
 
@@ -594,49 +778,85 @@
 
 ### Blandia
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co7k07.jpg" alt="Blandia cover" width="200">
+
 **Platforms:** Arcade, FM Towns, PC-9800 series &nbsp;|&nbsp; **Developer:** Allumer &nbsp;|&nbsp; **Publisher:** Taito &nbsp;|&nbsp; **Genre:** Fighting &nbsp;|&nbsp; **Released:** October 1992
 
-[Wikipedia](https://en.wikipedia.org/wiki/Blandia)
+> Blandia (ブランディア Burandia?) is a 1992 one-on-one, weapon-based fighting arcade game developed and published by Allumer. It is the sequel to the 1986 arcade game, Gladiator. Along with Strata's Time Killers, Blandia is one of the earliest weapon-based fighting games modeled after its competitor Capcom's 1991 arcade hit Street Fighter II, but later became overshadowed by the success of SNK's 1993 weapon-based fighting game, Samurai Shodown.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Blandia) · [IGDB](https://www.igdb.com/games/blandia)
 
 ---
 
 ### Castles II: Siege and Conquest
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2723.jpg" alt="Castles II: Siege and Conquest cover" width="200">
+
 **Platforms:** MS-DOS, Amiga, Amiga CD32, FM Towns, PC-9800 series, macOS &nbsp;|&nbsp; **Developer:** Quicksilver Software &nbsp;|&nbsp; **Publisher:** Interplay Productions &nbsp;|&nbsp; **Genre:** Real-time strategy
 
-[Wikipedia](https://en.wikipedia.org/wiki/Castles_II:_Siege_and_Conquest)
+> Castles II: Siege & Conquest is a strategy game developed by Quicksilver Software and released in 1992. Set in medieval Europe, it combines real-time siege battles with turn-based political and economic management. Players control a noble house, managing resources, diplomacy, and territorial expansion while competing against rival factions. The game features historical scenarios, including conflicts such as the Hundred Years’ War.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Castles_II:_Siege_and_Conquest) · [IGDB](https://www.igdb.com/games/castles-ii-siege-and-conquest--1)
 
 ---
 
 ### Dead of the Brain
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co9mpq.jpg" alt="Dead of the Brain cover" width="200">
+
 **Platforms:** PC-9800 series, FM Towns, MSX, Sharp X68000, PC Engine CD &nbsp;|&nbsp; **Publisher:** IDES &nbsp;|&nbsp; **Genre:** Point and click, visual novel &nbsp;|&nbsp; **Released:** April 1992
 
-[Wikipedia](https://en.wikipedia.org/wiki/Dead_of_the_Brain)
+> Dead of the brain is a horror-based Adventure Game created in 1992 that is played in a point-and-click format.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Dead_of_the_Brain) · [IGDB](https://www.igdb.com/games/dead-of-the-brain)
 
 ---
 
 ### Dragon Slayer: The Legend of Heroes II
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2far.jpg" alt="Dragon Slayer: The Legend of Heroes II cover" width="200">
+
 **Platforms:** PC-8800 series, PC-9800 series, PC Engine CD, MS-DOS &nbsp;|&nbsp; **Developer:** Nihon Falcom &nbsp;|&nbsp; **Publisher:** Hudson Soft, Epoch Co., Sega, GMF &nbsp;|&nbsp; **Genre:** Role-playing &nbsp;|&nbsp; **Released:** March 19, 1992
 
-[Wikipedia](https://en.wikipedia.org/wiki/Dragon_Slayer:_The_Legend_of_Heroes_II)
+> The game is set 20 years after Prince Selios, the hero of the original game, has defeated the demon god Agunija. Iseruhasa is at peace. Selios has married Dina and she has given birth to Atlas. At the age of fifteen Atlas and his teacher Lowel spot strange beings in spacesuits outside of the capital city. They do not recognize the spacesuits and believe them to be monsters.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Dragon_Slayer:_The_Legend_of_Heroes_II) · [IGDB](https://www.igdb.com/games/dragon-slayer-the-legend-of-heroes-ii)
 
 ---
 
 ### Epic
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2116.jpg" alt="Epic cover" width="200">
+
 **Platforms:** Amiga, Atari ST, MS-DOS, PC-9800 series &nbsp;|&nbsp; **Developer:** Digital Image Design &nbsp;|&nbsp; **Publisher:** Ocean Software, Imagineer &nbsp;|&nbsp; **Genre:** Space combat simulator
 
-[Wikipedia](https://en.wikipedia.org/wiki/Epic_(video_game))
+> Epic is a science fiction-based flight simulator developed by Digital Image Design and released for the Amiga and the Atari ST published by Ocean in late spring 1992. It was later released for PC systems.  Years in the works and heavily inspired by Battlestar Galactica, this space opera game tells the story of the evacuation of mankind through the territories of the evil Rexxons. The game features eight levels of space flight action shooting. For instance navigate your vessel through a minefield within a timelimit. Or destroy the communication arrays of the Raxxons on the planet itself. Although gameplay is limited, the vector graphics are impressive and so are the cutscenes. You can look at your spacecraft from 6 diffent perspectives. The game is best played using the mouse. The action is viewed from the cockpit.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Epic_(video_game)) · [IGDB](https://www.igdb.com/games/epic)
 
 ---
 
 ### Genghis Khan II: Clan of the Gray Wolf
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co24iz.jpg" alt="Genghis Khan II: Clan of the Gray Wolf cover" width="200">
+
 **Platforms:** MSX, Nintendo Entertainment System, PC-9800 series, PC-8800 series, PC Engine &nbsp;|&nbsp; **Developer:** Koei &nbsp;|&nbsp; **Publisher:** Koei &nbsp;|&nbsp; **Genre:** Turn-based strategy &nbsp;|&nbsp; **Released:** July 30, 1992
 
-[Wikipedia](https://en.wikipedia.org/wiki/Genghis_Khan_II:_Clan_of_the_Gray_Wolf)
+> "Genghis Khan II: Clan of the Gray Wolf" was released in 1992, the third in the series and the second to be released outside Japan. The wolves of the Great Plains become the rulers of the world. Engage in culturally rich battles using fighters, horsemen, elephant riders and more.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Genghis_Khan_II:_Clan_of_the_Gray_Wolf) · [IGDB](https://www.igdb.com/games/genghis-khan-ii-clan-of-the-gray-wolf)
 
 ---
 
@@ -658,65 +878,113 @@
 
 ### L-Zone
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co1lzt.jpg" alt="L-Zone cover" width="200">
+
 **Platforms:** macOS, PC-9800 series, Windows &nbsp;|&nbsp; **Developer:** Synergy Inc. &nbsp;|&nbsp; **Publisher:** Synergy Inc. &nbsp;|&nbsp; **Genre:** Adventure game
 
-[Wikipedia](https://en.wikipedia.org/wiki/L-Zone)
+> A domed city rises from an inhospitable landscape. A linear-motor train waits for someone to board. L-ZONE! A hyper-automated city built by a mad scientist. Blinking control panel… a robot starts to move… the blast of a bazooka. Machine noise, white noise… noise, noise, noise. Clear the traps laid for you, pass through all the zones, only then will be unveiled that path to planet Green.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/L-Zone) · [IGDB](https://www.igdb.com/games/l-zone)
 
 ---
 
 ### Leading Company
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/yopsn66btnfpsepuadiy.jpg" alt="Leading Company cover" width="200">
+
 **Platforms:** PC-9800 series, FM Towns, Sharp X68000 &nbsp;|&nbsp; **Developer:** Koei &nbsp;|&nbsp; **Publisher:** Koei &nbsp;|&nbsp; **Genre:** Strategy &nbsp;|&nbsp; **Released:** July 30, 1992
 
-[Wikipedia](https://en.wikipedia.org/wiki/Leading_Company)
+> The traditional definition of a leading company is a corporation that currently dominates the "corporate wars" against their competitors. Its employees are considered by most people to be winning the "rat race." The game challenges young people to create their own business empire by researching and marketing better VHS machines for the Japanese consumers. The player is introduced to jazzy instrumental song being played in the background while neon pictures of various people fly across the screen. As of 2011, there has been no attempt to produce an English language version for this game either through official channels or through unofficial emulator translator groups. This game is considered to be in Japanese for the full duration of the game, making literacy skills in Japanese mandatory. Only the brand names themselves use ASCII letters; all other words use the Japanese alphabet. There are only two time periods in the game and jazz music plays throughout the entire game.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Leading_Company) · [IGDB](https://www.igdb.com/games/leading-company)
 
 ---
 
 ### Legends of Valour
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co4qqb.jpg" alt="Legends of Valour cover" width="200">
+
 **Platforms:** MS-DOS, Amiga, Atari ST, PC-9800 series, FM Towns &nbsp;|&nbsp; **Developer:** Synthetic Dimensions &nbsp;|&nbsp; **Publisher:** U.S. Gold, Strategic Simulations, Ving Co. &nbsp;|&nbsp; **Genre:** Role-playing video game
 
-[Wikipedia](https://en.wikipedia.org/wiki/Legends_of_Valour)
+> The city of Mittledorf is in chaos - an evil cousin of the King is oppressing the people. Your cousin Sven is not evil though, so when he disappears, you head to Mitteldorf to try to track him down.  Legends of Valour is a role-playing game using a similar movement system to Ultima Underworld. You walk through the world in real time, passing texture-mapped buildings. The complex gameworld is over a mile squared and includes 40 miles of underground tunnels, as well a thousands of characters getting on with their daily business.  When designing your character, you can customise his or her looks, and this affects your likelihood of being befriended or fought. To make any inroads into finding Sven, you will need to join professional Guilds and complete quests. You have spells available to you, but will need to acquire more as the game progresses.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Legends_of_Valour) · [IGDB](https://www.igdb.com/games/legends-of-valour)
 
 ---
 
 ### Might and Magic IV: Clouds of Xeen
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co4oz3.jpg" alt="Might and Magic IV: Clouds of Xeen cover" width="200">
+
 **Platforms:** MS-DOS, FM Towns, PC-9800 series &nbsp;|&nbsp; **Developer:** New World Computing &nbsp;|&nbsp; **Publisher:** New World Computing &nbsp;|&nbsp; **Genre:** Role-playing video game
 
-[Wikipedia](https://en.wikipedia.org/wiki/Might_and_Magic_IV:_Clouds_of_Xeen)
+> Might and Magic IV: Clouds of Xeen (originally released as Might and Magic: Clouds of Xeen) is the fourth installment in the Might and Magic series by New World Computing.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Might_and_Magic_IV:_Clouds_of_Xeen) · [IGDB](https://www.igdb.com/games/might-and-magic-iv-clouds-of-xeen)
 
 ---
 
 ### Planet's Edge
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co3w3g.jpg" alt="Planet's Edge cover" width="200">
+
 **Platforms:** MS-DOS, FM Towns, PC-9800 series &nbsp;|&nbsp; **Developer:** New World Computing &nbsp;|&nbsp; **Publisher:** New World Computing &nbsp;|&nbsp; **Genre:** Role-playing video game
 
-[Wikipedia](https://en.wikipedia.org/wiki/Planet's_Edge)
+> The discovery of an alien craft entering our solar system causes quite a stir. When the small craft is accidentally fired upon, it creates a strange electromagnetic effect that envelops the Earth, causing it to disappear. While its gravity remains, the physical Earth simply isn't there. The moonbase, surviving on scrounged resources and manpower, builds an interstellar ship. A team of four specialists is then sent into deep space to find unique parts for the construction of the Centauri Drive, a machine that the moonbase scientists hope will cause a reverse effect.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Planet's_Edge) · [IGDB](https://www.igdb.com/games/planets-edge)
 
 ---
 
 ### Princess Minerva
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co7cnt.jpg" alt="Princess Minerva cover" width="200">
+
 **Platforms:** PC-9800 series, PC Engine, Super Nintendo Entertainment System &nbsp;|&nbsp; **Developer:** Riverhillsoft &nbsp;|&nbsp; **Publisher:** Riverhillsoft, Vic Tokai Corporation &nbsp;|&nbsp; **Genre:** RPG
 
-[Wikipedia](https://en.wikipedia.org/wiki/Princess_Minerva)
+> Princess Minerva is a role-playing video game developed and published by Riverhillsoft for the NEC PC-9801 in 1992 in Japan only. An original video animation by Group TAC was originally released by Toho in May 1995 in Japan; it was later released also in the United States. The extended franchise also includes a manga series, an illustrated serial novel, and other media.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Princess_Minerva) · [IGDB](https://www.igdb.com/games/princess-minerva)
 
 ---
 
 ### Romance of the Three Kingdoms III: Dragon of Destiny
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co5p84.jpg" alt="Romance of the Three Kingdoms III: Dragon of Destiny cover" width="200">
+
 **Platforms:** MS-DOS, PC-9800 series, Sharp X68000, FM Towns, PC Engine, Super Nintendo Entertainment System, Genesis / Mega Drive &nbsp;|&nbsp; **Developer:** Koei &nbsp;|&nbsp; **Publisher:** Koei &nbsp;|&nbsp; **Genre:** Turn-based strategy &nbsp;|&nbsp; **Released:** February 5, 1992
 
-[Wikipedia](https://en.wikipedia.org/wiki/Romance_of_the_Three_Kingdoms_III:_Dragon_of_Destiny)
+> The player takes control of a master, a general capable of commanding as many states as he can acquire, and, if successful, unifies China. As many as eight may play, but only one can succeed. There are five chronologically arranged scenarios. The first has China in its most disorganized period and the last has virtually all of China controlled by one of three generals.  The precise requirements for success in each of these scenarios differs, but in all cases the goal is to rule as many states as possible. After the completion of any scenario but number five the game will automatically advance to the next. You may start the game at any scenario.  The third edition of this game with more game improvements.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Romance_of_the_Three_Kingdoms_III:_Dragon_of_Destiny) · [IGDB](https://www.igdb.com/games/romance-of-the-three-kingdoms-iii-dragon-of-destiny)
 
 ---
 
 ### The Summoning
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co1v5s.jpg" alt="The Summoning cover" width="200">
+
 **Platforms:** MS-DOS, PC-9800 series &nbsp;|&nbsp; **Developer:** Event Horizon Software &nbsp;|&nbsp; **Publisher:** Strategic Simulations &nbsp;|&nbsp; **Genre:** Role-playing
 
-[Wikipedia](https://en.wikipedia.org/wiki/The_Summoning_(video_game))
+> The Summoning is an isometric-view fantasy role-playing video game developed by Event Horizon (later renamed DreamForge) and published by SSI in 1992.  The sequel to Event Horizon's first game, DarkSpyre, The Summoning replaced the random-generated dungeons of the previous game with pre-designed levels. The title featured numerous magic items, as well as a spell-casting system utilizing virtual hand gestures. The game also utilized "runes" as a way to magically gain abilities or items.  The game had several features typical of dungeon crawls, such as random treasure, weapon and armor options, treasure chests, and the use of a mannequin to visually aid in inventory management.  The dungeon in The Summoning was broken up into separate levels and sections, with different types of monsters (such as undead) and NPCs being found in each.  The featured weapon in the game is a large two-handed blade called "Warmonger." When first found, it is rusty and not very effective. But by repeatedly using it to kill, the magical blade becomes an immensely powerful weapon. The blade is actually a sentient, evil being with bloodlust.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/The_Summoning_(video_game)) · [IGDB](https://www.igdb.com/games/the-summoning)
 
 ---
 
@@ -730,9 +998,15 @@
 
 ### True Golf Classics: Pebble Beach Golf Links
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co49mf.jpg" alt="True Golf Classics: Pebble Beach Golf Links cover" width="200">
+
 **Platforms:** Super Nintendo Entertainment System, PC-9800 series &nbsp;|&nbsp; **Developer:** T&E Soft &nbsp;|&nbsp; **Publisher:** T&E Soft, Sega &nbsp;|&nbsp; **Genre:** Traditional golf simulation &nbsp;|&nbsp; **Released:** April 10, 1992
 
-[Wikipedia](https://en.wikipedia.org/wiki/True_Golf_Classics:_Pebble_Beach_Golf_Links)
+> Players take on the challenge of one of the most beautiful and notorious golf courses in the world: Pebble Beach. These eighteen-holes demand accuracy, finesse, and even at times brute strength. The famous beach-side course is littered with sand-bunkers as well as sweeping fairways and cliff-side greens.  Game play takes a classic approach - players control a selected golfer from a third-person perspective. Swing-control is displayed as a power and accuracy meter with which players must start and stop accordingly. Again, the classic-style putting system, complete with a topographic grid, lets the player know of the slope and elevation of the three-dimensional putting surface.  As there are no other courses to play, this game is a tribute and testament to the challenging course-design of Pebble Beach Golf Links.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/True_Golf_Classics:_Pebble_Beach_Golf_Links) · [IGDB](https://www.igdb.com/games/true-golf-classics-pebble-beach-golf-links)
 
 ---
 
@@ -742,9 +1016,15 @@
 
 ### 7 Colors
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/utymg2o7etu0u0ypbtzy.jpg" alt="7 Colors cover" width="200">
+
 **Platforms:** Amiga, MS-DOS, PC-9800 series &nbsp;|&nbsp; **Developer:** Gamos &nbsp;|&nbsp; **Publisher:** Infogrames, HOT-B &nbsp;|&nbsp; **Genre:** Puzzle
 
-[Wikipedia](https://en.wikipedia.org/wiki/7_Colors)
+> Seven Colors is an simple game of colors and strategy. It's a 2 player game, but you can also play against the computer. As an added bonus for human vs human, you can connect to each other through a network. Unfortunately you can't set the difficulty and the AI is surprisingly good. So you can expect to constantly get beaten until you really get a handle on the advanced strategy of the game. The goal of this game is quite simple, you need to cover 50% of the board with your captured colors. The board consists of small squares of 7 different colors.  You can capture more color pieces by selecting a new color on each turn, then all neighbouring pieces of the new color immediately change color to the new one and become yours. Your field then changes color every turn and consumes more and more color pieces until one player get 50%.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/7_Colors) · [IGDB](https://www.igdb.com/games/7-colors)
 
 ---
 
@@ -778,9 +1058,15 @@
 
 ### Civilization
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co1y9x.jpg" alt="Civilization cover" width="200">
+
 **Platforms:** MS-DOS, Amiga, PC-9800 series, Atari ST, Windows, macOS, Super Nintendo Entertainment System &nbsp;|&nbsp; **Developer:** MicroProse &nbsp;|&nbsp; **Publisher:** MicroProse, Asmik Ace, Koei &nbsp;|&nbsp; **Genre:** Turn-based strategy &nbsp;|&nbsp; **Released:** September 1991
 
-[Wikipedia](https://en.wikipedia.org/wiki/Civilization_(video_game))
+> Sid Meier's Civilization is a turn-based strategy computer game created by Sid Meier for MicroProse in 1991.The game's objective is "...to build an empire that would stand the test of time". The game begins in 4000 BC, and the players attempt to expand and develop their empires through the ages until modern and near-future times. It is also known simply as Civilization.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Civilization_(video_game)) · [IGDB](https://www.igdb.com/games/sid-meiers-civilization)
 
 ---
 
@@ -822,17 +1108,29 @@
 
 ### F-117A Nighthawk Stealth Fighter 2.0
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co86fi.jpg" alt="F-117A Nighthawk Stealth Fighter 2.0 cover" width="200">
+
 **Platforms:** MS-DOS, PC-9800 series &nbsp;|&nbsp; **Developer:** MPS Labs, Retroism &nbsp;|&nbsp; **Publisher:** MicroProse, Nightdive Studios &nbsp;|&nbsp; **Genre:** Flight simulator
 
-[Wikipedia](https://en.wikipedia.org/wiki/F-117A_Nighthawk_Stealth_Fighter_2.0)
+> Slice through the dark and own the night in your Lockheed F-117 Nighthawk, the first operational aircraft to utilize stealth technology in its design. This isn’t your typical attack fighter, you’ll be flying sorties under the cover of night, avoiding detection by enemy radar and striking high-value targets with precision weaponry. You’ll want to haunt the battlefield like a ghost, menacing the enemy with earth-shattering ordnance before vanishing in your airborne apparition as suddenly as you appeared.  With a hardcore devotion to authenticity, F-117A brings you unprecedented night combat action. You’ll go through every phase of mission planning, from requesting a specific assignment during briefing to choosing your own munitions during armament, before then climbing into your cockpit and experiencing the thrill of dropping 1,000 lbs. of laser-guided destruction on enemy troops, tanks and bunkers. This is your chance to fly one of the most technologically impressive warplanes ever made.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/F-117A_Nighthawk_Stealth_Fighter_2.0) · [IGDB](https://www.igdb.com/games/nighthawk-f-117a-stealth-fighter-2-dot-0)
 
 ---
 
 ### Gemfire
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co5ldv.jpg" alt="Gemfire cover" width="200">
+
 **Platforms:** Nintendo Entertainment System, PC-8800 series, PC-9800 series, MSX &nbsp;|&nbsp; **Developer:** Koei &nbsp;|&nbsp; **Publisher:** Koei &nbsp;|&nbsp; **Genre:** Turn-based strategy, role-playing &nbsp;|&nbsp; **Released:** August 29, 1991
 
-[Wikipedia](https://en.wikipedia.org/wiki/Gemfire)
+> Gemfire is a marvelous war strategy from KOEI game collection. The game offers the advanced military strategy and even multiplayer support, but only at the shared screen. The story of the game starts as follows:  Once upon a time, Ishmeria was a haven for elves, fairies and other creatures of lore. Yet one day an evil wizard wielded the powers of a Fire Dragon to destroy the peace. A legendary Pastha and 6 magicians fought the wizard and trapped the Dragon. But, the wizard cast a fateful curse, turning the magicians and Dragon into cold gems, which were placed upon the crown: The Gemfire. Gemfire's powers preserved peace in Ishmeria, until King Eselred abused the magic for his greed. Then one day, the Pastha came to Princess Robyn to plea for her help. That very night she stole the crown and hurled the gems into the midnight sky! But before she could destroy the Dragon's ruby, King Eselred caught Robyn and seized the crown!  In search of virtuous leaders, the magicians flew to the far corners of Ishmeria. Still,to this day, they struggle against Eselred's wrath. The key to saving Ishmeria is in the hands of one ruler, the ruler who will reunite the magic of Gemfire...
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Gemfire) · [IGDB](https://www.igdb.com/games/gemfire)
 
 ---
 
@@ -902,17 +1200,29 @@
 
 ### Lord Monarch
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/coa642.jpg" alt="Lord Monarch cover" width="200">
+
 **Platforms:** PC-9800 series, FM Towns, Windows &nbsp;|&nbsp; **Developer:** Nihon Falcom, AIM &nbsp;|&nbsp; **Publisher:** Epoch Co., Ltd. &nbsp;|&nbsp; **Genre:** Real-time strategy wargame &nbsp;|&nbsp; **Released:** March 1991
 
-[Wikipedia](https://en.wikipedia.org/wiki/Lord_Monarch)
+> Lord Monarch is a real-time strategy war game by Nihon Falcom. The game is considered to be the seventh installment in the Dragon Slayer series. It was originally released in 1991 for the NEC PC-9801, and was later ported with enhanced theme swapping in 1992 to the Super Famicom, and then in 1994 to the Sega Mega Drive as "Lord Monarch: Tokoton Sentou Densetsu". During 1997, Lord Monarch was remade for Windows as "Lord Monarch Online" and released for free in both Japanese, and for the first time, English.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Lord_Monarch) · [IGDB](https://www.igdb.com/games/lord-monarch)
 
 ---
 
 ### Mega-Lo-Mania
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co5zfs.jpg" alt="Mega-Lo-Mania cover" width="200">
+
 **Platforms:** Amiga, Atari ST, Genesis / Mega Drive, Super Nintendo Entertainment System, MS-DOS, Sharp X68000, PC-9800 series, FM Towns &nbsp;|&nbsp; **Developer:** Sensible Software &nbsp;|&nbsp; **Publisher:** Image Works, Ubi Soft, Virgin Games, CRI &nbsp;|&nbsp; **Genre:** Real-time strategy
 
-[Wikipedia](https://en.wikipedia.org/wiki/Mega-Lo-Mania)
+> First you choose one out of four different characters to represent you, Scarlet (red army), Oberon (yellow army), Caesar (green army), or Madcap (blue army). The game is split into 10 levels - the first 9 are groups of 3 territories which can be completed in any order, while the final 'Mother of All Battles' has its own surprises.  Land is mostly of sand, grass or ice. You start with 100 men and you can use whatever quantity you find necessary on each island. The rest men left will go to another level with another new 100. In the second half of the game you can freeze men to save them for the Mother of All Battles. Once you select your island and place for your HQ, you must do some research for better weapons and defences. On the roof of your buildings you can put protectors like archers, gunmen, boiling oil men, and later on even laser turrets. If you send a team of unarmed men into an unoccupied square, they will build an additional base there, with larger armies completing this more quickly.  Later on higher levels, you'll also build mines and factories, as you'll need to dig a certain material for higher level weapons, depending on whether the area you're on is rich with a certain material or not. With each next level, you'll start from a higher technology level and be able to progress to one higher level up than at the previous level
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Mega-Lo-Mania) · [IGDB](https://www.igdb.com/games/tyrants-fight-through-time)
 
 ---
 
@@ -932,9 +1242,15 @@
 
 ### Nostalgia 1907
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co5xrz.jpg" alt="Nostalgia 1907 cover" width="200">
+
 **Platforms:** Sharp X68000, Sega CD, PC-9800 series &nbsp;|&nbsp; **Developer:** Takeru &nbsp;|&nbsp; **Publisher:** Sur Dé Wave &nbsp;|&nbsp; **Genre:** Adventure &nbsp;|&nbsp; **Released:** December 14, 1991
 
-[Wikipedia](https://en.wikipedia.org/wiki/Nostalgia_1907)
+> Nostalgia 1907 is an adventure game developed and published by Sur de Wave. Originally released for the Sharp X68000, it was later ported to the FM Towns Marty, PC-9801, and Sega Mega CD. The player assumes the role of a passenger aboard a cruise liner named the Nostalgia that has been taken captive by a criminal looking for an artifact.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Nostalgia_1907) · [IGDB](https://www.igdb.com/games/nostalgia-1907)
 
 ---
 
@@ -968,9 +1284,15 @@
 
 ### Princess Maker
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2xgh.jpg" alt="Princess Maker cover" width="200">
+
 **Platforms:** PC-9800 series, Windows, MSX, Sharp X68000, PC Engine CD &nbsp;|&nbsp; **Developer:** Gainax &nbsp;|&nbsp; **Publisher:** Gainax &nbsp;|&nbsp; **Genre:** Raising simulation &nbsp;|&nbsp; **Released:** May 24, 1991
 
-[Wikipedia](https://en.wikipedia.org/wiki/Princess_Maker_(video_game))
+> After defeating an evil demon, the player is in charge of raising a war orphan, Maria. There are 74 possible endings in which the daughter can grow up to work anything from a humble job such as a soldier or a mason, to a prestigious job such as Archbishop or Prime Minister, to a "dark side" job such as prostitute or crime lord.  In addition, numerous factors decide whether or not the daughter is successful at her job, whom she marries, and whether she has children of her own.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Princess_Maker_(video_game)) · [IGDB](https://www.igdb.com/games/princess-maker)
 
 ---
 
@@ -992,17 +1314,29 @@
 
 ### The Atlas
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/coaznt.jpg" alt="The Atlas cover" width="200">
+
 **Platforms:** PC-9800 series, FM Towns, MS-DOS &nbsp;|&nbsp; **Developer:** Artdink &nbsp;|&nbsp; **Publisher:** Artdink, Pack-In-Video &nbsp;|&nbsp; **Genre:** Simulation w/ strategy elements &nbsp;|&nbsp; **Released:** August 2, 1991
 
-[Wikipedia](https://en.wikipedia.org/wiki/The_Atlas_(video_game))
+> The first game in Artdink's Atlas / Neo Atlas series. During the age of discovery, send out your admirals to explore the world and complete your world map, while setting up trade routes to supply the necessary money.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/The_Atlas_(video_game)) · [IGDB](https://www.igdb.com/games/atlas--1)
 
 ---
 
 ### True Golf Classics: Waialae Country Club
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co3so0.jpg" alt="True Golf Classics: Waialae Country Club cover" width="200">
+
 **Platforms:** Super Nintendo Entertainment System, PC-9800 series &nbsp;|&nbsp; **Developer:** T&E Soft &nbsp;|&nbsp; **Publisher:** T&E Soft, Sega &nbsp;|&nbsp; **Genre:** Traditional golf simulation &nbsp;|&nbsp; **Released:** November 1991
 
-[Wikipedia](https://en.wikipedia.org/wiki/True_Golf_Classics:_Waialae_Country_Club)
+> Grab your clubs and head for the first tee. This golf sim recreates the world famous Hawaiian Waialae Golf Course, noted for lots of bunkers and very fast greens. You can choose your golfer, assign him a caddy, pick your set of clubs and adjust the power, putting, technical, recovery and wind game stats to suit your personal preference. The game offers a practice training mode, a tournament mode and the ability to challenge your friends in a stroke match. Oddly, this game was not sanctioned by the PGA and assumes that the golfer is always male.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/True_Golf_Classics:_Waialae_Country_Club) · [IGDB](https://www.igdb.com/games/true-golf-classics-waialae-country-club)
 
 ---
 
@@ -1014,45 +1348,63 @@
 
 ---
 
+### Él
+
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co5os4.jpg" alt="Él cover" width="200">
+
+**Platforms:** FM Towns, PC-9800 series, Sharp X68000 &nbsp;|&nbsp; **Genre:** Adventure, Visual Novel
+
+> Elle is a point-and-click adventure in Japanese style (no puzzles). The interaction with the environment is performed by moving the mouse cursor around; when it is possible to interact with an object, the cursor turns into a command icon (look, talk, push, take, etc., depending on the situation). The navigation is performed by selecting locations from a menu. The player advances by examining objects, talking to people, and unlocking new locations.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/%C3%89l_(video_game)) · [IGDB](https://www.igdb.com/games/elle--1)
+
+---
+
 ## 1990
 
 [Full 1990 page](../years/1990.md)
 
 ### 4D Sports Tennis
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/tmbuas46xfuo4p2nc6wp.jpg" alt="4D Sports Tennis cover" width="200">
+
 **Platforms:** MS-DOS, FM Towns, PC-9800 series &nbsp;|&nbsp; **Developer:** Distinctive Software &nbsp;|&nbsp; **Publisher:** Mindscape &nbsp;|&nbsp; **Genre:** Sports
 
-[Wikipedia](https://en.wikipedia.org/wiki/4D_Sports_Tennis)
-
----
-
-### A-Train
-
-<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co5xp7.jpg" alt="A-Train cover" width="200">
-
-**Platforms:** Sharp X68000, FM Towns, PC-9800 series &nbsp;|&nbsp; **Developer:** Artdink &nbsp;|&nbsp; **Publisher:** Artdink, Maxis &nbsp;|&nbsp; **Genre:** Simulator &nbsp;|&nbsp; **Released:** December 31, 1990
-
-> You play the part of the head of a railroad company, with the aim of creating your own railroad empire, providing a successful mass transit system that will be an inspiration to the rest of the world. Another goal is to provide the impetus for your chosen city to develop. There are a number of different places to set up business each with different layouts and existing houses and businesses.  The main money earners are passenger trains, that can be scheduled to pick up passengers at the times of day when the demand is high. However, in the long term you need the city to develop. This requires setting up trains that transport resources to where they are needed. These resources are used to build houses, and other buildings, increasing the number of passengers for your commuter trains.  As the city develops, new businesses will spring up, such as stadiums, high rise office blocks, and ski resorts. You can also build your own businesses, the success of which will depend on the local population, the presence of competing businesses, and even the changes of the seasons, among other factors.
+> A polygonal tennis game released in 1990.
 >
 > _Synopsis source: IGDB_
 
-[IGDB](https://www.igdb.com/games/a-train)
+[Wikipedia](https://en.wikipedia.org/wiki/4D_Sports_Tennis) · [IGDB](https://www.igdb.com/games/4d-sports-tennis)
 
 ---
 
 ### A-Train III
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co5xp7.jpg" alt="A-Train III cover" width="200">
+
 **Platforms:** PC-9800 series, FM Towns, Sharp X68000, Amiga, MS-DOS, macOS, Super Nintendo Entertainment System, Windows &nbsp;|&nbsp; **Developer:** Artdink &nbsp;|&nbsp; **Publisher:** Artdink, Maxis, Ocean Software &nbsp;|&nbsp; **Genre:** Business simulation &nbsp;|&nbsp; **Released:** December 1990
 
-[Wikipedia](https://en.wikipedia.org/wiki/A-Train_III)
+> You play the part of the head of a railroad company, with the aim of creating your own railroad empire, providing a successful mass transit system that will be an inspiration to the rest of the world. Another goal is to provide the impetus for your chosen city to develop. There are a number of different places to set up business each with different layouts and existing houses and businesses.  The main money earners are passenger trains, that can be scheduled to pick up passengers at the times of day when the demand is high. However, in the long term you need the city to develop. This requires setting up trains that transport resources to where they are needed. These resources are used to build houses, and other buildings, increasing the number of passengers for your commuter trains.  As the city develops, new businesses will spring up, such as stadiums, high rise office blocks, and ski resorts. You can also build your own businesses, the success of which will depend on the local population, the presence of competing businesses, and even the changes of the seasons, among other factors.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/A-Train_III) · [IGDB](https://www.igdb.com/games/a-train)
 
 ---
 
 ### Balance of the Planet
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co5xjn.jpg" alt="Balance of the Planet cover" width="200">
+
 **Platforms:** macOS, MS-DOS, PC-9800 series &nbsp;|&nbsp; **Developer:** Chris Crawford, Incredible Technologies &nbsp;|&nbsp; **Publisher:** Chris Crawford &nbsp;|&nbsp; **Genre:** Simulation
 
-[Wikipedia](https://en.wikipedia.org/wiki/Balance_of_the_Planet)
+> Balance of the Planet is an environmental management simulation.  It is the successor to Balance of Power.  Chris Crawford seems to have a special liking for problems of global concern. Balance of Power dealt with politics in the cold war, its successor Balance of the Planet simulates nothing less than Earth's ecosystem. Although Maxis' Sim Earth is often credited as the first "ecosim", the title rightfully belongs to Crawford's game. Both games are equally interesting nevertheless, as they use two vastly different approaches to an enormously complex subject.  Sim Earth tries to simulate the natural processes, i.e. continental drift, weather, global temperature etc. as accurately as possible, and calculates the global impact from this basic conditions. Balance of the Planet breaks down the ecological system into 150 single factors, connected in a cause-and-effect network. Rather than experiencing the ecosystem as a whole, you discover a string of subjects that influence each other. For example, when dealing with global warming, you'd be referred to carbon dioxides and methane (the causes) and rising sea level (the result). By following and understanding the links, you may thus find out in which way beef production influences inundation. There is, however, no accurate simulation of a global ecology, rather than a sophisticated schematic of factors and problems.  Contrary to Sim Earth, you do not change the mechanisms of nature themselves. Instead, you're to try to influence society by funding and granting subsidies. If you raise the tax on coal considerably, coal burning and thus carbon dioxide output will be discouraged, but the strain on other forms of energy will increase. You'd be best advised to subsidise renewable energies -- which leaves less money for other pressing problems. Your job is to balance the ecology with the age-old system of reward and punishment. This has to be done in only nine turns; you are awarded or subtracted points, depending on your success.  Balance of the Planet is highly customisable. You may not only load "biased" games, in which you play with a certain prejudice (e.g. pro-nuclear), but also change all the formulas used for calculations to your liking.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Balance_of_the_Planet) · [IGDB](https://www.igdb.com/games/balance-of-the-planet)
 
 ---
 
@@ -1086,25 +1438,43 @@
 
 ### Darwin's Dilemma
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/cobzxr.jpg" alt="Darwin's Dilemma cover" width="200">
+
 **Platforms:** macOS, Sharp X68000, FM Towns, PC-9800 series &nbsp;|&nbsp; **Developer:** Inline Design &nbsp;|&nbsp; **Publisher:** Inline Design &nbsp;|&nbsp; **Genre:** Puzzle
 
-[Wikipedia](https://en.wikipedia.org/wiki/Darwin's_Dilemma)
+> Darwin's Dilemma is a puzzle video game originally for Classic Mac OS. It was developed by André Ouimet and published in 1990 by Inline Design. The goal is to match creatures together. After enough matches the creatures will "evolve" into new ones, and these new creatures must be again matched so they can evolve, and so on.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Darwin's_Dilemma) · [IGDB](https://www.igdb.com/games/darwins-dilemma)
 
 ---
 
 ### Dragon Knight II
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co6xed.jpg" alt="Dragon Knight II cover" width="200">
+
 **Platforms:** PC-8800 series, PC-9800 series, PC Engine CD &nbsp;|&nbsp; **Developer:** ELF Corporation, TamTam &nbsp;|&nbsp; **Publisher:** ELF Corporation, NEC Avenue &nbsp;|&nbsp; **Genre:** Dungeon crawler, eroge &nbsp;|&nbsp; **Released:** December 20, 1990
 
-[Wikipedia](https://en.wikipedia.org/wiki/Dragon_Knight_II)
+> Dragon Knight II is the predecessor to Knights of Xentar, the only Dragon Knight game that was ever translated into English. This is a first-person game that is mainly dedicated to dungeon exploring. Takeru has to explore the three dungeons, fighting enemies and sometimes talking to dungeon inhabitants. The enemies are the girls who were turned into monsters by Mesaana. In town, Takeru can also buy weapons, armor, and items, and talk to various people.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Dragon_Knight_II) · [IGDB](https://www.igdb.com/games/dragon-knight-ii)
 
 ---
 
 ### Fray in Magical Adventure
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/ftvovb6hxn8pfgk1q1xb.jpg" alt="Fray in Magical Adventure cover" width="200">
+
 **Platforms:** MSX, PC-9800 series, PC Engine, Game Gear &nbsp;|&nbsp; **Developer:** Microcabin &nbsp;|&nbsp; **Publisher:** Microcabin &nbsp;|&nbsp; **Genre:** Action RPG
 
-[Wikipedia](https://en.wikipedia.org/wiki/Fray_in_Magical_Adventure)
+> Fray in Magical Adventure, also known as just Fray (フレイ) and Fray-Xak Epilogue (Gai-den), is a 1990 spin-off "gaiden" (sidestory) game in a role-playing video game series Xak developed and published by the Japanese software developer MicroCabin. Even though it is directly connected to the more serious Xak storyline, Fray has a less serious tone and light-hearted comedic approach to telling the story. It was originally released for the MSX2 and was later ported to several different systems, among them MSX turbo R, PC-9801, PC Engine (as Fray CD), and Game Gear. Fray is a simple action RPG. The game proceeds by the player's character Fray fighting through a preset overhead view map shooting opposing monsters, jumping over obstacles, and locating powerups and Gold, the game's currency, along the way. At the end of each stage the player will fight a boss and enter a town or safe haven where the player can purchase new equipment, hit points and the option to save their progress. Fray advances in power through the items that she can equip such as different rods and shields. Battles are in real-time as Fray walks around on automatic vertically scrolling game map as well as the monster characters. She has an attack and defense rating, and can switch between different projectile weapon styles as well as use special attacks and healing items
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Fray_in_Magical_Adventure) · [IGDB](https://www.igdb.com/games/fray-in-magical-adventure)
 
 ---
 
@@ -1118,9 +1488,15 @@
 
 ### J.R.R. Tolkien's The Lord of the Rings, Vol. I
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co5cwz.jpg" alt="J.R.R. Tolkien's The Lord of the Rings, Vol. I cover" width="200">
+
 **Platforms:** MS-DOS, PC-9800 series, FM Towns &nbsp;|&nbsp; **Developer:** Interplay Productions, Silicon & Synapse &nbsp;|&nbsp; **Publisher:** Interplay Productions &nbsp;|&nbsp; **Genre:** Role-playing
 
-[Wikipedia](https://en.wikipedia.org/wiki/J.R.R._Tolkien's_The_Lord_of_the_Rings,_Vol._I_(1990_video_game))
+> J.R.R. Tolkien's The Lord of the Rings, Vol. I is a fantasy role-playing game based on The Fellowship of the Ring, the first volume of the Lord of the Rings book trilogy by J.R.R. Tolkien. The events of the game follow those depicted in the book rather closely, though a few characters and occurrences are not present, and many quests have been added. Characters belonging to various races and nations join Frodo on his quest; these include key figures from the book as well as several characters unique to the game.  The CD version of the game features cutscenes taken from the animated Lord of the Rings movie by Ralph Bakshi.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/J.R.R._Tolkien's_The_Lord_of_the_Rings,_Vol._I_(1990_video_game)) · [IGDB](https://www.igdb.com/games/jrr-tolkiens-the-lord-of-the-rings-vol-i)
 
 ---
 
@@ -1148,65 +1524,113 @@
 
 ### L'Empereur
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co9pa0.jpg" alt="L'Empereur cover" width="200">
+
 **Platforms:** MSX, PC-8800 series, PC-9800 series, Sharp X1, Sharp X68000 &nbsp;|&nbsp; **Developer:** Koei &nbsp;|&nbsp; **Publisher:** Koei &nbsp;|&nbsp; **Genre:** Turn-based strategy
 
-[Wikipedia](https://en.wikipedia.org/wiki/L'Empereur)
+> L'Empereur is a turn-based strategy video game for the Nintendo Entertainment System released by the Koei company in 1989.  The user controls Napoleon Bonaparte during the Napoleonic Wars of the late 18th and early 19th Centuries. The goal is to conquer Europe. The game begins with Napoleon as an army officer, but with victories in combat, the user may get promoted to Commander-in-Chief, First Consul, and finally Emperor of the French, with more powers and actions available at each level. As Emperor, the user also controls Napoleon's brothers, Louis, Jérôme, Lucien, and Joseph, as well as Napoleon's stepson, Eugene Beauharnais. The game has both military and civilian aspects. The user can lead armies, act as mayor of cities, and depending on the level achieved, engage in diplomacy with other nations. This historically accurate game reproduces many historical figures and the militaries of Europe with great detail.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/L'Empereur) · [IGDB](https://www.igdb.com/games/lempereur)
 
 ---
 
 ### Life & Death II: The Brain
 
-**Platforms:** MS-DOS, PC-9800 series &nbsp;|&nbsp; **Developer:** The Software Toolworks &nbsp;|&nbsp; **Publisher:** The Software Toolworks
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2hjo.jpg" alt="Life & Death II: The Brain cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/Life_&_Death_II:_The_Brain)
+**Platforms:** MS-DOS, PC-9800 series &nbsp;|&nbsp; **Developer:** The Software Toolworks &nbsp;|&nbsp; **Publisher:** The Software Toolworks &nbsp;|&nbsp; **Genre:** Simulator
+
+> The Brain follows the same premise as its predecessor Life & Death, wherein the player controls an up-and-coming surgeon who must perform simulated surgery on patients with varying problems. The sequel focuses on the brain, whereas the first game focused on the abdomen.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Life_&_Death_II:_The_Brain) · [IGDB](https://www.igdb.com/games/life-and-death-ii-the-brain--1)
 
 ---
 
 ### Loopz
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co3c9g.jpg" alt="Loopz cover" width="200">
+
 **Platforms:** Atari ST, Acorn Archimedes, Acorn Electron, Amiga, Amstrad CPC, BBC Micro, Commodore 64, MS-DOS, Game Boy, Atari Lynx, Nintendo Entertainment System, PC-9800 series, ZX Spectrum, Sharp X68000 &nbsp;|&nbsp; **Developer:** Audiogenic &nbsp;|&nbsp; **Publisher:** Mindscape &nbsp;|&nbsp; **Genre:** Puzzle
 
-[Wikipedia](https://en.wikipedia.org/wiki/Loopz)
+> Loopz is a puzzle video game originally designed and programmed by Ian Upton for the Atari ST in 1989. He previously worked as head game designer for Audiogenic, who acquired exclusive rights to the game, then in 1990 arranged for Mindscape to publish it for computers in North America and consoles worldwide.  The Nintendo Entertainment System version (programmed by Bits Studios) and the Game Boy version (programmed by Argonaut Software) were released in 1990. Audiogenic published versions of the original game for the Acorn Electron, BBC Micro, ZX Spectrum, Amstrad CPC, Commodore 64, Atari ST, Amiga, and IBM PC in 1990 and 1991.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Loopz) · [IGDB](https://www.igdb.com/games/loopz)
 
 ---
 
 ### Railroad Tycoon
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co8hgs.jpg" alt="Railroad Tycoon cover" width="200">
+
 **Platforms:** MS-DOS, Amiga, macOS, Atari ST, FM Towns, PC-9800 series &nbsp;|&nbsp; **Developer:** MPS Labs &nbsp;|&nbsp; **Publisher:** MicroProse &nbsp;|&nbsp; **Genre:** Business simulation game
 
-[Wikipedia](https://en.wikipedia.org/wiki/Railroad_Tycoon_(video_game))
+> The objective of the game is to build and manage a railroad company by laying track, building stations, and buying and scheduling trains. The player may start companies in any of four geographic locales: the Western United States, Northeast United States, Great Britain, or Continental Europe.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Railroad_Tycoon_(video_game)) · [IGDB](https://www.igdb.com/games/sid-meier-s-railroad-tycoon)
 
 ---
 
 ### Secret of the Silver Blades
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co6jal.jpg" alt="Secret of the Silver Blades cover" width="200">
+
 **Platforms:** Commodore 64, Commodore 128, MS-DOS, macOS, Amiga, PC-9800 series &nbsp;|&nbsp; **Developer:** Strategic Simulations, MicroMagic &nbsp;|&nbsp; **Publisher:** Strategic Simulations, WizardWorks &nbsp;|&nbsp; **Genre:** Tactical RPG
 
-[Wikipedia](https://en.wikipedia.org/wiki/Secret_of_the_Silver_Blades)
+> The frigid valleys of the Dragonspire Mountains echo with the desperate plea of terrified miners: "Heroes of the Forgotten Realms, save us from evil!"  Unwittingly digging in unhallowed ground, they have disturbed an ancient vault and released its terrible content. Scores of horrific creatures now infest the mine shaft - and threaten to escape into the world above!  You and your heroes must find the way to contain this scourge. All hope depends upon your ability to unravel the age-old mysteries surrounding this evil infestation.  Secret of the Silver Blades improves on the award-winning game system used in Pool of Radiance and Curse of the Azure Bonds. Continue your exciting saga in the FORGOTTEN REALMS’ game world - transfer your characters from Curse of the Azure Bonds. Or create all-new characters. Either way, explore the largest 3-D adventuring expanse ever in an AD&D computer game. Battle monsters you've never before encountered. Use higher character levels, and invoke new, wondrous spells.  All this plus spectacular graphics add up to unequalled excitement in AD&D computer fantasy role-playing!
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Secret_of_the_Silver_Blades) · [IGDB](https://www.igdb.com/games/advanced-dungeons-and-dragons-secret-of-the-silver-blades)
 
 ---
 
 ### Spindizzy Worlds
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co5zas.jpg" alt="Spindizzy Worlds cover" width="200">
+
 **Platforms:** Amiga, Atari ST, Sharp X68000, PC-9800 series &nbsp;|&nbsp; **Developer:** ASCII Entertainment &nbsp;|&nbsp; **Publisher:** Activision, ASCII Entertainment &nbsp;|&nbsp; **Genre:** Puzzle
 
-[Wikipedia](https://en.wikipedia.org/wiki/Spindizzy_Worlds)
+> On it's most basic level, Spindizzy Worlds is, like its predecessor, similar to Marble Madness. Controlling GERALD, you must move through the isometrically viewed landscape (largely flick-screen on the ST). There are two skill levels; the harder one features more of the precarious ledges and falls of Spindizzy. Each one takes you to a different matrix of levels, which can be played in different orders and each consist of 10 screens, with a bonus level at the end.  You have limited energy, which can be recharged by collecting crystals. Fuel is limited, and is reduced by contact with hazards - generating a replacement GERALD takes time. There are many gates which are opened by running into spaces of the same colour. There are also aliens to avoid, and most movement is along thin slippery ledges with heavily inertia-based controls.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Spindizzy_Worlds) · [IGDB](https://www.igdb.com/games/spindizzy-worlds)
 
 ---
 
 ### Top Management
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co55ab.jpg" alt="Top Management cover" width="200">
+
 **Platforms:** Nintendo Entertainment System, PC-9800 series &nbsp;|&nbsp; **Developer:** Koei &nbsp;|&nbsp; **Publisher:** Koei &nbsp;|&nbsp; **Genre:** Business simulation strategy &nbsp;|&nbsp; **Released:** December 12, 1990
 
-[Wikipedia](https://en.wikipedia.org/wiki/Top_Management_(video_game))
+> Famicom Top Management is a Strategy game, developed and published by Koei, which was released in Japan in 1990.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Top_Management_(video_game)) · [IGDB](https://www.igdb.com/games/famicom-top-management)
 
 ---
 
 ### Tunnels & Trolls: Crusaders of Khazan
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co9uli.jpg" alt="Tunnels & Trolls: Crusaders of Khazan cover" width="200">
+
 **Platforms:** MS-DOS, FM Towns, PC-8800 series, PC-9800 series, Sharp X1, Sharp X68000 &nbsp;|&nbsp; **Developer:** New World Computing, Flying Buffalo, Fiery Dragon Productions &nbsp;|&nbsp; **Publisher:** New World Computing &nbsp;|&nbsp; **Genre:** Role-playing
 
-[Wikipedia](https://en.wikipedia.org/wiki/Tunnels_&_Trolls:_Crusaders_of_Khazan)
+> Explore the world of Crusaders of Khazan with your party from a top-down perspective, roaming wilderness areas, visiting towns, talking to people, receiving quests, and descending into dungeons. Battles take place on a top-down battle screen, on which characters can move freely and attack enemies in turn-based style.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Tunnels_&_Trolls:_Crusaders_of_Khazan) · [IGDB](https://www.igdb.com/games/tunnels-and-trolls-crusaders-of-khazan)
 
 ---
 
@@ -1240,9 +1664,15 @@
 
 ### Xak II: Rising of the Redmoon
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co626n.jpg" alt="Xak II: Rising of the Redmoon cover" width="200">
+
 **Platforms:** FM Towns, MSX, PC-8800 series, PC-9800 series, Sharp X68000, PC Engine &nbsp;|&nbsp; **Developer:** Microcabin &nbsp;|&nbsp; **Publisher:** Microcabin &nbsp;|&nbsp; **Genre:** Action role-playing game
 
-[Wikipedia](https://en.wikipedia.org/wiki/Xak_II:_Rising_of_the_Redmoon)
+> Xak II: Rising of the Redmoon is a Role-Playing game, developed and published by Micro Cabin, which was released in Japan in 1991.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Xak_II:_Rising_of_the_Redmoon) · [IGDB](https://www.igdb.com/games/xak-ii-rising-of-the-redmoon)
 
 ---
 

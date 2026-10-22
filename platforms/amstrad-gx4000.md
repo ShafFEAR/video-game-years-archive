@@ -10,25 +10,43 @@
 
 ### Fire & Forget II
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/cocu67.jpg" alt="Fire & Forget II cover" width="200">
+
 **Platforms:** Amiga, Atari ST, Amstrad CPC, Commodore 64, MS-DOS, Sega Master System, Amstrad GX4000 &nbsp;|&nbsp; **Developer:** Titus &nbsp;|&nbsp; **Publisher:** Titus, Amstrad &nbsp;|&nbsp; **Genre:** Racing, shoot 'em up &nbsp;|&nbsp; **Released:** November 1990
 
-[Wikipedia](https://en.wikipedia.org/wiki/Fire_&_Forget_II)
+> art two in the Fire and Forget series, best described as Crazy Cars (also by Titus) with weapons in a futuristic setting. This game combines the genres action and driving.  In each of the five levels you need to blow your way to the front of the death convoy and shot down the leader of a group of terrorists, who plans to blow up a city. Your machine of destruction is a car with the ability to fly.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Fire_&_Forget_II) · [IGDB](https://www.igdb.com/games/fire-and-forget-2-the-death-convoy)
 
 ---
 
 ### Gazza II
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/b7z5oqwnaa38fl4qt1ze.jpg" alt="Gazza II cover" width="200">
+
 **Platforms:** ZX Spectrum, Amstrad CPC, Amstrad GX4000, Amiga, Commodore 64, Atari ST, MS-DOS, Windows &nbsp;|&nbsp; **Developer:** Empire Interactive &nbsp;|&nbsp; **Publisher:** Empire Interactive &nbsp;|&nbsp; **Genre:** Sports
 
-[Wikipedia](https://en.wikipedia.org/wiki/Gazza_II)
+> Soccer game
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Gazza_II) · [IGDB](https://www.igdb.com/games/gazza-ii)
 
 ---
 
 ### Navy SEALs
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/cocseb.jpg" alt="Navy SEALs cover" width="200">
+
 **Platforms:** Amstrad CPC, Amstrad GX4000, Commodore 64, Amiga, Atari ST, ZX Spectrum, Game Boy &nbsp;|&nbsp; **Developer:** Ocean Software &nbsp;|&nbsp; **Publisher:** Ocean Software &nbsp;|&nbsp; **Genre:** Platform, shoot 'em up
 
-[Wikipedia](https://en.wikipedia.org/wiki/Navy_SEALs_(video_game))
+> Navy SEALS is a shoot 'em up platform video game developed and published by Ocean Software. It was first released in the United Kingdom for the Amstrad CPC, Amstrad GX4000 and Commodore 64 in 1990. It was later re-released in the rest of Europe for the ZX Spectrum, Atari ST and Amiga home computers in the following year. It was then ported to the Game Boy on 1 September 1991 in the United States. The game is based on the film of the same name and follows the protagonist, Lieutenant Dale Hawkins, progressing through five side-scrolling levels. The game was developed by Ocean Software, in which they were renowned for creating video games related to their respective films. Navy SEALS focuses on Hawkins recovering caches of Stinger missiles from Arab soldiers in the Middle East. The game received positive reviews upon release, with critics mainly praising the graphics, presentation and challenging gameplay. However, criticism was directed at the ZX Spectrum port, which received disapproval over its monochrome graphics.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Navy_SEALs_(video_game)) · [IGDB](https://www.igdb.com/games/navy-seals)
 
 ---
 
@@ -48,8 +66,14 @@
 
 ### Skateball
 
-**Platforms:** Amstrad CPC, Amstrad GX4000, Atari ST, Commodore 64, ZX Spectrum &nbsp;|&nbsp; **Developer:** Ubi Soft &nbsp;|&nbsp; **Publisher:** Ubi Soft
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/jqiuwsyekizreczywmw8.jpg" alt="Skateball cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/Skateball)
+**Platforms:** Amstrad CPC, Amstrad GX4000, Atari ST, Commodore 64, ZX Spectrum &nbsp;|&nbsp; **Developer:** Ubi Soft &nbsp;|&nbsp; **Publisher:** Ubi Soft &nbsp;|&nbsp; **Genre:** Sport
+
+> Skateball is a futuristic sports game that combines ice skating, soccer, and arena combat on hazardous courts filled with deadly obstacles. Players compete to score goals or eliminate the opposing team through fast-paced, physical gameplay.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Skateball) · [IGDB](https://www.igdb.com/games/skate-wars)
 
 ---

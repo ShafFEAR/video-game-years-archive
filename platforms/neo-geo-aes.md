@@ -2,7 +2,7 @@
 
 [← Back to index](../README.md)
 
-94 titles across 19 years in this archive.
+92 titles across 19 years in this archive.
 
 ## 2014
 
@@ -10,9 +10,11 @@
 
 ### Razion
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/k4h6ypvrbvvjt1e6wi7o.jpg" alt="Razion cover" width="200">
+
 **Platforms:** Neo Geo AES &nbsp;|&nbsp; **Developer:** NG:Dev.Team &nbsp;|&nbsp; **Publisher:** NG:Dev.Team &nbsp;|&nbsp; **Genre:** Horizontally scrolling shooter &nbsp;|&nbsp; **Released:** December 1, 2014
 
-[Wikipedia](https://en.wikipedia.org/wiki/Razion)
+[Wikipedia](https://en.wikipedia.org/wiki/Razion) · [IGDB](https://www.igdb.com/games/razion)
 
 ---
 
@@ -22,9 +24,15 @@
 
 ### Neo XYX
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co7j0e.jpg" alt="Neo XYX cover" width="200">
+
 **Platforms:** Dreamcast, Neo Geo AES &nbsp;|&nbsp; **Developer:** NG:Dev.Team &nbsp;|&nbsp; **Publisher:** NG:Dev.Team &nbsp;|&nbsp; **Genre:** Vertically scrolling shooter &nbsp;|&nbsp; **Released:** October 28, 2013
 
-[Wikipedia](https://en.wikipedia.org/wiki/Neo_XYX)
+> Neo XYX is a homebrew shoot-'em-up that was released for Neo-Geo and Dreamcast in late 2013.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Neo_XYX) · [IGDB](https://www.igdb.com/games/neo-xyx)
 
 ---
 
@@ -34,9 +42,15 @@
 
 ### Gunlord
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/r4k1r7tuwyakl7jkydd4.jpg" alt="Gunlord cover" width="200">
+
 **Platforms:** Dreamcast, Neo Geo AES, PlayStation 4 &nbsp;|&nbsp; **Developer:** NG:Dev.Team &nbsp;|&nbsp; **Publisher:** NG:Dev.Team &nbsp;|&nbsp; **Genre:** Run and gun &nbsp;|&nbsp; **Released:** March 26, 2012
 
-[Wikipedia](https://en.wikipedia.org/wiki/Gunlord)
+> After the space pilot Vanessa Gaiden defeated the Evil Empire in the events of the game Last Hope, she got missing on her way back and wasn't heard of anymore. Vanessa's husband, Gordian Gaiden, sets out to search for her. Meanwhile, a new evil has appeared in the galaxy: a planet lord called "The Master", who can create and control evil beings made of steel, and uses his power to terrorize the galaxy. On his search, Gordian comes across the evil presence of The Master and sets out in his Gunlord suit for the planet Kairos II.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Gunlord) · [IGDB](https://www.igdb.com/games/gunlord)
 
 ---
 
@@ -46,17 +60,29 @@
 
 ### Bang Bang Busters
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/jk2hylz4tjhvpj75ihxh.jpg" alt="Bang Bang Busters cover" width="200">
+
 **Platforms:** Neo Geo AES &nbsp;|&nbsp; **Developer:** Visco Corporation &nbsp;|&nbsp; **Publisher:** Neo Conception International, JoshProd &nbsp;|&nbsp; **Genre:** Platform &nbsp;|&nbsp; **Released:** December 2010
 
-[Wikipedia](https://en.wikipedia.org/wiki/Bang_Bang_Busters)
+> Bang² Busters (Bang Bang Busters) is a 46 meg action-platform type game from Visco which was originally intended to be released in 1994. It's play mechanics are similar to that of Mario Brothers, Snow Brothers, and similar style games. The two characters can actually "blow up" enemies by puffing them as is done in Dig Dug, and even toss them onto other enemies for chain points. It also contains special bonuses and many stage bosses. It was rumored that the game was undergoing re-consideration for release in 2000. About a year later, Zupapa by FACE, also from 1994, made it to market instead in 2001. This is why there are two known versions of the game. The 1994 original & the 2000 revision. The game also goes by the names "Bang Busters" and "Bang 2 Busters" by some sources.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Bang_Bang_Busters) · [IGDB](https://www.igdb.com/games/bang-2-busters)
 
 ---
 
 ### Fast Striker
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co8gy2.jpg" alt="Fast Striker cover" width="200">
+
 **Platforms:** Dreamcast, iOS, Neo Geo AES, PlayStation Vita &nbsp;|&nbsp; **Developer:** NG:Dev.Team &nbsp;|&nbsp; **Publisher:** NG:Dev.Team &nbsp;|&nbsp; **Genre:** Scrolling shooter &nbsp;|&nbsp; **Released:** June 30, 2010
 
-[Wikipedia](https://en.wikipedia.org/wiki/Fast_Striker)
+> Fast Striker is a Shoot-'Em-Up game, developed and published by NG:DEV.TEAM, which was released in Japan in 2012D arcade shooting game with emphasis on scoring originally developed for NEO·GEO. The game lets the player choose between 3 game modes with different scoring systems. Novice Mode for beginners, Original Mode for classic Shoot’ em Up players and Maniac for very experienced players. It features six stages of excellent 2D arcade game play with over 40 unique enemy types, super smooth 3D scrolling backgrounds, huge CGI bosses and it features the biggest megabit count ever since the beginning of NEO·GEO games0.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Fast_Striker) · [IGDB](https://www.igdb.com/games/fast-striker)
 
 ---
 
@@ -66,9 +92,15 @@
 
 ### Last Hope
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co4mj7.jpg" alt="Last Hope cover" width="200">
+
 **Platforms:** Neo Geo AES &nbsp;|&nbsp; **Developer:** NG:Dev.Team &nbsp;|&nbsp; **Publisher:** NG:Dev Team, RedSpotGames &nbsp;|&nbsp; **Genre:** Scrolling shooter &nbsp;|&nbsp; **Released:** July 10, 2006
 
-[Wikipedia](https://en.wikipedia.org/wiki/Last_Hope_(video_game))
+> The evil empire is rushing at light-speed across the galaxies, heading towards Mother Earth. Barely 24 hours ago, they penetrated the last defence line of our galaxy, the Arsion Laser Belt. Millions of innocent people perished in outer space colonies. 70% of our fleet was destroyed during first contact. Our intelligence has now extrapolated their arrival within six days. Conventional weapons cannot stop them. Our last hope is in your hands: The Z-42 Warpstar. Warp into their territories and destroy their leader before they reach Earth.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Last_Hope_(video_game)) · [IGDB](https://www.igdb.com/games/last-hope)
 
 ---
 
@@ -78,9 +110,15 @@
 
 ### Samurai Shodown V Special
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co1thg.jpg" alt="Samurai Shodown V Special cover" width="200">
+
 **Platforms:** Arcade, Neo Geo AES &nbsp;|&nbsp; **Developer:** Yuki Enterprise &nbsp;|&nbsp; **Publisher:** SNK Playmore &nbsp;|&nbsp; **Genre:** Fighting &nbsp;|&nbsp; **Released:** April 22, 2004
 
-[Wikipedia](https://en.wikipedia.org/wiki/Samurai_Shodown_V_Special)
+> An ordained meeting of 28 fierce warriors begins, to precede a series of duels to the death. These individuals entrust their fates to their skill and their weapons. For those not up to the task, a cherished end in battle is their only hope.  The twenty-eight Samurai characters clash in one epic title. Samurai Shodown V Special was the final release for the Neo Geo. The most iconic addition to this entry in the series is the inclusion of character specific “Overkill Moves”, which can be used to finish off an opponent with style.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Samurai_Shodown_V_Special) · [IGDB](https://www.igdb.com/games/samurai-shodown-v-special)
 
 ---
 
@@ -90,25 +128,43 @@
 
 ### Matrimelee
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2wx8.jpg" alt="Matrimelee cover" width="200">
+
 **Platforms:** Arcade, Neo Geo AES &nbsp;|&nbsp; **Developer:** Noise Factory &nbsp;|&nbsp; **Publisher:** Atlus, Playmore, MEGA, Sun Amusement &nbsp;|&nbsp; **Genre:** Fighting &nbsp;|&nbsp; **Released:** March 20, 2003
 
-[Wikipedia](https://en.wikipedia.org/wiki/Matrimelee)
+> A year after the events of Power Instinct 2, the king of Certain Country wants to find a worthy successor for the throne. He wants the ideal husband for his little daughter (or a beautiful and strong woman for his older son) so he holds a fighting tournament where the prize is the hand of the princess and the throne succession.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Matrimelee) · [IGDB](https://www.igdb.com/games/power-instinct-matrimelee)
 
 ---
 
 ### Samurai Shodown V
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2t4d.jpg" alt="Samurai Shodown V cover" width="200">
+
 **Platforms:** Arcade, Neo Geo AES, PlayStation 2, Xbox &nbsp;|&nbsp; **Developer:** Yuki Enterprise &nbsp;|&nbsp; **Publisher:** SNK Playmore, Ignition Entertainment &nbsp;|&nbsp; **Genre:** Fighting &nbsp;|&nbsp; **Released:** October 10, 2003
 
-[Wikipedia](https://en.wikipedia.org/wiki/Samurai_Shodown_V)
+> Samurai Shodown V brings back the classic side-scrolling action with a completely new storyline, new characters and new moves. A samurai's quest to prove himself against the Shogun leads to a gathering of the world's greatest warriors to compete for the right to be named the greatest.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Samurai_Shodown_V) · [IGDB](https://www.igdb.com/games/samurai-shodown-v)
 
 ---
 
 ### SNK vs. Capcom: SVC Chaos
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co1ydh.jpg" alt="SNK vs. Capcom: SVC Chaos cover" width="200">
+
 **Platforms:** Arcade, Neo Geo AES, PlayStation 2 &nbsp;|&nbsp; **Developer:** SNK Playmore, Code Mystics &nbsp;|&nbsp; **Publisher:** SNK Playmore, Ignition Entertainment &nbsp;|&nbsp; **Genre:** Fighting &nbsp;|&nbsp; **Released:** July 2003
 
-[Wikipedia](https://en.wikipedia.org/wiki/SNK_vs._Capcom:_SVC_Chaos)
+> SNK vs. Capcom: SVC Chaos primarily utilizes the command system of The King of Fighters series, incorporating light/strong kicks, punches, cancels and charging attacks. Unlike its predecessor, Capcom vs. SNK 2, this game lacks both air guards and a "groove system", instead focusing on quicker gameplay. Characters are provided with a basic 3-level bar system for executing super-special attacks with basic filling options attributed to strikes and damage. Additionally, the sprites from the various series received new models and some special effects were changed in the command lists (for example, the player cannot increase the damage of the Zujou Sashi used by Choi Bounge by tapping the buttons anymore).
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/SNK_vs._Capcom:_SVC_Chaos) · [IGDB](https://www.igdb.com/games/snk-vs-capcom-svc-chaos)
 
 ---
 
@@ -118,25 +174,43 @@
 
 ### Metal Slug 4
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co1ox7.jpg" alt="Metal Slug 4 cover" width="200">
+
 **Platforms:** Arcade, Windows, Neo Geo AES &nbsp;|&nbsp; **Developer:** Mega Enterprise, Noise Factory, SNK Playmore &nbsp;|&nbsp; **Publisher:** Playmore, MEGA, BrezzaSoft, Sun Amusement &nbsp;|&nbsp; **Genre:** Run and gun &nbsp;|&nbsp; **Released:** March 27, 2002
 
-[Wikipedia](https://en.wikipedia.org/wiki/Metal_Slug_4)
+> One year after the events of Metal Slug 3, the world is trembling under the new threat of a mysterious but deadly cyber virus that threatens to attack and destroy any nation's military computer system. With Tarma and Eri unable to help due to their own assignments in the matter, Marco and Fio are called in to investigate the situation and are joined by two newcomers, Nadia and Trevor. In their investigation, the group discovers that a terrorist organization known as Amadeus is behind the nefarious plot and that they head into battle against Amadeus' forces, hoping to destroy the cyber virus before it gets the chance to wipe out the entire world's military computer system
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Metal_Slug_4) · [IGDB](https://www.igdb.com/games/metal-slug-4)
 
 ---
 
 ### Rage of the Dragons
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2ek0.jpg" alt="Rage of the Dragons cover" width="200">
+
 **Platforms:** Arcade, Neo Geo AES, Windows &nbsp;|&nbsp; **Developer:** Evoga, Noise Factory &nbsp;|&nbsp; **Publisher:** Playmore, QUByte Interactive, SNK, Piko Interactive &nbsp;|&nbsp; **Genre:** Fighting &nbsp;|&nbsp; **Released:** June 6, 2002
 
-[Wikipedia](https://en.wikipedia.org/wiki/Rage_of_the_Dragons)
+> In a town ruled by an evil religious cult, the battle to decide the strongest dragon begins! Each Contestant is a champion who contends with the power of mighty dragons: Black Dragon, Red Dragon, Blue Dragon, and White Dragon. Go head to head in a tag-team partnership to test your attack and defense in the heat of battle.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Rage_of_the_Dragons) · [IGDB](https://www.igdb.com/games/rage-of-the-dragons)
 
 ---
 
 ### The King of Fighters 2002
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co3xw1.jpg" alt="The King of Fighters 2002 cover" width="200">
+
 **Platforms:** Arcade, Windows, Neo Geo AES &nbsp;|&nbsp; **Developer:** Eolith, SNK Playmore, DotEmu &nbsp;|&nbsp; **Publisher:** Playmore, Sun Amusement, Ignition Entertainment, SNK &nbsp;|&nbsp; **Genre:** Fighting &nbsp;|&nbsp; **Released:** October 10, 2002
 
-[Wikipedia](https://en.wikipedia.org/wiki/The_King_of_Fighters_2002)
+> The game brings back the team play composed by three characters each that was a tradition in previous games. The game has also several important changes in the gameplay, like the "Free Cancel System" or "Max Mode System", the "Quick Emergency Evasion" and "Quick MAX Mode Activation", aside from the countless changes in each character's special moves and their properties.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/The_King_of_Fighters_2002) · [IGDB](https://www.igdb.com/games/the-king-of-fighters-2002)
 
 ---
 
@@ -146,9 +220,15 @@
 
 ### Sengoku 3
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co1w4y.jpg" alt="Sengoku 3 cover" width="200">
+
 **Platforms:** Arcade, Neo Geo AES &nbsp;|&nbsp; **Developer:** Noise Factory &nbsp;|&nbsp; **Publisher:** SNK &nbsp;|&nbsp; **Genre:** Beat 'em up, hack and slash &nbsp;|&nbsp; **Released:** July 18, 2001
 
-[Wikipedia](https://en.wikipedia.org/wiki/Sengoku_3)
+> The game takes a greater departure from its predecessors in both story and presentation. The heroes are now members of a ninja clan who have to dispatch an evil emperor before he is released. Players can choose which character they want for the first time, each having their own strengths and weaknesses. Two bosses that confront the player can also be playable after a certain chapter of the game, allowing players to re-select their character if they wish.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Sengoku_3) · [IGDB](https://www.igdb.com/games/sengoku-3)
 
 ---
 
@@ -158,9 +238,15 @@
 
 ### Metal Slug 3
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/cobu6p.jpg" alt="Metal Slug 3 cover" width="200">
+
 **Platforms:** Arcade, Neo Geo AES &nbsp;|&nbsp; **Developer:** SNK, Noise Factory, DotEmu, Code Mystics &nbsp;|&nbsp; **Publisher:** SNK, Playmore, MEGA, Ignition Entertainment &nbsp;|&nbsp; **Genre:** Run and gun &nbsp;|&nbsp; **Released:** March 23, 2000
 
-[Wikipedia](https://en.wikipedia.org/wiki/Metal_Slug_3)
+> “METAL SLUG 3”, the masterpiece in SNK’s emblematic 2D run & gun action shooting game series, still continues to fascinate millions of fans worldwide to this day for its intricate dot-pixel graphics, and simple and intuitive game controls!
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Metal_Slug_3) · [IGDB](https://www.igdb.com/games/metal-slug-3)
 
 ---
 
@@ -198,9 +284,15 @@
 
 ### Neo Geo Cup '98: The Road to the Victory
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co4akf.jpg" alt="Neo Geo Cup '98: The Road to the Victory cover" width="200">
+
 **Platforms:** Arcade, Neo Geo AES, Neo Geo Pocket &nbsp;|&nbsp; **Developer:** SNK &nbsp;|&nbsp; **Publisher:** SNK &nbsp;|&nbsp; **Genre:** Sports &nbsp;|&nbsp; **Released:** May 28, 1998
 
-[Wikipedia](https://en.wikipedia.org/wiki/Neo_Geo_Cup_'98:_The_Road_to_the_Victory)
+> Neo Geo Cup '98: The Road to the Victory is a soccer video game based on the FIFA World Cup 1998, despite being released after the 1998 FIFA World Cup. It features 73 teams countries. Each team enters a "Regional Qualifying Round Final" where it plays a team it actually played in the 1998 FIFA World Cup qualification. For example: Spain would face Yugoslavia, an opponent it actually faced in its qualifying group. Or Italy would face Russia, an opponent Italy faced in the UEFA play-offs. If the player wins the opponent, it goes to a group much like the real life World Cup. In fact, the team faces opponents that were actually in its group. For Example: Mexico would face the Netherlands, Belgium and South Korea. It is a re-make of Super Sidekicks 3. However, animations and designs were exactly the same. The only difference is teams to reflect the World Cup, Kits again to reflect the World Cup, and players to resemble squads from the World Cup (Teams that did not qualify use line-ups from friendly games and qualifiers). It's slogan is "We got the kick".  Unlike its arcade counter-part, the Neo Geo version tries to be more of a soccer simulation game. Differences include the Neo Geo version more slowed down, and more realism added in shooting, passing, etc.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Neo_Geo_Cup_'98:_The_Road_to_the_Victory) · [IGDB](https://www.igdb.com/games/neo-geo-cup-98-the-road-to-the-victory)
 
 ---
 
@@ -224,9 +316,15 @@
 
 ### Magical Drop III
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co3u36.jpg" alt="Magical Drop III cover" width="200">
+
 **Platforms:** Arcade, Neo Geo AES, Sega Saturn, PlayStation &nbsp;|&nbsp; **Developer:** Data East &nbsp;|&nbsp; **Publisher:** Data East, SNK, Swing! Entertainment, Conspiracy Entertainment &nbsp;|&nbsp; **Genre:** Puzzle &nbsp;|&nbsp; **Released:** February 25, 1997
 
-[Wikipedia](https://en.wikipedia.org/wiki/Magical_Drop_III)
+> Control a clown to pull in and throw back balloons hurled from the top of the screen. If you line up three or more balloons of the same color in a vertical row, they will burst. If you're not quick enough, the balloons will squash the clown and the game is over. Once you've got the hang of bursting balloons, you'll need to master combos and chains.  The third Magical Drop game, first released in 1997, was also developed for the Neo Geo. This games adds representatives for the remaining Tarot Major Arcana, as well as introducing a "daughter" Strength character that more closely resembles the traditional depiction of Strength. The game adds a third button, which allows players to add rows to their field at any time. Additionally, attacks now sends lines to the opponent in non-even rows that vary by character. Hirameki mode is replaced by Adventure Mode, which is a board game that challenges players to reach Empress before CPU-controlled rivals. The English versions of Magical Drop III remove the hardest difficulty setting in Vs. CPU Mode and rival opponents in Adventure Mode.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Magical_Drop_III) · [IGDB](https://www.igdb.com/games/magical-drop-iii)
 
 ---
 
@@ -278,9 +376,15 @@
 
 ### Art of Fighting 3: The Path of the Warrior
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co1zh4.jpg" alt="Art of Fighting 3: The Path of the Warrior cover" width="200">
+
 **Platforms:** Arcade, Neo Geo AES, Neo Geo CD &nbsp;|&nbsp; **Developer:** SNK &nbsp;|&nbsp; **Publisher:** SNK, Neo Geo do Brasil Ltda. &nbsp;|&nbsp; **Genre:** Fighting &nbsp;|&nbsp; **Released:** March 12, 1996
 
-[Wikipedia](https://en.wikipedia.org/wiki/Art_of_Fighting_3:_The_Path_of_the_Warrior)
+> In this third and final entry in the Art of Fighting series, the story shifts from Ryo Sakazaki to his best friend and rival, Robert Garcia, as he ventures into Mexico to try and locate Freia Lawrence, a childhood friend, who asked for his help. However, he leaves without the consent of The Garcia Foundation, which sends an agent named Karman Cole to get him back. But not everything is as simple as it looks... because Robert is not the only one looking for Freia.  Art of Fighting 3: The Path of The Warrior features ten playable characters with different fighting styles, a completely new fighting system based on joystick and button combinations, and incredibly detailed graphics and animation.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Art_of_Fighting_3:_The_Path_of_the_Warrior) · [IGDB](https://www.igdb.com/games/art-of-fighting-3-the-path-of-the-warrior)
 
 ---
 
@@ -294,17 +398,29 @@
 
 ### Kizuna Encounter: Super Tag Battle
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co8fll.jpg" alt="Kizuna Encounter: Super Tag Battle cover" width="200">
+
 **Platforms:** Arcade, Neo Geo AES &nbsp;|&nbsp; **Developer:** SNK &nbsp;|&nbsp; **Publisher:** SNK &nbsp;|&nbsp; **Genre:** Fighting &nbsp;|&nbsp; **Released:** September 20, 1996
 
-[Wikipedia](https://en.wikipedia.org/wiki/Kizuna_Encounter:_Super_Tag_Battle)
+> Kizuna Encounter: Super Tag Battle is a fast tag‑team fighting game that swaps Savage Reign’s two‑plane system for dynamic tag combat, emphasizing team synergy, chain combos, and simplified controls for more fluid, strategic matches. Players pick two fighters, use tag cancels and partner assists to extend combos and shift momentum in high‑risk 2D arcade battles. The roster is largely retained with Nicola and Carol replaced by Rosa and Kim Sue Il. A new final boss, Jyazu, blends moves from Gozu and Mezu, adding extra challenge.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Kizuna_Encounter:_Super_Tag_Battle) · [IGDB](https://www.igdb.com/games/kizuna-encounter-super-tag-battle)
 
 ---
 
 ### Magical Drop II
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co3u7t.jpg" alt="Magical Drop II cover" width="200">
+
 **Platforms:** Arcade, Neo Geo AES, Neo Geo CD, Super Nintendo Entertainment System, Sega Saturn &nbsp;|&nbsp; **Developer:** Data East &nbsp;|&nbsp; **Publisher:** Data East, SNK, Sega &nbsp;|&nbsp; **Genre:** Puzzle &nbsp;|&nbsp; **Released:** March 21, 1996
 
-[Wikipedia](https://en.wikipedia.org/wiki/Magical_Drop_II)
+> Magical Drop is played in a style and gameplay similar to Compile's (now Sega's) Puyo Puyo and Taito's Puzzle Bobble franchises; a "stack" of random colored bubbles descend from the top, and a player is defeated when a bubble hits the bottom. Bubbles can be picked up and dropped by the player's "clown" at the bottom, and are destroyed when three or more of the same color are put together on a single column. "Chains" are formed either when a single drop caused a chain reaction, or when more than one group of bubbles is destroyed in quick succession. The game is normally played with two players (one may be a computer opponent), and chains cause the opponent's stack to descend faster.  There are 24 characters, all but the Black Pierrot being named after a tarot card (although the Strength card has been represented by two characters throughout the series). Different characters have different attack patterns. The columns of the opponent's stack will descend at different rates relative to each other depending on the character chosen. This causes a disjunction of colors that may make it more difficult for the other player to clear their stack. For example, with the character Devil, all the columns will descend at the same rate, whereas with Sun, the middle columns will descend faster than the others.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Magical_Drop_II) · [IGDB](https://www.igdb.com/games/magical-drop-ii)
 
 ---
 
@@ -318,33 +434,57 @@
 
 ### Neo Turf Masters
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/cobm7p.jpg" alt="Neo Turf Masters cover" width="200">
+
 **Platforms:** Arcade, Neo Geo AES, Neo Geo CD &nbsp;|&nbsp; **Developer:** Nazca Corporation, Saurus &nbsp;|&nbsp; **Publisher:** SNK &nbsp;|&nbsp; **Genre:** Sports &nbsp;|&nbsp; **Released:** January 29, 1996
 
-[Wikipedia](https://en.wikipedia.org/wiki/Neo_Turf_Masters)
+> Neo Turf Masters is a golf video game by Nazca for the Neo Geo, released in 1996. This is also one of the first two titles by Nazca, the other being the popular Metal Slug before & between being acquired by SNK.  The game is a fast paced, arcade-style golf game. Players choose from two game modes, stroke play for one or two players, and match play for two players only.  Competing on one of four fictional golf courses located in the United States, Japan, Australia and Germany, players choose from one of six players with different attributes:  "Young Hero" (George Spinner, USA) "Technician" (Thomas Stewart, United Kingdom) "Veteran" (Frank Adams, Australia) "Shot Maker" (Robert Landolt, Germany) "Power Golfer" (Fernando Almeida, Brazil) "Putt Master" (Toyoshige Takeno, Japan)  Unlike many golf games of the era which used a two-click swing system to determine the hook or slice of the ball, Neo Turf Masters uses a single click for the power of the shot, and a second for the height of the shot; hook and slice are selected with buttons B and C before making the shot. This makes the game much easier to pick up and play well than its contemporaries, but it compensates for this reduced difficulty with fiendish (if somewhat unrealistic) course layouts and highly variable wind.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Neo_Turf_Masters) · [IGDB](https://www.igdb.com/games/neo-turf-masters)
 
 ---
 
 ### Ninja Master's
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/cobsrv.jpg" alt="Ninja Master's cover" width="200">
+
 **Platforms:** Arcade, Neo Geo AES, Neo Geo CD &nbsp;|&nbsp; **Developer:** ADK &nbsp;|&nbsp; **Publisher:** SNK, ADK &nbsp;|&nbsp; **Genre:** Fighting &nbsp;|&nbsp; **Released:** May 27, 1996
 
-[Wikipedia](https://en.wikipedia.org/wiki/Ninja_Master's)
+> Ninja Master's follows the conventions of many previous 2D fighting games released for the Neo-Geo. The player must defeat their opponent in combat in a series of best-two-out-of-three matches. Characters can change between using the character's weapon or fight hand-to-hand during the middle of combat. Like the Art of Fighting series, Ninja Master's features a super meter.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Ninja_Master's) · [IGDB](https://www.igdb.com/games/ninja-masters-haou-ninpou-ko)
 
 ---
 
 ### Over Top
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/coawgq.jpg" alt="Over Top cover" width="200">
+
 **Platforms:** Arcade, Neo Geo AES, Neo Geo CD &nbsp;|&nbsp; **Developer:** ADK &nbsp;|&nbsp; **Publisher:** SNK, ADK &nbsp;|&nbsp; **Genre:** Racing &nbsp;|&nbsp; **Released:** April 26, 1996
 
-[Wikipedia](https://en.wikipedia.org/wiki/Over_Top)
+> The ultimate NEOGEO Racing Game! The game features branching paths and a variety of car models for maximum replayability!
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Over_Top) · [IGDB](https://www.igdb.com/games/over-top)
 
 ---
 
 ### Ragnagard
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co8dbw.jpg" alt="Ragnagard cover" width="200">
+
 **Platforms:** Arcade, Neo Geo AES, Neo Geo CD &nbsp;|&nbsp; **Developer:** Saurus &nbsp;|&nbsp; **Publisher:** SNK, Saurus &nbsp;|&nbsp; **Genre:** Fighting &nbsp;|&nbsp; **Released:** June 13, 1996
 
-[Wikipedia](https://en.wikipedia.org/wiki/Ragnagard)
+> Ragnagard is 2D arcade fighting game developed by Saurus and System Vision, and published by SNK and Saurus for the Neo Geo arcade, Neo Geo CD and Sega Saturn. The game's characters are all based on Shinto deities
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Ragnagard) · [IGDB](https://www.igdb.com/games/ragnagard)
 
 ---
 
@@ -358,17 +498,29 @@
 
 ### Stakes Winner 2
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/vzb105gqzckrefxd3jkg.jpg" alt="Stakes Winner 2 cover" width="200">
+
 **Platforms:** Arcade, Neo Geo AES &nbsp;|&nbsp; **Developer:** Saurus &nbsp;|&nbsp; **Publisher:** SNK &nbsp;|&nbsp; **Genre:** Racing, sports &nbsp;|&nbsp; **Released:** September 24, 1996
 
-[Wikipedia](https://en.wikipedia.org/wiki/Stakes_Winner_2)
+> Like its predecessor, Stakes Winner 2 is a 2D horse racing game. Choosing from one of the game's selection of horses, players must compete in a series of races on different tracks to earn money and prestige. Each horse that players can select is rated according to speed, stamina, and burst.  Players control their horses with the joystick and three buttons. Pressing the A button repeatedly keeps the horse accelerated with a slight drain of the stamina bar, while pressing the B button applies the rider crop to the horse. This results in a slight burst of speed at the cost of draining the horse's stamina bar faster.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Stakes_Winner_2) · [IGDB](https://www.igdb.com/games/stakes-winner-2)
 
 ---
 
 ### The Eye of Typhoon
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co3gzh.jpg" alt="The Eye of Typhoon cover" width="200">
+
 **Platforms:** 3DO Interactive Multiplayer, MS-DOS, Neo Geo AES &nbsp;|&nbsp; **Developer:** Viccom &nbsp;|&nbsp; **Publisher:** Viccom, LG &nbsp;|&nbsp; **Genre:** 2D Versus fighting
 
-[Wikipedia](https://en.wikipedia.org/wiki/The_Eye_of_Typhoon)
+> Geuk Cho Ho Kwon is a versus fighting game. The game allows two players to compete against each other and also offers a single-player mode with the computer AI taking control over the opponent. There are twelve fighters to choose from, each representing a different country (Korea, China, USA, etc.) and fighting in his or her own stylized location. Attacks include punches and kicks and combinations thereof, performed together with jumping or ducking. In addition, each character has a limited amount of powerful special attacks at his or her disposal.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/The_Eye_of_Typhoon) · [IGDB](https://www.igdb.com/games/the-eye-of-typhoon)
 
 ---
 
@@ -382,17 +534,29 @@
 
 ### The Ultimate 11: SNK Football Championship
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/cobm88.jpg" alt="The Ultimate 11: SNK Football Championship cover" width="200">
+
 **Platforms:** Arcade, Neo Geo AES &nbsp;|&nbsp; **Developer:** SNK &nbsp;|&nbsp; **Publisher:** SNK &nbsp;|&nbsp; **Genre:** Sports &nbsp;|&nbsp; **Released:** October 16, 1996
 
-[Wikipedia](https://en.wikipedia.org/wiki/The_Ultimate_11:_SNK_Football_Championship)
+> The Ultimate 11 is a soccer game by SNK, widely regarded as the 4th title in the Super Sidekicks series.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/The_Ultimate_11:_SNK_Football_Championship) · [IGDB](https://www.igdb.com/games/the-ultimate-11-snk-football-championship)
 
 ---
 
 ### Waku Waku 7
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co3rki.jpg" alt="Waku Waku 7 cover" width="200">
+
 **Platforms:** Arcade, Neo Geo AES &nbsp;|&nbsp; **Developer:** Sunsoft &nbsp;|&nbsp; **Publisher:** Sunsoft, SNK &nbsp;|&nbsp; **Genre:** Fighting &nbsp;|&nbsp; **Released:** November 21, 1996
 
-[Wikipedia](https://en.wikipedia.org/wiki/Waku_Waku_7)
+> Waku Waku 7 is a SNK fighting game originally released for the Neo Geo MVS arcade system.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Waku_Waku_7) · [IGDB](https://www.igdb.com/games/waku-waku-7)
 
 ---
 
@@ -430,9 +594,15 @@
 
 ### Far East of Eden: Kabuki Klash
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co5xip.jpg" alt="Far East of Eden: Kabuki Klash cover" width="200">
+
 **Platforms:** Arcade, Neo Geo AES, Neo Geo CD &nbsp;|&nbsp; **Developer:** Racdym &nbsp;|&nbsp; **Publisher:** SNK, Hudson Soft &nbsp;|&nbsp; **Genre:** Fighting &nbsp;|&nbsp; **Released:** June 20, 1995
 
-[Wikipedia](https://en.wikipedia.org/wiki/Far_East_of_Eden:_Kabuki_Klash)
+> An arcade fighting game spin-off of an RPG series set in a fantasized feudal Japan. Known for its similarities with early Samurai Shodown games (including random item drops and combining attack buttons for heavier attacks), it is the only game in the entire series to get a release outside of Japan.  The main series is composed of three separate games within the land of 'Jipang' (a fictionalized version of feudal Japan), each of which follows a descendant of the 'Fire Clan' and supporting cast in battles against a range of often comical villains. The stories of the games, though primarily of 'fantasy' fare, also attempt to provide commentary on common misconceptions about Japanese culture by Western societies.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Far_East_of_Eden:_Kabuki_Klash) · [IGDB](https://www.igdb.com/games/far-east-of-eden-kabuki-klash)
 
 ---
 
@@ -452,17 +622,29 @@
 
 ### Galaxy Fight: Universal Warriors
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co25d9.jpg" alt="Galaxy Fight: Universal Warriors cover" width="200">
+
 **Platforms:** Arcade, Neo Geo AES, Neo Geo CD, Sega Saturn &nbsp;|&nbsp; **Developer:** Sunsoft &nbsp;|&nbsp; **Publisher:** Sunsoft, SNK &nbsp;|&nbsp; **Genre:** Fighting &nbsp;|&nbsp; **Released:** January 24, 1995
 
-[Wikipedia](https://en.wikipedia.org/wiki/Galaxy_Fight:_Universal_Warriors)
+> Man and demon wage war with one-on-one fights in the 1-on-1 fighting game Galaxy Fight. Eight of the universe's greatest fighters enter into combat for the fate of the galaxy. Success brings great acclaim to the victor. Failure brings death.  Once every 1000 years, a being of divine power takes physical form somewhere in the galaxy. This time, he has taken form on the planet Danius. This being, who refers to itself as "Felden Crayce" is being sought out by fighters across the galaxy to challenge and defeat. Each of these eight warriors have their each with their own reasons for seeking out and fighting this being -- some wish to challenge Felden for pride or fame, some wish to protect their home lands from Felden, and some refuse to explain their reasons until they meet this great force themselves. These eight fighters all have unique abilities and strengths, but only one can be the final victor!
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Galaxy_Fight:_Universal_Warriors) · [IGDB](https://www.igdb.com/games/galaxy-fight-universal-warriors)
 
 ---
 
 ### Master of Syougi
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co82ba.jpg" alt="Master of Syougi cover" width="200">
+
 **Platforms:** Arcade, Neo Geo AES, Neo Geo CD &nbsp;|&nbsp; **Developer:** ADK &nbsp;|&nbsp; **Publisher:** SNK &nbsp;|&nbsp; **Genre:** Board game &nbsp;|&nbsp; **Released:** September 28, 1995
 
-[Wikipedia](https://en.wikipedia.org/wiki/Master_of_Syougi)
+> Is a turn-based game - an adaptation of Shogi, a Japanese type of chess-like game. The player can select 1 from 8 opponents to play. Each player has a set of 20 wedge-shaped pieces different from international chess. Another difference - captured pieces could be returned to the board and all can be promoted.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Master_of_Syougi) · [IGDB](https://www.igdb.com/games/master-of-syougi)
 
 ---
 
@@ -496,17 +678,29 @@
 
 ### Savage Reign
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co25k6.jpg" alt="Savage Reign cover" width="200">
+
 **Platforms:** Arcade, Neo Geo AES, Neo Geo CD &nbsp;|&nbsp; **Developer:** SNK &nbsp;|&nbsp; **Publisher:** SNK &nbsp;|&nbsp; **Genre:** Fighting &nbsp;|&nbsp; **Released:** April 25, 1995
 
-[Wikipedia](https://en.wikipedia.org/wiki/Savage_Reign)
+> Savage Reign is a vs. fighting game that offers a dozen fighters, mixing fighting with weapons and a two-plane system like the one seen in the Fatal Fury saga, with which it is possible to get to the back of the stage by climbing to a higher level or climbing up pipes.  Each stage has interactive elements that intervene in the fights, such as falling stalactites, lava jets, spotlights that can be knocked down, and all the characters, have the ability to execute movements based on projectiles, which can be used to chase the opponent when he changes planes, and which can even be reflected.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Savage_Reign) · [IGDB](https://www.igdb.com/games/savage-reign)
 
 ---
 
 ### Stakes Winner
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co7jvv.jpg" alt="Stakes Winner cover" width="200">
+
 **Platforms:** Arcade, Neo Geo AES, Neo Geo CD &nbsp;|&nbsp; **Developer:** Saurus &nbsp;|&nbsp; **Publisher:** SNK &nbsp;|&nbsp; **Genre:** Racing, sports &nbsp;|&nbsp; **Released:** September 27, 1995
 
-[Wikipedia](https://en.wikipedia.org/wiki/Stakes_Winner)
+> Stakes Winner is a 2D horse racing game. Taking the role of horse jockeys, players must win a series of races using one of the game's eight selectable horses. Each horse is rated in strength, speed, and stamina, making each horse different in handling. During the game, horse ratings can be boosted through completing bonus levels. Each horse has a stamina bar displayed at the bottom of the screen, next to a picture of the horse's head showing its current health. The stamina bar decreases as the horse runs, and when it is depleted, the race is over for that horse.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Stakes_Winner) · [IGDB](https://www.igdb.com/games/stakes-winner)
 
 ---
 
@@ -526,9 +720,15 @@
 
 ### Voltage Fighter Gowcaizer
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co4ym0.jpg" alt="Voltage Fighter Gowcaizer cover" width="200">
+
 **Platforms:** Arcade, Neo Geo AES, Neo Geo CD &nbsp;|&nbsp; **Developer:** Technōs Japan &nbsp;|&nbsp; **Publisher:** SNK, Technōs Japan, Urban Plant &nbsp;|&nbsp; **Genre:** Fighting &nbsp;|&nbsp; **Released:** September 18, 1995
 
-[Wikipedia](https://en.wikipedia.org/wiki/Voltage_Fighter_Gowcaizer)
+> Stones of power are given to some chosen fighters, who are being trained by a master to defeat the master's darker tendencies of destroying humanity. The fighters do not necessarily get along even as the world heads toward peril.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Voltage_Fighter_Gowcaizer) · [IGDB](https://www.igdb.com/games/voltage-fighter-gowcaizer)
 
 ---
 
@@ -566,9 +766,15 @@
 
 ### Aggressors of Dark Kombat
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/cobm83.jpg" alt="Aggressors of Dark Kombat cover" width="200">
+
 **Platforms:** Arcade, Neo Geo AES &nbsp;|&nbsp; **Developer:** ADK &nbsp;|&nbsp; **Publisher:** SNK, ADK &nbsp;|&nbsp; **Genre:** Fighting &nbsp;|&nbsp; **Released:** July 26, 1994
 
-[Wikipedia](https://en.wikipedia.org/wiki/Aggressors_of_Dark_Kombat)
+> Aggressors of Dark Kombat offers virtually no storyline to explain its fights. In fact, the prefight conversation sequences show that the fights are not much more than chance meetings. The player's chosen character will advance through a series of stages fighting a series of opponents because he doesn't like the way the other guy looks.  The game is viewed from the side perspective that virtually all 2D fighting games use. One player can fight against a computer-controlled opponent, or two players can fight against each other. Each character's life bar appears on the upper left or right of the screen, depending on starting location. A timer is located between the two life bars. When one character is drained of energy or the timer runs out, the match is over and the character left standing (or with more life, if neither characters were drained of energy) wins.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Aggressors_of_Dark_Kombat) · [IGDB](https://www.igdb.com/games/aggressors-of-dark-kombat)
 
 ---
 
@@ -588,9 +794,15 @@
 
 ### Karnov's Revenge
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co8ag6.jpg" alt="Karnov's Revenge cover" width="200">
+
 **Platforms:** Arcade, Neo Geo AES, Neo Geo CD &nbsp;|&nbsp; **Developer:** Data East, Rutubo Games, Onan Games &nbsp;|&nbsp; **Publisher:** Data East, SNK, Sega, G-Mode &nbsp;|&nbsp; **Genre:** Fighting &nbsp;|&nbsp; **Released:** March 17, 1994
 
-[Wikipedia](https://en.wikipedia.org/wiki/Karnov's_Revenge)
+> Karnov's Revenge, also known as "Fighter's History Dynamite" in Japan, is a 1994 arcade fighting game, and the followup to Fighter's History. All returning characters have new moves, and Clown and Karnov are now playable characters while newcomers Zazie and Yungmie were introduced.  The Super Famicom game "Fighter's History: Mizoguchi Kiki Ippatsu!!" is heavily based on Dynamite, and is believed to have been meant as a port. Dynamite itself would be ported to the Sega Saturn, and Mizoguchi Kiki Ippatsu!! was even thrown in as a bonus.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Karnov's_Revenge) · [IGDB](https://www.igdb.com/games/karnovs-revenge)
 
 ---
 
@@ -608,33 +820,31 @@
 
 ---
 
-### Street Hoop
+### Street Slam
 
-<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co7irn.jpg" alt="Street Hoop cover" width="200">
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co7irn.jpg" alt="Street Slam cover" width="200">
 
-**Platforms:** Neo Geo AES, Arcade &nbsp;|&nbsp; **Developer:** Data East &nbsp;|&nbsp; **Publisher:** Data East, G-MODE Corporation &nbsp;|&nbsp; **Genre:** Sport, Indie, Arcade &nbsp;|&nbsp; **Released:** January 8, 1994
+**Platforms:** Arcade, Neo Geo AES &nbsp;|&nbsp; **Developer:** Data East, Onan Games &nbsp;|&nbsp; **Publisher:** Data East, SNK, G-Mode &nbsp;|&nbsp; **Genre:** Sports &nbsp;|&nbsp; **Released:** December 8, 1994
 
 > Street Hoop, known in Japan as Dunk Dream and known in North America as Street Slam, is a basketball video game developed by Data East for Neo-Geo, released in 1994. The game features three-on-three basketball match-ups with a variety of different teams.
 >
 > _Synopsis source: IGDB_
 
-[IGDB](https://www.igdb.com/games/street-hoop)
-
----
-
-### Street Slam
-
-**Platforms:** Arcade, Neo Geo AES &nbsp;|&nbsp; **Developer:** Data East, Onan Games &nbsp;|&nbsp; **Publisher:** Data East, SNK, G-Mode &nbsp;|&nbsp; **Genre:** Sports &nbsp;|&nbsp; **Released:** December 8, 1994
-
-[Wikipedia](https://en.wikipedia.org/wiki/Street_Slam)
+[Wikipedia](https://en.wikipedia.org/wiki/Street_Slam) · [IGDB](https://www.igdb.com/games/street-hoop)
 
 ---
 
 ### Super Sidekicks 2: The World Championship
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co586m.jpg" alt="Super Sidekicks 2: The World Championship cover" width="200">
+
 **Platforms:** Arcade, Neo Geo AES, Neo Geo CD &nbsp;|&nbsp; **Developer:** SNK &nbsp;|&nbsp; **Publisher:** SNK &nbsp;|&nbsp; **Genre:** Sports &nbsp;|&nbsp; **Released:** April 19, 1994
 
-[Wikipedia](https://en.wikipedia.org/wiki/Super_Sidekicks_2:_The_World_Championship)
+> Super Sidekicks 2: The World Championship is a 1994 soccer arcade video game developed and published by SNK. It is the second installment in the Super Sidekicks series and the third soccer game released for Neo Geo MVS, preceding the original Super Sidekicks (1992). Featuring an arcade-style approach to soccer as its predecessor, the game allows players to choose any of the available game modes with AI-controlled opponents or other human players with the team of their choosing. Its gameplay uses a simplified three-button configuration.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Super_Sidekicks_2:_The_World_Championship) · [IGDB](https://www.igdb.com/games/super-sidekicks-2-the-world-championship)
 
 ---
 
@@ -654,9 +864,15 @@
 
 ### Top Hunter: Roddy & Cathy
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co85ly.jpg" alt="Top Hunter: Roddy & Cathy cover" width="200">
+
 **Platforms:** Arcade, Neo Geo AES, Neo Geo CD &nbsp;|&nbsp; **Developer:** SNK &nbsp;|&nbsp; **Publisher:** SNK &nbsp;|&nbsp; **Genre:** Beat 'em up, Platform &nbsp;|&nbsp; **Released:** May 18, 1994
 
-[Wikipedia](https://en.wikipedia.org/wiki/Top_Hunter:_Roddy_&_Cathy)
+> Top Hunter: Roddy & Cathy is a side-scrolling platform video game developed by SNK for its Neo Geo Arcade system, which was released in 1994. It was later released for Neo Geo CD, and much later for the Wii virtual console. The game has been re-reissued later in the SNK Arcade Classics Vol. 1 compilation, which was released on May 1, 2008.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Top_Hunter:_Roddy_&_Cathy) · [IGDB](https://www.igdb.com/games/top-hunter-roddy-and-cathy--1)
 
 ---
 
@@ -676,9 +892,15 @@
 
 ### World Heroes 2 Jet
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co4hhj.jpg" alt="World Heroes 2 Jet cover" width="200">
+
 **Platforms:** Arcade, Neo Geo AES, Neo Geo CD &nbsp;|&nbsp; **Developer:** ADK, Be Top &nbsp;|&nbsp; **Publisher:** SNK, Takara, Playmates Interactive &nbsp;|&nbsp; **Genre:** Fighting &nbsp;|&nbsp; **Released:** April 26, 1994
 
-[Wikipedia](https://en.wikipedia.org/wiki/World_Heroes_2_Jet)
+> After the defeat of both Dio and Neo Geegus at the end of World Heroes 2, the world was saved from the threatening danger and that the 14 fighters who had participated in the World Heroes tournament had returned to their own respective time periods. However, one year later, the 14 fighters had received invitations to a new fighting tournament known as the World Heroes Battle Fest and that this tournament would take place over the next five days in different parts of the world, being watched by millions of fighting fans.  Surprisingly, the 14 fighters learn that Dr. Brown isn't the one who's sponsoring the tournament, but rather, a mysterious millionaire who is known simply as Mr. Z to the public.  As the 14 fighters prepare themselves for the World Heroes Battle Fest, none of them have no clue or idea that Mr. Z has his own callous ambition for world domination and with the assistance of his two loyal servants, he vows to eliminate anyone who dares to get in his ruthless way.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/World_Heroes_2_Jet) · [IGDB](https://www.igdb.com/games/world-heroes-2-jet)
 
 ---
 
@@ -840,17 +1062,29 @@
 
 ### Viewpoint
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2sh7.jpg" alt="Viewpoint cover" width="200">
+
 **Platforms:** Arcade, Neo Geo AES, Genesis / Mega Drive, FM Towns, Sharp X68000 &nbsp;|&nbsp; **Developer:** Aicom &nbsp;|&nbsp; **Publisher:** Sammy &nbsp;|&nbsp; **Genre:** Scrolling shooter &nbsp;|&nbsp; **Released:** November 20, 1992
 
-[Wikipedia](https://en.wikipedia.org/wiki/Viewpoint_(video_game))
+> One or two players (in hot-seat or cooperative mode) control a spaceship equipped with a laser cannon which can be charged (by holding the shooting button down) for a stronger blast. Besides the main weapon, three special weapons are available: a wall of fire which wipes the screen up in a wave, a nova-like blast and a circle of spherical-green homing missiles.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Viewpoint_(video_game)) · [IGDB](https://www.igdb.com/games/viewpoint)
 
 ---
 
 ### World Heroes
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co47nd.jpg" alt="World Heroes cover" width="200">
+
 **Platforms:** Arcade, Neo Geo AES &nbsp;|&nbsp; **Developer:** Alpha Denshi, Sunsoft, Sega Midwest Studio &nbsp;|&nbsp; **Publisher:** SNK, Alpha Denshi, Sunsoft, Sega &nbsp;|&nbsp; **Genre:** Fighting &nbsp;|&nbsp; **Released:** July 28, 1992
 
-[Wikipedia](https://en.wikipedia.org/wiki/World_Heroes_(video_game))
+> Are you ready for a fierce battle in an ultra-deathmatch!? Who is the greatest hero in the world? You will find out today! A scientist has created a time machine that eight heroes will travel through time with to prove who is the greatest fighter of all time!
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/World_Heroes_(video_game)) · [IGDB](https://www.igdb.com/games/world-heroes)
 
 ---
 
@@ -914,33 +1148,31 @@
 
 ---
 
-### Fatal Fury
+### Fatal Fury: King of Fighters
 
-<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co9lf7.jpg" alt="Fatal Fury cover" width="200">
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co9lf7.jpg" alt="Fatal Fury: King of Fighters cover" width="200">
 
-**Platforms:** Neo Geo AES, Arcade &nbsp;|&nbsp; **Developer:** SNK, Gaibrain, Takara &nbsp;|&nbsp; **Publisher:** D4 Enterprise, Sega, Tec Toy, Magical Company, SNK &nbsp;|&nbsp; **Genre:** Fighting &nbsp;|&nbsp; **Released:** November 25, 1991
+**Platforms:** Arcade, Neo Geo AES &nbsp;|&nbsp; **Developer:** SNK &nbsp;|&nbsp; **Publisher:** SNK, Takara, Sega, Magical Company &nbsp;|&nbsp; **Genre:** Fighting &nbsp;|&nbsp; **Released:** November 25, 1991
 
 > Fatal Fury is a fighting game developed by SNK and released for arcades in 1991. Players choose from a roster of martial artists and compete in one-on-one battles using punches, kicks, and special moves. The game introduced a two-plane fighting system that allows characters to move between foreground and background lanes. Its story follows Terry Bogard and his allies as they challenge the crime lord Geese Howard.
 >
 > _Synopsis source: IGDB_
 
-[IGDB](https://www.igdb.com/games/fatal-fury)
-
----
-
-### Fatal Fury: King of Fighters
-
-**Platforms:** Arcade, Neo Geo AES &nbsp;|&nbsp; **Developer:** SNK &nbsp;|&nbsp; **Publisher:** SNK, Takara, Sega, Magical Company &nbsp;|&nbsp; **Genre:** Fighting &nbsp;|&nbsp; **Released:** November 25, 1991
-
-[Wikipedia](https://en.wikipedia.org/wiki/Fatal_Fury:_King_of_Fighters)
+[Wikipedia](https://en.wikipedia.org/wiki/Fatal_Fury:_King_of_Fighters) · [IGDB](https://www.igdb.com/games/fatal-fury)
 
 ---
 
 ### Ghost Pilots
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co9a5c.jpg" alt="Ghost Pilots cover" width="200">
+
 **Platforms:** Arcade, Neo Geo AES &nbsp;|&nbsp; **Developer:** SNK &nbsp;|&nbsp; **Publisher:** SNK &nbsp;|&nbsp; **Genre:** Scrolling shooter &nbsp;|&nbsp; **Released:** January 25, 1991
 
-[Wikipedia](https://en.wikipedia.org/wiki/Ghost_Pilots)
+> Ghost Pilots is a vertical-scrolling shoot 'em up arcade game released in 1991 by SNK.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Ghost_Pilots) · [IGDB](https://www.igdb.com/games/ghost-pilots)
 
 ---
 
@@ -960,9 +1192,15 @@
 
 ### Legend of Success Joe
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co6yl4.jpg" alt="Legend of Success Joe cover" width="200">
+
 **Platforms:** Arcade, Neo Geo AES &nbsp;|&nbsp; **Developer:** Wave Corporation &nbsp;|&nbsp; **Publisher:** SNK &nbsp;|&nbsp; **Genre:** Beat 'em up, fighting, sports &nbsp;|&nbsp; **Released:** July 1991
 
-[Wikipedia](https://en.wikipedia.org/wiki/Legend_of_Success_Joe)
+> Legend of Success Joe puts players in the role of Joe, a young boxer aspiring to make it up the ranks of the boxing world. But all is not well in Joe's world, and between boxing matches he may have to contend with street thugs out for his blood.  The game is viewed from a side 2D view, and Joe can move up and down within the backgrounds as well as forwards and backwards. Fighting consists of using the four basic boxing punches, the straight, the hook, the body blow, and the uppercut, to take opponents down. During boxing matches each boxer has three health bars on screen, with the second smaller than the first and the third smaller than the second. When a boxer's health bar is drained he gets knocked down, but can get back up. When the third health bar is drained that boxer is knocked out and loses the match.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Legend_of_Success_Joe) · [IGDB](https://www.igdb.com/games/legend-of-success-joe)
 
 ---
 
@@ -1018,9 +1256,15 @@
 
 ### Thrash Rally
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/juz2ikfh3y7f7skonptz.jpg" alt="Thrash Rally cover" width="200">
+
 **Platforms:** Arcade, Neo Geo AES &nbsp;|&nbsp; **Developer:** Alpha Denshi &nbsp;|&nbsp; **Publisher:** SNK, ADK &nbsp;|&nbsp; **Genre:** Racing &nbsp;|&nbsp; **Released:** November 8, 1991
 
-[Wikipedia](https://en.wikipedia.org/wiki/Thrash_Rally)
+> ADK's early arcade rally-racing game for the Neo Geo hardware, featuring stages based on real events (most notably the Dakar Rally).
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Thrash_Rally) · [IGDB](https://www.igdb.com/games/thrash-rally)
 
 ---
 

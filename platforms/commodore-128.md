@@ -24,8 +24,14 @@
 
 ### Secret of the Silver Blades
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co6jal.jpg" alt="Secret of the Silver Blades cover" width="200">
+
 **Platforms:** Commodore 64, Commodore 128, MS-DOS, macOS, Amiga, PC-9800 series &nbsp;|&nbsp; **Developer:** Strategic Simulations, MicroMagic &nbsp;|&nbsp; **Publisher:** Strategic Simulations, WizardWorks &nbsp;|&nbsp; **Genre:** Tactical RPG
 
-[Wikipedia](https://en.wikipedia.org/wiki/Secret_of_the_Silver_Blades)
+> The frigid valleys of the Dragonspire Mountains echo with the desperate plea of terrified miners: "Heroes of the Forgotten Realms, save us from evil!"  Unwittingly digging in unhallowed ground, they have disturbed an ancient vault and released its terrible content. Scores of horrific creatures now infest the mine shaft - and threaten to escape into the world above!  You and your heroes must find the way to contain this scourge. All hope depends upon your ability to unravel the age-old mysteries surrounding this evil infestation.  Secret of the Silver Blades improves on the award-winning game system used in Pool of Radiance and Curse of the Azure Bonds. Continue your exciting saga in the FORGOTTEN REALMS’ game world - transfer your characters from Curse of the Azure Bonds. Or create all-new characters. Either way, explore the largest 3-D adventuring expanse ever in an AD&D computer game. Battle monsters you've never before encountered. Use higher character levels, and invoke new, wondrous spells.  All this plus spectacular graphics add up to unequalled excitement in AD&D computer fantasy role-playing!
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Secret_of_the_Silver_Blades) · [IGDB](https://www.igdb.com/games/advanced-dungeons-and-dragons-secret-of-the-silver-blades)
 
 ---

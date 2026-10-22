@@ -2,7 +2,7 @@
 
 [← Back to index](../README.md)
 
-75 titles across 6 years in this archive.
+78 titles across 6 years in this archive.
 
 ## 2023
 
@@ -22,17 +22,29 @@
 
 ### Arashi: Castles of Sin
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co3rhf.jpg" alt="Arashi: Castles of Sin cover" width="200">
+
 **Platforms:** PlayStation VR, Meta Quest, Windows &nbsp;|&nbsp; **Developer:** Endeavor One &nbsp;|&nbsp; **Publisher:** Prep Games, Skydance Interactive &nbsp;|&nbsp; **Genre:** Action-adventure, Stealth &nbsp;|&nbsp; **Released:** August 10, 2021
 
-[Wikipedia](https://en.wikipedia.org/wiki/Arashi:_Castles_of_Sin)
+> Become one with the shadows and embark on quest for justice as Kenshiro, a shinobi and the last surviving son of the noble House Arashi.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Arashi:_Castles_of_Sin) · [IGDB](https://www.igdb.com/games/arashi-castles-of-sin)
 
 ---
 
 ### Star Wars Pinball VR
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2yqx.jpg" alt="Star Wars Pinball VR cover" width="200">
+
 **Platforms:** Meta Quest, Windows, PlayStation VR &nbsp;|&nbsp; **Developer:** Zen Studios &nbsp;|&nbsp; **Publisher:** Zen Studios &nbsp;|&nbsp; **Genre:** Pinball &nbsp;|&nbsp; **Released:** April 29, 2021
 
-[Wikipedia](https://en.wikipedia.org/wiki/Star_Wars_Pinball_VR)
+> Immerse yourself with 8 amazing Star Wars Pinball tables in VR - including one based on The Mandalorian - and level up the pinball action with a customizable Fan Cave, Career Mode, Force Powers, and Total Immersion.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Star_Wars_Pinball_VR) · [IGDB](https://www.igdb.com/games/star-wars-pinball-vr)
 
 ---
 
@@ -48,6 +60,20 @@
 
 ---
 
+### Angry Birds VR: Isle of Pigs
+
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2dvn.jpg" alt="Angry Birds VR: Isle of Pigs cover" width="200">
+
+**Platforms:** Meta Quest, PlayStation VR, Oculus VR, SteamVR &nbsp;|&nbsp; **Genre:** Puzzle
+
+> Join Red, Chuck, Bomb and the Blues to save the stolen eggs in Angry Birds VR: Isle of Pigs, an immersive VR adventure!  Explore the remote island where the greedy green pigs take their vacation in 50+ fun-filled levels (and more to come!) Make your way up to party city through exotic beaches, steep cliffs and snowy slopes, destroying their structures in the most spectacular way to earn those all-important stars.  Choose from different angles to make your slingshot, using classic Angry Birds gameplay elements to progress and strive for the best possible score. Tough boss pigs, balloons, boulders and fans make each level a challenging puzzle in its own right. And using the bird’s special skills - like Chuck’s super speed or Bomb’s explosive power - will help you earn maximum points.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Angry_Birds_VR:_Isle_of_Pigs) · [IGDB](https://www.igdb.com/games/angry-birds-vr-isle-of-pigs)
+
+---
+
 ### Death Horizon: Reloaded
 
 **Platforms:** Meta Quest, Oculus Rift, SteamVR, PlayStation VR &nbsp;|&nbsp; **Developer:** Dream Dev Studio VR &nbsp;|&nbsp; **Genre:** First-person shooter &nbsp;|&nbsp; **Released:** September 26, 2019
@@ -58,25 +84,71 @@
 
 ### Ghost Giant
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co3m95.jpg" alt="Ghost Giant cover" width="200">
+
 **Platforms:** PlayStation 4, PlayStation VR &nbsp;|&nbsp; **Developer:** Zoink &nbsp;|&nbsp; **Publisher:** Zoink &nbsp;|&nbsp; **Genre:** Puzzle, adventure &nbsp;|&nbsp; **Released:** April 19, 2019
 
-[Wikipedia](https://en.wikipedia.org/wiki/Ghost_Giant)
+> A friend in need is a friend indeed, and friendship can come in the most unusual forms. Like in that of a giant ghost.  In Ghost Giant, you meet young Louis. He lives in an out-of-the-way part of town, where he tends to the family sunflower farm together with his mother. Life isn’t always that easy though, and Louis is incredibly lonely. That is, until you enter his life. As the player you take on the role of the Ghost Giant. And a giant you are indeed! Use your see-through hands to lift furniture, vehicles and trees. You can even rotate and open entire buildings to reveal the stories going on inside. The picturesque town of Sancourt becomes your own little dollhouse sandbox.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Ghost_Giant) · [IGDB](https://www.igdb.com/games/ghost-giant)
+
+---
+
+### Groundhog Day: Like Father Like Son
+
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co3wkh.jpg" alt="Groundhog Day: Like Father Like Son cover" width="200">
+
+**Platforms:** Oculus Rift, SteamVR, PlayStation VR &nbsp;|&nbsp; **Genre:** Puzzle, Adventure
+
+> In Groundhog Day: Like Father Like Son players assume the role of Phil Connors Jr., the son of Phil Connors from the iconic film, who returns to Punxsutawney, Pennsylvania only to become trapped in a time loop just as his father once was. Players will solve puzzles and explore the world introduced by the film as they try to break out of this time loop.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Groundhog_Day:_Like_Father_Like_Son) · [IGDB](https://www.igdb.com/games/groundhog-day-like-father-like-son)
 
 ---
 
 ### OhShape
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co1t4q.jpg" alt="OhShape cover" width="200">
+
 **Platforms:** Windows, Meta Quest, PlayStation VR &nbsp;|&nbsp; **Developer:** Odders Lab &nbsp;|&nbsp; **Publisher:** Odders Lab &nbsp;|&nbsp; **Genre:** Rhythm &nbsp;|&nbsp; **Released:** December 13, 2019
 
-[Wikipedia](https://en.wikipedia.org/wiki/OhShape)
+> OhShape is a rhythm VR game where players have to move their full body to go through, punch or dodge walls following the beat of the music. It's an immersive game for all type of players inspired by the Japanese TV show Hole in the Wall.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/OhShape) · [IGDB](https://www.igdb.com/games/ohshape)
+
+---
+
+### Spice and Wolf VR
+
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co9ujz.jpg" alt="Spice and Wolf VR cover" width="200">
+
+**Platforms:** Meta Quest, Windows, PlayStation VR, Nintendo Switch, Oculus VR, SteamVR &nbsp;|&nbsp; **Genre:** Simulator, Adventure, Indie
+
+> In order to achieve our dreams of entering the 2nd dimension, we will be making the popular light novel Spice and Wolf into a VR animation! Anime will evolve from something that is “seen” to something that is “experienced”...
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Spice_and_Wolf_VR) · [IGDB](https://www.igdb.com/games/spice-and-wolf-vr)
 
 ---
 
 ### Synth Riders
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co8umj.jpg" alt="Synth Riders cover" width="200">
+
 **Platforms:** SteamVR, Oculus Rift, Meta Quest, PlayStation 4, PlayStation 5, PlayStation VR, Windows, Android &nbsp;|&nbsp; **Developer:** Kluge Interactive &nbsp;|&nbsp; **Publisher:** Kluge Interactive &nbsp;|&nbsp; **Genre:** Rhythm &nbsp;|&nbsp; **Released:** May 21, 2019
 
-[Wikipedia](https://en.wikipedia.org/wiki/Synth_Riders)
+> An action-dance VR rhythm game with custom song support and a thriving multiplayer community.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Synth_Riders) · [IGDB](https://www.igdb.com/games/synth-riders)
 
 ---
 
@@ -92,25 +164,43 @@
 
 ### Ark Park
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co28uc.jpg" alt="Ark Park cover" width="200">
+
 **Platforms:** PlayStation VR, Oculus Rift, SteamVR, Windows Mixed Reality &nbsp;|&nbsp; **Developer:** Snail Games, Studio Wildcard &nbsp;|&nbsp; **Genre:** Virtual reality &nbsp;|&nbsp; **Released:** March 22, 2018
 
-[Wikipedia](https://en.wikipedia.org/wiki/Ark_Park)
+> Engage in close encounters of primal species through a series of theme-park attractions and witness with your own eyes dinosaurs roaring in the wild.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Ark_Park) · [IGDB](https://www.igdb.com/games/ark-park)
 
 ---
 
 ### Budget Cuts
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co28vx.jpg" alt="Budget Cuts cover" width="200">
+
 **Platforms:** Windows, PlayStation VR, Meta Quest &nbsp;|&nbsp; **Developer:** Neat Corporation &nbsp;|&nbsp; **Publisher:** Neat Corporation &nbsp;|&nbsp; **Genre:** Stealth, action &nbsp;|&nbsp; **Released:** June 14, 2018
 
-[Wikipedia](https://en.wikipedia.org/wiki/Budget_Cuts)
+> Budget Cuts is a VR stealth game about evading enemies and searching levels using a teleportation gun.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Budget_Cuts) · [IGDB](https://www.igdb.com/games/budget-cuts)
 
 ---
 
 ### Creed: Rise to Glory
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co1hyd.jpg" alt="Creed: Rise to Glory cover" width="200">
+
 **Platforms:** Windows, Meta Quest, PlayStation VR &nbsp;|&nbsp; **Developer:** Survios &nbsp;|&nbsp; **Publisher:** Survios &nbsp;|&nbsp; **Genre:** Fighting &nbsp;|&nbsp; **Released:** September 25, 2018
 
-[Wikipedia](https://en.wikipedia.org/wiki/Creed:_Rise_to_Glory)
+> Do you have what it takes to become a champion? Follow the ascent of boxer Adonis Creed as you go toe-to-toe with the world’s top opponents in this intense, cinematic boxing experience. Featuring new Phantom Melee Technology for impactful VR melee combat, you’ll train, fight, and win like a Creed.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Creed:_Rise_to_Glory) · [IGDB](https://www.igdb.com/games/creed-rise-to-glory)
 
 ---
 
@@ -130,17 +220,29 @@
 
 ### Red Matter
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co8caj.jpg" alt="Red Matter cover" width="200">
+
 **Platforms:** SteamVR, Oculus Rift, Windows Mixed Reality, PlayStation VR &nbsp;|&nbsp; **Developer:** Vertical Robot &nbsp;|&nbsp; **Genre:** Puzzle &nbsp;|&nbsp; **Released:** May 24, 2018
 
-[Wikipedia](https://en.wikipedia.org/wiki/Red_Matter_(video_game))
+> Red Matter is a story-driven VR puzzle adventure game set during a dystopian sci-fi Cold War. Take on the role of Agent Epsilon, an astronaut of the Atlantic Union dispatched to an abandoned Volgravian moon base on a frozen, faraway planet. Your mission: to investigate a shady top secret research project.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Red_Matter_(video_game)) · [IGDB](https://www.igdb.com/games/red-matter)
 
 ---
 
 ### Torn
 
-**Platforms:** Windows, Steam, PlayStation VR, Oculus VR, SteamVR &nbsp;|&nbsp; **Developer:** Aspyr Media &nbsp;|&nbsp; **Publisher:** Aspyr Media &nbsp;|&nbsp; **Released:** August 28, 2018
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/ax7jcj0cemexcqfdzljc.jpg" alt="Torn cover" width="200">
 
-[Wikipedia](https://en.wikipedia.org/wiki/Torn_(2018_video_game))
+**Platforms:** Windows, Steam, PlayStation VR, Oculus VR, SteamVR &nbsp;|&nbsp; **Developer:** Aspyr Media &nbsp;|&nbsp; **Publisher:** Aspyr Media &nbsp;|&nbsp; **Genre:** Puzzle, Adventure &nbsp;|&nbsp; **Released:** August 28, 2018
+
+> Torn is a dark science-fiction mystery. Explore the abandoned mansion of Dr. Lawrence Talbot, an eccentric physicist missing for 64 years. Use the Gravity Tool to activate Talbot's machines, then transport to a new dimension known as "The Parallel," where secrets are real, yet truth is Torn.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Torn_(2018_video_game)) · [IGDB](https://www.igdb.com/games/torn--1)
 
 ---
 
@@ -150,9 +252,15 @@
 
 ### Archangel
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co29ii.jpg" alt="Archangel cover" width="200">
+
 **Platforms:** Oculus Rift, Windows, PlayStation VR &nbsp;|&nbsp; **Developer:** Skydance Interactive &nbsp;|&nbsp; **Publisher:** Skydance Interactive &nbsp;|&nbsp; **Genre:** First-person shooter &nbsp;|&nbsp; **Released:** July 18, 2017
 
-[Wikipedia](https://en.wikipedia.org/wiki/Archangel_(2017_video_game))
+> We want to let you enter to the Archangel world, where Angels and Demons live inside an endless war, where Humans and Elves are their objective. Ainur, is one of the last Angels who remains in this world and his mission, is the freedom, the peace for the humanity.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Archangel_(2017_video_game)) · [IGDB](https://www.igdb.com/games/archangel--2)
 
 ---
 
@@ -248,9 +356,15 @@
 
 ### Rick and Morty: Virtual Rick-ality
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co24ou.jpg" alt="Rick and Morty: Virtual Rick-ality cover" width="200">
+
 **Platforms:** SteamVR, PlayStation VR, Oculus Rift, Windows &nbsp;|&nbsp; **Developer:** Owlchemy Labs &nbsp;|&nbsp; **Publisher:** Adult Swim Games &nbsp;|&nbsp; **Genre:** Adventure game &nbsp;|&nbsp; **Released:** April 20, 2017
 
-[Wikipedia](https://en.wikipedia.org/wiki/Rick_and_Morty:_Virtual_Rick-ality)
+> Rick and Morty have teleported into your living room for a cutting-edge VR adventure from Adult Swim Games and Owlchemy Labs (Job Simulator). Play as a Morty clone as you explore Rick's garage, the Smith household, and alien worlds.  Experience life as a clone of Morty and all the trauma that comes with it. Step through portals to strange worlds, help Rick with his bizarre experiments, and use your hands in VR to pick up and play in an interaction-filled 3D Rick-ality. Follow Rick's directions (or don't!) to solve puzzles and complete missions in this fully voice acted adventure.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Rick_and_Morty:_Virtual_Rick-ality) · [IGDB](https://www.igdb.com/games/rick-and-morty-virtual-rick-ality)
 
 ---
 

@@ -28,17 +28,29 @@
 
 ### Dragon Slayer: The Legend of Heroes II
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2far.jpg" alt="Dragon Slayer: The Legend of Heroes II cover" width="200">
+
 **Platforms:** PC-8800 series, PC-9800 series, PC Engine CD, MS-DOS &nbsp;|&nbsp; **Developer:** Nihon Falcom &nbsp;|&nbsp; **Publisher:** Hudson Soft, Epoch Co., Sega, GMF &nbsp;|&nbsp; **Genre:** Role-playing &nbsp;|&nbsp; **Released:** March 19, 1992
 
-[Wikipedia](https://en.wikipedia.org/wiki/Dragon_Slayer:_The_Legend_of_Heroes_II)
+> The game is set 20 years after Prince Selios, the hero of the original game, has defeated the demon god Agunija. Iseruhasa is at peace. Selios has married Dina and she has given birth to Atlas. At the age of fifteen Atlas and his teacher Lowel spot strange beings in spacesuits outside of the capital city. They do not recognize the spacesuits and believe them to be monsters.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Dragon_Slayer:_The_Legend_of_Heroes_II) · [IGDB](https://www.igdb.com/games/dragon-slayer-the-legend-of-heroes-ii)
 
 ---
 
 ### Genghis Khan II: Clan of the Gray Wolf
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co24iz.jpg" alt="Genghis Khan II: Clan of the Gray Wolf cover" width="200">
+
 **Platforms:** MSX, Nintendo Entertainment System, PC-9800 series, PC-8800 series, PC Engine &nbsp;|&nbsp; **Developer:** Koei &nbsp;|&nbsp; **Publisher:** Koei &nbsp;|&nbsp; **Genre:** Turn-based strategy &nbsp;|&nbsp; **Released:** July 30, 1992
 
-[Wikipedia](https://en.wikipedia.org/wiki/Genghis_Khan_II:_Clan_of_the_Gray_Wolf)
+> "Genghis Khan II: Clan of the Gray Wolf" was released in 1992, the third in the series and the second to be released outside Japan. The wolves of the Great Plains become the rulers of the world. Engage in culturally rich battles using fighters, horsemen, elephant riders and more.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Genghis_Khan_II:_Clan_of_the_Gray_Wolf) · [IGDB](https://www.igdb.com/games/genghis-khan-ii-clan-of-the-gray-wolf)
 
 ---
 
@@ -48,9 +60,15 @@
 
 ### Gemfire
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co5ldv.jpg" alt="Gemfire cover" width="200">
+
 **Platforms:** Nintendo Entertainment System, PC-8800 series, PC-9800 series, MSX &nbsp;|&nbsp; **Developer:** Koei &nbsp;|&nbsp; **Publisher:** Koei &nbsp;|&nbsp; **Genre:** Turn-based strategy, role-playing &nbsp;|&nbsp; **Released:** August 29, 1991
 
-[Wikipedia](https://en.wikipedia.org/wiki/Gemfire)
+> Gemfire is a marvelous war strategy from KOEI game collection. The game offers the advanced military strategy and even multiplayer support, but only at the shared screen. The story of the game starts as follows:  Once upon a time, Ishmeria was a haven for elves, fairies and other creatures of lore. Yet one day an evil wizard wielded the powers of a Fire Dragon to destroy the peace. A legendary Pastha and 6 magicians fought the wizard and trapped the Dragon. But, the wizard cast a fateful curse, turning the magicians and Dragon into cold gems, which were placed upon the crown: The Gemfire. Gemfire's powers preserved peace in Ishmeria, until King Eselred abused the magic for his greed. Then one day, the Pastha came to Princess Robyn to plea for her help. That very night she stole the crown and hurled the gems into the midnight sky! But before she could destroy the Dragon's ruby, King Eselred caught Robyn and seized the crown!  In search of virtuous leaders, the magicians flew to the far corners of Ishmeria. Still,to this day, they struggle against Eselred's wrath. The key to saving Ishmeria is in the hands of one ruler, the ruler who will reunite the magic of Gemfire...
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Gemfire) · [IGDB](https://www.igdb.com/games/gemfire)
 
 ---
 
@@ -70,9 +88,15 @@
 
 ### Popful Mail
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co69w2.jpg" alt="Popful Mail cover" width="200">
+
 **Platforms:** PC-8800 series &nbsp;|&nbsp; **Developer:** Nihon Falcom &nbsp;|&nbsp; **Publisher:** Nihon Falcom, Sega, Working Designs, NEC Home Electronics &nbsp;|&nbsp; **Genre:** Action-adventure, platform &nbsp;|&nbsp; **Released:** December 20, 1991
 
-[Wikipedia](https://en.wikipedia.org/wiki/Popful_Mail)
+> Mail is a young, cute, enthusiastic female bounty-hunting elf. Unfortunately, every time a bounty is near, something goes wrong: the last case was particularly painful, involving Mail bravely cutting off the head of a famous criminal - only to realize that his body escaped without the head. Mail tried at least to sell the head in the nearest town, but discovered that the local tavern was full of these heads stored in a basket. But not all is lost: Mail reads a poster that promises a big reward for someone who catches an evil wizard who terrorizes the land. Sounds like just the job Mail was looking for!
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Popful_Mail) · [IGDB](https://www.igdb.com/games/popful-mail)
 
 ---
 
@@ -98,9 +122,15 @@
 
 ### Dragon Knight II
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co6xed.jpg" alt="Dragon Knight II cover" width="200">
+
 **Platforms:** PC-8800 series, PC-9800 series, PC Engine CD &nbsp;|&nbsp; **Developer:** ELF Corporation, TamTam &nbsp;|&nbsp; **Publisher:** ELF Corporation, NEC Avenue &nbsp;|&nbsp; **Genre:** Dungeon crawler, eroge &nbsp;|&nbsp; **Released:** December 20, 1990
 
-[Wikipedia](https://en.wikipedia.org/wiki/Dragon_Knight_II)
+> Dragon Knight II is the predecessor to Knights of Xentar, the only Dragon Knight game that was ever translated into English. This is a first-person game that is mainly dedicated to dungeon exploring. Takeru has to explore the three dungeons, fighting enemies and sometimes talking to dungeon inhabitants. The enemies are the girls who were turned into monsters by Mesaana. In town, Takeru can also buy weapons, armor, and items, and talk to various people.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Dragon_Knight_II) · [IGDB](https://www.igdb.com/games/dragon-knight-ii)
 
 ---
 
@@ -128,33 +158,57 @@
 
 ### L'Empereur
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co9pa0.jpg" alt="L'Empereur cover" width="200">
+
 **Platforms:** MSX, PC-8800 series, PC-9800 series, Sharp X1, Sharp X68000 &nbsp;|&nbsp; **Developer:** Koei &nbsp;|&nbsp; **Publisher:** Koei &nbsp;|&nbsp; **Genre:** Turn-based strategy
 
-[Wikipedia](https://en.wikipedia.org/wiki/L'Empereur)
+> L'Empereur is a turn-based strategy video game for the Nintendo Entertainment System released by the Koei company in 1989.  The user controls Napoleon Bonaparte during the Napoleonic Wars of the late 18th and early 19th Centuries. The goal is to conquer Europe. The game begins with Napoleon as an army officer, but with victories in combat, the user may get promoted to Commander-in-Chief, First Consul, and finally Emperor of the French, with more powers and actions available at each level. As Emperor, the user also controls Napoleon's brothers, Louis, Jérôme, Lucien, and Joseph, as well as Napoleon's stepson, Eugene Beauharnais. The game has both military and civilian aspects. The user can lead armies, act as mayor of cities, and depending on the level achieved, engage in diplomacy with other nations. This historically accurate game reproduces many historical figures and the militaries of Europe with great detail.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/L'Empereur) · [IGDB](https://www.igdb.com/games/lempereur)
 
 ---
 
 ### Tunnels & Trolls: Crusaders of Khazan
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co9uli.jpg" alt="Tunnels & Trolls: Crusaders of Khazan cover" width="200">
+
 **Platforms:** MS-DOS, FM Towns, PC-8800 series, PC-9800 series, Sharp X1, Sharp X68000 &nbsp;|&nbsp; **Developer:** New World Computing, Flying Buffalo, Fiery Dragon Productions &nbsp;|&nbsp; **Publisher:** New World Computing &nbsp;|&nbsp; **Genre:** Role-playing
 
-[Wikipedia](https://en.wikipedia.org/wiki/Tunnels_&_Trolls:_Crusaders_of_Khazan)
+> Explore the world of Crusaders of Khazan with your party from a top-down perspective, roaming wilderness areas, visiting towns, talking to people, receiving quests, and descending into dungeons. Battles take place on a top-down battle screen, on which characters can move freely and attack enemies in turn-based style.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Tunnels_&_Trolls:_Crusaders_of_Khazan) · [IGDB](https://www.igdb.com/games/tunnels-and-trolls-crusaders-of-khazan)
 
 ---
 
 ### Uncharted Waters
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co6oy7.jpg" alt="Uncharted Waters cover" width="200">
+
 **Platforms:** PC-8800 series, Sharp X68000, Super Nintendo Entertainment System &nbsp;|&nbsp; **Developer:** Koei &nbsp;|&nbsp; **Publisher:** Koei &nbsp;|&nbsp; **Genre:** Role-playing &nbsp;|&nbsp; **Released:** May 1990
 
-[Wikipedia](https://en.wikipedia.org/wiki/Uncharted_Waters_(video_game))
+> Uncharted Waters revives a time of romance and adventure; the Age of Exploration. In 1502, ten years after the immortal voyage of Columbus, you assume the role of a young Portuguese captain. Your goal is to attain glory and restore honor to your once noble family name.  This will be no easy task. There are distant shores to seek, pirates to battle, priceless treasures to plunder, and a beautiful princess to rescue! You can realize the dreams of a 16th century explorer in your own way. Play the part of a merchant and barter for precious treasures. Or, play the part of a ruthless pirate and make others pay the price of your fame. You decide your own fate when you embark upon the high seas.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Uncharted_Waters_(video_game)) · [IGDB](https://www.igdb.com/games/uncharted-waters)
 
 ---
 
 ### Xak II: Rising of the Redmoon
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co626n.jpg" alt="Xak II: Rising of the Redmoon cover" width="200">
+
 **Platforms:** FM Towns, MSX, PC-8800 series, PC-9800 series, Sharp X68000, PC Engine &nbsp;|&nbsp; **Developer:** Microcabin &nbsp;|&nbsp; **Publisher:** Microcabin &nbsp;|&nbsp; **Genre:** Action role-playing game
 
-[Wikipedia](https://en.wikipedia.org/wiki/Xak_II:_Rising_of_the_Redmoon)
+> Xak II: Rising of the Redmoon is a Role-Playing game, developed and published by Micro Cabin, which was released in Japan in 1991.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Xak_II:_Rising_of_the_Redmoon) · [IGDB](https://www.igdb.com/games/xak-ii-rising-of-the-redmoon)
 
 ---
 

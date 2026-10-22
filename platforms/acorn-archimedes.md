@@ -34,9 +34,15 @@
 
 ### The Crystal Rainforest
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co3216.jpg" alt="The Crystal Rainforest cover" width="200">
+
 **Platforms:** Acorn Archimedes, Windows, macOS &nbsp;|&nbsp; **Developer:** Sherston Software &nbsp;|&nbsp; **Publisher:** Sherston Software &nbsp;|&nbsp; **Genre:** Educational puzzle game &nbsp;|&nbsp; **Released:** November 1999
 
-[Wikipedia](https://en.wikipedia.org/wiki/The_Crystal_Rainforest)
+> The game takes place on the planet Oglo. In the kingdom of Azon, the last remaining rainforest is being cut down by the antagonistic "Cut and Run Gang". The king of Azon ordered the Cut and Run Gang to stop threatening the rainforest, and is shortly shot by a poison dart. The two protagonists must take part in a variety of settings and activities to retrieve the magical rainforest crystals to save the king and stop the deforestation of the planet.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/The_Crystal_Rainforest) · [IGDB](https://www.igdb.com/games/the-crystal-rainforest)
 
 ---
 
@@ -46,9 +52,15 @@
 
 ### Jump 'n Bump
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2nep.jpg" alt="Jump 'n Bump cover" width="200">
+
 **Platforms:** MS-DOS, Windows, Linux, macOS, Acorn Archimedes &nbsp;|&nbsp; **Developer:** Brainchild Design &nbsp;|&nbsp; **Publisher:** Brainchild Design &nbsp;|&nbsp; **Genre:** Platform
 
-[Wikipedia](https://en.wikipedia.org/wiki/Jump_'n_Bump)
+> Jump! is an Xbox Live Indie platformer, developed by Arkedo Studios, in which the player must collect bombs before they explode.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Jump_'n_Bump) · [IGDB](https://www.igdb.com/games/jump-n-bump)
 
 ---
 
@@ -70,17 +82,29 @@
 
 ### Abuse
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2sfo.jpg" alt="Abuse cover" width="200">
+
 **Platforms:** MS-DOS, Acorn Archimedes &nbsp;|&nbsp; **Developer:** Crack dot Com, Exakt Entertainment &nbsp;|&nbsp; **Publisher:** Electronic Arts, Origin Systems, Bungie &nbsp;|&nbsp; **Genre:** Run and gun &nbsp;|&nbsp; **Released:** March 1996
 
-[Wikipedia](https://en.wikipedia.org/wiki/Abuse_(video_game))
+> Abuse resembles a side-scrolling platform game. The game is marked for its unusual control scheme: The keyboard is used to move Nick, while the mouse is used for aiming the weapons. The basic gameplay consists of fighting various enemies (mostly the various forms of mutants, who prefer to attack in huge swarms) and solving some simple puzzles, most involving switches.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Abuse_(video_game)) · [IGDB](https://www.igdb.com/games/abuse)
 
 ---
 
 ### Heroes of Might and Magic II
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co3w52.jpg" alt="Heroes of Might and Magic II cover" width="200">
+
 **Platforms:** MS-DOS, Windows, Acorn Archimedes &nbsp;|&nbsp; **Developer:** New World Computing &nbsp;|&nbsp; **Publisher:** The 3DO Company &nbsp;|&nbsp; **Genre:** Turn-based strategy &nbsp;|&nbsp; **Released:** October 1, 1996
 
-[Wikipedia](https://en.wikipedia.org/wiki/Heroes_of_Might_and_Magic_II)
+> Heroes of Might and Magic II: The Succession Wars is a turn-based strategy video game developed by Jon Van Caneghem through New World Computing and published in 1996 by the 3DO Company. The game is the second installment of the Heroes of Might and Magic series and is typically credited as the breakout game for the series. Heroes II was voted the sixth-best PC game of all time by PC Gamer in May 1997.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Heroes_of_Might_and_Magic_II) · [IGDB](https://www.igdb.com/games/heroes-of-might-and-magic-ii-the-succession-wars)
 
 ---
 
@@ -102,9 +126,15 @@
 
 ### Star Fighter
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co40ak.jpg" alt="Star Fighter cover" width="200">
+
 **Platforms:** Acorn Archimedes &nbsp;|&nbsp; **Developer:** Fednet, Krisalis, Acclaim Entertainment &nbsp;|&nbsp; **Genre:** Space simulation
 
-[Wikipedia](https://en.wikipedia.org/wiki/Star_Fighter_(video_game))
+> Star Fighter or Star Fighter 3000 is a 3D flight-based shoot-em-up. The gameplay is mission based and involves elements of strategy and planning. The player can order wingmen to fly in formation and attack specific targets.  How Much Can You Score?  Features: Battle system 2 kind of enemy ships Hiscore Save Each Level more enemys spawn Soundtrack Competitive game play
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Star_Fighter_(video_game)) · [IGDB](https://www.igdb.com/games/star-fighter)
 
 ---
 
@@ -136,9 +166,15 @@
 
 ### Diggers
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co25yy.jpg" alt="Diggers cover" width="200">
+
 **Platforms:** Amiga, Amiga CD32, Acorn Archimedes, MS-DOS &nbsp;|&nbsp; **Developer:** Millennium Interactive &nbsp;|&nbsp; **Publisher:** Millennium Interactive &nbsp;|&nbsp; **Genre:** Puzzle
 
-[Wikipedia](https://en.wikipedia.org/wiki/Diggers_(video_game))
+> Diggers is a Lemmings-style puzzle game where you command five alien miners (from a choice of four clans) and various gadgets to dig for treasure. The game is divided in excavation areas. Each area has a set amount of money you must raise before moving into the next one. To do so, you must sell your collected treasure to the bank.  You select your "Diggers" by clicking on them with the left mouse button, and making them do a desired action by right-clicking on the screen and choosing from a icon menu.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Diggers_(video_game)) · [IGDB](https://www.igdb.com/games/diggers)
 
 ---
 
@@ -186,17 +222,29 @@
 
 ### The Chaos Engine
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co3qco.jpg" alt="The Chaos Engine cover" width="200">
+
 **Platforms:** Amiga, Atari ST, Amiga CD32, MS-DOS, Acorn Archimedes, Genesis / Mega Drive, Super Nintendo Entertainment System, Mobile phone, Windows, macOS, Linux &nbsp;|&nbsp; **Developer:** The Bitmap Brothers &nbsp;|&nbsp; **Publisher:** Renegade Software &nbsp;|&nbsp; **Genre:** Run and gun &nbsp;|&nbsp; **Released:** March 16, 1993
 
-[Wikipedia](https://en.wikipedia.org/wiki/The_Chaos_Engine)
+> Soldiers of Fortune (Chaos Engine in the EU) is a run-and-gun overhead shooter. Sixteen levels (in four groups of four) await the players in the game. The basic gameplay is in an open air setting, with bridges across rivers and other features in the maps. The visuals are in a 'metallic and blue' style. There are six characters available in the game, each with different strengths and weaknesses, and different starting prices.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/The_Chaos_Engine) · [IGDB](https://www.igdb.com/games/soldiers-of-fortune)
 
 ---
 
 ### The Dungeon
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co88gd.jpg" alt="The Dungeon cover" width="200">
+
 **Platforms:** Acorn Archimedes &nbsp;|&nbsp; **Developer:** Martin Dennett, John Parker, David Postlethwaite, Gordon J. Key &nbsp;|&nbsp; **Publisher:** The Fourth Dimension &nbsp;|&nbsp; **Genre:** First-person, Role-playing
 
-[Wikipedia](https://en.wikipedia.org/wiki/The_Dungeon_(1993_video_game))
+> The Dungeon is a single player real-time role-playing video game featuring a 3D first-person perspective with texture mapping.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/The_Dungeon_(1993_video_game)) · [IGDB](https://www.igdb.com/games/the-dungeon--2)
 
 ---
 
@@ -206,9 +254,11 @@
 
 ### Dreadnoughts
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/hfbbl3nhmbvjkghalm9u.jpg" alt="Dreadnoughts cover" width="200">
+
 **Platforms:** Amiga, Atari ST, Acorn Archimedes, MS-DOS &nbsp;|&nbsp; **Developer:** Dr. Peter Turcan &nbsp;|&nbsp; **Publisher:** Turcan Research Systems &nbsp;|&nbsp; **Genre:** Ship simulation, strategy
 
-[Wikipedia](https://en.wikipedia.org/wiki/Dreadnoughts_(video_game))
+[Wikipedia](https://en.wikipedia.org/wiki/Dreadnoughts_(video_game)) · [IGDB](https://www.igdb.com/games/dreadnoughts)
 
 ---
 
@@ -222,9 +272,15 @@
 
 ### Global Effect
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co9en7.jpg" alt="Global Effect cover" width="200">
+
 **Platforms:** Acorn Archimedes, Amiga, Amiga CD32, Atari ST, MS-DOS &nbsp;|&nbsp; **Developer:** Millennium Interactive Ltd. &nbsp;|&nbsp; **Publisher:** Millennium Interactive Ltd. &nbsp;|&nbsp; **Genre:** Strategy
 
-[Wikipedia](https://en.wikipedia.org/wiki/Global_Effect)
+> Global Effect involves building up a sound local economy before going out to attack other nations and rule the world. Cities must contain housing, food sources and power supplies, which is where it gets complicated. You can choose the environmental settings of the game, in a similar way to Civilization - an icy world or a post-apocalyptic one make things much tougher.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Global_Effect) · [IGDB](https://www.igdb.com/games/global-effect)
 
 ---
 
@@ -238,9 +294,15 @@
 
 ### Premier Manager
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/czjbb9obj3u66bij9jti.jpg" alt="Premier Manager cover" width="200">
+
 **Platforms:** Amiga, Atari ST, Acorn Archimedes, MS-DOS, Genesis / Mega Drive &nbsp;|&nbsp; **Developer:** Realms of Fantasy, Gremlin Interactive &nbsp;|&nbsp; **Publisher:** Gremlin Interactive &nbsp;|&nbsp; **Genre:** Sports, simulation
 
-[Wikipedia](https://en.wikipedia.org/wiki/Premier_Manager_(video_game))
+> Premier Manager is a football management game released for the Sega Mega Drive exclusively in Europe. It was followed by Premier Manager 97.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Premier_Manager_(video_game)) · [IGDB](https://www.igdb.com/games/premier-manager)
 
 ---
 
@@ -266,9 +328,15 @@
 
 ### 3D Construction Kit
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co4o7f.jpg" alt="3D Construction Kit cover" width="200">
+
 **Platforms:** Acorn Archimedes, Amiga, Amstrad CPC, Atari ST, Commodore 64, MS-DOS, ZX Spectrum &nbsp;|&nbsp; **Developer:** Incentive Software &nbsp;|&nbsp; **Publisher:** Domark, Incentive Software &nbsp;|&nbsp; **Genre:** Game creation system &nbsp;|&nbsp; **Released:** May 29, 1991
 
-[Wikipedia](https://en.wikipedia.org/wiki/3D_Construction_Kit)
+> 3D Construction Kit (US, Canada and Israel release title: Virtual Reality Studio[3]), also known as 3D Virtual Studio, is a utility for creating 3D worlds in Freescape. Developed by Incentive Software and published by Domark, it was released in 1991 on multiple platforms.  The game originally retailed for £24.99 for the 8-bit version, and £49.99 for 16-bit version, in the United Kingdom. A sequel, 3D Construction Kit II, was released in 1992, but only available on Amiga, Atari ST and MS-DOS.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/3D_Construction_Kit) · [IGDB](https://www.igdb.com/games/3d-construction-kit)
 
 ---
 
@@ -302,17 +370,29 @@
 
 ### Heimdall
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co6zqg.jpg" alt="Heimdall cover" width="200">
+
 **Platforms:** Amiga, Acorn Archimedes &nbsp;|&nbsp; **Developer:** The 8th Day &nbsp;|&nbsp; **Publisher:** Core Design, Virgin Games &nbsp;|&nbsp; **Genre:** Action role-playing
 
-[Wikipedia](https://en.wikipedia.org/wiki/Heimdall_(video_game))
+> Heimdall is an action-adventure computer game developed by a team called The 8th Day and published by Core Design.  The game is set in the world of Vikings and Norse mythology. Loki steals Odin's sword, Freyr's spear and Thor's hammer, rendering them powerless. They decide to create an infant, the title character (named after the god of the same name), who must bring back the three legendary weapons.  The game sees Heimdall and his crew travelling around an archipelago of islands in three different maps: Utgard, Midgard and Asgard. They travel engaging monsters in combat, interacting with the locals, solving puzzles and avoiding traps, a blend of styles somewhat similar to that found in the Legend of Zelda games. The cartoon-style action is viewed in the isometric perspective.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Heimdall_(video_game)) · [IGDB](https://www.igdb.com/games/heimdall)
 
 ---
 
 ### James Pond 2
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co84wq.jpg" alt="James Pond 2 cover" width="200">
+
 **Platforms:** Amiga, Atari ST, Genesis / Mega Drive, Commodore 64, Acorn Archimedes, MS-DOS, Game Gear, Game Boy, Sega Master System, Super Nintendo Entertainment System &nbsp;|&nbsp; **Developer:** Vectordean, Intellectual Software Consultants Limited &nbsp;|&nbsp; **Publisher:** Millennium Interactive, Electronic Arts, U.S. Gold, Play It &nbsp;|&nbsp; **Genre:** Platform
 
-[Wikipedia](https://en.wikipedia.org/wiki/James_Pond_2)
+> In his second adventure James Pond must retrieve the toys Dr Maybe has stolen. Pond has been armed with an Inspector Gadget-style stretch device, which he can use to view higher areas or claw onto ceilings so as to slide across them.  The gameplay takes place across worlds themed around particular types of toys, such as sporting goods, candy and aircraft. The levels scroll sideways, although a small amount of vertical movement is included. On each level Pond must collect 2 penguins and reach the exit, although there are usually multiple exits and lots of secret areas to explore. After completing each pair of two worlds (each of which has three sub levels), a boss must be faced.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/James_Pond_2) · [IGDB](https://www.igdb.com/games/james-pond-2-codename-robocod)
 
 ---
 
@@ -346,17 +426,25 @@
 
 ### Manchester United Europe
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/cocvn9.jpg" alt="Manchester United Europe cover" width="200">
+
 **Platforms:** Amiga, Acorn Archimedes, Amstrad CPC, Atari ST, Commodore 64, ZX Spectrum &nbsp;|&nbsp; **Developer:** Krisalis Software &nbsp;|&nbsp; **Publisher:** Krisalis Software &nbsp;|&nbsp; **Genre:** Sports
 
-[Wikipedia](https://en.wikipedia.org/wiki/Manchester_United_Europe)
+> Play your favourite team as they make their way through the European Football championships. You can either select your team and let the computer's AI battle out each match, or take over control of the players and put the ball in the back of the net yourself.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Manchester_United_Europe) · [IGDB](https://www.igdb.com/games/manchester-united-europe)
 
 ---
 
 ### MiG-29M Super Fulcrum
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/cobmwb.jpg" alt="MiG-29M Super Fulcrum cover" width="200">
+
 **Platforms:** Acorn Archimedes, Amiga, Atari ST, MS-DOS &nbsp;|&nbsp; **Publisher:** Domark &nbsp;|&nbsp; **Genre:** Combat flight simulator
 
-[Wikipedia](https://en.wikipedia.org/wiki/MiG-29M_Super_Fulcrum)
+[Wikipedia](https://en.wikipedia.org/wiki/MiG-29M_Super_Fulcrum) · [IGDB](https://www.igdb.com/games/mig-29m-super-fulcrum)
 
 ---
 
@@ -364,7 +452,11 @@
 
 **Platforms:** Acorn Archimedes &nbsp;|&nbsp; **Developer:** Network 23 &nbsp;|&nbsp; **Publisher:** Computer Tutorial Services &nbsp;|&nbsp; **Genre:** Shoot 'em up
 
-[Wikipedia](https://en.wikipedia.org/wiki/Provocator)
+> You play the role of the last fighter pilot remaining and must protect a convoy of HUGE spaceships from 32 waves of attacking aliens.  Several ships in the convoy have forest domes that supply the fleet with food and oxygen. The player is tasked with protecting these domes from alien squadrons that launch increasingly frequent attacks on them. When a dome is under attack, a warning sound alerts the player to the threat and if it isn't met within 15 seconds, the dome is permanently destroyed. If all the forest domes are destroyed, the fate of the convoy is sealed and the game ends.    The game grants the player freedom to move around the convoy at will, but collision with any part of the fleet results in the loss of a life. Familiarity with the convoy layout is paramount to protecting it. Upon completion of a level the player is instructed to carefully dock with the largest ship in the fleet to re-fuel. Once successfully docked, bonus points are awarded for every dome left intact.    A radar at the top of the screen shows the fleet in its entirety, allowing the player to track alien movement and help navigate.    The game's 32 levels are split into 3 acts (or 'phases') Once a phase has been completed, the player is rewarded with a still postcard style snapshot of a ship in the fleet.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Provocator) · [IGDB](https://www.igdb.com/games/provocator)
 
 ---
 
@@ -392,9 +484,15 @@
 
 ### Top Banana
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2rpn.jpg" alt="Top Banana cover" width="200">
+
 **Platforms:** Acorn Archimedes, Amiga CDTV, Atari ST &nbsp;|&nbsp; **Publisher:** Hex &nbsp;|&nbsp; **Genre:** Platform
 
-[Wikipedia](https://en.wikipedia.org/wiki/Top_Banana_(video_game))
+> Top Banana is a bizarre platformer with an environmental theme.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Top_Banana_(video_game)) · [IGDB](https://www.igdb.com/games/top-banana)
 
 ---
 
@@ -412,9 +510,15 @@
 
 ### Chocks Away
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/cobmxj.jpg" alt="Chocks Away cover" width="200">
+
 **Platforms:** Acorn Archimedes &nbsp;|&nbsp; **Developer:** Andrew Hutchings &nbsp;|&nbsp; **Publisher:** The Fourth Dimension &nbsp;|&nbsp; **Genre:** Combat flight simulator
 
-[Wikipedia](https://en.wikipedia.org/wiki/Chocks_Away)
+> Chocks Away is a flight simulation game for the Acorn Archimedes. It was written by Andrew Hutchings and published by The Fourth Dimension. The game is loosely set in the First World War, though many elements are simplified and anachronistic.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Chocks_Away) · [IGDB](https://www.igdb.com/games/chocks-away)
 
 ---
 
@@ -434,25 +538,43 @@
 
 ### Loopz
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co3c9g.jpg" alt="Loopz cover" width="200">
+
 **Platforms:** Atari ST, Acorn Archimedes, Acorn Electron, Amiga, Amstrad CPC, BBC Micro, Commodore 64, MS-DOS, Game Boy, Atari Lynx, Nintendo Entertainment System, PC-9800 series, ZX Spectrum, Sharp X68000 &nbsp;|&nbsp; **Developer:** Audiogenic &nbsp;|&nbsp; **Publisher:** Mindscape &nbsp;|&nbsp; **Genre:** Puzzle
 
-[Wikipedia](https://en.wikipedia.org/wiki/Loopz)
+> Loopz is a puzzle video game originally designed and programmed by Ian Upton for the Atari ST in 1989. He previously worked as head game designer for Audiogenic, who acquired exclusive rights to the game, then in 1990 arranged for Mindscape to publish it for computers in North America and consoles worldwide.  The Nintendo Entertainment System version (programmed by Bits Studios) and the Game Boy version (programmed by Argonaut Software) were released in 1990. Audiogenic published versions of the original game for the Acorn Electron, BBC Micro, ZX Spectrum, Amstrad CPC, Commodore 64, Atari ST, Amiga, and IBM PC in 1990 and 1991.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Loopz) · [IGDB](https://www.igdb.com/games/loopz)
 
 ---
 
 ### Mad Professor Mariarti
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/cock7b.jpg" alt="Mad Professor Mariarti cover" width="200">
+
 **Platforms:** Acorn Archimedes, Amiga, Atari ST &nbsp;|&nbsp; **Developer:** Krisalis Software &nbsp;|&nbsp; **Publisher:** Krisalis Software &nbsp;|&nbsp; **Genre:** Puzzle-platform
 
-[Wikipedia](https://en.wikipedia.org/wiki/Mad_Professor_Mariarti)
+> A puzzle-platformer for home computers. The eponymous professor needs to shut down his wayward laboratory experiments before the authorities find out and have him committed.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/Mad_Professor_Mariarti) · [IGDB](https://www.igdb.com/games/mad-professor-mariarti)
 
 ---
 
 ### MiG-29 Fulcrum
 
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co5xpv.jpg" alt="MiG-29 Fulcrum cover" width="200">
+
 **Platforms:** Acorn Archimedes, Amiga, Atari ST, MS-DOS &nbsp;|&nbsp; **Developer:** Simis &nbsp;|&nbsp; **Publisher:** Domark &nbsp;|&nbsp; **Genre:** Combat flight simulator
 
-[Wikipedia](https://en.wikipedia.org/wiki/MiG-29_Fulcrum_(1990_video_game))
+> The MiG-29 plane, nicknamed Fulcrum by the West, features in this flight simulation, professionally modeled by former British Aerospace flight simulator designers. You are armed with cannons, rockets, and Air-to-Air and Air-to-Ground missiles. Aerodynamics, blackouts, and physics are all recreated. There are six missions to take on, starting with your basic training.
+>
+> _Synopsis source: IGDB_
+
+[Wikipedia](https://en.wikipedia.org/wiki/MiG-29_Fulcrum_(1990_video_game)) · [IGDB](https://www.igdb.com/games/mig-29-fulcrum)
 
 ---
 
